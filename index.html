@@ -1,0 +1,609 @@
+<title>Stadium Wire</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Zen+Kaku+Gothic+New:wght@400;500;700;900&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+  :root{
+    --ink:#16181D;
+    --ink-soft:#4B5262;
+    --ink-faint:#818A99;
+    --paper:#F2F4F3;
+    --surface:#FFFFFF;
+    --surface-2:#E7EAEB;
+    --line:#DCE0E3;
+    --navy:#122040;
+    --navy-2:#1B2E54;
+    --accent:#E3A008;
+    --accent-text:#8A5A00;
+    --live:#1E9E64;
+    --shadow: 0 1px 2px rgba(18,32,64,0.06), 0 6px 20px rgba(18,32,64,0.06);
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --ink:#E9EBF0;
+      --ink-soft:#A6ADBB;
+      --ink-faint:#6C7482;
+      --paper:#0B0F17;
+      --surface:#121826;
+      --surface-2:#1A2233;
+      --line:#252E40;
+      --navy:#0B1220;
+      --navy-2:#111A2E;
+      --accent:#F0B429;
+      --accent-text:#FFCB66;
+      --live:#34D399;
+      --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 24px rgba(0,0,0,0.35);
+    }
+  }
+  :root[data-theme="dark"]{
+    --ink:#E9EBF0;
+    --ink-soft:#A6ADBB;
+    --ink-faint:#6C7482;
+    --paper:#0B0F17;
+    --surface:#121826;
+    --surface-2:#1A2233;
+    --line:#252E40;
+    --navy:#0B1220;
+    --navy-2:#111A2E;
+    --accent:#F0B429;
+    --accent-text:#FFCB66;
+    --live:#34D399;
+    --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 24px rgba(0,0,0,0.35);
+  }
+
+  *{ box-sizing:border-box; }
+  body{
+    background:var(--paper);
+    color:var(--ink);
+    font-family:"Zen Kaku Gothic New","IBM Plex Sans",sans-serif;
+    line-height:1.6;
+  }
+  a{ color:inherit; }
+  :focus-visible{ outline:2px solid var(--accent-text); outline-offset:2px; }
+
+  .en{ font-family:"IBM Plex Sans",sans-serif; }
+  .mono{ font-family:"IBM Plex Mono",monospace; font-variant-numeric:tabular-nums; }
+  .brand-mark{ font-family:"Anton",sans-serif; }
+
+  /* ---------- header ---------- */
+  header.site{
+    background: linear-gradient(180deg, var(--navy), var(--navy-2));
+    color:#F4F6FA;
+    padding: 18px clamp(14px,3vw,32px) 16px;
+  }
+  .header-row{
+    display:flex; align-items:flex-end; justify-content:space-between; gap:16px; flex-wrap:wrap;
+  }
+  .brand{ display:flex; flex-direction:column; gap:2px; }
+  .brand-name{
+    font-family:"Anton",sans-serif;
+    font-size:clamp(28px,4vw,40px);
+    letter-spacing:0.5px;
+    line-height:1;
+    color:#F4F6FA;
+  }
+  .brand-name span{ color:var(--accent); }
+  .brand-tagline{
+    font-size:12.5px; color:#B9C2D4; letter-spacing:0.04em;
+  }
+  .status-cluster{
+    display:flex; align-items:center; gap:18px; flex-wrap:wrap;
+  }
+  .live-pill{
+    display:flex; align-items:center; gap:7px;
+    font-size:12px; letter-spacing:0.08em; color:#CFE9DA;
+    background:rgba(30,158,100,0.14);
+    border:1px solid rgba(52,211,153,0.35);
+    padding:5px 10px 5px 8px; border-radius:999px;
+  }
+  .live-dot{
+    width:7px; height:7px; border-radius:50%; background:var(--live);
+    box-shadow:0 0 0 0 rgba(52,211,153,0.6);
+  }
+  @media (prefers-reduced-motion:no-preference){
+    .live-dot{ animation:pulse 2s ease-in-out infinite; }
+  }
+  @keyframes pulse{
+    0%{ box-shadow:0 0 0 0 rgba(52,211,153,0.55); }
+    70%{ box-shadow:0 0 0 7px rgba(52,211,153,0); }
+    100%{ box-shadow:0 0 0 0 rgba(52,211,153,0); }
+  }
+  .updated-text{ font-size:12.5px; color:#B9C2D4; }
+  .updated-text b{ color:#F4F6FA; font-weight:600; }
+
+  /* ---------- scoreboard tally ---------- */
+  .tally-wrap{
+    background:var(--navy);
+    border-top:1px solid rgba(255,255,255,0.06);
+    overflow-x:auto;
+  }
+  .tally{
+    display:flex; gap:1px; min-width:max-content;
+    padding:0 clamp(14px,3vw,32px);
+  }
+  .tally-tile{
+    all:unset; cursor:pointer;
+    display:flex; flex-direction:column; align-items:flex-start; gap:2px;
+    padding:10px 16px 12px; min-width:92px;
+    border-bottom:3px solid transparent;
+    color:#C7D0E0;
+  }
+  .tally-tile:hover{ background:rgba(255,255,255,0.05); }
+  .tally-tile[aria-pressed="true"]{
+    border-bottom-color:var(--accent); color:#fff;
+  }
+  .tally-label{ font-size:11.5px; letter-spacing:0.03em; white-space:nowrap; }
+  .tally-count{ font-family:"IBM Plex Mono",monospace; font-variant-numeric:tabular-nums; font-size:20px; font-weight:600; color:var(--accent); }
+  .tally-tile[aria-pressed="true"] .tally-count{ color:#FFD873; }
+
+  /* ---------- controls ---------- */
+  .controls{
+    display:flex; align-items:center; gap:10px; flex-wrap:wrap;
+    padding:16px clamp(14px,3vw,32px) 6px;
+  }
+  .chip{
+    all:unset; cursor:pointer; font-size:13px;
+    padding:7px 13px; border-radius:999px;
+    border:1px solid var(--line); background:var(--surface); color:var(--ink-soft);
+  }
+  .chip:hover{ border-color:var(--ink-faint); }
+  .chip[aria-pressed="true"]{
+    background:var(--accent); border-color:var(--accent); color:#241800; font-weight:600;
+  }
+  .search-box{
+    margin-left:auto; position:relative; min-width:200px; flex:0 1 260px;
+  }
+  .search-box input{
+    width:100%; font:inherit; font-size:13.5px;
+    padding:9px 12px 9px 32px; border-radius:999px;
+    border:1px solid var(--line); background:var(--surface); color:var(--ink);
+  }
+  .search-box input::placeholder{ color:var(--ink-faint); }
+  .search-box svg{ position:absolute; left:11px; top:50%; transform:translateY(-50%); opacity:0.55; }
+
+  .result-line{
+    padding:6px clamp(14px,3vw,32px) 4px; font-size:12.5px; color:var(--ink-faint);
+  }
+
+  /* ---------- grid ---------- */
+  main{ padding:8px clamp(14px,3vw,32px) 40px; }
+  .grid{
+    display:grid; gap:16px;
+    grid-template-columns:repeat(auto-fill, minmax(300px,1fr));
+  }
+  .card{
+    background:var(--surface); border:1px solid var(--line); border-radius:10px;
+    padding:16px 17px 14px; box-shadow:var(--shadow);
+    display:flex; flex-direction:column; gap:10px;
+  }
+  .card-top{ display:flex; align-items:center; gap:6px; flex-wrap:wrap; }
+  .badge-sport{
+    font-size:11px; font-weight:700; letter-spacing:0.02em;
+    background:var(--navy); color:var(--accent);
+    padding:3px 9px; border-radius:5px;
+  }
+  .badge-topic{
+    font-size:11px; color:var(--ink-soft);
+    background:var(--surface-2); padding:3px 8px; border-radius:5px;
+  }
+  .card-titles{ display:flex; flex-direction:column; gap:3px; }
+  .title-ja{ font-size:16.5px; font-weight:700; line-height:1.45; }
+  .title-en{ font-family:"IBM Plex Sans",sans-serif; font-style:italic; font-size:12.5px; color:var(--ink-faint); line-height:1.4; }
+  .summary-ja{ font-size:13.8px; color:var(--ink); }
+  .summary-en{ font-family:"IBM Plex Sans",sans-serif; font-size:12.5px; color:var(--ink-soft); padding-top:8px; border-top:1px dashed var(--line); }
+  .card-foot{
+    margin-top:auto; padding-top:10px; border-top:1px solid var(--line);
+    display:flex; align-items:center; justify-content:space-between; gap:8px; flex-wrap:wrap;
+  }
+  .source-line{ font-size:12px; color:var(--ink-faint); }
+  .source-line b{ color:var(--ink-soft); font-weight:600; }
+  .read-link{
+    font-size:12.5px; font-weight:600; color:var(--accent-text);
+    text-decoration:none; white-space:nowrap;
+  }
+  .read-link:hover{ text-decoration:underline; }
+
+  .empty{
+    grid-column:1/-1; text-align:center; padding:60px 20px; color:var(--ink-faint); font-size:14px;
+  }
+
+  .load-more-wrap{ display:flex; justify-content:center; padding-top:22px; }
+  .load-more{
+    all:unset; cursor:pointer; font-size:13.5px; font-weight:600;
+    padding:10px 22px; border-radius:999px; border:1px solid var(--line);
+    background:var(--surface); color:var(--ink-soft);
+  }
+  .load-more:hover{ border-color:var(--ink-faint); color:var(--ink); }
+
+  footer.site{
+    padding:20px clamp(14px,3vw,32px) 32px; color:var(--ink-faint); font-size:12px;
+    border-top:1px solid var(--line);
+  }
+  footer.site p{ max-width:70ch; }
+</style>
+
+<header class="site">
+  <div class="header-row">
+    <div class="brand">
+      <div class="brand-name">STADIUM <span>WIRE</span></div>
+      <div class="brand-tagline en">World sports business, tech &amp; sponsorship — hourly wire</div>
+    </div>
+    <div class="status-cluster">
+      <span class="live-pill"><span class="live-dot"></span>LIVE</span>
+      <span class="updated-text">最終更新: <b id="updatedAt">—</b> ・ 収録記事 <b id="totalCount" class="mono">0</b> 件</span>
+    </div>
+  </div>
+</header>
+
+<div class="tally-wrap">
+  <div class="tally" id="tally"></div>
+</div>
+
+<div class="controls" id="topicChips"></div>
+<div class="controls" style="padding-top:0;">
+  <div class="search-box">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    <input id="searchInput" type="text" placeholder="チーム名・企業名・キーワードで検索" autocomplete="off">
+  </div>
+</div>
+<div class="result-line" id="resultLine"></div>
+
+<main>
+  <div class="grid" id="grid"></div>
+  <div class="load-more-wrap" id="loadMoreWrap" hidden>
+    <button class="load-more" id="loadMoreBtn">もっと見る</button>
+  </div>
+</main>
+
+<footer class="site">
+  <p>各記事はStadium Wireが世界の主要メディア報道をもとに独自に要約したものです。詳細・引用元の全文は「元記事を読む」リンク先でご確認ください。記事は毎時自動収集され、このページ自体が更新のたびに再生成・再公開されています。</p>
+  <p class="en">Every summary here is Stadium Wire's own condensation of reporting from outlets worldwide — follow "Read original" for the full source article. New items are collected hourly, and this page is regenerated and republished with each update.</p>
+</footer>
+
+<script>
+(function(){
+  "use strict";
+
+  const SPORTS = [
+    {key:"all", ja:"すべて"},
+    {key:"soccer", ja:"サッカー"},
+    {key:"baseball", ja:"野球"},
+    {key:"basketball", ja:"バスケ"},
+    {key:"football", ja:"アメフト"},
+    {key:"olympics", ja:"五輪/複数競技"},
+    {key:"esports", ja:"eスポーツ"},
+    {key:"motorsports", ja:"モータースポーツ"},
+    {key:"general", ja:"業界全体"},
+  ];
+  const TOPICS = [
+    {key:"team", ja:"チーム動向"},
+    {key:"tech", ja:"テクノロジー"},
+    {key:"stadium", ja:"スタジアム"},
+    {key:"fan", ja:"ファンマーケティング"},
+    {key:"sponsor", ja:"スポンサーシップ"},
+    {key:"biz", ja:"ビジネス/経営"},
+  ];
+  const SPORT_LABEL = Object.fromEntries(SPORTS.map(s=>[s.key,s.ja]));
+  const TOPIC_LABEL = Object.fromEntries(TOPICS.map(t=>[t.key,t.ja]));
+
+  // ARTICLES: the site's full dataset, embedded directly in this page.
+  // The hourly update task edits this array in place, then republishes this file.
+  const ARTICLES_DATA = [
+    {id:"sportico-transactions-0904", sport:"general", topics:["biz","team"], published_at:"2026-09-04T12:00:00Z",
+      title_ja:"スポーツ業界マンデー・ラウンドアップ:人事異動とM&A(9月4日号)", title_en:"Sports Business Moves & Mergers Roundup (Sept. 4)",
+      summary_ja:"Sporticoが毎週まとめる業界動向ラウンドアップ。放送局やエージェンシー、球団経営陣における人事異動、買収・提携の最新ニュースを一括でチェックできる定番コーナー。",
+      summary_en:"Sportico's weekly digest rounds up the latest executive moves, acquisitions and partnerships across broadcasting, agencies and team ownership — a quick way to scan the industry's churn.",
+      source_name:"Sportico", source_url:"https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-sept-4-2026-1234943968/"},
+    {id:"sportico-nfl-valuations-2026", sport:"football", topics:["biz","team"], published_at:"2026-08-05T12:00:00Z",
+      title_ja:"NFL球団価値ランキング2026:カウボーイズが1位、平均31%増", title_en:"NFL Franchise Valuations 2026: Cowboys Lead at $15B, Average Up 31%",
+      summary_ja:"Sporticoの最新算定によるとNFL32球団の平均価値は前年比31%増。ダラス・カウボーイズが約150億ドルでトップを維持し、リーグ全体の合計は2990億ドルに達した。",
+      summary_en:"Sportico's latest valuations show the average NFL team now worth $9.34B, up 31% year over year. The Cowboys remain the league's most valuable franchise at roughly $15B, with all 32 teams combined worth $299B.",
+      source_name:"Sportico", source_url:"https://www.sportico.com/valuations/teams/2026/nfl-team-values-2026-dallas-cowboys-los-angeles-rams-1234941607/"},
+    {id:"sportico-mlb-valuations-2026", sport:"baseball", topics:["biz","team"], published_at:"2026-03-15T12:00:00Z",
+      title_ja:"MLB球団価値2026:ヤンキース・ドジャースが90億ドル超え", title_en:"MLB Team Values 2026: Yankees, Dodgers Both Top $9 Billion",
+      summary_ja:"Sporticoによる2026年MLB球団価値算定で、平均価値は前年比12%増の31.7億ドルとなり算定開始以来最大の伸び率を記録。ヤンキースはYESネットワーク関連事業を含め94億ドルでトップを維持した。",
+      summary_en:"Sportico's 2026 MLB valuations put the average franchise at $3.17B, up 12% — the biggest jump since the rankings launched in 2021. The Yankees lead at $9.4B, including their stake in the YES Network.",
+      source_name:"Sportico", source_url:"https://www.sportico.com/valuations/teams/2026/mlb-team-values-2026-yankees-dodgers-1234887564/"},
+    {id:"cnbc-mlb-valuations-2026", sport:"baseball", topics:["biz","team"], published_at:"2026-03-13T12:00:00Z",
+      title_ja:"CNBC版MLB球団価値2026、30球団の序列は", title_en:"CNBC's Official MLB Team Valuations 2026: How the 30 Franchises Stack Up",
+      summary_ja:"CNBCが独自算定したMLB30球団の価値ランキングを公開。放送収入や不動産事業を含めた総合評価で、上位球団の資産価値が軒並み過去最高を更新している。",
+      summary_en:"CNBC published its own ranking of all 30 MLB franchises, folding in broadcast revenue and real-estate ventures — with valuations at the top of the list hitting fresh records across the board.",
+      source_name:"CNBC", source_url:"https://www.cnbc.com/2026/03/13/cnbcs-official-mlb-team-valuations-2026-how-30-franchises-stack-up.html"},
+    {id:"sportspro-european-club-revenue-30bn", sport:"soccer", topics:["biz"], published_at:"2026-02-10T12:00:00Z",
+      title_ja:"欧州サッカークラブの収益、300億ユーロ突破へ", title_en:"European Club Revenue Set to Top €30bn",
+      summary_ja:"欧州トップリーグに所属するクラブの年間収益は2025年に過去最高の286億ユーロを記録し、放映権や商業収入の伸びを背景に2026年には300億ユーロを超える見通しとなっている。",
+      summary_en:"Clubs in Europe's top soccer divisions posted record revenue of €28.6bn in 2025, and analysts expect the figure to clear €30bn in 2026 on the back of rising broadcast and commercial income.",
+      source_name:"SportsPro", source_url:"https://www.sportspro.com/news/finance-investment/european-football-uefa-revenue-finances-chelsea-premier-league-tv-rights-february-2026/"},
+    {id:"cnbc-american-owners-british-soccer", sport:"soccer", topics:["team","biz"], published_at:"2026-07-29T12:00:00Z",
+      title_ja:"米富裕層による英サッカークラブ買収が加速", title_en:"Why America's Super-Rich Have Embraced British Soccer Clubs",
+      summary_ja:"北米の投資家がプレミアリーグの支配株の過半数を握る状況となり、2025年に取引された29件の経営権売買のうち3分の1を北米勢が占めた。複数クラブ保有ネットワークの拡大も、その多くを米国資本が主導している。",
+      summary_en:"North American investors now control more than half of Premier League clubs by ownership stake, accounting for a third of the 29 controlling-stake sales in 2025 — and driving much of the growth in multi-club ownership networks.",
+      source_name:"CNBC", source_url:"https://www.cnbc.com/2026/07/29/why-america-super-rich-love-football-clubs-british.html"},
+    {id:"sportico-inter-miami-nu-naming-rights", sport:"soccer", topics:["stadium","sponsor"], published_at:"2026-03-16T12:00:00Z",
+      title_ja:"インテル・マイアミがブラジルの金融アプリ「Nu」と命名権契約", title_en:"Inter Miami, Nu Sign One of MLS' Largest Stadium Naming Rights Deals",
+      summary_ja:"MLSのインテル・マイアミは、ブラジルのデジタル金融サービス企業Nuと複数年のスタジアム命名権契約を締結。本拠地は「Nuスタジアム」に改称され、ユニフォーム背中にもロゴが入る。",
+      summary_en:"MLS side Inter Miami has signed a multi-year stadium naming rights deal with Brazilian digital finance company Nu, renaming its home venue Nu Stadium and adding the brand's logo to the back of its jerseys.",
+      source_name:"Sportico", source_url:"https://www.sportico.com/business/sponsorship/2026/nu-bank-inter-miami-mls-stadium-naming-rights-1234886243/"},
+    {id:"arkansas-communityamerica-naming-rights", sport:"football", topics:["stadium","sponsor"], published_at:"2026-06-25T12:00:00Z",
+      title_ja:"アーカンソー大、スタジアム命名権で7000万ドルの大型契約", title_en:"Arkansas Football's $70 Million Naming Rights Deal With CommunityAmerica",
+      summary_ja:"アーカンソー大学は信用組合CommunityAmericaと14年総額7000万ドルの命名権契約を締結。大学フットボール史上でも屈指の規模となり、2027年7月からレイザーバックス・スタジアムは新名称に変わる。",
+      summary_en:"The University of Arkansas struck a 14-year, $70 million naming rights deal with CommunityAmerica Credit Union — one of the richest in college football history. Razorback Stadium takes the new name starting July 2027.",
+      source_name:"Whole Hog Sports", source_url:"https://www.wholehogsports.com/news/2026/jun/25/arkansas-football-stadium-naming-rights-deal-community-america-razorback-stadium-value/"},
+    {id:"texas-tech-galaxy-stadium", sport:"football", topics:["stadium","sponsor"], published_at:"2026-07-17T12:00:00Z",
+      title_ja:"テキサス工科大、暗号資産企業Galaxyと15年間のスタジアム命名権契約", title_en:"Texas Tech Secures 15-Year Naming Rights Deal With Galaxy",
+      summary_ja:"テキサス工科大学は暗号資産・デジタル資産企業のGalaxyと15年契約を締結し、フットボールの本拠地を「Galaxyスタジアム」と改称。2026年シーズンから新名称での運用が始まる。",
+      summary_en:"Texas Tech has rebranded its football home Galaxy Stadium under a 15-year naming rights partnership with digital-asset firm Galaxy, effective for the 2026 season.",
+      source_name:"Texas Tech Athletics", source_url:"https://texastech.com/news/2026/7/17/football-texas-tech-secures-landmark-naming-rights-agreement-with-galaxy"},
+    {id:"avnetwork-stadium-av-trends-2026", sport:"general", topics:["tech","stadium"], published_at:"2026-01-15T12:00:00Z",
+      title_ja:"2026年、注目すべきスタジアムの音響・映像トレンド5選", title_en:"5 Stadium AV Trends to Watch in 2026",
+      summary_ja:"会場内の映像ネットワークが複雑化する中、スケーラブルなメディアサーバーや再生経路の冗長化、映像・音響システムの一元管理が2026年のスタジアム運営における技術投資の焦点となっている。",
+      summary_en:"As in-venue video networks grow more complex, 2026's stadium tech spending centers on scalable media servers, redundant playback paths and centralized AV control systems to keep shows running without a hitch.",
+      source_name:"AVNetwork", source_url:"https://www.avnetwork.com/news/5-stadium-av-trends-to-watch-in-2026"},
+    {id:"fincantieri-milano-cortina-sponsor", sport:"olympics", topics:["sponsor"], published_at:"2026-05-10T12:00:00Z",
+      title_ja:"造船大手フィンカンティエリ、ミラノ・コルティナ2026の新スポンサーに", title_en:"Fincantieri Named New Sponsor of Milano Cortina 2026",
+      summary_ja:"世界有数の造船会社フィンカンティエリが、2026年ミラノ・コルティナ冬季五輪組織委員会とスポンサー契約を締結。持続可能性など理念面での連携を軸としたパートナーシップとなる。",
+      summary_en:"Shipbuilding giant Fincantieri has signed on as an official sponsor of the Milano Cortina 2026 Winter Olympics organizing committee, with the partnership centered on sustainability and shared values.",
+      source_name:"Olympics.com", source_url:"https://milanocortina2026.olympics.com/en/news/fincantieri-new-sponsor-milano-cortina-2026"},
+    {id:"ioc-top-partners-milano-cortina", sport:"olympics", topics:["sponsor","biz"], published_at:"2026-08-01T12:00:00Z",
+      title_ja:"IOC「TOPパートナー」制度、五輪の商業基盤を支える仕組みとは", title_en:"How the Worldwide Olympic Partners Make Milano Cortina 2026 Possible",
+      summary_ja:"1985年発足のIOC「TOPプログラム」は、オメガやP&G、セールスフォースなど世界的企業に五輪マーケティング権を独占的に付与する制度。収入は1985〜88年期の9600万ドルから、直近サイクルでは30億ドル超へと拡大している。",
+      summary_en:"The IOC's TOP Programme, launched in 1985, grants global brands like Omega, P&G and Salesforce exclusive Olympic marketing rights. Revenue has grown from $96 million in its first four-year cycle to more than $3 billion in the most recent one.",
+      source_name:"Olympics.com (IOC)", source_url:"https://www.olympics.com/ioc/news/how-the-worldwide-olympic-partners-make-milano-cortina-2026-possible"},
+    {id:"hollywoodreporter-78bn-media-spend", sport:"general", topics:["biz"], published_at:"2026-07-10T12:00:00Z",
+      title_ja:"NBA・MLBの新放映権契約、世界のスポーツメディア支出780億ドルへ", title_en:"New NBA and MLB TV Deals Will Drive Global Sports-Media Spend to $78 Billion",
+      summary_ja:"NBAとMLBの新しい放映権契約により、今後5年間で世界のスポーツメディア支出は780億ドル規模に拡大する見通し。ストリーミング各社の参入がライツフィーの高騰を加速させている。",
+      summary_en:"Fresh media rights deals for the NBA and MLB are set to push global sports-media spending to $78 billion over the next five years, as streaming platforms keep bidding rights fees higher.",
+      source_name:"The Hollywood Reporter", source_url:"https://www.hollywoodreporter.com/business/business-news/nba-mlb-tv-deals-sports-rights-spending-analysis-1236435128/"},
+    {id:"sportsmediawatch-nba-partners-grades", sport:"basketball", topics:["biz","fan"], published_at:"2026-06-15T12:00:00Z",
+      title_ja:"NBA新放映権契約1年目、各メディアパートナーを採点", title_en:"Grading the NBA's Media Partners After Year One of the New Rights Deal",
+      summary_ja:"ESPN/ABC、NBC、Amazon Prime Videoに分散されたNBAの新放映権体制。1年目のプレーオフ視聴率は3局合計で平均384万人と前年比20%増となり、1993年以来の高水準を記録した。",
+      summary_en:"One year into the NBA's new rights split across ESPN/ABC, NBC and Amazon Prime Video, first-round playoff viewership averaged 3.84 million across the three partners — up 20% and the best mark since 1993.",
+      source_name:"Sports Media Watch", source_url:"https://www.sportsmediawatch.com/2026/06/nba-broadcast-grades-review-espn-abc-inside-nbc-prime/"},
+    {id:"sportsmediawatch-hornets-magic-local-deals", sport:"basketball", topics:["tech","biz"], published_at:"2026-08-20T12:00:00Z",
+      title_ja:"NBAホーネッツ・マジックが地上波+ストリーミングの新ローカル契約へ", title_en:"NBA's Hornets, Magic Expected to Go 'Beam and Stream' With New Local Deals",
+      summary_ja:"地域放送権のオンライン移行が進むNBAで、ホーネッツとマジックが地上波系列局とストリーミングを組み合わせた新契約に動いている。今オフシーズンだけで地上波提携に踏み切ったのは5球団目。",
+      summary_en:"As NBA teams shift local broadcasting online, the Hornets and Magic are moving toward new deals pairing over-the-air affiliates with streaming — making them the fifth team this offseason to strike an OTA partnership.",
+      source_name:"Sports Media Watch", source_url:"https://www.sportsmediawatch.com/2026/08/hornets-magic-new-local-rights-deals-streaming-ota/"},
+    {id:"nielsen-tops-of-sports-2026", sport:"general", topics:["fan"], published_at:"2025-11-15T12:00:00Z",
+      title_ja:"ニールセン「Tops of Sports」:2026年のスポーツマーケティングを左右するメディア動向", title_en:"Nielsen's 'Tops of Sports': Media Trends Shaping Sports Marketing for 2026",
+      summary_ja:"ニールセンのレポートは、2026年のスーパーボウルLXと冬季五輪を控え、スポーツ視聴とファンエンゲージメントが過去最大級の規模になると予測。ストリーミングの多角化が新たな接点を生んでいる。",
+      summary_en:"Nielsen's report projects 2026 — anchored by Super Bowl LX and the Winter Olympics — as one of the biggest years yet for sports viewership and fan engagement, with streaming's fragmentation opening new touchpoints for marketers.",
+      source_name:"Nielsen", source_url:"https://www.nielsen.com/insights/2025/tops-of-sports-2026/"},
+    {id:"svgeurope-statsperform-fan-engagement-2026", sport:"general", topics:["fan","tech"], published_at:"2026-01-20T12:00:00Z",
+      title_ja:"Stats Perform、2026年版ファンエンゲージメント・AIトレンド調査を発表", title_en:"Stats Perform Releases 2026 Sports Fan Engagement, Monetisation and AI Trends Report",
+      summary_ja:"Stats Performの調査レポートは、AIを活用したコンテンツ収益化とファンエンゲージメント戦略が2026年のスポーツ業界の重要テーマになると指摘。データ活用の巧拙が収益格差を広げるとみる。",
+      summary_en:"Stats Perform's latest survey flags AI-driven content monetization and fan engagement strategy as defining themes for sports organizations in 2026, with data sophistication increasingly separating revenue winners from laggards.",
+      source_name:"SVG Europe", source_url:"https://www.svgeurope.org/blog/news-roundup/stats-perform-releases-2026-sports-fan-engagement-content-monetisation-and-ai-trends-report/"},
+    {id:"zappi-brands-redefining-sports-marketing", sport:"general", topics:["fan","sponsor"], published_at:"2026-02-05T12:00:00Z",
+      title_ja:"ブランドはどう変わる?2026年のスポーツマーケティング再定義", title_en:"How Brands Are Redefining Sports Marketing in 2026",
+      summary_ja:"調査対象の81%の企業幹部がこの1年でAI活用を拡大したと回答。スポンサーシップも単なる露出重視から、コミュニティ主導の関係構築へと軸足を移しつつある。",
+      summary_en:"81% of surveyed executives say they've expanded AI use over the past year to gain efficiency, and sponsorships are shifting away from pure reach toward community-led relationship building.",
+      source_name:"Zappi", source_url:"https://www.zappi.io/web/blog/brands-redefining-sports-marketing/"},
+    {id:"sportspro-womens-sport-revenue-3bn", sport:"general", topics:["biz","sponsor"], published_at:"2026-04-08T12:00:00Z",
+      title_ja:"女子スポーツの世界収益、2026年に30億ドル突破へ", title_en:"Women's Elite Sports Revenues to Hit US$3bn in 2026",
+      summary_ja:"商業パートナーシップや観客動員、放映権収入の拡大を背景に、世界の女子トップスポーツの収益は2026年に30億ドルを超える見通し。商業収入の比率は全体の45%に達すると見込まれている。",
+      summary_en:"Driven by growing commercial partnerships, matchday attendance and broadcast income, global revenue in elite women's sport is projected to top $3 billion in 2026 — with commercial revenue alone expected to make up 45% of the total.",
+      source_name:"SportsPro", source_url:"https://www.sportspro.com/news/finance-investment/womens-sport-revenue-sponsorship-broadcast-deloitte-april-2026/"},
+    {id:"sponsorunited-womens-sport-enterprise-era", sport:"general", topics:["sponsor","biz"], published_at:"2026-03-01T12:00:00Z",
+      title_ja:"女子スポーツのスポンサーシップ、「試験導入」から「本格投資」の時代へ", title_en:"Women's Sports Sponsorship Enters Its Enterprise Era",
+      summary_ja:"SponsorUnitedの分析では、WNBAやNWSLへのブランド投資が小口の試験的出稿から企業規模でのスケール投資へと移行。女子スポーツへのスポンサー費は前年比17.5%増と男子リーグの3.5倍以上の伸びを見せた。",
+      summary_en:"SponsorUnited's analysis shows brand spend in the WNBA and NWSL shifting from small test buys to enterprise-scale commitments, with women's sports sponsorship growing 17.5% year over year — more than 3.5x the rate of men's leagues.",
+      source_name:"SponsorUnited", source_url:"https://www.sponsorunited.com/insights/breakout-plays-the-trends-winning-sports-sponsorship-in-2026-womens-sports"},
+    {id:"yahoo-business-of-esports-2026-report", sport:"esports", topics:["biz","sponsor"], published_at:"2026-08-15T12:00:00Z",
+      title_ja:"「eスポーツビジネス2026」レポート、世界の視聴とスポンサー動向を分析", title_en:"Business of Esports 2026 Report Examines Global Viewership, Sponsorship and Commercial Trends",
+      summary_ja:"最新レポートは、モバイルeスポーツが業界全体の収益を牽引する主力セグメントとして確立したと指摘。サウジアラビア系資本がゲーム開発から大会運営まで、業界の川上から川下まで存在感を強めている。",
+      summary_en:"A new industry report finds mobile esports has firmly become the sector's primary financial driver, while Saudi-backed investment groups have built a presence across the pipeline — from game publishing to tournament operations.",
+      source_name:"Yahoo Finance", source_url:"https://finance.yahoo.com/media-advertising/articles/business-esports-2026-report-examines-142400781.html"},
+    {id:"escharts-esports-business-h1-2026", sport:"esports", topics:["biz"], published_at:"2026-07-05T12:00:00Z",
+      title_ja:"eスポーツ業界H1 2026:業界を揺るがす4つの構造変化", title_en:"Esports Business H1 2026: 4 Shifts Reshaping the Industry",
+      summary_ja:"Esports Chartsの分析によれば、2026年上半期のeスポーツ企業の資金調達額は前年同期比12.4%減の5710万ドル。投資熱の冷え込みを背景に、業界は「ロマン先行型」から「実利重視の拡大」へと戦略転換を進めている。",
+      summary_en:"Esports Charts finds equity funding for esports companies fell 12.4% year over year to $57.1 million in H1 2026, as the industry pivots from speculative bets toward pragmatic, revenue-focused expansion.",
+      source_name:"Esports Charts", source_url:"https://escharts.com/news/esports-business-h1-2026"},
+    {id:"jleague-2026-27-partner-contracts", sport:"soccer", topics:["sponsor","biz"], published_at:"2026-01-30T12:00:00Z",
+      title_ja:"Jリーグ、2026/27シーズンのパートナー契約体系を刷新", title_en:"J.League Overhauls Its 2026/27 Season Partner Contract Structure",
+      summary_ja:"Jリーグは新シーズンに向け、従来のトップパートナーを細分化した「プラチナ」「ゴールド」の新カテゴリーを新設。「ビジネス」「メディア&エンターテインメント」「フットボール」「サステナビリティ」の4領域で構成するサポーティングパートナー制度も統合した。",
+      summary_en:"J.League has restructured its top-tier sponsorship into new 'Platinum' and 'Gold' partner categories for the 2026/27 season, consolidating its supporting-partner program into four areas: business, media & entertainment, football, and sustainability.",
+      source_name:"J.League", source_url:"https://www.jleague.jp/sp/news/article/34329/"},
+    {id:"npb-japan-series-2026-sponsors", sport:"baseball", topics:["sponsor"], published_at:"2026-08-04T12:00:00Z",
+      title_ja:"「日本シリーズ2026」特別協賛社が決定", title_en:"NPB Names Special Sponsors for the 2026 Japan Series",
+      summary_ja:"日本野球機構(NPB)は日本シリーズ2026の特別協賛社を発表し、あわせてキャンペーンの実施も予告した。プロ野球の年間最大イベントにおけるスポンサー体制が固まった形だ。",
+      summary_en:"Nippon Professional Baseball has announced its special sponsors for the 2026 Japan Series, alongside a fan campaign tied to the league's biggest annual event.",
+      source_name:"NPB.jp", source_url:"https://npb.jp/news/detail/20260804_01.html"},
+    {id:"smartnews-jleague-supporting-company", sport:"soccer", topics:["fan","sponsor"], published_at:"2026-06-10T12:00:00Z",
+      title_ja:"スマートニュース、Jリーグとサポーティングカンパニー契約を締結", title_en:"SmartNews Signs Supporting Company Deal With J.League",
+      summary_ja:"ニュースアプリのスマートニュースが、Jリーグとサポーティングカンパニー契約を締結。地域に根ざしたスポーツの魅力をコンテンツを通じて届けることでファンとの接点拡大を狙う。",
+      summary_en:"News app SmartNews has signed on as a J.League supporting company, aiming to widen fan touchpoints by delivering more content spotlighting the league's community-rooted clubs.",
+      source_name:"SmartNews", source_url:"https://digitalpr.jp/r/137037"},
+    {id:"seahawks-khosla-sale-closes", sport:"football", topics:["team","biz"], published_at:"2026-09-03T20:00:00Z",
+      title_ja:"シーホークス売却が完了、96億ドル超でNFL史上最高額に", title_en:"Seahawks Sale to Khosla Family Officially Closes at Record $9.6 Billion",
+      summary_ja:"ポール・アレン氏の遺産財団からコースラ家(ヴィノード、ニール、ニーラ氏)へのシアトル・シーホークス売却が9月3日に正式完了した。売却額は約96.12億ドルとNFL球団売却史上最高額を更新し、前年のスーパーボウル王者が数ヶ月内に売却される異例のケースとなった。",
+      summary_en:"The sale of the Seattle Seahawks from the Paul Allen estate to a group led by the Khosla family (Vinod, Neeru and Neal Khosla) officially closed on Sept. 3, at roughly $9.612 billion — the highest price ever paid for an NFL franchise, and a rare case of a reigning Super Bowl champion changing hands within months of the title.",
+      source_name:"NFL.com", source_url:"https://www.nfl.com/news/khosla-family-closes-purchase-seahawks"},
+    {id:"cnbc-nfl-valuations-2026", sport:"football", topics:["biz","team"], published_at:"2026-09-09T10:00:00Z",
+      title_ja:"CNBC版NFL球団価値2026、平均103.6億ドルで前年比35%増", title_en:"CNBC's 2026 NFL Valuations: Average Franchise Now $10.36 Billion, Up 35%",
+      summary_ja:"CNBCが算定したNFL32球団の価値ランキングで、平均球団価値は103.6億ドルと前年比35%増を記録した。ダラス・カウボーイズが160億ドルで首位を維持し、ロサンゼルス・ラムズ、ラスベガス・レイダーズなど120億ドルを超える球団が5つに達した。",
+      summary_en:"CNBC's latest NFL franchise valuations put the league average at $10.36 billion, up 35% year over year. The Dallas Cowboys remain No. 1 at $16 billion on the back of the league's highest revenue, with the Rams, Raiders, Giants and Patriots joining them above the $12 billion mark.",
+      source_name:"CNBC", source_url:"https://www.cnbc.com/2026/09/09/cnbcs-official-nfl-team-valuations-2026-heres-how-the-32-franchises-stack-up.html"},
+    {id:"forest-marex-shirt-sponsorship", sport:"soccer", topics:["sponsor"], published_at:"2026-08-18T09:00:00Z",
+      title_ja:"ノッティンガム・フォレスト、金融大手Marexと複数年のユニフォームスポンサー契約", title_en:"Nottingham Forest Names Marex Principal Partner in Multi-Year Shirt Deal",
+      summary_ja:"プレミアリーグのノッティンガム・フォレストは、金融サービス大手Marexと複数年のプリンシパルパートナー契約を締結し、男女トップチームとネットボールチームのユニフォーム胸部スポンサーとなる。契約額は3年間で約2500万ポンドとされ、ギャンブル企業Bally'sに代わる新スポンサーとなった。",
+      summary_en:"Premier League side Nottingham Forest has signed global financial services firm Marex as principal partner in a multi-year deal reportedly worth about £25 million over three years, taking over front-of-shirt sponsorship on the men's, women's and netball kits from outgoing gambling sponsor Bally's.",
+      source_name:"Nottingham Forest FC", source_url:"https://www.nottinghamforest.co.uk/news/2026/august/18/forest-announces-marex-as-principal-partner/"},
+    {id:"manutd-betway-training-kit-record", sport:"soccer", topics:["sponsor","biz"], published_at:"2026-08-04T09:00:00Z",
+      title_ja:"マンチェスター・ユナイテッド、Betwayとトレーニングキットで世界最高額契約", title_en:"Manchester United Signs World's Richest Training-Kit Deal With Betway",
+      summary_ja:"マンチェスター・ユナイテッドはオンライン賭博企業Betwayと、年間約2000万ポンドとされる複数年のトレーニングキットスポンサー契約を締結した。クラブ史上最大規模とされ、前年に失効したTezosとの契約枠を埋める形となった。",
+      summary_en:"Manchester United has agreed a multi-year training-kit sponsorship with online betting firm Betway reportedly worth around £20 million a season — described as the richest such deal in the world and filling the gap left by the club's expired Tezos partnership.",
+      source_name:"Goal.com", source_url:"https://www.goal.com/en-ae/lists/man-utd-confirm-record-breaking-training-kit-deal-betway/blte02405c9795d3389"},
+    {id:"sporting-kc-mallouk-sale", sport:"soccer", topics:["team","biz"], published_at:"2026-01-16T12:00:00Z",
+      title_ja:"スポーティングKC、MLS史上最高額の7億ドルでマルーク氏に売却", title_en:"Sporting KC Sold to Peter Mallouk in MLS-Record $700 Million Deal",
+      summary_ja:"MLSのスポーティング・カンザスシティは、イリグ家が保有していた過半数株式を、資産運用会社Creative Planning代表のピーター・マルーク氏に売却した。企業価値は約7億ドルとMLSクラブとして過去最高額となり、イリグ家は少数株主として残る。",
+      summary_en:"MLS club Sporting Kansas City's controlling stake has been sold by the Illig family to minority owner Peter Mallouk, CEO of wealth manager Creative Planning, at an enterprise valuation of roughly $700 million — a league record for a controlling-stake sale, with the Illigs retaining a small minority interest.",
+      source_name:"SportsPro", source_url:"https://www.sportspro.com/news/finance-investment/sporting-kansas-city-sale-peter-mallouk-illig-ownership-valuation-mls-january-2026/"},
+    {id:"tottenham-hpe-network-expansion", sport:"soccer", topics:["tech","stadium"], published_at:"2026-09-02T09:00:00Z",
+      title_ja:"トッテナム、HPEとのスタジアムIT基盤刷新パートナーシップを拡大", title_en:"Tottenham Hotspur Expands HPE Partnership to Overhaul Stadium IT",
+      summary_ja:"トッテナム・ホットスパーはHPEとの提携を拡大し、スタジアムのIT基盤をHPE GreenLakeのハイブリッドクラウドで刷新する。分散していた設備を2拠点に集約し、屋外初の部類となるWi-Fi 7導入やキャッシュレス決済など、来場者体験のデジタル化を進める。",
+      summary_en:"Tottenham Hotspur has expanded its technology partnership with HPE, rebuilding the stadium's IT backbone on HPE's GreenLake hybrid-cloud platform. The project consolidates previously distributed compute and storage into two core environments and will roll out outdoor Wi-Fi 7, ticketless entry and cashless payments.",
+      source_name:"HPE", source_url:"https://www.hpe.com/us/en/newsroom/press-release/2026/09/tottenham-hotspur-and-hpe-transform-digital-fan-experience-and-stadium-operations.html"},
+    {id:"cavaliers-dazn-local-streaming-deal", sport:"basketball", topics:["tech","biz"], published_at:"2026-09-01T09:00:00Z",
+      title_ja:"NBAキャバリアーズ、地元放送をDAZNへ全面移行", title_en:"Cavaliers Move Local Broadcasts to DAZN for 2026-27 Season",
+      summary_ja:"NBAのクリーブランド・キャバリアーズは、2026-27シーズンから地元放送権をストリーミングのDAZNへ全面移行する複数年契約を発表した。月額19.99ドルからのプランで全試合を配信し、15試合は無料視聴可能。地方放送網Main Street Sports Groupの経営破綻を受け、ミネソタ、インディアナに続き3球団目のDAZN専属チームとなる。",
+      summary_en:"The Cleveland Cavaliers have signed a multiyear deal making DAZN their exclusive local streaming partner starting in 2026-27, with plans from $19.99 a month and 15 games free. Cleveland becomes the third NBA team, after Minnesota and Indiana, to go DAZN-exclusive following the collapse of regional broadcaster Main Street Sports Group.",
+      source_name:"Cavaliers.com", source_url:"https://cavs.com/news/releases-cavaliers-dazn-260901"},
+    {id:"allegiant-stadium-north-entrance-upgrade", sport:"football", topics:["stadium"], published_at:"2026-09-03T20:00:00Z",
+      title_ja:"アレジアント・スタジアム、1.58億ドル規模の北口改修に公費7500万ドル承認", title_en:"Las Vegas Approves $75M in Public Funds for $158M Allegiant Stadium Upgrade",
+      summary_ja:"ラスベガス・スタジアム公社は、レイダーズの本拠地アレジアント・スタジアム北口の1.58億ドル規模の改修に向け、公費7500万ドルの拠出を承認した。残る8300万ドルはレイダーズが負担し、歩行者デッキや広場を新設して混雑緩和を図る。完成は2028年末を目指す。",
+      summary_en:"The Las Vegas Stadium Authority has approved $75 million in public funding toward a $158 million overhaul of Allegiant Stadium's congested north entrance, with the Raiders covering the remaining $83 million. The project adds pedestrian decks and a plaza to ease Strip-side access, targeting completion by late 2028.",
+      source_name:"NFL.com", source_url:"https://www.nfl.com/news/las-vegas-stadium-authority-approves-75-million-upgrades-allegiant-stadium"},
+    {id:"haier-uefa-champions-league-global-partner", sport:"soccer", topics:["sponsor"], published_at:"2026-09-04T09:00:00Z",
+      title_ja:"中国・ハイアール、UEFAチャンピオンズリーグの新グローバルパートナーに", title_en:"Haier Becomes New Global Partner of the UEFA Champions League",
+      summary_ja:"中国の家電大手ハイアールは、2027-28シーズンから2030-31シーズンまでの4年間、UEFAチャンピオンズリーグを含む複数のUEFAクラブ大会のグローバルパートナーとなる契約を発表した。家電・テレビ・商業用ディスプレイ分野で独占的な協賛権を獲得する。",
+      summary_en:"Chinese appliance giant Haier has signed a four-year global partnership covering the UEFA Champions League and other UEFA club competitions from the 2027-28 through 2030-31 seasons, securing exclusive worldwide sponsorship rights in home appliances, televisions and commercial displays.",
+      source_name:"Inside World Football", source_url:"https://www.insideworldfootball.com/2026/09/04/haier-uc3-uefa-champions-league-global-partnership"},
+    {id:"savvy-games-moonton-acquisition", sport:"esports", topics:["biz","team"], published_at:"2026-03-20T09:00:00Z",
+      title_ja:"サウジ系Savvy Games、「Mobile Legends」開発元Moontonを60億ドル超で買収", title_en:"Saudi-Backed Savvy Games Group to Acquire Moonton for More Than $6 Billion",
+      summary_ja:"サウジアラビア公共投資基金傘下のSavvy Games Groupは、ByteDanceから「Mobile Legends: Bang Bang」開発元Moontonを60億ドル超で買収することで合意した。2021年の買収額から約5割増の評価額で、ゲーム業界史上有数の大型M&Aとなる。",
+      summary_en:"Saudi Arabia's PIF-owned Savvy Games Group has agreed to acquire Moonton, the studio behind mobile MOBA hit Mobile Legends: Bang Bang, from ByteDance for more than $6 billion — about 50% above the price ByteDance paid in 2021, and one of the largest deals in gaming industry history.",
+      source_name:"Game Developer", source_url:"https://www.gamedeveloper.com/business/savvy-games-group-agreed-to-buy-moonton-games-for-6-billion"},
+    {id:"npb-allstar-homerun-derby-nissan-sponsor", sport:"baseball", topics:["sponsor"], published_at:"2026-07-11T09:00:00Z",
+      title_ja:"日産自動車、「マイナビオールスターゲーム2026」ホームランダービーの冠スポンサーに", title_en:"Nissan Named Title Sponsor of NPB All-Star Home Run Derby 2026",
+      summary_ja:"日本野球機構は、「マイナビオールスターゲーム2026」で実施されるホームランダービーの冠スポンサーとして日産自動車が決定したと発表した。プロ野球のオールスターイベントにおける自動車メーカーの協賛として注目される。",
+      summary_en:"Nippon Professional Baseball has named Nissan Motor as the title sponsor of the Home Run Derby held during the Mynavi All-Star Game 2026, marking a notable automaker tie-in for the league's midseason showcase event.",
+      source_name:"スポーツナビ", source_url:"https://sports.yahoo.co.jp/column/detail/2026071100022-spnaviow"},
+    {id:"bills-highmark-stadium-turf-replacement", sport:"football", topics:["stadium"], published_at:"2026-09-02T09:00:00Z",
+      title_ja:"ビルズの新スタジアム、天然芝の不具合を受け開幕前に張り替え", title_en:"Bills Replace Natural Grass at New Highmark Stadium Ahead of Season Opener",
+      summary_ja:"NFLバッファロー・ビルズは、総工費22億ドルの新本拠地ハイマーク・スタジアムで、プレシーズン中に天然芝の一部が浮き上がる不具合が発生したため、開幕前に芝の張り替え作業を進めている。9月17日のレギュラーシーズン開幕戦までの完了を目指す。",
+      summary_en:"The Buffalo Bills are replacing the natural grass surface at their new $2.2 billion Highmark Stadium after portions came loose during preseason games, with the resodding work targeted for completion before the venue's regular-season opener on Sept. 17.",
+      source_name:"Stadium Tech Report", source_url:"https://stadiumtechreport.com/news/top-stories-from-week-ending-9-4-26/"},
+  ];
+
+  const ARTICLES = ARTICLES_DATA;
+
+  const state = {
+    sport:"all",
+    topics:new Set(),
+    query:"",
+    pageSize:60,
+  };
+
+  function esc(s){
+    return String(s==null?"":s).replace(/[&<>"']/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  }
+  function relTime(iso){
+    const t = new Date(iso).getTime();
+    if (isNaN(t)) return "";
+    const diffMs = Date.now()-t;
+    const min = Math.floor(diffMs/60000);
+    if (min < 1) return "たった今";
+    if (min < 60) return min+"分前";
+    const hr = Math.floor(min/60);
+    if (hr < 24) return hr+"時間前";
+    const day = Math.floor(hr/24);
+    if (day < 30) return day+"日前";
+    const month = Math.floor(day/30);
+    if (month < 12) return month+"ヶ月前";
+    return Math.floor(month/12)+"年前";
+  }
+
+  function sourceArticles(){
+    return ARTICLES.slice().sort((a,b)=> new Date(b.published_at) - new Date(a.published_at));
+  }
+
+  function renderTally(all){
+    const counts = {all: all.length};
+    SPORTS.forEach(s=>{ if(s.key!=="all") counts[s.key]=0; });
+    all.forEach(a=>{ counts[a.sport] = (counts[a.sport]||0)+1; });
+    const el = document.getElementById("tally");
+    el.innerHTML = SPORTS.map(s=>`
+      <button class="tally-tile" data-sport="${s.key}" aria-pressed="${state.sport===s.key}">
+        <span class="tally-label">${esc(s.ja)}</span>
+        <span class="tally-count">${counts[s.key]||0}</span>
+      </button>`).join("");
+    el.querySelectorAll(".tally-tile").forEach(btn=>{
+      btn.addEventListener("click", ()=>{
+        state.sport = btn.dataset.sport;
+        render();
+      });
+    });
+  }
+
+  function renderTopicChips(){
+    const el = document.getElementById("topicChips");
+    el.innerHTML = TOPICS.map(t=>`
+      <button class="chip" data-topic="${t.key}" aria-pressed="${state.topics.has(t.key)}">${esc(t.ja)}</button>`).join("")
+      + `<button class="chip" id="clearTopics" style="border-style:dashed;">条件をリセット</button>`;
+    el.querySelectorAll(".chip[data-topic]").forEach(btn=>{
+      btn.addEventListener("click", ()=>{
+        const k = btn.dataset.topic;
+        if (state.topics.has(k)) state.topics.delete(k); else state.topics.add(k);
+        render();
+      });
+    });
+    document.getElementById("clearTopics").addEventListener("click", ()=>{
+      state.sport="all"; state.topics.clear(); state.query="";
+      document.getElementById("searchInput").value="";
+      render();
+    });
+  }
+
+  function matches(a){
+    if (state.sport!=="all" && a.sport!==state.sport) return false;
+    if (state.topics.size>0 && !a.topics.some(t=>state.topics.has(t))) return false;
+    if (state.query){
+      const hay = (a.title_ja+" "+a.title_en+" "+a.summary_ja+" "+a.summary_en+" "+a.source_name).toLowerCase();
+      if (!hay.includes(state.query.toLowerCase())) return false;
+    }
+    return true;
+  }
+
+  function cardHtml(a){
+    const topicBadges = a.topics.map(t=>`<span class="badge-topic">${esc(TOPIC_LABEL[t]||t)}</span>`).join("");
+    return `
+      <article class="card">
+        <div class="card-top">
+          <span class="badge-sport">${esc(SPORT_LABEL[a.sport]||a.sport)}</span>
+          ${topicBadges}
+        </div>
+        <div class="card-titles">
+          <div class="title-ja">${esc(a.title_ja)}</div>
+          <div class="title-en">${esc(a.title_en)}</div>
+        </div>
+        <div class="summary-ja">${esc(a.summary_ja)}</div>
+        <div class="summary-en">${esc(a.summary_en)}</div>
+        <div class="card-foot">
+          <span class="source-line"><b>${esc(a.source_name)}</b> ・ <span class="mono">${esc(relTime(a.published_at))}</span></span>
+          <a class="read-link" href="${esc(a.source_url)}" target="_blank" rel="noopener noreferrer">元記事を読む ↗</a>
+        </div>
+      </article>`;
+  }
+
+  function render(){
+    const all = sourceArticles();
+    renderTally(all);
+    renderTopicChips();
+    const filtered = all.filter(matches);
+    const shown = filtered.slice(0, state.pageSize);
+
+    document.getElementById("totalCount").textContent = all.length;
+    const latest = all.reduce((m,a)=> !m || new Date(a.published_at)>new Date(m) ? a.published_at : m, null);
+    document.getElementById("updatedAt").textContent = latest ? relTime(latest) : "—";
+    document.getElementById("resultLine").textContent = `${filtered.length}件中 ${shown.length}件を表示`;
+
+    const grid = document.getElementById("grid");
+    grid.innerHTML = shown.length ? shown.map(cardHtml).join("") : `<div class="empty">条件に一致する記事が見つかりませんでした。フィルターを調整してください。</div>`;
+
+    const moreWrap = document.getElementById("loadMoreWrap");
+    moreWrap.hidden = !(filtered.length > shown.length);
+  }
+
+  document.getElementById("searchInput").addEventListener("input", (e)=>{
+    state.query = e.target.value;
+    render();
+  });
+  document.getElementById("loadMoreBtn").addEventListener("click", ()=>{
+    state.pageSize += 60;
+    render();
+  });
+
+  render();
+  setInterval(render, 60000);
+})();
+</script>
