@@ -155,16 +155,6 @@
   .chip[aria-pressed="true"]{
     background:var(--accent); border-color:var(--accent); color:#241800; font-weight:600;
   }
-  .chip-japan{
-    border-color:#C8393F; color:#C8393F; font-weight:600;
-  }
-  .chip-japan[aria-pressed="true"]{
-    background:#C8393F; border-color:#C8393F; color:#fff;
-  }
-  .badge-japan{
-    font-size:11px; font-weight:700; color:#C8393F;
-    background:rgba(200,57,63,0.12); padding:3px 8px; border-radius:5px;
-  }
   .japan-banner{
     display:flex; align-items:center; gap:14px;
     margin:6px clamp(14px,3vw,32px) 4px;
@@ -313,7 +303,7 @@
       just_now:"Just now", min_ago:n=>`${n}m ago`, hr_ago:n=>`${n}h ago`, day_ago:n=>`${n}d ago`, mo_ago:n=>`${n}mo ago`, yr_ago:n=>`${n}y ago`,
       sports:{all:"All",soccer:"Soccer",baseball:"Baseball",basketball:"Basketball",football:"Football",olympics:"Olympics/Multi-sport",esports:"Esports",motorsports:"Motorsports",general:"Industry-wide"},
       topics:{team:"Team News",tech:"Technology",stadium:"Stadium",fan:"Fan Marketing",sponsor:"Sponsorship",biz:"Business"},
-      japan_filter:"🇯🇵 Japan", japan_badge:"Japan",
+      japan_tally:"Japan",
       japan_banner_title:"Japan Sports Business", japan_banner_sub:"J.League, NPB, B.League and the companies behind Japan's sports industry" },
     ja:{ tagline:"世界のスポーツビジネス・テック・スポンサーシップ速報",
       updated:r=>`最終更新: ${r}`, count:n=>`収録記事 ${n} 件`,
@@ -324,7 +314,7 @@
       just_now:"たった今", min_ago:n=>`${n}分前`, hr_ago:n=>`${n}時間前`, day_ago:n=>`${n}日前`, mo_ago:n=>`${n}ヶ月前`, yr_ago:n=>`${n}年前`,
       sports:{all:"すべて",soccer:"サッカー",baseball:"野球",basketball:"バスケ",football:"アメフト",olympics:"五輪/複数競技",esports:"eスポーツ",motorsports:"モータースポーツ",general:"業界全体"},
       topics:{team:"チーム動向",tech:"テクノロジー",stadium:"スタジアム",fan:"ファンマーケティング",sponsor:"スポンサーシップ",biz:"ビジネス/経営"},
-      japan_filter:"🇯🇵 日本のスポーツ業界", japan_badge:"日本",
+      japan_tally:"国内",
       japan_banner_title:"日本のスポーツビジネス", japan_banner_sub:"Jリーグ・NPB・Bリーグなど、国内スポーツ業界とそれを支える企業の最新動向" },
     es:{ tagline:"Negocio, tecnología y patrocinio del deporte mundial — al minuto",
       updated:r=>`Última actualización: ${r}`, count:n=>`${n} artículos`,
@@ -335,7 +325,7 @@
       just_now:"Ahora mismo", min_ago:n=>`hace ${n} min`, hr_ago:n=>`hace ${n} h`, day_ago:n=>`hace ${n} d`, mo_ago:n=>`hace ${n} meses`, yr_ago:n=>`hace ${n} años`,
       sports:{all:"Todos",soccer:"Fútbol",baseball:"Béisbol",basketball:"Baloncesto",football:"Fútbol americano",olympics:"Olimpiadas/Multideporte",esports:"Esports",motorsports:"Automovilismo",general:"Toda la industria"},
       topics:{team:"Equipos",tech:"Tecnología",stadium:"Estadios",fan:"Marketing de aficionados",sponsor:"Patrocinio",biz:"Negocio"},
-      japan_filter:"🇯🇵 Japón", japan_badge:"Japón",
+      japan_tally:"Japón",
       japan_banner_title:"Negocio deportivo en Japón", japan_banner_sub:"J.League, NPB, B.League y las empresas detrás de la industria deportiva japonesa" },
     zh:{ tagline:"全球体育商业、科技与赞助 — 每小时快讯",
       updated:r=>`最后更新: ${r}`, count:n=>`共 ${n} 篇文章`,
@@ -346,7 +336,7 @@
       just_now:"刚刚", min_ago:n=>`${n}分钟前`, hr_ago:n=>`${n}小时前`, day_ago:n=>`${n}天前`, mo_ago:n=>`${n}个月前`, yr_ago:n=>`${n}年前`,
       sports:{all:"全部",soccer:"足球",baseball:"棒球",basketball:"篮球",football:"美式橄榄球",olympics:"奥运会/综合体育",esports:"电子竞技",motorsports:"赛车运动",general:"行业综合"},
       topics:{team:"球队动态",tech:"科技",stadium:"场馆",fan:"球迷营销",sponsor:"赞助",biz:"商业/经营"},
-      japan_filter:"🇯🇵 日本体育产业", japan_badge:"日本",
+      japan_tally:"日本",
       japan_banner_title:"日本体育商业", japan_banner_sub:"J联赛、NPB、B联赛及支撑日本体育产业的相关企业最新动态" },
     fr:{ tagline:"Business, technologie et sponsoring du sport mondial — en continu",
       updated:r=>`Dernière mise à jour : ${r}`, count:n=>`${n} articles`,
@@ -357,7 +347,7 @@
       just_now:"À l'instant", min_ago:n=>`il y a ${n} min`, hr_ago:n=>`il y a ${n} h`, day_ago:n=>`il y a ${n} j`, mo_ago:n=>`il y a ${n} mois`, yr_ago:n=>`il y a ${n} ans`,
       sports:{all:"Tous",soccer:"Football",baseball:"Baseball",basketball:"Basketball",football:"Football américain",olympics:"Jeux olympiques/Multisport",esports:"Esport",motorsports:"Sport automobile",general:"Secteur global"},
       topics:{team:"Équipes",tech:"Technologie",stadium:"Stades",fan:"Marketing des supporters",sponsor:"Sponsoring",biz:"Business"},
-      japan_filter:"🇯🇵 Japon", japan_badge:"Japon",
+      japan_tally:"Japon",
       japan_banner_title:"Business du sport au Japon", japan_banner_sub:"J.League, NPB, B.League et les entreprises qui font vivre l'industrie sportive japonaise" },
   };
 
@@ -931,31 +921,36 @@
 
   function renderTally(all){
     const ts = t();
-    const counts = {all: all.length};
+    const counts = {all: all.length, japan: 0};
     SPORT_KEYS.forEach(k=>{ if(k!=="all") counts[k]=0; });
-    all.forEach(a=>{ counts[a.sport] = (counts[a.sport]||0)+1; });
+    all.forEach(a=>{
+      counts[a.sport] = (counts[a.sport]||0)+1;
+      if (a.region==="japan") counts.japan++;
+    });
     const el = document.getElementById("tally");
     el.innerHTML = SPORT_KEYS.map(k=>`
-      <button class="tally-tile" data-sport="${k}" aria-pressed="${state.sport===k}">
+      <button class="tally-tile" data-sport="${k}" aria-pressed="${state.sport===k && state.region!=="japan"}">
         <span class="tally-label">${esc(ts.sports[k]||k)}</span>
         <span class="tally-count">${counts[k]||0}</span>
-      </button>`).join("");
-    el.querySelectorAll(".tally-tile").forEach(btn=>{
-      btn.addEventListener("click", ()=>{ state.sport = btn.dataset.sport; render(); });
+      </button>`).join("")
+      + `<button class="tally-tile" id="japanTally" aria-pressed="${state.region==="japan"}">
+        <span class="tally-label">${esc(ts.japan_tally)}</span>
+        <span class="tally-count">${counts.japan}</span>
+      </button>`;
+    el.querySelectorAll(".tally-tile[data-sport]").forEach(btn=>{
+      btn.addEventListener("click", ()=>{ state.sport = btn.dataset.sport; state.region = null; render(); });
+    });
+    document.getElementById("japanTally").addEventListener("click", ()=>{
+      state.region = "japan"; state.sport = "all"; render();
     });
   }
 
   function renderTopicChips(){
     const ts = t();
     const el = document.getElementById("topicChips");
-    el.innerHTML = `<button class="chip chip-japan" id="japanFilter" aria-pressed="${state.region==="japan"}">${esc(ts.japan_filter)}</button>`
-      + TOPIC_KEYS.map(k=>`
+    el.innerHTML = TOPIC_KEYS.map(k=>`
       <button class="chip" data-topic="${k}" aria-pressed="${state.topics.has(k)}">${esc(ts.topics[k]||k)}</button>`).join("")
       + `<button class="chip" id="clearTopics" style="border-style:dashed;">${esc(ts.reset)}</button>`;
-    document.getElementById("japanFilter").addEventListener("click", ()=>{
-      state.region = state.region==="japan" ? null : "japan";
-      render();
-    });
     el.querySelectorAll(".chip[data-topic]").forEach(btn=>{
       btn.addEventListener("click", ()=>{
         const k = btn.dataset.topic;
@@ -984,12 +979,10 @@
   function cardHtml(a){
     const ts = t();
     const topicBadges = a.topics.map(k=>`<span class="badge-topic">${esc(ts.topics[k]||k)}</span>`).join("");
-    const japanBadge = a.region==="japan" ? `<span class="badge-japan">🇯🇵 ${esc(ts.japan_badge)}</span>` : "";
     return `
       <article class="card">
         <div class="card-top">
           <span class="badge-sport">${esc(ts.sports[a.sport]||a.sport)}</span>
-          ${japanBadge}
           ${topicBadges}
         </div>
         <div class="title-main">${esc(articleText(a,"title"))}</div>
