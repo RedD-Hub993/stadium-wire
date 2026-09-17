@@ -155,6 +155,16 @@
   .chip[aria-pressed="true"]{
     background:var(--accent); border-color:var(--accent); color:#241800; font-weight:600;
   }
+  .chip-japan{
+    border-color:#C8393F; color:#C8393F; font-weight:600;
+  }
+  .chip-japan[aria-pressed="true"]{
+    background:#C8393F; border-color:#C8393F; color:#fff;
+  }
+  .badge-japan{
+    font-size:11px; font-weight:700; color:#C8393F;
+    background:rgba(200,57,63,0.12); padding:3px 8px; border-radius:5px;
+  }
   .search-box{
     margin-left:auto; position:relative; min-width:200px; flex:0 1 260px;
   }
@@ -284,7 +294,8 @@
       footer:"Every summary here is Stadium Wire's own condensation of reporting from outlets worldwide — follow \"Read original\" for the full source article. New items are collected hourly, and this page is regenerated and republished with each update.",
       just_now:"Just now", min_ago:n=>`${n}m ago`, hr_ago:n=>`${n}h ago`, day_ago:n=>`${n}d ago`, mo_ago:n=>`${n}mo ago`, yr_ago:n=>`${n}y ago`,
       sports:{all:"All",soccer:"Soccer",baseball:"Baseball",basketball:"Basketball",football:"Football",olympics:"Olympics/Multi-sport",esports:"Esports",motorsports:"Motorsports",general:"Industry-wide"},
-      topics:{team:"Team News",tech:"Technology",stadium:"Stadium",fan:"Fan Marketing",sponsor:"Sponsorship",biz:"Business"} },
+      topics:{team:"Team News",tech:"Technology",stadium:"Stadium",fan:"Fan Marketing",sponsor:"Sponsorship",biz:"Business"},
+      japan_filter:"🇯🇵 Japan", japan_badge:"Japan" },
     ja:{ tagline:"世界のスポーツビジネス・テック・スポンサーシップ速報",
       updated:r=>`最終更新: ${r}`, count:n=>`収録記事 ${n} 件`,
       search_ph:"チーム名・企業名・キーワードで検索", reset:"条件をリセット",
@@ -293,7 +304,8 @@
       footer:"各記事はStadium Wireが世界の主要メディア報道をもとに独自に要約したものです。詳細・引用元の全文は「元記事を読む」リンク先でご確認ください。記事は毎時自動収集され、このページ自体が更新のたびに再生成・再公開されています。",
       just_now:"たった今", min_ago:n=>`${n}分前`, hr_ago:n=>`${n}時間前`, day_ago:n=>`${n}日前`, mo_ago:n=>`${n}ヶ月前`, yr_ago:n=>`${n}年前`,
       sports:{all:"すべて",soccer:"サッカー",baseball:"野球",basketball:"バスケ",football:"アメフト",olympics:"五輪/複数競技",esports:"eスポーツ",motorsports:"モータースポーツ",general:"業界全体"},
-      topics:{team:"チーム動向",tech:"テクノロジー",stadium:"スタジアム",fan:"ファンマーケティング",sponsor:"スポンサーシップ",biz:"ビジネス/経営"} },
+      topics:{team:"チーム動向",tech:"テクノロジー",stadium:"スタジアム",fan:"ファンマーケティング",sponsor:"スポンサーシップ",biz:"ビジネス/経営"},
+      japan_filter:"🇯🇵 日本のスポーツ業界", japan_badge:"日本" },
     es:{ tagline:"Negocio, tecnología y patrocinio del deporte mundial — al minuto",
       updated:r=>`Última actualización: ${r}`, count:n=>`${n} artículos`,
       search_ph:"Busca por equipo, empresa o palabra clave", reset:"Restablecer filtros",
@@ -302,7 +314,8 @@
       footer:"Cada resumen es una síntesis original de Stadium Wire basada en la cobertura de medios de todo el mundo — sigue \"Leer artículo original\" para el artículo completo. Los nuevos artículos se recopilan cada hora y esta página se regenera y republica con cada actualización.",
       just_now:"Ahora mismo", min_ago:n=>`hace ${n} min`, hr_ago:n=>`hace ${n} h`, day_ago:n=>`hace ${n} d`, mo_ago:n=>`hace ${n} meses`, yr_ago:n=>`hace ${n} años`,
       sports:{all:"Todos",soccer:"Fútbol",baseball:"Béisbol",basketball:"Baloncesto",football:"Fútbol americano",olympics:"Olimpiadas/Multideporte",esports:"Esports",motorsports:"Automovilismo",general:"Toda la industria"},
-      topics:{team:"Equipos",tech:"Tecnología",stadium:"Estadios",fan:"Marketing de aficionados",sponsor:"Patrocinio",biz:"Negocio"} },
+      topics:{team:"Equipos",tech:"Tecnología",stadium:"Estadios",fan:"Marketing de aficionados",sponsor:"Patrocinio",biz:"Negocio"},
+      japan_filter:"🇯🇵 Japón", japan_badge:"Japón" },
     zh:{ tagline:"全球体育商业、科技与赞助 — 每小时快讯",
       updated:r=>`最后更新: ${r}`, count:n=>`共 ${n} 篇文章`,
       search_ph:"按球队、企业或关键词搜索", reset:"重置筛选",
@@ -311,7 +324,8 @@
       footer:"本站每篇摘要均由Stadium Wire基于全球媒体报道独立撰写,完整原文请点击“阅读原文”查看。新文章每小时自动收集一次,本页面也会随每次更新而重新生成并发布。",
       just_now:"刚刚", min_ago:n=>`${n}分钟前`, hr_ago:n=>`${n}小时前`, day_ago:n=>`${n}天前`, mo_ago:n=>`${n}个月前`, yr_ago:n=>`${n}年前`,
       sports:{all:"全部",soccer:"足球",baseball:"棒球",basketball:"篮球",football:"美式橄榄球",olympics:"奥运会/综合体育",esports:"电子竞技",motorsports:"赛车运动",general:"行业综合"},
-      topics:{team:"球队动态",tech:"科技",stadium:"场馆",fan:"球迷营销",sponsor:"赞助",biz:"商业/经营"} },
+      topics:{team:"球队动态",tech:"科技",stadium:"场馆",fan:"球迷营销",sponsor:"赞助",biz:"商业/经营"},
+      japan_filter:"🇯🇵 日本体育产业", japan_badge:"日本" },
     fr:{ tagline:"Business, technologie et sponsoring du sport mondial — en continu",
       updated:r=>`Dernière mise à jour : ${r}`, count:n=>`${n} articles`,
       search_ph:"Rechercher par équipe, entreprise ou mot-clé", reset:"Réinitialiser les filtres",
@@ -320,14 +334,15 @@
       footer:"Chaque résumé est une synthèse originale de Stadium Wire à partir de reportages du monde entier — suivez « Lire l'article original » pour le texte complet. De nouveaux articles sont collectés chaque heure, et cette page est régénérée et republiée à chaque mise à jour.",
       just_now:"À l'instant", min_ago:n=>`il y a ${n} min`, hr_ago:n=>`il y a ${n} h`, day_ago:n=>`il y a ${n} j`, mo_ago:n=>`il y a ${n} mois`, yr_ago:n=>`il y a ${n} ans`,
       sports:{all:"Tous",soccer:"Football",baseball:"Baseball",basketball:"Basketball",football:"Football américain",olympics:"Jeux olympiques/Multisport",esports:"Esport",motorsports:"Sport automobile",general:"Secteur global"},
-      topics:{team:"Équipes",tech:"Technologie",stadium:"Stades",fan:"Marketing des supporters",sponsor:"Sponsoring",biz:"Business"} },
+      topics:{team:"Équipes",tech:"Technologie",stadium:"Stades",fan:"Marketing des supporters",sponsor:"Sponsoring",biz:"Business"},
+      japan_filter:"🇯🇵 Japon", japan_badge:"Japon" },
   };
 
   // ARTICLES_DATA: the site's full dataset, embedded directly in this page.
   // The hourly update task edits this array in place, then commits+pushes this file.
   // Each article's "i18n" object must have en/ja/es/zh/fr, each {title, summary}.
   const ARTICLES_DATA = [
-    {id:"sportico-transactions-0904", sport:"general", topics:["biz","team"], published_at:"2026-09-04T12:00:00Z",
+    {id:"sportico-transactions-0904", sport:"general", region:"global", topics:["biz","team"], published_at:"2026-09-04T12:00:00Z",
       source_name:"Sportico", source_url:"https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-sept-4-2026-1234943968/",
       i18n:{
         en:{title:"Sports Business Moves & Mergers Roundup (Sept. 4)", summary:"Sportico's weekly digest rounds up the latest executive moves, acquisitions and partnerships across broadcasting, agencies and team ownership — a quick way to scan the industry's churn."},
@@ -336,7 +351,7 @@
         zh:{title:"体育商业人事与并购周报(9月4日)", summary:"Sportico的每周汇总栏目,集中呈现广播机构、经纪公司和球队所有权方面的最新高管变动、收购与合作动态,方便快速掌握行业动向。"},
         fr:{title:"Récapitulatif hebdomadaire des mouvements et fusions dans le business du sport (4 septembre)", summary:"La synthèse hebdomadaire de Sportico rassemble les derniers mouvements de dirigeants, acquisitions et partenariats dans la diffusion, les agences et la propriété des clubs — un moyen rapide de suivre l'agitation du secteur."},
       }},
-    {id:"sportico-nfl-valuations-2026", sport:"football", topics:["biz","team"], published_at:"2026-08-05T12:00:00Z",
+    {id:"sportico-nfl-valuations-2026", sport:"football", region:"global", topics:["biz","team"], published_at:"2026-08-05T12:00:00Z",
       source_name:"Sportico", source_url:"https://www.sportico.com/valuations/teams/2026/nfl-team-values-2026-dallas-cowboys-los-angeles-rams-1234941607/",
       i18n:{
         en:{title:"NFL Franchise Valuations 2026: Cowboys Lead at $15B, Average Up 31%", summary:"Sportico's latest valuations show the average NFL team now worth $9.34B, up 31% year over year. The Cowboys remain the league's most valuable franchise at roughly $15B, with all 32 teams combined worth $299B."},
@@ -345,7 +360,7 @@
         zh:{title:"2026年NFL球队估值:牛仔队以150亿美元蝉联榜首,平均涨幅31%", summary:"Sportico最新估值显示,NFL球队平均价值达93.4亿美元,同比增长31%。达拉斯牛仔队以约150亿美元继续位居联盟最高价值球队,32支球队总价值合计2990亿美元。"},
         fr:{title:"Valorisations des franchises NFL 2026 : les Cowboys en tête à 15 Md$, moyenne en hausse de 31 %", summary:"Les dernières valorisations de Sportico montrent qu'une franchise NFL moyenne vaut désormais 9,34 Md$, soit +31 % sur un an. Les Cowboys restent la franchise la plus valorisée de la ligue avec environ 15 Md$, les 32 équipes valant au total 299 Md$."},
       }},
-    {id:"sportico-mlb-valuations-2026", sport:"baseball", topics:["biz","team"], published_at:"2026-03-15T12:00:00Z",
+    {id:"sportico-mlb-valuations-2026", sport:"baseball", region:"global", topics:["biz","team"], published_at:"2026-03-15T12:00:00Z",
       source_name:"Sportico", source_url:"https://www.sportico.com/valuations/teams/2026/mlb-team-values-2026-yankees-dodgers-1234887564/",
       i18n:{
         en:{title:"MLB Team Values 2026: Yankees, Dodgers Both Top $9 Billion", summary:"Sportico's 2026 MLB valuations put the average franchise at $3.17B, up 12% — the biggest jump since the rankings launched in 2021. The Yankees lead at $9.4B, including their stake in the YES Network."},
@@ -354,7 +369,7 @@
         zh:{title:"2026年MLB球队估值:洋基队与道奇队均突破90亿美元", summary:"Sportico发布的2026年MLB球队估值显示,平均球队价值达31.7亿美元,同比增长12%,创下该榜单自2021年推出以来的最大增幅。洋基队(含其持有的YES Network股份)以94亿美元继续领跑。"},
         fr:{title:"Valeur des équipes de la MLB 2026 : Yankees et Dodgers dépassent tous deux les 9 Md$", summary:"Les valorisations MLB 2026 de Sportico placent la franchise moyenne à 3,17 Md$, en hausse de 12 % — la plus forte progression depuis le lancement du classement en 2021. Les Yankees sont en tête à 9,4 Md$, participation dans le réseau YES Network incluse."},
       }},
-    {id:"cnbc-mlb-valuations-2026", sport:"baseball", topics:["biz","team"], published_at:"2026-03-13T12:00:00Z",
+    {id:"cnbc-mlb-valuations-2026", sport:"baseball", region:"global", topics:["biz","team"], published_at:"2026-03-13T12:00:00Z",
       source_name:"CNBC", source_url:"https://www.cnbc.com/2026/03/13/cnbcs-official-mlb-team-valuations-2026-how-30-franchises-stack-up.html",
       i18n:{
         en:{title:"CNBC's Official MLB Team Valuations 2026: How the 30 Franchises Stack Up", summary:"CNBC published its own ranking of all 30 MLB franchises, folding in broadcast revenue and real-estate ventures — with valuations at the top of the list hitting fresh records across the board."},
@@ -363,7 +378,7 @@
         zh:{title:"CNBC官方2026年MLB球队估值:30支球队排名一览", summary:"CNBC发布了独立编制的MLB全部30支球队估值排名,综合考虑了转播收入和房地产业务,榜首球队的估值均创下新高。"},
         fr:{title:"Valorisations officielles MLB 2026 de CNBC : le classement des 30 franchises", summary:"CNBC a publié son propre classement des 30 franchises de la MLB, intégrant les revenus de diffusion et les opérations immobilières — les valorisations en tête de liste atteignant de nouveaux records."},
       }},
-    {id:"sportspro-european-club-revenue-30bn", sport:"soccer", topics:["biz"], published_at:"2026-02-10T12:00:00Z",
+    {id:"sportspro-european-club-revenue-30bn", sport:"soccer", region:"global", topics:["biz"], published_at:"2026-02-10T12:00:00Z",
       source_name:"SportsPro", source_url:"https://www.sportspro.com/news/finance-investment/european-football-uefa-revenue-finances-chelsea-premier-league-tv-rights-february-2026/",
       i18n:{
         en:{title:"European Club Revenue Set to Top €30bn", summary:"Clubs in Europe's top soccer divisions posted record revenue of €28.6bn in 2025, and analysts expect the figure to clear €30bn in 2026 on the back of rising broadcast and commercial income."},
@@ -372,7 +387,7 @@
         zh:{title:"欧洲足球俱乐部收入有望突破300亿欧元", summary:"欧洲各顶级联赛俱乐部2025年收入创纪录达286亿欧元,分析人士预计,受转播权和商业收入增长推动,2026年这一数字将突破300亿欧元。"},
         fr:{title:"Les revenus des clubs européens devraient dépasser les 30 Md€", summary:"Les clubs des principaux championnats européens de football ont enregistré des revenus record de 28,6 Md€ en 2025, et les analystes prévoient que ce chiffre dépassera les 30 Md€ en 2026, porté par la hausse des revenus télévisuels et commerciaux."},
       }},
-    {id:"cnbc-american-owners-british-soccer", sport:"soccer", topics:["team","biz"], published_at:"2026-07-29T12:00:00Z",
+    {id:"cnbc-american-owners-british-soccer", sport:"soccer", region:"global", topics:["team","biz"], published_at:"2026-07-29T12:00:00Z",
       source_name:"CNBC", source_url:"https://www.cnbc.com/2026/07/29/why-america-super-rich-love-football-clubs-british.html",
       i18n:{
         en:{title:"Why America's Super-Rich Have Embraced British Soccer Clubs", summary:"North American investors now control more than half of Premier League clubs by ownership stake, accounting for a third of the 29 controlling-stake sales in 2025 — and driving much of the growth in multi-club ownership networks."},
@@ -381,7 +396,7 @@
         zh:{title:"美国超级富豪为何纷纷买入英国足球俱乐部", summary:"北美投资者目前按控股比例已掌控英超半数以上俱乐部,在2025年发生的29宗控股权交易中占据三分之一,并推动了多俱乐部持股网络的大部分增长。"},
         fr:{title:"Pourquoi les ultra-riches américains se sont épris des clubs de football britanniques", summary:"Les investisseurs nord-américains contrôlent désormais plus de la moitié des clubs de Premier League en parts majoritaires, représentant un tiers des 29 ventes de participations majoritaires en 2025 — et alimentant une grande partie de la croissance des réseaux multi-clubs."},
       }},
-    {id:"sportico-inter-miami-nu-naming-rights", sport:"soccer", topics:["stadium","sponsor"], published_at:"2026-03-16T12:00:00Z",
+    {id:"sportico-inter-miami-nu-naming-rights", sport:"soccer", region:"global", topics:["stadium","sponsor"], published_at:"2026-03-16T12:00:00Z",
       source_name:"Sportico", source_url:"https://www.sportico.com/business/sponsorship/2026/nu-bank-inter-miami-mls-stadium-naming-rights-1234886243/",
       i18n:{
         en:{title:"Inter Miami, Nu Sign One of MLS' Largest Stadium Naming Rights Deals", summary:"MLS side Inter Miami has signed a multi-year stadium naming rights deal with Brazilian digital finance company Nu, renaming its home venue Nu Stadium and adding the brand's logo to the back of its jerseys."},
@@ -390,7 +405,7 @@
         zh:{title:"迈阿密国际与巴西Nu银行签下MLS历来最大冠名权合约之一", summary:"MLS球队迈阿密国际与巴西数字金融公司Nu签署多年期球场冠名协议,主场更名为Nu体育场,品牌标志也将出现在球衣背后。"},
         fr:{title:"L'Inter Miami et Nu signent l'un des plus gros contrats de naming de stade de la MLS", summary:"Le club de MLS Inter Miami a signé un accord pluriannuel de naming avec la société financière numérique brésilienne Nu, renommant son stade Nu Stadium et ajoutant le logo de la marque au dos des maillots."},
       }},
-    {id:"arkansas-communityamerica-naming-rights", sport:"football", topics:["stadium","sponsor"], published_at:"2026-06-25T12:00:00Z",
+    {id:"arkansas-communityamerica-naming-rights", sport:"football", region:"global", topics:["stadium","sponsor"], published_at:"2026-06-25T12:00:00Z",
       source_name:"Whole Hog Sports", source_url:"https://www.wholehogsports.com/news/2026/jun/25/arkansas-football-stadium-naming-rights-deal-community-america-razorback-stadium-value/",
       i18n:{
         en:{title:"Arkansas Football's $70 Million Naming Rights Deal With CommunityAmerica", summary:"The University of Arkansas struck a 14-year, $70 million naming rights deal with CommunityAmerica Credit Union — one of the richest in college football history. Razorback Stadium takes the new name starting July 2027."},
@@ -399,7 +414,7 @@
         zh:{title:"阿肯色大学橄榄球队与CommunityAmerica签下7000万美元冠名协议", summary:"阿肯色大学与信用合作社CommunityAmerica达成为期14年、总额7000万美元的球场冠名协议,创下大学橄榄球史上最丰厚合约之一。雷泽巴克体育场将于2027年7月起启用新名称。"},
         fr:{title:"Le football américain d'Arkansas signe un contrat de naming à 70 M$ avec CommunityAmerica", summary:"L'université de l'Arkansas a conclu un accord de naming de 14 ans à 70 M$ avec la coopérative de crédit CommunityAmerica — l'un des plus riches de l'histoire du football universitaire américain. Le Razorback Stadium adoptera son nouveau nom à partir de juillet 2027."},
       }},
-    {id:"texas-tech-galaxy-stadium", sport:"football", topics:["stadium","sponsor"], published_at:"2026-07-17T12:00:00Z",
+    {id:"texas-tech-galaxy-stadium", sport:"football", region:"global", topics:["stadium","sponsor"], published_at:"2026-07-17T12:00:00Z",
       source_name:"Texas Tech Athletics", source_url:"https://texastech.com/news/2026/7/17/football-texas-tech-secures-landmark-naming-rights-agreement-with-galaxy",
       i18n:{
         en:{title:"Texas Tech Secures 15-Year Naming Rights Deal With Galaxy", summary:"Texas Tech has rebranded its football home Galaxy Stadium under a 15-year naming rights partnership with digital-asset firm Galaxy, effective for the 2026 season."},
@@ -408,7 +423,7 @@
         zh:{title:"德州理工大学与Galaxy签下15年冠名合约", summary:"德州理工大学与数字资产公司Galaxy达成15年冠名合作,其橄榄球主场自2026赛季起更名为Galaxy体育场。"},
         fr:{title:"Texas Tech obtient un accord de naming de 15 ans avec Galaxy", summary:"Texas Tech a rebaptisé son stade de football américain Galaxy Stadium dans le cadre d'un partenariat de naming de 15 ans avec la société d'actifs numériques Galaxy, effectif dès la saison 2026."},
       }},
-    {id:"avnetwork-stadium-av-trends-2026", sport:"general", topics:["tech","stadium"], published_at:"2026-01-15T12:00:00Z",
+    {id:"avnetwork-stadium-av-trends-2026", sport:"general", region:"global", topics:["tech","stadium"], published_at:"2026-01-15T12:00:00Z",
       source_name:"AVNetwork", source_url:"https://www.avnetwork.com/news/5-stadium-av-trends-to-watch-in-2026",
       i18n:{
         en:{title:"5 Stadium AV Trends to Watch in 2026", summary:"As in-venue video networks grow more complex, 2026's stadium tech spending centers on scalable media servers, redundant playback paths and centralized AV control systems to keep shows running without a hitch."},
@@ -417,7 +432,7 @@
         zh:{title:"2026年值得关注的五大场馆视听技术趋势", summary:"随着场馆内视频网络日益复杂,2026年场馆技术投入的重点转向可扩展媒体服务器、冗余播放路径以及集中式视听控制系统,以确保演出万无一失。"},
         fr:{title:"5 tendances audiovisuelles à surveiller dans les stades en 2026", summary:"Alors que les réseaux vidéo dans les enceintes se complexifient, les investissements technologiques des stades en 2026 se concentrent sur des serveurs média évolutifs, des chemins de lecture redondants et des systèmes de contrôle audiovisuel centralisés pour garantir un déroulement sans accroc."},
       }},
-    {id:"fincantieri-milano-cortina-sponsor", sport:"olympics", topics:["sponsor"], published_at:"2026-05-10T12:00:00Z",
+    {id:"fincantieri-milano-cortina-sponsor", sport:"olympics", region:"global", topics:["sponsor"], published_at:"2026-05-10T12:00:00Z",
       source_name:"Olympics.com", source_url:"https://milanocortina2026.olympics.com/en/news/fincantieri-new-sponsor-milano-cortina-2026",
       i18n:{
         en:{title:"Fincantieri Named New Sponsor of Milano Cortina 2026", summary:"Shipbuilding giant Fincantieri has signed on as an official sponsor of the Milano Cortina 2026 Winter Olympics organizing committee, with the partnership centered on sustainability and shared values."},
@@ -426,7 +441,7 @@
         zh:{title:"造船巨头芬坎蒂尼成为米兰-科尔蒂纳2026冬奥会新赞助商", summary:"造船业巨头芬坎蒂尼已与米兰-科尔蒂纳2026冬奥会组委会签署官方赞助协议,合作聚焦可持续发展等共同价值理念。"},
         fr:{title:"Fincantieri devient nouveau sponsor de Milan-Cortina 2026", summary:"Le géant de la construction navale Fincantieri est devenu sponsor officiel du comité d'organisation des Jeux olympiques d'hiver de Milan-Cortina 2026, un partenariat axé sur la durabilité et des valeurs partagées."},
       }},
-    {id:"ioc-top-partners-milano-cortina", sport:"olympics", topics:["sponsor","biz"], published_at:"2026-08-01T12:00:00Z",
+    {id:"ioc-top-partners-milano-cortina", sport:"olympics", region:"global", topics:["sponsor","biz"], published_at:"2026-08-01T12:00:00Z",
       source_name:"Olympics.com (IOC)", source_url:"https://www.olympics.com/ioc/news/how-the-worldwide-olympic-partners-make-milano-cortina-2026-possible",
       i18n:{
         en:{title:"How the Worldwide Olympic Partners Make Milano Cortina 2026 Possible", summary:"The IOC's TOP Programme, launched in 1985, grants global brands like Omega, P&G and Salesforce exclusive Olympic marketing rights. Revenue has grown from $96 million in its first four-year cycle to more than $3 billion in the most recent one."},
@@ -435,7 +450,7 @@
         zh:{title:"“全球奥林匹克合作伙伴”如何撑起米兰-科尔蒂纳2026冬奥会", summary:"国际奥委会1985年推出的TOP计划,授予欧米茄、宝洁、Salesforce等全球品牌独家奥运营销权益。相关收入已从首个四年周期的9600万美元,增长至最近一个周期的逾30亿美元。"},
         fr:{title:"Comment les Partenaires Olympiques Mondiaux rendent possible Milan-Cortina 2026", summary:"Le programme TOP du CIO, lancé en 1985, accorde à des marques mondiales comme Omega, P&G et Salesforce des droits marketing olympiques exclusifs. Les revenus sont passés de 96 millions de dollars lors du premier cycle de quatre ans à plus de 3 milliards de dollars lors du plus récent."},
       }},
-    {id:"hollywoodreporter-78bn-media-spend", sport:"general", topics:["biz"], published_at:"2026-07-10T12:00:00Z",
+    {id:"hollywoodreporter-78bn-media-spend", sport:"general", region:"global", topics:["biz"], published_at:"2026-07-10T12:00:00Z",
       source_name:"The Hollywood Reporter", source_url:"https://www.hollywoodreporter.com/business/business-news/nba-mlb-tv-deals-sports-rights-spending-analysis-1236435128/",
       i18n:{
         en:{title:"New NBA and MLB TV Deals Will Drive Global Sports-Media Spend to $78 Billion", summary:"Fresh media rights deals for the NBA and MLB are set to push global sports-media spending to $78 billion over the next five years, as streaming platforms keep bidding rights fees higher."},
@@ -444,7 +459,7 @@
         zh:{title:"NBA与MLB新转播合约将推动全球体育媒体支出达780亿美元", summary:"NBA与MLB新签订的媒体版权协议,预计将在未来五年内把全球体育媒体支出推高至780亿美元,原因是流媒体平台持续抬高版权竞价。"},
         fr:{title:"Les nouveaux contrats TV de la NBA et de la MLB porteront les dépenses médias sportives mondiales à 78 Md$", summary:"Les nouveaux contrats de droits médias de la NBA et de la MLB devraient porter les dépenses médias sportives mondiales à 78 Md$ sur les cinq prochaines années, les plateformes de streaming continuant de faire grimper les enchères sur les droits."},
       }},
-    {id:"sportsmediawatch-nba-partners-grades", sport:"basketball", topics:["biz","fan"], published_at:"2026-06-15T12:00:00Z",
+    {id:"sportsmediawatch-nba-partners-grades", sport:"basketball", region:"global", topics:["biz","fan"], published_at:"2026-06-15T12:00:00Z",
       source_name:"Sports Media Watch", source_url:"https://www.sportsmediawatch.com/2026/06/nba-broadcast-grades-review-espn-abc-inside-nbc-prime/",
       i18n:{
         en:{title:"Grading the NBA's Media Partners After Year One of the New Rights Deal", summary:"One year into the NBA's new rights split across ESPN/ABC, NBC and Amazon Prime Video, first-round playoff viewership averaged 3.84 million across the three partners — up 20% and the best mark since 1993."},
@@ -453,7 +468,7 @@
         zh:{title:"NBA新版权协议一周年:各转播伙伴表现如何", summary:"NBA新转播权分拆至ESPN/ABC、NBC和Amazon Prime Video已满一年,季后赛首轮三家平均收视人数达384万,同比增长20%,创下1993年以来最佳纪录。"},
         fr:{title:"Bilan des partenaires médias de la NBA un an après le nouveau contrat de droits", summary:"Un an après la répartition des droits de la NBA entre ESPN/ABC, NBC et Amazon Prime Video, l'audience du premier tour des playoffs a atteint en moyenne 3,84 millions de téléspectateurs sur les trois diffuseurs — en hausse de 20 %, le meilleur chiffre depuis 1993."},
       }},
-    {id:"sportsmediawatch-hornets-magic-local-deals", sport:"basketball", topics:["tech","biz"], published_at:"2026-08-20T12:00:00Z",
+    {id:"sportsmediawatch-hornets-magic-local-deals", sport:"basketball", region:"global", topics:["tech","biz"], published_at:"2026-08-20T12:00:00Z",
       source_name:"Sports Media Watch", source_url:"https://www.sportsmediawatch.com/2026/08/hornets-magic-new-local-rights-deals-streaming-ota/",
       i18n:{
         en:{title:"NBA's Hornets, Magic Expected to Go 'Beam and Stream' With New Local Deals", summary:"As NBA teams shift local broadcasting online, the Hornets and Magic are moving toward new deals pairing over-the-air affiliates with streaming — making them the fifth team this offseason to strike an OTA partnership."},
@@ -462,7 +477,7 @@
         zh:{title:"NBA黄蜂、魔术队新地方转播合约或将采用“电视+流媒体”模式", summary:"随着NBA球队地方转播逐步转向线上,黄蜂队与魔术队正推进将地面电视台与流媒体结合的新合约,成为本休赛期第五支达成此类合作的球队。"},
         fr:{title:"Hornets et Magic de la NBA pourraient combiner diffusion hertzienne et streaming pour leurs nouveaux contrats locaux", summary:"Alors que les équipes NBA basculent leur diffusion locale en ligne, les Hornets et le Magic s'orientent vers de nouveaux accords associant chaînes hertziennes affiliées et streaming — devenant la cinquième équipe de l'intersaison à conclure un tel partenariat."},
       }},
-    {id:"nielsen-tops-of-sports-2026", sport:"general", topics:["fan"], published_at:"2025-11-15T12:00:00Z",
+    {id:"nielsen-tops-of-sports-2026", sport:"general", region:"global", topics:["fan"], published_at:"2025-11-15T12:00:00Z",
       source_name:"Nielsen", source_url:"https://www.nielsen.com/insights/2025/tops-of-sports-2026/",
       i18n:{
         en:{title:"Nielsen's 'Tops of Sports': Media Trends Shaping Sports Marketing for 2026", summary:"Nielsen's report projects 2026 — anchored by Super Bowl LX and the Winter Olympics — as one of the biggest years yet for sports viewership and fan engagement, with streaming's fragmentation opening new touchpoints for marketers."},
@@ -471,7 +486,7 @@
         zh:{title:"尼尔森“Tops of Sports”报告:2026年体育营销的媒体趋势", summary:"尼尔森报告预测,以第60届超级碗和冬奥会为核心,2026年将成为体育收视与球迷参与度最高的年份之一,流媒体的碎片化为营销方带来了新的触达渠道。"},
         fr:{title:"« Tops of Sports » de Nielsen : les tendances médias qui façonneront le marketing sportif en 2026", summary:"Le rapport de Nielsen anticipe qu'en 2026 — porté par le Super Bowl LX et les Jeux olympiques d'hiver — l'audience sportive et l'engagement des fans atteindront des sommets, la fragmentation du streaming ouvrant de nouveaux points de contact pour les marques."},
       }},
-    {id:"svgeurope-statsperform-fan-engagement-2026", sport:"general", topics:["fan","tech"], published_at:"2026-01-20T12:00:00Z",
+    {id:"svgeurope-statsperform-fan-engagement-2026", sport:"general", region:"global", topics:["fan","tech"], published_at:"2026-01-20T12:00:00Z",
       source_name:"SVG Europe", source_url:"https://www.svgeurope.org/blog/news-roundup/stats-perform-releases-2026-sports-fan-engagement-content-monetisation-and-ai-trends-report/",
       i18n:{
         en:{title:"Stats Perform Releases 2026 Sports Fan Engagement, Monetisation and AI Trends Report", summary:"Stats Perform's latest survey flags AI-driven content monetization and fan engagement strategy as defining themes for sports organizations in 2026, with data sophistication increasingly separating revenue winners from laggards."},
@@ -480,7 +495,7 @@
         zh:{title:"Stats Perform发布2026年体育球迷互动、变现与AI趋势报告", summary:"Stats Perform最新调查指出,AI驱动的内容变现与球迷互动策略将成为2026年体育机构的核心议题,数据运用能力的高低正日益拉大营收赢家与落后者之间的差距。"},
         fr:{title:"Stats Perform publie son rapport 2026 sur l'engagement des fans, la monétisation et l'IA", summary:"La dernière étude de Stats Perform désigne la monétisation de contenus pilotée par l'IA et la stratégie d'engagement des fans comme des thèmes clés pour les organisations sportives en 2026, la maîtrise des données creusant de plus en plus l'écart entre gagnants et retardataires en matière de revenus."},
       }},
-    {id:"zappi-brands-redefining-sports-marketing", sport:"general", topics:["fan","sponsor"], published_at:"2026-02-05T12:00:00Z",
+    {id:"zappi-brands-redefining-sports-marketing", sport:"general", region:"global", topics:["fan","sponsor"], published_at:"2026-02-05T12:00:00Z",
       source_name:"Zappi", source_url:"https://www.zappi.io/web/blog/brands-redefining-sports-marketing/",
       i18n:{
         en:{title:"How Brands Are Redefining Sports Marketing in 2026", summary:"81% of surveyed executives say they've expanded AI use over the past year to gain efficiency, and sponsorships are shifting away from pure reach toward community-led relationship building."},
@@ -489,7 +504,7 @@
         zh:{title:"品牌如何在2026年重新定义体育营销", summary:"81%受访高管表示,过去一年已扩大AI应用以提升效率,赞助策略也正从单纯追求曝光转向以社群为核心的关系构建。"},
         fr:{title:"Comment les marques redéfinissent le marketing sportif en 2026", summary:"81 % des dirigeants interrogés déclarent avoir accru leur usage de l'IA au cours de l'année écoulée pour gagner en efficacité, et les sponsorings évoluent d'une simple recherche de portée vers une construction de relations pilotée par la communauté."},
       }},
-    {id:"sportspro-womens-sport-revenue-3bn", sport:"general", topics:["biz","sponsor"], published_at:"2026-04-08T12:00:00Z",
+    {id:"sportspro-womens-sport-revenue-3bn", sport:"general", region:"global", topics:["biz","sponsor"], published_at:"2026-04-08T12:00:00Z",
       source_name:"SportsPro", source_url:"https://www.sportspro.com/news/finance-investment/womens-sport-revenue-sponsorship-broadcast-deloitte-april-2026/",
       i18n:{
         en:{title:"Women's Elite Sports Revenues to Hit US$3bn in 2026", summary:"Driven by growing commercial partnerships, matchday attendance and broadcast income, global revenue in elite women's sport is projected to top $3 billion in 2026 — with commercial revenue alone expected to make up 45% of the total."},
@@ -498,7 +513,7 @@
         zh:{title:"2026年女子精英体育收入有望突破30亿美元", summary:"受商业合作、比赛日上座率和转播收入增长推动,全球女子精英体育收入预计将在2026年突破30亿美元,其中商业收入占比预计达45%。"},
         fr:{title:"Les revenus du sport féminin d'élite devraient atteindre 3 Md$ en 2026", summary:"Portés par la croissance des partenariats commerciaux, de l'affluence en match et des revenus de diffusion, les revenus mondiaux du sport féminin d'élite devraient dépasser 3 Md$ en 2026 — les revenus commerciaux représentant à eux seuls 45 % du total."},
       }},
-    {id:"sponsorunited-womens-sport-enterprise-era", sport:"general", topics:["sponsor","biz"], published_at:"2026-03-01T12:00:00Z",
+    {id:"sponsorunited-womens-sport-enterprise-era", sport:"general", region:"global", topics:["sponsor","biz"], published_at:"2026-03-01T12:00:00Z",
       source_name:"SponsorUnited", source_url:"https://www.sponsorunited.com/insights/breakout-plays-the-trends-winning-sports-sponsorship-in-2026-womens-sports",
       i18n:{
         en:{title:"Women's Sports Sponsorship Enters Its Enterprise Era", summary:"SponsorUnited's analysis shows brand spend in the WNBA and NWSL shifting from small test buys to enterprise-scale commitments, with women's sports sponsorship growing 17.5% year over year — more than 3.5x the rate of men's leagues."},
@@ -507,7 +522,7 @@
         zh:{title:"女子体育赞助迈入“企业级”时代", summary:"SponsorUnited分析显示,品牌在WNBA和NWSL的投入正从小规模试水转向企业级承诺,女子体育赞助同比增长17.5%,增速是男子联赛的3.5倍以上。"},
         fr:{title:"Le sponsoring du sport féminin entre dans son ère « entreprise »", summary:"L'analyse de SponsorUnited montre que les investissements des marques dans la WNBA et la NWSL passent de simples tests à des engagements à l'échelle des entreprises, le sponsoring du sport féminin progressant de 17,5 % sur un an — plus de 3,5 fois le rythme des ligues masculines."},
       }},
-    {id:"yahoo-business-of-esports-2026-report", sport:"esports", topics:["biz","sponsor"], published_at:"2026-08-15T12:00:00Z",
+    {id:"yahoo-business-of-esports-2026-report", sport:"esports", region:"global", topics:["biz","sponsor"], published_at:"2026-08-15T12:00:00Z",
       source_name:"Yahoo Finance", source_url:"https://finance.yahoo.com/media-advertising/articles/business-esports-2026-report-examines-142400781.html",
       i18n:{
         en:{title:"Business of Esports 2026 Report Examines Global Viewership, Sponsorship and Commercial Trends", summary:"A new industry report finds mobile esports has firmly become the sector's primary financial driver, while Saudi-backed investment groups have built a presence across the pipeline — from game publishing to tournament operations."},
@@ -516,7 +531,7 @@
         zh:{title:"《2026电竞商业报告》解析全球观赛、赞助与商业趋势", summary:"最新行业报告显示,移动电竞已稳固成为该行业最主要的财务驱动力,而沙特背景的投资集团已在从游戏发行到赛事运营的整条产业链中建立起影响力。"},
         fr:{title:"Le rapport « Business of Esports 2026 » analyse audience, sponsoring et tendances commerciales", summary:"Un nouveau rapport sectoriel constate que l'esport mobile est devenu le principal moteur financier du secteur, tandis que des groupes d'investissement soutenus par l'Arabie saoudite se sont implantés sur toute la chaîne, de l'édition de jeux à l'organisation de tournois."},
       }},
-    {id:"escharts-esports-business-h1-2026", sport:"esports", topics:["biz"], published_at:"2026-07-05T12:00:00Z",
+    {id:"escharts-esports-business-h1-2026", sport:"esports", region:"global", topics:["biz"], published_at:"2026-07-05T12:00:00Z",
       source_name:"Esports Charts", source_url:"https://escharts.com/news/esports-business-h1-2026",
       i18n:{
         en:{title:"Esports Business H1 2026: 4 Shifts Reshaping the Industry", summary:"Esports Charts finds equity funding for esports companies fell 12.4% year over year to $57.1 million in H1 2026, as the industry pivots from speculative bets toward pragmatic, revenue-focused expansion."},
@@ -525,7 +540,7 @@
         zh:{title:"2026年上半年电竞产业:重塑行业的四大转变", summary:"Esports Charts数据显示,2026年上半年电竞企业股权融资额同比下降12.4%至5710万美元,行业正从投机性押注转向以营收为导向的务实扩张。"},
         fr:{title:"Business de l'esport S1 2026 : 4 mutations qui redessinent le secteur", summary:"Esports Charts constate que les levées de fonds en capital des entreprises d'esport ont chuté de 12,4 % sur un an, à 57,1 M$ au premier semestre 2026, le secteur passant de paris spéculatifs à une expansion pragmatique axée sur les revenus."},
       }},
-    {id:"jleague-2026-27-partner-contracts", sport:"soccer", topics:["sponsor","biz"], published_at:"2026-01-30T12:00:00Z",
+    {id:"jleague-2026-27-partner-contracts", sport:"soccer", region:"japan", topics:["sponsor","biz"], published_at:"2026-01-30T12:00:00Z",
       source_name:"J.League", source_url:"https://www.jleague.jp/sp/news/article/34329/",
       i18n:{
         en:{title:"J.League Overhauls Its 2026/27 Season Partner Contract Structure", summary:"J.League has restructured its top-tier sponsorship into new 'Platinum' and 'Gold' partner categories for the 2026/27 season, consolidating its supporting-partner program into four areas: business, media & entertainment, football, and sustainability."},
@@ -534,7 +549,7 @@
         zh:{title:"J联赛全面革新2026/27赛季合作伙伴合约体系", summary:"J联赛为2026/27赛季推出全新“白金”与“黄金”合作伙伴等级,取代原有顶级合作伙伴体系,并将支持型合作伙伴计划整合为商业、媒体娱乐、足球和可持续发展四大领域。"},
         fr:{title:"La J.League refond sa structure de contrats partenaires pour la saison 2026/27", summary:"La J.League a restructuré son sponsoring de premier plan en nouvelles catégories « Platine » et « Or » pour la saison 2026/27, en regroupant son programme de partenaires de soutien en quatre domaines : business, médias & divertissement, football et durabilité."},
       }},
-    {id:"npb-japan-series-2026-sponsors", sport:"baseball", topics:["sponsor"], published_at:"2026-08-04T12:00:00Z",
+    {id:"npb-japan-series-2026-sponsors", sport:"baseball", region:"japan", topics:["sponsor"], published_at:"2026-08-04T12:00:00Z",
       source_name:"NPB.jp", source_url:"https://npb.jp/news/detail/20260804_01.html",
       i18n:{
         en:{title:"NPB Names Special Sponsors for the 2026 Japan Series", summary:"Nippon Professional Baseball has announced its special sponsors for the 2026 Japan Series, alongside a fan campaign tied to the league's biggest annual event."},
@@ -543,7 +558,7 @@
         zh:{title:"NPB公布“2026年日本大赛”特别协赞企业", summary:"日本职业棒球机构(NPB)公布了2026年日本大赛的特别协赞企业,并同步预告了配合联赛年度最大赛事推出的球迷活动。"},
         fr:{title:"NPB dévoile les sponsors spéciaux de la Japan Series 2026", summary:"La ligue professionnelle de baseball japonaise (NPB) a annoncé ses sponsors spéciaux pour la Japan Series 2026, ainsi qu'une campagne destinée aux fans liée au plus grand événement annuel de la ligue."},
       }},
-    {id:"smartnews-jleague-supporting-company", sport:"soccer", topics:["fan","sponsor"], published_at:"2026-06-10T12:00:00Z",
+    {id:"smartnews-jleague-supporting-company", sport:"soccer", region:"japan", topics:["fan","sponsor"], published_at:"2026-06-10T12:00:00Z",
       source_name:"SmartNews", source_url:"https://digitalpr.jp/r/137037",
       i18n:{
         en:{title:"SmartNews Signs Supporting Company Deal With J.League", summary:"News app SmartNews has signed on as a J.League supporting company, aiming to widen fan touchpoints by delivering more content spotlighting the league's community-rooted clubs."},
@@ -552,7 +567,7 @@
         zh:{title:"SmartNews与J联赛签署支持型合作伙伴协议", summary:"新闻应用SmartNews已成为J联赛支持型合作伙伴,力图通过提供更多聚焦联赛社区型俱乐部的内容,拓宽与球迷的接触面。"},
         fr:{title:"SmartNews signe un accord d'entreprise partenaire avec la J.League", summary:"L'application d'actualités SmartNews est devenue entreprise partenaire de la J.League, dans le but d'élargir les points de contact avec les fans en proposant davantage de contenus mettant en avant les clubs ancrés dans leur communauté."},
       }},
-    {id:"seahawks-khosla-sale-closes", sport:"football", topics:["team","biz"], published_at:"2026-09-03T20:00:00Z",
+    {id:"seahawks-khosla-sale-closes", sport:"football", region:"global", topics:["team","biz"], published_at:"2026-09-03T20:00:00Z",
       source_name:"NFL.com", source_url:"https://www.nfl.com/news/khosla-family-closes-purchase-seahawks",
       i18n:{
         en:{title:"Seahawks Sale to Khosla Family Officially Closes at Record $9.6 Billion", summary:"The sale of the Seattle Seahawks from the Paul Allen estate to a group led by the Khosla family (Vinod, Neeru and Neal Khosla) officially closed on Sept. 3, at roughly $9.612 billion — the highest price ever paid for an NFL franchise, and a rare case of a reigning Super Bowl champion changing hands within months of the title."},
@@ -561,7 +576,7 @@
         zh:{title:"西雅图海鹰队售予科斯拉家族正式完成,96亿美元创NFL纪录", summary:"西雅图海鹰队由保罗·艾伦遗产基金会出售给科斯拉家族(维诺德、尼鲁与尼尔·科斯拉)领衔的团队一事已于9月3日正式完成交割,交易额约为96.12亿美元,创下NFL球队交易历史最高纪录,也是罕见的卫冕超级碗冠军在夺冠数月内易主的案例。"},
         fr:{title:"La vente des Seahawks à la famille Khosla est officiellement finalisée pour un record de 9,6 Md$", summary:"La vente des Seattle Seahawks par la succession de Paul Allen à un groupe mené par la famille Khosla (Vinod, Neeru et Neal Khosla) a été officiellement finalisée le 3 septembre, pour environ 9,612 Md$ — le prix le plus élevé jamais payé pour une franchise NFL, et un cas rare de champion en titre du Super Bowl changeant de mains quelques mois après son sacre."},
       }},
-    {id:"cnbc-nfl-valuations-2026", sport:"football", topics:["biz","team"], published_at:"2026-09-09T10:00:00Z",
+    {id:"cnbc-nfl-valuations-2026", sport:"football", region:"global", topics:["biz","team"], published_at:"2026-09-09T10:00:00Z",
       source_name:"CNBC", source_url:"https://www.cnbc.com/2026/09/09/cnbcs-official-nfl-team-valuations-2026-heres-how-the-32-franchises-stack-up.html",
       i18n:{
         en:{title:"CNBC's 2026 NFL Valuations: Average Franchise Now $10.36 Billion, Up 35%", summary:"CNBC's latest NFL franchise valuations put the league average at $10.36 billion, up 35% year over year. The Dallas Cowboys remain No. 1 at $16 billion on the back of the league's highest revenue, with the Rams, Raiders, Giants and Patriots joining them above the $12 billion mark."},
@@ -570,7 +585,7 @@
         zh:{title:"CNBC 2026年NFL估值:平均球队价值达103.6亿美元,增长35%", summary:"CNBC最新NFL球队估值显示,联盟平均价值达103.6亿美元,同比增长35%。达拉斯牛仔队凭借联盟最高营收继续以160亿美元位列第一,公羊、突袭者、巨人和爱国者队也跻身120亿美元以上行列。"},
         fr:{title:"Valorisations NFL 2026 de CNBC : la franchise moyenne à 10,36 Md$, en hausse de 35 %", summary:"Les dernières valorisations NFL de CNBC placent la moyenne de la ligue à 10,36 Md$, en hausse de 35 % sur un an. Les Cowboys de Dallas restent numéro un à 16 Md$ grâce aux revenus les plus élevés de la ligue, les Rams, Raiders, Giants et Patriots les rejoignant au-dessus des 12 Md$."},
       }},
-    {id:"forest-marex-shirt-sponsorship", sport:"soccer", topics:["sponsor"], published_at:"2026-08-18T09:00:00Z",
+    {id:"forest-marex-shirt-sponsorship", sport:"soccer", region:"global", topics:["sponsor"], published_at:"2026-08-18T09:00:00Z",
       source_name:"Nottingham Forest FC", source_url:"https://www.nottinghamforest.co.uk/news/2026/august/18/forest-announces-marex-as-principal-partner/",
       i18n:{
         en:{title:"Nottingham Forest Names Marex Principal Partner in Multi-Year Shirt Deal", summary:"Premier League side Nottingham Forest has signed global financial services firm Marex as principal partner in a multi-year deal reportedly worth about £25 million over three years, taking over front-of-shirt sponsorship on the men's, women's and netball kits from outgoing gambling sponsor Bally's."},
@@ -579,7 +594,7 @@
         zh:{title:"诺丁汉森林队官宣Marex为多年期胸前广告首席合作伙伴", summary:"英超诺丁汉森林队与全球金融服务公司Marex签署多年期首席合作伙伴协议,据报三年总额约2500万英镑,接替原博彩赞助商Bally's,成为男女一线队及无板篮球队的胸前广告赞助商。"},
         fr:{title:"Nottingham Forest nomme Marex partenaire principal dans un contrat de maillot pluriannuel", summary:"Le club de Premier League Nottingham Forest a signé la société de services financiers mondiale Marex comme partenaire principal, dans un accord pluriannuel évalué à environ 25 M£ sur trois ans, reprenant le sponsoring frontal des maillots masculins, féminins et de netball auprès du sponsor de paris sortant Bally's."},
       }},
-    {id:"manutd-betway-training-kit-record", sport:"soccer", topics:["sponsor","biz"], published_at:"2026-08-04T09:00:00Z",
+    {id:"manutd-betway-training-kit-record", sport:"soccer", region:"global", topics:["sponsor","biz"], published_at:"2026-08-04T09:00:00Z",
       source_name:"Goal.com", source_url:"https://www.goal.com/en-ae/lists/man-utd-confirm-record-breaking-training-kit-deal-betway/blte02405c9795d3389",
       i18n:{
         en:{title:"Manchester United Signs World's Richest Training-Kit Deal With Betway", summary:"Manchester United has agreed a multi-year training-kit sponsorship with online betting firm Betway reportedly worth around £20 million a season — described as the richest such deal in the world and filling the gap left by the club's expired Tezos partnership."},
@@ -588,7 +603,7 @@
         zh:{title:"曼联与Betway签下全球最高额训练服赞助合约", summary:"曼联与在线博彩公司Betway达成多年期训练服赞助协议,据报每季约2000万英镑,号称全球同类合约中金额最高,填补了此前与Tezos合约到期后留下的空缺。"},
         fr:{title:"Manchester United signe le contrat de tenue d'entraînement le plus riche au monde avec Betway", summary:"Manchester United a conclu un partenariat pluriannuel pour sa tenue d'entraînement avec le bookmaker en ligne Betway, évalué à environ 20 M£ par saison — présenté comme le contrat le plus riche au monde dans cette catégorie, comblant le vide laissé par le partenariat expiré avec Tezos."},
       }},
-    {id:"sporting-kc-mallouk-sale", sport:"soccer", topics:["team","biz"], published_at:"2026-01-16T12:00:00Z",
+    {id:"sporting-kc-mallouk-sale", sport:"soccer", region:"global", topics:["team","biz"], published_at:"2026-01-16T12:00:00Z",
       source_name:"SportsPro", source_url:"https://www.sportspro.com/news/finance-investment/sporting-kansas-city-sale-peter-mallouk-illig-ownership-valuation-mls-january-2026/",
       i18n:{
         en:{title:"Sporting KC Sold to Peter Mallouk in MLS-Record $700 Million Deal", summary:"MLS club Sporting Kansas City's controlling stake has been sold by the Illig family to minority owner Peter Mallouk, CEO of wealth manager Creative Planning, at an enterprise valuation of roughly $700 million — a league record for a controlling-stake sale, with the Illigs retaining a small minority interest."},
@@ -597,7 +612,7 @@
         zh:{title:"堪萨斯城竞技队以7亿美元创MLS纪录出售给马卢克", summary:"MLS球队堪萨斯城竞技队的控股权已由伊利格家族出售给少数股东、财富管理公司Creative Planning首席执行官彼得·马卢克,企业估值约7亿美元,创下联盟控股权交易纪录,伊利格家族保留小部分少数股权。"},
         fr:{title:"Sporting KC vendu à Peter Mallouk pour un record MLS de 700 M$", summary:"La participation majoritaire du club de MLS Sporting Kansas City a été cédée par la famille Illig à l'actionnaire minoritaire Peter Mallouk, PDG du gestionnaire de patrimoine Creative Planning, pour une valorisation d'entreprise d'environ 700 M$ — un record de la ligue pour une vente de participation majoritaire, la famille Illig conservant une petite part minoritaire."},
       }},
-    {id:"tottenham-hpe-network-expansion", sport:"soccer", topics:["tech","stadium"], published_at:"2026-09-02T09:00:00Z",
+    {id:"tottenham-hpe-network-expansion", sport:"soccer", region:"global", topics:["tech","stadium"], published_at:"2026-09-02T09:00:00Z",
       source_name:"HPE", source_url:"https://www.hpe.com/us/en/newsroom/press-release/2026/09/tottenham-hotspur-and-hpe-transform-digital-fan-experience-and-stadium-operations.html",
       i18n:{
         en:{title:"Tottenham Hotspur Expands HPE Partnership to Overhaul Stadium IT", summary:"Tottenham Hotspur has expanded its technology partnership with HPE, rebuilding the stadium's IT backbone on HPE's GreenLake hybrid-cloud platform. The project consolidates previously distributed compute and storage into two core environments and will roll out outdoor Wi-Fi 7, ticketless entry and cashless payments."},
@@ -606,7 +621,7 @@
         zh:{title:"托特纳姆热刺扩大与HPE合作,全面升级球场IT架构", summary:"托特纳姆热刺扩大了与HPE的技术合作,基于HPE GreenLake混合云平台重建球场IT主干网络。该项目将原本分散的计算与存储资源整合至两个核心环境,并将部署业内领先的室外Wi-Fi 7、无票入场及无现金支付。"},
         fr:{title:"Tottenham Hotspur élargit son partenariat avec HPE pour refondre l'infrastructure IT du stade", summary:"Tottenham Hotspur a élargi son partenariat technologique avec HPE, reconstruisant l'ossature informatique du stade sur la plateforme cloud hybride GreenLake d'HPE. Le projet regroupe le calcul et le stockage auparavant dispersés en deux environnements centraux, et déploiera le Wi-Fi 7 en extérieur, l'entrée sans billet et les paiements sans espèces."},
       }},
-    {id:"cavaliers-dazn-local-streaming-deal", sport:"basketball", topics:["tech","biz"], published_at:"2026-09-01T09:00:00Z",
+    {id:"cavaliers-dazn-local-streaming-deal", sport:"basketball", region:"global", topics:["tech","biz"], published_at:"2026-09-01T09:00:00Z",
       source_name:"Cavaliers.com", source_url:"https://cavs.com/news/releases-cavaliers-dazn-260901",
       i18n:{
         en:{title:"Cavaliers Move Local Broadcasts to DAZN for 2026-27 Season", summary:"The Cleveland Cavaliers have signed a multiyear deal making DAZN their exclusive local streaming partner starting in 2026-27, with plans from $19.99 a month and 15 games free. Cleveland becomes the third NBA team, after Minnesota and Indiana, to go DAZN-exclusive following the collapse of regional broadcaster Main Street Sports Group."},
@@ -615,7 +630,7 @@
         zh:{title:"骑士队2026-27赛季地方转播全面转投DAZN", summary:"克利夫兰骑士队签署多年期协议,自2026-27赛季起将DAZN定为独家地方流媒体转播伙伴,套餐月费19.99美元起,并提供15场免费观看。继明尼苏达和印第安纳之后,骑士队成为地方转播商Main Street Sports Group破产后第三支转投DAZN独家转播的NBA球队。"},
         fr:{title:"Les Cavaliers basculent leur diffusion locale sur DAZN pour la saison 2026-27", summary:"Les Cavaliers de Cleveland ont signé un accord pluriannuel faisant de DAZN leur partenaire exclusif de streaming local à partir de 2026-27, avec des forfaits dès 19,99 $ par mois et 15 matchs gratuits. Cleveland devient la troisième équipe NBA, après le Minnesota et l'Indiana, à passer en exclusivité chez DAZN suite à l'effondrement du diffuseur régional Main Street Sports Group."},
       }},
-    {id:"allegiant-stadium-north-entrance-upgrade", sport:"football", topics:["stadium"], published_at:"2026-09-03T20:00:00Z",
+    {id:"allegiant-stadium-north-entrance-upgrade", sport:"football", region:"global", topics:["stadium"], published_at:"2026-09-03T20:00:00Z",
       source_name:"NFL.com", source_url:"https://www.nfl.com/news/las-vegas-stadium-authority-approves-75-million-upgrades-allegiant-stadium",
       i18n:{
         en:{title:"Las Vegas Approves $75M in Public Funds for $158M Allegiant Stadium Upgrade", summary:"The Las Vegas Stadium Authority has approved $75 million in public funding toward a $158 million overhaul of Allegiant Stadium's congested north entrance, with the Raiders covering the remaining $83 million. The project adds pedestrian decks and a plaza to ease Strip-side access, targeting completion by late 2028."},
@@ -624,7 +639,7 @@
         zh:{title:"拉斯维加斯批准7500万美元公共资金,用于阿利吉恩特体育场1.58亿美元改造", summary:"拉斯维加斯体育场管理局已批准拨款7500万美元公共资金,用于阿利吉恩特体育场拥堵北入口的1.58亿美元改造工程,其余8300万美元由突袭者队承担。项目将新增人行天桥和广场以缓解毗邻拉斯维加斯大道一侧的通行压力,预计2028年底完工。"},
         fr:{title:"Las Vegas approuve 75 M$ de fonds publics pour une rénovation de 158 M$ de l'Allegiant Stadium", summary:"L'autorité des stades de Las Vegas a approuvé 75 M$ de financement public pour une rénovation de 158 M$ de l'entrée nord engorgée de l'Allegiant Stadium, les Raiders prenant en charge les 83 M$ restants. Le projet ajoute des passerelles piétonnes et une esplanade pour faciliter l'accès côté Strip, avec un achèvement visé fin 2028."},
       }},
-    {id:"haier-uefa-champions-league-global-partner", sport:"soccer", topics:["sponsor"], published_at:"2026-09-04T09:00:00Z",
+    {id:"haier-uefa-champions-league-global-partner", sport:"soccer", region:"global", topics:["sponsor"], published_at:"2026-09-04T09:00:00Z",
       source_name:"Inside World Football", source_url:"https://www.insideworldfootball.com/2026/09/04/haier-uc3-uefa-champions-league-global-partnership",
       i18n:{
         en:{title:"Haier Becomes New Global Partner of the UEFA Champions League", summary:"Chinese appliance giant Haier has signed a four-year global partnership covering the UEFA Champions League and other UEFA club competitions from the 2027-28 through 2030-31 seasons, securing exclusive worldwide sponsorship rights in home appliances, televisions and commercial displays."},
@@ -633,7 +648,7 @@
         zh:{title:"中国海尔成为欧冠联赛新全球合作伙伴", summary:"中国家电巨头海尔已签署为期四年的全球合作协议,覆盖欧冠联赛及其他欧足联俱乐部赛事,时间跨度为2027-28赛季至2030-31赛季,并获得家电、电视机及商用显示领域的全球独家赞助权益。"},
         fr:{title:"Haier devient nouveau partenaire mondial de la Ligue des champions de l'UEFA", summary:"Le géant chinois de l'électroménager Haier a signé un partenariat mondial de quatre ans couvrant la Ligue des champions de l'UEFA et d'autres compétitions de clubs de l'UEFA, de la saison 2027-28 à 2030-31, s'assurant des droits de sponsoring exclusifs dans le monde entier pour l'électroménager, les téléviseurs et les écrans commerciaux."},
       }},
-    {id:"savvy-games-moonton-acquisition", sport:"esports", topics:["biz","team"], published_at:"2026-03-20T09:00:00Z",
+    {id:"savvy-games-moonton-acquisition", sport:"esports", region:"global", topics:["biz","team"], published_at:"2026-03-20T09:00:00Z",
       source_name:"Game Developer", source_url:"https://www.gamedeveloper.com/business/savvy-games-group-agreed-to-buy-moonton-games-for-6-billion",
       i18n:{
         en:{title:"Saudi-Backed Savvy Games Group to Acquire Moonton for More Than $6 Billion", summary:"Saudi Arabia's PIF-owned Savvy Games Group has agreed to acquire Moonton, the studio behind mobile MOBA hit Mobile Legends: Bang Bang, from ByteDance for more than $6 billion — about 50% above the price ByteDance paid in 2021, and one of the largest deals in gaming industry history."},
@@ -642,7 +657,7 @@
         zh:{title:"沙特背景Savvy Games将以逾60亿美元收购Moonton", summary:"沙特主权基金PIF旗下的Savvy Games Group已同意从字节跳动手中以逾60亿美元收购手游《无尽对决》(Mobile Legends: Bang Bang)开发商Moonton,估值较字节跳动2021年收购价高出约五成,成为游戏行业史上规模最大的并购交易之一。"},
         fr:{title:"Le saoudien Savvy Games Group va acquérir Moonton pour plus de 6 Md$", summary:"Savvy Games Group, détenu par le fonds saoudien PIF, a accepté d'acquérir Moonton, le studio derrière le succès mobile Mobile Legends: Bang Bang, auprès de ByteDance pour plus de 6 Md$ — environ 50 % de plus que le prix payé par ByteDance en 2021, l'une des plus grosses opérations de l'histoire du jeu vidéo."},
       }},
-    {id:"npb-allstar-homerun-derby-nissan-sponsor", sport:"baseball", topics:["sponsor"], published_at:"2026-07-11T09:00:00Z",
+    {id:"npb-allstar-homerun-derby-nissan-sponsor", sport:"baseball", region:"japan", topics:["sponsor"], published_at:"2026-07-11T09:00:00Z",
       source_name:"スポーツナビ", source_url:"https://sports.yahoo.co.jp/column/detail/2026071100022-spnaviow",
       i18n:{
         en:{title:"Nissan Named Title Sponsor of NPB All-Star Home Run Derby 2026", summary:"Nippon Professional Baseball has named Nissan Motor as the title sponsor of the Home Run Derby held during the Mynavi All-Star Game 2026, marking a notable automaker tie-in for the league's midseason showcase event."},
@@ -651,7 +666,7 @@
         zh:{title:"日产汽车成为2026年NPB全明星本垒打大赛冠名赞助商", summary:"日本职业棒球机构宣布,日产汽车将成为2026年“Mynavi全明星赛”期间举办的本垒打大赛冠名赞助商,是该联赛年中重头活动中一次引人注目的汽车品牌合作。"},
         fr:{title:"Nissan devient sponsor titre du Home Run Derby du All-Star Game NPB 2026", summary:"La ligue de baseball professionnelle japonaise (NPB) a nommé Nissan Motor sponsor titre du Home Run Derby organisé pendant le Mynavi All-Star Game 2026, un partenariat automobile notable pour l'événement vedette de mi-saison de la ligue."},
       }},
-    {id:"bills-highmark-stadium-turf-replacement", sport:"football", topics:["stadium"], published_at:"2026-09-02T09:00:00Z",
+    {id:"bills-highmark-stadium-turf-replacement", sport:"football", region:"global", topics:["stadium"], published_at:"2026-09-02T09:00:00Z",
       source_name:"Stadium Tech Report", source_url:"https://stadiumtechreport.com/news/top-stories-from-week-ending-9-4-26/",
       i18n:{
         en:{title:"Bills Replace Natural Grass at New Highmark Stadium Ahead of Season Opener", summary:"The Buffalo Bills are replacing the natural grass surface at their new $2.2 billion Highmark Stadium after portions came loose during preseason games, with the resodding work targeted for completion before the venue's regular-season opener on Sept. 17."},
@@ -660,7 +675,7 @@
         zh:{title:"比尔斯队在赛季揭幕前更换全新海马克体育场天然草皮", summary:"布法罗比尔斯队斥资22亿美元打造的新主场海马克体育场,因季前赛期间部分草皮出现松动问题,球队正抓紧更换天然草皮,力争在9月17日常规赛揭幕战前完工。"},
         fr:{title:"Les Bills remplacent la pelouse naturelle du nouveau Highmark Stadium avant l'ouverture de la saison", summary:"Les Bills de Buffalo remplacent la pelouse naturelle de leur nouveau stade Highmark, à 2,2 Md$, après que des portions se sont détachées lors de matchs de présaison, les travaux de regarnissage devant être achevés avant le match d'ouverture de la saison régulière le 17 septembre."},
       }},
-    {id:"manutd-sumup-sleeve-sponsorship", sport:"soccer", topics:["sponsor"], published_at:"2026-09-08T09:00:00Z",
+    {id:"manutd-sumup-sleeve-sponsorship", sport:"soccer", region:"global", topics:["sponsor"], published_at:"2026-09-08T09:00:00Z",
       source_name:"Yahoo Sports", source_url:"https://sports.yahoo.com/articles/man-utd-agree-multi-million-101301094.html",
       i18n:{
         en:{title:"Manchester United Signs Sleeve Sponsorship With Fintech Firm SumUp", summary:"Manchester United have announced a multi-year sleeve sponsorship deal with British fintech firm SumUp, whose branding will appear on the men's, women's and academy kits across all competitions. The partnership also includes a co-branded payment card offering rewards at club outlets and UK businesses, with the sponsor debuting Sept. 10 in the club's Champions League match against Sabah, replacing outgoing sponsor DXC Technology."},
@@ -669,7 +684,7 @@
         zh:{title:"曼联与金融科技公司SumUp签署袖标赞助协议", summary:"曼联宣布与英国金融科技公司SumUp达成多年期袖标赞助协议,该品牌标志将出现在男女一线队及青训队各项赛事球衣上。此次合作还包括联名支付卡,可在俱乐部门店及英国商户享受奖励,新赞助商将于9月10日对阵萨巴赫的欧冠比赛中首次亮相,接替此前的DXC Technology。"},
         fr:{title:"Manchester United signe un sponsoring de manche avec la fintech SumUp", summary:"Manchester United a annoncé un accord pluriannuel de sponsoring de manche avec la fintech britannique SumUp, dont la marque apparaîtra sur les maillots masculins, féminins et de l'académie dans toutes les compétitions. Le partenariat inclut aussi une carte de paiement co-brandée offrant des avantages dans les boutiques du club et chez des commerçants britanniques, le sponsor faisant ses débuts le 10 septembre lors du match de Ligue des champions contre Sabah, en remplacement de DXC Technology."},
       }},
-    {id:"mercedes-benz-stadium-mini-halo-board", sport:"football", topics:["tech","stadium"], published_at:"2026-09-02T12:00:00Z",
+    {id:"mercedes-benz-stadium-mini-halo-board", sport:"football", region:"global", topics:["tech","stadium"], published_at:"2026-09-02T12:00:00Z",
       source_name:"Stadium Tech Report", source_url:"https://stadiumtechreport.com/news/top-stories-from-week-ending-9-4-26/",
       i18n:{
         en:{title:"Mercedes-Benz Stadium Adds Mini Halo Board to Control Room", summary:"Mercedes-Benz Stadium in Atlanta has installed a scaled-down replica of its signature 360-degree Halo Board inside its control room, letting production staff preview content in the display's unusual curved format before it goes live. The addition, part of a broader technology refresh at the nine-year-old venue, comes alongside two new software-defined production engines."},
@@ -678,7 +693,7 @@
         zh:{title:"梅赛德斯-奔驰体育场在控制室加装迷你环形大屏", summary:"亚特兰大梅赛德斯-奔驰体育场在其控制室内安装了标志性360度环形大屏“Halo Board”的缩小复制版,方便制作团队在正式播出前预览这种特殊弧形画面格式的内容。此举是这座启用九年的场馆更广泛技术升级的一部分,同时还新增了两套软件定义制作引擎。"},
         fr:{title:"Le Mercedes-Benz Stadium ajoute une mini réplique du Halo Board dans sa régie", summary:"Le Mercedes-Benz Stadium d'Atlanta a installé dans sa régie une réplique miniature de son emblématique écran panoramique à 360 degrés, le Halo Board, permettant à l'équipe de production de prévisualiser le contenu dans ce format incurvé inhabituel avant diffusion. Cet ajout, qui s'inscrit dans une modernisation technologique plus large du site âgé de neuf ans, s'accompagne de deux nouveaux moteurs de production définis par logiciel."},
       }},
-    {id:"gamesquare-nasdaq-compliance-regained", sport:"esports", topics:["biz"], published_at:"2026-09-05T12:00:00Z",
+    {id:"gamesquare-nasdaq-compliance-regained", sport:"esports", region:"global", topics:["biz"], published_at:"2026-09-05T12:00:00Z",
       source_name:"The Esports Radar", source_url:"https://esportsradar.gg/faze-owner-gamesquare-regains-compliance-with-nasdaqs-minimum-bid-requirement/",
       i18n:{
         en:{title:"Esports Firm GameSquare Averts Nasdaq Delisting via Reverse Stock Split", summary:"GameSquare Holdings, parent of esports org FaZe Clan, has cleared Nasdaq's minimum bid-price requirement after completing a shareholder-approved 1-for-8 reverse stock split. Shares held above $1 from Aug. 24 through Sept. 4, letting the company beat its Sept. 7 compliance deadline, though a delisting determination would follow immediately if the stock dips below $1 again within a year."},
@@ -687,7 +702,7 @@
         zh:{title:"电竞公司GameSquare通过股票合并避免纳斯达克退市", summary:"电竞战队FaZe Clan母公司GameSquare Holdings完成股东批准的1股合8股并股后,已满足纳斯达克最低股价要求。公司股价自8月24日至9月4日维持在1美元以上,得以在9月7日合规截止日前达标,但若一年内股价再度跌破1美元,将立即触发退市裁定。"},
         fr:{title:"L'entreprise d'esport GameSquare évite la radiation du Nasdaq via un regroupement d'actions", summary:"GameSquare Holdings, maison mère de l'organisation esport FaZe Clan, a satisfait à l'exigence de prix plancher du Nasdaq après avoir réalisé un regroupement d'actions de 1 pour 8 approuvé par les actionnaires. L'action est restée au-dessus de 1 $ du 24 août au 4 septembre, permettant à l'entreprise de respecter son échéance de conformité du 7 septembre, bien qu'une radiation serait immédiatement prononcée si le titre repassait sous 1 $ dans l'année."},
       }},
-    {id:"intel-mclaren-f1-compute-partnership", sport:"motorsports", topics:["sponsor","tech"], published_at:"2026-05-14T12:00:00Z",
+    {id:"intel-mclaren-f1-compute-partnership", sport:"motorsports", region:"global", topics:["sponsor","tech"], published_at:"2026-05-14T12:00:00Z",
       source_name:"Intel Newsroom", source_url:"https://newsroom.intel.com/corporate/intel-named-official-compute-partner-of-mclaren-racing",
       i18n:{
         en:{title:"Intel Returns to F1 After 17 Years in McLaren Compute Partnership", summary:"Chipmaker Intel has signed a multi-year deal to become Official Compute Partner of McLaren Racing, marking its return to Formula 1 after 17 years since its last partnership with BMW Sauber ended in 2009. Intel's Xeon and Core Ultra processors will power McLaren's aerodynamic analysis, vehicle-dynamics simulation and race-strategy work, with branding extending to the team's IndyCar and sim-racing programs as well."},
@@ -696,7 +711,7 @@
         zh:{title:"英特尔时隔17年重返F1,与迈凯伦达成计算合作", summary:"芯片制造商英特尔已签署多年期协议,成为迈凯伦车队官方计算合作伙伴,这是自2009年与宝马索伯合作结束以来,英特尔时隔17年重返F1赛场。英特尔至强及酷睿Ultra处理器将支持迈凯伦的空气动力学分析、整车动态模拟及比赛策略研究,合作品牌标识也将延伸至该车队的IndyCar及模拟赛车项目。"},
         fr:{title:"Intel revient en F1 après 17 ans via un partenariat informatique avec McLaren", summary:"Le fabricant de puces Intel a signé un accord pluriannuel pour devenir Partenaire Informatique Officiel de McLaren Racing, marquant son retour en Formule 1 dix-sept ans après la fin de son dernier partenariat avec BMW Sauber en 2009. Les processeurs Xeon et Core Ultra d'Intel alimenteront les analyses aérodynamiques, les simulations de dynamique du véhicule et les travaux de stratégie de course de McLaren, la marque s'étendant aussi aux programmes IndyCar et sim-racing de l'écurie."},
       }},
-    {id:"pirelli-f1-tyre-deal-2028", sport:"motorsports", topics:["sponsor"], published_at:"2026-06-11T12:00:00Z",
+    {id:"pirelli-f1-tyre-deal-2028", sport:"motorsports", region:"global", topics:["sponsor"], published_at:"2026-06-11T12:00:00Z",
       source_name:"Formula1.com", source_url:"https://www.formula1.com/en/latest/article/formula-1-and-fia-announce-extension-of-pirellis-global-tyre-partnership-through-2028.7zmagtUQMH0KGPsvBcIqAF",
       i18n:{
         en:{title:"Pirelli Extends F1 Tyre Supply Deal Through 2028", summary:"The FIA and Formula 1 have confirmed a one-year extension of Pirelli's exclusive tyre supply contract through the 2028 season, activating an option clause built into the 2023 agreement that originally covered 2025-27. Pirelli remains sole tyre supplier across F1, F2 and F3 under the extended deal."},
@@ -705,7 +720,7 @@
         zh:{title:"倍耐力将F1轮胎供应合约延长至2028赛季", summary:"国际汽联与F1官方确认,倍耐力独家轮胎供应合约延长一年至2028赛季,启用了2023年协议中原本覆盖2025-27赛季的选择权条款。根据延长后的合约,倍耐力将继续担任F1、F2及F3的唯一轮胎供应商。"},
         fr:{title:"Pirelli prolonge son contrat de fourniture de pneus en F1 jusqu'en 2028", summary:"La FIA et la Formule 1 ont confirmé une prolongation d'un an du contrat exclusif de fourniture de pneus de Pirelli jusqu'à la saison 2028, activant une clause d'option intégrée à l'accord de 2023 qui couvrait initialement 2025-27. Pirelli reste fournisseur unique de pneus en F1, F2 et F3 dans le cadre de ce contrat prolongé."},
       }},
-    {id:"premier-league-record-summer-spending-2026", sport:"soccer", topics:["biz"], published_at:"2026-09-02T12:00:00Z",
+    {id:"premier-league-record-summer-spending-2026", sport:"soccer", region:"global", topics:["biz"], published_at:"2026-09-02T12:00:00Z",
       source_name:"Sports Illustrated", source_url:"https://www.si.com/soccer/premier-league-transfers-total-money-spent-2026-summer-window",
       i18n:{
         en:{title:"Premier League Clubs Smash Transfer Record With $4.75B Summer Spend", summary:"Premier League clubs spent a combined $4.75 billion (£3.5bn) in the 2026 summer transfer window, breaking last year's record for the second straight year. Manchester City topped the spending table at roughly $609 million, followed by Chelsea and Tottenham, with 11 clubs setting individual transfer records — including City's $168.8 million (£125m) purchase of Enzo Fernández, matching the British transfer record."},
@@ -714,7 +729,7 @@
         zh:{title:"英超2026年夏窗转会支出达47.5亿美元,创历史新高", summary:"英超20家俱乐部在2026年夏季转会窗口合计投入约35.5亿英镑(合47.5亿美元),连续第二年刷新历史纪录。曼城以约6.09亿美元支出高居榜首,切尔西、热刺紧随其后,共有11家俱乐部刷新各自队史转会纪录,其中曼城以1.688亿美元(1.25亿英镑)引进恩佐·费尔南德斯,追平英国转会纪录。"},
         fr:{title:"La Premier League pulvérise son record de transferts avec 4,75 Md$ dépensés cet été", summary:"Les clubs de Premier League ont dépensé au total 4,75 Md$ (3,5 Md£) lors du mercato estival 2026, battant le record de l'an dernier pour la deuxième année consécutive. Manchester City arrive en tête des dépenses avec environ 609 M$, suivi de Chelsea et Tottenham, 11 clubs ayant établi leur propre record de transfert — dont l'achat d'Enzo Fernández par City pour 168,8 M$ (125 M£), égalant le record britannique de transfert."},
       }},
-    {id:"uniqlo-bleague-partnership-2026", sport:"basketball", topics:["sponsor","fan"], published_at:"2026-09-01T12:00:00Z",
+    {id:"uniqlo-bleague-partnership-2026", sport:"basketball", region:"japan", topics:["sponsor","fan"], published_at:"2026-09-01T12:00:00Z",
       source_name:"UNIQLO", source_url:"https://www.uniqlo.com/jp/ja/contents/corp/press-release/2026/09/bleague_b_2027bleagueutme5593.html",
       i18n:{
         en:{title:"Uniqlo Signs First Basketball Partnership With Japan's B.League", summary:"Uniqlo announced a new partnership with Japan's B.League on Sept. 1, marking the retailer's first foray into basketball apparel. Starting this month it will supply referee and table-official uniforms, and it will provide its first-ever basketball uniforms for the January 2027 B.League All-Star Game, while also expanding its UTme! custom-apparel service featuring all 55 clubs' logos from 37 to 94 stores."},
@@ -723,7 +738,7 @@
         zh:{title:"优衣库与日本B联赛签署首份篮球领域合作协议", summary:"优衣库9月1日宣布与日本B联赛达成新合作,这是该零售商首次涉足篮球服饰领域。自本月起将提供裁判及记录台官员服装,并将在2027年1月的B联赛全明星赛上首次供应篮球比赛服;同时把可定制全部55家俱乐部队徽的“UTme!”服务门店数从37家扩大至94家。"},
         fr:{title:"Uniqlo signe son premier partenariat basket avec la B.League japonaise", summary:"Uniqlo a annoncé le 1er septembre un nouveau partenariat avec la B.League japonaise, marquant sa première incursion dans l'habillement basket. Dès ce mois-ci, la marque fournira les tenues des arbitres et officiels de table, et habillera pour la première fois le All-Star Game de la B.League en janvier 2027, tout en étendant son service de personnalisation UTme!, qui propose les logos des 55 clubs, de 37 à 94 boutiques."},
       }},
-    {id:"hisense-bleague-official-sponsor-2026-27", sport:"basketball", topics:["sponsor","tech"], published_at:"2026-07-31T12:00:00Z",
+    {id:"hisense-bleague-official-sponsor-2026-27", sport:"basketball", region:"japan", topics:["sponsor","tech"], published_at:"2026-07-31T12:00:00Z",
       source_name:"Kyodo News", source_url:"https://b.kyodo.co.jp/business/2026-07-31_8447927/",
       i18n:{
         en:{title:"China's Hisense Becomes Official B.League Sponsor, to Supply LED Displays Leaguewide", summary:"Hisense Japan, the local arm of the Chinese electronics maker, has become an official sponsor of Japan's B.League starting with the 2026-27 season that tips off Sept. 22. The deal includes supplying LED video panels to all 26 top-division arenas, alongside promotional campaigns run through electronics retailers and online channels, as the league — now in its tenth season with attendance more than double its founding levels — continues an aggressive expansion push."},
@@ -732,7 +747,7 @@
         zh:{title:"中国海信成为B联赛官方赞助商,将为全联盟供应LED显示屏", summary:"中国家电制造商海信的日本子公司已成为日本B联赛官方赞助商,合作自9月22日开幕的2026-27赛季开始。协议包括为B1联赛全部26座场馆供应LED视频显示屏,并通过家电零售商及线上渠道展开推广活动。B联赛迎来创立第十个赛季,现场观赛人数已较创立初期翻倍以上,联盟仍在积极推进扩张。"},
         fr:{title:"Le chinois Hisense devient sponsor officiel de la B.League et fournira des écrans LED à toute la ligue", summary:"Hisense Japan, filiale locale du fabricant électronique chinois, est devenu sponsor officiel de la B.League japonaise à partir de la saison 2026-27, dont le coup d'envoi est prévu le 22 septembre. L'accord prévoit la fourniture d'écrans vidéo LED aux 26 salles de première division, ainsi que des campagnes promotionnelles menées via des enseignes d'électronique et des canaux en ligne, alors que la ligue — qui entame sa dixième saison avec une affluence plus de deux fois supérieure à ses débuts — poursuit une expansion soutenue."},
       }},
-    {id:"la-angels-kroenke-sale", sport:"baseball", topics:["team","biz"], published_at:"2026-09-01T12:00:00Z",
+    {id:"la-angels-kroenke-sale", sport:"baseball", region:"global", topics:["team","biz"], published_at:"2026-09-01T12:00:00Z",
       source_name:"Washington Times", source_url:"https://www.washingtontimes.com/news/2026/sep/1/mlbs-los-angeles-angels-sold-la-rams-arsenal-owner-stan-kroenke/",
       i18n:{
         en:{title:"Angels Sold to Rams, Arsenal Owner Stan Kroenke in Priciest MLB Deal Ever", summary:"The Los Angeles Angels have been sold to Stan Kroenke — who already owns the NFL's Rams, Premier League champions Arsenal, the NBA's Nuggets, the NHL's Avalanche and MLS's Rapids — in a deal that includes the team's regional TV and radio outlets. It's the most expensive sale in MLB history and caps a summer that has also seen the Lakers, Timberwolves and Seahawks change hands."},
@@ -741,7 +756,7 @@
         zh:{title:"天使队售予拥有公羊、阿森纳的克伦克,创MLB史上最高售价", summary:"洛杉矶天使队已出售给已拥有NFL公羊队、英超冠军阿森纳、NBA掘金队、NHL雪崩队及MLS落基山队的斯坦·克伦克,交易包含球队的地方电视和广播权益,成为MLB历史上最高价的球队交易。此前这个夏天湖人、森林狼和海鹰队也相继易主。"},
         fr:{title:"Les Angels vendus à Stan Kroenke, propriétaire des Rams et d'Arsenal, plus grosse vente de l'histoire de la MLB", summary:"Les Angels de Los Angeles ont été vendus à Stan Kroenke — qui possède déjà les Rams en NFL, le champion de Premier League Arsenal, les Nuggets en NBA, l'Avalanche en NHL et le Rapids en MLS — dans un accord incluant les chaînes de télévision et de radio régionales de l'équipe. Il s'agit de la vente la plus chère de l'histoire de la MLB, à l'issue d'un été qui a aussi vu les Lakers, les Timberwolves et les Seahawks changer de mains."},
       }},
-    {id:"lakers-kushner-iger-record-sale", sport:"basketball", topics:["team","biz"], published_at:"2026-08-13T12:00:00Z",
+    {id:"lakers-kushner-iger-record-sale", sport:"basketball", region:"global", topics:["team","biz"], published_at:"2026-08-13T12:00:00Z",
       source_name:"ESPN", source_url:"https://www.espn.com/nba/story/_/id/49590362/josh-kushner-bob-iger-buy-lakers-12b",
       i18n:{
         en:{title:"Lakers Sold to Josh Kushner, Bob Iger for Record $12.5 Billion", summary:"The Los Angeles Lakers are being sold to Josh Kushner and Bob Iger for $12.5 billion — the highest price ever paid for any sports team — less than a year after Mark Walter bought the franchise from the Buss family at a then-record $10 billion valuation. The Buss family will retain a 15% stake, with Jeanie Buss continuing as governor."},
@@ -750,7 +765,7 @@
         zh:{title:"湖人队以125亿美元创纪录售予库什纳与艾格", summary:"洛杉矶湖人队将以125亿美元售予乔希·库什纳与鲍勃·艾格,创下体育队史上最高交易金额纪录。此前马克·沃尔特刚以当时创纪录的100亿美元从巴斯家族手中购得球队,不到一年便再度易主。巴斯家族将保留15%股份,珍妮·巴斯将继续担任球队治理人。"},
         fr:{title:"Les Lakers vendus à Josh Kushner et Bob Iger pour un record de 12,5 Md$", summary:"Les Lakers de Los Angeles sont vendus à Josh Kushner et Bob Iger pour 12,5 Md$ — le prix le plus élevé jamais payé pour une équipe sportive — moins d'un an après que Mark Walter a racheté la franchise à la famille Buss pour un montant alors record de 10 Md$. La famille Buss conservera 15 % des parts, Jeanie Buss restant gouverneure de l'équipe."},
       }},
-    {id:"spurs-dazn-streaming-deal", sport:"basketball", topics:["tech","biz"], published_at:"2026-09-02T12:00:00Z",
+    {id:"spurs-dazn-streaming-deal", sport:"basketball", region:"global", topics:["tech","biz"], published_at:"2026-09-02T12:00:00Z",
       source_name:"Sports Video Group", source_url:"https://www.sportsvideo.org/2026/09/02/san-antonio-spurs-name-dazn-exclusive-streaming-home-beginning-2026-27-season/",
       i18n:{
         en:{title:"Spurs Become Fourth NBA Team to Go DAZN-Exclusive for Local Streaming", summary:"The San Antonio Spurs have named DAZN their exclusive direct-to-consumer streaming home starting in 2026-27, covering all non-nationally-televised games plus preseason action from $19.99 a month. San Antonio joins the Cavaliers, Timberwolves and Pacers as the fourth NBA team to move local broadcasts fully to DAZN, with an exit clause once the league's own centralized local-rights hub launches."},
@@ -759,7 +774,7 @@
         zh:{title:"马刺成为NBA第四支全面转投DAZN本地流媒体独家转播的球队", summary:"圣安东尼奥马刺队宣布,自2026-27赛季起将DAZN定为独家直接面向消费者的流媒体转播平台,覆盖所有未在全国电视转播的常规赛及季前赛,套餐月费19.99美元起。继骑士、森林狼和步行者之后,马刺成为第四支将地方转播全面转移至DAZN的NBA球队,协议中设有NBA若推出自有集中式地方版权平台时的退出条款。"},
         fr:{title:"Les Spurs, quatrième équipe NBA à passer en exclusivité chez DAZN pour le streaming local", summary:"Les Spurs de San Antonio ont désigné DAZN comme leur plateforme exclusive de streaming direct au consommateur à partir de 2026-27, couvrant tous les matchs non diffusés nationalement ainsi que la présaison, dès 19,99 $ par mois. San Antonio rejoint les Cavaliers, les Timberwolves et les Pacers comme quatrième équipe NBA à transférer entièrement sa diffusion locale vers DAZN, avec une clause de sortie une fois que la ligue lancera sa propre plateforme centralisée de droits locaux."},
       }},
-    {id:"esports-world-cup-2026-record-prize-pool", sport:"esports", topics:["biz","sponsor"], published_at:"2026-08-23T12:00:00Z",
+    {id:"esports-world-cup-2026-record-prize-pool", sport:"esports", region:"global", topics:["biz","sponsor"], published_at:"2026-08-23T12:00:00Z",
       source_name:"GamesBeat", source_url:"https://gamesbeat.com/esports-world-cup-2026-prize-pool-will-be-75m/",
       i18n:{
         en:{title:"Esports World Cup 2026 Wraps With a Record $75 Million Prize Pool", summary:"The 2026 Esports World Cup in Riyadh — 25 tournaments across 24 games over seven weeks, drawing more than 2,000 players and 200 clubs from over 100 countries — paid out a record $75 million in prizes, up from just over $70 million in 2025. The winning club alone took home $7 million, part of a $30 million Club Championship pool."},
@@ -768,7 +783,7 @@
         zh:{title:"2026电竞世界杯落幕,奖金总额7500万美元创新高", summary:"在沙特利雅得举办的2026电竞世界杯历时七周,涵盖24款游戏共25项赛事,吸引超过100个国家的2000多名选手和200支俱乐部参赛。赛事奖金总额达创纪录的7500万美元,较2025年的逾7000万美元有所增长。夺冠俱乐部单独获得700万美元奖金,俱乐部锦标赛奖金池总额达3000万美元。"},
         fr:{title:"L'Esports World Cup 2026 se termine avec une cagnotte record de 75 millions de dollars", summary:"L'Esports World Cup 2026 à Riyad — 25 tournois sur 24 jeux pendant sept semaines, réunissant plus de 2 000 joueurs et 200 clubs de plus de 100 pays — a distribué une cagnotte record de 75 millions de dollars, contre un peu plus de 70 millions en 2025. Le club vainqueur a remporté à lui seul 7 millions de dollars, dans le cadre d'une cagnotte de 30 millions de dollars pour le Club Championship."},
       }},
-    {id:"fifa-worldcup-betano-gambling-sponsor", sport:"soccer", topics:["sponsor"], published_at:"2026-05-18T12:00:00Z",
+    {id:"fifa-worldcup-betano-gambling-sponsor", sport:"soccer", region:"global", topics:["sponsor"], published_at:"2026-05-18T12:00:00Z",
       source_name:"Yahoo Sports", source_url:"https://sports.yahoo.com/articles/fifa-signs-another-world-cup-130657478.html",
       i18n:{
         en:{title:"FIFA Signs Betano as Regional Gambling Sponsor of the 2026 World Cup", summary:"FIFA has signed Greek betting brand Betano, owned by Kaizen Gaming, as a regional sponsor of the 2026 World Cup covering Europe and South America. It's Betano's second World Cup partnership after serving as the tournament's first-ever betting sponsor in Qatar in 2022, and follows other 2026 deals with prediction-market and data providers."},
@@ -777,7 +792,7 @@
         zh:{title:"国际足联签下Betano作为2026世界杯区域博彩赞助商", summary:"国际足联已与Kaizen Gaming旗下的希腊博彩品牌Betano签署赞助协议,担任2026年世界杯欧洲及南美地区的区域赞助商。这是Betano继2022年卡塔尔世界杯成为该赛事史上首个博彩类赞助商后,第二次与世界杯合作,此前国际足联还与预测市场及数据提供商达成过类似合作。"},
         fr:{title:"La FIFA signe Betano comme sponsor régional de paris pour la Coupe du monde 2026", summary:"La FIFA a signé la marque grecque de paris Betano, propriété de Kaizen Gaming, comme sponsor régional de la Coupe du monde 2026 pour l'Europe et l'Amérique du Sud. Il s'agit du deuxième partenariat mondial de Betano après avoir été le tout premier sponsor de paris du tournoi au Qatar en 2022, et fait suite à d'autres accords 2026 avec des fournisseurs de marchés prédictifs et de données."},
       }},
-    {id:"jleague-stadium-projects-survey-2026", sport:"soccer", topics:["stadium"], published_at:"2026-09-01T12:00:00Z",
+    {id:"jleague-stadium-projects-survey-2026", sport:"soccer", region:"japan", topics:["stadium"], published_at:"2026-09-01T12:00:00Z",
       source_name:"Sporting News Japan", source_url:"https://news.yahoo.co.jp/articles/40049a610f16dd1e6e45fafc52c62a7e1d2602ac",
       i18n:{
         en:{title:"27 Soccer Stadium Projects Underway Nationwide in Japan, but Few Past the Planning Stage", summary:"A Japan Sports Agency survey found 27 stadium and arena concepts nationwide with soccer (J.League, JFL or regional leagues) as a primary intended use, but only five have advanced to design or construction — including new stadiums for Montedio Yamagata (due 2028), Iwaki FC (2031) and a dedicated football stadium at Todoroki (2030)."},
@@ -786,7 +801,7 @@
         zh:{title:"日本全国27个足球场馆构想推进中,仅少数进入设计建设阶段", summary:"日本体育厅的调查显示,全国以足球(J联赛、JFL或地区联赛)为主要用途设想的场馆构想共有27个,但仅有5个已进入设计或建设阶段,包括山形蒙特迪奥新球场(预计2028年完工)、磐城FC新球场(2031年)以及等等力绿地专用足球场(2030年)等。"},
         fr:{title:"27 projets de stades de football en cours au Japon, mais peu dépassent le stade de la planification", summary:"Une étude de l'Agence des sports du Japon a recensé 27 projets de stades et d'arènes à travers le pays destinés principalement au football (J.League, JFL ou ligues régionales), mais seuls cinq ont atteint la phase de conception ou de construction — dont de nouveaux stades pour le Montedio Yamagata (prévu 2028), l'Iwaki FC (2031) et un stade dédié au football à Todoroki (2030)."},
       }},
-    {id:"hyundai-uefa-champions-league-automotive-partner", sport:"soccer", topics:["sponsor"], published_at:"2026-09-07T12:00:00Z",
+    {id:"hyundai-uefa-champions-league-automotive-partner", sport:"soccer", region:"global", topics:["sponsor"], published_at:"2026-09-07T12:00:00Z",
       source_name:"PR Newswire", source_url:"https://www.prnewswire.com/news-releases/hyundai-motor-company-becomes-official-automotive-partner-of-the-uefa-champions-league-302871037.html",
       i18n:{
         en:{title:"Hyundai Becomes Official Automotive Partner of the UEFA Champions League", summary:"Hyundai Motor has signed a multi-year deal to become the UEFA Champions League's Official Automotive Partner, running from the 2026-27 season through 2030-31 — the competition's first global car-industry sponsor since Nissan's deal ended in 2021. The tie-up will spotlight Hyundai's electric lineup, including the newly unveiled IONIQ 3, to fans across Europe."},
@@ -795,7 +810,7 @@
         zh:{title:"现代汽车成为欧冠联赛官方汽车合作伙伴", summary:"现代汽车已签署多年期协议,成为欧冠联赛官方汽车合作伙伴,合作期从2026-27赛季持续至2030-31赛季——这是继2021年日产合约结束后,该赛事迎来的首个全球汽车行业赞助商。该合作将向欧洲球迷重点展示现代的电动车阵容,包括新发布的IONIQ 3。"},
         fr:{title:"Hyundai devient partenaire automobile officiel de la Ligue des champions de l'UEFA", summary:"Hyundai Motor a signé un accord pluriannuel pour devenir Partenaire Automobile Officiel de la Ligue des champions de l'UEFA, de la saison 2026-27 à 2030-31 — le premier sponsor automobile mondial de la compétition depuis la fin de l'accord avec Nissan en 2021. Le partenariat mettra en avant la gamme électrique de Hyundai, dont la IONIQ 3 tout juste dévoilée, auprès des supporters européens."},
       }},
-    {id:"bofa-fifa-worldcup-2026-global-sponsor", sport:"soccer", topics:["sponsor","biz"], published_at:"2026-09-10T12:00:00Z",
+    {id:"bofa-fifa-worldcup-2026-global-sponsor", sport:"soccer", region:"global", topics:["sponsor","biz"], published_at:"2026-09-10T12:00:00Z",
       source_name:"Goal.com", source_url:"https://www.goal.com/en-us/news/in-a-milestone-move-bank-of-america-signs-on-as-global-sponsor-of-2026-world-cup/blt6e2da5cbdfaf7eb0",
       i18n:{
         en:{title:"Bank of America Becomes First Global Banking Sponsor in FIFA World Cup History", summary:"Bank of America has signed on as a global sponsor of the 2026 World Cup, marking the first time FIFA has sold a top-tier sponsorship in the banking category. Deals at that level for the 2026 tournament are reported to be worth around $100 million each."},
@@ -804,7 +819,7 @@
         zh:{title:"美国银行成为国际足联世界杯历史上首个全球银行类赞助商", summary:"美国银行已签约成为2026年世界杯全球赞助商,这是国际足联首次在银行类别出售顶级赞助权益。据报道,2026年世界杯此类顶级赞助合约每份价值约1亿美元。"},
         fr:{title:"Bank of America devient le premier sponsor bancaire mondial de l'histoire de la Coupe du monde de la FIFA", summary:"Bank of America a signé comme sponsor mondial de la Coupe du monde 2026, une première pour la FIFA qui vend ainsi un partenariat de premier rang dans la catégorie bancaire. Les accords de ce niveau pour le tournoi 2026 vaudraient chacun environ 100 millions de dollars."},
       }},
-    {id:"forbes-richest-sports-team-owners-2026", sport:"general", topics:["biz"], published_at:"2026-09-14T12:00:00Z",
+    {id:"forbes-richest-sports-team-owners-2026", sport:"general", region:"global", topics:["biz"], published_at:"2026-09-14T12:00:00Z",
       source_name:"Forbes", source_url:"https://www.forbes.com/sites/brettknight/2026/09/14/americas-richest-sports-team-owners-2026/",
       i18n:{
         en:{title:"Forbes Ranks America's Richest Sports Team Owners for 2026", summary:"Forbes' annual ranking of America's wealthiest sports team owners lands amid a historic run of franchise sales — the Lakers, Angels, Seahawks and Timberwolves have all changed hands in recent months at record prices — underscoring how quickly owner fortunes and franchise values are climbing across the four major U.S. leagues."},
@@ -813,7 +828,7 @@
         zh:{title:"福布斯发布2026年美国最富有体育球队老板排行榜", summary:"福布斯年度美国最富有体育球队老板排行榜,正值一轮历史性的球队易主热潮——湖人、天使、海鹰和森林狼近几个月均以创纪录价格易主——凸显出美国四大联盟老板身家与球队估值飙升之快。"},
         fr:{title:"Forbes publie son classement des propriétaires d'équipes sportives les plus riches des États-Unis pour 2026", summary:"Le classement annuel de Forbes des propriétaires d'équipes sportives américaines les plus riches paraît en pleine vague historique de ventes de franchises — Lakers, Angels, Seahawks et Timberwolves ont tous changé de mains ces derniers mois à des prix records — illustrant la rapidité avec laquelle grimpent les fortunes des propriétaires et la valeur des franchises dans les quatre grandes ligues américaines."},
       }},
-    {id:"dolphins-ross-minority-stake-record-valuation", sport:"football", topics:["team","biz"], published_at:"2026-03-01T12:00:00Z",
+    {id:"dolphins-ross-minority-stake-record-valuation", sport:"football", region:"global", topics:["team","biz"], published_at:"2026-03-01T12:00:00Z",
       source_name:"Business Model Analyst", source_url:"https://businessmodelanalyst.com/sports-franchise-valuations-minority-stake-marks/",
       i18n:{
         en:{title:"1% Stake Sale Values Miami Dolphins at Record $12.5 Billion", summary:"Investor Lin Bin purchased a 1% stake in Stephen Ross's Miami Dolphins holding company in March, valuing the franchise at $12.5 billion — the highest valuation ever recorded in professional sports at the time. The mark was notable enough that a full-franchise sale months later, the Seattle Seahawks at $9.61 billion, still came in lower."},
@@ -821,6 +836,33 @@
         es:{title:"Una venta del 1% valora a los Miami Dolphins en un récord de $12.500M", summary:"El inversor Lin Bin compró en marzo un 1% de la sociedad holding de Stephen Ross que posee a los Miami Dolphins, valorando la franquicia en $12.500M — la valoración más alta jamás registrada en el deporte profesional hasta entonces. La cifra fue tan llamativa que la venta completa de una franquicia meses después, los Seattle Seahawks por $9.610M, resultó ser menor."},
         zh:{title:"1%股权出售令迈阿密海豚队估值创下125亿美元纪录", summary:"投资者Lin Bin今年3月收购了斯蒂芬·罗斯旗下迈阿密海豚队控股公司1%的股份,球队估值达125亿美元——这是当时职业体育史上的最高估值纪录。几个月后西雅图海鹰队整队出售的价格(96.1亿美元)反而低于这一估值,令这一数字更加引人关注。"},
         fr:{title:"Une vente de 1 % valorise les Dolphins de Miami à un record de 12,5 Md$", summary:"L'investisseur Lin Bin a acheté en mars 1 % de la société holding de Stephen Ross qui détient les Dolphins de Miami, valorisant la franchise à 12,5 Md$ — la valorisation la plus élevée jamais enregistrée dans le sport professionnel à l'époque. Le chiffre était si marquant qu'une vente complète de franchise survenue des mois plus tard, les Seahawks de Seattle à 9,61 Md$, s'est révélée inférieure."},
+      }},
+    {id:"npb-commissioner-iijima-2026", sport:"baseball", region:"japan", topics:["biz"], published_at:"2026-09-16T12:00:00Z",
+      source_name:"Full-Count", source_url:"https://full-count.jp/2026/09/16/post2017101/",
+      i18n:{
+        en:{title:"NPB Set to Name Former Mitsui Chairman Akimi Iijima as Next Commissioner", summary:"Nippon Professional Baseball's 12 team owners have settled on Akimi Iijima, 75, a former president and current advisor of trading house Mitsui & Co., to become the league's next commissioner. Iijima would succeed the retiring Sadayoshi Sakakibara and take office Dec. 7, formal confirmation pending a November owners' meeting — marking the third straight NPB commissioner to come from the business world."},
+        ja:{title:"NPB次期コミッショナーに三井物産元社長の飯島彰己氏が内定", summary:"日本野球機構(NPB)の12球団オーナー会議は、三井物産の元社長で現顧問の飯島彰己氏(75)を次期コミッショナーとすることで内定した。11月の臨時オーナー会議で正式決定し、12月7日付での就任を予定している。退任する榊原定征氏の後任となり、3代続けて財界出身のコミッショナーとなる。"},
+        es:{title:"NPB nombrará a Akimi Iijima, expresidente de Mitsui, como próximo comisionado", summary:"Los 12 propietarios de equipos de Nippon Professional Baseball han acordado que Akimi Iijima, de 75 años, expresidente y actual asesor de la trading Mitsui & Co., se convierta en el próximo comisionado de la liga. Sucedería al saliente Sadayoshi Sakakibara y asumiría el cargo el 7 de diciembre, pendiente de confirmación formal en una junta de propietarios en noviembre — el tercer comisionado consecutivo de la NPB procedente del mundo empresarial."},
+        zh:{title:"NPB拟任命三井物产前社长饭岛彰己为下任总裁", summary:"日本职业棒球机构(NPB)12支球队老板已内定由三井物产前社长、现任顾问饭岛彰己(75岁)出任下届总裁,预计11月股东会正式确认,12月7日就任,接替即将卸任的榊原定征。这将是NPB连续第三位出身财经界的总裁。"},
+        fr:{title:"La NPB s'apprête à nommer Akimi Iijima, ex-président de Mitsui, comme prochain commissaire", summary:"Les propriétaires des 12 équipes de la Nippon Professional Baseball se sont accordés sur Akimi Iijima, 75 ans, ex-président et actuel conseiller du groupe commercial Mitsui & Co., pour devenir le prochain commissaire de la ligue. Il succéderait à Sadayoshi Sakakibara et prendrait ses fonctions le 7 décembre, sous réserve d'une confirmation formelle lors d'une réunion des propriétaires en novembre — un troisième commissaire consécutif de la NPB issu du monde des affaires."},
+      }},
+    {id:"bleague-b-innovation-restructuring-2026-27", sport:"basketball", region:"japan", topics:["biz","fan"], published_at:"2026-09-01T12:00:00Z",
+      source_name:"Marumake", source_url:"https://www.marumake.com/insights/b-league-innovation-2026/",
+      i18n:{
+        en:{title:"Japan's B.League Scraps B1/B2/B3 for New 'B.Innovation' Tiers Starting Sept. 22", summary:"Japan's B.League is replacing its longstanding B1/B2/B3 divisions with a new three-tier structure — B.PREMIER, B.ONE and B.NEXT — when the 2026-27 season tips off Sept. 22, part of a wider business overhaul the league is calling 'B.Innovation.' The change is designed to sharpen the competitive and commercial gap between top-flight and developmental clubs as the league's attendance keeps climbing."},
+        ja:{title:"Bリーグ、9月22日開幕の新シーズンからB1/B2/B3を廃止し「B.革新」の新カテゴリーへ", summary:"日本のBリーグは、長年続いたB1/B2/B3の区分を廃止し、9月22日開幕の2026-27シーズンから「B.PREMIER」「B.ONE」「B.NEXT」の新3階層制へ移行する。リーグが「B.革新」と呼ぶ事業改革の一環で、観客動員が伸び続ける中、トップカテゴリーと育成カテゴリーの競技・事業両面での格差を明確にする狙いがある。"},
+        es:{title:"La B.League japonesa elimina B1/B2/B3 por nuevas categorías 'B.Innovation' desde el 22 de septiembre", summary:"La B.League de Japón sustituye sus tradicionales divisiones B1/B2/B3 por una nueva estructura de tres niveles — B.PREMIER, B.ONE y B.NEXT — cuando arranque la temporada 2026-27 el 22 de septiembre, dentro de una reforma empresarial más amplia que la liga denomina 'B.Innovation'. El cambio busca marcar mejor la diferencia deportiva y comercial entre los clubes de primer nivel y los de desarrollo, mientras la asistencia de público sigue creciendo."},
+        zh:{title:"日本B联赛9月22日新赛季起废除B1/B2/B3,启用“B.革新”新分级", summary:"日本B联赛将从9月22日开幕的2026-27赛季起,以“B.PREMIER”“B.ONE”“B.NEXT”三级新体系取代沿用已久的B1/B2/B3分区,这是联盟所称“B.革新”整体业务改革的一部分。在联盟上座率持续攀升之际,此举旨在进一步拉开顶级俱乐部与培养级俱乐部在竞技和商业层面的差距。"},
+        fr:{title:"La B.League japonaise abandonne B1/B2/B3 pour de nouvelles catégories « B.Innovation » dès le 22 septembre", summary:"La B.League japonaise remplace ses divisions historiques B1/B2/B3 par une nouvelle structure à trois niveaux — B.PREMIER, B.ONE et B.NEXT — au coup d'envoi de la saison 2026-27 le 22 septembre, dans le cadre d'une refonte plus large que la ligue appelle « B.Innovation ». Ce changement vise à accentuer l'écart sportif et commercial entre clubs d'élite et clubs de développement, alors que l'affluence continue de progresser."},
+      }},
+    {id:"jfa-national-team-record-43-sponsors", sport:"soccer", region:"japan", topics:["sponsor","biz"], published_at:"2026-06-05T12:00:00Z",
+      source_name:"Nikkei Business", source_url:"https://business.nikkei.com/atcl/gen/19/00337/060900166/",
+      i18n:{
+        en:{title:"Japan National Team Sponsors Hit Record 43 Companies Ahead of the World Cup", summary:"The Japan Football Association has grown its roster of companies backing the men's national team to a record 43, with a third of them having signed on within the past three years. Long-time partners like Kirin, ANA, Toyota and Mizuho anchor the group, which the JFA credits to persistent grassroots sales efforts rather than reliance on a handful of megadeals."},
+        ja:{title:"サッカー日本代表のスポンサー、W杯を前に過去最多の43社に", summary:"日本サッカー協会(JFA)が支援企業を過去最多の43社まで拡大したことが分かった。このうち3分の1はここ3年以内に新たに参画した企業だという。キリンやANA、トヨタ自動車、みずほフィナンシャルグループといった長年のパートナーが中核を担う一方、JFAは少数の大型契約に頼らない地道な「草の根」営業がこの拡大を支えたとしている。"},
+        es:{title:"Los patrocinadores de la selección japonesa alcanzan un récord de 43 empresas antes del Mundial", summary:"La Federación Japonesa de Fútbol (JFA) ha ampliado su lista de empresas que respaldan a la selección masculina hasta un récord de 43, un tercio de las cuales se sumó en los últimos tres años. Socios de larga data como Kirin, ANA, Toyota y Mizuho son el núcleo del grupo, un crecimiento que la JFA atribuye a un esfuerzo comercial constante y de base más que a un puñado de grandes contratos."},
+        zh:{title:"世界杯前夕,日本国家队赞助商数量创纪录达43家", summary:"日本足球协会(JFA)将支持男足国家队的赞助企业数量扩大至创纪录的43家,其中三分之一是过去三年内新加入的。麒麟、全日空、丰田汽车、瑞穗金融集团等长期合作伙伴构成核心阵容,JFA将这一增长归功于持续的基层业务拓展,而非依赖少数几笔大额合约。"},
+        fr:{title:"Les sponsors de l'équipe nationale japonaise atteignent un record de 43 entreprises avant la Coupe du monde", summary:"La Fédération japonaise de football (JFA) a porté à un record de 43 le nombre d'entreprises soutenant l'équipe masculine, dont un tiers ayant rejoint le programme au cours des trois dernières années. Des partenaires de longue date comme Kirin, ANA, Toyota et Mizuho forment le noyau du groupe, une croissance que la JFA attribue à un travail commercial de terrain constant plutôt qu'à une poignée de gros contrats."},
       }},
   ];
 
@@ -833,7 +875,7 @@
     if (saved && LANGS.includes(saved)) lang = saved;
   }catch(e){}
 
-  const state = { sport:"all", topics:new Set(), query:"", pageSize:60 };
+  const state = { sport:"all", topics:new Set(), region:null, query:"", pageSize:60 };
 
   function t(){ return UI[lang]; }
   function esc(s){
@@ -883,9 +925,14 @@
   function renderTopicChips(){
     const ts = t();
     const el = document.getElementById("topicChips");
-    el.innerHTML = TOPIC_KEYS.map(k=>`
+    el.innerHTML = `<button class="chip chip-japan" id="japanFilter" aria-pressed="${state.region==="japan"}">${esc(ts.japan_filter)}</button>`
+      + TOPIC_KEYS.map(k=>`
       <button class="chip" data-topic="${k}" aria-pressed="${state.topics.has(k)}">${esc(ts.topics[k]||k)}</button>`).join("")
       + `<button class="chip" id="clearTopics" style="border-style:dashed;">${esc(ts.reset)}</button>`;
+    document.getElementById("japanFilter").addEventListener("click", ()=>{
+      state.region = state.region==="japan" ? null : "japan";
+      render();
+    });
     el.querySelectorAll(".chip[data-topic]").forEach(btn=>{
       btn.addEventListener("click", ()=>{
         const k = btn.dataset.topic;
@@ -894,7 +941,7 @@
       });
     });
     document.getElementById("clearTopics").addEventListener("click", ()=>{
-      state.sport="all"; state.topics.clear(); state.query="";
+      state.sport="all"; state.topics.clear(); state.region=null; state.query="";
       document.getElementById("searchInput").value="";
       render();
     });
@@ -902,6 +949,7 @@
 
   function matches(a){
     if (state.sport!=="all" && a.sport!==state.sport) return false;
+    if (state.region && a.region!==state.region) return false;
     if (state.topics.size>0 && !a.topics.some(k=>state.topics.has(k))) return false;
     if (state.query){
       const hay = (articleText(a,"title")+" "+articleText(a,"summary")+" "+a.source_name).toLowerCase();
@@ -913,10 +961,12 @@
   function cardHtml(a){
     const ts = t();
     const topicBadges = a.topics.map(k=>`<span class="badge-topic">${esc(ts.topics[k]||k)}</span>`).join("");
+    const japanBadge = a.region==="japan" ? `<span class="badge-japan">🇯🇵 ${esc(ts.japan_badge)}</span>` : "";
     return `
       <article class="card">
         <div class="card-top">
           <span class="badge-sport">${esc(ts.sports[a.sport]||a.sport)}</span>
+          ${japanBadge}
           ${topicBadges}
         </div>
         <div class="title-main">${esc(articleText(a,"title"))}</div>
