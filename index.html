@@ -165,6 +165,17 @@
     font-size:11px; font-weight:700; color:#C8393F;
     background:rgba(200,57,63,0.12); padding:3px 8px; border-radius:5px;
   }
+  .japan-banner{
+    display:flex; align-items:center; gap:14px;
+    margin:6px clamp(14px,3vw,32px) 4px;
+    padding:14px 18px;
+    background:linear-gradient(135deg, #C8393F, #A32B31);
+    border-radius:12px;
+    box-shadow:var(--shadow);
+  }
+  .japan-banner-flag{ font-size:28px; line-height:1; }
+  .japan-banner-title{ font-size:16px; font-weight:700; color:#fff; }
+  .japan-banner-sub{ font-size:12.5px; color:rgba(255,255,255,0.85); margin-top:2px; }
   .search-box{
     margin-left:auto; position:relative; min-width:200px; flex:0 1 260px;
   }
@@ -266,6 +277,13 @@
   </div>
 </div>
 <div class="result-line" id="resultLine"></div>
+<div class="japan-banner" id="japanBanner" hidden>
+  <span class="japan-banner-flag">🇯🇵</span>
+  <div class="japan-banner-text">
+    <div class="japan-banner-title" id="japanBannerTitle"></div>
+    <div class="japan-banner-sub" id="japanBannerSub"></div>
+  </div>
+</div>
 
 <main>
   <div class="grid" id="grid"></div>
@@ -295,7 +313,8 @@
       just_now:"Just now", min_ago:n=>`${n}m ago`, hr_ago:n=>`${n}h ago`, day_ago:n=>`${n}d ago`, mo_ago:n=>`${n}mo ago`, yr_ago:n=>`${n}y ago`,
       sports:{all:"All",soccer:"Soccer",baseball:"Baseball",basketball:"Basketball",football:"Football",olympics:"Olympics/Multi-sport",esports:"Esports",motorsports:"Motorsports",general:"Industry-wide"},
       topics:{team:"Team News",tech:"Technology",stadium:"Stadium",fan:"Fan Marketing",sponsor:"Sponsorship",biz:"Business"},
-      japan_filter:"🇯🇵 Japan", japan_badge:"Japan" },
+      japan_filter:"🇯🇵 Japan", japan_badge:"Japan",
+      japan_banner_title:"Japan Sports Business", japan_banner_sub:"J.League, NPB, B.League and the companies behind Japan's sports industry" },
     ja:{ tagline:"世界のスポーツビジネス・テック・スポンサーシップ速報",
       updated:r=>`最終更新: ${r}`, count:n=>`収録記事 ${n} 件`,
       search_ph:"チーム名・企業名・キーワードで検索", reset:"条件をリセット",
@@ -305,7 +324,8 @@
       just_now:"たった今", min_ago:n=>`${n}分前`, hr_ago:n=>`${n}時間前`, day_ago:n=>`${n}日前`, mo_ago:n=>`${n}ヶ月前`, yr_ago:n=>`${n}年前`,
       sports:{all:"すべて",soccer:"サッカー",baseball:"野球",basketball:"バスケ",football:"アメフト",olympics:"五輪/複数競技",esports:"eスポーツ",motorsports:"モータースポーツ",general:"業界全体"},
       topics:{team:"チーム動向",tech:"テクノロジー",stadium:"スタジアム",fan:"ファンマーケティング",sponsor:"スポンサーシップ",biz:"ビジネス/経営"},
-      japan_filter:"🇯🇵 日本のスポーツ業界", japan_badge:"日本" },
+      japan_filter:"🇯🇵 日本のスポーツ業界", japan_badge:"日本",
+      japan_banner_title:"日本のスポーツビジネス", japan_banner_sub:"Jリーグ・NPB・Bリーグなど、国内スポーツ業界とそれを支える企業の最新動向" },
     es:{ tagline:"Negocio, tecnología y patrocinio del deporte mundial — al minuto",
       updated:r=>`Última actualización: ${r}`, count:n=>`${n} artículos`,
       search_ph:"Busca por equipo, empresa o palabra clave", reset:"Restablecer filtros",
@@ -315,7 +335,8 @@
       just_now:"Ahora mismo", min_ago:n=>`hace ${n} min`, hr_ago:n=>`hace ${n} h`, day_ago:n=>`hace ${n} d`, mo_ago:n=>`hace ${n} meses`, yr_ago:n=>`hace ${n} años`,
       sports:{all:"Todos",soccer:"Fútbol",baseball:"Béisbol",basketball:"Baloncesto",football:"Fútbol americano",olympics:"Olimpiadas/Multideporte",esports:"Esports",motorsports:"Automovilismo",general:"Toda la industria"},
       topics:{team:"Equipos",tech:"Tecnología",stadium:"Estadios",fan:"Marketing de aficionados",sponsor:"Patrocinio",biz:"Negocio"},
-      japan_filter:"🇯🇵 Japón", japan_badge:"Japón" },
+      japan_filter:"🇯🇵 Japón", japan_badge:"Japón",
+      japan_banner_title:"Negocio deportivo en Japón", japan_banner_sub:"J.League, NPB, B.League y las empresas detrás de la industria deportiva japonesa" },
     zh:{ tagline:"全球体育商业、科技与赞助 — 每小时快讯",
       updated:r=>`最后更新: ${r}`, count:n=>`共 ${n} 篇文章`,
       search_ph:"按球队、企业或关键词搜索", reset:"重置筛选",
@@ -325,7 +346,8 @@
       just_now:"刚刚", min_ago:n=>`${n}分钟前`, hr_ago:n=>`${n}小时前`, day_ago:n=>`${n}天前`, mo_ago:n=>`${n}个月前`, yr_ago:n=>`${n}年前`,
       sports:{all:"全部",soccer:"足球",baseball:"棒球",basketball:"篮球",football:"美式橄榄球",olympics:"奥运会/综合体育",esports:"电子竞技",motorsports:"赛车运动",general:"行业综合"},
       topics:{team:"球队动态",tech:"科技",stadium:"场馆",fan:"球迷营销",sponsor:"赞助",biz:"商业/经营"},
-      japan_filter:"🇯🇵 日本体育产业", japan_badge:"日本" },
+      japan_filter:"🇯🇵 日本体育产业", japan_badge:"日本",
+      japan_banner_title:"日本体育商业", japan_banner_sub:"J联赛、NPB、B联赛及支撑日本体育产业的相关企业最新动态" },
     fr:{ tagline:"Business, technologie et sponsoring du sport mondial — en continu",
       updated:r=>`Dernière mise à jour : ${r}`, count:n=>`${n} articles`,
       search_ph:"Rechercher par équipe, entreprise ou mot-clé", reset:"Réinitialiser les filtres",
@@ -335,7 +357,8 @@
       just_now:"À l'instant", min_ago:n=>`il y a ${n} min`, hr_ago:n=>`il y a ${n} h`, day_ago:n=>`il y a ${n} j`, mo_ago:n=>`il y a ${n} mois`, yr_ago:n=>`il y a ${n} ans`,
       sports:{all:"Tous",soccer:"Football",baseball:"Baseball",basketball:"Basketball",football:"Football américain",olympics:"Jeux olympiques/Multisport",esports:"Esport",motorsports:"Sport automobile",general:"Secteur global"},
       topics:{team:"Équipes",tech:"Technologie",stadium:"Stades",fan:"Marketing des supporters",sponsor:"Sponsoring",biz:"Business"},
-      japan_filter:"🇯🇵 Japon", japan_badge:"Japon" },
+      japan_filter:"🇯🇵 Japon", japan_badge:"Japon",
+      japan_banner_title:"Business du sport au Japon", japan_banner_sub:"J.League, NPB, B.League et les entreprises qui font vivre l'industrie sportive japonaise" },
   };
 
   // ARTICLES_DATA: the site's full dataset, embedded directly in this page.
@@ -1000,6 +1023,13 @@
     const latest = all.reduce((m,a)=> !m || new Date(a.published_at)>new Date(m) ? a.published_at : m, null);
     document.getElementById("statusText").textContent = `${ts.updated(latest?relTime(latest):"—")} ・ ${ts.count(all.length)}`;
     document.getElementById("resultLine").textContent = ts.showing(shown.length, filtered.length);
+
+    const japanBanner = document.getElementById("japanBanner");
+    japanBanner.hidden = state.region!=="japan";
+    if (state.region==="japan"){
+      document.getElementById("japanBannerTitle").textContent = ts.japan_banner_title;
+      document.getElementById("japanBannerSub").textContent = ts.japan_banner_sub;
+    }
 
     const grid = document.getElementById("grid");
     grid.innerHTML = shown.length ? shown.map(cardHtml).join("") : `<div class="empty">${esc(ts.empty)}</div>`;
