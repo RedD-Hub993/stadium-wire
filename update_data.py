@@ -11,10 +11,10 @@ api_key = os.environ.get("GEMINI_API_KEY")
 if not api_key:
     raise ValueError("GEMINI_API_KEY is not set!")
 genai.configure(api_key=api_key)
-# 高速で無料枠に最適なモデルを指定
-model = genai.GenerativeModel('gemini-1.5-flash')
 
-# サイト名とカテゴリの定義
+# 変更点: JSON形式での出力を強制し、エラーを防ぐ
+model = genai.GenerativeModel('gemini-1.5-flash', generation_config={"response_mime_type": "application/json"})
+
 source_info = {
     "yahoo_jp": {"name": "Yahoo!スポーツ", "region": "japan", "sport": "general"},
     "nhk": {"name": "NHKスポーツ", "region": "japan", "sport": "general"},
@@ -29,17 +29,17 @@ rss_urls = {
     "bbc": "http://feeds.bbci.co.uk/sport/rss.xml"
 }
 
-# Geminiで翻訳と要約を生成する関数
 def generate_i18n(title, description):
+    # 変更点: スポーツ以外のニュースを弾く指示
     prompt = f"""
-    以下のスポーツニュース記事のタイトルと概要を読み、5つの言語（英語、日本語、スペイン語、中国語、フランス語）で、それぞれ「魅力的なタイトル」と「2〜3文の短い要約」を作成してください。
-    必ず以下のJSONフォーマットのみを出力し、Markdown記法（```jsonなど）は絶対に含めないでください。
+    あなたはスポーツニュースの専門エディターです。以下の記事を読み、5つの言語に翻訳・要約してください。
+    ただし、記事の内容が「スポーツに全く関係のない一般的なニュース（事件、政治、ビジネスなど）」である場合は、すべての言語のtitleに "SKIP" とだけ出力してください。
 
     [元記事]
     タイトル: {title}
     概要: {description}
 
-    [出力JSON]
+    [出力JSONフォーマット]
     {{
       "en": {{"title": "...", "summary": "..."}},
       "ja": {{"title": "...", "summary": "..."}},
@@ -50,18 +50,10 @@ def generate_i18n(title, description):
     """
     try:
         response = model.generate_content(prompt)
-        text = response.text.strip()
-        # JSON以外の余計な文字をクリーニング
-        if text.startswith("```json"): text = text[7:-3].strip()
-        elif text.startswith("```"): text = text[3:-3].strip()
-        return json.loads(text)
+        return json.loads(response.text.strip())
     except Exception as e:
         print(f"Gemini API Error: {e}")
-        # 失敗した場合は原文をそのまま入れる
-        return {
-            lang: {"title": title, "summary": description[:100]+"..."} 
-            for lang in ["en", "ja", "es", "zh", "fr"]
-        }
+        return None # エラー時はNoneを返す
 
 articles_data = []
 
@@ -72,7 +64,6 @@ for site_key, url in rss_urls.items():
         res = requests.get(url, headers=headers, timeout=10)
         soup = BeautifulSoup(res.content, 'xml')
         
-        # 各サイト最新3件を取得（無料枠の制限を超えないよう調整）
         for idx, item in enumerate(soup.find_all('item')[:3]):
             title = item.title.text if item.title else ""
             link = item.link.text if item.link else ""
@@ -82,25 +73,29 @@ for site_key, url in rss_urls.items():
             print(f"  -> AI処理中: {title}")
             i18n_data = generate_i18n(title, desc)
             
+            # 変更点: APIエラー時や、非スポーツニュース(SKIP)の場合はサイトに載せない
+            if i18n_data is None or i18n_data.get("en", {}).get("title") == "SKIP":
+                print("     => スキップされました（非スポーツ、またはエラー）")
+                continue
+            
             articles_data.append({
                 "id": f"{site_key}-{idx}",
                 "sport": source_info[site_key]["sport"],
                 "region": source_info[site_key]["region"],
-                "topics": ["biz", "team"], # タグ（必要に応じてAIに判定させることも可能）
+                "topics": ["biz", "team"],
                 "published_at": pub_date,
                 "source_name": source_info[site_key]["name"],
                 "source_url": link,
                 "i18n": i18n_data
             })
             
-            # Gemini無料枠の制限（15回/分）を回避するため、4秒待つ
-            time.sleep(4)
+            # 変更点: 待機時間を8秒に増やし、API制限を回避
+            time.sleep(8)
             
     except Exception as e:
         print(f"Error fetching {site_key}: {e}")
 
-# JSON出力
 with open('data.json', 'w', encoding='utf-8') as f:
     json.dump(articles_data, f, ensure_ascii=False, indent=2)
 
-print("自動更新とAI要約が完了しました！")
+print("完了しました！")
