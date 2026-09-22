@@ -2,61 +2,105 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import datetime
+import os
+import time
+import google.generativeai as genai
 
-# --- RSSから指定件数のニュースを取得する共通関数 ---
-def fetch_rss(url, limit=10):
-    try:
-        # 海外サイトでBotとして弾かれないように「人間（ブラウザ）からのアクセス」を装う
-        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
-        response = requests.get(url, headers=headers, timeout=10)
-        
-        # ステータスコードが200（成功）以外の場合はエラーとして扱う
-        response.raise_for_status()
-        
-        soup = BeautifulSoup(response.content, 'xml')
-        
-        news_list = []
-        for item in soup.find_all('item')[:limit]:
-            news_list.append({
-                'title': item.title.text if item.title else "No Title",
-                'link': item.link.text if item.link else ""
-            })
-        return news_list
-    except Exception as e:
-        print(f"データの取得に失敗しました ({url}): {e}")
-        return []
+# Gemini APIの準備
+api_key = os.environ.get("GEMINI_API_KEY")
+if not api_key:
+    raise ValueError("GEMINI_API_KEY is not set!")
+genai.configure(api_key=api_key)
+# 高速で無料枠に最適なモデルを指定
+model = genai.GenerativeModel('gemini-1.5-flash')
 
-# --- ニュースを取得するサイトのURL一覧 ---
+# サイト名とカテゴリの定義
+source_info = {
+    "yahoo_jp": {"name": "Yahoo!スポーツ", "region": "japan", "sport": "general"},
+    "nhk": {"name": "NHKスポーツ", "region": "japan", "sport": "general"},
+    "espn": {"name": "ESPN", "region": "global", "sport": "general"},
+    "bbc": {"name": "BBC Sport", "region": "global", "sport": "general"}
+}
+
 rss_urls = {
-    # 日本のニュース
     "yahoo_jp": "https://news.yahoo.co.jp/rss/sports.xml",
     "nhk": "https://www.nhk.or.jp/rss/news/cat6.xml",
-    "nikkan": "https://www.nikkansports.com/rss/newspool/sports.xml",
-    
-    # 海外のニュース
-    "espn": "https://www.espn.com/espn/rss/news",                  # ESPN (米・総合)
-    "bbc": "http://feeds.bbci.co.uk/sport/rss.xml",                # BBC Sport (英)
-    "yahoo_us": "https://sports.yahoo.com/rss/",                   # Yahoo! Sports (米)
-    "cbs": "https://www.cbssports.com/rss/headlines/",             # CBS Sports (米)
-    "cnbc": "https://www.cnbc.com/id/100003114/device/rss/rss.html" # CNBC (米・ビジネス＆トップニュース)
+    "espn": "https://www.espn.com/espn/rss/news",
+    "bbc": "http://feeds.bbci.co.uk/sport/rss.xml"
 }
 
-# データをまとめるための辞書
-articles_data = {}
+# Geminiで翻訳と要約を生成する関数
+def generate_i18n(title, description):
+    prompt = f"""
+    以下のスポーツニュース記事のタイトルと概要を読み、5つの言語（英語、日本語、スペイン語、中国語、フランス語）で、それぞれ「魅力的なタイトル」と「2〜3文の短い要約」を作成してください。
+    必ず以下のJSONフォーマットのみを出力し、Markdown記法（```jsonなど）は絶対に含めないでください。
 
-# URLリストを順番に読み込んで取得していく
-for site_name, url in rss_urls.items():
-    print(f"{site_name} のデータを取得中...")
-    articles_data[site_name] = fetch_rss(url)
+    [元記事]
+    タイトル: {title}
+    概要: {description}
 
-# --- 取得した全データを1つのJSONにまとめる ---
-data = {
-    "last_updated": datetime.datetime.now().isoformat(),
-    "articles": articles_data
-}
+    [出力JSON]
+    {{
+      "en": {{"title": "...", "summary": "..."}},
+      "ja": {{"title": "...", "summary": "..."}},
+      "es": {{"title": "...", "summary": "..."}},
+      "zh": {{"title": "...", "summary": "..."}},
+      "fr": {{"title": "...", "summary": "..."}}
+    }}
+    """
+    try:
+        response = model.generate_content(prompt)
+        text = response.text.strip()
+        # JSON以外の余計な文字をクリーニング
+        if text.startswith("```json"): text = text[7:-3].strip()
+        elif text.startswith("```"): text = text[3:-3].strip()
+        return json.loads(text)
+    except Exception as e:
+        print(f"Gemini API Error: {e}")
+        # 失敗した場合は原文をそのまま入れる
+        return {
+            lang: {"title": title, "summary": description[:100]+"..."} 
+            for lang in ["en", "ja", "es", "zh", "fr"]
+        }
 
-# JSONファイルとして保存（日本語の文字化けを防ぐため ensure_ascii=False を指定）
+articles_data = []
+
+for site_key, url in rss_urls.items():
+    print(f"Fetching {site_key}...")
+    try:
+        headers = {'User-Agent': 'Mozilla/5.0'}
+        res = requests.get(url, headers=headers, timeout=10)
+        soup = BeautifulSoup(res.content, 'xml')
+        
+        # 各サイト最新3件を取得（無料枠の制限を超えないよう調整）
+        for idx, item in enumerate(soup.find_all('item')[:3]):
+            title = item.title.text if item.title else ""
+            link = item.link.text if item.link else ""
+            desc = item.description.text if item.description else ""
+            pub_date = item.pubDate.text if item.pubDate else datetime.datetime.now().isoformat()
+            
+            print(f"  -> AI処理中: {title}")
+            i18n_data = generate_i18n(title, desc)
+            
+            articles_data.append({
+                "id": f"{site_key}-{idx}",
+                "sport": source_info[site_key]["sport"],
+                "region": source_info[site_key]["region"],
+                "topics": ["biz", "team"], # タグ（必要に応じてAIに判定させることも可能）
+                "published_at": pub_date,
+                "source_name": source_info[site_key]["name"],
+                "source_url": link,
+                "i18n": i18n_data
+            })
+            
+            # Gemini無料枠の制限（15回/分）を回避するため、4秒待つ
+            time.sleep(4)
+            
+    except Exception as e:
+        print(f"Error fetching {site_key}: {e}")
+
+# JSON出力
 with open('data.json', 'w', encoding='utf-8') as f:
-    json.dump(data, f, ensure_ascii=False, indent=2)
+    json.dump(articles_data, f, ensure_ascii=False, indent=2)
 
-print("data.jsonの更新が完了しました！")
+print("自動更新とAI要約が完了しました！")
