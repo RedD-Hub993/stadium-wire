@@ -1989,5 +1989,409 @@
         "summary": "Le dernier rapport de l'UEFA sur les finances et l'investissement des clubs européens prévoit que les revenus cumulés des clubs de première division dépasseront pour la première fois les 30 milliards d'euros, après un record de 28,6 milliards en 2024. Le rapport recense également un nombre record de 123 opérations de capital privé dans les clubs européens en 2025, les investisseurs nord-américains étant à l'origine d'environ un tiers des prises de participation majoritaires."
       }
     }
+  },
+  {
+    "id": "everton-friedkin-minority-stake-exploration",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-04T00:00:00Z",
+    "source_name": "Inside World Football",
+    "source_url": "https://www.insideworldfootball.com/2026/09/04/friedkin-group-eyes-fresh-investment-for-english-premier-league-club-everton",
+    "i18n": {
+      "en": {
+        "title": "Everton's Friedkin Group Explores Bringing In Minority Investors",
+        "summary": "The Friedkin Group, which bought Everton for roughly £330 million in December 2024, is working with advisers to explore selling a minority stake to new investors. The process is described as early-stage, with no guarantee a deal will happen, and the Friedkins are not expected to give up control. The move comes as record Premier League summer spending pushes even recently arrived owners to weigh outside capital."
+      },
+      "ja": {
+        "title": "エバートン、フリードキン・グループが少数株主の受け入れを検討",
+        "summary": "2024年12月に約3億3000万ポンドでエバートンを買収したフリードキン・グループが、アドバイザーとともに新たな少数投資家の受け入れを検討していることが明らかになった。手続きはまだ初期段階で、合意に至る保証はなく、経営権を手放す予定はないとされる。プレミアリーグの夏の移籍市場での記録的な支出が、比較的新しいオーナーにも外部資本の検討を促している。"
+      },
+      "es": {
+        "title": "El Friedkin Group explora incorporar inversores minoritarios en el Everton",
+        "summary": "El Friedkin Group, que compró el Everton por unas 330 millones de libras en diciembre de 2024, está trabajando con asesores para explorar la venta de una participación minoritaria a nuevos inversores. El proceso se describe como una etapa temprana, sin garantía de que se concrete un acuerdo, y no se espera que los Friedkin cedan el control. El gasto récord de la Premier League este verano empuja incluso a propietarios recientes a considerar capital externo."
+      },
+      "zh": {
+        "title": "埃弗顿队弗里德金集团考虑引入少数股东投资者",
+        "summary": "2024年12月以约3.3亿英镑收购埃弗顿的弗里德金集团正与顾问合作，探讨向新投资者出售少数股权。该进程仍处于早期阶段，能否达成协议尚无保证，弗里德金家族预计不会放弃控制权。英超联赛今夏创纪录的转会支出，促使即便是较新入主的俱乐部老板也在考虑引入外部资本。"
+      },
+      "fr": {
+        "title": "Everton : le Friedkin Group explore l'arrivée d'investisseurs minoritaires",
+        "summary": "Le Friedkin Group, qui a racheté Everton pour environ 330 millions de livres sterling en décembre 2024, travaille avec des conseillers pour explorer la vente d'une participation minoritaire à de nouveaux investisseurs. Le processus en est à un stade précoce, sans garantie qu'un accord soit conclu, et les Friedkin ne devraient pas céder le contrôle du club. Les dépenses record de Premier League cet été poussent même des propriétaires récents à envisager des capitaux extérieurs."
+      }
+    }
+  },
+  {
+    "id": "angels-kroenke-4b-sale",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-01T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/business/team-sales/2026/stan-kroenke-buy-los-angeles-angels-moreno-1234943636/",
+    "i18n": {
+      "en": {
+        "title": "Stan Kroenke Agrees to Buy Angels at MLB-Record $4 Billion Valuation",
+        "summary": "Rams, Nuggets and Avalanche owner Stan Kroenke has agreed to buy controlling interest in the Los Angeles Angels from Arte Moreno, in a deal valuing the team at a record $4 billion. The sale ends Moreno's 23-year tenure as owner and is expected to close in early 2027 pending MLB approval. It makes Kroenke one of the few owners to hold controlling stakes across the NFL, NBA, NHL and now MLB."
+      },
+      "ja": {
+        "title": "スタン・クローンキー氏、エンゼルスをMLB史上最高額の40億ドルで買収合意",
+        "summary": "NFLラムズ、NBAナゲッツ、NHLアバランチのオーナーであるスタン・クローンキー氏が、ロサンゼルス・エンゼルスの経営権をアーテ・モレノ氏から取得することで合意した。評価額は球団史上最高となる40億ドル。モレノ氏の23年に及ぶオーナー在任は終わりを迎え、MLBの承認を経て2027年初頭の完了が見込まれている。これによりクローンキー氏はNFL、NBA、NHL、そしてMLBの主要球団オーナーを兼ねる稀有な存在となる。"
+      },
+      "es": {
+        "title": "Stan Kroenke acuerda comprar los Angels por un récord de 4.000 millones de dólares",
+        "summary": "El propietario de los Rams, los Nuggets y el Avalanche, Stan Kroenke, acordó comprar la participación mayoritaria de los Angels de Los Ángeles a Arte Moreno, en un acuerdo que valora al equipo en un récord de 4.000 millones de dólares para la MLB. La venta pone fin a los 23 años de Moreno como propietario y se espera que se cierre a principios de 2027 tras la aprobación de la MLB. Kroenke se convierte así en uno de los pocos dueños con participaciones de control en la NFL, la NBA, la NHL y ahora la MLB."
+      },
+      "zh": {
+        "title": "斯坦·克伦克同意以MLB纪录性的40亿美元收购天使队",
+        "summary": "拥有NFL公羊队、NBA掘金队和NHL雪崩队的斯坦·克伦克已同意从阿尔特·莫雷诺手中收购洛杉矶天使队的控股权，交易将球队估值定为创纪录的40亿美元。此次出售结束了莫雷诺长达23年的球队所有权，交易预计将在获得MLB批准后于2027年初完成。这使克伦克成为少数同时掌控NFL、NBA、NHL乃至如今MLB球队的老板之一。"
+      },
+      "fr": {
+        "title": "Stan Kroenke s'accorde pour racheter les Angels à une valorisation record de 4 milliards de dollars",
+        "summary": "Le propriétaire des Rams, des Nuggets et de l'Avalanche, Stan Kroenke, a accepté de racheter la participation majoritaire des Angels de Los Angeles à Arte Moreno, dans un accord valorisant l'équipe à un record de 4 milliards de dollars pour la MLB. Cette vente met fin aux 23 années de Moreno à la tête du club et devrait être finalisée début 2027, sous réserve de l'approbation de la MLB. Kroenke devient ainsi l'un des rares propriétaires à détenir des participations majoritaires en NFL, NBA, LNH et désormais en MLB."
+      }
+    }
+  },
+  {
+    "id": "lakers-kushner-iger-12-5b-sale",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-08-12T00:00:00Z",
+    "source_name": "CNBC",
+    "source_url": "https://www.cnbc.com/2026/08/12/bob-iger-joshua-kushner-buy-los-angeles-lakers-from-mark-walter.html",
+    "i18n": {
+      "en": {
+        "title": "Josh Kushner and Bob Iger Lead Group Buying Lakers for Record $12.5 Billion",
+        "summary": "A group led by investor Josh Kushner and former Disney CEO Bob Iger has agreed to buy the Los Angeles Lakers from Mark Walter's ownership group at a $12.5 billion valuation, the highest price ever paid for a professional sports franchise. The Buss family, which has controlled the team since 1979, will retain roughly a 15% stake, and Jeanie Buss is expected to remain the team's governor. The deal caps a summer of record-setting franchise sales across the NFL, MLB and NBA."
+      },
+      "ja": {
+        "title": "ジョシュ・クシュナー氏とボブ・アイガー氏主導グループ、レイカーズを史上最高125億ドルで買収合意",
+        "summary": "投資家ジョシュ・クシュナー氏と元ディズニーCEOのボブ・アイガー氏が率いるグループが、マーク・ウォルター氏のオーナーグループからロサンゼルス・レイカーズを評価額125億ドルで買収することに合意した。これはプロスポーツ球団としては史上最高額となる。1979年から球団を率いてきたバス家は約15%の株式を保持し、ジーニー・バス氏は引き続き球団のガバナーを務める見通し。この取引は、NFL、MLB、NBAで記録的な球団売却が相次いだ今夏を締めくくるものとなった。"
+      },
+      "es": {
+        "title": "Josh Kushner y Bob Iger lideran la compra de los Lakers por un récord de 12.500 millones de dólares",
+        "summary": "Un grupo liderado por el inversor Josh Kushner y el exCEO de Disney Bob Iger acordó comprar a Los Angeles Lakers al grupo propietario de Mark Walter por una valoración de 12.500 millones de dólares, el precio más alto pagado jamás por una franquicia deportiva profesional. La familia Buss, que ha controlado el equipo desde 1979, conservará aproximadamente un 15% de participación, y se espera que Jeanie Buss siga como gobernadora del equipo. El acuerdo corona un verano de ventas récord de franquicias en la NFL, la MLB y la NBA."
+      },
+      "zh": {
+        "title": "乔什·库什纳与鲍勃·艾格牵头的财团以创纪录的125亿美元收购湖人队",
+        "summary": "由投资人乔什·库什纳和迪士尼前首席执行官鲍勃·艾格牵头的财团已同意从马克·沃尔特的所有者集团手中收购洛杉矶湖人队，交易估值达125亿美元，创下职业体育球队交易的历史最高纪录。自1979年起执掌球队的巴斯家族将保留约15%的股份，珍妮·巴斯预计将继续担任球队管理人。这笔交易为NFL、MLB和NBA今夏一系列创纪录的球队交易画上句号。"
+      },
+      "fr": {
+        "title": "Josh Kushner et Bob Iger rachètent les Lakers pour un montant record de 12,5 milliards de dollars",
+        "summary": "Un groupe mené par l'investisseur Josh Kushner et l'ancien PDG de Disney Bob Iger a accepté de racheter les Lakers de Los Angeles au groupe propriétaire de Mark Walter, pour une valorisation de 12,5 milliards de dollars, le prix le plus élevé jamais payé pour une franchise sportive professionnelle. La famille Buss, qui contrôle l'équipe depuis 1979, conservera environ 15 % des parts, et Jeanie Buss devrait rester gouverneure du club. Cet accord conclut un été marqué par des ventes de franchises records en NFL, MLB et NBA."
+      }
+    }
+  },
+  {
+    "id": "liverpool-bezos-k5-stake-sale",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-08-14T00:00:00Z",
+    "source_name": "ESPN",
+    "source_url": "https://www.espn.com/soccer/story/_/id/49610494/liverpool-owners-fsg-sell-stake-consortium-jeff-bezos-amit-bhatia",
+    "i18n": {
+      "en": {
+        "title": "Liverpool Owners Sell Stake to Bezos-Backed Consortium Valuing Club at $7.45 Billion",
+        "summary": "Fenway Sports Group has sold roughly a 30% stake in Liverpool to '1892 Holdings,' a consortium fronted by Amit Bhatia and backed by Jeff Bezos's K5 fund and Eduardo Saverin's EE Capital, in a deal valuing the club at about £5.5 billion ($7.45 billion). The consortium holds an option to increase its stake toward majority control within 12 months at a valuation nearer $8 billion. It ranks among the largest single investments yet made in English football."
+      },
+      "ja": {
+        "title": "リバプール、ベゾス氏出資の企業連合に株式売却　クラブ評価額は74.5億ドル",
+        "summary": "フェンウェイ・スポーツ・グループが、アミット・バティア氏が率い、ジェフ・ベゾス氏のK5ファンドとエドゥアルド・サベリン氏のEEキャピタルが出資する企業連合「1892ホールディングス」に、リバプールの株式約30%を売却した。クラブの評価額は約55億ポンド（74.5億ドル）とされる。企業連合は12カ月以内に、評価額約80億ドルで持ち株比率を過半数近くまで引き上げるオプションを保有しており、イングランドサッカー史上最大級の単独投資の一つとなる。"
+      },
+      "es": {
+        "title": "Los dueños del Liverpool venden participación a un consorcio respaldado por Bezos, valorando al club en 7.450 millones de dólares",
+        "summary": "Fenway Sports Group vendió cerca de un 30% de su participación en el Liverpool a '1892 Holdings', un consorcio encabezado por Amit Bhatia y respaldado por el fondo K5 de Jeff Bezos y EE Capital de Eduardo Saverin, en un acuerdo que valora al club en unas 5.500 millones de libras (7.450 millones de dólares). El consorcio tiene la opción de aumentar su participación hacia el control mayoritario en 12 meses, a una valoración cercana a los 8.000 millones de dólares. Es una de las mayores inversiones individuales realizadas hasta ahora en el fútbol inglés."
+      },
+      "zh": {
+        "title": "利物浦股东向贝索斯支持的财团出售股权，俱乐部估值达74.5亿美元",
+        "summary": "芬威体育集团已将利物浦约30%的股权出售给由阿米特·巴蒂亚牵头、杰夫·贝索斯的K5基金及爱德华多·萨维林的EE Capital支持的财团“1892控股”，该交易将俱乐部估值定为约55亿英镑（合74.5亿美元）。该财团拥有在12个月内以约80亿美元估值将持股比例提升至控股水平的选择权。这是迄今为止英格兰足球领域规模最大的单笔投资之一。"
+      },
+      "fr": {
+        "title": "Les propriétaires de Liverpool cèdent une part à un consortium soutenu par Bezos, club valorisé à 7,45 milliards de dollars",
+        "summary": "Fenway Sports Group a vendu environ 30 % de sa participation dans Liverpool au consortium « 1892 Holdings », mené par Amit Bhatia et soutenu par le fonds K5 de Jeff Bezos et EE Capital d'Eduardo Saverin, dans un accord valorisant le club à environ 5,5 milliards de livres sterling (7,45 milliards de dollars). Le consortium dispose d'une option pour porter sa participation vers une majorité sous 12 mois, à une valorisation proche de 8 milliards de dollars. Il s'agit de l'un des plus importants investissements jamais réalisés dans le football anglais."
+      }
+    }
+  },
+  {
+    "id": "chelsea-circle-usdc-shirt-sponsor",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-08-28T00:00:00Z",
+    "source_name": "Chelsea FC",
+    "source_url": "https://www.chelseafc.com/en/news/article/chelsea-football-club-announces-circle-internet-group-as-principal-partner",
+    "i18n": {
+      "en": {
+        "title": "Chelsea Names Stablecoin Issuer Circle as New Front-of-Shirt Sponsor",
+        "summary": "Chelsea has announced Circle Internet Group, issuer of the USDC stablecoin, as Principal Partner, with its branding to appear on the front of shirts worn by the men's, women's and academy teams for the 2026-27 season. It marks Chelsea's fourth different shirt sponsor in as many seasons and is among the highest-profile crypto or stablecoin sponsorships yet seen in club soccer."
+      },
+      "ja": {
+        "title": "チェルシー、ステーブルコイン発行企業サークルを新ユニフォームスポンサーに",
+        "summary": "チェルシーは、USDCステーブルコインを発行するサークル・インターネット・グループをプリンシパルパートナーに迎えると発表した。2026-27シーズンより、トップチーム、女子チーム、アカデミーのユニフォーム前面にブランドロゴが入る。チェルシーにとっては4シーズン連続で異なるユニフォームスポンサーとなり、クラブサッカー界でも屈指の規模となる暗号資産・ステーブルコイン関連スポンサー契約の一つ。"
+      },
+      "es": {
+        "title": "El Chelsea nombra al emisor de stablecoins Circle como nuevo patrocinador de camiseta",
+        "summary": "El Chelsea anunció a Circle Internet Group, emisor de la stablecoin USDC, como Socio Principal, con su marca en el frente de las camisetas del primer equipo, el femenino y la academia para la temporada 2026-27. Es el cuarto patrocinador de camiseta distinto del club en otras tantas temporadas y uno de los patrocinios de criptomonedas o stablecoins más destacados vistos hasta ahora en el fútbol de clubes."
+      },
+      "zh": {
+        "title": "切尔西宣布稳定币发行商Circle为新球衣主赞助商",
+        "summary": "切尔西宣布稳定币USDC发行商Circle Internet Group成为俱乐部首席合作伙伴，其品牌标识将出现在2026-27赛季男子一线队、女足以及青训队球衣正面。这是切尔西连续四个赛季更换不同的球衣赞助商，也是目前俱乐部足球领域最引人注目的加密货币或稳定币赞助案例之一。"
+      },
+      "fr": {
+        "title": "Chelsea dévoile l'émetteur de stablecoin Circle comme nouveau sponsor maillot",
+        "summary": "Chelsea a annoncé Circle Internet Group, émetteur du stablecoin USDC, comme Partenaire Principal, sa marque figurant sur le devant des maillots des équipes masculine, féminine et de l'académie pour la saison 2026-27. Il s'agit du quatrième sponsor maillot différent du club en autant de saisons, et de l'un des partenariats liés aux cryptomonnaies ou stablecoins les plus en vue jamais vus dans le football de club."
+      }
+    }
+  },
+  {
+    "id": "warriors-iren-record-jersey-patch",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-13T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/business/sponsorship/2026/warriors-sign-record-jersey-patch-deal-with-iren-1234937113/",
+    "i18n": {
+      "en": {
+        "title": "Warriors Sign Record-Setting Jersey Patch Deal With AI Cloud Firm Iren",
+        "summary": "The Golden State Warriors have agreed to a multi-year jersey patch sponsorship with AI cloud computing company Iren worth more than $50 million per year, reportedly the richest sponsorship deal in North American team sports history. Iren replaces Rakuten, which had been on Golden State jerseys since 2017 in a deal worth about $20 million annually, and the new partnership also covers the WNBA's Golden State Valkyries and the G League's Santa Cruz Warriors. The companies also plan joint AI education programs and community basketball court refurbishments in the Bay Area."
+      },
+      "ja": {
+        "title": "ウォリアーズ、AIクラウド企業アイレンと北米スポーツ史上最高額级のユニフォームスポンサー契約",
+        "summary": "ゴールデンステート・ウォリアーズは、AIクラウドコンピューティング企業アイレンと複数年にわたるユニフォームパッチスポンサー契約を締結した。契約額は年間5000万ドルを超え、北米プロスポーツ史上最高額のスポンサー契約と報じられている。2017年から年間約2000万ドルで契約していた楽天に代わるもので、新契約はWNBAゴールデンステート・ヴァルキリーズやGリーグのサンタクルーズ・ウォリアーズにも適用される。両社はベイエリアでのAI教育プログラムや地域バスケットボールコートの改修も共同で計画している。"
+      },
+      "es": {
+        "title": "Warriors firman el mayor acuerdo de patrocinio de camiseta con la firma de nube de IA Iren",
+        "summary": "Los Golden State Warriors acordaron un patrocinio plurianual de parche en la camiseta con la empresa de computación en la nube de IA Iren, por más de 50 millones de dólares al año, en lo que se reporta como el acuerdo de patrocinio más lucrativo en la historia del deporte profesional norteamericano. Iren reemplaza a Rakuten, que figuraba en las camisetas de Golden State desde 2017 por unos 20 millones de dólares anuales, y el nuevo acuerdo también cubre a las Golden State Valkyries de la WNBA y a los Santa Cruz Warriors de la G League. Ambas empresas también planean programas conjuntos de educación en IA y la renovación de canchas comunitarias en el Área de la Bahía."
+      },
+      "zh": {
+        "title": "勇士队与AI云计算公司Iren签下北美体育史上最高额球衣赞助协议",
+        "summary": "金州勇士队已与AI云计算公司Iren达成多年球衣广告位赞助协议，年价值超过5000万美元，据报道是北美职业体育历史上金额最高的赞助合同。Iren取代了自2017年起以约2000万美元年费出现在勇士队球衣上的乐天，新协议同时覆盖WNBA金州女武神队和发展联盟圣克鲁兹勇士队。两家公司还计划在湾区联合开展AI教育项目并翻新社区篮球场。"
+      },
+      "fr": {
+        "title": "Les Warriors signent l'accord de sponsoring maillot le plus lucratif avec la société de cloud IA Iren",
+        "summary": "Les Warriors de Golden State ont conclu un partenariat pluriannuel de sponsoring de maillot avec la société de cloud computing IA Iren, pour plus de 50 millions de dollars par an, ce qui en ferait l'accord de sponsoring le plus riche de l'histoire du sport professionnel nord-américain. Iren remplace Rakuten, présent sur les maillots de Golden State depuis 2017 pour environ 20 millions de dollars par an ; le nouveau partenariat couvre aussi les Valkyries de Golden State en WNBA et les Warriors de Santa Cruz en G League. Les deux entreprises prévoient également des programmes conjoints d'éducation à l'IA et la rénovation de terrains de basket communautaires dans la Bay Area."
+      }
+    }
+  },
+  {
+    "id": "bucks-uline-jersey-patch",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-21T00:00:00Z",
+    "source_name": "Bloomberg",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-09-21/nba-s-milwaukee-bucks-sign-jersey-patch-ad-deal-with-uline",
+    "i18n": {
+      "en": {
+        "title": "Milwaukee Bucks Sign Uline as New Jersey Patch Sponsor, Replacing Motorola",
+        "summary": "The Milwaukee Bucks have named Wisconsin-based packaging and industrial supplies company Uline as their new official jersey patch partner in a multi-year deal starting with the 2026-27 season, elevating a commercial relationship dating back to 2013. Uline's logo will appear on the front left shoulder of game jerseys and practice jerseys, alongside signage at Fiserv Forum and in-arena activations, taking over the premium patch inventory previously held by Motorola. Bucks president Josh Glessing called it the club's biggest patch deal yet."
+      },
+      "ja": {
+        "title": "バックス、ジャージーパッチスポンサーにユーライン就任　モトローラから交代",
+        "summary": "ミルウォーキー・バックスは、ウィスコンシン州拠点の梱包・産業用品企業ユーラインを、2026-27シーズンから始まる複数年契約の新ジャージーパッチパートナーに迎えると発表した。両社の商業提携は2013年にさかのぼる。ユーラインのロゴは試合用・練習用ジャージーの左肩前面に配され、フィザーブ・フォーラムでの看板広告やアリーナ内での企画にも展開される。これまでモトローラが保有していたプレミアムパッチ枠を引き継ぐ形となり、バックスのジョシュ・グレッシング社長はクラブ史上最大のパッチ契約だと述べた。"
+      },
+      "es": {
+        "title": "Los Bucks fichan a Uline como nuevo patrocinador de parche en camiseta, en lugar de Motorola",
+        "summary": "Los Milwaukee Bucks nombraron a la empresa de embalaje y suministros industriales Uline, con sede en Wisconsin, como su nuevo socio oficial de parche en camiseta, en un acuerdo plurianual que comienza en la temporada 2026-27 y que eleva una relación comercial que se remonta a 2013. El logo de Uline aparecerá en el hombro izquierdo delantero de las camisetas de juego y entrenamiento, además de en la señalización del Fiserv Forum y activaciones dentro de la arena, sustituyendo el espacio premium que ocupaba antes Motorola. El presidente de los Bucks, Josh Glessing, lo calificó como el mayor acuerdo de parche en la historia del club."
+      },
+      "zh": {
+        "title": "雄鹿队签下Uline为新球衣广告位赞助商，取代摩托罗拉",
+        "summary": "密尔沃基雄鹿队宣布，总部位于威斯康星州的包装及工业用品公司Uline将成为球队新的官方球衣广告位合作伙伴，协议为多年期，自2026-27赛季生效，延续了双方自2013年以来的商业合作关系。Uline标志将出现在比赛服和训练服左肩前部，并配合费哲论坛球馆内广告牌及场馆内推广活动，接替此前由摩托罗拉持有的高端广告位。雄鹿队总裁乔希·格莱辛称这是球队迄今为止规模最大的广告位赞助协议。"
+      },
+      "fr": {
+        "title": "Les Bucks signent Uline comme nouveau sponsor de patch maillot, en remplacement de Motorola",
+        "summary": "Les Bucks de Milwaukee ont désigné l'entreprise d'emballage et de fournitures industrielles Uline, basée dans le Wisconsin, comme nouveau partenaire officiel du patch maillot dans le cadre d'un accord pluriannuel débutant lors de la saison 2026-27, prolongeant une relation commerciale remontant à 2013. Le logo d'Uline figurera sur l'épaule gauche avant des maillots de match et d'entraînement, avec de la signalétique au Fiserv Forum et des activations dans l'enceinte, reprenant l'espace premium auparavant occupé par Motorola. Le président des Bucks, Josh Glessing, a qualifié cet accord du plus important jamais signé par le club pour un patch."
+      }
+    }
+  },
+  {
+    "id": "kallang-group-samsung-singapore-tech-partnership",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "tech",
+      "sponsor"
+    ],
+    "published_at": "2026-09-09T00:00:00Z",
+    "source_name": "Samsung Newsroom Singapore",
+    "source_url": "https://news.samsung.com/sg/the-kallang-group-and-samsung-electronics-singapore-partner-to-build-active-communities-through-technology-and-live-experiences",
+    "i18n": {
+      "en": {
+        "title": "The Kallang Group Names Samsung Official Consumer Electronics Partner in Singapore",
+        "summary": "The Kallang Group, which manages the sports and entertainment precinct formerly known as the Singapore Sports Hub, announced a multi-year partnership with Samsung Electronics Singapore covering mobile devices, wearables, displays and connected AI appliances. Nearly 500 Samsung AI screens have already been installed across the precinct, and the tie-up kicked off with a Galaxy Walkathon tied to the National Stadium Experience. The deal reflects a broader push by venue operators to pair fan-facing technology with community wellness programming."
+      },
+      "ja": {
+        "title": "カラン・グループ、シンガポールでサムスンを公式家電パートナーに",
+        "summary": "かつてシンガポール・スポーツ・ハブと呼ばれたスポーツ・エンタメ複合施設を運営するカラン・グループは、サムスン電子シンガポールとモバイル機器、ウェアラブル、ディスプレイ、AI家電分野での複数年パートナーシップを発表した。施設内にはすでに約500台のサムスン製AIスクリーンが設置されており、提携開始に合わせて「ナショナル・スタジアム・エクスペリエンス」に連動したギャラクシー・ウォーカソンも実施された。この提携は、会場運営会社がファン向けテクノロジーと地域の健康増進プログラムを組み合わせる動きの広がりを示している。"
+      },
+      "es": {
+        "title": "The Kallang Group nombra a Samsung socio oficial de electrónica de consumo en Singapur",
+        "summary": "The Kallang Group, que gestiona el complejo deportivo y de entretenimiento antes conocido como Singapore Sports Hub, anunció una alianza plurianual con Samsung Electronics Singapore que abarca dispositivos móviles, wearables, pantallas y electrodomésticos conectados con IA. Ya se han instalado cerca de 500 pantallas con IA de Samsung en todo el recinto, y la colaboración arrancó con una Galaxy Walkathon vinculada a la National Stadium Experience. El acuerdo refleja una tendencia más amplia entre operadores de recintos a combinar tecnología orientada a los aficionados con programas de bienestar comunitario."
+      },
+      "zh": {
+        "title": "凯兰集团任命三星为新加坡官方消费电子合作伙伴",
+        "summary": "运营原“新加坡体育城”体育娱乐综合体的凯兰集团宣布与三星电子新加坡达成多年合作，涵盖移动设备、可穿戴设备、显示屏及联网AI家电。目前园区内已安装近500块三星AI屏幕，此次合作以配合“国家体育场体验”举办的Galaxy Walkathon徒步活动拉开序幕。此举反映出场馆运营方越来越倾向于将面向观众的科技与社区健康项目相结合的趋势。"
+      },
+      "fr": {
+        "title": "The Kallang Group nomme Samsung partenaire officiel de l'électronique grand public à Singapour",
+        "summary": "The Kallang Group, qui gère le complexe sportif et de divertissement autrefois connu sous le nom de Singapore Sports Hub, a annoncé un partenariat pluriannuel avec Samsung Electronics Singapore couvrant les appareils mobiles, les objets connectés, les écrans et l'électroménager connecté à l'IA. Près de 500 écrans IA Samsung ont déjà été installés dans le complexe, et le partenariat a débuté par une Galaxy Walkathon liée à la National Stadium Experience. Cet accord illustre une tendance plus large des exploitants de sites à associer technologie tournée vers les supporters et programmes de bien-être communautaire."
+      }
+    }
+  },
+  {
+    "id": "nascar-fedex-freight-truck-series-entitlement",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-17T00:00:00Z",
+    "source_name": "NASCAR.com",
+    "source_url": "https://www.nascar.com/news-media/2026/09/17/nascar-and-fedex-freight-announce-long-term-truck-series-entitlement-partnership-starting-in-2027/",
+    "i18n": {
+      "en": {
+        "title": "NASCAR Names FedEx Freight Truck Series Entitlement Partner Starting 2027",
+        "summary": "NASCAR and FedEx Freight announced a long-term entitlement partnership that will rename the sport's third-tier series the NASCAR FedEx Freight Truck Series beginning in 2027. FedEx Freight, the largest less-than-truckload carrier in North America, replaces Craftsman, which had held the Truck Series entitlement since returning in 2023, and separately becomes NASCAR's exclusive freight shipping partner across the U.S., Canada and Mexico. The deal underscores NASCAR's continued push to pair its racing series with logistics and industrial sponsors."
+      },
+      "ja": {
+        "title": "NASCAR、2027年からトラックシリーズの冠スポンサーにフェデックス・フレイトを選定",
+        "summary": "NASCARとフェデックス・フレイトは長期の冠スポンサー契約を発表し、2027年からNASCAR第3階級シリーズが「NASCARフェデックス・フレイト・トラックシリーズ」に改称される。北米最大の路線貨物輸送企業であるフェデックス・フレイトは、2023年の復帰以来トラックシリーズの冠スポンサーを務めてきたクラフツマンに代わり、米国・カナダ・メキシコにおけるNASCARの独占貨物輸送パートナーにも就任する。この契約は、NASCARがレースシリーズと物流・産業系スポンサーとの連携を強めていることを示している。"
+      },
+      "es": {
+        "title": "NASCAR nombra a FedEx Freight patrocinador principal de la Truck Series a partir de 2027",
+        "summary": "NASCAR y FedEx Freight anunciaron una alianza de patrocinio de largo plazo que renombrará la serie de tercer nivel del deporte como NASCAR FedEx Freight Truck Series a partir de 2027. FedEx Freight, el mayor transportista de carga fraccionada de Norteamérica, reemplaza a Craftsman, que ostentaba el patrocinio de la Truck Series desde su regreso en 2023, y se convierte además en el socio exclusivo de transporte de carga de NASCAR en EE. UU., Canadá y México. El acuerdo refleja el impulso continuo de NASCAR por vincular sus series de carreras con patrocinadores logísticos e industriales."
+      },
+      "zh": {
+        "title": "NASCAR宣布联邦快递货运公司自2027年起成为卡车赛事冠名合作伙伴",
+        "summary": "NASCAR与联邦快递货运公司宣布达成长期冠名合作，NASCAR第三级别赛事将于2027年起更名为“NASCAR联邦快递货运卡车系列赛”。作为北美最大的零担货运公司，联邦快递货运将取代自2023年回归以来一直冠名卡车系列赛的Craftsman，并同时成为NASCAR在美国、加拿大和墨西哥地区的独家货运合作伙伴。这项协议凸显了NASCAR持续推动赛车系列与物流及工业类赞助商深度绑定的趋势。"
+      },
+      "fr": {
+        "title": "NASCAR nomme FedEx Freight partenaire titre de la Truck Series à partir de 2027",
+        "summary": "NASCAR et FedEx Freight ont annoncé un partenariat de titre à long terme qui renommera la série de troisième niveau du championnat NASCAR FedEx Freight Truck Series à compter de 2027. FedEx Freight, le plus grand transporteur de fret groupé d'Amérique du Nord, remplace Craftsman, qui détenait le titre de la Truck Series depuis son retour en 2023, et devient par ailleurs le partenaire exclusif de transport de fret de NASCAR aux États-Unis, au Canada et au Mexique. Cet accord illustre la volonté continue de NASCAR d'associer ses séries de course à des sponsors logistiques et industriels."
+      }
+    }
+  },
+  {
+    "id": "his-bleague-glocal-partner",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-08-31T00:00:00Z",
+    "source_name": "HIS Co., Ltd.",
+    "source_url": "https://www.his.co.jp/news/20931.html",
+    "i18n": {
+      "en": {
+        "title": "Travel Agency HIS Signs 'Glocal Partner' Deal With Japan's B.LEAGUE",
+        "summary": "Travel company HIS has signed a 'Glocal Partner' agreement with Japan's B.LEAGUE, combining its domestic and international travel network with the league's fan base and regional ties. Under the deal, HIS gains exclusive rights to plan and sell an official supporter tour package, branded 'B.Tabi,' covering all 55 B.LEAGUE clubs, alongside efforts to attract overseas fans and support youth basketball development. Sales of the tour packages were set to begin in September."
+      },
+      "ja": {
+        "title": "旅行会社HIS、B.LEAGUEと『グローカル・パートナー』契約を締結",
+        "summary": "旅行会社のHISは、日本のB.LEAGUEと「グローカル・パートナー」契約を締結したと発表した。HISが持つ国内外の旅行ネットワークと、B.LEAGUEが持つファンコミュニティおよび地域とのつながりを組み合わせる狙いがある。契約により、HISは全55クラブを対象とした公式観戦ツアー「B.旅」の企画・販売における独占的な権利を獲得し、訪日外国人ファンの誘致やユース世代のバスケットボール振興にも取り組む。ツアーの販売は9月から開始される予定。"
+      },
+      "es": {
+        "title": "La agencia de viajes HIS firma un acuerdo de 'Socio Glocal' con la B.LEAGUE de Japón",
+        "summary": "La empresa de viajes HIS firmó un acuerdo de 'Socio Glocal' con la B.LEAGUE de Japón, combinando su red de viajes nacional e internacional con la afición y los vínculos regionales de la liga. Con el acuerdo, HIS obtiene derechos exclusivos para planificar y vender un paquete de viaje oficial para aficionados, denominado 'B.Tabi', que abarca los 55 clubes de la B.LEAGUE, además de impulsar la captación de aficionados extranjeros y apoyar el desarrollo del baloncesto juvenil. Se preveía que la venta de los paquetes turísticos comenzara en septiembre."
+      },
+      "zh": {
+        "title": "旅行社HIS与日本B联赛签署“全球本地化合作伙伴”协议",
+        "summary": "旅行公司HIS宣布与日本B联赛签署“全球本地化合作伙伴（Glocal Partner）”协议，将其国内外旅游网络与联赛的球迷群体及地方联系相结合。根据协议，HIS获得策划和销售官方球迷观赛旅游产品“B.旅”的独家权利，覆盖全部55支B联赛球队，同时致力于吸引海外球迷并支持青少年篮球发展。相关旅游产品预计于9月开始销售。"
+      },
+      "fr": {
+        "title": "L'agence de voyages HIS signe un accord de « partenaire glocal » avec la B.LEAGUE japonaise",
+        "summary": "La société de voyages HIS a signé un accord de « partenaire glocal » avec la B.LEAGUE japonaise, associant son réseau de voyage national et international à la communauté de supporters et aux liens régionaux de la ligue. Grâce à cet accord, HIS obtient les droits exclusifs de concevoir et de vendre un forfait de voyage officiel pour supporters, baptisé « B.Tabi », couvrant les 55 clubs de la B.LEAGUE, tout en cherchant à attirer des supporters étrangers et à soutenir le développement du basketball chez les jeunes. La commercialisation des forfaits devait débuter en septembre."
+      }
+    }
+  },
+  {
+    "id": "suntory-bleague-partnership",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-08-26T00:00:00Z",
+    "source_name": "Basketball King",
+    "source_url": "https://basketballking.jp/news/japan/20260826/629385.html",
+    "i18n": {
+      "en": {
+        "title": "Suntory Becomes New B.LEAGUE Partner in Japan",
+        "summary": "Beverage giant Suntory has signed on as a new partner of Japan's B.LEAGUE, tying its brand to the league's arena experiences and its 'Kando Rikkoku' (nation built on emotion) branding push. The companies said the partnership grew out of a shared aim of creating moments that move people, pairing Suntory's consumer reach with the league's ability to generate excitement through basketball. Financial terms of the multi-year deal were not disclosed."
+      },
+      "ja": {
+        "title": "サントリー、B.LEAGUEの新パートナーに就任",
+        "summary": "飲料大手サントリーが、日本のB.LEAGUEの新たなパートナーに就任したと発表された。アリーナでの体験価値の向上や、リーグが掲げる「感動立国」の実現に向けた取り組みにブランドを結びつける狙いがある。両者は、人々の心を動かす瞬間をともに生み出したいという思いが共鳴したことが提携の背景にあるとしている。複数年契約とされるが、契約金額など詳細な条件は公表されていない。"
+      },
+      "es": {
+        "title": "Suntory se convierte en nuevo socio de la B.LEAGUE en Japón",
+        "summary": "El gigante de bebidas Suntory se ha convertido en nuevo socio de la B.LEAGUE de Japón, vinculando su marca a las experiencias en los pabellones de la liga y a su campaña 'Kando Rikkoku' (una nación construida sobre la emoción). Las empresas señalaron que la alianza surgió de un objetivo compartido de crear momentos que emocionen a la gente, combinando el alcance de Suntory entre consumidores con la capacidad de la liga de generar entusiasmo a través del baloncesto. No se revelaron los términos financieros del acuerdo plurianual."
+      },
+      "zh": {
+        "title": "三得利成为日本B联赛新合作伙伴",
+        "summary": "饮料巨头三得利宣布成为日本B联赛新的合作伙伴，将其品牌与联赛的现场观赛体验及“感动立国”品牌理念相结合。双方表示，此次合作源于希望共同创造打动人心时刻的共同愿景，将三得利的消费者触达能力与联赛通过篮球激发热情的能力相结合。这项多年期协议的具体金额未予披露。"
+      },
+      "fr": {
+        "title": "Suntory devient nouveau partenaire de la B.LEAGUE au Japon",
+        "summary": "Le géant des boissons Suntory est devenu un nouveau partenaire de la B.LEAGUE japonaise, associant sa marque aux expériences en salle de la ligue et à sa campagne « Kando Rikkoku » (une nation bâtie sur l'émotion). Les deux entités ont indiqué que ce partenariat découlait d'une volonté commune de créer des moments qui touchent les gens, alliant la portée grand public de Suntory à la capacité de la ligue à susciter l'enthousiasme par le basketball. Les conditions financières de cet accord pluriannuel n'ont pas été divulguées."
+      }
+    }
+  },
+  {
+    "id": "riot-games-prediction-market-sponsorship-talks",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-09-10T00:00:00Z",
+    "source_name": "Bloomberg",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-09-10/riot-games-discussed-polymarket-kalshi-sponsorships-for-esports",
+    "i18n": {
+      "en": {
+        "title": "Riot Games Held Talks With Kalshi and Polymarket on Esports Sponsorship Deals",
+        "summary": "Riot Games has held discussions with prediction-market platforms Kalshi and Polymarket about potential esports sponsorship arrangements, Bloomberg reported. Riot said it is evaluating the emerging category with a focus on competitive integrity, potential value for teams, fan experience and alignment with its broader ecosystem goals, but has not confirmed any signed deal. The talks point to prediction markets emerging as a new, closely watched sponsorship category alongside more established categories like betting and crypto."
+      },
+      "ja": {
+        "title": "ライアットゲームズ、予測市場カルシー・ポリマーケットとeスポーツ協賛巡り協議",
+        "summary": "ブルームバーグの報道によると、ライアットゲームズは予測市場プラットフォームのカルシーおよびポリマーケットと、eスポーツにおける協賛関係の可能性について協議を行った。同社は「競技の公正性、チームにとっての潜在的価値、ファン体験、自社エコシステム全体の目標との整合性」を重視してこの新興分野を検討していると説明するが、契約締結には至っていない。この協議は、賭博や暗号資産と並び、予測市場がeスポーツにおける新たな注目スポンサー分野として浮上しつつあることを示している。"
+      },
+      "es": {
+        "title": "Riot Games mantuvo conversaciones con Kalshi y Polymarket sobre patrocinios de esports",
+        "summary": "Riot Games mantuvo conversaciones con las plataformas de mercados de predicción Kalshi y Polymarket sobre posibles acuerdos de patrocinio en esports, según informó Bloomberg. La compañía dijo que está evaluando esta categoría emergente centrándose en la integridad competitiva, el valor potencial para los equipos, la experiencia de los aficionados y la alineación con sus objetivos de ecosistema más amplios, aunque no confirmó ningún acuerdo firmado. Las conversaciones apuntan a que los mercados de predicción se están consolidando como una nueva categoría de patrocinio, observada de cerca junto a categorías más establecidas como las apuestas y las criptomonedas."
+      },
+      "zh": {
+        "title": "拳头游戏就电竞赞助与预测市场平台Kalshi、Polymarket展开磋商",
+        "summary": "据彭博社报道，拳头游戏已与预测市场平台Kalshi和Polymarket就潜在的电竞赞助安排展开磋商。该公司表示正在评估这一新兴品类，重点关注赛事公正性、对战队的潜在价值、粉丝体验以及与自身生态系统整体目标的契合度，但尚未确认任何已签署的协议。此次磋商表明，预测市场正与博彩、加密货币等成熟品类一样，成为电竞领域备受关注的新兴赞助类别。"
+      },
+      "fr": {
+        "title": "Riot Games a discuté avec Kalshi et Polymarket d'éventuels sponsorings esport",
+        "summary": "Riot Games a mené des discussions avec les plateformes de marchés prédictifs Kalshi et Polymarket au sujet d'éventuels accords de sponsoring esport, a rapporté Bloomberg. L'entreprise a indiqué évaluer cette catégorie émergente en se concentrant sur l'intégrité compétitive, la valeur potentielle pour les équipes, l'expérience des fans et l'alignement avec ses objectifs d'écosystème plus larges, sans toutefois confirmer d'accord signé. Ces discussions montrent que les marchés prédictifs s'imposent comme une nouvelle catégorie de sponsoring très surveillée, aux côtés de catégories plus établies comme les paris et les cryptomonnaies."
+      }
+    }
   }
 ]
