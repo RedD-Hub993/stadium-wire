@@ -2698,5 +2698,209 @@
         "summary": "Le conseil d'administration de la J.League a approuvé un plan d'investissement record d'environ 21 milliards de yens cumulés sur les exercices 2026 et 2027 pour accompagner sa transition vers un calendrier de saison automne-printemps. Cette enveloppe finance des subventions accrues aux clubs, des aides aux infrastructures pour les clubs des régions enneigées, ainsi qu'un soutien aux déplacements pour les clubs participants à la Ligue des champions de l'AFC."
       }
     }
+  },
+  {
+    "id": "bills-highmark-stadium-tech-center",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "tech"
+    ],
+    "published_at": "2026-09-17T00:00:00Z",
+    "source_name": "Sports Video Group",
+    "source_url": "https://www.sportsvideo.org/2026/09/17/home-at-highmark-stadium-buffalo-bills-new-venue-drives-fan-experience-with-exterior-tech-center-internal-ip-powered-infrastructure/",
+    "i18n": {
+      "en": {
+        "title": "Buffalo Bills' New Highmark Stadium Built Around Standalone Tech Center",
+        "summary": "The Buffalo Bills' new Highmark Stadium relies on a roughly 18,000-square-foot standalone technology center outside the stadium bowl to house production, fiber and cellular-network infrastructure. Building the hub separately let crews start installing switches and cameras about eight months before the stadium itself was finished, and the venue's SMPTE ST 2110 broadcast network now supports 35 cameras and Ross Video-powered videoboards."
+      },
+      "ja": {
+        "title": "ビルズの新本拠地ハイマーク・スタジアム、独立型テクノロジーセンターが中核に",
+        "summary": "バッファロー・ビルズの新本拠地ハイマーク・スタジアムは、スタジアム本体の外に設けた約1,700平方メートルの独立型テクノロジーセンターに制作機材や光ファイバー、携帯電話網インフラを集約している。施設を別棟にしたことで、スタジアム本体の完成より約8カ月前からネットワーク機器やカメラの設置を開始でき、SMPTE ST 2110規格の放送ネットワークは35台のカメラとロス・ビデオ製のビジョンボードを支えている。"
+      },
+      "es": {
+        "title": "El nuevo Highmark Stadium de los Bills se construye en torno a un centro tecnológico independiente",
+        "summary": "El nuevo Highmark Stadium de los Buffalo Bills se apoya en un centro tecnológico independiente de unos 1.700 metros cuadrados, situado fuera del recinto, para alojar la producción, la fibra y la infraestructura de red celular. Construir ese centro por separado permitió instalar switches y cámaras unos ocho meses antes de terminar el estadio, y la red de transmisión SMPTE ST 2110 ya soporta 35 cámaras y videomarcadores de Ross Video."
+      },
+      "zh": {
+        "title": "比尔斯新主场海玛克体育场以独立技术中心为核心",
+        "summary": "布法罗比尔斯的新主场海玛克体育场依靠体育场外一座约1700平方米的独立技术中心，容纳制作设备、光纤及蜂窝网络基础设施。将该中心独立建造使团队得以在体育场主体完工前约八个月就开始安装交换机和摄像机，如今符合SMPTE ST 2110标准的转播网络已支持35台摄像机及罗斯video驱动的显示屏。"
+      },
+      "fr": {
+        "title": "Le nouveau Highmark Stadium des Bills s'articule autour d'un centre technologique indépendant",
+        "summary": "Le nouveau Highmark Stadium des Buffalo Bills s'appuie sur un centre technologique indépendant d'environ 1 700 m², situé hors de l'enceinte, pour héberger la production, la fibre et l'infrastructure réseau cellulaire. Construire ce centre séparément a permis d'installer commutateurs et caméras environ huit mois avant l'achèvement du stade, et le réseau de diffusion SMPTE ST 2110 prend désormais en charge 35 caméras et des écrans géants signés Ross Video."
+      }
+    }
+  },
+  {
+    "id": "mercedes-benz-stadium-mini-halo-board",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "tech"
+    ],
+    "published_at": "2026-09-02T00:00:00Z",
+    "source_name": "Sports Video Group",
+    "source_url": "https://www.sportsvideo.org/2026/09/02/mercedes-benz-stadium-goes-mini-nine-year-old-venue-continues-to-innovate-with-control-room-mini-halo-board/",
+    "i18n": {
+      "en": {
+        "title": "Mercedes-Benz Stadium Builds Miniature Version of Its Halo Board for Production Control Room",
+        "summary": "Atlanta's Mercedes-Benz Stadium has installed a scaled-down replica of its circular Halo Board inside the production control room, using flexible Daktronics LED technology to recreate the display's unusual shape at a smaller size. The mini board, supported by additional Ross Video processing gear, lets operators preview content exactly as it will appear on the massive fan-facing screen before it goes live."
+      },
+      "ja": {
+        "title": "メルセデス・ベンツ・スタジアム、制作コントロールルームに縮小版ハロー・ボードを設置",
+        "summary": "アトランタのメルセデス・ベンツ・スタジアムは、円形の巨大ビジョン「ハロー・ボード」を縮小再現したミニチュア版を制作コントロールルーム内に設置した。Daktronics製の柔軟なLED技術を用いて特殊な形状を小型で再現しており、追加のRoss Video製処理機器と組み合わせることで、オペレーターは実際にファンが見る巨大画面に映る前にコンテンツを正確に確認できるようになった。"
+      },
+      "es": {
+        "title": "El Mercedes-Benz Stadium construye una versión en miniatura de su Halo Board para la sala de control",
+        "summary": "El Mercedes-Benz Stadium de Atlanta instaló una réplica a escala reducida de su icónico Halo Board circular dentro de la sala de control de producción, utilizando tecnología LED flexible de Daktronics para recrear la inusual forma de la pantalla en un tamaño menor. La mini pantalla, respaldada por equipos adicionales de procesamiento de Ross Video, permite a los operadores previsualizar el contenido tal como se verá en la enorme pantalla que ven los aficionados antes de emitirlo en vivo."
+      },
+      "zh": {
+        "title": "梅赛德斯-奔驰体育场在制作控制室搭建迷你版光环屏",
+        "summary": "亚特兰大梅赛德斯-奔驰体育场在制作控制室内安装了其标志性环形大屏“光环屏”的缩小复制版，采用Daktronics柔性LED技术以较小尺寸还原这一特殊造型。配合额外的Ross Video处理设备，操作人员现在可以在内容正式呈现在球迷所见的巨大屏幕之前，先行精准预览效果。"
+      },
+      "fr": {
+        "title": "Le Mercedes-Benz Stadium construit une version miniature de son Halo Board pour la régie de production",
+        "summary": "Le Mercedes-Benz Stadium d'Atlanta a installé, dans sa régie de production, une réplique miniature de son célèbre écran circulaire Halo Board, grâce à la technologie LED flexible de Daktronics qui reproduit cette forme inhabituelle à plus petite échelle. Ce mini-écran, épaulé par du matériel de traitement Ross Video supplémentaire, permet aux régisseurs de prévisualiser le contenu tel qu'il apparaîtra sur l'immense écran vu par les supporters avant sa diffusion en direct."
+      }
+    }
+  },
+  {
+    "id": "cnbc-nfl-valuations-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-09T00:00:00Z",
+    "source_name": "CNBC",
+    "source_url": "https://www.cnbc.com/2026/09/09/cnbcs-official-nfl-team-valuations-2026-heres-how-the-32-franchises-stack-up.html",
+    "i18n": {
+      "en": {
+        "title": "CNBC's 2026 NFL Valuations Show Five Franchises Now Worth More Than $12 Billion",
+        "summary": "CNBC's official 2026 NFL franchise valuations put the Dallas Cowboys on top at $16 billion, followed by the Rams, Raiders, Giants and Patriots, with five teams now valued above $12 billion. League-wide values rose 31% year over year even though revenue grew only 6%, pushing the average revenue multiple to more than double what it was in 2020."
+      },
+      "ja": {
+        "title": "CNBC発表の2026年NFL球団価値、5球団が120億ドル超えに",
+        "summary": "CNBCが発表した2026年NFL球団価値ランキングでは、ダラス・カウボーイズが160億ドルで首位となり、ラムズ、レイダーズ、ジャイアンツ、ペイトリオッツが続き、120億ドルを超える球団が5チームに達した。リーグ全体の球団価値は前年比31%上昇した一方、収益の伸びは6%にとどまり、収益倍率は2020年の2倍以上に拡大した。"
+      },
+      "es": {
+        "title": "Las valoraciones de la NFL 2026 de CNBC muestran cinco franquicias por encima de los 12.000 millones de dólares",
+        "summary": "Las valoraciones oficiales de la NFL de 2026 elaboradas por CNBC sitúan a los Dallas Cowboys en primer lugar con 16.000 millones de dólares, seguidos por Rams, Raiders, Giants y Patriots, con cinco equipos ya valorados por encima de los 12.000 millones. El valor conjunto de la liga subió un 31% interanual, aunque los ingresos solo crecieron un 6%, lo que más que duplicó el múltiplo de ingresos respecto a 2020."
+      },
+      "zh": {
+        "title": "CNBC公布2026年NFL球队估值：五支球队身价突破120亿美元",
+        "summary": "CNBC发布的2026年NFL官方球队估值显示，达拉斯牛仔队以160亿美元位居榜首，公羊队、突袭者队、巨人队及爱国者队紧随其后，共有五支球队估值超过120亿美元。尽管联盟总营收仅增长6%，但球队整体估值同比大涨31%，收入倍数较2020年翻了一倍多。"
+      },
+      "fr": {
+        "title": "Le classement CNBC des valorisations NFL 2026 montre cinq franchises désormais au-dessus de 12 milliards de dollars",
+        "summary": "Le classement officiel CNBC des valorisations NFL 2026 place les Dallas Cowboys en tête avec 16 milliards de dollars, devant les Rams, les Raiders, les Giants et les Patriots, cinq équipes dépassant désormais les 12 milliards. La valeur globale de la ligue a bondi de 31 % sur un an alors que les revenus n'ont progressé que de 6 %, faisant plus que doubler le multiple de revenus par rapport à 2020."
+      }
+    }
+  },
+  {
+    "id": "ntt-docomo-smart-stadium-solution-japan",
+    "sport": "general",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "tech"
+    ],
+    "published_at": "2026-01-08T00:00:00Z",
+    "source_name": "NTT Docomo Business",
+    "source_url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0108.html",
+    "i18n": {
+      "en": {
+        "title": "NTT Docomo Business Launches Smart Stadium Platform for Japanese Venues",
+        "summary": "NTT Docomo Business has begun offering a cloud-based smart stadium and arena management platform in Japan through an exclusive distribution deal with US facility-management software company 24/7 Software. The service centralizes incident management and operations for stadiums, arenas and large commercial facilities, and is aimed at venues across Japan, South Korea and Taiwan."
+      },
+      "ja": {
+        "title": "NTTドコモビジネス、日本国内向けにスマートスタジアムソリューションの提供を開始",
+        "summary": "NTTドコモビジネスは、米国の施設管理ソフトウェア大手24/7 Softwareとの独占販売店契約に基づき、クラウド型のスマートスタジアム・アリーナ運営プラットフォームの提供を国内で開始した。同サービスはスタジアムやアリーナ、大型商業施設のインシデント管理・運営を一元化するもので、日本・韓国・台湾の施設を対象としている。"
+      },
+      "es": {
+        "title": "NTT Docomo Business lanza una plataforma de estadio inteligente para recintos japoneses",
+        "summary": "NTT Docomo Business comenzó a ofrecer en Japón una plataforma de gestión inteligente para estadios y arenas basada en la nube, mediante un acuerdo de distribución exclusiva con la empresa estadounidense de software de gestión de instalaciones 24/7 Software. El servicio centraliza la gestión de incidentes y las operaciones de estadios, arenas y grandes instalaciones comerciales, y está dirigido a recintos de Japón, Corea del Sur y Taiwán."
+      },
+      "zh": {
+        "title": "NTT Docomo Business在日本推出智能体育场管理平台",
+        "summary": "NTT Docomo Business通过与美国设施管理软件公司24/7 Software达成独家分销协议，开始在日本提供基于云端的智能体育场及场馆管理平台。该服务可集中管理体育场、场馆及大型商业设施的事件处理与运营，面向日本、韩国及台湾地区的场馆推出。"
+      },
+      "fr": {
+        "title": "NTT Docomo Business lance une plateforme de stade intelligent pour les sites japonais",
+        "summary": "NTT Docomo Business a commencé à proposer au Japon une plateforme cloud de gestion intelligente des stades et arénas, via un accord de distribution exclusif avec l'éditeur américain de logiciels de gestion d'installations 24/7 Software. Le service centralise la gestion des incidents et l'exploitation des stades, arénas et grands complexes commerciaux, et cible les sites au Japon, en Corée du Sud et à Taïwan."
+      }
+    }
+  },
+  {
+    "id": "softbank-hawks-led-ribbon-paypay-dome",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "tech"
+    ],
+    "published_at": "2026-01-27T00:00:00Z",
+    "source_name": "Fukuoka SoftBank Hawks",
+    "source_url": "https://www.softbankhawks.co.jp/news/detail/202600929004.html",
+    "i18n": {
+      "en": {
+        "title": "SoftBank Hawks to Install NPB's Largest LED Ribbon Board at Home Dome",
+        "summary": "The Fukuoka SoftBank Hawks announced plans to install a 186-meter LED ribbon board spanning the outfield fence at their home Mizuho PayPay Dome, among the largest such displays at any NPB ballpark. The venue is also getting new artificial turf and expanded protective netting, with the upgrades set to debut at the team's March 2026 preseason opener."
+      },
+      "ja": {
+        "title": "ソフトバンクホークス、本拠地にNPB最大級のLEDリボンビジョンを設置へ",
+        "summary": "福岡ソフトバンクホークスは、本拠地みずほPayPayドームの外野フェンスに全長186メートルのLEDリボンビジョンを設置すると発表した。NPB本拠地球場の中でも最大級の表示面積となる見込みで、あわせて新たな人工芝の導入や防球ネットの拡充も実施され、2026年3月のオープン戦から稼働する予定だ。"
+      },
+      "es": {
+        "title": "Los SoftBank Hawks instalarán el mayor videomarcador de cinta LED de la NPB en su estadio",
+        "summary": "Los Fukuoka SoftBank Hawks anunciaron planes para instalar un videomarcador de cinta LED de 186 metros a lo largo de la valla del jardín en su estadio, el Mizuho PayPay Dome, una de las pantallas de este tipo más grandes en cualquier estadio de la NPB. El recinto también estrenará césped artificial nuevo y una red de protección ampliada, con las mejoras previstas para el partido de pretemporada de marzo de 2026 del equipo."
+      },
+      "zh": {
+        "title": "软银鹰队将在主场安装NPB最大规模LED环形显示屏",
+        "summary": "福冈软银鹰队宣布计划在主场みずほPayPay巨蛋外场围栏安装一条长达186米的LED环形显示屏，规模位居NPB各主场球场前列。球场同时将铺设新人工草皮并扩大防护网，相关升级预计于2026年3月球队热身赛揭幕战启用。"
+      },
+      "fr": {
+        "title": "Les SoftBank Hawks vont installer le plus grand écran LED en bandeau de la NPB dans leur stade",
+        "summary": "Les Fukuoka SoftBank Hawks ont annoncé l'installation d'un écran LED en bandeau de 186 mètres le long de la clôture du champ extérieur de leur stade, le Mizuho PayPay Dome, l'un des plus grands dispositifs de ce type dans un stade de la NPB. L'enceinte accueillera aussi une nouvelle pelouse artificielle et un filet de protection agrandi, ces améliorations devant être inaugurées lors du match de pré-saison de l'équipe en mars 2026."
+      }
+    }
+  },
+  {
+    "id": "thunderpick-2026-esports-awards-partner",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-09-23T00:00:00Z",
+    "source_name": "EEGaming",
+    "source_url": "https://eegaming.org/latest-news/2026/09/23/52790/thunderpick-signs-on-as-presenting-partner-for-2026-esports-awards",
+    "i18n": {
+      "en": {
+        "title": "Thunderpick Named Presenting Partner of the 2026 Esports Awards",
+        "summary": "Betting operator Thunderpick has signed on as presenting partner and official iGaming partner of the 2026 Esports Awards, a 12-month deal running through 2027 tied to the November 17 ceremony in Miami. The partnership covers the main awards show plus the Esports Play of the Month series and the Origins Podcast, and Thunderpick will present three of the night's awards."
+      },
+      "ja": {
+        "title": "Thunderpick、2026年eスポーツ・アワードのプレゼンティングパートナーに",
+        "summary": "ベッティング事業者Thunderpickは、11月17日にマイアミで開催される「2026年eスポーツ・アワード」のプレゼンティングパートナー兼公式iゲーミングパートナーに就任した。契約期間は12カ月で2027年まで続き、メインの授賞式に加え「Esports Play of the Month」シリーズやポッドキャスト「Origins」も対象となるほか、Thunderpickは当日3部門の授賞を担当する。"
+      },
+      "es": {
+        "title": "Thunderpick, nombrada socio presentador de los Esports Awards 2026",
+        "summary": "El operador de apuestas Thunderpick se convirtió en socio presentador y socio oficial de iGaming de los Esports Awards 2026, un acuerdo de 12 meses que se extiende hasta 2027 y que está ligado a la ceremonia del 17 de noviembre en Miami. La alianza abarca la gala principal, la serie Esports Play of the Month y el podcast Origins, y Thunderpick entregará tres de los premios de la noche."
+      },
+      "zh": {
+        "title": "Thunderpick成为2026年电竞大奖呈现合作伙伴",
+        "summary": "博彩运营商Thunderpick已签约成为2026年电竞大奖（Esports Awards）的呈现合作伙伴及官方iGaming合作伙伴，合约为期12个月并持续至2027年，颁奖典礼将于11月17日在迈阿密举行。此次合作涵盖颁奖典礼主秀、“Esports Play of the Month”系列内容及播客节目《Origins》，Thunderpick当晚还将颁发三个奖项。"
+      },
+      "fr": {
+        "title": "Thunderpick devient partenaire présentateur des Esports Awards 2026",
+        "summary": "L'opérateur de paris Thunderpick est devenu partenaire présentateur et partenaire officiel iGaming des Esports Awards 2026, un accord de 12 mois courant jusqu'en 2027, lié à la cérémonie du 17 novembre à Miami. Le partenariat couvre la cérémonie principale, la série Esports Play of the Month et le podcast Origins, et Thunderpick remettra trois des récompenses de la soirée."
+      }
+    }
   }
 ]
