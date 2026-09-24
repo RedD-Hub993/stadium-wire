@@ -1,1 +1,162 @@
-[]
+[
+  {
+    "id": "nottingham-forest-marex-shirt-sponsor",
+    "sport": "soccer",
+    "region": "global",
+    "topics": ["sponsor", "team"],
+    "published_at": "2026-08-18T12:00:00Z",
+    "source_name": "Inside World Football",
+    "source_url": "https://www.insideworldfootball.com/2026/08/18/marex-invests-in-nottingham-forest-shirt-sponsorship/",
+    "i18n": {
+      "en": {"title": "Nottingham Forest Names Marex as New Front-of-Shirt Sponsor", "summary": "Nottingham Forest has signed financial services firm Marex to a multi-year principal partnership, replacing the club's previous front-of-shirt gambling sponsor. The deal covers the 2026-27 Premier League season and reflects a wider shift among English clubs away from betting sponsors."},
+      "ja": {"title": "ノッティンガム・フォレスト、新ユニフォームスポンサーにマレックスを発表", "summary": "ノッティンガム・フォレストは金融サービス企業マレックスと複数年のプリンシパルパートナー契約を締結し、これまでのギャンブル関連スポンサーから乗り換えた。契約は2026-27プレミアリーグシーズンを対象とし、イングランドのクラブにおける賭博系スポンサー離れの流れを反映している。"},
+      "es": {"title": "Nottingham Forest nombra a Marex nuevo patrocinador principal de camiseta", "summary": "Nottingham Forest firmó un acuerdo de varios años con la firma financiera Marex como socio principal, sustituyendo a su anterior patrocinador de apuestas. El contrato cubre la temporada 2026-27 de la Premier League y refleja una tendencia más amplia entre los clubes ingleses de alejarse del patrocinio de casas de apuestas."},
+      "zh": {"title": "诺丁汉森林队宣布马雷克斯为新球衣主赞助商", "summary": "诺丁汉森林队与金融服务公司马雷克斯签订了多年首席合作伙伴协议，取代此前的博彩类赞助商。该协议覆盖2026-27赛季英超联赛，也反映出英格兰俱乐部逐渐远离博彩赞助的整体趋势。"},
+      "fr": {"title": "Nottingham Forest dévoile Marex comme nouveau sponsor maillot principal", "summary": "Nottingham Forest a signé un partenariat principal pluriannuel avec la société financière Marex, remplaçant son précédent sponsor lié aux paris sportifs. L'accord couvre la saison 2026-27 de Premier League et illustre une tendance plus large des clubs anglais à s'éloigner des sponsors de paris."}
+    }
+  },
+  {
+    "id": "man-utd-sumup-sleeve-sponsor",
+    "sport": "soccer",
+    "region": "global",
+    "topics": ["sponsor"],
+    "published_at": "2026-09-08T10:00:00Z",
+    "source_name": "Inside World Football",
+    "source_url": "https://www.insideworldfootball.com/2026/09/09/sumup-secures-man-utd-sleeve-slot-as-it-builds-it-premier-league-presence",
+    "i18n": {
+      "en": {"title": "Manchester United Signs Multi-Year Sleeve Deal With Payments Firm SumUp", "summary": "Manchester United has agreed a multi-year sleeve sponsorship with payments company SumUp, reportedly worth more than £20 million a year. The logo debuted on the club's Champions League kit as SumUp expands its visibility across the Premier League."},
+      "ja": {"title": "マンチェスター・ユナイテッド、決済企業サムアップと複数年のスリーブスポンサー契約", "summary": "マンチェスター・ユナイテッドは決済企業サムアップと複数年のスリーブ（袖）スポンサー契約を結び、年間2000万ポンド超とも報じられている。同ロゴはチャンピオンズリーグのユニフォームで初披露され、サムアップはプレミアリーグでの露出拡大を図っている。"},
+      "es": {"title": "Manchester United firma acuerdo plurianual de manga con la firma de pagos SumUp", "summary": "Manchester United acordó un patrocinio de manga de varios años con la empresa de pagos SumUp, valorado según reportes en más de 20 millones de libras anuales. El logotipo debutó en la camiseta de Champions League mientras SumUp amplía su presencia en la Premier League."},
+      "zh": {"title": "曼联与支付公司SumUp签署多年球衣袖标合作协议", "summary": "曼联与支付公司SumUp达成多年袖标赞助协议，据报道年价值超过2000万英镑。该标志已在球队欧冠比赛球衣上首次亮相，SumUp借此扩大其在英超联赛的曝光度。"},
+      "fr": {"title": "Manchester United signe un accord pluriannuel de sponsor de manche avec SumUp", "summary": "Manchester United a conclu un partenariat pluriannuel de sponsor de manche avec l'entreprise de paiement SumUp, évalué à plus de 20 millions de livres par an selon la presse. Le logo est apparu pour la première fois sur le maillot du club en Ligue des champions, alors que SumUp accroît sa visibilité en Premier League."}
+    }
+  },
+  {
+    "id": "nfl-team-values-2026-sportico",
+    "sport": "football",
+    "region": "global",
+    "topics": ["team", "biz"],
+    "published_at": "2026-09-01T09:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/valuations/teams/2026/nfl-team-values-2026-dallas-cowboys-los-angeles-rams-1234941607/",
+    "i18n": {
+      "en": {"title": "Sportico: NFL Team Values Keep Climbing, Cowboys Top List at $15.5 Billion", "summary": "Sportico's 2026 valuations put the Dallas Cowboys atop the NFL at roughly $15.5 billion, with the league's average franchise value near $9.34 billion, up about 31% from a year earlier. Every one of the NFL's 32 teams now ranks among the world's 40 most valuable sports franchises."},
+      "ja": {"title": "スポルティコ調査、NFL球団価値は上昇続く　カウボーイズが1位で約155億ドル", "summary": "スポルティコの2026年版評価によると、ダラス・カウボーイズが約155億ドルでNFL球団トップとなり、リーグ平均球団価値は前年比約31%増の93.4億ドル前後に達した。NFL32球団すべてが世界のスポーツ球団価値トップ40にランクインしている。"},
+      "es": {"title": "Sportico: el valor de los equipos de la NFL sigue subiendo, Cowboys lideran con 15.500 millones de dólares", "summary": "Según las valoraciones 2026 de Sportico, los Dallas Cowboys encabezan la NFL con unos 15.500 millones de dólares, mientras el valor promedio de una franquicia ronda los 9.340 millones, un alza de casi 31% respecto al año anterior. Los 32 equipos de la NFL figuran entre las 40 franquicias deportivas más valiosas del mundo."},
+      "zh": {"title": "Sportico：NFL球队估值持续攀升，牛仔队以155亿美元居首", "summary": "根据Sportico的2026年评估，达拉斯牛仔队以约155亿美元估值高居NFL榜首，联盟球队平均估值约为93.4亿美元，较上年增长约31%。NFL全部32支球队均跻身全球最具价值体育球队前40名之列。"},
+      "fr": {"title": "Sportico : la valeur des franchises NFL continue de grimper, les Cowboys en tête à 15,5 milliards de dollars", "summary": "Selon les évaluations 2026 de Sportico, les Cowboys de Dallas dominent la NFL avec une valeur d'environ 15,5 milliards de dollars, tandis que la valeur moyenne d'une franchise avoisine 9,34 milliards, en hausse d'environ 31% sur un an. Les 32 équipes de la NFL figurent désormais parmi les 40 franchises sportives les plus valorisées au monde."}
+    }
+  },
+  {
+    "id": "capital-one-arena-xonar-security-screening",
+    "sport": "general",
+    "region": "global",
+    "topics": ["stadium", "tech"],
+    "published_at": "2026-08-31T14:00:00Z",
+    "source_name": "Stadium Tech Report",
+    "source_url": "https://stadiumtechreport.com/news/capital-one-arena-picks-xonar-for-walk-through-security-scanning/",
+    "i18n": {
+      "en": {"title": "Capital One Arena Taps Xonar for Walk-Through Security Screening", "summary": "Monumental Sports & Entertainment has signed a multi-year deal with startup Xonar Technology to install its TruePort walk-through scanners at Capital One Arena's main entrances. The rollout begins with the 2026-27 NHL and NBA seasons, making the Washington venue the first arena in either league to deploy the system."},
+      "ja": {"title": "キャピタル・ワン・アリーナ、ウォークスルー型セキュリティスキャンにXonarを採用", "summary": "モニュメンタル・スポーツ&エンターテインメントは新興企業Xonarテクノロジーと複数年契約を結び、キャピタル・ワン・アリーナの主要入場口にウォークスルー型スキャナー「TruePort」を導入する。導入は2026-27年のNHL・NBAシーズンから始まり、両リーグで同システムを採用する初のアリーナとなる。"},
+      "es": {"title": "Capital One Arena elige a Xonar para el control de seguridad de paso continuo", "summary": "Monumental Sports & Entertainment firmó un acuerdo plurianual con la startup Xonar Technology para instalar sus escáneres de paso continuo TruePort en los accesos principales del Capital One Arena. El despliegue comienza con las temporadas 2026-27 de la NHL y la NBA, convirtiendo al recinto de Washington en el primero de ambas ligas en usar el sistema."},
+      "zh": {"title": "首都一号竞技场选定Xonar提供步行式安检扫描系统", "summary": "纪念碑体育娱乐公司与初创企业Xonar科技签署多年协议，将在首都一号竞技场主要入口安装其TruePort步行式安检扫描仪。该系统将从2026-27赛季NHL和NBA开始部署，使该华盛顿场馆成为两个联盟中首个采用该系统的场馆。"},
+      "fr": {"title": "Le Capital One Arena choisit Xonar pour le contrôle de sécurité sans arrêt", "summary": "Monumental Sports & Entertainment a signé un accord pluriannuel avec la start-up Xonar Technology pour installer ses scanners à passage continu TruePort aux entrées principales du Capital One Arena. Le déploiement débute avec les saisons 2026-27 de NHL et NBA, faisant de la salle de Washington la première arène des deux ligues à adopter ce système."}
+    }
+  },
+  {
+    "id": "tottenham-hotspur-hpe-stadium-ai",
+    "sport": "soccer",
+    "region": "global",
+    "topics": ["stadium", "tech"],
+    "published_at": "2026-09-09T08:00:00Z",
+    "source_name": "HPE Newsroom",
+    "source_url": "https://www.hpe.com/us/en/newsroom/press-release/2026/09/tottenham-hotspur-and-hpe-transform-digital-fan-experience-and-stadium-operations.html",
+    "i18n": {
+      "en": {"title": "Tottenham Hotspur Expands HPE Partnership to Overhaul Stadium IT", "summary": "Tottenham Hotspur Stadium is consolidating its distributed compute and storage environments from eight to two and unifying its network under an expanded partnership with HPE. The upgrade uses AI-driven automation to manage systems spanning cashless payments, security, ticketing and crowd analytics, and will make Spurs one of the first venues to run outdoor Wi-Fi 7."},
+      "ja": {"title": "トッテナム・ホットスパー、HPEとの提携拡大でスタジアムITを刷新", "summary": "トッテナム・ホットスパー・スタジアムはHPEとの提携拡大により、分散していたコンピュート・ストレージ環境を8か所から2か所に集約し、ネットワークを統合する。AIによる自動化を活用し、キャッシュレス決済、警備、チケッティング、混雑分析などのシステムを管理し、屋外Wi-Fi 7を導入する世界初のスタジアムの一つとなる見込み。"},
+      "es": {"title": "Tottenham Hotspur amplía su alianza con HPE para renovar la infraestructura TI del estadio", "summary": "El estadio del Tottenham Hotspur consolidará sus entornos de cómputo y almacenamiento distribuidos de ocho a dos y unificará su red mediante una alianza ampliada con HPE. La actualización usa automatización basada en IA para gestionar sistemas de pagos sin efectivo, seguridad, entradas y análisis de aforo, y convertirá al club en uno de los primeros recintos con Wi-Fi 7 al aire libre."},
+      "zh": {"title": "热刺扩大与HPE合作，全面升级球场IT系统", "summary": "热刺球场通过扩大与HPE的合作，将分散的计算与存储环境从八处整合为两处，并统一网络架构。此次升级采用人工智能驱动的自动化技术，管理无现金支付、安保、票务及人流分析等系统，球场也将成为首批部署室外Wi-Fi 7的场馆之一。"},
+      "fr": {"title": "Tottenham Hotspur élargit son partenariat avec HPE pour moderniser l'infrastructure IT du stade", "summary": "Le stade de Tottenham Hotspur va regrouper ses environnements de calcul et de stockage distribués, passant de huit à deux, et unifier son réseau grâce à un partenariat élargi avec HPE. Cette modernisation s'appuie sur une automatisation pilotée par l'IA pour gérer les paiements sans espèces, la sécurité, la billetterie et l'analyse des foules, faisant du stade l'un des premiers à déployer le Wi-Fi 7 en extérieur."}
+    }
+  },
+  {
+    "id": "cosm-detroit-immersive-venue-opening",
+    "sport": "general",
+    "region": "global",
+    "topics": ["stadium", "fan"],
+    "published_at": "2026-09-10T18:00:00Z",
+    "source_name": "FOX 2 Detroit",
+    "source_url": "https://www.fox2detroit.com/news/cosm-detroit-opens-sept-10-downtown-bringing-immersive-sports-viewing-experience",
+    "i18n": {
+      "en": {"title": "Cosm Opens 70,000-Square-Foot Immersive Sports Venue in Downtown Detroit", "summary": "Cosm has opened a three-level, 1,500-capacity venue in downtown Detroit built around an 87-foot-diameter, 12K-resolution LED dome offering a 180-degree view of live sports and entertainment. The venue's opening week centered on a communal watch party for an NFL season-opening game."},
+      "ja": {"title": "Cosm、デトロイト中心部に7万平方フィートの没入型スポーツ観戦施設を開設", "summary": "Cosmはデトロイト中心部に3階建て・収容1500人規模の施設を開設した。直径87フィート、解像度12KのLEDドームにより、ライブスポーツやエンターテインメントを180度の視野で楽しめる。オープン週にはNFLシーズン開幕戦を集団観戦するイベントが行われた。"},
+      "es": {"title": "Cosm abre un recinto inmersivo de 6.500 m² para deportes en el centro de Detroit", "summary": "Cosm inauguró en el centro de Detroit un recinto de tres niveles con capacidad para 1.500 personas, construido alrededor de una cúpula LED de 26 metros de diámetro y resolución 12K que ofrece una vista de 180 grados de deportes y entretenimiento en vivo. La semana de apertura incluyó una proyección comunitaria del partido inaugural de la temporada de la NFL."},
+      "zh": {"title": "Cosm在底特律市中心开设7万平方英尺沉浸式体育观赛场馆", "summary": "Cosm在底特律市中心开设了一座三层、可容纳1500人的场馆，核心是一个直径87英尺、分辨率达12K的LED穹顶，可提供180度视角观看现场体育赛事和娱乐节目。开幕周活动以集体观看NFL赛季揭幕战为主题。"},
+      "fr": {"title": "Cosm ouvre un lieu immersif de 6 500 m² pour le sport au centre-ville de Détroit", "summary": "Cosm a inauguré au centre-ville de Détroit un site de trois niveaux d'une capacité de 1 500 personnes, construit autour d'un dôme LED de 26 mètres de diamètre en résolution 12K offrant une vue à 180 degrés sur le sport et le divertissement en direct. La semaine d'ouverture a été marquée par une projection collective du match d'ouverture de la saison NFL."}
+    }
+  },
+  {
+    "id": "jleague-2026-27-partner-restructure",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": ["sponsor", "biz"],
+    "published_at": "2026-09-15T09:00:00Z",
+    "source_name": "J.League",
+    "source_url": "https://www.jleague.jp/news/article/34329/",
+    "i18n": {
+      "en": {"title": "J.League Overhauls Sponsorship Tiers for 2026-27, Adds SmartNews as Supporting Partner", "summary": "J.League is restructuring its sponsorship program for the 2026-27 season, splitting its former top partner tier into new 'Platinum' and 'Gold' categories and grouping specialty deals under a broader 'Supporting Partner' framework covering business, media, football and sustainability. News app SmartNews joined as a supporting company starting in June, aiming to bring league content to a wider audience."},
+      "ja": {"title": "Jリーグ、2026/27シーズンに向けパートナー制度を刷新、スマートニュースがサポーティングカンパニーに", "summary": "Jリーグは2026/27シーズンに向け、従来のトップパートナーを「プラチナ」「ゴールド」の新カテゴリーに分割するなど、パートナー制度を刷新する。技術やサステナビリティなど分野別の契約は「サポーティングパートナー」として再編される。スマートニュースは6月からサポーティングカンパニーとして参画し、リーグコンテンツをより幅広い層に届ける取り組みを進めている。"},
+      "es": {"title": "La J.League reestructura sus categorías de patrocinio para 2026-27 e incorpora a SmartNews como socio de apoyo", "summary": "La J.League está reorganizando su programa de patrocinios para la temporada 2026-27, dividiendo su antigua categoría de socio principal en nuevas categorías 'Platino' y 'Oro' y agrupando acuerdos especializados bajo un marco más amplio de 'Socios de Apoyo' que cubre negocio, medios, fútbol y sostenibilidad. La aplicación de noticias SmartNews se unió como empresa de apoyo desde junio, con el objetivo de llevar el contenido de la liga a una audiencia más amplia."},
+      "zh": {"title": "J联赛为2026-27赛季重构赞助体系，SmartNews加入成为支持合作伙伴", "summary": "J联赛正在为2026-27赛季重新调整赞助体系，将原有的顶级合作伙伴类别拆分为新的白金和黄金级别，并将专项合作纳入涵盖商业、媒体、足球及可持续发展领域的支持合作伙伴框架。新闻应用SmartNews自6月起作为支持企业加入，旨在让联赛内容触达更广泛的受众。"},
+      "fr": {"title": "La J.League restructure ses catégories de sponsoring pour 2026-27 et accueille SmartNews comme partenaire de soutien", "summary": "La J.League réorganise son programme de sponsoring pour la saison 2026-27, en scindant son ancienne catégorie de partenaire principal en nouvelles catégories « Platine » et « Or », et en regroupant les accords spécialisés sous un cadre plus large de « partenaires de soutien » couvrant les affaires, les médias, le football et la durabilité. L'application d'actualités SmartNews a rejoint la ligue en tant qu'entreprise partenaire depuis juin, dans le but de diffuser le contenu de la ligue à un public plus large."}
+    }
+  },
+  {
+    "id": "bleague-premier-rebrand-playoff-expansion",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": ["biz", "team"],
+    "published_at": "2026-09-22T10:00:00Z",
+    "source_name": "Chukei News",
+    "source_url": "https://www.chukei-news.co.jp/news/2026/09/21/OK0002609210b01_01/",
+    "i18n": {
+      "en": {"title": "B.LEAGUE Rebrands Top Flight as 'B.PREMIER', Kicks Off Management-Driven Restructuring", "summary": "Japan's B.LEAGUE renamed its top division from B1 to 'B.PREMIER' for the 2026-27 season as part of a broader push to strengthen club operations and competitive balance. The season opened on September 22 with Alvark Tokyo hosting Ryukyu Golden Kings at TOYOTA ARENA TOKYO, and the postseason field is set to expand to eight teams with a 100 million yen championship prize."},
+      "ja": {"title": "Bリーグ、トップカテゴリーを「B.PREMIER」に改称し経営主導の改革始動", "summary": "日本のBリーグは2026-27シーズンから最上位カテゴリーの名称をB1から「B.PREMIER」に変更し、クラブ経営力の強化と戦力均衡を目指す改革に着手した。開幕戦は9月22日にTOYOTA ARENA TOKYOでアルバルク東京と琉球ゴールデンキングスの対戦で行われ、プレーオフは8チーム制へ拡大、優勝賞金は1億円となる。"},
+      "es": {"title": "La B.LEAGUE renombra su máxima categoría como 'B.PREMIER' e inicia una reestructuración liderada por la gestión", "summary": "La B.LEAGUE japonesa cambió el nombre de su máxima división de B1 a 'B.PREMIER' para la temporada 2026-27, como parte de un esfuerzo por fortalecer la gestión de los clubes y el equilibrio competitivo. La temporada arrancó el 22 de septiembre con Alvark Tokyo recibiendo a Ryukyu Golden Kings en el TOYOTA ARENA TOKYO, y los playoffs se ampliarán a ocho equipos con un premio de 100 millones de yenes para el campeón."},
+      "zh": {"title": "B联赛将顶级联赛更名为B.PREMIER，启动以经营为导向的改革", "summary": "日本B联赛从2026-27赛季起将最高级别联赛由B1更名为B.PREMIER，作为加强俱乐部经营能力与竞争平衡的改革举措之一。新赛季于9月22日在TOYOTA ARENA TOKYO开幕，由不来梅东京对阵琉球黄金国王，季后赛名额也将扩大至八支球队，冠军奖金达一亿日元。"},
+      "fr": {"title": "La B.LEAGUE rebaptise sa division supérieure « B.PREMIER » et lance une restructuration axée sur la gestion", "summary": "La B.LEAGUE japonaise a renommé sa division supérieure, passant de B1 à « B.PREMIER » pour la saison 2026-27, dans le cadre d'un effort visant à renforcer la gestion des clubs et l'équilibre compétitif. La saison a débuté le 22 septembre avec l'Alvark Tokyo recevant les Ryukyu Golden Kings au TOYOTA ARENA TOKYO, et les séries éliminatoires seront élargies à huit équipes avec une prime de championnat d'environ 100 millions de yens."}
+    }
+  },
+  {
+    "id": "bleague-manila-games-overseas-debut",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": ["biz", "fan"],
+    "published_at": "2026-09-10T12:00:00Z",
+    "source_name": "Nikkei",
+    "source_url": "https://www.nikkei.com/article/DGXZQOGM0356U0T00C26A9000000/",
+    "i18n": {
+      "en": {"title": "B.LEAGUE Stages First-Ever Overseas Games in Manila as Japan Bets on Basketball Exports", "summary": "Japan's B.LEAGUE held its first overseas-hosted games on September 9-10, with Levanga Hokkaido facing Gunma Crane Thunders at Manila's SM Mall of Asia Arena. The league chose the Philippines partly due to the rising profile of Filipino players in Japan, framing the trip as part of a wider effort to grow basketball as a Japanese content export."},
+      "ja": {"title": "Bリーグ、マニラで初の海外主催試合を開催　バスケを日本発コンテンツの新たな柱に", "summary": "日本のBリーグは9月9日・10日、フィリピン・マニラのSMモール・オブ・アジア・アリーナでレバンガ北海道と群馬クレインサンダーズによる初の海外主催試合を開催した。フィリピン開催の背景にはBリーグで活躍するフィリピン人選手の存在があり、バスケットボールを日本発コンテンツの新たな柱として海外展開する狙いがある。"},
+      "es": {"title": "La B.LEAGUE disputa sus primeros partidos en el extranjero en Manila apostando por la exportación del baloncesto japonés", "summary": "La B.LEAGUE japonesa celebró sus primeros partidos organizados en el extranjero los días 9 y 10 de septiembre, con Levanga Hokkaido enfrentando a Gunma Crane Thunders en el SM Mall of Asia Arena de Manila. La liga eligió Filipinas en parte por el creciente protagonismo de jugadores filipinos en Japón, dentro de un esfuerzo más amplio por proyectar el baloncesto como una exportación cultural japonesa."},
+      "zh": {"title": "B联赛在马尼拉举办首场海外主办赛事，押注篮球输出", "summary": "日本B联赛于9月9日至10日在菲律宾马尼拉的SM亚洲购物中心竞技场举办了首场海外主办比赛，由北海道莱旺加对阵群马起重机雷霆队。联赛选择菲律宾，部分原因是菲律宾球员在B联赛中日益活跃的表现，此举也是将篮球打造为日本内容出口新支柱的更广泛尝试之一。"},
+      "fr": {"title": "La B.LEAGUE organise ses premiers matches à l'étranger à Manille pour exporter le basket-ball japonais", "summary": "La B.LEAGUE japonaise a organisé ses premiers matches à l'étranger les 9 et 10 septembre, opposant le Levanga Hokkaido aux Gunma Crane Thunders à la SM Mall of Asia Arena de Manille. La ligue a choisi les Philippines en partie en raison de la place croissante des joueurs philippins au Japon, dans le cadre d'un effort plus large visant à faire du basket-ball un nouveau pilier des exportations culturelles japonaises."}
+    }
+  },
+  {
+    "id": "esports-sponsorship-revenue-report-2026",
+    "sport": "esports",
+    "region": "global",
+    "topics": ["sponsor", "biz"],
+    "published_at": "2026-08-07T13:00:00Z",
+    "source_name": "GlobeNewswire",
+    "source_url": "https://www.globenewswire.com/news-release/2026/08/07/3341205/0/en/business-of-esports-2026-report-examines-global-viewership-sponsorship-and-commercial-trends.html",
+    "i18n": {
+      "en": {"title": "Report: Esports Sponsorship Revenue Set to Hit $1.2 Billion in 2026", "summary": "A new Business of Esports 2026 report projects sponsorship and advertising revenue in competitive gaming will reach $1.2 billion this year, making it the largest non-betting revenue stream in the industry. The report credits growth to non-endemic brands in financial services, insurance and consumer goods entering esports to reach younger audiences."},
+      "ja": {"title": "報告書：eスポーツのスポンサー収益、2026年に12億ドル到達へ", "summary": "「Business of Esports 2026」レポートによると、競技ゲーム業界のスポンサー・広告収益は2026年に12億ドルに達する見通しで、賭博を除く業界最大の収益源になるという。金融、保険、消費財などノンエンデミック企業の参入が成長を後押ししていると報告書は指摘している。"},
+      "es": {"title": "Informe: los ingresos por patrocinio en esports alcanzarán 1.200 millones de dólares en 2026", "summary": "Un nuevo informe Business of Esports 2026 proyecta que los ingresos por patrocinio y publicidad en los videojuegos competitivos alcanzarán los 1.200 millones de dólares este año, convirtiéndose en la mayor fuente de ingresos del sector fuera de las apuestas. El informe atribuye el crecimiento a marcas no endémicas de servicios financieros, seguros y bienes de consumo que buscan llegar a audiencias más jóvenes."},
+      "zh": {"title": "报告：2026年电竞赞助收入预计达12亿美元", "summary": "最新发布的《2026电竞商业报告》预测，电子竞技行业的赞助与广告收入今年将达到12亿美元，成为除博彩外该行业最大的收入来源。报告认为，金融服务、保险和消费品等非内生品牌的涌入是推动增长的主要因素，这些品牌希望借此触达更年轻的受众。"},
+      "fr": {"title": "Rapport : les revenus de sponsoring dans l'esport devraient atteindre 1,2 milliard de dollars en 2026", "summary": "Un nouveau rapport Business of Esports 2026 prévoit que les revenus de sponsoring et de publicité dans le jeu vidéo compétitif atteindront 1,2 milliard de dollars cette année, en faisant la plus grande source de revenus du secteur hors paris sportifs. Le rapport attribue cette croissance à l'arrivée de marques non endémiques issues des services financiers, de l'assurance et des biens de consommation, désireuses de toucher un public plus jeune."}
+    }
+  }
+]
