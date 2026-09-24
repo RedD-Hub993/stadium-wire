@@ -4551,5 +4551,277 @@
         "summary": "La J.League a enregistré des revenus ordinaires record d'environ 34,63 milliards de yens pour l'exercice 2025, en hausse d'environ 2,7 milliards de yens par rapport à l'année précédente. Les revenus de sponsoring ont été le principal moteur, progressant d'environ 1,31 milliard de yens pour atteindre 7,09 milliards, et la ligue a indiqué que ces gains se traduiraient par une hausse des reversements aux clubs membres."
       }
     }
+  },
+  {
+    "id": "spurs-dazn-direct-to-consumer-deal",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-09-02T00:00:00Z",
+    "source_name": "San Antonio Spurs",
+    "source_url": "https://spurs.com/news/san-antonio-spurs-dazn-announce-exclusive-direct-to-consumer-media-partnership",
+    "i18n": {
+      "en": {
+        "title": "Spurs Name DAZN Exclusive Direct-to-Consumer Streaming Partner",
+        "summary": "The San Antonio Spurs have signed DAZN as their exclusive direct-to-consumer streaming home starting with the 2026-27 season, covering regular-season and preseason games plus original programming. The move follows the shutdown of FanDuel Sports Network and adds another NBA team to DAZN's growing local-streaming portfolio."
+      },
+      "ja": {
+        "title": "スパーズ、DAZNを独占ダイレクト配信パートナーに指定",
+        "summary": "サンアントニオ・スパーズは2026-27シーズンから、DAZNを独占的なダイレクト配信先とする契約を締結した。レギュラーシーズンとプレシーズンの試合、オリジナル番組が対象となる。FanDuelスポーツネットワークの閉鎖を受けた動きで、DAZNのNBA向けローカル配信網はさらに拡大する。"
+      },
+      "es": {
+        "title": "Los Spurs eligen a DAZN como socio exclusivo de streaming directo al consumidor",
+        "summary": "Los Spurs de San Antonio firmaron con DAZN como su plataforma exclusiva de streaming directo al consumidor a partir de la temporada 2026-27, incluyendo partidos de pretemporada, temporada regular y programación original. El acuerdo llega tras el cierre de FanDuel Sports Network y amplía la cartera local de DAZN en la NBA."
+      },
+      "zh": {
+        "title": "马刺队宣布DAZN为独家直面消费者流媒体合作伙伴",
+        "summary": "圣安东尼奥马刺队宣布，自2026-27赛季起，DAZN将成为球队独家的直面消费者流媒体平台，涵盖季前赛、常规赛及原创节目。该协议是在FanDuel体育网关闭后达成的，进一步扩大了DAZN在NBA本地流媒体领域的版图。"
+      },
+      "fr": {
+        "title": "Les Spurs choisissent DAZN comme partenaire exclusif de streaming direct",
+        "summary": "Les Spurs de San Antonio ont signé avec DAZN pour devenir leur diffuseur exclusif en streaming direct dès la saison 2026-27, couvrant les matchs de pré-saison, de saison régulière et des programmes originaux. Cet accord intervient après la fermeture de FanDuel Sports Network et élargit le portefeuille local de DAZN en NBA."
+      }
+    }
+  },
+  {
+    "id": "inter-miami-nu-stadium-naming-rights",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-03-04T00:00:00Z",
+    "source_name": "SportsPro",
+    "source_url": "https://www.sportspro.com/news/sponsorship-marketing/inter-miami-nu-stadium-naming-rights-deal-march-2026/",
+    "i18n": {
+      "en": {
+        "title": "Inter Miami's New Home to Be Named Nu Stadium in Deal with Brazilian Fintech",
+        "summary": "Inter Miami CF has struck a multiyear naming rights partnership with Brazilian digital financial services company Nu, renaming its new Miami Freedom Park venue 'Nu Stadium' ahead of its April 2026 opening. Terms were not disclosed, but the agreement is described as one of the largest soccer-specific stadium naming deals in MLS history."
+      },
+      "ja": {
+        "title": "インテル・マイアミの新スタジアム、ブラジル系フィンテックとの契約で「Nuスタジアム」に",
+        "summary": "インテル・マイアミCFは、ブラジルのデジタル金融サービス企業Nuと複数年の命名権契約を締結し、2026年4月開場予定の新拠点マイアミ・フリーダム・パークを「Nuスタジアム」と改称する。契約金額は非公表だが、MLS史上最大級のサッカー専用スタジアム命名権契約の一つとされる。"
+      },
+      "es": {
+        "title": "El nuevo estadio del Inter Miami se llamará Nu Stadium tras acuerdo con la fintech brasileña",
+        "summary": "Inter Miami CF firmó una asociación de varios años para los derechos de nombre con la empresa brasileña de servicios financieros digitales Nu, rebautizando su nuevo recinto en Miami Freedom Park como 'Nu Stadium' antes de su apertura en abril de 2026. No se revelaron cifras, pero se describe como uno de los mayores acuerdos de naming para un estadio de fútbol en la historia de la MLS."
+      },
+      "zh": {
+        "title": "迈阿密国际新球场因巴西金融科技公司冠名协议更名为Nu Stadium",
+        "summary": "迈阿密国际俱乐部与巴西数字金融服务公司Nu签署多年冠名权协议，将于2026年4月启用的迈阿密自由公园新球场更名为“Nu Stadium”。协议金额未披露，但被称为美职联历史上最大规模的足球专用球场冠名协议之一。"
+      },
+      "fr": {
+        "title": "Le nouveau stade de l'Inter Miami s'appellera Nu Stadium suite à un accord avec la fintech brésilienne",
+        "summary": "L'Inter Miami CF a signé un partenariat pluriannuel de naming avec l'entreprise brésilienne de services financiers numériques Nu, rebaptisant son nouveau site de Miami Freedom Park 'Nu Stadium' avant son ouverture en avril 2026. Les montants n'ont pas été révélés, mais l'accord est présenté comme l'un des plus importants contrats de naming pour un stade de football dans l'histoire de la MLS."
+      }
+    }
+  },
+  {
+    "id": "arizona-casino-del-sol-stadium-naming",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2025-11-17T00:00:00Z",
+    "source_name": "Arizona Wildcats Athletics",
+    "source_url": "https://arizonawildcats.com/news/2025/11/17/football-arizona-athletics-and-casino-del-sol-announce-transformative-60-million-plus-stadium-naming-rights-partnership.aspx",
+    "i18n": {
+      "en": {
+        "title": "Arizona Stadium to Become Casino Del Sol Stadium in $60M-Plus Naming Deal",
+        "summary": "The University of Arizona has agreed to a 20-year naming rights partnership worth more than $60 million with Casino Del Sol, an enterprise of the Pascua Yaqui Tribe. The deal, the largest of its kind in Big 12 history, renames the venue Casino Del Sol Stadium starting with the 2026-27 season and includes new branding, field logos and broadcast integration."
+      },
+      "ja": {
+        "title": "アリゾナ大スタジアム、6000万ドル超の命名権契約で「カジノ・デル・ソル・スタジアム」に",
+        "summary": "アリゾナ大学は、パスクア・ヤキ族が運営するカジノ・デル・ソルと20年間・6000万ドル超の命名権契約を締結した。ビッグ12史上最大規模となるこの契約により、2026-27シーズンからスタジアムは「カジノ・デル・ソル・スタジアム」に改称され、新たなブランディングやフィールドロゴ、放送での露出も含まれる。"
+      },
+      "es": {
+        "title": "El Arizona Stadium pasará a llamarse Casino Del Sol Stadium en acuerdo de más de 60 millones de dólares",
+        "summary": "La Universidad de Arizona acordó una asociación de derechos de nombre de 20 años por más de 60 millones de dólares con Casino Del Sol, una empresa de la tribu Pascua Yaqui. El acuerdo, el mayor de su tipo en la historia de la Big 12, renombrará el estadio como Casino Del Sol Stadium desde la temporada 2026-27 e incluye nueva imagen, logotipos en el campo e integración en transmisiones."
+      },
+      "zh": {
+        "title": "亚利桑那体育场因逾6000万美元冠名协议更名为Casino Del Sol体育场",
+        "summary": "亚利桑那大学与帕斯夸亚基部落旗下企业Casino Del Sol达成为期20年、价值超6000万美元的冠名权合作，创下Big 12联盟同类协议之最。自2026-27赛季起，该体育场将更名为Casino Del Sol体育场，并包含全新品牌形象、场地标识及转播露出。"
+      },
+      "fr": {
+        "title": "L'Arizona Stadium deviendra le Casino Del Sol Stadium dans un accord de plus de 60 millions de dollars",
+        "summary": "L'Université d'Arizona a conclu un partenariat de naming de 20 ans, d'une valeur de plus de 60 millions de dollars, avec Casino Del Sol, une entreprise de la tribu Pascua Yaqui. Cet accord, le plus important du genre dans l'histoire de la Big 12, renommera le stade Casino Del Sol Stadium dès la saison 2026-27 et comprend une nouvelle identité visuelle, des logos sur le terrain et une intégration télévisée."
+      }
+    }
+  },
+  {
+    "id": "kansas-state-purple-wave-jersey-patch",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-08-19T00:00:00Z",
+    "source_name": "K-State Athletics",
+    "source_url": "https://www.kstatesports.com/news/2026/8/19/athletics-k-state-and-purple-wave-forge-jersey-patch-partnership",
+    "i18n": {
+      "en": {
+        "title": "Kansas State Adds Jersey Patch Deal with Local Auction Company Purple Wave",
+        "summary": "Kansas State has signed a jersey patch sponsorship with Purple Wave, an online marketplace for used farm and heavy equipment, putting the local company's logo on home and away football uniforms this season. It is the school's first jersey patch deal and the fifth in the Big 12, joining programs already partnered with brands like Entrata and Antero."
+      },
+      "ja": {
+        "title": "カンザス州立大、地元オークション企業パープル・ウェーブとユニフォームパッチ契約",
+        "summary": "カンザス州立大学は、中古農業機械・重機のオンライン売買を手掛けるパープル・ウェーブとユニフォームパッチ契約を締結した。今シーズンのホーム・アウェー両方のフットボールユニフォームに同社のロゴが入る。同校初のパッチ契約であり、ビッグ12では5校目の締結となる。"
+      },
+      "es": {
+        "title": "Kansas State suma un acuerdo de parche en la camiseta con la subastadora local Purple Wave",
+        "summary": "Kansas State firmó un patrocinio de parche en la camiseta con Purple Wave, un mercado en línea de maquinaria agrícola y pesada usada, colocando el logo de la empresa local en los uniformes de fútbol americano local y visitante esta temporada. Es el primer acuerdo de este tipo para la universidad y el quinto en la Big 12."
+      },
+      "zh": {
+        "title": "堪萨斯州立大学与本地拍卖公司Purple Wave达成球衣广告合作",
+        "summary": "堪萨斯州立大学与二手农机及重型设备在线拍卖平台Purple Wave签署球衣广告合作协议，本赛季主客场橄榄球球衣上都将出现该公司标志。这是该校首份球衣广告协议，也是Big 12联盟第五支达成此类合作的球队。"
+      },
+      "fr": {
+        "title": "Kansas State conclut un accord de patch maillot avec l'entreprise locale d'enchères Purple Wave",
+        "summary": "Kansas State a signé un partenariat de patch sur maillot avec Purple Wave, une place de marché en ligne de matériel agricole et d'engins lourds d'occasion, apposant le logo de l'entreprise locale sur les maillots de football américain à domicile et à l'extérieur cette saison. Il s'agit du premier accord de ce type pour l'université et du cinquième dans la Big 12."
+      }
+    }
+  },
+  {
+    "id": "arkansas-tyson-foods-all-sports-patch",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-03-04T00:00:00Z",
+    "source_name": "Arkansas Razorbacks",
+    "source_url": "https://arkansasrazorbacks.com/tyson-foods-strengthens-razorback-partnership-with-landmark-athletics-sponsorship-of-all-varsity-sports/",
+    "i18n": {
+      "en": {
+        "title": "Tyson Foods Signs Five-Year Deal to Sponsor All 19 Arkansas Varsity Sports",
+        "summary": "Arkansas has agreed to a five-year sponsorship with Springdale-based Tyson Foods that will place the company's logo on jersey patches and playing surfaces across all 19 of the school's varsity sports beginning in 2026-27. Described as one of the largest pure corporate sponsorships in college athletics, roughly 90% of the deal's cash is earmarked for athlete NIL payments."
+      },
+      "ja": {
+        "title": "タイソン・フーズ、アーカンソー大の全19競技をスポンサードする5年契約を締結",
+        "summary": "アーカンソー大学は、スプリングデールに本社を置くタイソン・フーズと5年間のスポンサー契約を締結した。2026-27シーズンから、大学の全19競技のユニフォームパッチや競技面に同社のロゴが表示される。大学スポーツ史上最大級の純粋な企業スポンサー契約とされ、契約金の約9割が選手のNIL報酬に充てられる。"
+      },
+      "es": {
+        "title": "Tyson Foods firma un acuerdo de cinco años para patrocinar los 19 deportes universitarios de Arkansas",
+        "summary": "Arkansas acordó un patrocinio de cinco años con Tyson Foods, con sede en Springdale, que colocará el logo de la empresa en parches de camiseta y superficies de juego en los 19 deportes universitarios de la escuela a partir de 2026-27. Descrito como uno de los mayores patrocinios corporativos puros en el deporte universitario, cerca del 90% del dinero del acuerdo se destinará a pagos NIL para los atletas."
+      },
+      "zh": {
+        "title": "泰森食品签约五年赞助阿肯色大学全部19个校队项目",
+        "summary": "阿肯色大学与总部位于斯普林代尔的泰森食品达成为期五年的赞助协议，自2026-27学年起，该公司标志将出现在该校全部19个校队项目的球衣补丁及场地上。该协议被称为大学体育史上最大规模的纯企业赞助之一，约90%的资金将用于运动员NIL（姓名、肖像和形象）报酬。"
+      },
+      "fr": {
+        "title": "Tyson Foods signe un accord de cinq ans pour sponsoriser les 19 équipes universitaires d'Arkansas",
+        "summary": "Arkansas a conclu un partenariat de cinq ans avec Tyson Foods, basé à Springdale, qui placera le logo de l'entreprise sur des patchs de maillot et les surfaces de jeu des 19 sports universitaires de l'établissement à partir de 2026-27. Décrit comme l'un des plus importants parrainages purement corporatifs du sport universitaire, environ 90 % des fonds de l'accord sont destinés aux paiements NIL des athlètes."
+      }
+    }
+  },
+  {
+    "id": "notre-dame-sofi-jersey-patch-record",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-07-28T00:00:00Z",
+    "source_name": "On3",
+    "source_url": "https://www.on3.com/teams/notre-dame-fighting-irish/news/notre-dame-signs-jersey-sponsorship-patch-deal-with-sofi/",
+    "i18n": {
+      "en": {
+        "title": "Notre Dame Signs Six-Year, Reportedly Richest-Ever Jersey Patch Deal with SoFi",
+        "summary": "Notre Dame has announced a six-year jersey patch partnership with financial services company SoFi worth a reported $18-20 million per year, believed to be the most lucrative such deal in college athletics history. SoFi becomes the football program's official financial services partner and the first non-apparel brand to appear on Fighting Irish jerseys, with a new $1.4 million fund also created for the athletic department."
+      },
+      "ja": {
+        "title": "ノートルダム大、SoFiと史上最高額とされる6年間のユニフォームパッチ契約",
+        "summary": "ノートルダム大学は、金融サービス企業SoFiと6年間のユニフォームパッチ契約を発表した。契約額は年間1800万～2000万ドルと報じられ、大学スポーツ史上最も高額な契約とみられる。SoFiはフットボールプログラムの公式金融サービスパートナーとなり、アパレル以外のブランドとして初めてフットボールユニフォームに登場する。athletic department向けに140万ドルの新基金も設立される。"
+      },
+      "es": {
+        "title": "Notre Dame firma con SoFi un acuerdo de parche de camiseta de seis años, el más lucrativo hasta ahora",
+        "summary": "Notre Dame anunció una asociación de parche de camiseta de seis años con la empresa de servicios financieros SoFi, valorada según reportes en 18-20 millones de dólares anuales, considerado el acuerdo más lucrativo de este tipo en la historia del deporte universitario. SoFi se convierte en el socio oficial de servicios financieros del programa de fútbol americano y en la primera marca no deportiva en aparecer en las camisetas de los Fighting Irish."
+      },
+      "zh": {
+        "title": "圣母大学与SoFi签下据称史上最高价的六年球衣广告合约",
+        "summary": "圣母大学宣布与金融服务公司SoFi达成为期六年的球衣广告合作，据报年价值1800万至2000万美元，被认为是大学体育史上金额最高的此类协议。SoFi将成为该校橄榄球项目官方金融服务合作伙伴，也是首个出现在球衣上的非服饰类品牌，双方还将为athletic department设立140万美元新基金。"
+      },
+      "fr": {
+        "title": "Notre Dame signe avec SoFi un accord de patch maillot de six ans, réputé le plus lucratif jamais conclu",
+        "summary": "Notre Dame a annoncé un partenariat de patch maillot de six ans avec la société de services financiers SoFi, d'une valeur rapportée de 18 à 20 millions de dollars par an, considéré comme l'accord le plus lucratif de ce type dans l'histoire du sport universitaire. SoFi devient le partenaire officiel de services financiers du programme de football américain et la première marque non vestimentaire à figurer sur les maillots des Fighting Irish."
+      }
+    }
+  },
+  {
+    "id": "adobe-mlb-partnership-expansion-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "tech",
+      "fan"
+    ],
+    "published_at": "2026-03-09T00:00:00Z",
+    "source_name": "Adobe",
+    "source_url": "https://news.adobe.com/news/2026/03/adobe-major-league-baseball-expand-partnership",
+    "i18n": {
+      "en": {
+        "title": "Adobe and MLB Expand Partnership to Power Next-Generation Fan Content Tools",
+        "summary": "Adobe and Major League Baseball have expanded their multiyear partnership, giving fans access to Adobe Express tools featuring authentic MLB designs and Firefly generative-AI capabilities for creating digital content. The deal builds on Adobe's existing fan-experience work with other major U.S. leagues."
+      },
+      "ja": {
+        "title": "アドビとMLB、パートナーシップを拡大 次世代ファン向けコンテンツツールを強化",
+        "summary": "アドビとMLB（メジャーリーグベースボール）は複数年にわたるパートナーシップを拡大し、ファンがMLB公式デザインを使ったAdobe Expressや生成AI機能「Firefly」でデジタルコンテンツを制作できるようにする。アドビは他の主要米国スポーツリーグとも同様のファン体験施策を展開している。"
+      },
+      "es": {
+        "title": "Adobe y la MLB amplían su asociación para potenciar herramientas de contenido para aficionados",
+        "summary": "Adobe y la Major League Baseball ampliaron su asociación plurianual, dando a los aficionados acceso a herramientas de Adobe Express con diseños oficiales de la MLB y las capacidades de inteligencia artificial generativa de Firefly para crear contenido digital. El acuerdo se suma al trabajo que Adobe ya realiza en experiencia de aficionados con otras grandes ligas estadounidenses."
+      },
+      "zh": {
+        "title": "Adobe与MLB扩大合作 打造新一代球迷内容创作工具",
+        "summary": "Adobe与美国职业棒球大联盟（MLB）扩大了双方的多年合作关系，让球迷可以使用搭载MLB官方设计素材及Firefly生成式AI功能的Adobe Express工具制作数字内容。该协议是Adobe在其他美国主要职业联赛球迷体验业务基础上的进一步延伸。"
+      },
+      "fr": {
+        "title": "Adobe et la MLB étendent leur partenariat pour de nouveaux outils de contenu pour les fans",
+        "summary": "Adobe et la Major League Baseball ont élargi leur partenariat pluriannuel, donnant aux fans accès aux outils Adobe Express intégrant des designs officiels de la MLB et les capacités d'intelligence artificielle générative Firefly pour créer du contenu numérique. Cet accord s'ajoute au travail qu'Adobe mène déjà sur l'expérience des fans avec d'autres grandes ligues américaines."
+      }
+    }
+  },
+  {
+    "id": "dodgers-uniqlo-field-naming-rights",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-03-25T00:00:00Z",
+    "source_name": "MLB.com",
+    "source_url": "https://www.mlb.com/news/press-release-dodgers-and-uniqlo-announce-historic-partnership",
+    "i18n": {
+      "en": {
+        "title": "Dodger Stadium Gets First Naming Rights Deal Ever, as Uniqlo Takes the Field",
+        "summary": "The Los Angeles Dodgers announced a five-year partnership worth more than $125 million with Japanese retailer Uniqlo, creating 'UNIQLO Field at Dodger Stadium' in the venue's first naming rights agreement in its 60-plus-year history. Branding will appear above center field, on the press box facade and along the baselines, adding to the Dodgers' roster of Japanese-brand partners that includes Toyo Tires, Yakult and Daiso."
+      },
+      "ja": {
+        "title": "ドジャースタジアム、球場史上初の命名権契約でユニクロが「フィールド」に",
+        "summary": "ロサンゼルス・ドジャースは、日本の小売企業ユニクロと5年間・1億2500万ドル超のパートナーシップを発表し、「UNIQLOフィールド・アット・ドジャースタジアム」が誕生した。60年を超える球場史上初の命名権契約となる。ブランディングはセンター後方や記者席のファサード、ベースライン沿いに配置され、トーヨータイヤやヤクルト、ダイソーに続く日系ブランドとの提携となる。"
+      },
+      "es": {
+        "title": "El Dodger Stadium logra su primer acuerdo de naming de la historia con Uniqlo",
+        "summary": "Los Dodgers de Los Ángeles anunciaron una asociación de cinco años por más de 125 millones de dólares con la minorista japonesa Uniqlo, creando 'UNIQLO Field at Dodger Stadium', el primer acuerdo de derechos de nombre en los más de 60 años de historia del estadio. La marca aparecerá sobre el jardín central, en la fachada del palco de prensa y a lo largo de las líneas de base, sumándose a otros socios japoneses de los Dodgers como Toyo Tires, Yakult y Daiso."
+      },
+      "zh": {
+        "title": "道奇体育场迎来球场史上首份冠名协议 优衣库冠名球场草坪",
+        "summary": "洛杉矶道奇队宣布与日本零售商优衣库达成为期五年、价值超1.25亿美元的合作，打造“道奇体育场优衣库球场”，这是该球场60多年历史上首份冠名权协议。品牌标识将出现在中外野看台上方、记者席外墙及内场边线，进一步扩充道奇队旗下东洋轮胎、养乐多、大创等日系品牌合作伙伴阵容。"
+      },
+      "fr": {
+        "title": "Le Dodger Stadium obtient son tout premier accord de naming grâce à Uniqlo",
+        "summary": "Les Dodgers de Los Angeles ont annoncé un partenariat de cinq ans, d'une valeur de plus de 125 millions de dollars, avec le détaillant japonais Uniqlo, créant le « UNIQLO Field at Dodger Stadium », premier accord de naming dans les plus de 60 ans d'histoire du stade. La marque apparaîtra au-dessus du champ centre, sur la façade de la tribune de presse et le long des lignes de but, s'ajoutant aux partenaires japonais des Dodgers tels que Toyo Tires, Yakult et Daiso."
+      }
+    }
   }
 ]
