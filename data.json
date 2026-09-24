@@ -1081,5 +1081,310 @@
         "summary": "L'entreprise de ressources humaines et de travail temporaire Persol Holdings a été confirmée comme partenaire officiel de titre de la Pacific League de la NPB pour une quatrième période consécutive, poursuivant un accord qui associe sa marque aux diffusions et supports officiels de la ligue. Ce renouvellement souligne la base solide de sponsoring d'entreprise que la ligue professionnelle de baseball japonaise a bâtie autour des droits de dénomination de la Pacific League."
       }
     }
+  },
+  {
+    "id": "yankees-apollo-stake-sale",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-23T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/business/team-sales/2026/steinbrenner-family-sell-yankees-stake-apollo-1234945365/",
+    "i18n": {
+      "en": {
+        "title": "Steinbrenner Family to Sell Yankees Stake to Apollo in $2.6 Billion Deal",
+        "summary": "The Steinbrenner family has agreed to sell a minority stake in Yankee Global Enterprises to private equity firm Apollo Sports Capital, part of a roughly $2.6 billion combined debt-and-equity transaction. The deal reportedly values the franchise above $10 billion while Hal Steinbrenner retains control as managing general partner."
+      },
+      "ja": {
+        "title": "スティーンブレナー家、ヤンキース株式をアポロに売却へ 総額26億ドルの取引",
+        "summary": "スティーンブレナー家は、ヤンキース・グローバル・エンタープライズの少数株式をプライベートエクイティのアポロ・スポーツ・キャピタルに売却することで合意した。今回の負債と株式を組み合わせた取引は総額約26億ドル規模で、球団の評価額は100億ドルを超えるとされる。ハル・スティーンブレナー氏は筆頭パートナーとして経営権を維持する。"
+      },
+      "es": {
+        "title": "La familia Steinbrenner venderá una participación de los Yankees a Apollo por 2.600 millones de dólares",
+        "summary": "La familia Steinbrenner acordó vender una participación minoritaria de Yankee Global Enterprises a la firma de capital privado Apollo Sports Capital, en una operación combinada de deuda y capital valorada en unos 2.600 millones de dólares. Se informa que el acuerdo valora a la franquicia en más de 10.000 millones de dólares, mientras Hal Steinbrenner conserva el control como socio gerente."
+      },
+      "zh": {
+        "title": "斯坦布伦纳家族拟以26亿美元向阿波罗出售洋基股权",
+        "summary": "斯坦布伦纳家族已同意向私募股权公司阿波罗体育资本出售洋基全球企业的少数股权，这笔债务与股权相结合的交易总额约为26亿美元。据报道，此次交易对球队的估值超过100亿美元，哈尔·斯坦布伦纳仍将作为主要合伙人保留球队的经营控制权。"
+      },
+      "fr": {
+        "title": "La famille Steinbrenner va céder une part des Yankees à Apollo pour 2,6 milliards de dollars",
+        "summary": "La famille Steinbrenner a accepté de céder une participation minoritaire de Yankee Global Enterprises à la société de capital-investissement Apollo Sports Capital, dans le cadre d'une opération combinant dette et capitaux propres d'environ 2,6 milliards de dollars. L'accord valoriserait la franchise à plus de 10 milliards de dollars, Hal Steinbrenner conservant le contrôle en tant qu'associé gérant principal."
+      }
+    }
+  },
+  {
+    "id": "mlb-private-equity-cap-20-percent",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-09-22T00:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/article/mlb-raises-private-equity-ownership-limit-to-up-to-20-percent/",
+    "i18n": {
+      "en": {
+        "title": "MLB Raises Private Equity Ownership Cap to 20%, Matching NBA and NHL",
+        "summary": "Major League Baseball owners have voted to raise the maximum stake a single private equity firm can hold in a club from 15% to 20%, aligning the league with existing NBA, NHL and MLS limits. Roughly ten MLB franchises, including the Yankees, Padres and Giants, already carry institutional investment under the prior rules."
+      },
+      "ja": {
+        "title": "MLB、PE出資上限を20%に引き上げ NBAやNHLと同水準に",
+        "summary": "MLBのオーナーたちは、1つのプライベートエクイティ会社が保有できる球団株式の上限を15%から20%に引き上げることを可決した。これによりNBA、NHL、MLSと同水準の規定に揃うことになる。ヤンキースやパドレス、ジャイアンツなど約10球団が、これまでの規定の下ですでに機関投資家からの出資を受け入れている。"
+      },
+      "es": {
+        "title": "La MLB eleva al 20% el límite de propiedad de capital privado, igualando a la NBA y la NHL",
+        "summary": "Los propietarios de la MLB votaron a favor de elevar del 15% al 20% el límite máximo de participación que una firma de capital privado puede tener en un club, igualando así los límites vigentes en la NBA, la NHL y la MLS. Cerca de diez franquicias de la MLB, entre ellas los Yankees, los Padres y los Giants, ya cuentan con inversión institucional bajo las reglas anteriores."
+      },
+      "zh": {
+        "title": "MLB将私募股权持股上限提高至20% 与NBA、NHL看齐",
+        "summary": "MLB球队老板投票决定将单一私募股权公司可持有俱乐部股份的上限从15%提高到20%，与NBA、NHL和MLS现行规定看齐。包括洋基队、教士队和巨人队在内的约十支MLB球队，此前已在旧规则下引入了机构投资。"
+      },
+      "fr": {
+        "title": "La MLB relève à 20 % le plafond de participation du capital-investissement, comme en NBA et en NHL",
+        "summary": "Les propriétaires de la MLB ont voté en faveur d'un relèvement de 15 % à 20 % de la participation maximale qu'une société de capital-investissement peut détenir dans un club, alignant la ligue sur les limites déjà en vigueur en NBA, en NHL et en MLS. Une dizaine de franchises de la MLB, dont les Yankees, les Padres et les Giants, comptent déjà des investisseurs institutionnels sous l'ancienne réglementation."
+      }
+    }
+  },
+  {
+    "id": "dr-squatch-unilever-fifa-world-cup-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-06-05T00:00:00Z",
+    "source_name": "PR Newswire",
+    "source_url": "https://www.prnewswire.com/news-releases/dr-squatch-becomes-official-sponsor-of-fifa-world-cup-2026-launching-limited-edition-soap-and-fan-sweepstakes-302792215.html",
+    "i18n": {
+      "en": {
+        "title": "Dr. Squatch Joins FIFA World Cup 2026 Sponsor Roster Alongside Unilever",
+        "summary": "Personal-care brand Dr. Squatch has signed on as an official sponsor of the FIFA World Cup 2026, its first major global sports partnership, and is releasing a limited-edition soap tied to the tournament. The brand joins Unilever's wider personal-care sponsorship, which spans Dove, Axe, Lynx, Degree and Sure across the event."
+      },
+      "ja": {
+        "title": "ドクター・スクワッチ、FIFAワールドカップ2026の公式スポンサーに ユニリーバと並んで参画",
+        "summary": "パーソナルケアブランドのドクター・スクワッチが、FIFAワールドカップ2026の公式スポンサーとして契約を結んだ。同社にとって初の大型グローバルスポーツ提携となり、大会にちなんだ限定石けんも発売する。この提携は、ダヴやAXEなど複数ブランドを展開するユニリーバのパーソナルケア分野での大会協賛と並ぶ形となる。"
+      },
+      "es": {
+        "title": "Dr. Squatch se une al grupo de patrocinadores de la Copa Mundial de la FIFA 2026 junto a Unilever",
+        "summary": "La marca de cuidado personal Dr. Squatch se convirtió en patrocinador oficial de la Copa Mundial de la FIFA 2026, su primera gran asociación deportiva global, y lanzará un jabón de edición limitada vinculado al torneo. La marca se suma al patrocinio más amplio de cuidado personal de Unilever, que abarca Dove, Axe, Lynx, Degree y Sure durante el evento."
+      },
+      "zh": {
+        "title": "Dr. Squatch加入2026世界杯赞助商行列 与联合利华并肩",
+        "summary": "个人护理品牌Dr. Squatch已签约成为2026年国际足联世界杯官方赞助商，这是该品牌首次达成大型全球体育合作，并将推出与赛事相关的限量版香皂。该品牌的加入与联合利华在本届赛事中更广泛的个人护理赞助并行，后者涵盖多芬、AXE等品牌。"
+      },
+      "fr": {
+        "title": "Dr. Squatch rejoint les sponsors de la Coupe du Monde de la FIFA 2026 aux côtés d'Unilever",
+        "summary": "La marque de soins personnels Dr. Squatch est devenue sponsor officiel de la Coupe du Monde de la FIFA 2026, son premier grand partenariat sportif mondial, et lancera un savon en édition limitée lié au tournoi. La marque rejoint le parrainage plus large d'Unilever dans les soins personnels, qui englobe Dove, Axe, Degree et Sure pendant l'événement."
+      }
+    }
+  },
+  {
+    "id": "mercedes-f1-microsoft-sponsorship",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "tech"
+    ],
+    "published_at": "2026-01-22T00:00:00Z",
+    "source_name": "SportsPro",
+    "source_url": "https://www.sportspro.com/news/sponsorship-marketing/mercedes-f1-microsoft-ai-tech-sponsorship-january-2026/",
+    "i18n": {
+      "en": {
+        "title": "Mercedes-AMG Petronas F1 Team Signs Major AI-Focused Sponsorship With Microsoft",
+        "summary": "Mercedes-AMG Petronas has struck a new technology partnership with Microsoft, reportedly worth around $60 million a year, to embed AI and cloud tools across the team's engineering and race operations. The deal was unveiled alongside the team's 2026 car launch and adds Microsoft to Formula 1's escalating tech-sponsorship arms race."
+      },
+      "ja": {
+        "title": "メルセデスF1、マイクロソフトとAI活用の大型スポンサー契約",
+        "summary": "メルセデスAMGペトロナスF1チームは、マイクロソフトと新たな技術提携を結んだ。契約額は年間約6000万ドルとされ、AIとクラウド技術をエンジニアリングやレース運営に組み込む内容となっている。この提携は2026年型マシンの発表と同時に明らかにされ、F1における技術スポンサー獲得競争の激化を象徴している。"
+      },
+      "es": {
+        "title": "El equipo Mercedes-AMG Petronas de F1 firma un gran patrocinio tecnológico con Microsoft centrado en la IA",
+        "summary": "Mercedes-AMG Petronas cerró una nueva asociación tecnológica con Microsoft, con un valor estimado de unos 60 millones de dólares al año, para integrar herramientas de inteligencia artificial y nube en su operación de ingeniería y carreras. El acuerdo se presentó junto con el lanzamiento del monoplaza 2026 del equipo, sumando a Microsoft a la creciente carrera de patrocinios tecnológicos en la Fórmula 1."
+      },
+      "zh": {
+        "title": "梅赛德斯F1车队与微软签署重大人工智能技术赞助协议",
+        "summary": "梅赛德斯AMG-马石油F1车队与微软达成新的技术合作，据报道年价值约6000万美元，将把人工智能和云技术融入车队的工程与比赛运营。这项协议与车队2026赛季赛车发布同步公布，使微软加入F1日益激烈的科技赞助竞争。"
+      },
+      "fr": {
+        "title": "L'écurie Mercedes-AMG Petronas de F1 signe un important partenariat technologique axé sur l'IA avec Microsoft",
+        "summary": "Mercedes-AMG Petronas a conclu un nouveau partenariat technologique avec Microsoft, évalué à environ 60 millions de dollars par an, afin d'intégrer des outils d'IA et de cloud dans ses opérations d'ingénierie et de course. L'accord a été dévoilé lors du lancement de la monoplace 2026 de l'écurie, ajoutant Microsoft à la course aux sponsors technologiques qui s'intensifie en Formule 1."
+      }
+    }
+  },
+  {
+    "id": "uniqlo-bleague-partnership-2026",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-09-03T00:00:00Z",
+    "source_name": "Uniqlo",
+    "source_url": "https://www.uniqlo.com/jp/ja/contents/corp/press-release/2026/09/bleague_b_2027bleagueutme5593.html",
+    "i18n": {
+      "en": {
+        "title": "Uniqlo Becomes B.League Partner, to Outfit Referees and 2027 All-Star Uniforms",
+        "summary": "Apparel retailer Uniqlo has signed a partnership with Japan's B.League, starting by supplying uniforms for referees and table officials across all clubs. The deal will expand in January 2027 when Uniqlo provides its first-ever basketball playing uniforms for the Resona Group B.League All-Star Game."
+      },
+      "ja": {
+        "title": "ユニクロがBリーグとパートナー契約 レフェリー衣装や2027年オールスターユニフォームを担当",
+        "summary": "アパレル大手のユニクロが、Bリーグとのパートナーシップ契約を締結した。まずは全クラブのレフェリーおよびテーブルオフィシャルズ向けのウェアを提供する。2027年1月に開催される「りそなグループ Bリーグオールスター」では、ユニクロにとって初となるバスケットボール選手用ユニフォームも提供される予定だ。"
+      },
+      "es": {
+        "title": "Uniqlo se convierte en socio de la B.League y vestirá a árbitros y el All-Star 2027",
+        "summary": "El minorista de ropa Uniqlo firmó una asociación con la B.League de baloncesto de Japón, comenzando por suministrar el vestuario de árbitros y oficiales de mesa en todos los clubes. El acuerdo se ampliará en enero de 2027, cuando Uniqlo proporcione por primera vez uniformes de juego de baloncesto para el Resona Group B.League All-Star Game."
+      },
+      "zh": {
+        "title": "优衣库成为B联赛合作伙伴 将提供裁判服及2027全明星赛球衣",
+        "summary": "服装零售商优衣库与日本B联赛签署合作协议，首先为全体俱乐部提供裁判和台前官员的服装。该合作将于2027年1月扩大，届时优衣库将首次为里索纳集团B联赛全明星赛提供篮球比赛球衣。"
+      },
+      "fr": {
+        "title": "Uniqlo devient partenaire de la B.League et habillera les arbitres et le All-Star Game 2027",
+        "summary": "Le distributeur de vêtements Uniqlo a signé un partenariat avec la B.League de basket-ball japonaise, en fournissant d'abord les tenues des arbitres et des officiels de table pour tous les clubs. L'accord s'étendra en janvier 2027, lorsque Uniqlo fournira pour la première fois des maillots de jeu de basket-ball pour le Resona Group B.League All-Star Game."
+      }
+    }
+  },
+  {
+    "id": "pal-system-saitama-broncos-sponsorship",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-09-15T00:00:00Z",
+    "source_name": "PR Times",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000001359.000006976.html",
+    "i18n": {
+      "en": {
+        "title": "Consumer Co-op Pal System Signs Sponsorship With B.League One's Saitama Broncos",
+        "summary": "Pal System Saitama, a regional consumer cooperative, has signed a sponsorship agreement with B.League One club Saitama Broncos to support community engagement initiatives. The tie-up reflects the growing trend of local businesses using regional B.League clubs as a platform for community-focused marketing."
+      },
+      "ja": {
+        "title": "生協パルシステム埼玉、B1さいたまブロンコスとスポンサー契約",
+        "summary": "地域生協のパルシステム埼玉が、B.LEAGUE ONEのさいたまブロンコスとスポンサー契約を締結した。地域貢献活動を後押しする狙いがある。地元企業が地域密着型のBリーグクラブを、コミュニティ重視のマーケティングの場として活用する動きが広がっていることを示す一例となった。"
+      },
+      "es": {
+        "title": "La cooperativa de consumo Pal System firma un patrocinio con Saitama Broncos de la B.League One",
+        "summary": "Pal System Saitama, una cooperativa de consumidores regional, firmó un acuerdo de patrocinio con el club de la B.League One Saitama Broncos para apoyar iniciativas de compromiso comunitario. La alianza refleja la creciente tendencia de empresas locales que utilizan a los clubes regionales de la B.League como plataforma de marketing centrado en la comunidad."
+      },
+      "zh": {
+        "title": "生协帕尔系统埼玉与B联赛埼玉野马签署赞助协议",
+        "summary": "地区消费合作社帕尔系统埼玉与B联赛第一级别球队埼玉野马签署赞助协议，以支持社区参与项目。这一合作体现了本地企业越来越多地利用区域性B联赛俱乐部作为社区营销平台的趋势。"
+      },
+      "fr": {
+        "title": "La coopérative de consommateurs Pal System signe un parrainage avec les Saitama Broncos de B.League One",
+        "summary": "Pal System Saitama, une coopérative de consommateurs régionale, a signé un accord de parrainage avec le club de B.League One Saitama Broncos afin de soutenir des initiatives d'engagement communautaire. Ce partenariat illustre la tendance croissante des entreprises locales à utiliser les clubs régionaux de la B.League comme plateforme de marketing axée sur la communauté."
+      }
+    }
+  },
+  {
+    "id": "g2-esports-winamax-betting-sponsorship",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-01-17T00:00:00Z",
+    "source_name": "Esports.gg",
+    "source_url": "https://esports.gg/news/betting/g2-esports-betting-partnership-winamax/",
+    "i18n": {
+      "en": {
+        "title": "G2 Esports Signs Multi-Year Betting Sponsorship With Winamax",
+        "summary": "G2 Esports has signed a multi-year sponsorship deal with European betting operator Winamax, covering its League of Legends LEC roster and its G2 FC Kings League team. The partnership, enabled through an agreement between Winamax and Riot Games, makes Winamax the first betting operator approved to sponsor a European LEC team."
+      },
+      "ja": {
+        "title": "G2エスポーツ、ウィナマックスと複数年のベッティング・スポンサー契約",
+        "summary": "G2エスポーツは、欧州のベッティング事業者ウィナマックスと複数年にわたるスポンサー契約を締結した。契約はLEC参戦のリーグ・オブ・レジェンド部門と、キングスリーグのG2 FCチームの両方を対象とする。この提携はウィナマックスとライアットゲームズの合意によって実現したもので、欧州LECチームのスポンサーとして承認されたベッティング事業者としては初のケースとなる。"
+      },
+      "es": {
+        "title": "G2 Esports firma un patrocinio plurianual de apuestas con Winamax",
+        "summary": "G2 Esports firmó un acuerdo de patrocinio plurianual con el operador de apuestas europeo Winamax, que abarca su plantilla de League of Legends en la LEC y su equipo G2 FC de la Kings League. La asociación, posible gracias a un acuerdo entre Winamax y Riot Games, convierte a Winamax en el primer operador de apuestas aprobado para patrocinar a un equipo europeo de la LEC."
+      },
+      "zh": {
+        "title": "G2电竞与Winamax签署多年期博彩赞助协议",
+        "summary": "G2电竞与欧洲博彩运营商Winamax签署了多年期赞助协议，涵盖其参加LEC联赛的《英雄联盟》阵容以及国王联赛的G2 FC球队。这项合作是通过Winamax与拳头游戏之间的协议促成的，使Winamax成为首家获批赞助欧洲LEC战队的博彩运营商。"
+      },
+      "fr": {
+        "title": "G2 Esports signe un parrainage pluriannuel avec le bookmaker Winamax",
+        "summary": "G2 Esports a signé un accord de parrainage pluriannuel avec l'opérateur de paris européen Winamax, couvrant son effectif League of Legends en LEC ainsi que son équipe G2 FC de la Kings League. Ce partenariat, rendu possible par un accord entre Winamax et Riot Games, fait de Winamax le premier opérateur de paris approuvé pour parrainer une équipe européenne de la LEC."
+      }
+    }
+  },
+  {
+    "id": "mets-citi-field-casino-approval",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "biz"
+    ],
+    "published_at": "2025-12-01T00:00:00Z",
+    "source_name": "Axios",
+    "source_url": "https://www.axios.com/2025/12/01/new-york-city-casinos-steve-cohen-mets",
+    "i18n": {
+      "en": {
+        "title": "Mets Owner Steve Cohen Wins Approval for $8 Billion Casino Next to Citi Field",
+        "summary": "New York's Gaming Facility Location Board has recommended a casino license for Mets owner Steve Cohen's Metropolitan Park project, an $8 billion development with Hard Rock International next to Citi Field in Queens. The complex is planned to include a hotel, a concert venue and a sportsbook, with construction targeted to begin in early 2026."
+      },
+      "ja": {
+        "title": "メッツ・オーナーのコーエン氏、シティ・フィールド隣接の80億ドル規模カジノ計画が承認へ",
+        "summary": "ニューヨーク州のゲーミング施設立地委員会は、メッツのオーナーであるスティーブ・コーエン氏が手がける「メトロポリタン・パーク」計画にカジノライセンスを推奨した。これはクイーンズのシティ・フィールド球場に隣接する、ハード・ロック・インターナショナルとの総額80億ドル規模の開発計画である。ホテルやコンサート会場、スポーツブックなどが盛り込まれる予定で、着工は2026年初めを見込んでいる。"
+      },
+      "es": {
+        "title": "El propietario de los Mets, Steve Cohen, obtiene la aprobación para un casino de 8.000 millones de dólares junto a Citi Field",
+        "summary": "La Junta de Ubicación de Instalaciones de Juego de Nueva York recomendó una licencia de casino para el proyecto Metropolitan Park del propietario de los Mets, Steve Cohen, un desarrollo de 8.000 millones de dólares junto a Citi Field, en Queens, en asociación con Hard Rock International. El complejo incluirá un hotel, una sala de conciertos y una casa de apuestas, y se prevé que la construcción comience a principios de 2026."
+      },
+      "zh": {
+        "title": "大都会队老板科恩获批在花旗球场旁建80亿美元赌场",
+        "summary": "纽约州博彩设施选址委员会已建议为大都会队老板史蒂夫·科恩位于皇后区花旗球场旁、与Hard Rock International合作开发的80亿美元“大都会公园”项目颁发赌场牌照。该综合体计划包含酒店、演唱会场馆和体育博彩设施，预计将于2026年初开工建设。"
+      },
+      "fr": {
+        "title": "Le propriétaire des Mets Steve Cohen obtient le feu vert pour un casino de 8 milliards de dollars près de Citi Field",
+        "summary": "La commission new-yorkaise chargée de l'implantation des établissements de jeu a recommandé une licence de casino pour le projet Metropolitan Park du propriétaire des Mets, Steve Cohen, un développement de 8 milliards de dollars mené avec Hard Rock International à côté de Citi Field, dans le Queens. Le complexe doit inclure un hôtel, une salle de concert et un espace de paris sportifs, la construction devant débuter début 2026."
+      }
+    }
+  },
+  {
+    "id": "pacers-fieldhouse-media-network-launch",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "fan",
+      "tech",
+      "sponsor"
+    ],
+    "published_at": "2026-03-24T00:00:00Z",
+    "source_name": "GlobeNewswire",
+    "source_url": "https://www.globenewswire.com/news-release/2026/03/24/3261602/0/en/Pacers-Sports-Entertainment-Launches-Fieldhouse-Media-Network-Delivering-First-Of-Its-Kind-Global-Media-Channel-for-Partners.html",
+    "i18n": {
+      "en": {
+        "title": "Pacers Sports & Entertainment Launches AI-Powered Fieldhouse Media Network",
+        "summary": "Pacers Sports & Entertainment has launched Fieldhouse Media Network, an AI-driven advertising platform built with Deloitte and Yieldmo that activates authenticated fan data from roughly 250 million sports and entertainment fans worldwide. The network lets sponsors target personalized ads to fans without relying on cookies, aiming to boost sponsorship monetization."
+      },
+      "ja": {
+        "title": "ペイサーズ運営会社、AI活用の「フィールドハウス・メディア・ネットワーク」を始動",
+        "summary": "ペイサーズ・スポーツ・アンド・エンターテインメントは、AIを活用した広告プラットフォーム「フィールドハウス・メディア・ネットワーク」を立ち上げた。デロイトおよびイールドモーと共同開発したこのネットワークは、世界中の約2億5000万人のスポーツ・エンタメファンの認証データを活用する。クッキーに依存せずファンごとに最適化された広告配信を可能にし、スポンサーシップの収益化強化を狙う。"
+      },
+      "es": {
+        "title": "Pacers Sports & Entertainment lanza la red publicitaria Fieldhouse impulsada por IA",
+        "summary": "Pacers Sports & Entertainment lanzó Fieldhouse Media Network, una plataforma publicitaria impulsada por IA desarrollada junto a Deloitte y Yieldmo que activa datos autenticados de unos 250 millones de aficionados al deporte y al entretenimiento en todo el mundo. La red permite a los patrocinadores dirigir anuncios personalizados a los aficionados sin depender de cookies, con el objetivo de impulsar la monetización de los patrocinios."
+      },
+      "zh": {
+        "title": "步行者体育娱乐公司推出AI驱动的Fieldhouse媒体网络",
+        "summary": "步行者体育娱乐公司推出了由人工智能驱动的“Fieldhouse媒体网络”广告平台，该平台与德勤和Yieldmo共同开发，可激活全球约2.5亿体育和娱乐粉丝的认证数据。该网络使赞助商能够在不依赖cookie的情况下向粉丝投放个性化广告，旨在提升赞助变现能力。"
+      },
+      "fr": {
+        "title": "Pacers Sports & Entertainment lance le réseau publicitaire Fieldhouse propulsé par l'IA",
+        "summary": "Pacers Sports & Entertainment a lancé Fieldhouse Media Network, une plateforme publicitaire pilotée par l'IA développée avec Deloitte et Yieldmo, qui exploite les données authentifiées d'environ 250 millions de fans de sport et de divertissement dans le monde. Ce réseau permet aux sponsors de diffuser des publicités personnalisées aux fans sans recourir aux cookies, dans le but d'accroître la monétisation des partenariats."
+      }
+    }
   }
 ]
