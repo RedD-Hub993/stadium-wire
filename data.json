@@ -4179,5 +4179,209 @@
         "summary": "Red Bull Japon a lancé une collaboration commerciale avec le jeu de battle royale Apex Legends, disponible dans les supérettes FamilyMart du pays du 15 au 28 septembre. Les clients achetant deux boissons Red Bull participantes reçoivent une carte contenant un code pour un objet exclusif du jeu et peuvent participer à un tirage au sort pour une invitation au ALGS Year 6 Championship à Sapporo. La campagne a également été mise en avant lors d'un événement public au Tokyo Game Show 2026."
       }
     }
+  },
+  {
+    "id": "wnba-team-values-2026-sportico-cnbc",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-05-04T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/valuations/teams/2026/wnba-team-values-2026-valkyries-liberty-fever-1234891620/",
+    "i18n": {
+      "en": {
+        "title": "Golden State Valkyries Become WNBA's First $1 Billion Franchise as League Values Surge",
+        "summary": "New valuations from Sportico and CNBC both place the Golden State Valkyries atop the WNBA, with CNBC estimating the expansion franchise's worth at roughly $1 billion in its debut season. Sportico put the league average franchise value at $427 million, a jump driven by soaring media rights fees and record attendance."
+      },
+      "ja": {
+        "title": "ゴールデンステート・ヴァルキリーズ、WNBA初の10億ドル球団に　リーグ全体の評価額も急上昇",
+        "summary": "SporticoとCNBCが発表した最新の査定で、新規参入のゴールデンステート・ヴァルキリーズがWNBAで最高評価となり、CNBCはその価値を約10億ドルと推計した。Sporticoによるとリーグ平均の球団価値は4億2700万ドルに達し、放映権料の高騰と観客動員の記録更新が押し上げ要因となっている。"
+      },
+      "es": {
+        "title": "Golden State Valkyries se convierte en la primera franquicia de mil millones de dólares de la WNBA",
+        "summary": "Las nuevas valoraciones de Sportico y CNBC coinciden en situar a Golden State Valkyries en lo más alto de la WNBA, con CNBC estimando el valor del equipo debutante en unos mil millones de dólares. Sportico calculó el valor promedio de una franquicia de la liga en 427 millones de dólares, impulsado por los derechos de televisión y la asistencia récord."
+      },
+      "zh": {
+        "title": "金州山谷队成为WNBA首支估值10亿美元的球队",
+        "summary": "Sportico和CNBC最新公布的评估均将扩军球队金州山谷队列为WNBA估值最高的球队，CNBC估计其首个赛季的身价约为10亿美元。Sportico统计显示联盟球队平均估值达到4.27亿美元，转播权费用飙升和上座人数创纪录是主要推动因素。"
+      },
+      "fr": {
+        "title": "Les Valkyries de Golden State deviennent la première franchise milliardaire de la WNBA",
+        "summary": "Les nouvelles évaluations de Sportico et CNBC placent toutes deux les Valkyries de Golden State en tête de la WNBA, CNBC estimant la valeur de cette franchise d'expansion à environ un milliard de dollars dès sa première saison. Sportico évalue la valeur moyenne d'une franchise de la ligue à 427 millions de dollars, portée par l'envolée des droits télévisés et une fréquentation record."
+      }
+    }
+  },
+  {
+    "id": "blast-mongolian-esports-association-partnership",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "biz",
+      "fan"
+    ],
+    "published_at": "2026-09-08T00:00:00Z",
+    "source_name": "Esports Insider",
+    "source_url": "https://esportsinsider.com/2026/09/esi-business-roundup-blast-riot-games-pgl",
+    "i18n": {
+      "en": {
+        "title": "BLAST Partners With Mongolian Esports Association, Plans 2027 Counter-Strike Event in Ulaanbaatar",
+        "summary": "Tournament organizer BLAST unveiled a partnership with the Mongolian Esports Association to grow the market and will stage a Tier 1 Counter-Strike tournament in Ulaanbaatar in May 2027. The event is set to bring 16 international teams to compete for a $1.25 million prize pool."
+      },
+      "ja": {
+        "title": "BLAST、モンゴルeスポーツ協会と提携　2027年にウランバートルでCS大会開催へ",
+        "summary": "大会運営団体のBLASTはモンゴルeスポーツ協会との提携を発表し、現地市場の育成を図る。2027年5月にウランバートルでTier1級のカウンターストライク大会を開催予定で、世界16チームが賞金総額125万ドルを争う見込みだ。"
+      },
+      "es": {
+        "title": "BLAST se asocia con la Asociación de Esports de Mongolia y llevará un torneo de Counter-Strike a Ulán Bator en 2027",
+        "summary": "El organizador de torneos BLAST anunció una alianza con la Asociación de Esports de Mongolia para desarrollar ese mercado y celebrará un torneo de Counter-Strike de Nivel 1 en Ulán Bator en mayo de 2027. Al evento asistirán 16 equipos internacionales que competirán por una bolsa de premios de 1,25 millones de dólares."
+      },
+      "zh": {
+        "title": "BLAST与蒙古电竞协会达成合作 2027年将在乌兰巴托举办CS赛事",
+        "summary": "赛事主办方BLAST宣布与蒙古电竞协会建立合作关系，旨在开拓当地市场，并将于2027年5月在乌兰巴托举办一级反恐精英赛事。届时将有16支国际战队参赛，角逐125万美元的奖金池。"
+      },
+      "fr": {
+        "title": "BLAST s'associe à l'Association mongole d'esport pour un tournoi Counter-Strike à Oulan-Bator en 2027",
+        "summary": "L'organisateur de tournois BLAST a annoncé un partenariat avec l'Association mongole d'esport afin de développer ce marché, avec un tournoi Counter-Strike de niveau 1 prévu à Oulan-Bator en mai 2027. Seize équipes internationales s'affronteront pour une cagnotte de 1,25 million de dollars."
+      }
+    }
+  },
+  {
+    "id": "pgl-1xbet-partnership-extension-2029",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-09-22T00:00:00Z",
+    "source_name": "Gambling.com",
+    "source_url": "https://www.gambling.com/news/1xbet-extends-exclusive-pgl-esports-betting-deal-through-2029",
+    "i18n": {
+      "en": {
+        "title": "1xBet Extends Exclusive PGL Esports Betting Partnership Through 2029",
+        "summary": "Betting operator 1xBet has extended its exclusive partnership with tournament organizer PGL, remaining the designated bookmaker for PGL's Counter-Strike 2 and Dota 2 events through 2029. The renewed deal keeps 1xBet branding across PGL broadcasts and event activations as the pair's partnership enters its third year."
+      },
+      "ja": {
+        "title": "1xBet、PGLとの独占賭博パートナーシップを2029年まで延長",
+        "summary": "ブックメーカーの1xBetは大会運営団体PGLとの独占提携を延長し、2029年までPGL主催のカウンターストライク2およびDota2大会の公式ブックメーカーであり続ける。今回の延長により、両社の提携は3年目に入り、放送や会場演出における1xBetのブランド露出が継続される。"
+      },
+      "es": {
+        "title": "1xBet amplía su alianza exclusiva de apuestas con PGL hasta 2029",
+        "summary": "La casa de apuestas 1xBet extendió su acuerdo exclusivo con el organizador de torneos PGL, y seguirá siendo la casa de apuestas oficial de los eventos de Counter-Strike 2 y Dota 2 de PGL hasta 2029. El acuerdo renovado mantiene la marca de 1xBet en las transmisiones y activaciones de PGL, que entra así en su tercer año de colaboración."
+      },
+      "zh": {
+        "title": "1xBet与PGL独家博彩合作延长至2029年",
+        "summary": "博彩公司1xBet宣布与赛事主办方PGL延长独家合作协议，将继续担任PGL旗下《反恐精英2》和《Dota2》赛事的官方博彩合作伙伴，合作期延长至2029年。此次续约使双方合作进入第三年，1xBet品牌将继续出现在PGL转播画面及现场活动中。"
+      },
+      "fr": {
+        "title": "1xBet prolonge son partenariat exclusif de paris avec PGL jusqu'en 2029",
+        "summary": "L'opérateur de paris 1xBet a prolongé son partenariat exclusif avec l'organisateur de tournois PGL, restant le bookmaker officiel des événements Counter-Strike 2 et Dota 2 de PGL jusqu'en 2029. Cet accord renouvelé maintient la présence de la marque 1xBet dans les diffusions et animations de PGL, alors que le partenariat entame sa troisième année."
+      }
+    }
+  },
+  {
+    "id": "unisun-sports-espn-media-rights-asun-uac",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "biz",
+      "sponsor"
+    ],
+    "published_at": "2026-08-25T00:00:00Z",
+    "source_name": "ASUN Conference",
+    "source_url": "https://asunsports.org/news/2026/8/25/general-unisun-sports-announce-landmark-multi-conference-media-rights-agreement-with-espn.aspx",
+    "i18n": {
+      "en": {
+        "title": "ASUN and UAC Form Unisun Sports, Sign Joint Media Rights Deal With ESPN",
+        "summary": "The Atlantic Sun and United Athletic conferences launched a joint venture called Unisun Sports and signed a long-term media rights agreement with ESPN, the first time multiple NCAA Division I conferences have combined under one media deal. Starting with the 2026 academic year, ESPN becomes the exclusive home for both conferences' regular-season and championship events across its linear networks and ESPN+."
+      },
+      "ja": {
+        "title": "ASUNとUAC、共同事業体「Unisun Sports」設立　ESPNと合同で放映権契約",
+        "summary": "米大学スポーツのアトランティック・サン・カンファレンスとユナイテッド・アスレチック・カンファレンスは共同事業体「Unisun Sports」を設立し、ESPNと長期の放映権契約を締結した。複数のNCAAディビジョンI加盟カンファレンスが一つの放映権契約に統合されるのは今回が初めてで、2026年度から両カンファレンスのレギュラーシーズンおよび選手権大会がESPNの地上波系列やESPN+で独占的に放送される。"
+      },
+      "es": {
+        "title": "ASUN y UAC crean Unisun Sports y firman un acuerdo conjunto de derechos de televisión con ESPN",
+        "summary": "Las conferencias universitarias Atlantic Sun y United Athletic crearon una empresa conjunta llamada Unisun Sports y firmaron un acuerdo de derechos de televisión a largo plazo con ESPN, la primera vez que varias conferencias de la División I de la NCAA se unen bajo un mismo contrato. A partir del curso académico 2026, ESPN será la casa exclusiva de los eventos de temporada regular y campeonatos de ambas conferencias en sus canales lineales y ESPN+."
+      },
+      "zh": {
+        "title": "ASUN与UAC联合成立Unisun Sports 并与ESPN签订联合转播权协议",
+        "summary": "美国大学体育的大西洋太阳联盟与联合体育联盟联合成立名为Unisun Sports的合资公司，并与ESPN签订长期转播权协议，这是NCAA一级多个联盟首次合并纳入同一份转播合同。自2026学年起，两联盟的常规赛及锦标赛将独家登陆ESPN有线频道及ESPN+平台。"
+      },
+      "fr": {
+        "title": "ASUN et UAC créent Unisun Sports et signent un accord commun de droits télévisés avec ESPN",
+        "summary": "Les conférences universitaires Atlantic Sun et United Athletic ont créé une coentreprise baptisée Unisun Sports et signé un accord de droits télévisés de longue durée avec ESPN, une première pour plusieurs conférences de Division I de la NCAA réunies sous un même contrat. Dès la saison 2026, ESPN diffusera en exclusivité les matchs de saison régulière et les championnats des deux conférences sur ses chaînes linéaires et ESPN+."
+      }
+    }
+  },
+  {
+    "id": "fc-gifu-himaraya-stadium-naming-rights",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-03-13T00:00:00Z",
+    "source_name": "J.League",
+    "source_url": "https://www.jleague.jp/news/article/33529/",
+    "i18n": {
+      "en": {
+        "title": "FC Gifu's Home Ground Renamed 'Himaraya Stadium Gifu' Under New Naming-Rights Deal",
+        "summary": "J.League club FC Gifu announced that its home venue, previously known as Gifu Memorial Center Nagaragawa Stadium, will be renamed Himaraya Stadium Gifu after outdoor retailer Himaraya acquired the naming rights. The five-year deal, worth about 8 million yen annually, takes effect from April 2026."
+      },
+      "ja": {
+        "title": "FC岐阜、本拠地の名称を「ヒマラヤスタジアム岐阜」に変更　新ネーミングライツ契約",
+        "summary": "Jリーグのクラブ、FC岐阜はホームスタジアムの名称を「岐阜メモリアルセンター長良川競技場」から「岐阜メモリアルセンター ヒマラヤスタジアム岐阜」に変更すると発表した。アウトドア用品大手ヒマラヤが命名権を取得したもので、年額約800万円、契約期間5年の契約は2026年4月から適用される。"
+      },
+      "es": {
+        "title": "El estadio de FC Gifu pasa a llamarse 'Himaraya Stadium Gifu' tras un nuevo acuerdo de naming rights",
+        "summary": "El club de la J.League FC Gifu anunció que su estadio, antes conocido como Gifu Memorial Center Nagaragawa Stadium, pasará a llamarse Himaraya Stadium Gifu tras la adquisición de los derechos de nombre por parte de la cadena de artículos deportivos Himaraya. El acuerdo, de cinco años y unos 8 millones de yenes anuales, entra en vigor en abril de 2026."
+      },
+      "zh": {
+        "title": "FC岐阜主场更名为\"喜马拉雅体育场岐阜\" 签订新冠名权协议",
+        "summary": "日本J联赛球队FC岐阜宣布其主场——原名\"岐阜纪念中心长良川竞技场\"——将更名为\"喜马拉雅体育场岐阜\"，户外用品零售商喜马拉雅公司获得了该场馆的冠名权。这份为期五年、年费约800万日元的协议将于2026年4月起生效。"
+      },
+      "fr": {
+        "title": "Le stade du FC Gifu rebaptisé « Himaraya Stadium Gifu » après un nouvel accord de naming",
+        "summary": "Le club de J.League FC Gifu a annoncé que son stade, jusqu'ici appelé Gifu Memorial Center Nagaragawa Stadium, sera rebaptisé Himaraya Stadium Gifu après l'acquisition des droits de dénomination par le détaillant d'articles de plein air Himaraya. Cet accord de cinq ans, d'environ 8 millions de yens par an, entrera en vigueur en avril 2026."
+      }
+    }
+  },
+  {
+    "id": "cerezo-osaka-yanmar-hanasaka-stadium",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-03-06T00:00:00Z",
+    "source_name": "Nikkei",
+    "source_url": "https://www.nikkei.com/article/DGXZQOUF064670W6A300C2000000/",
+    "i18n": {
+      "en": {
+        "title": "Cerezo Osaka's Home Ground Becomes 'Yanmar Hanasaka Stadium' as Yanmar Wins Naming Rights",
+        "summary": "Machinery maker Yanmar Holdings secured the naming rights to Nagai Stadium in Osaka, the home ground of J.League club Cerezo Osaka, renaming it Yanmar Hanasaka Stadium from April 2026. The five-year, three-month contract replaces the previous Yodoko Sakura Stadium branding."
+      },
+      "ja": {
+        "title": "セレッソ大阪の本拠地が「ヤンマーハナサカスタジアム」に　ヤンマーが命名権取得",
+        "summary": "機械メーカーのヤンマーホールディングスはセレッソ大阪の本拠地である大阪・長居球技場の命名権を取得し、2026年4月から「ヤンマーハナサカスタジアム」に名称を変更すると発表した。契約期間は5年3カ月で、これまでの「ヨドコウ桜スタジアム」の呼称に代わるものとなる。"
+      },
+      "es": {
+        "title": "El estadio de Cerezo Osaka pasa a llamarse 'Yanmar Hanasaka Stadium' tras la adquisición de los derechos por Yanmar",
+        "summary": "El fabricante de maquinaria Yanmar Holdings obtuvo los derechos de nombre del Estadio Nagai de Osaka, sede del club de la J.League Cerezo Osaka, que se llamará Yanmar Hanasaka Stadium a partir de abril de 2026. El contrato, de cinco años y tres meses, sustituye al anterior nombre Yodoko Sakura Stadium."
+      },
+      "zh": {
+        "title": "扬马取得命名权 世际大阪主场更名为\"扬马花开体育场\"",
+        "summary": "机械制造商扬马控股获得大阪长居球技场（J联赛球队世际大阪主场）的冠名权，该体育场将自2026年4月起更名为\"扬马花开体育场\"。这份为期五年零三个月的合同取代了此前的\"淀鼓樱花体育场\"名称。"
+      },
+      "fr": {
+        "title": "Le stade du Cerezo Osaka rebaptisé « Yanmar Hanasaka Stadium » après l'acquisition des droits par Yanmar",
+        "summary": "Le fabricant de machines Yanmar Holdings a obtenu les droits de dénomination du stade Nagai d'Osaka, domicile du club de J.League Cerezo Osaka, qui sera rebaptisé Yanmar Hanasaka Stadium à partir d'avril 2026. Ce contrat de cinq ans et trois mois remplace l'ancienne appellation Yodoko Sakura Stadium."
+      }
+    }
   }
 ]
