@@ -3169,5 +3169,275 @@
         "summary": "Le classement Forbes 2026 des clubs de football les plus valorisés au monde place le Bayern Munich au sixième rang avec 5,7 milliards de dollars, en hausse de 12% sur un an pour 938 millions de revenus, meilleur club allemand du classement. Manchester City suit au septième rang avec 5,5 milliards, en hausse de 4%, les clubs anglais et espagnols continuant de dominer le haut du tableau."
       }
     }
+  },
+  {
+    "id": "burnley-vertu-shirt-sponsor-after-finotive",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-08-18T00:00:00Z",
+    "source_name": "Inside World Football",
+    "source_url": "https://www.insideworldfootball.com/2026/08/18/burnley-ditch-shirt-sponsor-after-just-42-days",
+    "i18n": {
+      "en": {
+        "title": "Burnley Scraps Shirt Sponsor After Just 42 Days, Names Vertu Motors as Replacement",
+        "summary": "Burnley terminated its front-of-shirt partnership with trading platform Finotive only six weeks after it began, citing the need to protect the club's interests. Automotive retailer Vertu Motors, which previously sponsored Burnley during its 2022-23 promotion campaign, has stepped in as the new shirt sponsor for 2026-27, and supporters who bought kits with the old branding were offered refunds or a free logo swap."
+      },
+      "ja": {
+        "title": "バーンリー、契約42日でユニフォームスポンサーを解消しヴァーチュ・モーターズに交代",
+        "summary": "バーンリーFCは、契約からわずか6週間で取引プラットフォーム企業フィノティブとのユニフォーム胸スポンサー契約を解消したと発表した。クラブと支援者の利益を守るための判断だとしている。新スポンサーには2022-23シーズンの昇格時にも協賛していた自動車販売のヴァーチュ・モーターズが就任し、旧ロゴ入りユニフォームを購入していたサポーターには返金や無償のロゴ変更が提供された。"
+      },
+      "es": {
+        "title": "Burnley rescinde su patrocinio de camiseta tras solo 42 días y ficha a Vertu Motors",
+        "summary": "Burnley rescindió su acuerdo de patrocinio principal de camiseta con la plataforma de trading Finotive solo seis semanas después de firmarlo, alegando la necesidad de proteger los intereses del club. El minorista de automóviles Vertu Motors, que ya había patrocinado al club durante su ascenso en 2022-23, asumió como nuevo patrocinador para la temporada 2026-27, y a los aficionados que habían comprado camisetas con el logo anterior se les ofreció un reembolso o el cambio gratuito del logotipo."
+      },
+      "zh": {
+        "title": "伯恩利仅签约42天即解约球衣赞助商，转投Vertu Motors",
+        "summary": "伯恩利足球俱乐部宣布，在与交易平台Finotive签约仅六周后便终止了球衣胸前赞助合作，称此举是为了保护俱乐部及球迷的利益。曾在2022-23赛季升级期间赞助过球队的汽车经销商Vertu Motors接任新赞助商，负责2026-27赛季的球衣广告，此前购买旧版球衣的球迷则获得退款或免费更换队徽的选择。"
+      },
+      "fr": {
+        "title": "Burnley résilie son sponsor maillot après seulement 42 jours et signe avec Vertu Motors",
+        "summary": "Burnley a résilié son partenariat de sponsor principal de maillot avec la plateforme de trading Finotive seulement six semaines après sa signature, invoquant la nécessité de protéger les intérêts du club. Le concessionnaire automobile Vertu Motors, qui avait déjà sponsorisé le club lors de sa montée en 2022-23, devient le nouveau sponsor maillot pour la saison 2026-27, et les supporters ayant acheté des maillots à l'ancien logo se sont vu proposer un remboursement ou un changement de logo gratuit."
+      }
+    }
+  },
+  {
+    "id": "kraken-fifa-world-cup-2026-crypto-sponsor",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-06-09T00:00:00Z",
+    "source_name": "FIFA",
+    "source_url": "https://inside.fifa.com/tournament-organisation/commercial/media-releases/kraken-official-crypto-exchange-supporter-world-cup-2026",
+    "i18n": {
+      "en": {
+        "title": "FIFA Names Kraken as First-Ever Official Crypto Exchange Supporter of the World Cup",
+        "summary": "FIFA has signed cryptocurrency exchange Kraken as the Official Crypto Exchange Supporter of the 2026 World Cup, its first partnership of this kind for the tournament. The deal grants Kraken activation rights across North America and Europe ahead of the 48-team, three-nation event that kicks off in June, aiming to introduce crypto products to football's global fan base."
+      },
+      "ja": {
+        "title": "FIFA、クラークンを史上初の公式暗号資産取引所サポーターに指定",
+        "summary": "FIFAは暗号資産取引所クラークンを2026年ワールドカップの公式暗号資産取引所サポーターに指定したと発表した。同大会でこの種のスポンサー契約が結ばれるのは初めて。契約により同社は北米と欧州で活動権を得て、6月に開幕する48チーム・3カ国共催の大会を通じ、世界のサッカーファンに暗号資産関連サービスを広める狙いがある。"
+      },
+      "es": {
+        "title": "La FIFA nombra a Kraken primer patrocinador oficial de intercambio cripto del Mundial",
+        "summary": "La FIFA ha fichado al exchange de criptomonedas Kraken como Patrocinador Oficial de Intercambio de Criptomonedas del Mundial 2026, su primera asociación de este tipo para el torneo. El acuerdo otorga a Kraken derechos de activación en Norteamérica y Europa de cara al torneo de 48 selecciones organizado por tres países que arranca en junio, con el objetivo de acercar productos cripto a la afición futbolística mundial."
+      },
+      "zh": {
+        "title": "国际足联首次签约，Kraken成为世界杯官方加密货币交易所支持商",
+        "summary": "国际足联宣布加密货币交易所Kraken成为2026年世界杯官方加密货币交易所支持商，这是本届赛事首次达成此类合作。协议赋予Kraken在北美和欧洲的推广权益，助力这项由三国联合主办、共48支球队参赛、将于6月开幕的赛事向全球球迷推广加密资产产品。"
+      },
+      "fr": {
+        "title": "La FIFA désigne Kraken premier supporteur officiel échange crypto de la Coupe du Monde",
+        "summary": "La FIFA a signé un accord avec la plateforme d'échange de cryptomonnaies Kraken, désignée Supporteur Officiel Échange Crypto de la Coupe du Monde 2026, un premier partenariat de ce type pour le tournoi. L'accord donne à Kraken des droits d'activation en Amérique du Nord et en Europe avant ce tournoi à 48 équipes organisé par trois pays et qui débute en juin, dans le but de faire connaître des produits crypto aux supporters de football du monde entier."
+      }
+    }
+  },
+  {
+    "id": "intel-mclaren-f1-compute-partnership",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "tech"
+    ],
+    "published_at": "2026-05-16T00:00:00Z",
+    "source_name": "The Race",
+    "source_url": "https://www.the-race.com/formula-1/mclaren-brings-tech-giant-intel-back-to-f1-team-sponsorship/",
+    "i18n": {
+      "en": {
+        "title": "Intel Returns to Formula 1 as McLaren's Official Compute Partner",
+        "summary": "Intel is back in Formula 1 for the first time in nearly two decades, joining McLaren Racing as its official compute partner across the team's F1 and IndyCar programs. The chipmaker will supply Xeon and Core Ultra processors to support race-weekend data operations, with logos debuting on the cars of Lando Norris and Oscar Piastri at the Canadian Grand Prix."
+      },
+      "ja": {
+        "title": "インテル、約20年ぶりにF1復帰 マクラーレンの公式コンピューティングパートナーに",
+        "summary": "インテルは約20年ぶりにF1に復帰し、マクラーレン・レーシングのF1およびインディカー部門の公式コンピューティングパートナーに就任した。同社はXeonおよびCore Ultraプロセッサーを提供し、レースウィークエンドのデータ処理を支援する。ロゴはカナダグランプリからランド・ノリスとオスカー・ピアストリのマシンに掲出された。"
+      },
+      "es": {
+        "title": "Intel regresa a la Fórmula 1 como socio oficial de computación de McLaren",
+        "summary": "Intel regresa a la Fórmula 1 después de casi dos décadas al asociarse con McLaren Racing como su socio oficial de computación para sus programas de F1 e IndyCar. La compañía de semiconductores suministrará procesadores Xeon y Core Ultra para respaldar las operaciones de datos durante los fines de semana de carrera, y sus logotipos debutaron en los monoplazas de Lando Norris y Oscar Piastri en el Gran Premio de Canadá."
+      },
+      "zh": {
+        "title": "时隔近二十年，英特尔重返F1成为迈凯伦官方计算合作伙伴",
+        "summary": "时隔近二十年，英特尔重返一级方程式赛事，成为迈凯伦车队F1及IndyCar项目的官方计算合作伙伴。这家芯片制造商将提供至强和酷睿Ultra处理器，支持比赛周末的数据运算，其标识已在加拿大大奖赛上兰多·诺里斯和奥斯卡·皮亚斯特里的赛车上亮相。"
+      },
+      "fr": {
+        "title": "Intel fait son retour en F1 comme partenaire informatique officiel de McLaren",
+        "summary": "Intel fait son retour en Formule 1 après près de vingt ans d'absence en devenant le partenaire informatique officiel de McLaren Racing pour ses programmes F1 et IndyCar. Le fabricant de puces fournira des processeurs Xeon et Core Ultra pour soutenir le traitement des données lors des week-ends de course, ses logos ayant fait leurs débuts sur les monoplaces de Lando Norris et Oscar Piastri au Grand Prix du Canada."
+      }
+    }
+  },
+  {
+    "id": "eqt-atp-tour-platinum-partner",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-06-03T00:00:00Z",
+    "source_name": "SportBusiness",
+    "source_url": "https://www.sportbusiness.com/news/eqt-invests-in-atp-platinum-partner-deal/",
+    "i18n": {
+      "en": {
+        "title": "Investment Firm EQT Joins ATP Tour as Platinum Partner Through 2030",
+        "summary": "Private equity firm EQT has signed a global partnership with the ATP Tour, becoming a Platinum Partner alongside Lexus and Saudi Arabia's Public Investment Fund. The multi-year deal, running through 2030, gives EQT activation rights across ATP Masters 1000, 500 and 250 events as men's tennis continues attracting large-scale investment sponsorships."
+      },
+      "ja": {
+        "title": "投資会社EQT、2030年までATPツアーのプラチナパートナーに",
+        "summary": "投資会社EQTはATPツアーとグローバルパートナーシップ契約を締結し、レクサスおよびサウジアラビア公共投資基金（PIF）と並ぶプラチナパートナーとなった。2030年まで続く複数年契約により、EQTはATPマスターズ1000、500、250の各大会で活動権を得ることになり、男子テニス界への大規模な投資型スポンサーシップの流れを象徴する契約となった。"
+      },
+      "es": {
+        "title": "La firma de inversión EQT se convierte en Socio Platino del ATP Tour hasta 2030",
+        "summary": "La firma de inversión EQT ha firmado una asociación global con el ATP Tour, convirtiéndose en Socio Platino junto a Lexus y el Fondo de Inversión Pública de Arabia Saudita. El acuerdo plurianual, vigente hasta 2030, otorga a EQT derechos de activación en los torneos ATP Masters 1000, 500 y 250, reflejando la creciente atracción de grandes inversores hacia el tenis masculino."
+      },
+      "zh": {
+        "title": "投资公司EQT成为ATP巡回赛白金合作伙伴，协议至2030年",
+        "summary": "投资公司EQT与ATP巡回赛签订全球合作协议，成为继雷克萨斯和沙特公共投资基金之后的又一白金合作伙伴。这份持续到2030年的多年期协议赋予EQT在ATP大师赛、500赛和250赛事中的推广权益，凸显男子网球持续吸引大型投资类赞助的趋势。"
+      },
+      "fr": {
+        "title": "La société d'investissement EQT devient Partenaire Platine de l'ATP Tour jusqu'en 2030",
+        "summary": "La société d'investissement EQT a signé un partenariat mondial avec l'ATP Tour, devenant Partenaire Platine aux côtés de Lexus et du Fonds d'investissement public d'Arabie saoudite. Cet accord pluriannuel, valable jusqu'en 2030, donne à EQT des droits d'activation lors des tournois ATP Masters 1000, 500 et 250, illustrant l'attrait croissant des grands investisseurs pour le tennis masculin."
+      }
+    }
+  },
+  {
+    "id": "npb-nissan-home-run-derby-sponsor-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-07-13T00:00:00Z",
+    "source_name": "NPB.jp",
+    "source_url": "https://npb.jp/news/detail/20260713_04.html",
+    "i18n": {
+      "en": {
+        "title": "Nissan Named Title Sponsor of NPB's 2026 Home Run Derby",
+        "summary": "Nissan Motor was named the title sponsor of the Home Run Derby held during the 2026 Mynavi All-Star Series, branding the event around its Kicks model. The derby took place across two nights in Tokyo and Toyama, and Chunichi Dragons slugger Seiya Hosokawa won the title, edging Hanshin's Teruaki Sato in the final."
+      },
+      "ja": {
+        "title": "日産、2026年NPBホームランダービーの冠スポンサーに",
+        "summary": "日産自動車は2026年マイナビオールスターゲームの併催イベントであるホームランダービーの冠スポンサーに就任し、大会名は「新型日産キックス ホームランダービー」となった。大会は東京と富山の2会場で開催され、決勝で中日の細川成也が阪神の佐藤輝明を下して優勝を果たした。"
+      },
+      "es": {
+        "title": "Nissan, patrocinador principal del Home Run Derby 2026 de la NPB",
+        "summary": "Nissan Motor se convirtió en el patrocinador principal del Home Run Derby celebrado durante la Serie de Estrellas Mynavi 2026 de la NPB, vinculando el evento a su modelo Kicks. El derby se disputó en dos noches, en Tokio y Toyama, y el bateador de los Chunichi Dragons, Seiya Hosokawa, se coronó campeón al superar en la final a Teruaki Sato, de los Hanshin Tigers."
+      },
+      "zh": {
+        "title": "日产成为2026年NPB全垒打大赛冠名赞助商",
+        "summary": "日产汽车成为2026年NPB Mynavi全明星系列赛期间全垒打大赛的冠名赞助商，赛事以其Kicks车型命名。大赛分别在东京和富山举行两个夜场，中日龙队强打者细川成也在决赛中击败阪神虎队的佐藤辉明，夺得冠军。"
+      },
+      "fr": {
+        "title": "Nissan devient sponsor-titre du Home Run Derby 2026 de la NPB",
+        "summary": "Nissan Motor est devenu le sponsor-titre du Home Run Derby organisé dans le cadre de la Série des étoiles Mynavi 2026 de la NPB, l'événement étant associé à son modèle Kicks. Le derby s'est déroulé sur deux soirées, à Tokyo et à Toyama, et le cogneur des Chunichi Dragons, Seiya Hosokawa, a remporté le titre en battant en finale Teruaki Sato des Hanshin Tigers."
+      }
+    }
+  },
+  {
+    "id": "big12-monster-energy-jersey-patch-deal",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-07-08T00:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/article/big-12-monster-energy-20-million-partnership-jersey-patch-logo/",
+    "i18n": {
+      "en": {
+        "title": "Big 12 Becomes First Conference With League-Wide Jersey Patch in Monster Energy Deal",
+        "summary": "The Big 12 announced a multi-year partnership with Monster Energy worth roughly $20 million annually, making it the first U.S. college conference to place a single sponsor's patch on every team's football and basketball jerseys. The deal, unveiled at Big 12 Media Days, also adds co-branded field and court logos across all 16 member schools, each expected to receive about $1 million a year."
+      },
+      "ja": {
+        "title": "ビッグ12、モンスターエナジーと契約 全チーム共通のユニフォームパッチは大学スポーツ初",
+        "summary": "ビッグ12カンファレンスはモンスターエナジーと年間約2000万ドル規模の複数年契約を締結し、米大学スポーツのカンファレンスとして初めて全チームのフットボールとバスケットボールのユニフォームに単一スポンサーのパッチを掲出することになった。ビッグ12メディアデーで発表されたこの契約では、加盟16校のフィールドとコートにも共同ブランドロゴが導入され、各校には年間約100万ドルが配分される見込み。"
+      },
+      "es": {
+        "title": "La Big 12 es la primera conferencia con un parche de patrocinador para toda la liga con Monster Energy",
+        "summary": "La Big 12 anunció una asociación plurianual con Monster Energy valorada en unos 20 millones de dólares al año, convirtiéndose en la primera conferencia universitaria estadounidense en colocar el parche de un único patrocinador en las camisetas de fútbol americano y baloncesto de todos sus equipos. El acuerdo, presentado en los Big 12 Media Days, también añade logotipos conjuntos en los campos y canchas de las 16 escuelas miembro, cada una de las cuales recibirá cerca de un millón de dólares anuales."
+      },
+      "zh": {
+        "title": "Big 12与魔爪能量饮料达成协议，成为首个全联盟统一球衣队徽的大学联盟",
+        "summary": "Big 12大学体育联盟宣布与魔爪能量饮料达成一份年价值约2000万美元的多年期合作协议，成为美国首个在所有球队橄榄球和篮球球衣上统一印有单一赞助商队徽的大学联盟。该协议在Big 12媒体日上公布，还将在16所成员院校的球场和球馆增设联合品牌标识，每所院校预计每年可获得约100万美元。"
+      },
+      "fr": {
+        "title": "La Big 12 devient la première conférence avec un patch de sponsor unique grâce à Monster Energy",
+        "summary": "La conférence universitaire Big 12 a annoncé un partenariat pluriannuel avec Monster Energy d'une valeur d'environ 20 millions de dollars par an, devenant la première conférence universitaire américaine à apposer le patch d'un sponsor unique sur les maillots de football américain et de basketball de toutes ses équipes. L'accord, dévoilé lors des Big 12 Media Days, ajoute aussi des logos co-brandés sur les terrains et parquets des 16 établissements membres, chacun devant recevoir environ un million de dollars par an."
+      }
+    }
+  },
+  {
+    "id": "capital-one-arena-naming-rights-renewal-20-year",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-08-11T00:00:00Z",
+    "source_name": "The Stadium Business",
+    "source_url": "https://www.thestadiumbusiness.com/2026/08/11/capital-one-arena-naming-rights-renewed-in-20-year-deal/",
+    "i18n": {
+      "en": {
+        "title": "Capital One Renews Arena Naming Rights in Washington D.C. for 20 More Years",
+        "summary": "Capital One has agreed to a new 20-year naming rights extension for Capital One Arena, the downtown Washington D.C. venue shared by the NBA's Wizards and NHL's Capitals. The long-term renewal underscores how arena naming deals, now often valued in the hundreds of millions of dollars, remain a core revenue tool for multi-tenant venues undergoing renovation."
+      },
+      "ja": {
+        "title": "キャピタル・ワン、ワシントンD.C.アリーナの命名権を20年延長",
+        "summary": "キャピタル・ワンは、NBAウィザーズとNHLキャピタルズが本拠地とするワシントンD.C.のキャピタル・ワン・アリーナについて、命名権契約を新たに20年間延長することで合意した。アリーナの改修計画が進む中、数億ドル規模に達することも多いネーミングライツ契約が、複数チームが本拠地とするアリーナにとって引き続き重要な収益源であることを示す事例となった。"
+      },
+      "es": {
+        "title": "Capital One renueva por 20 años más los derechos de nombre de su arena en Washington D.C.",
+        "summary": "Capital One acordó una nueva extensión de 20 años para los derechos de nombre del Capital One Arena, el recinto del centro de Washington D.C. compartido por los Wizards de la NBA y los Capitals de la NHL. Esta renovación a largo plazo confirma que los acuerdos de naming, que hoy suelen valorarse en cientos de millones de dólares, siguen siendo una herramienta clave de ingresos para los recintos multiusuario en renovación."
+      },
+      "zh": {
+        "title": "Capital One将华盛顿球馆冠名权再续20年",
+        "summary": "Capital One银行同意将华盛顿特区市中心球馆Capital One Arena的冠名权协议再延长20年，该球馆是NBA奇才队与NHL首都人队的共同主场。这一长期续约表明，如今动辄价值数亿美元的球馆冠名协议，仍是正在翻新的多球队共用场馆的重要收入来源。"
+      },
+      "fr": {
+        "title": "Capital One renouvelle pour 20 ans les droits de dénomination de son arena à Washington D.C.",
+        "summary": "Capital One a conclu une nouvelle extension de 20 ans pour les droits de dénomination du Capital One Arena, la salle du centre-ville de Washington D.C. partagée par les Wizards de la NBA et les Capitals de la LNH. Ce renouvellement à long terme confirme que les accords de naming, souvent évalués aujourd'hui à plusieurs centaines de millions de dollars, restent un levier de revenus essentiel pour les salles multi-locataires en cours de rénovation."
+      }
+    }
+  },
+  {
+    "id": "kao-success-super-gt-series-sponsor-2026",
+    "sport": "motorsports",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-04-10T00:00:00Z",
+    "source_name": "Autosport Web",
+    "source_url": "https://www.as-web.jp/supergt/1307029",
+    "i18n": {
+      "en": {
+        "title": "Kao's Success Grooming Brand Becomes 2026 Super GT Series Sponsor",
+        "summary": "Japanese consumer goods maker Kao signed its men's grooming brand Success as a series sponsor of the 2026 Super GT season. Starting from the second round, cars carrying success-weight ballast will display specially designed Success-branded stickers, tying the sponsorship to the championship's weight-handicap system."
+      },
+      "ja": {
+        "title": "花王「サクセス」が2026年スーパーGTシリーズスポンサーに就任",
+        "summary": "花王は男性向けグルーミングブランド「サクセス」を2026年シーズンのスーパーGTシリーズスポンサーとして契約したと発表した。第2戦以降、サクセスウエイト（ハンディキャップ用の重り）を搭載する各マシンに専用デザインのサクセスロゴステッカーが掲出され、大会の重量ハンディキャップ制度とスポンサーシップを結び付けた企画となっている。"
+      },
+      "es": {
+        "title": "La marca de cuidado masculino Success de Kao, patrocinadora de la serie Super GT 2026",
+        "summary": "El fabricante japonés de bienes de consumo Kao fichó a su marca de cuidado masculino Success como patrocinador de serie de la temporada 2026 de Super GT. A partir de la segunda ronda, los autos que lleven el lastre de 'success weight' exhibirán calcomanías de diseño especial de la marca Success, vinculando el patrocinio al sistema de hándicap por peso del campeonato."
+      },
+      "zh": {
+        "title": "花王旗下SUCCESS品牌成为2026赛季SUPER GT系列赛赞助商",
+        "summary": "日本消费品制造商花王宣布旗下男士美容品牌SUCCESS成为2026赛季SUPER GT系列赛赞助商。从第二站比赛开始，搭载“胜利配重”（success weight）配重块的赛车将贴上专门设计的SUCCESS品牌贴纸，将赞助与该锦标赛的配重让位系统相结合。"
+      },
+      "fr": {
+        "title": "La marque de soins masculins Success de Kao devient sponsor de la série Super GT 2026",
+        "summary": "Le fabricant japonais de biens de consommation Kao a signé sa marque de soins pour hommes Success comme sponsor de série de la saison 2026 de Super GT. À partir de la deuxième manche, les voitures portant le lest de handicap dit « success weight » afficheront des autocollants Success au design spécial, liant ainsi le partenariat au système de handicap par le poids du championnat."
+      }
+    }
   }
 ]
