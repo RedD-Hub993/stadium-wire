@@ -1386,5 +1386,308 @@
         "summary": "Pacers Sports & Entertainment a lancé Fieldhouse Media Network, une plateforme publicitaire pilotée par l'IA développée avec Deloitte et Yieldmo, qui exploite les données authentifiées d'environ 250 millions de fans de sport et de divertissement dans le monde. Ce réseau permet aux sponsors de diffuser des publicités personnalisées aux fans sans recourir aux cookies, dans le but d'accroître la monétisation des partenariats."
       }
     }
+  },
+  {
+    "id": "leganes-885-capital-full-control",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-06-01T12:00:00Z",
+    "source_name": "CD Leganés",
+    "source_url": "https://www.cdleganes.com/en/official-statement-885-capital-majority-shareholder",
+    "i18n": {
+      "en": {
+        "title": "885 Capital Takes Full Control of Spain's CD Leganés",
+        "summary": "UAE-based investment firm 885 Capital has taken full control of Spanish second-division club CD Leganés, acquiring an additional 84.24% stake from Blue Crow Sports Group to reach 99.1% ownership. The deal, formalized June 1, values the club at roughly €100 million and installs Eduardo Cosín as the new club president."
+      },
+      "ja": {
+        "title": "885キャピタル、スペイン2部CDレガネスの経営権を完全掌握",
+        "summary": "アラブ首長国連邦を拠点とする投資会社885キャピタルが、スペイン2部CDレガネスの経営権を完全掌握した。ブルー・クロウ・スポーツ・グループから追加で84.24%の株式を取得し、保有比率を99.1%に引き上げた。6月1日に成立したこの契約はクラブ評価額を約1億ユーロとし、エドゥアルド・コシンが新会長に就任した。"
+      },
+      "es": {
+        "title": "885 Capital asume el control total del CD Leganés",
+        "summary": "La firma de inversión emiratí 885 Capital asumió el control total del club español de segunda división CD Leganés, adquiriendo un 84,24% adicional de Blue Crow Sports Group hasta alcanzar el 99,1% de propiedad. El acuerdo, formalizado el 1 de junio, valora al club en unos 100 millones de euros y nombra a Eduardo Cosín como nuevo presidente."
+      },
+      "zh": {
+        "title": "885 Capital完全掌控西班牙莱加内斯俱乐部",
+        "summary": "阿联酋投资公司885 Capital已完全掌控西甲乙级球队莱加内斯，从Blue Crow体育集团额外收购84.24%的股份，使其持股比例升至99.1%。该交易于6月1日正式完成，将俱乐部估值定为约1亿欧元，并任命爱德华多·科辛为新任主席。"
+      },
+      "fr": {
+        "title": "885 Capital prend le contrôle total du CD Leganés en Espagne",
+        "summary": "La société d'investissement émiratie 885 Capital a pris le contrôle total du club espagnol de deuxième division CD Leganés, en rachetant 84,24 % de parts supplémentaires auprès de Blue Crow Sports Group pour atteindre 99,1 % de propriété. L'accord, finalisé le 1er juin, valorise le club à environ 100 millions d'euros et installe Eduardo Cosín à la présidence."
+      }
+    }
+  },
+  {
+    "id": "botafogo-judicial-reorganization",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "biz",
+      "team"
+    ],
+    "published_at": "2026-05-19T12:00:00Z",
+    "source_name": "Inside World Football",
+    "source_url": "https://www.insideworldfootball.com/2026/05/19/botafogo-enters-judicial-reorganisation-as-textor-empire-crumbles/",
+    "i18n": {
+      "en": {
+        "title": "Botafogo Enters Judicial Reorganization as Textor's Eagle Group Crumbles",
+        "summary": "Brazilian club Botafogo has entered judicial reorganization, the Brazilian equivalent of bankruptcy protection, as its finances collapsed under majority owner John Textor's Eagle Football group. The club says more than 900 million reais ($179 million) was withdrawn from Botafogo to fund other Eagle operations and never returned, while the filing shields player contracts and broadcast revenue from creditor claims."
+      },
+      "ja": {
+        "title": "ボタフォゴ、テクスター氏のイーグル・グループ崩壊で司法再建へ",
+        "summary": "ブラジルの強豪ボタフォゴが司法再建（破産保護に相当する手続き）に入った。筆頭株主ジョン・テクスター氏が率いるイーグル・フットボール・グループの財務悪化が背景にある。クラブによれば9億レアル超（約1億7900万ドル）が他のイーグル関連事業に流用されたまま返還されておらず、今回の申請により選手契約や放映権収入が債権者からの差し押さえから保護される。"
+      },
+      "es": {
+        "title": "Botafogo entra en recuperación judicial tras el colapso del grupo Eagle de Textor",
+        "summary": "El club brasileño Botafogo entró en recuperación judicial, el equivalente brasileño a la protección por bancarrota, tras el colapso financiero provocado por el grupo Eagle Football de su propietario mayoritario, John Textor. El club afirma que se retiraron más de 900 millones de reales (179 millones de dólares) para financiar otras operaciones de Eagle sin ser devueltos, y la solicitud protege ahora los contratos de jugadores y los ingresos por derechos de televisión."
+      },
+      "zh": {
+        "title": "特克斯特鹰式集团崩溃，博塔弗戈进入司法重整",
+        "summary": "巴西博塔弗戈俱乐部已进入司法重整程序（相当于破产保护），原因是大股东约翰·特克斯特旗下鹰式足球集团的财务状况崩溃。俱乐部称超过9亿雷亚尔（约1.79亿美元）被抽调至鹰式集团其他业务且未归还，此次申请使球员合同和转播收入免受债权人追讨。"
+      },
+      "fr": {
+        "title": "Botafogo entre en redressement judiciaire face à l'effondrement du groupe Eagle de Textor",
+        "summary": "Le club brésilien Botafogo est entré en redressement judiciaire, l'équivalent brésilien de la protection contre la faillite, après l'effondrement financier provoqué par le groupe Eagle Football de son actionnaire majoritaire John Textor. Le club affirme que plus de 900 millions de reais (179 millions de dollars) ont été prélevés au profit d'autres activités d'Eagle sans être restitués, et la procédure protège désormais les contrats des joueurs et les revenus des droits télévisés."
+      }
+    }
+  },
+  {
+    "id": "premier-league-deloitte-948m-losses",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-07-08T09:00:00Z",
+    "source_name": "Deloitte",
+    "source_url": "https://www.deloitte.com/uk/en/services/consulting/research/annual-review-of-football-finance-premier-league-clubs.html",
+    "i18n": {
+      "en": {
+        "title": "Premier League Clubs' Pre-Tax Losses Surge to £948 Million, Deloitte Finds",
+        "summary": "Deloitte's Annual Review of Football Finance found that Premier League clubs' combined pre-tax losses jumped to £948 million ($1.3 billion) last season, up sharply from £135 million the year before. The report attributes the surge to heavier transfer spending and the absence of the one-off asset sale profits that had flattered prior results, even as combined revenue rose 8% to £6.8 billion."
+      },
+      "ja": {
+        "title": "プレミアリーグ、税引前損失が9億4800万ポンドに急増＝デロイト報告書",
+        "summary": "デロイトの「フットボール・ファイナンス年次報告書」によると、プレミアリーグ全クラブの税引前損失合計は前年の1億3500万ポンドから急増し、9億4800万ポンド（約13億ドル）に達した。同報告書は、移籍関連支出の増加と、前年の数字を押し上げていた資産売却益が今回はなかったことを要因として挙げる一方、合計収益は8%増の68億ポンドに達したとしている。"
+      },
+      "es": {
+        "title": "Las pérdidas antes de impuestos de la Premier League se disparan a 948 millones de libras, según Deloitte",
+        "summary": "El Annual Review of Football Finance de Deloitte reveló que las pérdidas conjuntas antes de impuestos de los clubes de la Premier League se dispararon a 948 millones de libras (1.300 millones de dólares) la temporada pasada, frente a los 135 millones del año anterior. El informe atribuye el aumento al mayor gasto en fichajes y a la ausencia de las ganancias puntuales por venta de activos que habían favorecido los resultados previos, mientras los ingresos conjuntos crecieron un 8% hasta 6.800 millones de libras."
+      },
+      "zh": {
+        "title": "德勤报告：英超税前亏损飙升至9.48亿英镑",
+        "summary": "德勤发布的《足球财务年度报告》显示，英超各俱乐部税前亏损总额从上一年度的1.35亿英镑飙升至9.48亿英镑（约13亿美元）。报告将这一激增归因于转会支出增加，以及此前推高业绩的一次性资产出售收益不再出现，尽管俱乐部总收入仍增长8%，达到68亿英镑。"
+      },
+      "fr": {
+        "title": "Les pertes avant impôts de la Premier League bondissent à 948 millions de livres, selon Deloitte",
+        "summary": "Le rapport annuel de Deloitte sur les finances du football révèle que les pertes avant impôts cumulées des clubs de Premier League ont bondi à 948 millions de livres (1,3 milliard de dollars) la saison dernière, contre 135 millions l'année précédente. Le rapport attribue cette hausse à des dépenses de transfert plus élevées et à l'absence des plus-values ponctuelles de cessions d'actifs qui avaient gonflé les résultats précédents, alors que les revenus cumulés ont progressé de 8 % pour atteindre 6,8 milliards de livres."
+      }
+    }
+  },
+  {
+    "id": "wnba-cleveland-detroit-expansion-valuation",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-04-09T12:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/leagues/basketball/2026/wnba-expansion-vote-ownership-valuation-cleveland-detroit-1234889257/",
+    "i18n": {
+      "en": {
+        "title": "WNBA's Cleveland, Detroit Expansion Teams Valued at $290M and $325M",
+        "summary": "The WNBA's incoming Cleveland and Detroit expansion franchises have raised capital at post-money valuations of $290 million and $325 million respectively, the league's board of governors confirmed. Both teams paid the league's record $250 million expansion fee and will begin play in 2028 and 2029, joining a Philadelphia franchise as the WNBA grows to 18 teams."
+      },
+      "ja": {
+        "title": "WNBA新規参入のクレブランド、デトロイトの評価額が判明",
+        "summary": "WNBA新規参入予定のクリーブランドとデトロイトの両フランチャイズは、投資後評価額でそれぞれ2億9000万ドル、3億2500万ドルの資金調達を行ったことがリーグ理事会により確認された。両球団はリーグ史上最高額となる2億5000万ドルの参入料を支払い、フィラデルフィアのフランチャイズと共にリーグを18チーム体制へと拡大しつつ、それぞれ2028年、2029年に開幕する。"
+      },
+      "es": {
+        "title": "Las franquicias de expansión de la WNBA en Cleveland y Detroit se valoran en 290 y 325 millones de dólares",
+        "summary": "Las futuras franquicias de expansión de la WNBA en Cleveland y Detroit recaudaron capital con valoraciones posteriores a la inversión de 290 y 325 millones de dólares respectivamente, según confirmó la junta de gobernadores de la liga. Ambos equipos pagaron la tarifa de expansión récord de 250 millones de dólares de la liga y comenzarán a jugar en 2028 y 2029, uniéndose a una franquicia de Filadelfia mientras la WNBA crece a 18 equipos."
+      },
+      "zh": {
+        "title": "WNBA克利夫兰、底特律扩军球队估值分别达2.9亿和3.25亿美元",
+        "summary": "WNBA理事会确认，即将加入联盟的克利夫兰和底特律扩军球队分别以2.9亿美元和3.25亿美元的投后估值完成融资。两队均支付了联盟创纪录的2.5亿美元扩军费，并将分别于2028年和2029年开始比赛，与费城球队一同使WNBA扩大至18支球队。"
+      },
+      "fr": {
+        "title": "Les franchises d'expansion de la WNBA à Cleveland et Detroit valorisées à 290 et 325 millions de dollars",
+        "summary": "Les futures franchises d'expansion de la WNBA à Cleveland et Detroit ont levé des fonds à des valorisations post-investissement de 290 et 325 millions de dollars respectivement, a confirmé le conseil des gouverneurs de la ligue. Les deux équipes ont payé les frais d'expansion record de 250 millions de dollars de la ligue et débuteront en 2028 et 2029, rejoignant une franchise de Philadelphie alors que la WNBA passe à 18 équipes."
+      }
+    }
+  },
+  {
+    "id": "nwsl-team-values-2026-angel-city",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "biz",
+      "team"
+    ],
+    "published_at": "2026-09-15T12:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/valuations/teams/2026/nwsl-team-values-2026-angel-city-1234886336/",
+    "i18n": {
+      "en": {
+        "title": "NWSL Valuations: Angel City Tops League as Average Value Jumps 77%",
+        "summary": "Sportico's 2026 NWSL valuations put Angel City FC atop the league at $335 million, up 34% from a year earlier, while the league-wide average climbed 77% to $184 million. Kansas City Current, Bay FC, San Diego Wave and Washington Spirit rounded out four more clubs now valued above $190 million."
+      },
+      "ja": {
+        "title": "NWSL評価額、エンジェルシティが首位に　平均は77%上昇",
+        "summary": "スポーティコによる2026年NWSL（全米女子サッカーリーグ）評価額調査で、エンジェルシティFCが3億3500万ドルでリーグ首位となり、前年比34%の上昇となった。リーグ平均評価額は77%増の1億8400万ドルに達し、カンザスシティ・カレント、ベイFC、サンディエゴ・ウェーブ、ワシントン・スピリットの4クラブも1億9000万ドルを超える評価となった。"
+      },
+      "es": {
+        "title": "Valoraciones de la NWSL: Angel City lidera la liga mientras el promedio sube un 77%",
+        "summary": "La valoración 2026 de la NWSL realizada por Sportico coloca a Angel City FC a la cabeza de la liga con 335 millones de dólares, un 34% más que el año anterior, mientras que el promedio de la liga subió un 77% hasta los 184 millones de dólares. Kansas City Current, Bay FC, San Diego Wave y Washington Spirit completan otros cuatro clubes ahora valorados por encima de los 190 millones de dólares."
+      },
+      "zh": {
+        "title": "NWSL估值：天使城居首，联盟平均估值大涨77%",
+        "summary": "Sportico发布的2026年美国女子职业足球大联盟（NWSL）估值报告显示，天使城FC以3.35亿美元估值高居联盟榜首，较上年增长34%；联盟平均估值则大涨77%，达到1.84亿美元。堪萨斯城现役、湾区FC、圣地亚哥波浪和华盛顿精神等四支球队的估值也均超过1.9亿美元。"
+      },
+      "fr": {
+        "title": "Valorisations NWSL : l'Angel City en tête, la moyenne de la ligue bondit de 77 %",
+        "summary": "Le classement 2026 de la NWSL établi par Sportico place l'Angel City FC en tête de la ligue avec 335 millions de dollars, en hausse de 34 % sur un an, tandis que la valorisation moyenne de la ligue a bondi de 77 % pour atteindre 184 millions de dollars. Kansas City Current, Bay FC, San Diego Wave et Washington Spirit complètent la liste de quatre autres clubs désormais valorisés à plus de 190 millions de dollars."
+      }
+    }
+  },
+  {
+    "id": "infront-hyrox-stake-sale-lcatterton",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "biz",
+      "team"
+    ],
+    "published_at": "2026-09-08T12:00:00Z",
+    "source_name": "SportsPro",
+    "source_url": "https://www.sportspro.com/announcements/spotlight-agency/consortium-led-by-l-catterton-in-partnership-with-hyrox-founders-acquires-infronts-majority-stake-in-hyrox/",
+    "i18n": {
+      "en": {
+        "title": "Infront Sells Majority Hyrox Stake to L Catterton-Led Group at €600M Valuation",
+        "summary": "Sports marketing agency Infront has sold its majority stake in fitness racing series Hyrox to a consortium led by private equity firm L Catterton, alongside Hyrox's co-founders and Jeffrey Katzenberg's WndrCo, in a deal reported to value the business around €600 million. Infront first invested in Hyrox in 2019 and became majority owner in 2022, a period in which the event series grew to more than 100 events and over 1.4 million participants worldwide."
+      },
+      "ja": {
+        "title": "インフロント、ハイロックスの過半数株式をLカタートン主導連合に売却",
+        "summary": "スポーツマーケティング会社インフロントは、フィットネスレース「ハイロックス」の過半数株式を、プライベートエクイティのLカタートンが主導するコンソーシアムに売却した。取引にはハイロックス創業者らやジェフリー・カッツェンバーグ率いるWndrCoも参加し、評価額は約6億ユーロと報じられている。インフロントは2019年に同社へ出資し2022年に過半数株主となったが、その間にイベント数は100を超え、参加者は世界で140万人以上に成長した。"
+      },
+      "es": {
+        "title": "Infront vende su participación mayoritaria en Hyrox a un grupo liderado por L Catterton por 600 millones de euros",
+        "summary": "La agencia de marketing deportivo Infront vendió su participación mayoritaria en la serie de fitness Hyrox a un consorcio liderado por la firma de capital privado L Catterton, junto con los cofundadores de Hyrox y WndrCo de Jeffrey Katzenberg, en un acuerdo que se estima valora al negocio en unos 600 millones de euros. Infront invirtió por primera vez en Hyrox en 2019 y se convirtió en propietario mayoritario en 2022, periodo en el que la serie de eventos creció hasta superar los 100 eventos y 1,4 millones de participantes en todo el mundo."
+      },
+      "zh": {
+        "title": "Infront将Hyrox多数股权出售给L Catterton牵头财团，估值6亿欧元",
+        "summary": "体育营销公司Infront已将其在健身竞赛赛事Hyrox中的多数股权出售给由私募股权公司L Catterton牵头的财团，参与方还包括Hyrox联合创始人及杰弗里·卡森伯格旗下的WndrCo，交易估值据报约为6亿欧元。Infront于2019年首次投资Hyrox，并于2022年成为多数股东，在此期间该赛事扩展至全球超过100场比赛、参与人数超过140万人。"
+      },
+      "fr": {
+        "title": "Infront cède sa participation majoritaire dans Hyrox à un groupe mené par L Catterton pour 600 millions d'euros",
+        "summary": "L'agence de marketing sportif Infront a cédé sa participation majoritaire dans la série de compétitions fitness Hyrox à un consortium mené par le fonds de private equity L Catterton, aux côtés des cofondateurs de Hyrox et de WndrCo de Jeffrey Katzenberg, dans un accord qui valoriserait l'entreprise à environ 600 millions d'euros. Infront avait investi dans Hyrox dès 2019 avant d'en devenir actionnaire majoritaire en 2022, période durant laquelle la série d'événements s'est étendue à plus de 100 événements et 1,4 million de participants dans le monde."
+      }
+    }
+  },
+  {
+    "id": "liverpool-turkish-airlines-shirt-sponsor",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-08T10:00:00Z",
+    "source_name": "Inside World Football",
+    "source_url": "https://www.insideworldfootball.com/2026/09/08/liverpool-sign-record-breaking-turkish-airlines-shirt-sponsorship-deal/",
+    "i18n": {
+      "en": {
+        "title": "Liverpool Signs Turkish Airlines as New Shirt Sponsor, Ending Standard Chartered Era",
+        "summary": "Liverpool FC has agreed a five-year front-of-shirt sponsorship with Turkish Airlines worth more than £300 million ($406 million), ending Standard Chartered's 17-year run as principal partner. Turkish Airlines' branding will appear on the men's, women's and academy shirts from the 2027-28 season, while Standard Chartered shifts to a global partner role through 2026-27."
+      },
+      "ja": {
+        "title": "リバプール、新ユニフォームスポンサーにトルコ航空　スタンチャート時代終幕",
+        "summary": "リバプールFCは、トルコ航空と5年間・3億ポンド（約4億600万ドル）超の胸スポンサー契約を締結し、17年間続いたスタンダードチャータードのメインパートナー契約に終止符を打った。トルコ航空のロゴは2027-28シーズンからトップチーム、女子チーム、アカデミーの各ユニフォームに掲出され、スタンダードチャータードは2026-27シーズンまでグローバルパートナーへ移行する。"
+      },
+      "es": {
+        "title": "Liverpool ficha a Turkish Airlines como nuevo patrocinador de camiseta, poniendo fin a la era de Standard Chartered",
+        "summary": "El Liverpool FC acordó un patrocinio de cinco años en el frente de la camiseta con Turkish Airlines por más de 300 millones de libras (406 millones de dólares), poniendo fin a los 17 años de Standard Chartered como socio principal. El logotipo de Turkish Airlines aparecerá en las camisetas masculina, femenina y de la academia a partir de la temporada 2027-28, mientras Standard Chartered pasa a ser socio global hasta 2026-27."
+      },
+      "zh": {
+        "title": "利物浦签约土耳其航空为新球衣赞助商，结束渣打时代",
+        "summary": "利物浦足球俱乐部与土耳其航空签订为期五年、价值超过3亿英镑（4.06亿美元）的球衣胸前赞助协议，结束了渣打银行长达17年的主赞助商身份。土耳其航空的品牌标识将从2027-28赛季起出现在男足、女足及青训队球衣上，渣打银行则在2026-27赛季转为全球合作伙伴。"
+      },
+      "fr": {
+        "title": "Liverpool signe avec Turkish Airlines comme nouveau sponsor maillot, la fin de l'ère Standard Chartered",
+        "summary": "Le Liverpool FC a conclu un partenariat de cinq ans avec Turkish Airlines pour le sponsoring du maillot, d'une valeur de plus de 300 millions de livres (406 millions de dollars), mettant fin aux 17 années de Standard Chartered en tant que partenaire principal. Le logo de Turkish Airlines figurera sur les maillots masculin, féminin et de l'académie dès la saison 2027-28, tandis que Standard Chartered devient partenaire mondial jusqu'en 2026-27."
+      }
+    }
+  },
+  {
+    "id": "sendai-89ers-updraft-sponsor-renewal",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-09-10T12:00:00Z",
+    "source_name": "PR TIMES",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000030.000109346.html",
+    "i18n": {
+      "en": {
+        "title": "Sendai 89ers Renew Top Sponsorship With Updraft for 2026-27 Season",
+        "summary": "B.League club Sendai 89ers renewed its top sponsorship with Miyagi-based company Updraft for the 2026-27 season, moving the sponsor's logo to the uniform shoulder and extending the tie-up to the club's popular \"MyPLAYER\" fan towel goods. Updraft has backed the 89ers since the 2020-21 season, when the club was still playing in the B2 division."
+      },
+      "ja": {
+        "title": "仙台89ERS、アップドラフトとのトップスポンサー契約を2026-27シーズンも更新",
+        "summary": "Bリーグの仙台89ERSは、宮城県の企業アップドラフトとのトップスポンサー契約を2026-27シーズンも更新し、ロゴ掲出位置をユニフォームの肩部分に移すとともに、人気グッズ「MyPLAYERタオル」への協賛にも契約を拡大した。アップドラフトは、クラブがB2に所属していた2020-21シーズンから89ERSを支援し続けている。"
+      },
+      "es": {
+        "title": "Sendai 89ers renueva su patrocinio principal con Updraft para la temporada 2026-27",
+        "summary": "El club de la B.League Sendai 89ers renovó su patrocinio principal con la empresa Updraft, con sede en Miyagi, para la temporada 2026-27, trasladando el logotipo del patrocinador al hombro de la camiseta y ampliando el acuerdo a la popular toalla de aficionados \"MyPLAYER\" del club. Updraft ha respaldado a los 89ers desde la temporada 2020-21, cuando el club aún jugaba en la división B2."
+      },
+      "zh": {
+        "title": "仙台89人队与Updraft续签2026-27赛季顶级赞助合同",
+        "summary": "B联赛球队仙台89人队与总部位于宫城县的Updraft公司续签2026-27赛季顶级赞助合同，将赞助商标识移至球衣肩部，并将合作范围扩展至球队人气周边商品“MyPLAYER毛巾”。自球队仍在B2级别征战的2020-21赛季起，Updraft便一直支持89人队。"
+      },
+      "fr": {
+        "title": "Les Sendai 89ers renouvellent leur partenariat principal avec Updraft pour la saison 2026-27",
+        "summary": "Le club de B.League Sendai 89ers a renouvelé son partenariat principal avec l'entreprise Updraft, basée dans la préfecture de Miyagi, pour la saison 2026-27, déplaçant le logo du sponsor sur l'épaule du maillot et étendant l'accord à la populaire serviette de supporters « MyPLAYER » du club. Updraft soutient les 89ers depuis la saison 2020-21, lorsque le club évoluait encore en division B2."
+      }
+    }
+  },
+  {
+    "id": "f1-dazn-iberia-broadcast-extension-2030",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-09-08T15:00:00Z",
+    "source_name": "Formula 1",
+    "source_url": "https://corp.formula1.com/formula-1-and-dazn-extend-broadcast-partnership-in-spain-andorra-and-portugal-through-2030/",
+    "i18n": {
+      "en": {
+        "title": "F1 and DAZN Extend Iberian Broadcast Deal Through 2030",
+        "summary": "Formula 1 and DAZN have extended their broadcast partnership covering Spain, Portugal and Andorra through the 2030 season, keeping every practice, qualifying, sprint and Grand Prix session on the streaming platform. The renewal was announced at DAZN's Madrid offices ahead of the sport's inaugural Madrid Grand Prix weekend."
+      },
+      "ja": {
+        "title": "F1とDAZN、イベリア半島での放映契約を2030年まで延長",
+        "summary": "フォーミュラ1とDAZNは、スペイン、ポルトガル、アンドラを対象とする放映契約を2030年シーズンまで延長し、全フリー走行・予選・スプリント・決勝をストリーミング配信で継続することで合意した。今回の延長契約は、F1初開催となるマドリードグランプリの開催週を前に、DAZNのマドリード本社で発表された。"
+      },
+      "es": {
+        "title": "F1 y DAZN extienden su acuerdo de retransmisión en Iberia hasta 2030",
+        "summary": "Formula 1 y DAZN extendieron su acuerdo de retransmisión para España, Portugal y Andorra hasta la temporada 2030, manteniendo en la plataforma de streaming todas las sesiones de práctica, clasificación, sprint y Gran Premio. La renovación se anunció en las oficinas de DAZN en Madrid antes del fin de semana del primer Gran Premio de Madrid."
+      },
+      "zh": {
+        "title": "F1与DAZN将伊比利亚半岛转播协议延长至2030年",
+        "summary": "F1一级方程式与DAZN已将覆盖西班牙、葡萄牙和安道尔的转播合作延长至2030赛季，届时所有自由练习、排位赛、冲刺赛和正赛仍将在该流媒体平台播出。此次续约在DAZN马德里办公室宣布，正值F1首届马德里大奖赛周末举办前夕。"
+      },
+      "fr": {
+        "title": "F1 et DAZN prolongent leur accord de diffusion en péninsule Ibérique jusqu'en 2030",
+        "summary": "Formula 1 et DAZN ont prolongé leur partenariat de diffusion couvrant l'Espagne, le Portugal et Andorre jusqu'à la saison 2030, conservant toutes les séances d'essais, qualifications, sprints et Grands Prix sur la plateforme de streaming. Ce renouvellement a été annoncé dans les bureaux madrilènes de DAZN, à la veille du week-end du tout premier Grand Prix de Madrid."
+      }
+    }
   }
 ]
