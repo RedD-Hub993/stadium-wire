@@ -3439,5 +3439,273 @@
         "summary": "Le fabricant japonais de biens de consommation Kao a signé sa marque de soins pour hommes Success comme sponsor de série de la saison 2026 de Super GT. À partir de la deuxième manche, les voitures portant le lest de handicap dit « success weight » afficheront des autocollants Success au design spécial, liant ainsi le partenariat au système de handicap par le poids du championnat."
       }
     }
+  },
+  {
+    "id": "allegiant-stadium-north-entrance-upgrade",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "biz"
+    ],
+    "published_at": "2026-09-02T00:00:00Z",
+    "source_name": "NFL.com",
+    "source_url": "https://www.nfl.com/news/las-vegas-stadium-authority-approves-75-million-upgrades-allegiant-stadium",
+    "i18n": {
+      "en": {
+        "title": "Las Vegas Approves $75M Toward Allegiant Stadium Entrance Upgrade",
+        "summary": "The Las Vegas Stadium Authority has approved $75 million in public funding toward a $158 million project to redesign the north entrance of Allegiant Stadium, home of the NFL's Raiders. The Raiders will cover the remaining cost, with construction slated to begin after this season and wrap up by late 2028, ahead of the venue hosting a future Super Bowl."
+      },
+      "ja": {
+        "title": "ラスベガス、アレジアント・スタジアム入口改修に7500万ドルの公的資金拠出を承認",
+        "summary": "ラスベガス・スタジアム機構は、NFLレイダースの本拠地アレジアント・スタジアムの北側入口を改修する総額1億5800万ドルのプロジェクトに対し、7500万ドルの公的資金拠出を承認した。残りの費用はレイダースが負担し、工事は今シーズン終了後に開始され、同スタジアムでの将来のスーパーボウル開催を控えた2028年末までの完成を目指す。"
+      },
+      "es": {
+        "title": "Las Vegas aprueba 75 millones de dólares para la remodelación de la entrada del Allegiant Stadium",
+        "summary": "La Autoridad del Estadio de Las Vegas aprobó 75 millones de dólares en fondos públicos para un proyecto de 158 millones destinado a rediseñar la entrada norte del Allegiant Stadium, sede de los Raiders de la NFL. Los Raiders cubrirán el resto del costo, con obras previstas para comenzar tras esta temporada y concluir a finales de 2028, antes de que el estadio albergue un futuro Super Bowl."
+      },
+      "zh": {
+        "title": "拉斯维加斯批准7500万美元用于阿利吉恩特体育场入口改造",
+        "summary": "拉斯维加斯体育场管理局批准拨款7500万美元公共资金，用于阿利吉恩特体育场（NFL突袭者队主场）北入口的改造项目，该项目总投资达1.58亿美元。突袭者队将承担剩余费用，工程预计在本赛季结束后动工，并在2028年底前完工，以迎接该体育场未来举办的超级碗。"
+      },
+      "fr": {
+        "title": "Las Vegas approuve 75 millions de dollars pour la rénovation de l'entrée de l'Allegiant Stadium",
+        "summary": "L'autorité du stade de Las Vegas a approuvé 75 millions de dollars de fonds publics pour un projet de 158 millions visant à repenser l'entrée nord de l'Allegiant Stadium, domicile des Raiders en NFL. Les Raiders financeront le reste des travaux, dont le début est prévu après la saison actuelle pour une livraison fin 2028, avant que le stade n'accueille un futur Super Bowl."
+      }
+    }
+  },
+  {
+    "id": "venezia-stadium-construction-progress",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "stadium"
+    ],
+    "published_at": "2026-09-04T00:00:00Z",
+    "source_name": "Stadium Tech Report",
+    "source_url": "https://stadiumtechreport.com/news/top-stories-from-week-ending-9-4-26/",
+    "i18n": {
+      "en": {
+        "title": "Venezia's New Stadium Construction Advances in Tessera",
+        "summary": "Construction of Venezia FC's new stadium in Tessera, near Venice, continues to progress, with structural work on the seating bowl now complete and terracing installation underway. The venue remains on track to open in 2027, giving the club a modern home to replace its historic island stadium."
+      },
+      "ja": {
+        "title": "ヴェネツィアの新スタジアム、テッセラで建設進む",
+        "summary": "ヴェネツィアFCがヴェネツィア近郊テッセラに建設中の新スタジアムで工事が着実に進んでいる。観客席ボウルの構造工事は完了し、現在は階段状の座席部分の設置が進行中だ。開業予定は2027年で維持されており、歴史ある島の本拠地に代わる近代的なスタジアムとなる見込みだ。"
+      },
+      "es": {
+        "title": "Avanza la construcción del nuevo estadio del Venezia en Tessera",
+        "summary": "La construcción del nuevo estadio del Venezia FC en Tessera, cerca de Venecia, sigue avanzando: la estructura del graderío ya está terminada y se está instalando el terraplenado. El recinto mantiene su fecha prevista de apertura en 2027 y sustituirá al histórico estadio del club en la isla."
+      },
+      "zh": {
+        "title": "威尼斯FC新球场在特塞拉建设持续推进",
+        "summary": "威尼斯FC位于威尼斯附近特塞拉的新球场建设持续推进，看台碗形结构已完工，阶梯座席安装工作正在进行。该球场预计仍将于2027年建成启用，届时将取代俱乐部历史悠久的岛上主场。"
+      },
+      "fr": {
+        "title": "Le nouveau stade du Venezia avance à Tessera",
+        "summary": "La construction du nouveau stade du Venezia FC à Tessera, près de Venise, continue d'avancer : la structure des gradins est désormais achevée et l'installation des gradins en escalier est en cours. L'ouverture est toujours prévue pour 2027, offrant au club une enceinte moderne en remplacement de son stade historique sur l'île."
+      }
+    }
+  },
+  {
+    "id": "premier-league-efl-1-8bn-new-deal",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-09-21T00:00:00Z",
+    "source_name": "Insider Sport",
+    "source_url": "https://insidersport.com/2026/09/21/premier-league-efl-new-deal-for-footba/",
+    "i18n": {
+      "en": {
+        "title": "Premier League Raises EFL Funding Offer to £1.8 Billion",
+        "summary": "The Premier League has tabled an improved £1.8 billion package to the English Football League, up from an earlier £1.5 billion proposal, as part of a long-delayed financial settlement between the divisions. The offer includes a £20 million 'lifeboat fund' for clubs entering administration and requires a share of solidarity payments to be spent on infrastructure."
+      },
+      "ja": {
+        "title": "プレミアリーグ、EFLへの資金支援案を18億ポンドに引き上げ",
+        "summary": "プレミアリーグは、イングランド・フットボールリーグ（EFL）に対する資金支援案を、従来提示していた15億ポンドから18億ポンドへ引き上げた。両リーグ間で長らく続いていた財政協定交渉の一環で、経営破綻したクラブを支援する2000万ポンドの「救済基金」も盛り込まれ、連帯金の一部をインフラ整備に充てることを義務付けている。"
+      },
+      "es": {
+        "title": "La Premier League eleva su oferta de financiación a la EFL a 1.800 millones de libras",
+        "summary": "La Premier League ha presentado una oferta mejorada de 1.800 millones de libras a la English Football League, frente a la propuesta anterior de 1.500 millones, como parte de un acuerdo financiero largamente postergado entre las divisiones. La oferta incluye un 'fondo de salvamento' de 20 millones de libras para clubes en administración judicial y exige que parte de los pagos de solidaridad se destine a infraestructura."
+      },
+      "zh": {
+        "title": "英超将向EFL提出的资助方案提高至18亿英镑",
+        "summary": "英超联赛已将向英格兰足球联赛（EFL）提出的资金方案从此前的15亿英镑提高至18亿英镑，这是两级联赛间长期悬而未决的财务协议的一部分。该方案包含一项2000万英镑的“救生艇基金”，用于救助进入破产管理程序的俱乐部，并要求部分团结金用于基础设施建设。"
+      },
+      "fr": {
+        "title": "La Premier League porte son offre de financement à l'EFL à 1,8 milliard de livres",
+        "summary": "La Premier League a revu à la hausse son offre de financement à l'English Football League, la portant à 1,8 milliard de livres contre 1,5 milliard proposé précédemment, dans le cadre d'un accord financier attendu depuis longtemps entre les divisions. L'offre comprend un « fonds de sauvetage » de 20 millions de livres pour les clubs placés sous administration judiciaire et impose qu'une part des paiements de solidarité soit consacrée aux infrastructures."
+      }
+    }
+  },
+  {
+    "id": "npb-hanshin-taiwan-day-koshien",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "fan"
+    ],
+    "published_at": "2026-09-07T00:00:00Z",
+    "source_name": "PR TIMES",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000003713.000005180.html",
+    "i18n": {
+      "en": {
+        "title": "Hanshin Tigers to Host Taiwan Day at Koshien Stadium",
+        "summary": "Hanshin Electric Railway and the Hanshin Tigers will hold a 'Taiwan Day' promotion during the team's September 30 game against the Tokyo Yakult Swallows at Koshien Stadium. The event, running since 2016, will feature Taiwanese cheerleaders performing alongside the Tigers Girls and food and tourism booths promoting Taiwan."
+      },
+      "ja": {
+        "title": "阪神タイガース、甲子園球場で「台湾デー」開催へ",
+        "summary": "阪神電気鉄道と阪神タイガースは、9月30日の東京ヤクルトスワローズ戦（甲子園球場）に合わせて「台湾デー」を開催する。2016年から続くこの催しでは、台湾のチアガールがタイガースガールズと共演するほか、台湾の食や観光をPRするブースも設けられる。"
+      },
+      "es": {
+        "title": "Los Hanshin Tigers celebrarán el 'Taiwan Day' en el estadio Koshien",
+        "summary": "Hanshin Electric Railway y los Hanshin Tigers celebrarán una jornada especial 'Taiwan Day' durante el partido del 30 de septiembre ante los Tokyo Yakult Swallows en el estadio Koshien. El evento, que se realiza desde 2016, incluirá actuaciones de animadoras taiwanesas junto a las Tigers Girls, además de puestos de comida y turismo que promocionan Taiwán."
+      },
+      "zh": {
+        "title": "阪神虎队将在甲子园球场举办“台湾日”活动",
+        "summary": "阪神电气铁道与阪神虎队将在9月30日对阵东京养乐多燕子队的甲子园球场比赛中举办“台湾日”活动。该活动自2016年起延续至今，届时台湾啦啦队将与阪神虎女孩同台表演，现场还将设有推广台湾美食与旅游的展位。"
+      },
+      "fr": {
+        "title": "Les Hanshin Tigers organiseront une « journée Taïwan » au stade Koshien",
+        "summary": "La compagnie Hanshin Electric Railway et les Hanshin Tigers organiseront une journée « Taïwan Day » lors du match du 30 septembre contre les Tokyo Yakult Swallows au stade Koshien. Cet événement, organisé depuis 2016, verra des pom-pom girls taïwanaises se produire aux côtés des Tigers Girls, avec des stands de gastronomie et de tourisme mettant Taïwan à l'honneur."
+      }
+    }
+  },
+  {
+    "id": "liqui-moly-f1-partnership-extension",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-24T00:00:00Z",
+    "source_name": "Autosphere",
+    "source_url": "https://autosphere.ca/mechanical/2026/09/24/liqui-moly-extends-formula-1-partnership/",
+    "i18n": {
+      "en": {
+        "title": "Formula 1 Extends Official Supporter Deal With LIQUI MOLY",
+        "summary": "Formula 1 has signed a multi-year extension with German lubricant maker LIQUI MOLY, continuing its status as an Official Supporter of the sport. The renewed deal, building on a relationship dating to 2019, keeps the brand's trackside and virtual signage visible at select Grand Prix weekends while expanding its commercial engagement opportunities."
+      },
+      "ja": {
+        "title": "F1、リキモリとのオフィシャルサポーター契約を延長",
+        "summary": "F1は、ドイツの潤滑油メーカー、リキモリとの複数年にわたる契約延長に合意し、同ブランドの「オフィシャルサポーター」としての地位を継続することになった。2019年からの関係を土台とする今回の更新契約により、リキモリのトラックサイド広告やバーチャル広告表示を特定のグランプリ週末で継続しつつ、商業的な活用機会も拡大する。"
+      },
+      "es": {
+        "title": "La Fórmula 1 extiende su acuerdo de Patrocinador Oficial con LIQUI MOLY",
+        "summary": "La Fórmula 1 ha firmado una extensión plurianual con el fabricante alemán de lubricantes LIQUI MOLY, manteniendo su estatus de Patrocinador Oficial del deporte. El acuerdo renovado, que se apoya en una relación que se remonta a 2019, conserva la presencia de la marca en la pista y en publicidad virtual durante determinados fines de semana de Gran Premio, además de ampliar sus oportunidades comerciales."
+      },
+      "zh": {
+        "title": "F1与力魔续签官方支持商协议",
+        "summary": "F1与德国润滑油制造商力魔（LIQUI MOLY）签署了多年期续约协议，继续保持其“官方支持商”身份。此次续约建立在双方自2019年以来的合作关系之上，将在部分大奖赛周末保留该品牌的赛道边及虚拟广告展示，同时拓展其商业合作空间。"
+      },
+      "fr": {
+        "title": "La F1 prolonge son accord de fournisseur officiel avec LIQUI MOLY",
+        "summary": "La Formule 1 a signé une prolongation pluriannuelle avec le fabricant allemand de lubrifiants LIQUI MOLY, qui conserve son statut de fournisseur officiel de la discipline. Cet accord renouvelé, qui s'appuie sur un partenariat remontant à 2019, maintient la présence de la marque en bord de piste et en habillage virtuel lors de certains week-ends de Grand Prix, tout en élargissant ses opportunités commerciales."
+      }
+    }
+  },
+  {
+    "id": "ohio-state-chase-jersey-patch",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-07-28T00:00:00Z",
+    "source_name": "Ohio State Buckeyes",
+    "source_url": "https://ohiostatebuckeyes.com/news/2026/7/28/general-ohio-state-athletics-and-jpmorganchase-announce-landmark-partnership",
+    "i18n": {
+      "en": {
+        "title": "Ohio State Signs Record Jersey Patch Deal With JPMorgan Chase",
+        "summary": "Ohio State Athletics has agreed to a landmark multiyear sponsorship with JPMorgan Chase that will place the bank's logo on jerseys across all 36 of the university's varsity sports programs. The deal, reportedly worth more than $15 million a year, is among the largest jersey patch agreements struck since the NCAA began allowing sponsor patches on uniforms in 2026."
+      },
+      "ja": {
+        "title": "オハイオ州立大学、JPモルガン・チェースと過去最大級のユニフォーム広告契約",
+        "summary": "オハイオ州立大学アスレチックスは、JPモルガン・チェースと画期的な複数年スポンサー契約を締結し、大学が持つ36の体育会系全種目のユニフォームに同行のロゴを掲出することになった。契約額は年間1500万ドル超と報じられており、NCAAが2026年にユニフォームへのスポンサーパッチ掲出を解禁して以降、最大級の契約の一つとなる。"
+      },
+      "es": {
+        "title": "Ohio State firma un histórico acuerdo de parche en camiseta con JPMorgan Chase",
+        "summary": "Ohio State Athletics ha cerrado un histórico patrocinio plurianual con JPMorgan Chase que colocará el logotipo del banco en las camisetas de sus 36 programas deportivos universitarios. Se estima que el acuerdo supera los 15 millones de dólares anuales, situándose entre los mayores contratos de parche en camiseta desde que la NCAA autorizó estos patrocinios en las equipaciones en 2026."
+      },
+      "zh": {
+        "title": "俄亥俄州立大学与摩根大通签署创纪录球衣广告协议",
+        "summary": "俄亥俄州立大学体育部与摩根大通（JPMorgan Chase）达成了一项具有里程碑意义的多年期赞助协议，该银行的标志将出现在该校全部36支校队运动项目的球衣上。据报道，该协议价值每年超过1500万美元，是自NCAA于2026年允许球衣佩戴赞助商标识以来规模最大的球衣广告合约之一。"
+      },
+      "fr": {
+        "title": "Ohio State signe un accord record de sponsor sur maillot avec JPMorgan Chase",
+        "summary": "Ohio State Athletics a conclu un partenariat pluriannuel historique avec JPMorgan Chase, qui verra le logo de la banque apparaître sur les maillots des 36 programmes sportifs universitaires de l'établissement. Cet accord, estimé à plus de 15 millions de dollars par an, figure parmi les plus importants contrats de sponsor sur maillot depuis que la NCAA a autorisé ces patchs en 2026."
+      }
+    }
+  },
+  {
+    "id": "progressive-insurance-college-football-13-schools",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-08-19T00:00:00Z",
+    "source_name": "Insurance Journal",
+    "source_url": "https://www.insurancejournal.com/news/national/2026/08/20/882178.htm",
+    "i18n": {
+      "en": {
+        "title": "Progressive Insurance Adds Field Branding at 13 College Football Programs",
+        "summary": "Progressive Insurance has expanded its college football presence by placing its logo on the field at 13 schools, including Oregon, Georgia, USC and Purdue, for the 2026 season. The Learfield-brokered deal also includes video board content and social media promotion, reflecting the growing wave of corporate branding on college campuses since NCAA rule changes."
+      },
+      "ja": {
+        "title": "保険大手プログレッシブ、大学フットボール13校のフィールドに広告展開",
+        "summary": "保険会社プログレッシブは、2026年シーズンに向けてオレゴン大、ジョージア大、南カリフォルニア大、パデュー大など13校のフィールドに自社ロゴを掲出する取り組みを開始し、大学フットボールでの存在感を拡大した。リアフィールドが仲介したこの契約には、ビジョンボードでのコンテンツ配信やSNSでのプロモーションも含まれており、NCAAの規則改正以降に広がる大学キャンパスでの企業ブランディングの潮流を象徴している。"
+      },
+      "es": {
+        "title": "Progressive Insurance añade publicidad en el terreno de juego de 13 programas de fútbol universitario",
+        "summary": "Progressive Insurance ha ampliado su presencia en el fútbol americano universitario al colocar su logotipo en el campo de 13 universidades, entre ellas Oregon, Georgia, USC y Purdue, de cara a la temporada 2026. El acuerdo, gestionado por Learfield, incluye además contenido en las pantallas gigantes y promoción en redes sociales, reflejo del creciente branding corporativo en los campus universitarios tras los cambios normativos de la NCAA."
+      },
+      "zh": {
+        "title": "保险公司Progressive在13所大学橄榄球球场投放广告",
+        "summary": "保险公司Progressive通过在包括俄勒冈大学、佐治亚大学、南加州大学和普渡大学在内的13所高校球场上展示其标志，扩大了在大学橄榄球领域的品牌曝光，该合作将持续到2026赛季。这项由Learfield牵线促成的协议还包括大屏幕广告内容和社交媒体推广，体现出NCAA规则调整以来大学校园企业品牌营销日益增长的趋势。"
+      },
+      "fr": {
+        "title": "Progressive Insurance s'affiche sur le terrain de 13 programmes de football universitaire",
+        "summary": "Progressive Insurance a étendu sa présence dans le football universitaire américain en apposant son logo sur le terrain de 13 établissements, dont Oregon, Georgia, USC et Purdue, pour la saison 2026. Cet accord négocié par Learfield comprend également du contenu sur écrans géants et une promotion sur les réseaux sociaux, illustrant la vague croissante de marketing d'entreprise sur les campus depuis les récents changements de règles de la NCAA."
+      }
+    }
+  },
+  {
+    "id": "wnba-aws-multiyear-partnership",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "tech",
+      "fan"
+    ],
+    "published_at": "2026-05-07T00:00:00Z",
+    "source_name": "WNBA.com",
+    "source_url": "https://www.wnba.com/news/wnba-aws-multiyear-partnership",
+    "i18n": {
+      "en": {
+        "title": "WNBA and AWS Launch Multiyear Analytics and Fan Engagement Partnership",
+        "summary": "The WNBA has named Amazon Web Services its Official Cloud and Cloud AI Partner in a multiyear deal centered on a new advanced-stats platform, 'Inside the Game Powered by AWS.' The tool converts real-time player tracking data into fan-friendly insights across the WNBA app, website and live broadcasts, marking AWS's first partnership with a women's pro sports league."
+      },
+      "ja": {
+        "title": "WNBAとAWS、複数年にわたる分析・ファンエンゲージメント提携を開始",
+        "summary": "WNBAは、アマゾン・ウェブ・サービス（AWS）を「公式クラウド＆クラウドAIパートナー」に指定する複数年契約を締結した。新たな高度統計プラットフォーム「Inside the Game Powered by AWS」を中核とするこの提携により、リアルタイムの選手トラッキングデータがWNBAアプリや公式サイト、生中継を通じてファン向けの分かりやすい情報に変換される。AWSにとって女子プロスポーツリーグとの提携は初となる。"
+      },
+      "es": {
+        "title": "La WNBA y AWS lanzan una alianza plurianual de analítica y compromiso con los aficionados",
+        "summary": "La WNBA ha nombrado a Amazon Web Services su Socio Oficial de Nube e IA en la Nube mediante un acuerdo plurianual centrado en una nueva plataforma de estadísticas avanzadas, 'Inside the Game Powered by AWS'. La herramienta convierte los datos de seguimiento de jugadoras en tiempo real en información accesible para los aficionados a través de la app, el sitio web y las transmisiones en vivo de la WNBA, marcando la primera alianza de AWS con una liga profesional femenina."
+      },
+      "zh": {
+        "title": "WNBA与AWS启动多年期数据分析与球迷互动合作",
+        "summary": "WNBA已与亚马逊云科技（AWS）达成多年期合作协议，任命其为联盟“官方云与云端AI合作伙伴”，合作核心是全新高级数据统计平台“Inside the Game Powered by AWS”。该工具可将实时球员追踪数据转化为便于球迷理解的信息，覆盖WNBA应用程序、官网及现场转播，这也是AWS首次与女子职业体育联盟达成合作。"
+      },
+      "fr": {
+        "title": "La WNBA et AWS lancent un partenariat pluriannuel autour de l'analyse de données et de l'engagement des fans",
+        "summary": "La WNBA a désigné Amazon Web Services comme son partenaire officiel du cloud et de l'IA cloud dans le cadre d'un accord pluriannuel axé sur une nouvelle plateforme de statistiques avancées, « Inside the Game Powered by AWS ». Cet outil transforme les données de suivi des joueuses en temps réel en informations accessibles aux fans via l'application, le site et les diffusions en direct de la WNBA, marquant le premier partenariat d'AWS avec une ligue sportive professionnelle féminine."
+      }
+    }
   }
 ]
