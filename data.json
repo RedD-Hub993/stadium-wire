@@ -1689,5 +1689,305 @@
         "summary": "Formula 1 et DAZN ont prolongé leur partenariat de diffusion couvrant l'Espagne, le Portugal et Andorre jusqu'à la saison 2030, conservant toutes les séances d'essais, qualifications, sprints et Grands Prix sur la plateforme de streaming. Ce renouvellement a été annoncé dans les bureaux madrilènes de DAZN, à la veille du week-end du tout premier Grand Prix de Madrid."
       }
     }
+  },
+  {
+    "id": "twins-minority-stake-sale-1-75b",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2025-12-01T00:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/twins-new-investments-value-club-at-1-75-billion/",
+    "i18n": {
+      "en": {
+        "title": "Twins Bring In New Minority Investors at $1.75 Billion Valuation",
+        "summary": "The Pohlad family has sold more than 20% of the Minnesota Twins to a group of new limited partners, including Minnesota Wild owner Craig Leipold, at a valuation of roughly $1.75 billion. The capital injection helps clear a large chunk of the club's outstanding debt while the Pohlads retain full control of day-to-day operations."
+      },
+      "ja": {
+        "title": "ツインズ、新たな少数株主を迎え球団価値17.5億ドルに",
+        "summary": "ポーラード家はミネソタ・ツインズの株式の20％超を、ミネソタ・ワイルドのオーナーであるクレイグ・レイポルド氏を含む新たな有限責任パートナー数名に売却し、球団価値は約17.5億ドルと評価された。今回の資金調達により球団の債務の大部分が解消される一方、経営権はポーラード家が引き続き保持する。"
+      },
+      "es": {
+        "title": "Twins suman nuevos inversores minoritarios con valoración de 1750 millones de dólares",
+        "summary": "La familia Pohlad vendió más del 20% de los Minnesota Twins a un grupo de nuevos socios limitados, entre ellos el propietario de los Minnesota Wild, Craig Leipold, con una valoración cercana a los 1750 millones de dólares. La inyección de capital ayuda a saldar buena parte de la deuda del club, mientras los Pohlad conservan el control total de las operaciones diarias."
+      },
+      "zh": {
+        "title": "双城队引入新少数股东 估值达17.5亿美元",
+        "summary": "波拉德家族将明尼苏达双城队超过20%的股份出售给一批新的有限合伙人，其中包括明尼苏达狂野队老板克雷格·莱波尔德，球队估值约为17.5亿美元。此次注资帮助偿还了球队的大部分债务，而波拉德家族仍将保留日常运营的全部控制权。"
+      },
+      "fr": {
+        "title": "Les Twins accueillent de nouveaux investisseurs minoritaires, valorisation à 1,75 milliard de dollars",
+        "summary": "La famille Pohlad a cédé plus de 20 % des Twins du Minnesota à un groupe de nouveaux commanditaires, dont le propriétaire des Wild du Minnesota, Craig Leipold, pour une valorisation d'environ 1,75 milliard de dollars. Cet apport de capital permet d'éponger une grande partie de la dette du club, la famille Pohlad conservant le contrôle total des opérations quotidiennes."
+      }
+    }
+  },
+  {
+    "id": "pirelli-f1-tyre-extension-2028",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-06-15T00:00:00Z",
+    "source_name": "Formula1.com",
+    "source_url": "https://corp.formula1.com/formula-1-and-fia-announce-extension-of-pirellis-global-tyre-partnership-through-2028/",
+    "i18n": {
+      "en": {
+        "title": "F1 and FIA Extend Pirelli's Tyre Supply Deal Through 2028",
+        "summary": "Formula 1 and the FIA have confirmed that Pirelli triggered an option to extend its exclusive tyre supply contract by one more season, keeping the Italian manufacturer as sole tyre provider for F1, F2, F3 and F1 Academy through 2028. The extension stretches Pirelli's current unbroken run as F1's supplier to an 18-year span."
+      },
+      "ja": {
+        "title": "F1とFIA、ピレリのタイヤ供給契約を2028年まで延長",
+        "summary": "F1とFIAは、ピレリがオプション条項を行使し、独占タイヤ供給契約をさらに1シーズン延長したと発表した。これによりイタリアのタイヤメーカーはF1、F2、F3、F1アカデミーの単独供給元として2028年まで契約を継続する。今回の延長でピレリのF1における連続供給期間は18年に達する。"
+      },
+      "es": {
+        "title": "F1 y la FIA amplían el contrato de neumáticos de Pirelli hasta 2028",
+        "summary": "La Fórmula 1 y la FIA confirmaron que Pirelli activó una opción para extender un año más su contrato exclusivo de suministro de neumáticos, manteniéndose como proveedor único para F1, F2, F3 y F1 Academy hasta 2028. Con esta ampliación, la racha ininterrumpida de Pirelli como proveedor de la F1 llega a 18 años."
+      },
+      "zh": {
+        "title": "F1与国际汽联将倍耐力轮胎供应协议延长至2028年",
+        "summary": "F1与国际汽联确认，倍耐力已行使选择权，将其独家轮胎供应合同再延长一个赛季，使这家意大利轮胎制造商继续担任F1、F2、F3及F1学院的唯一供应商，合同期至2028年。此次延长使倍耐力在F1的连续供应年限达到18年。"
+      },
+      "fr": {
+        "title": "F1 et la FIA prolongent l'accord de fourniture de pneus Pirelli jusqu'en 2028",
+        "summary": "La Formule 1 et la FIA ont confirmé que Pirelli a activé une option pour prolonger d'une saison supplémentaire son contrat exclusif de fourniture de pneus, restant l'unique fournisseur de la F1, de la F2, de la F3 et de la F1 Academy jusqu'en 2028. Cette prolongation porte à 18 ans la série ininterrompue de Pirelli comme fournisseur de la F1."
+      }
+    }
+  },
+  {
+    "id": "bleague-resona-title-partner-2026-27",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-02-17T00:00:00Z",
+    "source_name": "Basketball King",
+    "source_url": "https://basketballking.jp/news/japan/20260217/596450.html",
+    "i18n": {
+      "en": {
+        "title": "Resona Group to Continue as B.LEAGUE Title Partner for 2026-27 Season",
+        "summary": "B.LEAGUE announced that Resona Group will remain its title partner for a third straight season in 2026-27, backing the league's 'B.Innovation' restructuring push. The renewal keeps Resona's financial-services branding tied to the league name as Japan's top basketball competition reshapes its management structure."
+      },
+      "ja": {
+        "title": "りそなグループ、2026-27シーズンもB.LEAGUEタイトルパートナーを継続",
+        "summary": "B.LEAGUEは、りそなグループが2026-27シーズンも3季連続でタイトルパートナーを務めると発表した。今回の契約更新はリーグが進める経営改革「B.革新」を後押しするもので、日本トップの男子プロバスケットボールリーグの名称に同グループの金融ブランドが引き続き冠される。"
+      },
+      "es": {
+        "title": "Resona Group continuará como patrocinador principal de la B.LEAGUE en 2026-27",
+        "summary": "La B.LEAGUE anunció que Resona Group seguirá siendo su patrocinador principal por tercera temporada consecutiva en 2026-27, respaldando la reestructuración de la liga bajo el lema 'B.Innovation'. La renovación mantiene vinculada la marca de servicios financieros de Resona al nombre de la liga mientras el baloncesto profesional japonés reorganiza su gestión."
+      },
+      "zh": {
+        "title": "里索纳集团将连续第三个赛季担任B联赛冠名合作伙伴",
+        "summary": "B联赛宣布，里索纳集团将在2026-27赛季连续第三个赛季继续担任联赛冠名合作伙伴，支持联赛推进的“B.革新”管理改革。此次续约使这家金融服务集团的品牌继续与日本顶级男子职业篮球联赛的名称绑定。"
+      },
+      "fr": {
+        "title": "Resona Group reste partenaire titre de la B.LEAGUE pour 2026-27",
+        "summary": "La B.LEAGUE a annoncé que Resona Group restera son partenaire titre pour une troisième saison consécutive en 2026-27, soutenant la réforme de gestion « B.Innovation » de la ligue. Ce renouvellement maintient la marque de services financiers de Resona associée au nom de la ligue alors que le basketball professionnel japonais restructure sa gouvernance."
+      }
+    }
+  },
+  {
+    "id": "npb-smbc-trust-bank-farm-mvp-sponsor",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-03-04T00:00:00Z",
+    "source_name": "NPB.jp",
+    "source_url": "https://npb.jp/news/detail/20260304_01.html",
+    "i18n": {
+      "en": {
+        "title": "NPB Names SMBC Trust Bank Sponsor of Its Farm-League Monthly MVP Award",
+        "summary": "Nippon Professional Baseball has signed SMBC Trust Bank as the sponsor of its 2026 farm-league 'Monthly MVP' award, given to standout players in the minor-league ni-gun circuit. The deal extends the bank's visibility into NPB's developmental ranks alongside its existing top-flight sponsorships."
+      },
+      "ja": {
+        "title": "NPB、ファーム・リーグ「月間MVP賞」の協賛社にSMBC信託銀行が決定",
+        "summary": "日本野球機構（NPB）は2026年度のファーム・リーグ「月間MVP賞」の協賛社として、株式会社SMBC信託銀行と契約したことを発表した。二軍のリーグで活躍した選手を対象とする同賞への協賛により、同行は一軍向けの既存協賛に加え、育成年代のファンとの接点をさらに広げる。"
+      },
+      "es": {
+        "title": "SMBC Trust Bank patrocinará el premio al MVP mensual de la liga de filiales de la NPB",
+        "summary": "La Nippon Professional Baseball firmó con SMBC Trust Bank el patrocinio del premio 'MVP del mes' de su liga de filiales (ni-gun) para 2026, otorgado a los jugadores más destacados de las categorías menores. El acuerdo amplía la presencia del banco en el desarrollo de talento de la NPB, sumándose a sus patrocinios ya existentes en la máxima categoría."
+      },
+      "zh": {
+        "title": "NPB宣布SMBC信托银行赞助二军联赛“月度MVP奖”",
+        "summary": "日本职业棒球机构（NPB）宣布，SMBC信托银行将赞助2026年度二军农场联赛的“月度MVP奖”，该奖项授予二军联赛中表现突出的球员。此次合作使该银行在已有的一军赞助基础上，进一步扩大在球员培养体系中的品牌曝光。"
+      },
+      "fr": {
+        "title": "La NPB confie à SMBC Trust Bank le parrainage du trophée MVP mensuel de sa ligue de développement",
+        "summary": "La Nippon Professional Baseball a signé avec SMBC Trust Bank le parrainage du trophée « MVP du mois » de sa ligue de développement (ni-gun) pour 2026, décerné aux meilleurs joueurs des équipes réserves. L'accord renforce la présence de la banque auprès des jeunes talents du baseball japonais, en complément de ses partenariats existants au plus haut niveau."
+      }
+    }
+  },
+  {
+    "id": "freeway-insurance-nascar-premier-partner-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2025-10-31T00:00:00Z",
+    "source_name": "NASCAR.com",
+    "source_url": "https://www.nascar.com/news-media/2025/10/31/freeway-insurance-joins-nascar-as-premier-partner-in-cup-series/",
+    "i18n": {
+      "en": {
+        "title": "Freeway Insurance Becomes NASCAR's Fourth Cup Series Premier Partner",
+        "summary": "NASCAR named Freeway Insurance its newest Premier Partner starting in 2026, joining Busch Light, Coca-Cola and Xfinity in the series' top sponsorship tier. The multi-year deal also hands Freeway naming rights to the fall Cup Series race at Phoenix Raceway and branding on pre-restart procedures."
+      },
+      "ja": {
+        "title": "フリーウェイ・インシュランス、NASCARの4番目のプレミアパートナーに",
+        "summary": "NASCARは2026年シーズンより、フリーウェイ・インシュランスを新たなプレミアパートナーに迎えると発表した。バドライト、コカ・コーラ、エクスフィニティに続く最上位スポンサー枠への加入となり、複数年契約にはフェニックス・レースウェイで開催される秋季カップシリーズ戦の冠命名権や、リスタート前演出への露出も含まれる。"
+      },
+      "es": {
+        "title": "Freeway Insurance se convierte en el cuarto Premier Partner de la Cup Series de NASCAR",
+        "summary": "NASCAR anunció a Freeway Insurance como su más reciente Premier Partner a partir de 2026, uniéndose a Busch Light, Coca-Cola y Xfinity en el nivel más alto de patrocinio de la serie. El acuerdo plurianual también otorga a Freeway los derechos de nombre de la carrera de otoño de la Cup Series en Phoenix Raceway, además de presencia en los procedimientos previos a las reanudaciones."
+      },
+      "zh": {
+        "title": "Freeway Insurance成为NASCAR杯赛第四位高级合作伙伴",
+        "summary": "NASCAR宣布，自2026赛季起，Freeway Insurance将成为其最新的高级合作伙伴，与百威淡啤、可口可乐和Xfinity一同跻身该系列赛最高级别赞助商行列。这项多年协议还授予Freeway菲尼克斯赛道秋季杯赛赛事的冠名权，并在比赛重启流程中获得品牌露出。"
+      },
+      "fr": {
+        "title": "Freeway Insurance devient le quatrième partenaire premium de la Cup Series NASCAR",
+        "summary": "NASCAR a annoncé Freeway Insurance comme son nouveau partenaire premium à partir de 2026, rejoignant Busch Light, Coca-Cola et Xfinity dans la catégorie de sponsoring la plus élevée de la série. L'accord pluriannuel confère également à Freeway les droits de dénomination de la course d'automne de la Cup Series à Phoenix Raceway, ainsi qu'une visibilité lors des procédures de relance."
+      }
+    }
+  },
+  {
+    "id": "si-tickets-nfl-uk-fan-partner",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-09-10T00:00:00Z",
+    "source_name": "TheTicketingBusiness",
+    "source_url": "https://www.theticketingbusiness.com/2026/09/sports-illustrated-tickets-expands-nfl-partnership-into-the-uk/",
+    "i18n": {
+      "en": {
+        "title": "Sports Illustrated Tickets Expands NFL Deal to Cover All Three 2026 London Games",
+        "summary": "Sports Illustrated Tickets has become an official NFL fan-experience partner for all three London games this season, covering Colts-Commanders, Eagles-Jaguars at Tottenham Hotspur Stadium and Texans-Jaguars at Wembley. The expansion follows the company's debut as an NFL International fan partner during last year's Madrid game and adds fan-facing marketing activations around each fixture."
+      },
+      "ja": {
+        "title": "SIチケッツ、NFLロンドン開催3試合すべてに提携拡大",
+        "summary": "スポーツ・イラストレイテッド・チケッツは、今シーズンにロンドンで開催されるNFL全3試合（コルツ対コマンダーズ、イーグルス対ジャガーズ＝トッテナム・ホットスパー・スタジアム、テキサンズ対ジャガーズ＝ウェンブリー）の公式ファン体験パートナーとなった。同社は昨年のマドリード開催戦でNFLインターナショナルのファンパートナーを初めて務めており、今回はその提携をさらに拡大する形となる。"
+      },
+      "es": {
+        "title": "Sports Illustrated Tickets amplía su acuerdo con la NFL a los tres partidos de Londres en 2026",
+        "summary": "Sports Illustrated Tickets se convirtió en socio oficial de experiencia de aficionados de la NFL para los tres partidos de Londres de esta temporada: Colts-Commanders, Eagles-Jaguars en el Tottenham Hotspur Stadium y Texans-Jaguars en Wembley. La ampliación llega tras su debut como socio de aficionados de la NFL Internacional en el partido de Madrid del año pasado y suma activaciones de marketing dirigidas a los aficionados en cada encuentro."
+      },
+      "zh": {
+        "title": "SI Tickets将NFL合作扩展至伦敦全部三场2026赛季比赛",
+        "summary": "《体育画报》旗下票务平台SI Tickets已成为本赛季NFL伦敦三场比赛——小马队对指挥官队、老鹰队对美洲虎队（托特纳姆热刺球场）以及德州人队对美洲虎队（温布利球场）——的官方球迷体验合作伙伴。此次扩展是在该公司去年首次担任NFL国际马德里赛事球迷合作伙伴之后进行的，并将围绕每场比赛推出面向球迷的营销活动。"
+      },
+      "fr": {
+        "title": "Sports Illustrated Tickets étend son partenariat NFL aux trois matchs de Londres en 2026",
+        "summary": "Sports Illustrated Tickets est devenu partenaire officiel de l'expérience supporters de la NFL pour les trois matchs de Londres cette saison : Colts-Commanders, Eagles-Jaguars au Tottenham Hotspur Stadium et Texans-Jaguars à Wembley. Cette extension fait suite à ses débuts en tant que partenaire supporters de la NFL International lors du match de Madrid l'an dernier et ajoute des activations marketing destinées aux fans autour de chaque rencontre."
+      }
+    }
+  },
+  {
+    "id": "tennessee-first-horizon-jersey-patch-extension",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-01T00:00:00Z",
+    "source_name": "Learfield",
+    "source_url": "https://www.learfield.com/2026/09/tennessee-athletics-and-first-horizon-announce-historic-partnership-extension/",
+    "i18n": {
+      "en": {
+        "title": "Tennessee Athletics Extends First Horizon Partnership, Adds Football Jersey Patch",
+        "summary": "The University of Tennessee and First Horizon Bank, the 'Official Bank of the Vols' for 34 straight years, announced an extended partnership that makes First Horizon the school's first-ever football jersey patch sponsor. The deal also renames two arena club spaces and funds new student-athlete influencer marketing programs across several Olympic sports."
+      },
+      "ja": {
+        "title": "テネシー大学、ファースト・ホライズンとの提携を延長しフットボールユニフォームパッチを導入",
+        "summary": "34年間にわたり「ボルズ公式銀行」を務めてきたファースト・ホライズン銀行とテネシー大学は、提携延長を発表した。これにより同行はテネシー大アメリカンフットボール史上初のユニフォームパッチスポンサーとなる。契約にはアリーナ内2施設の名称変更や、複数のオリンピック競技における学生アスリート向けインフルエンサー・マーケティング施策への出資も含まれる。"
+      },
+      "es": {
+        "title": "Atletismo de Tennessee amplía su alianza con First Horizon y suma parche en el uniforme de fútbol americano",
+        "summary": "La Universidad de Tennessee y First Horizon Bank, 'banco oficial de los Vols' durante 34 años consecutivos, anunciaron una extensión de su alianza que convierte a First Horizon en el primer patrocinador de parche en el uniforme de fútbol americano del programa. El acuerdo también renombra dos espacios de club en los estadios y financia nuevos programas de marketing de influencers para deportistas en varios deportes olímpicos."
+      },
+      "zh": {
+        "title": "田纳西大学体育部与First Horizon银行续约并新增橄榄球队服贴标",
+        "summary": "连续34年担任“志愿者队官方银行”的First Horizon银行与田纳西大学宣布延长合作关系，First Horizon由此成为该校橄榄球队史上首个队服贴标赞助商。协议还将两处球场俱乐部空间以该行命名，并为多个奥运项目的学生运动员资助新的网红营销计划。"
+      },
+      "fr": {
+        "title": "L'athlétisme de Tennessee prolonge son partenariat avec First Horizon et ajoute un patch sur le maillot de football américain",
+        "summary": "L'université du Tennessee et First Horizon Bank, « banque officielle des Vols » depuis 34 années consécutives, ont annoncé une extension de leur partenariat faisant de First Horizon le tout premier sponsor de patch sur le maillot de football américain du programme. L'accord renomme également deux espaces club des stades et finance de nouveaux programmes de marketing d'influence pour les étudiants-athlètes dans plusieurs sports olympiques."
+      }
+    }
+  },
+  {
+    "id": "eli-lilly-milano-cortina-2026-sponsor",
+    "sport": "olympics",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2025-10-23T00:00:00Z",
+    "source_name": "Olympics.com",
+    "source_url": "https://www.olympics.com/en/milano-cortina-2026/news/lilly-and-milano-cortina-2026-announce-their-partnership-the-company-is-now-an-official-sponsor-of-the-games",
+    "i18n": {
+      "en": {
+        "title": "Eli Lilly Signs On as Official Sponsor of Milano Cortina 2026",
+        "summary": "Pharmaceutical company Eli Lilly has become an official sponsor of the Milano Cortina 2026 Winter Olympics and Paralympics, tying its brand to a campaign promoting disease prevention and early detection. Lilly also pledged donations to U.S. health nonprofits for every medal, world record or Olympic/Paralympic record set by Team USA athletes."
+      },
+      "ja": {
+        "title": "イーライリリー、ミラノ・コルティナ2026の公式スポンサーに就任",
+        "summary": "製薬企業イーライリリーが、2026年ミラノ・コルティナ冬季オリンピック・パラリンピックの公式スポンサーとなった。同社は疾病予防と早期発見の重要性を訴えるキャンペーンにブランドを結び付けるとともに、米国代表選手団がメダル・世界記録・オリンピック（パラリンピック）記録を達成するごとに米国の健康関連非営利団体へ寄付することを表明した。"
+      },
+      "es": {
+        "title": "Eli Lilly se convierte en patrocinador oficial de Milán Cortina 2026",
+        "summary": "La farmacéutica Eli Lilly se ha convertido en patrocinador oficial de los Juegos Olímpicos y Paralímpicos de Invierno de Milán Cortina 2026, vinculando su marca a una campaña que promueve la prevención y detección temprana de enfermedades. Lilly también prometió donaciones a organizaciones de salud sin fines de lucro de EE. UU. por cada medalla, récord mundial o marca olímpica o paralímpica que logre el equipo estadounidense."
+      },
+      "zh": {
+        "title": "礼来公司成为米兰-科尔蒂纳2026冬奥会官方赞助商",
+        "summary": "制药公司礼来已成为2026年米兰-科尔蒂纳冬季奥运会及残奥会的官方赞助商，其品牌将与一项倡导疾病预防和早期发现的宣传活动相绑定。礼来还承诺，美国代表队运动员每获得一枚奖牌、打破一项世界纪录或奥运（残奥）纪录，公司都将向美国健康类非营利组织进行捐赠。"
+      },
+      "fr": {
+        "title": "Eli Lilly devient sponsor officiel de Milano Cortina 2026",
+        "summary": "Le laboratoire pharmaceutique Eli Lilly est devenu sponsor officiel des Jeux olympiques et paralympiques d'hiver de Milano Cortina 2026, associant sa marque à une campagne de sensibilisation à la prévention et au dépistage précoce des maladies. Lilly s'est également engagé à faire des dons à des associations de santé américaines pour chaque médaille, record du monde ou record olympique/paralympique établi par les athlètes de Team USA."
+      }
+    }
+  },
+  {
+    "id": "uefa-club-finance-report-30bn-revenue",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-02-26T00:00:00Z",
+    "source_name": "UEFA.com",
+    "source_url": "https://www.uefa.com/news-media/news/02a2-200452a66064-0cfd3f86b94f-1000--new-report-highlights-record-revenues-and-increasing-inv/",
+    "i18n": {
+      "en": {
+        "title": "UEFA Report: European Club Football Revenue Set to Top €30 Billion",
+        "summary": "UEFA's latest European Club Finance and Investment Landscape report projects combined top-division club revenue will surpass €30 billion for the first time, after clubs generated a record €28.6 billion in 2024. The report also found a record 123 private-capital deals across European clubs in 2025, with North American investors driving roughly a third of controlling-stake takeovers."
+      },
+      "ja": {
+        "title": "UEFA報告書、欧州クラブサッカーの収益が300億ユーロ突破へ",
+        "summary": "UEFAが発表した最新の「欧州クラブ財務・投資動向レポート」によると、欧州トップディビジョンのクラブ収益合計は初めて300億ユーロを超える見通しだという。2024年には過去最高の286億ユーロを記録していた。同報告書はまた、2025年に欧州クラブへの民間資本による投資案件が過去最多の123件に達し、北米投資家が支配株取得の約3分の1を占めたとしている。"
+      },
+      "es": {
+        "title": "Informe de la UEFA: los ingresos del fútbol de clubes europeo superarán los 30 000 millones de euros",
+        "summary": "El último informe de la UEFA sobre finanzas e inversión de clubes europeos proyecta que los ingresos combinados de los clubes de primera división superarán por primera vez los 30 000 millones de euros, tras un récord de 28 600 millones en 2024. El informe también detectó un récord de 123 operaciones de capital privado en clubes europeos durante 2025, con inversores norteamericanos protagonizando cerca de un tercio de las adquisiciones de participaciones de control."
+      },
+      "zh": {
+        "title": "欧足联报告：欧洲俱乐部足球收入将首次突破300亿欧元",
+        "summary": "欧足联最新发布的《欧洲俱乐部财务与投资格局》报告预测，欧洲顶级联赛俱乐部的总收入将首次突破300亿欧元，此前2024年已创下286亿欧元的纪录。报告还显示，2025年欧洲俱乐部私人资本交易数量达到创纪录的123宗，其中北美投资者主导了约三分之一的控股权收购。"
+      },
+      "fr": {
+        "title": "Rapport de l'UEFA : les revenus du football de club européen devraient dépasser 30 milliards d'euros",
+        "summary": "Le dernier rapport de l'UEFA sur les finances et l'investissement des clubs européens prévoit que les revenus cumulés des clubs de première division dépasseront pour la première fois les 30 milliards d'euros, après un record de 28,6 milliards en 2024. Le rapport recense également un nombre record de 123 opérations de capital privé dans les clubs européens en 2025, les investisseurs nord-américains étant à l'origine d'environ un tiers des prises de participation majoritaires."
+      }
+    }
   }
 ]
