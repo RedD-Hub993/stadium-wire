@@ -3707,5 +3707,241 @@
         "summary": "La WNBA a désigné Amazon Web Services comme son partenaire officiel du cloud et de l'IA cloud dans le cadre d'un accord pluriannuel axé sur une nouvelle plateforme de statistiques avancées, « Inside the Game Powered by AWS ». Cet outil transforme les données de suivi des joueuses en temps réel en informations accessibles aux fans via l'application, le site et les diffusions en direct de la WNBA, marquant le premier partenariat d'AWS avec une ligue sportive professionnelle féminine."
       }
     }
+  },
+  {
+    "id": "gucci-racing-alpine-f1-title-sponsor-2027",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-09-24T05:00:00Z",
+    "source_name": "SportsPro",
+    "source_url": "https://www.sportspro.com/news/alpine-gucci-f1-title-partner-sponsorship-2027-renault-kering-may-2026/",
+    "i18n": {
+      "en": {
+        "title": "Gucci Becomes First Luxury Fashion Title Sponsor in F1 History with Alpine Deal",
+        "summary": "Gucci has signed a three-year deal reportedly worth more than $150 million to become title partner of the Alpine Formula 1 team from the 2027 season, replacing BWT. The team will race as Gucci Racing Alpine, adopting a new black-and-gold livery as part of the luxury brand's push into motorsport."
+      },
+      "ja": {
+        "title": "グッチ、アルピーヌF1と契約しラグジュアリーブランド初のF1タイトルスポンサーに",
+        "summary": "グッチは総額1億5000万ドル超とされる3年契約を結び、2027年シーズンからアルピーヌF1チームのタイトルパートナーとなり、これまでのBWTに代わる。チームは「グッチ・レーシング・アルピーヌ」として黒とゴールドの新カラーリングで参戦し、ラグジュアリーブランドによるモータースポーツ進出の一環となる。"
+      },
+      "es": {
+        "title": "Gucci se convierte en el primer patrocinador de lujo titular en la historia de la F1 con Alpine",
+        "summary": "Gucci firmó un acuerdo de tres años valorado en más de 150 millones de dólares para ser el patrocinador principal del equipo Alpine de Fórmula 1 desde la temporada 2027, sustituyendo a BWT. El equipo competirá como Gucci Racing Alpine con una nueva librea negra y dorada, parte de la apuesta de la marca de lujo por el automovilismo."
+      },
+      "zh": {
+        "title": "古驰与阿尔派因F1车队达成协议，成为F1历史上首个奢侈品冠名赞助商",
+        "summary": "古驰签署了一份据称价值超过1.5亿美元的三年协议，将从2027赛季起成为阿尔派因一级方程式车队的冠名合作伙伴，取代此前的BWT。车队届时将以“古驰赛车阿尔派因”的名义参赛，并采用全新的黑金配色，这也是这家奢侈品牌进军赛车运动的一部分。"
+      },
+      "fr": {
+        "title": "Gucci devient le premier sponsor titre de luxe de l'histoire de la F1 avec Alpine",
+        "summary": "Gucci a signé un contrat de trois ans estimé à plus de 150 millions de dollars pour devenir sponsor titre de l'écurie Alpine en Formule 1 dès la saison 2027, en remplacement de BWT. L'écurie courra sous le nom de Gucci Racing Alpine avec une nouvelle livrée noire et or, dans le cadre de l'entrée de la marque de luxe dans le sport automobile."
+      }
+    }
+  },
+  {
+    "id": "mlb-owners-propose-salary-cap-2027",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-09-23T12:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://www.cbssports.com/mlb/news/mlb-cba-negotiations-timeline-2026/",
+    "i18n": {
+      "en": {
+        "title": "MLB Owners Formally Propose Salary Cap as Labor Talks Intensify",
+        "summary": "Major League Baseball's owners have formally proposed a salary cap and payroll floor system ahead of the current labor agreement's expiration in December, the first such push since the 1994-95 strike. The MLB Players Association has strongly rejected the framework, setting up a contentious round of collective bargaining."
+      },
+      "ja": {
+        "title": "MLB球団オーナー、労使交渉激化の中でサラリーキャップ導入を正式提案",
+        "summary": "メジャーリーグベースボールの球団オーナー陣は、12月に期限を迎える現行労使協定を前に、サラリーキャップと年俸下限制度の導入を正式に提案した。1994-95年のストライキ以来となる提案で、選手会は強く反発しており、労使交渉は緊迫した局面を迎えている。"
+      },
+      "es": {
+        "title": "Los dueños de la MLB proponen formalmente un tope salarial mientras se intensifican las negociaciones",
+        "summary": "Los propietarios de las Grandes Ligas de Béisbol propusieron formalmente un tope salarial y un piso de nómina antes de que expire el actual convenio laboral en diciembre, la primera propuesta de este tipo desde la huelga de 1994-95. La Asociación de Jugadores de la MLB rechazó firmemente la propuesta, anticipando una ronda de negociaciones muy disputada."
+      },
+      "zh": {
+        "title": "MLB球队老板正式提议引入薪资帽，劳资谈判日趋紧张",
+        "summary": "在12月现行劳资协议到期前，美国职业棒球大联盟的球队老板正式提出了薪资帽和薪资下限方案，这是自1994-95赛季罢工以来的首次此类提议。MLB球员工会对此方案表示强烈反对，双方的集体谈判进入紧张阶段。"
+      },
+      "fr": {
+        "title": "Les propriétaires de la MLB proposent officiellement un plafond salarial alors que les négociations s'intensifient",
+        "summary": "Les propriétaires de la Ligue majeure de baseball ont officiellement proposé un plafond salarial et un plancher de masse salariale avant l'expiration de la convention collective actuelle en décembre, une première depuis la grève de 1994-95. Le syndicat des joueurs a fermement rejeté ce cadre, laissant présager des négociations tendues."
+      }
+    }
+  },
+  {
+    "id": "kingdom-holding-completes-al-hilal-70pct-stake",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-02T09:00:00Z",
+    "source_name": "Inside World Football",
+    "source_url": "https://www.insideworldfootball.com/2026/09/02/pif-sells-224m-stake-in-al-hilal-to-kingdom-holding",
+    "i18n": {
+      "en": {
+        "title": "Kingdom Holding Completes Acquisition of 70% Stake in Saudi Club Al-Hilal from PIF",
+        "summary": "Kingdom Holding Company has completed its purchase of a 70 percent stake in Al-Hilal Club Company from Saudi Arabia's Public Investment Fund, in a transaction valuing the club's equity at roughly $319 million. PIF retains the remaining 30 percent as the ownership structure shifts toward the private sector."
+      },
+      "ja": {
+        "title": "キングダム・ホールディングス、サウジ公共投資基金からアル・ヒラルの70%株式取得を完了",
+        "summary": "キングダム・ホールディングス・カンパニーは、サウジアラビア公共投資基金（PIF）が保有するアル・ヒラル・クラブ・カンパニーの株式70%の取得を完了した。取引ではクラブの株式価値を約3億1900万ドルと評価しており、PIFは残り30%を保有し続ける。所有構造は民間主導へと移行する。"
+      },
+      "es": {
+        "title": "Kingdom Holding completa la adquisición del 70% del club saudí Al-Hilal al PIF",
+        "summary": "Kingdom Holding Company completó la compra de una participación del 70 por ciento en Al-Hilal Club Company al Fondo de Inversión Pública de Arabia Saudita, en una operación que valora el capital del club en aproximadamente 319 millones de dólares. El PIF conserva el 30 por ciento restante mientras la propiedad se traslada al sector privado."
+      },
+      "zh": {
+        "title": "沙特金控完成从公共投资基金收购阿尔希拉尔70%股份",
+        "summary": "沙特“Kingdom Holding”公司已完成从沙特公共投资基金（PIF）收购阿尔希拉尔俱乐部公司70%股份的交易，此次交易对该俱乐部股权的估值约为3.19亿美元。PIF将保留剩余30%的股份，俱乐部所有权结构进一步向私营部门转移。"
+      },
+      "fr": {
+        "title": "Kingdom Holding finalise l'acquisition de 70% du club saoudien Al-Hilal auprès du PIF",
+        "summary": "Kingdom Holding Company a finalisé l'acquisition d'une participation de 70% dans Al-Hilal Club Company auprès du Fonds public d'investissement saoudien, dans une transaction valorisant les capitaux propres du club à environ 319 millions de dollars. Le PIF conserve les 30% restants alors que l'actionnariat s'oriente vers le secteur privé."
+      }
+    }
+  },
+  {
+    "id": "dallas-stars-acrisure-jersey-patch",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-09-21T14:00:00Z",
+    "source_name": "NHL.com",
+    "source_url": "https://www.nhl.com/stars/news/dallas-stars-announce-acrisure-as-official-home-jersey-patch-partner-092126",
+    "i18n": {
+      "en": {
+        "title": "Dallas Stars Name Acrisure as First-Ever Home Jersey Patch Partner",
+        "summary": "The Dallas Stars announced insurance and fintech firm Acrisure as the franchise's inaugural home jersey patch sponsor, starting with the 2026-27 NHL season. The Acrisure logo will appear on the chest of the Stars' home jersey through preseason, the regular season and the Stanley Cup Playoffs."
+      },
+      "ja": {
+        "title": "ダラス・スターズ、アクリシュアと初のホームジャージパッチ契約を締結",
+        "summary": "NHLのダラス・スターズは、保険・フィンテック企業アクリシュアを球団史上初となるホームジャージパッチのスポンサーに起用すると発表した。2026-27シーズンから、プレシーズン、レギュラーシーズン、スタンレーカップ・プレーオフを通じてホームジャージの胸元にロゴが掲出される。"
+      },
+      "es": {
+        "title": "Dallas Stars nombra a Acrisure como su primer patrocinador de parche en la camiseta local",
+        "summary": "Los Dallas Stars anunciaron a la firma de seguros y tecnología financiera Acrisure como su primer patrocinador de parche en la camiseta local, a partir de la temporada 2026-27 de la NHL. El logotipo de Acrisure aparecerá en el pecho de la camiseta local durante la pretemporada, la temporada regular y los playoffs de la Copa Stanley."
+      },
+      "zh": {
+        "title": "达拉斯星队宣布Acrisure为队史首个主场球衣广告贴合作伙伴",
+        "summary": "NHL达拉斯星队宣布，保险与金融科技公司Acrisure将成为球队史上首个主场球衣胸前广告合作伙伴，自2026-27赛季起生效。Acrisure的标志将在季前赛、常规赛及斯坦利杯季后赛期间出现在球队主场球衣胸前。"
+      },
+      "fr": {
+        "title": "Les Stars de Dallas nomment Acrisure premier partenaire de patch sur le maillot domicile",
+        "summary": "Les Stars de Dallas ont annoncé que la société d'assurance et de fintech Acrisure deviendrait le tout premier partenaire de patch sur le maillot domicile de la franchise, à partir de la saison 2026-27 de la LNH. Le logo d'Acrisure figurera sur la poitrine du maillot domicile pendant la présaison, la saison régulière et les séries éliminatoires de la Coupe Stanley."
+      }
+    }
+  },
+  {
+    "id": "texas-tech-galaxy-stadium-naming-rights",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-07-17T10:00:00Z",
+    "source_name": "ESPN",
+    "source_url": "https://www.espn.com/college-football/story/_/id/49385958/texas-tech-galaxy-naming-rights-deal-includes-nil-opportunities",
+    "i18n": {
+      "en": {
+        "title": "Texas Tech Renames Football Stadium Galaxy Stadium in 15-Year, $75 Million Deal",
+        "summary": "Texas Tech Athletics has signed a 15-year naming rights partnership worth roughly $75 million with digital assets firm Galaxy, renaming its football venue Galaxy Stadium starting with the 2026 season. The agreement replaces a nearly two-decade partnership with AT&T and includes NIL opportunities for student-athletes."
+      },
+      "ja": {
+        "title": "テキサス工科大、フットボールスタジアムを「ギャラクシー・スタジアム」に改称する15年契約を締結",
+        "summary": "テキサス工科大学のアスレチック部門は、デジタル資産企業ギャラクシーと総額約7500万ドル、15年間の命名権契約を締結し、2026年シーズンからフットボールスタジアムを「ギャラクシー・スタジアム」と改称する。長年続いたAT&Tとの契約に代わるもので、学生アスリート向けのNIL（氏名・肖像権）機会も含まれる。"
+      },
+      "es": {
+        "title": "Texas Tech renombra su estadio de fútbol americano como Galaxy Stadium en un acuerdo de 15 años y 75 millones de dólares",
+        "summary": "El departamento de atletismo de Texas Tech firmó una asociación de derechos de nombre por 15 años valorada en unos 75 millones de dólares con la firma de activos digitales Galaxy, renombrando su estadio como Galaxy Stadium a partir de la temporada 2026. El acuerdo sustituye una asociación de casi dos décadas con AT&T e incluye oportunidades de NIL para los estudiantes-atletas."
+      },
+      "zh": {
+        "title": "德州理工大学与Galaxy达成15年7500万美元协议，橄榄球场更名为Galaxy Stadium",
+        "summary": "德州理工大学体育部门与数字资产公司Galaxy签订了一份价值约7500万美元、为期15年的冠名权协议，自2026赛季起将其橄榄球场更名为Galaxy Stadium。该协议取代了与AT&T近二十年的合作，并为学生运动员提供了姓名、肖像和形象权（NIL）相关机会。"
+      },
+      "fr": {
+        "title": "Texas Tech renomme son stade de football américain Galaxy Stadium dans un accord de 15 ans à 75 millions de dollars",
+        "summary": "Le département sportif de Texas Tech a signé un partenariat de droits de dénomination de 15 ans, estimé à environ 75 millions de dollars, avec la société d'actifs numériques Galaxy, renommant son stade de football Galaxy Stadium dès la saison 2026. L'accord remplace un partenariat de près de vingt ans avec AT&T et inclut des opportunités NIL pour les étudiants-athlètes."
+      }
+    }
+  },
+  {
+    "id": "mufg-national-stadium-naming-rights-japan",
+    "sport": "general",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2025-10-14T09:00:00Z",
+    "source_name": "Nikkei",
+    "source_url": "https://www.nikkei.com/article/DGXZQODH121IN0S5A011C2000000/",
+    "i18n": {
+      "en": {
+        "title": "Mitsubishi UFJ Acquires Naming Rights to Japan National Stadium, Renamed 'MUFG Stadium'",
+        "summary": "Mitsubishi UFJ Financial Group has secured naming rights to Tokyo's National Stadium, with the venue set to be known as 'MUFG Stadium' from January 2026 under a five-year contract. The deal is reportedly worth around 10 billion yen in total, the largest naming rights contract in Japanese sports history."
+      },
+      "ja": {
+        "title": "三菱UFJ、国立競技場の命名権を取得し「MUFGスタジアム」に改称",
+        "summary": "三菱UFJフィナンシャル・グループは東京の国立競技場の命名権を取得し、2026年1月から5年契約で「MUFGスタジアム」の呼称が使われることになった。契約総額は約100億円規模とされ、日本のスポーツ施設における命名権契約としては過去最大級となる。"
+      },
+      "es": {
+        "title": "Mitsubishi UFJ adquiere los derechos de nombre del Estadio Nacional de Japón, rebautizado 'MUFG Stadium'",
+        "summary": "Mitsubishi UFJ Financial Group obtuvo los derechos de nombre del Estadio Nacional de Tokio, que pasará a llamarse 'MUFG Stadium' a partir de enero de 2026 bajo un contrato de cinco años. Se estima que el acuerdo tiene un valor total de unos 10.000 millones de yenes, el mayor contrato de naming rights en la historia del deporte japonés."
+      },
+      "zh": {
+        "title": "三菱UFJ获得日本国立竞技场冠名权，更名为“MUFG体育场”",
+        "summary": "三菱UFJ金融集团获得了东京国立竞技场的冠名权，根据为期五年的合同，该场馆将从2026年1月起更名为“MUFG体育场”。据报道，该协议总价值约为100亿日元，是日本体育设施冠名权合同中规模最大的一笔。"
+      },
+      "fr": {
+        "title": "Mitsubishi UFJ acquiert les droits de dénomination du Stade national du Japon, rebaptisé « MUFG Stadium »",
+        "summary": "Mitsubishi UFJ Financial Group a obtenu les droits de dénomination du Stade national de Tokyo, qui sera renommé « MUFG Stadium » à partir de janvier 2026 dans le cadre d'un contrat de cinq ans. L'accord serait évalué à environ 10 milliards de yens au total, le plus important contrat de naming rights de l'histoire du sport japonais."
+      }
+    }
+  },
+  {
+    "id": "team-vitality-eleclerc-esports-partnership",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-08T11:00:00Z",
+    "source_name": "Inven Global",
+    "source_url": "https://www.invenglobal.com/articles/20212/team-vitality-announces-main-partnership-with-eleclerc-marking-retailers-first-entry-into-esports",
+    "i18n": {
+      "en": {
+        "title": "Team Vitality Signs French Retailer E.Leclerc in Its First Esports Sponsorship",
+        "summary": "European esports organization Team Vitality has announced a new partnership with French retail giant E.Leclerc, marking the supermarket chain's first entry into esports sponsorship. E.Leclerc's branding will appear on Vitality's competitive jerseys across League of Legends, Valorant, Rocket League and its chess roster."
+      },
+      "ja": {
+        "title": "チーム・ヴィタリティ、フランス流通大手ルクレールと初のeスポーツ契約",
+        "summary": "欧州のeスポーツ団体チーム・ヴィタリティは、フランスの小売大手ルクレールとの新たなパートナーシップを発表した。ルクレールにとってeスポーツ協賛は今回が初めてで、そのロゴはヴィタリティのリーグ・オブ・レジェンド、ヴァロラント、ロケットリーグ、チェス部門のユニフォームに掲出される。"
+      },
+      "es": {
+        "title": "Team Vitality ficha al minorista francés E.Leclerc en su primer patrocinio de esports",
+        "summary": "La organización europea de esports Team Vitality anunció una nueva asociación con el gigante minorista francés E.Leclerc, marcando la primera incursión de la cadena de supermercados en el patrocinio de esports. La marca de E.Leclerc aparecerá en las camisetas competitivas de Vitality en League of Legends, Valorant, Rocket League y su plantilla de ajedrez."
+      },
+      "zh": {
+        "title": "Vitality战队与法国零售商E.Leclerc达成首个电竞赞助合作",
+        "summary": "欧洲电竞俱乐部Team Vitality宣布与法国零售巨头E.Leclerc建立新的合作伙伴关系，这是该连锁超市首次涉足电竞赞助领域。E.Leclerc的品牌标识将出现在Vitality旗下《英雄联盟》、《瓦罗兰特》、《火箭联盟》以及国际象棋战队的比赛队服上。"
+      },
+      "fr": {
+        "title": "Team Vitality signe avec le distributeur français E.Leclerc pour son premier partenariat esport",
+        "summary": "L'organisation esport européenne Team Vitality a annoncé un nouveau partenariat avec le géant de la distribution E.Leclerc, marquant la première incursion de l'enseigne dans le sponsoring esport. La marque E.Leclerc figurera sur les maillots de compétition de Vitality en League of Legends, Valorant, Rocket League ainsi que sur son roster d'échecs."
+      }
+    }
   }
 ]
