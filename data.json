@@ -6681,5 +6681,206 @@
         "summary": "La College Sports Commission, l'organisme créé dans le cadre de l'accord « House » pour examiner les contrats de sponsoring des athlètes universitaires, a approuvé plus de 227 millions de dollars d'accords de nom, image et ressemblance (NIL) entre juillet et août, soit près du double du total validé durant sa première année d'existence. Ce rapport traduit une nette accélération de l'activité NIL avec des tiers."
       }
     }
+  },
+  {
+    "id": "zamst-japan-open-tennis-2026-sponsor",
+    "sport": "general",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-09-18T00:00:00Z",
+    "source_name": "PR TIMES",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000665.000002354.html",
+    "i18n": {
+      "en": {
+        "title": "Zamst Signs On as Sponsor of Japan Open Tennis Championships 2026",
+        "summary": "Sports-care brand Zamst, run by Nippon Sigmax, will sponsor the Kinoshita Group Japan Open Tennis Championships starting September 28. The brand plans an on-site booth offering free 3D foot scans and selling insoles, supports and compression sleeves to attendees."
+      },
+      "ja": {
+        "title": "ザムスト、「木下グループジャパンオープンテニスチャンピオンシップス2026」に協賛",
+        "summary": "日本シグマックスが展開するスポーツケアブランド「ザムスト」が、9月28日開幕の同大会に協賛する。会場にはブースを設置し、無料の3D足型計測やインソール、サポーター、コンプレッションスリーブの販売を行う予定。"
+      },
+      "es": {
+        "title": "Zamst patrocina el Japan Open Tennis Championships 2026",
+        "summary": "La marca de cuidado deportivo Zamst, de Nippon Sigmax, patrocinará el torneo del Kinoshita Group que comienza el 28 de septiembre. La empresa instalará un stand con escaneos 3D de pie gratuitos y venta de plantillas, soportes y mangas de compresión."
+      },
+      "zh": {
+        "title": "Zamst赞助2026年日本网球公开赛",
+        "summary": "日本西格玛克斯旗下运动护理品牌Zamst将赞助9月28日开幕的木下集团日本网球公开赛。该品牌届时将设立展位，提供免费3D足型测量并销售鞋垫、护具及压缩护套。"
+      },
+      "fr": {
+        "title": "Zamst devient sponsor du Japan Open Tennis Championships 2026",
+        "summary": "La marque de soins sportifs Zamst, filiale de Nippon Sigmax, sponsorisera le tournoi du Kinoshita Group qui débute le 28 septembre. La marque installera un stand proposant des scans 3D du pied gratuits ainsi que la vente de semelles, orthèses et manchons de compression."
+      }
+    }
+  },
+  {
+    "id": "otsuka-pocari-sweat-asian-games-2026-sponsor",
+    "sport": "olympics",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-08-04T00:00:00Z",
+    "source_name": "Jiji Press",
+    "source_url": "https://www.jiji.com/jc/article?k=000000199.000048278&g=prt",
+    "i18n": {
+      "en": {
+        "title": "Otsuka Pharmaceutical Signs On as Official Partner of 2026 Asian Games in Aichi-Nagoya",
+        "summary": "Otsuka Pharmaceutical has agreed to an official partnership with the organizing committee of the 20th Asian Games, held in Aichi and Nagoya from September 19. Its global sports drink brand Pocari Sweat will support athlete hydration and conditioning throughout the event."
+      },
+      "ja": {
+        "title": "大塚製薬、「アジア競技大会2026/愛知・名古屋」オフィシャルパートナーに",
+        "summary": "大塚製薬は、9月19日開幕の第20回アジア競技大会（愛知・名古屋）の組織委員会とオフィシャルパートナー契約を締結した。グローバルブランド「ポカリスエット」を通じて、選手のコンディショニングと水分補給を支援する。"
+      },
+      "es": {
+        "title": "Otsuka Pharmaceutical, socio oficial de los Juegos Asiáticos 2026 en Aichi-Nagoya",
+        "summary": "Otsuka Pharmaceutical firmó un acuerdo de asociación oficial con el comité organizador de los XX Juegos Asiáticos, que se celebran en Aichi y Nagoya desde el 19 de septiembre. Su marca global de bebidas deportivas Pocari Sweat apoyará la hidratación y el acondicionamiento de los atletas."
+      },
+      "zh": {
+        "title": "大塚制药成为2026年爱知·名古屋亚运会官方合作伙伴",
+        "summary": "大塚制药与9月19日开幕的第20届亚运会（爱知·名古屋）组委会签署官方合作伙伴协议。其全球运动饮料品牌宝矿力水特将为赛事期间运动员的体能调整和水分补给提供支持。"
+      },
+      "fr": {
+        "title": "Otsuka Pharmaceutical devient partenaire officiel des Jeux asiatiques 2026 à Aichi-Nagoya",
+        "summary": "Otsuka Pharmaceutical a signé un partenariat officiel avec le comité organisateur des 20e Jeux asiatiques, qui se tiennent à Aichi et Nagoya à partir du 19 septembre. Sa marque mondiale de boisson sportive Pocari Sweat soutiendra l'hydratation et la préparation physique des athlètes."
+      }
+    }
+  },
+  {
+    "id": "adidas-esports-foundation-nations-cup-outfitting",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-07-30T00:00:00Z",
+    "source_name": "PR Newswire",
+    "source_url": "https://www.manilatimes.net/2026/07/30/tmt-newswire/pr-newswire/esports-foundation-and-adidas-announce-landmark-partnership-to-outfit-every-team-at-the-inaugural-esports-nations-cup/2394717/amp",
+    "i18n": {
+      "en": {
+        "title": "Esports Foundation Taps Adidas to Outfit Every Nation at Inaugural Esports Nations Cup",
+        "summary": "The Esports Foundation and Adidas announced a partnership under which the sportswear maker will design and produce competition apparel for more than 100 national delegations at the first-ever Esports Nations Cup. The country-based event is scheduled to debut in Riyadh on November 2."
+      },
+      "ja": {
+        "title": "Esports Foundation、アディダスと提携し「eスポーツ・ネーションズカップ」全代表団のユニフォームを製作",
+        "summary": "Esports Foundationとアディダスは、初開催となる「eスポーツ・ネーションズカップ」に出場する100を超える国・地域代表団の競技用ウェアを、アディダスがデザイン・製作するパートナーシップを発表した。同大会は11月2日にリヤドで開幕予定。"
+      },
+      "es": {
+        "title": "Esports Foundation ficha a Adidas para vestir a todas las naciones en la primera Esports Nations Cup",
+        "summary": "Esports Foundation y Adidas anunciaron una alianza por la que la marca deportiva diseñará y producirá la indumentaria de competición para más de 100 delegaciones nacionales en la primera Esports Nations Cup. El evento, organizado por países, debutará en Riad el 2 de noviembre."
+      },
+      "zh": {
+        "title": "Esports Foundation携手阿迪达斯为首届电竞国家杯所有代表队制作队服",
+        "summary": "Esports Foundation与阿迪达斯宣布合作，由后者为首届电竞国家杯的100多个国家和地区代表团设计并制作比赛服装。这项以国家为单位的赛事将于11月2日在利雅得首次举行。"
+      },
+      "fr": {
+        "title": "L'Esports Foundation s'associe à Adidas pour équiper toutes les délégations de la première Esports Nations Cup",
+        "summary": "L'Esports Foundation et Adidas ont annoncé un partenariat dans lequel l'équipementier concevra et fabriquera les tenues de compétition de plus de 100 délégations nationales pour la toute première Esports Nations Cup. Cet événement organisé par pays doit débuter à Riyad le 2 novembre."
+      }
+    }
+  },
+  {
+    "id": "futuresports-mlb-cme-group-performance-futures",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-09-22T00:00:00Z",
+    "source_name": "Chicago Sun-Times",
+    "source_url": "https://chicago.suntimes.com/technology/2026/09/22/hockey-baseball-futuresports-deal-mlb-fans-bet-teams",
+    "i18n": {
+      "en": {
+        "title": "MLB Partners With FutureSports and CME Group on Team Performance Futures",
+        "summary": "Chicago startup FutureSports struck a deal with Major League Baseball to build financial indexes tracking the in-game performance of all 30 clubs, using official league statistics. CME Group will list cash-settled futures contracts on the indexes pending regulatory review, following a similar arrangement FutureSports reached with the NHL a month earlier."
+      },
+      "ja": {
+        "title": "MLB、FutureSportsおよびCMEグループとチーム成績先物取引で提携",
+        "summary": "シカゴ発のスタートアップFutureSportsは、公式リーグ統計を用いて全30球団の試合内パフォーマンスを指数化する契約をMLBと締結した。規制当局の審査を経て、CMEグループがこの指数に基づく現金決済先物を上場する予定で、同社が1カ月前にNHLと結んだ類似の提携に続くものとなる。"
+      },
+      "es": {
+        "title": "MLB se asocia con FutureSports y CME Group para futuros sobre el rendimiento de sus equipos",
+        "summary": "La startup de Chicago FutureSports llegó a un acuerdo con la MLB para crear índices financieros que siguen el rendimiento en el terreno de juego de los 30 equipos, usando estadísticas oficiales de la liga. CME Group listará contratos de futuros liquidados en efectivo sobre esos índices, sujeto a revisión regulatoria, tras un acuerdo similar que FutureSports alcanzó con la NHL un mes antes."
+      },
+      "zh": {
+        "title": "MLB与FutureSports及芝商所合作推出球队表现期货",
+        "summary": "芝加哥初创公司FutureSports与美国职棒大联盟达成协议，利用联盟官方统计数据为全部30支球队的场上表现编制金融指数。芝商所计划在监管审查通过后，推出基于该指数的现金结算期货合约，此举延续了该公司一个月前与NHL达成的类似安排。"
+      },
+      "fr": {
+        "title": "La MLB s'associe à FutureSports et au CME Group pour des contrats à terme sur la performance des équipes",
+        "summary": "La start-up de Chicago FutureSports a conclu un accord avec la MLB pour créer des indices financiers suivant la performance en match des 30 clubs, à partir des statistiques officielles de la ligue. Le CME Group prévoit de coter des contrats à terme réglés en espèces sur ces indices, sous réserve d'un examen réglementaire, après un accord similaire conclu un mois plus tôt avec la LNH."
+      }
+    }
+  },
+  {
+    "id": "49ers-pwc-sourdough-sam-ai-app",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "fan",
+      "tech"
+    ],
+    "published_at": "2026-04-09T00:00:00Z",
+    "source_name": "PwC",
+    "source_url": "https://www.pwc.com/us/en/about-us/newsroom/press-releases/49ers-launch-innovative-mobile-app.html",
+    "i18n": {
+      "en": {
+        "title": "49ers Launch Redesigned App With 'Sourdough Sam' AI Chatbot Built by PwC",
+        "summary": "The San Francisco 49ers, working with official digital consulting partner PwC, rolled out a reimagined team app centered on a generative-AI chatbot called Sourdough Sam. The assistant answers player and stats questions, offers wayfinding at Levi's Stadium and powers a real-time gamecast, with the app also newly available in multiple languages."
+      },
+      "ja": {
+        "title": "49ers、PwC開発のAIチャットボット「サワードウ・サム」搭載の新アプリを公開",
+        "summary": "サンフランシスコ・49ersは、公式デジタルコンサルティングパートナーのPwCと共同で、生成AIチャットボット「サワードウ・サム」を中核とした刷新版チームアプリを公開した。選手情報や統計の質問への回答、リーバイス・スタジアム内の案内、リアルタイムのゲーム速報表示に対応し、多言語対応も新たに追加された。"
+      },
+      "es": {
+        "title": "Los 49ers lanzan una app renovada con el chatbot de IA 'Sourdough Sam' creado por PwC",
+        "summary": "Los San Francisco 49ers, junto con su socio oficial de consultoría digital PwC, presentaron una app del equipo renovada centrada en un chatbot de IA generativa llamado Sourdough Sam. El asistente responde preguntas sobre jugadores y estadísticas, ofrece orientación en el Levi's Stadium y alimenta un resumen del partido en tiempo real, y la app ahora también está disponible en varios idiomas."
+      },
+      "zh": {
+        "title": "49人队推出由普华永道打造的AI聊天机器人“酸面包山姆”新版应用",
+        "summary": "旧金山49人队与官方数字咨询合作伙伴普华永道合作，推出以生成式AI聊天机器人“酸面包山姆”为核心的全新球队应用。该助手可解答球员及数据相关问题，在李维斯体育场内提供导航，并支持实时比赛动态显示，应用现也新增多语言支持。"
+      },
+      "fr": {
+        "title": "Les 49ers lancent une application repensée avec le chatbot IA 'Sourdough Sam' conçu par PwC",
+        "summary": "Les 49ers de San Francisco, en collaboration avec leur partenaire officiel de conseil numérique PwC, ont dévoilé une application d'équipe repensée centrée sur un chatbot d'IA générative nommé Sourdough Sam. L'assistant répond aux questions sur les joueurs et les statistiques, guide les spectateurs au Levi's Stadium et alimente un résumé de match en temps réel; l'application est désormais aussi disponible en plusieurs langues."
+      }
+    }
+  },
+  {
+    "id": "lakers-albert-jersey-patch-bibigo",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-07-17T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/sponsorship/lakers-land-albert-as-new-jersey-sponsor-in-lucrative-deal/",
+    "i18n": {
+      "en": {
+        "title": "Lakers Replace Bibigo With Fintech App Albert as Jersey Patch Sponsor",
+        "summary": "The Los Angeles Lakers named personal-finance app Albert as their new jersey patch sponsor starting in the 2026-27 season, ending a five-year run with Korean food brand Bibigo. A source familiar with the agreement said it is worth more than $30 million annually, up from Bibigo's roughly $20 million deal."
+      },
+      "ja": {
+        "title": "レイカーズ、ユニフォームパッチスポンサーをBibigoからフィンテックアプリ「Albert」に変更",
+        "summary": "ロサンゼルス・レイカーズは、2026-27シーズンから個人向け資産管理アプリ「Albert」を新たなユニフォームパッチスポンサーに起用すると発表し、5年間続いた韓国系食品ブランドBibigoとの契約を終了する。契約内容に詳しい関係者によると、年間契約額はBibigoの約2000万ドルから3000万ドル超に増額されるという。"
+      },
+      "es": {
+        "title": "Los Lakers sustituyen a Bibigo por la app fintech Albert como patrocinador del parche de camiseta",
+        "summary": "Los Lakers de Los Ángeles designaron a la aplicación de finanzas personales Albert como su nuevo patrocinador del parche de camiseta a partir de la temporada 2026-27, poniendo fin a cinco años de vínculo con la marca de alimentos coreana Bibigo. Una fuente cercana al acuerdo indicó que su valor supera los 30 millones de dólares anuales, por encima de los cerca de 20 millones que pagaba Bibigo."
+      },
+      "zh": {
+        "title": "湖人队将球衣广告赞助商由必品阁换为金融科技应用Albert",
+        "summary": "洛杉矶湖人队宣布，从2026-27赛季起由个人理财应用Albert接任球衣广告位赞助商，结束与韩国食品品牌必品阁长达五年的合作。据知情人士透露，新协议年价值超过3000万美元，高于此前必品阁约2000万美元的合同。"
+      },
+      "fr": {
+        "title": "Les Lakers remplacent Bibigo par l'application fintech Albert comme sponsor du patch maillot",
+        "summary": "Les Lakers de Los Angeles ont désigné l'application de finances personnelles Albert comme nouveau sponsor de leur patch maillot à partir de la saison 2026-27, mettant fin à cinq ans de partenariat avec la marque alimentaire coréenne Bibigo. Selon une source proche du dossier, l'accord est évalué à plus de 30 millions de dollars par an, contre environ 20 millions pour Bibigo."
+      }
+    }
   }
 ]
