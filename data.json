@@ -6882,5 +6882,209 @@
         "summary": "Les Lakers de Los Angeles ont désigné l'application de finances personnelles Albert comme nouveau sponsor de leur patch maillot à partir de la saison 2026-27, mettant fin à cinq ans de partenariat avec la marque alimentaire coréenne Bibigo. Selon une source proche du dossier, l'accord est évalué à plus de 30 millions de dollars par an, contre environ 20 millions pour Bibigo."
       }
     }
+  },
+  {
+    "id": "cal-databricks-stadium-naming-rights",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor",
+      "tech"
+    ],
+    "published_at": "2026-09-24T00:00:00Z",
+    "source_name": "Cal Bears Athletics",
+    "source_url": "https://calbears.com/news/2026/9/24/athletics-news-cal-announces-historic-naming-rights-partnership-with-databricks",
+    "i18n": {
+      "en": {
+        "title": "Cal Renames Memorial Stadium Field 'Databricks Field' in New Naming-Rights Deal",
+        "summary": "California's athletic department has struck a multi-year naming-rights agreement with data and AI company Databricks, renaming the playing surface at California Memorial Stadium in Berkeley. The school called it a landmark partnership and one of the first of its kind to pair a major tech brand with an Atlantic Coast Conference venue."
+      },
+      "ja": {
+        "title": "カリフォルニア大学、メモリアル・スタジアムのフィールドを「データブリックス・フィールド」に改称",
+        "summary": "カリフォルニア大学の体育局は、データ・AI企業データブリックスと複数年にわたる命名権契約を締結し、バークレーにあるカリフォルニア・メモリアル・スタジアムのフィールド名称を変更した。大学側はこれを画期的な提携と位置づけ、大手テック企業がアトランティック・コースト・カンファレンスの会場と結ぶ初期の事例の一つとしている。"
+      },
+      "es": {
+        "title": "Cal renombra el campo del Memorial Stadium como 'Databricks Field' en nuevo acuerdo de naming",
+        "summary": "El departamento deportivo de California firmó un acuerdo de derechos de nombre a varios años con la empresa de datos e inteligencia artificial Databricks, renombrando el terreno de juego del California Memorial Stadium en Berkeley. La universidad calificó el pacto como histórico y uno de los primeros en unir a una gran marca tecnológica con un recinto de la Atlantic Coast Conference."
+      },
+      "zh": {
+        "title": "加州大学将纪念体育场球场更名为「Databricks球场」",
+        "summary": "加州大学体育部与数据与人工智能公司Databricks签订了多年期冠名权协议，将位于伯克利的加州纪念体育场球场重新命名。校方称这是一项具有里程碑意义的合作，也是大型科技品牌与大西洋沿岸联盟场馆结缘的早期案例之一。"
+      },
+      "fr": {
+        "title": "Cal rebaptise le terrain du Memorial Stadium 'Databricks Field' dans un nouvel accord de naming",
+        "summary": "Le département sportif de Californie a signé un accord de naming pluriannuel avec l'entreprise de données et d'intelligence artificielle Databricks, rebaptisant le terrain du California Memorial Stadium à Berkeley. L'université qualifie ce partenariat d'historique, l'un des premiers à associer une grande marque technologique à une enceinte de l'Atlantic Coast Conference."
+      }
+    }
+  },
+  {
+    "id": "npb-draft-2026-taisho-lipovitan-d-sponsor",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-08-24T00:00:00Z",
+    "source_name": "Taisho Pharmaceutical",
+    "source_url": "https://www.taisho.co.jp/company/news/2026/20260824001411/",
+    "i18n": {
+      "en": {
+        "title": "Taisho Pharmaceutical Extends NPB Draft Sponsorship for 14th Straight Year",
+        "summary": "Taisho Pharmaceutical will again serve as special sponsor of Nippon Professional Baseball's annual rookie draft conference, marking 14 consecutive years backing the event under the banner 'Draft Conference supported by Lipovitan D.' This year's draft is set for October 22, 2026, continuing a corporate relationship with NPB that also includes an awards sponsorship dating back to 2014."
+      },
+      "ja": {
+        "title": "大正製薬、NPBドラフト会議への特別協賛を14年連続で継続",
+        "summary": "大正製薬は日本野球機構（NPB）の新人選手選択会議において、「プロ野球ドラフト会議 supported by リポビタンD」の名称のもと14年連続で特別協賛を務めることになった。今年のドラフト会議は2026年10月22日に開催予定で、同社は2014年からNPBアワーズの冠スポンサーも務めるなど長年にわたる協賛関係を続けている。"
+      },
+      "es": {
+        "title": "Taisho Pharmaceutical extiende su patrocinio del draft de la NPB por 14º año consecutivo",
+        "summary": "Taisho Pharmaceutical volverá a ser patrocinador especial de la conferencia anual de draft de novatos de la Nippon Professional Baseball, cumpliendo 14 años consecutivos respaldando el evento bajo el nombre 'Draft Conference supported by Lipovitan D'. El draft de este año está previsto para el 22 de octubre de 2026, dentro de una relación corporativa con la NPB que incluye también el patrocinio de sus premios anuales desde 2014."
+      },
+      "zh": {
+        "title": "大正制药连续14年冠名赞助NPB选秀会",
+        "summary": "大正制药将再度担任日本职业棒球机构（NPB）年度新秀选秀大会的特别赞助商，以「Draft Conference supported by Lipovitan D」的名义连续第14年支持该赛事。今年的选秀会定于2026年10月22日举行，该公司自2014年起还一直冠名赞助NPB年度颁奖典礼。"
+      },
+      "fr": {
+        "title": "Taisho Pharmaceutical prolonge son parrainage de la draft de la NPB pour la 14e année consécutive",
+        "summary": "Taisho Pharmaceutical sera de nouveau sponsor spécial de la conférence annuelle de draft des recrues de la Nippon Professional Baseball, pour une 14e année consécutive, sous le nom « Draft Conference supported by Lipovitan D ». La draft de cette année est prévue le 22 octobre 2026, dans le cadre d'une relation avec la NPB qui inclut aussi le parrainage de sa cérémonie de récompenses depuis 2014."
+      }
+    }
+  },
+  {
+    "id": "protect-college-sports-act-senate-advance",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-09-21T00:00:00Z",
+    "source_name": "Yahoo Sports",
+    "source_url": "https://sports.yahoo.com/college-football/article/key-senators-strike-bipartisan-deal-on-sweeping-college-sports-reform-with-transfer-eligibility-and-cap-enforcement-152527197.html",
+    "i18n": {
+      "en": {
+        "title": "US Senate Advances Bipartisan Bill to Overhaul College Sports Compensation Rules",
+        "summary": "The US Senate voted 77-22 to move forward with the Protect College Sports Act, a bipartisan bill that would give schools and conferences a limited antitrust exemption to jointly negotiate media rights while roughly doubling the cap on athlete compensation. The measure still faces further votes but signals growing momentum toward federal rules governing the NIL era."
+      },
+      "ja": {
+        "title": "米上院、大学スポーツの報酬ルール見直しを目指す超党派法案を前進させる",
+        "summary": "米上院は77対22の賛成多数で「プロテクト・カレッジ・スポーツ法案」の審議入りを可決した。同法案は大学やカンファレンスがメディア権を共同交渉できるよう限定的な独占禁止法適用除外を与える一方、選手への報酬上限をほぼ倍増させる内容となっている。成立にはさらなる採決が必要だが、NIL（氏名・肖像・イメージ）時代における連邦ルール整備への機運の高まりを示している。"
+      },
+      "es": {
+        "title": "El Senado de EE.UU. avanza un proyecto de ley bipartidista para reformar la compensación en el deporte universitario",
+        "summary": "El Senado de Estados Unidos votó 77 a 22 para avanzar con la Protect College Sports Act, una ley bipartidista que otorgaría a universidades y conferencias una exención antimonopolio limitada para negociar conjuntamente derechos de medios, al tiempo que duplicaría aproximadamente el tope de compensación a los atletas. La medida aún enfrenta más votaciones, pero refleja un impulso creciente hacia una regulación federal de la era NIL."
+      },
+      "zh": {
+        "title": "美国参议院推进两党支持的法案以改革大学体育薪酬规则",
+        "summary": "美国参议院以77票对22票通过程序性表决，推进《保护大学体育法案》，该跨党派法案将赋予大学和联盟有限的反垄断豁免权，使其可以联合谈判媒体版权，同时将运动员薪酬上限提高约一倍。该法案仍需经过后续表决，但已显示出为NIL（姓名、肖像与形象权）时代建立联邦规则的势头正在增强。"
+      },
+      "fr": {
+        "title": "Le Sénat américain fait avancer un projet de loi bipartisan pour réformer la rémunération dans le sport universitaire",
+        "summary": "Le Sénat américain a voté à 77 voix contre 22 pour faire avancer le Protect College Sports Act, un projet de loi bipartisan qui accorderait aux universités et aux conférences une exemption antitrust limitée pour négocier conjointement les droits médias, tout en doublant environ le plafond de rémunération des athlètes. Le texte doit encore franchir d'autres votes, mais il illustre une dynamique croissante vers une réglementation fédérale de l'ère NIL."
+      }
+    }
+  },
+  {
+    "id": "marlins-minority-stake-sale-1-55b",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-05-29T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/business/team-sales/2026/miami-marlins-ownership-stake-value-1234901684/",
+    "i18n": {
+      "en": {
+        "title": "Marlins Quietly Sell 15% Stake at $1.55 Billion Valuation",
+        "summary": "The Miami Marlins sold roughly 15% of the franchise to two South Florida-based families in a transaction valuing the club at $1.55 billion, generating about $233 million that will go toward paying down debt. Principal owner Bruce Sherman retains control of the team, and the buyers were not publicly identified."
+      },
+      "ja": {
+        "title": "マイアミ・マーリンズ、15％の株式を非公開で売却しクラブ評価額15億5000万ドルに",
+        "summary": "マイアミ・マーリンズは南フロリダを拠点とする2つの一族に対し球団の約15％の株式を売却し、評価額は15億5000万ドルとなった。この取引により約2億3300万ドルの資金が調達され、負債返済に充てられる見込み。筆頭オーナーのブルース・シャーマン氏は引き続き経営権を保持しており、買収した一族の名前は公表されていない。"
+      },
+      "es": {
+        "title": "Marlins vende discretamente un 15% de participación con una valoración de 1.550 millones de dólares",
+        "summary": "Los Miami Marlins vendieron aproximadamente el 15% de la franquicia a dos familias radicadas en el sur de Florida en una operación que valoró al club en 1.550 millones de dólares, generando unos 233 millones que se destinarán a reducir deuda. El propietario principal, Bruce Sherman, conserva el control del equipo, y la identidad de los compradores no fue revelada públicamente."
+      },
+      "zh": {
+        "title": "马林鱼队悄然出售15%股份，球队估值达15.5亿美元",
+        "summary": "迈阿密马林鱼队将球队约15%的股份出售给两个南佛罗里达家族，交易将球队估值定为15.5亿美元，预计将为球队带来约2.33亿美元资金用于偿还债务。大股东布鲁斯·舍曼仍保有球队控制权，买方家族的身份未对外公开。"
+      },
+      "fr": {
+        "title": "Les Marlins cèdent discrètement 15 % de leurs parts pour une valorisation de 1,55 milliard de dollars",
+        "summary": "Les Marlins de Miami ont vendu environ 15 % de la franchise à deux familles basées dans le sud de la Floride, dans une transaction valorisant le club à 1,55 milliard de dollars et générant environ 233 millions destinés au remboursement de dettes. Le propriétaire principal, Bruce Sherman, conserve le contrôle de l'équipe, et l'identité des acheteurs n'a pas été rendue publique."
+      }
+    }
+  },
+  {
+    "id": "bundesliga-polymarket-us-prediction-partner",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-06-22T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/news/bundesliga-adds-polymarket-as-regional-partner-in-relevent-brokered-deal/",
+    "i18n": {
+      "en": {
+        "title": "Bundesliga Signs Polymarket as Its First-Ever US Partner in Relevent-Brokered Deal",
+        "summary": "Germany's Bundesliga has named prediction-market platform Polymarket as its first official partner in the United States, in a deal arranged by Relevent, which has held the league's commercial rights across the Americas since 2024. The partnership gives Polymarket regional marketing rights as the league looks to build its US fan base ahead of the 2026-27 season."
+      },
+      "ja": {
+        "title": "ブンデスリーガ、予測市場プラットフォーム「ポリマーケット」と米国初のパートナー契約",
+        "summary": "ドイツ・ブンデスリーガは予測市場プラットフォームのポリマーケットを、アメリカ大陸における米国初の公式パートナーに起用した。2024年からリーグの米州における商業権を保有するリレバントが仲介した契約で、2026-27シーズンに向けて米国でのファン基盤拡大を目指すリーグに、ポリマーケットは地域限定のマーケティング権を得ることになる。"
+      },
+      "es": {
+        "title": "La Bundesliga ficha a Polymarket como su primer socio en Estados Unidos en un acuerdo mediado por Relevent",
+        "summary": "La Bundesliga alemana nombró a la plataforma de mercados de predicción Polymarket como su primer socio oficial en Estados Unidos, en un acuerdo gestionado por Relevent, que posee los derechos comerciales de la liga en América desde 2024. La alianza otorga a Polymarket derechos de marketing regionales mientras la liga busca ampliar su base de aficionados estadounidenses de cara a la temporada 2026-27."
+      },
+      "zh": {
+        "title": "德甲联赛与Polymarket签订美国市场首个合作协议，由Relevent牵线",
+        "summary": "德国德甲联赛宣布预测市场平台Polymarket成为其在美国的首个官方合作伙伴，该协议由自2024年起持有德甲美洲地区商业权益的Relevent公司促成。此次合作将赋予Polymarket区域营销权，德甲希望借此在2026-27赛季前扩大在美国的球迷基础。"
+      },
+      "fr": {
+        "title": "La Bundesliga signe avec Polymarket, son tout premier partenaire aux États-Unis, dans un accord négocié par Relevent",
+        "summary": "La Bundesliga allemande a nommé la plateforme de marchés prédictifs Polymarket comme son premier partenaire officiel aux États-Unis, dans le cadre d'un accord négocié par Relevent, détenteur des droits commerciaux de la ligue en Amérique depuis 2024. Ce partenariat confère à Polymarket des droits marketing régionaux, alors que la ligue cherche à développer sa base de fans américaine avant la saison 2026-27."
+      }
+    }
+  },
+  {
+    "id": "adidas-dfl-bundesliga-future-partner-investment",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-04-28T00:00:00Z",
+    "source_name": "SportsPro",
+    "source_url": "https://www.sportspro.com/news/finance-investment/bundesliga-dfl-adidas-investment-strategic-partnership-april-2026/",
+    "i18n": {
+      "en": {
+        "title": "Adidas to Invest €100 Million in Bundesliga Under New 'Official Future Partner' Deal",
+        "summary": "Adidas and Germany's DFL have entered a strategic 'Official Future Partner' agreement under which the brand will provide the league a €100 million financing facility to support its future development. The companies also extended their official match-ball supply agreement for German professional football to at least 2034."
+      },
+      "ja": {
+        "title": "アディダス、ブンデスリーガと『オフィシャル・フューチャー・パートナー』契約を締結し1億ユーロを投資",
+        "summary": "アディダスとドイツ・ブンデスリーガを運営するDFLは、戦略的提携『オフィシャル・フューチャー・パートナー』契約を締結した。アディダスはリーグの将来的な発展を支援するため1億ユーロの資金枠を提供する。両者はまた、ドイツプロサッカーにおける公式試合球供給契約を少なくとも2034年まで延長した。"
+      },
+      "es": {
+        "title": "Adidas invertirá 100 millones de euros en la Bundesliga bajo un nuevo acuerdo de 'Socio Oficial del Futuro'",
+        "summary": "Adidas y la DFL alemana han firmado un acuerdo estratégico de 'Socio Oficial del Futuro', mediante el cual la marca proporcionará a la liga una línea de financiación de 100 millones de euros para respaldar su desarrollo futuro. Las partes también extendieron su acuerdo de suministro del balón oficial del fútbol profesional alemán hasta al menos 2034."
+      },
+      "zh": {
+        "title": "阿迪达斯与德甲签署「官方未来合作伙伴」协议，投资1亿欧元",
+        "summary": "阿迪达斯与负责运营德甲联赛的德国足球联盟（DFL）达成战略性「官方未来合作伙伴」协议，阿迪达斯将向联赛提供1亿欧元融资额度以支持其未来发展。双方还将德国职业足球官方比赛用球供应协议延长至至少2034年。"
+      },
+      "fr": {
+        "title": "Adidas va investir 100 millions d'euros dans la Bundesliga dans le cadre d'un nouvel accord de « partenaire officiel de l'avenir »",
+        "summary": "Adidas et la DFL allemande ont conclu un accord stratégique de « partenaire officiel de l'avenir », par lequel la marque fournira à la ligue une enveloppe de financement de 100 millions d'euros pour soutenir son développement futur. Les deux parties ont également prolongé leur accord de fourniture du ballon officiel du football professionnel allemand jusqu'à au moins 2034."
+      }
+    }
   }
 ]
