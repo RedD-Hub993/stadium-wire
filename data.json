@@ -5194,5 +5194,240 @@
         "summary": "La préfecture de Saitama a désigné GMO Internet Group comme détenteur des droits de dénomination du Saitama Super Arena, rebaptisant le site « GMO Arena Saitama » à partir du 1er avril dans le cadre d'un contrat de six ans d'une valeur d'environ 2,8 milliards de yens. Cette salle, un lieu majeur pour les concerts et le sport, est actuellement fermée pour une rénovation de grande ampleur et devrait rouvrir en avril 2027."
       }
     }
+  },
+  {
+    "id": "mbappe-signs-on-running-nike-exit",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-18T16:00:00Z",
+    "source_name": "CNBC",
+    "source_url": "https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html",
+    "i18n": {
+      "en": {
+        "title": "Mbappe Ends 20-Year Nike Run, Signs 10-Year Deal With On",
+        "summary": "Kylian Mbappe has parted ways with Nike after nearly two decades and signed a 10-year global ambassador and product partnership with Swiss sportswear brand On. On is using the deal, which also involves Thierry Henry, to establish itself in the soccer footwear and apparel market for the first time."
+      },
+      "ja": {
+        "title": "ムバッペ、ナイキとの20年契約を終了しOnと10年契約締結",
+        "summary": "キリアン・ムバッペは約20年間続いたナイキとの契約を終え、スイスのスポーツウェアブランド「On」とグローバルアンバサダー兼製品開発の10年契約を結んだ。Onはこの契約を通じてティエリ・アンリらとともにサッカー用フットウェア市場に本格参入する狙いがある。"
+      },
+      "es": {
+        "title": "Mbappe pone fin a 20 años con Nike y firma 10 años con On",
+        "summary": "Kylian Mbappe se separó de Nike tras casi dos décadas y firmó un acuerdo de diez años como embajador global y socio de producto con la marca suiza On. La marca utiliza este contrato, que también incluye a Thierry Henry, para entrar por primera vez en el mercado del calzado y la ropa de fútbol."
+      },
+      "zh": {
+        "title": "姆巴佩结束与耐克20年合作 签约十年加盟On昂跑",
+        "summary": "基利安·姆巴佩在与耐克合作近二十年后正式分道扬镳，转而与瑞士运动品牌On昂跑签下为期十年的全球代言与产品合作协议。On借此协议携手蒂埃里·亨利等人首次进军足球鞋服市场。"
+      },
+      "fr": {
+        "title": "Mbappe met fin à 20 ans chez Nike et signe 10 ans avec On",
+        "summary": "Kylian Mbappe a rompu avec Nike après près de vingt ans et a signé un contrat de dix ans en tant qu'ambassadeur mondial et partenaire produit avec la marque suisse On. Cet accord, qui implique aussi Thierry Henry, permet à On de faire une première entrée sur le marché des chaussures et vêtements de football."
+      }
+    }
+  },
+  {
+    "id": "curry-li-ning-signature-shoe-2027",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-17T14:00:00Z",
+    "source_name": "CNBC",
+    "source_url": "https://www.cnbc.com/2026/09/17/stephen-curry-li-ning-signature-shoe.html",
+    "i18n": {
+      "en": {
+        "title": "Curry Says His Li-Ning Signature Shoe Will Debut in 2027",
+        "summary": "Stephen Curry confirmed that his first signature sneaker under his 10-year Li-Ning partnership will launch in early 2027, with the Chinese sportswear giant releasing other Curry Brand footwear in the meantime. The comments give a timeline for a deal that expands Li-Ning's push into basketball, athleisure and golf products."
+      },
+      "ja": {
+        "title": "カリー、Li-Ningとのシグネチャーシューズ発売は2027年と表明",
+        "summary": "ステフィン・カリーは、中国のLi-Ningとの10年契約に基づく初のシグネチャーシューズが2027年初頭に発売されると明らかにした。それまでの間はカリーブランドの他モデルを展開するとしており、バスケットボールやゴルフ用品への事業拡大を狙うLi-Ningの戦略を象徴する動きとなっている。"
+      },
+      "es": {
+        "title": "Curry dice que su zapatilla firma con Li-Ning llegará en 2027",
+        "summary": "Stephen Curry confirmó que su primer calzado con firma propia bajo su acuerdo de diez años con Li-Ning se lanzará a comienzos de 2027, mientras la marca china distribuye otros modelos de Curry Brand mientras tanto. El anuncio marca un hito en la expansión de Li-Ning hacia el baloncesto, la ropa deportiva y el golf."
+      },
+      "zh": {
+        "title": "库里透露与李宁签名鞋将于2027年推出",
+        "summary": "斯蒂芬·库里确认，他在与李宁达成的十年合作协议下推出的首款签名球鞋将于2027年初上市，在此之前将先发售其他Curry Brand鞋款。此番表态为李宁借此拓展篮球、运动休闲及高尔夫产品线的战略提供了明确时间表。"
+      },
+      "fr": {
+        "title": "Curry annonce que sa chaussure signature Li-Ning sortira en 2027",
+        "summary": "Stephen Curry a confirmé que sa première chaussure signature dans le cadre de son partenariat de dix ans avec Li-Ning sera lancée début 2027, la marque chinoise proposant d'autres modèles Curry Brand entre-temps. Cette annonce précise le calendrier d'un accord qui élargit la présence de Li-Ning dans le basketball, l'athleisure et le golf."
+      }
+    }
+  },
+  {
+    "id": "cme-group-white-sox-jersey-patch",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-01-28T15:00:00Z",
+    "source_name": "MLB.com",
+    "source_url": "https://www.mlb.com/news/white-sox-cme-group-jersey-patch",
+    "i18n": {
+      "en": {
+        "title": "CME Group Becomes First-Ever Chicago White Sox Jersey Patch Sponsor",
+        "summary": "The Chicago White Sox signed a multiyear deal naming derivatives marketplace CME Group as the franchise's first-ever jersey patch sponsor and Official Global Exchange Partner. The patch appears on home, road and alternate jerseys, and CME Group also gets prominent behind-home-plate signage at Rate Field."
+      },
+      "ja": {
+        "title": "CMEグループ、シカゴ・ホワイトソックス史上初のユニフォーム広告スポンサーに",
+        "summary": "シカゴ・ホワイトソックスはデリバティブ取引所大手CMEグループと複数年契約を締結し、球団史上初のユニフォームパッチスポンサー兼公式グローバル取引所パートナーとした。パッチはホーム・ビジター・オルタネートの全ユニフォームに掲出され、本拠地レイト・フィールドのバックネット裏看板でも露出する。"
+      },
+      "es": {
+        "title": "CME Group se convierte en el primer patrocinador de parche de los White Sox",
+        "summary": "Los Medias Blancas de Chicago firmaron un acuerdo plurianual que convierte al mercado de derivados CME Group en el primer patrocinador de parche de camiseta en la historia de la franquicia y su Socio Global Oficial de Bolsa. El parche aparecerá en las camisetas locales, visitantes y alternativas, y CME Group también obtendrá cartelería destacada detrás del plato en Rate Field."
+      },
+      "zh": {
+        "title": "CME集团成为芝加哥白袜队史上首位球衣广告赞助商",
+        "summary": "芝加哥白袜队与衍生品交易所巨头CME集团签订多年协议，使其成为球队历史上首位球衣臂章赞助商及官方全球交易所合作伙伴。该广告将出现在主场、客场及替补球衣上，CME集团还将在主场Rate Field本垒板后方获得显著广告位。"
+      },
+      "fr": {
+        "title": "CME Group devient le tout premier sponsor de patch maillot des White Sox",
+        "summary": "Les White Sox de Chicago ont signé un accord pluriannuel faisant de la place de marché de produits dérivés CME Group leur tout premier sponsor de patch de maillot ainsi que partenaire officiel mondial de bourse. Le logo figurera sur les maillots domicile, extérieur et alternatif, avec en plus une signalétique bien visible derrière le marbre à Rate Field."
+      }
+    }
+  },
+  {
+    "id": "jleague-regional-partner-barcon-hongkong",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-07-14T05:00:00Z",
+    "source_name": "J.League",
+    "source_url": "https://www.jleague.jp/news/article/34427/",
+    "i18n": {
+      "en": {
+        "title": "J.League Signs Hong Kong's Barcon as First-Ever Regional Partner",
+        "summary": "J.League created a new 'Regional Partner' category focused on overseas collaboration and signed Hong Kong-based Barcon, operator of the inbound-travel media outlet LikeJapan, as its inaugural partner. The two sides plan joint content, events in Hong Kong and e-commerce initiatives as part of the league's push to grow its business across Asia."
+      },
+      "ja": {
+        "title": "Jリーグ、香港のバーコン社と初のリージョナルパートナー契約",
+        "summary": "Jリーグは海外連携に特化した新カテゴリー「Jリーグリージョナルパートナー」を新設し、訪日情報メディア『LikeJapan』を運営する香港のバーコン社と初の契約を締結した。両者は香港でのコンテンツ発信やイベント開催、EC事業での連携を通じ、アジア市場でのJリーグの事業拡大を目指す。"
+      },
+      "es": {
+        "title": "La J.League ficha a la hongkonesa Barcon como su primer socio regional",
+        "summary": "La J.League creó una nueva categoría de 'Socio Regional' centrada en la colaboración internacional y firmó con la empresa de Hong Kong Barcon, operadora del medio de viajes LikeJapan, como su primer socio bajo este esquema. Ambas partes planean contenido conjunto, eventos en Hong Kong e iniciativas de comercio electrónico para impulsar el negocio de la liga en Asia."
+      },
+      "zh": {
+        "title": "J联赛与香港Barcon签约 首位“地区合作伙伴”诞生",
+        "summary": "日本J联赛新设专注海外合作的“地区合作伙伴”类别，并与运营访日资讯媒体LikeJapan的香港企业Barcon签署首份此类合约。双方计划在香港开展联合内容制作、活动及电商合作，助力J联赛拓展亚洲市场业务。"
+      },
+      "fr": {
+        "title": "La J.League signe avec la hongkongaise Barcon, premier partenaire régional",
+        "summary": "La J.League a créé une nouvelle catégorie de « partenaire régional » dédiée à la collaboration internationale et a signé avec la société hongkongaise Barcon, éditrice du média de voyage LikeJapan, comme tout premier partenaire de ce type. Les deux parties prévoient du contenu commun, des événements à Hong Kong et des initiatives e-commerce pour développer les activités de la ligue en Asie."
+      }
+    }
+  },
+  {
+    "id": "crystal-palace-brooks-running-footwear",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-08-27T09:00:00Z",
+    "source_name": "Crystal Palace FC",
+    "source_url": "https://www.cpfc.co.uk/news/announcement/crystal-palace-fc-announce-brooks-as-official-footwear-partner/",
+    "i18n": {
+      "en": {
+        "title": "Crystal Palace Names Brooks Running Official Footwear Partner",
+        "summary": "Crystal Palace announced a multiyear deal with Brooks Running, a Berkshire Hathaway-owned brand, to become official footwear and front-of-training-wear partner for the men's and women's first teams. Brooks will also gain pitchside and digital signage at Selhurst Park as part of the agreement."
+      },
+      "ja": {
+        "title": "クリスタル・パレス、Brooksをオフィシャルフットウェアパートナーに",
+        "summary": "クリスタル・パレスはバークシャー・ハサウェイ傘下のランニングブランドBrooksと複数年契約を締結し、男女トップチームのオフィシャルフットウェア兼トレーニングウェア前面パートナーとした。契約にはホームスタジアム、セルハースト・パークでのピッチサイド広告やデジタルサイネージ露出も含まれる。"
+      },
+      "es": {
+        "title": "Crystal Palace nombra a Brooks Running su socio oficial de calzado",
+        "summary": "Crystal Palace anunció un acuerdo plurianual con Brooks Running, marca propiedad de Berkshire Hathaway, para convertirse en socio oficial de calzado y de la parte frontal de la ropa de entrenamiento de los primeros equipos masculino y femenino. Brooks también obtendrá presencia publicitaria junto al terreno de juego y en pantallas digitales de Selhurst Park."
+      },
+      "zh": {
+        "title": "水晶宫任命Brooks Running为官方战靴合作伙伴",
+        "summary": "水晶宫足球俱乐部与伯克希尔·哈撒韦旗下跑鞋品牌Brooks Running签署多年协议，使其成为男女一线队官方战靴及训练服前胸赞助合作伙伴。协议还包括在主场塞尔赫斯特公园获得场边及数字广告位。"
+      },
+      "fr": {
+        "title": "Crystal Palace nomme Brooks Running partenaire officiel équipementier",
+        "summary": "Crystal Palace a annoncé un accord pluriannuel avec Brooks Running, marque détenue par Berkshire Hathaway, qui devient équipementier officiel et partenaire principal des tenues d'entraînement des équipes premières masculine et féminine. Brooks bénéficiera aussi de panneaux au bord du terrain et d'un affichage numérique à Selhurst Park."
+      }
+    }
+  },
+  {
+    "id": "tottenham-vsbet-asia-betting-partner",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-01T08:00:00Z",
+    "source_name": "Inside World Football",
+    "source_url": "https://www.insideworldfootball.com/2026/09/01/spurs-expand-commercial-presence-in-asia-with-vsbet-deal",
+    "i18n": {
+      "en": {
+        "title": "Tottenham Signs VSbet as Regional Betting Partner for Asia",
+        "summary": "Tottenham Hotspur agreed a three-year deal making digital sportsbook VSbet its official regional betting partner across Asia, extending a strategy of splitting betting sponsorships by territory. The club already has separate betting partners covering Europe, Latin America, North America and Africa."
+      },
+      "ja": {
+        "title": "トッテナム、アジア地域向けベッティングパートナーにVSbet",
+        "summary": "トッテナム・ホットスパーはオンラインスポーツブックVSbetとアジア地域限定の公式ベッティングパートナー契約を3年間で締結した。同クラブは欧州、中南米、北米、アフリカでそれぞれ異なるベッティング企業と契約しており、地域別にスポンサーを分ける戦略を進めている。"
+      },
+      "es": {
+        "title": "Tottenham ficha a VSbet como socio de apuestas para Asia",
+        "summary": "Tottenham Hotspur cerró un acuerdo de tres años que convierte a la casa de apuestas digital VSbet en su socio oficial de apuestas para la región de Asia, ampliando su estrategia de repartir patrocinios de apuestas por territorio. El club ya cuenta con socios de apuestas distintos para Europa, Latinoamérica, Norteamérica y África."
+      },
+      "zh": {
+        "title": "热刺签约VSbet 成为亚洲地区官方博彩合作伙伴",
+        "summary": "托特纳姆热刺与数字博彩平台VSbet签订三年协议，使其成为俱乐部在亚洲地区的官方博彩合作伙伴，延续按地域拆分博彩赞助的策略。该俱乐部此前已分别在欧洲、拉美、北美及非洲设有不同的博彩合作伙伴。"
+      },
+      "fr": {
+        "title": "Tottenham signe avec VSbet comme partenaire de paris pour l'Asie",
+        "summary": "Tottenham Hotspur a conclu un accord de trois ans faisant du bookmaker en ligne VSbet son partenaire officiel de paris pour la région Asie, poursuivant sa stratégie de répartir les sponsors de paris par territoire. Le club dispose déjà de partenaires distincts pour l'Europe, l'Amérique latine, l'Amérique du Nord et l'Afrique."
+      }
+    }
+  },
+  {
+    "id": "man-city-seatgeek-global-partnership",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "tech",
+      "fan"
+    ],
+    "published_at": "2026-09-17T11:00:00Z",
+    "source_name": "Inside World Football",
+    "source_url": "https://www.insideworldfootball.com/2026/09/17/man-city-expand-seatgeek-partnership",
+    "i18n": {
+      "en": {
+        "title": "Manchester City Upgrades SeatGeek Tie-Up to Global Partnership",
+        "summary": "Manchester City turned its long-running ticketing relationship with SeatGeek into a full global commercial partnership, expanding beyond the technology that has powered matchday and hospitality sales at the Etihad Stadium since 2018. The club will continue to control direct ticket sales and resale while SeatGeek supplies the underlying platform."
+      },
+      "ja": {
+        "title": "マンチェスター・シティ、SeatGeekとの提携をグローバルパートナーシップに格上げ",
+        "summary": "マンチェスター・シティは2018年から続くSeatGeekとのチケッティング関係を、単なる技術提供にとどまらないグローバル商業パートナーシップへと格上げした。エティハド・スタジアムの試合日運営やホスピタリティ販売を支えてきた技術基盤の関係を拡大する形となる。クラブはチケットの直接販売や転売の管理を引き続き自ら行い、SeatGeekは基盤プラットフォームを提供する。"
+      },
+      "es": {
+        "title": "Manchester City eleva su alianza con SeatGeek a socio global",
+        "summary": "Manchester City transformó su larga relación de venta de entradas con SeatGeek en una alianza comercial global completa, ampliando la tecnología que ha impulsado las ventas de hospitalidad y entradas en el Etihad Stadium desde 2018. El club seguirá controlando la venta directa y la reventa de entradas mientras SeatGeek aporta la plataforma."
+      },
+      "zh": {
+        "title": "曼城将与SeatGeek的合作升级为全球战略伙伴关系",
+        "summary": "曼城俱乐部将自2018年起持续至今的SeatGeek票务合作关系升级为全面的全球商业伙伴关系，不再局限于支撑伊蒂哈德球场比赛日及接待票务销售的技术服务。俱乐部将继续掌控门票的直接销售与转售，SeatGeek则负责提供底层技术平台。"
+      },
+      "fr": {
+        "title": "Manchester City élève son partenariat avec SeatGeek au rang mondial",
+        "summary": "Manchester City a transformé sa relation de longue date avec SeatGeek en matière de billetterie en un véritable partenariat commercial mondial, allant au-delà de la technologie qui alimente les ventes de billets et d'hospitalité à l'Etihad Stadium depuis 2018. Le club continuera de contrôler la vente directe et la revente des billets, SeatGeek fournissant la plateforme sous-jacente."
+      }
+    }
   }
 ]
