@@ -7193,5 +7193,175 @@
         "summary": "La ligue japonaise de volley-ball SV.LEAGUE a renouvelé sa collaboration avec l'anime à succès « Haikyu!! » pour la saison 2026-27, avec de nouvelles illustrations des joueurs dessinées par le créateur de la série, Haruichi Furudate. Le partenariat s'étendra au match des étoiles de la ligue, prévu le 30 janvier 2027 à l'Es Con Field Hokkaido, avec des activités destinées aux fans sur le thème de l'anime."
       }
     }
+  },
+  {
+    "id": "att-dallas-cowboys-stadium-tech-extension",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "tech",
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-09-18T00:00:00Z",
+    "source_name": "AT&T",
+    "source_url": "https://about.att.com/story/2026/dallas-cowboys-partnership.html",
+    "i18n": {
+      "en": {
+        "title": "AT&T and Dallas Cowboys Extend 30-Year Stadium Partnership",
+        "summary": "AT&T and the Dallas Cowboys have extended their long-running partnership, keeping the AT&T name on the venue and adding new connectivity features for the 2026 season. The stadium's network, built on more than 261 miles of fiber and nearly 1,000 antennas, will support AI-assisted wayfinding and other fan-facing tools."
+      },
+      "ja": {
+        "title": "AT&Tとダラス・カウボーイズ、30年に及ぶスタジアム契約を延長",
+        "summary": "AT&Tとダラス・カウボーイズは長年続くパートナーシップを延長し、スタジアムの命名権を維持するとともに、2026年シーズンに向けた新たな通信機能を追加する。260マイル超の光ファイバーと約1000台のアンテナで構築されたネットワークは、AIによる館内案内などファン向け機能を支える。"
+      },
+      "es": {
+        "title": "AT&T y los Dallas Cowboys amplían su asociación de 30 años en el estadio",
+        "summary": "AT&T y los Dallas Cowboys ampliaron su histórica alianza, manteniendo el nombre de AT&T en el recinto y sumando nuevas funciones de conectividad para la temporada 2026. La red del estadio, con más de 420 kilómetros de fibra y casi 1.000 antenas, respaldará herramientas de navegación asistida por IA para los aficionados."
+      },
+      "zh": {
+        "title": "AT&T与达拉斯牛仔队延续30年体育场合作关系",
+        "summary": "AT&T与达拉斯牛仔队延长了双方长期的合作关系，继续保留球场冠名权，并为2026赛季新增多项连接功能。该球场网络铺设了超过420公里光纤和近1000台天线，将支持AI辅助导航等面向球迷的服务。"
+      },
+      "fr": {
+        "title": "AT&T et les Cowboys de Dallas prolongent un partenariat de 30 ans autour du stade",
+        "summary": "AT&T et les Cowboys de Dallas ont prolongé leur partenariat de longue date, conservant le nom AT&T sur l'enceinte et ajoutant de nouvelles fonctionnalités de connectivité pour la saison 2026. Le réseau du stade, bâti sur plus de 420 kilomètres de fibre et près de 1 000 antennes, alimentera des outils d'orientation assistés par IA pour les spectateurs."
+      }
+    }
+  },
+  {
+    "id": "real-madrid-emirates-100m-sponsorship-extension",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-06-09T00:00:00Z",
+    "source_name": "SportsPro",
+    "source_url": "https://www.sportspro.com/news/sponsorship-marketing/real-madrid-emirates-record-sponsorship-june-2026/",
+    "i18n": {
+      "en": {
+        "title": "Real Madrid and Emirates Sign Record €100m-a-Year Sponsorship Extension",
+        "summary": "Real Madrid and Emirates have extended their shirt sponsorship through 2031 in a deal reportedly worth €100 million per year, up from around €70 million previously and a new benchmark for European club sponsorship. The airline's branding will continue to appear across Real Madrid's men's, women's, youth and basketball teams."
+      },
+      "ja": {
+        "title": "レアル・マドリードとエミレーツ航空、年間1億ユーロの過去最高額でスポンサー契約を延長",
+        "summary": "レアル・マドリードとエミレーツ航空は2031年までユニフォームスポンサー契約を延長し、金額は従来の年間約7000万ユーロから年間1億ユーロへ引き上げられたと報じられている。これは欧州クラブのスポンサー契約として新たな水準を示すもので、航空会社のロゴは男子・女子・育成年代・バスケットボール部門でも掲出され続ける。"
+      },
+      "es": {
+        "title": "Real Madrid y Emirates firman una récord extensión de patrocinio de 100 millones de euros anuales",
+        "summary": "El Real Madrid y Emirates ampliaron su patrocinio de camiseta hasta 2031 en un acuerdo que, según se informa, vale 100 millones de euros al año, frente a los aproximadamente 70 millones anteriores, marcando un nuevo referente para el patrocinio de clubes europeos. La marca de la aerolínea seguirá apareciendo en los equipos masculino, femenino, de cantera y de baloncesto del club."
+      },
+      "zh": {
+        "title": "皇家马德里与阿联酋航空续约创纪录 年赞助额达1亿欧元",
+        "summary": "皇家马德里与阿联酋航空将球衣赞助合同延长至2031年，据报道年赞助金额达1亿欧元，较此前约7000万欧元大幅提升，为欧洲俱乐部赞助树立新标杆。该航空公司的标识将继续出现在皇马男足、女足、青训梯队及篮球部门。"
+      },
+      "fr": {
+        "title": "Le Real Madrid et Emirates signent une extension record de 100 millions d'euros par an",
+        "summary": "Le Real Madrid et Emirates ont prolongé leur partenariat de sponsoring maillot jusqu'en 2031, pour un montant estimé à 100 millions d'euros par an, contre environ 70 millions auparavant, établissant une nouvelle référence pour le sponsoring des clubs européens. La marque de la compagnie aérienne continuera de figurer sur les équipes masculine, féminine, de jeunes et de basket-ball du club."
+      }
+    }
+  },
+  {
+    "id": "benfica-adidas-2033-extension",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "stadium"
+    ],
+    "published_at": "2026-09-14T00:00:00Z",
+    "source_name": "SportsPro",
+    "source_url": "https://www.sportspro.com/announcements/spotlight-agency/benfica-and-adidas-extend-partnership-through-2033-in-record-deal-worth-reported-e120-million/",
+    "i18n": {
+      "en": {
+        "title": "Benfica and Adidas Extend Kit Deal Through 2033, Adding Training Ground Naming Rights",
+        "summary": "Benfica and Adidas have agreed a six-year extension of their kit supply deal through 2033, reportedly worth €120 million, the largest sponsorship agreement in Portuguese football history. As part of the expanded contract, Adidas also acquires naming rights to the club's Seixal training and development centre, which will become the Adidas Benfica Campus."
+      },
+      "ja": {
+        "title": "ベンフィカとアディダス、2033年までキットサプライヤー契約を延長しトレーニング施設の命名権も獲得",
+        "summary": "ベンフィカとアディダスは、2033年までの6年契約延長に合意し、金額はポルトガルサッカー史上最大となる1億2000万ユーロ規模と報じられている。契約拡大の一環として、アディダスはクラブのセイシャル・トレーニングセンターの命名権も取得し、施設は「アディダス・ベンフィカ・キャンパス」に改称される。"
+      },
+      "es": {
+        "title": "Benfica y Adidas amplían su contrato de indumentaria hasta 2033 e incorporan la naming de su centro de entrenamiento",
+        "summary": "Benfica y Adidas acordaron una extensión de seis años de su contrato de indumentaria hasta 2033, valorado según reportes en 120 millones de euros, el mayor acuerdo de patrocinio en la historia del fútbol portugués. Como parte del contrato ampliado, Adidas también obtiene los derechos de nombre del centro de entrenamiento de Seixal, que pasará a llamarse Adidas Benfica Campus."
+      },
+      "zh": {
+        "title": "本菲卡与阿迪达斯将球衣合同延长至2033年，并获得训练基地冠名权",
+        "summary": "本菲卡与阿迪达斯已达成为期六年的球衣供应合同延长协议，至2033年到期，据报道价值1.2亿欧元，是葡萄牙足球史上金额最高的赞助协议。作为扩大合同的一部分，阿迪达斯还获得俱乐部塞沙尔训练基地的冠名权，该基地将更名为“阿迪达斯本菲卡园区”。"
+      },
+      "fr": {
+        "title": "Benfica et Adidas prolongent leur contrat d'équipementier jusqu'en 2033 et ajoutent le naming du centre d'entraînement",
+        "summary": "Benfica et Adidas ont conclu une extension de six ans de leur contrat d'équipementier jusqu'en 2033, évaluée à 120 millions d'euros selon la presse, le plus important accord de sponsoring de l'histoire du football portugais. Dans le cadre de ce contrat élargi, Adidas obtient également les droits de dénomination du centre d'entraînement de Seixal, qui deviendra l'Adidas Benfica Campus."
+      }
+    }
+  },
+  {
+    "id": "marriott-bonvoy-inter-miami-hotel-partner",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-07-22T00:00:00Z",
+    "source_name": "Inter Miami CF",
+    "source_url": "https://www.intermiamicf.com/news/inter-miami-cf-and-marriott-bonvoy-announce-partnership-to-unlock-exclusive-access-unforgettable-experiences-and-closer-connections-for-fans",
+    "i18n": {
+      "en": {
+        "title": "Inter Miami CF Names Marriott Bonvoy Official Hotel Partner",
+        "summary": "Inter Miami CF has named Marriott Bonvoy as its official hotel and hotel loyalty partner, as well as a founding partner of the club's Miami Freedom Park development. The tie-up is Marriott Bonvoy's first partnership with an MLS club and will let members redeem loyalty points for matchday experiences, suite access and pre-match viewing at Nu Stadium."
+      },
+      "ja": {
+        "title": "インテル・マイアミ、マリオット・ボンヴォイを公式ホテルパートナーに指名",
+        "summary": "インテル・マイアミCFは、マリオット・ボンヴォイを公式ホテル兼ホテルロイヤルティパートナーに指名し、クラブが開発中の「マイアミ・フリーダムパーク」のファウンディングパートナーにも位置付けた。この提携はマリオット・ボンヴォイにとって初のMLSクラブとのパートナーシップで、会員はロイヤルティポイントを使ってヌー・スタジアムでの試合当日体験やスイート利用、試合前観覧などと交換できる。"
+      },
+      "es": {
+        "title": "Inter Miami CF nombra a Marriott Bonvoy su socio hotelero oficial",
+        "summary": "El Inter Miami CF nombró a Marriott Bonvoy como su socio hotelero y de fidelización hotelera oficial, además de socio fundador del desarrollo Miami Freedom Park del club. Es la primera alianza de Marriott Bonvoy con un club de la MLS y permitirá a sus miembros canjear puntos por experiencias de día de partido, acceso a suites y visualización previa al encuentro en el Nu Stadium."
+      },
+      "zh": {
+        "title": "迈阿密国际足球俱乐部任命万豪旅享家为官方酒店合作伙伴",
+        "summary": "迈阿密国际足球俱乐部宣布万豪旅享家成为其官方酒店及酒店忠诚度合作伙伴，并担任俱乐部“迈阿密自由公园”开发项目的创始合作伙伴。这是万豪旅享家首次与美国职业足球大联盟球队合作，会员可用积分兑换Nu体育场的比赛日体验、包厢使用权及赛前观赛机会。"
+      },
+      "fr": {
+        "title": "L'Inter Miami CF nomme Marriott Bonvoy partenaire hôtelier officiel",
+        "summary": "L'Inter Miami CF a nommé Marriott Bonvoy comme partenaire hôtelier officiel et partenaire de son programme de fidélité, ainsi que partenaire fondateur du projet Miami Freedom Park du club. Il s'agit du premier partenariat de Marriott Bonvoy avec un club de la MLS, permettant aux membres d'échanger des points contre des expériences le jour du match, un accès aux loges et des visionnages d'avant-match au Nu Stadium."
+      }
+    }
+  },
+  {
+    "id": "sharkninja-mclaren-racing-partnership",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "tech"
+    ],
+    "published_at": "2026-09-15T00:00:00Z",
+    "source_name": "McLaren Racing",
+    "source_url": "https://www.mclaren.com/racing/partners/sharkninja/mclaren-racing-announces-partnership-with-sharkninja/",
+    "i18n": {
+      "en": {
+        "title": "SharkNinja Signs Global Partnership Spanning McLaren's F1, IndyCar and WEC Programmes",
+        "summary": "Home appliance maker SharkNinja has become an official partner across McLaren Racing's Formula 1, IndyCar, World Endurance Championship and F1 Academy programmes. The tie-up also includes the McLaren Racing Accelerator Programme, through which SharkNinja will apply the team's engineering methods to future product development."
+      },
+      "ja": {
+        "title": "シャークニンジャ、マクラーレンのF1・インディカー・WECにまたがるグローバルパートナーシップを締結",
+        "summary": "家電メーカーのシャークニンジャが、マクラーレン・レーシングのF1、インディカー、世界耐久選手権（WEC）、F1アカデミーの各プログラムで公式パートナーとなった。提携には「マクラーレン・レーシング・アクセラレーター・プログラム」も含まれ、シャークニンジャはチームのエンジニアリング手法を今後の製品開発に応用する。"
+      },
+      "es": {
+        "title": "SharkNinja firma una alianza global que abarca los programas de F1, IndyCar y WEC de McLaren",
+        "summary": "El fabricante de electrodomésticos SharkNinja se convirtió en socio oficial de los programas de Fórmula 1, IndyCar, Campeonato Mundial de Resistencia (WEC) y F1 Academy de McLaren Racing. La alianza incluye además el McLaren Racing Accelerator Programme, mediante el cual SharkNinja aplicará los métodos de ingeniería del equipo al desarrollo de futuros productos."
+      },
+      "zh": {
+        "title": "夏普忍者与迈凯伦达成全球合作 涵盖F1、印地赛车及WEC项目",
+        "summary": "家电制造商夏普忍者已成为迈凯伦车队F1、印地赛车、世界耐力锦标赛（WEC）及F1学院项目的官方合作伙伴。此次合作还包括“迈凯伦赛车加速器计划”，夏普忍者将借助车队的工程方法助力未来产品开发。"
+      },
+      "fr": {
+        "title": "SharkNinja signe un partenariat mondial couvrant les programmes F1, IndyCar et WEC de McLaren",
+        "summary": "Le fabricant d'électroménager SharkNinja est devenu partenaire officiel des programmes Formule 1, IndyCar, Championnat du monde d'endurance (WEC) et F1 Academy de McLaren Racing. Le partenariat inclut aussi le McLaren Racing Accelerator Programme, à travers lequel SharkNinja appliquera les méthodes d'ingénierie de l'équipe au développement de futurs produits."
+      }
+    }
   }
 ]
