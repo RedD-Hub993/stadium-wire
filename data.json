@@ -6417,5 +6417,176 @@
         "summary": "Les Hokkaido Nippon-Ham Fighters ont annoncé l'agrandissement des écrans LED de l'ES CON Field, avec huit nouveaux panneaux portant le total à 14 écrans couvrant environ 3 711 mètres carrés, ce qui en ferait la plus grande surface d'affichage combinée d'un stade japonais. Cette mise à niveau ajoute un bandeau lumineux parcourant l'ensemble des tribunes, utilisable pendant les matchs, les concerts d'après-match et d'autres événements."
       }
     }
+  },
+  {
+    "id": "nfl-primetime-youtube-tv-streaming-restrictions",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "biz",
+      "fan"
+    ],
+    "published_at": "2026-09-25T13:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/business/media/2026/nfl-primetime-espn-streaming-youtube-tv-rules-cost-1234945685/",
+    "i18n": {
+      "en": {
+        "title": "ESPN's NFL Primetime Highlights Show Stays Off YouTube TV",
+        "summary": "ESPN's revived Sunday night NFL recap show, hosted by Chris Berman, is not available to stream on YouTube TV despite appearing in its programming guide. Rights restrictions tied to NBC's exclusive highlights deal for its Sunday Night Football pregame coverage keep the program limited to ESPN's own apps."
+      },
+      "ja": {
+        "title": "ESPNの「NFLプライムタイム」、YouTube TVでは視聴不可",
+        "summary": "クリス・バーマンが司会を務めるESPNの日曜夜のNFLハイライト番組は、YouTube TVの番組表に表示されているものの、実際には配信されていない。NBCが持つサンデーナイトフットボール向けハイライトの独占権が関係し、番組はESPN自社アプリでの視聴に限定されている。"
+      },
+      "es": {
+        "title": "El resumen 'NFL Primetime' de ESPN no se transmite en YouTube TV",
+        "summary": "El programa dominical de resúmenes de la NFL conducido por Chris Berman aparece en la guía de YouTube TV pero no puede verse allí debido a restricciones de derechos. Un acuerdo exclusivo de NBC sobre los resúmenes de su cobertura previa al Sunday Night Football limita la emisión a las plataformas propias de ESPN."
+      },
+      "zh": {
+        "title": "ESPN《NFL黄金时段集锦》未登陆YouTube TV",
+        "summary": "由克里斯·伯曼主持的ESPN周日NFL集锦节目虽然出现在YouTube TV的节目单中，但因版权限制无法在该平台观看。由于NBC对其周日橄榄球之夜赛前集锦拥有独家权利，该节目目前仅能在ESPN自有应用上播出。"
+      },
+      "fr": {
+        "title": "L'émission « NFL Primetime » d'ESPN reste indisponible sur YouTube TV",
+        "summary": "L'émission dominicale de résumés NFL animée par Chris Berman figure dans le guide de programmes de YouTube TV mais ne peut pas y être visionnée en raison de restrictions de droits. Un accord d'exclusivité de NBC sur les résumés de son avant-match Sunday Night Football limite la diffusion aux applications propres d'ESPN."
+      }
+    }
+  },
+  {
+    "id": "jleague-feileb-lepeel-organics-partner",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-09-01T04:00:00Z",
+    "source_name": "J.League",
+    "source_url": "https://www.jleague.jp/news/article/34779/",
+    "i18n": {
+      "en": {
+        "title": "J.League Signs Supporting Partner Deal with Supplement Maker feileB",
+        "summary": "J.League has added feileB, maker of the Lepeel Organics conditioning-supplement line including an iron supplement aimed at addressing anemia, as a new Supporting Partner in its football-academy and youth-development category. The agreement is part of the league's push to widen its roster of smaller, category-specific corporate partners for the 2026/27 season."
+      },
+      "ja": {
+        "title": "Jリーグ、コンディショニングサプリのfeileBとサポーティングパートナー契約",
+        "summary": "Jリーグは、鉄分補給サプリメントなどを展開する「レピールオーガニックス」ブランドのfeileBと、フットボール領域（アカデミー・未来育成）のサポーティングパートナー契約を締結した。2026/27シーズンに向け、分野特化型の中小企業パートナーを拡充する取り組みの一環となる。"
+      },
+      "es": {
+        "title": "La J.League firma un acuerdo con el fabricante de suplementos feileB",
+        "summary": "La J.League incorporó a feileB, fabricante de la línea de suplementos Lepeel Organics —incluido un suplemento de hierro orientado a combatir la anemia—, como nuevo Socio de Apoyo en la categoría de academias y desarrollo juvenil. El acuerdo forma parte del esfuerzo de la liga por ampliar sus socios corporativos especializados para la temporada 2026/27."
+      },
+      "zh": {
+        "title": "J联赛与保健品品牌feileB签署支持合作伙伴协议",
+        "summary": "J联赛新增feileB为“足球学院与青训发展”类别的支持合作伙伴，该公司旗下的Lepeel Organics系列产品包括针对缺铁性贫血的铁质补充剂。此举是联赛在2026/27赛季扩大细分领域中小企业合作伙伴阵容举措的一部分。"
+      },
+      "fr": {
+        "title": "La J.League signe un partenariat avec le fabricant de compléments feileB",
+        "summary": "La J.League a ajouté feileB, fabricant de la gamme de compléments alimentaires Lepeel Organics dont un supplément de fer destiné à lutter contre l'anémie, comme nouveau partenaire de soutien dans la catégorie académie et développement des jeunes. Cet accord s'inscrit dans la volonté de la ligue d'élargir ses partenaires d'entreprise spécialisés pour la saison 2026/27."
+      }
+    }
+  },
+  {
+    "id": "fincantieri-milano-cortina-2026-sponsor",
+    "sport": "olympics",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2025-07-31T00:00:00Z",
+    "source_name": "Fincantieri",
+    "source_url": "https://www.fincantieri.com/en/newsroom/press-releases/2025/fincantieri-is-a-sponsor-of-the-milano-cortina-2026-winter-olympic-and-paralympic-games",
+    "i18n": {
+      "en": {
+        "title": "Shipbuilder Fincantieri Becomes Milano Cortina 2026 Sponsor",
+        "summary": "Italian shipbuilding group Fincantieri has signed on as a sponsor of the Milano Cortina 2026 Winter Olympic and Paralympic Games organizing foundation. The deal adds an industrial heavyweight to the Games' domestic sponsorship roster ahead of the February 2026 opening."
+      },
+      "ja": {
+        "title": "造船大手フィンカンティエリ、ミラノ・コルティナ2026のスポンサーに",
+        "summary": "イタリアの造船大手フィンカンティエリは、ミラノ・コルティナ2026冬季オリンピック・パラリンピック組織財団のスポンサー契約を締結した。2026年2月の開幕を前に、大会の国内スポンサー陣に重工業分野の大手企業が加わった形だ。"
+      },
+      "es": {
+        "title": "El astillero Fincantieri se convierte en patrocinador de Milán-Cortina 2026",
+        "summary": "El grupo naval italiano Fincantieri firmó un acuerdo de patrocinio con la fundación organizadora de los Juegos Olímpicos y Paralímpicos de Invierno Milán-Cortina 2026. El acuerdo suma un gigante industrial al panel de patrocinadores nacionales de los Juegos antes de su inauguración en febrero de 2026."
+      },
+      "zh": {
+        "title": "造船巨头芬坎蒂尼成为米兰-科尔蒂纳2026赞助商",
+        "summary": "意大利造船集团芬坎蒂尼与米兰-科尔蒂纳2026冬奥会及冬残奥会组委会基金会签署赞助协议。在2026年2月开幕前，这家工业巨头加入了本届冬奥会的本土赞助商阵容。"
+      },
+      "fr": {
+        "title": "Le chantier naval Fincantieri devient sponsor de Milan-Cortina 2026",
+        "summary": "Le groupe naval italien Fincantieri a signé un accord de parrainage avec la fondation organisatrice des Jeux olympiques et paralympiques d'hiver de Milan-Cortina 2026. Cet accord ajoute un poids lourd industriel au panel de sponsors nationaux des Jeux avant leur ouverture en février 2026."
+      }
+    }
+  },
+  {
+    "id": "hiroshimai-sanfrecce-hiroshima-partner",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "tech",
+      "fan"
+    ],
+    "published_at": "2026-08-01T00:00:00Z",
+    "source_name": "HiroshimAI (PR Times)",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000005.000186956.html",
+    "i18n": {
+      "en": {
+        "title": "AI Startup HiroshimAI Becomes Sanfrecce Hiroshima Partner",
+        "summary": "Hiroshima-based AI consulting and systems-development startup HiroshimAI has signed a one-year partnership with J1 club Sanfrecce Hiroshima, running through July 2027. The deal includes concourse signage inside the club's stadium and fan-facing promotions, such as branded fan giveaways at a September home match."
+      },
+      "ja": {
+        "title": "AIスタートアップHiroshimAI、サンフレッチェ広島とパートナー契約",
+        "summary": "広島発のAIコンサルティング・システム開発スタートアップHiroshimAIは、J1クラブのサンフレッチェ広島と2027年7月までの1年間のパートナー契約を締結した。契約にはスタジアムコンコースでの看板掲出や来場者向け企画が含まれ、9月のホームゲームではオリジナルうちわの配布も実施された。"
+      },
+      "es": {
+        "title": "La startup de IA HiroshimAI se une como socio de Sanfrecce Hiroshima",
+        "summary": "La startup de consultoría e integración de IA HiroshimAI, con sede en Hiroshima, firmó un acuerdo de patrocinio de un año con el club de la J1 Sanfrecce Hiroshima, vigente hasta julio de 2027. El acuerdo incluye cartelería en el interior del estadio y activaciones para los aficionados, como el reparto de abanicos personalizados en un partido de local en septiembre."
+      },
+      "zh": {
+        "title": "AI初创公司HiroshimAI成为广岛三箭合作伙伴",
+        "summary": "总部位于广岛的人工智能咨询与系统开发初创企业HiroshimAI与J1联赛球队广岛三箭签署为期一年（至2027年7月）的合作伙伴协议。协议内容包括在球场内部通道设置广告标牌，并开展球迷互动活动，例如在9月的主场比赛中派发定制团扇。"
+      },
+      "fr": {
+        "title": "La start-up d'IA HiroshimAI devient partenaire de Sanfrecce Hiroshima",
+        "summary": "La start-up de conseil et de développement en intelligence artificielle HiroshimAI, basée à Hiroshima, a signé un partenariat d'un an avec le club de J1 Sanfrecce Hiroshima, courant jusqu'en juillet 2027. L'accord comprend un affichage dans les coursives du stade ainsi que des animations pour les supporters, dont la distribution d'éventails personnalisés lors d'un match à domicile en septembre."
+      }
+    }
+  },
+  {
+    "id": "trackhouse-superfile-motogp-title-sponsor",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-06-05T00:00:00Z",
+    "source_name": "GPOne",
+    "source_url": "https://www.gpone.com/en/2026/06/05/motogp/superfile-becomes-title-sponsor-of-the-trackhouse-team.html",
+    "i18n": {
+      "en": {
+        "title": "Trackhouse Aprilia Lands First MotoGP Title Sponsor in SuperFile",
+        "summary": "US-based file-sharing company SuperFile has signed a multi-year deal to become title sponsor of the Trackhouse Aprilia MotoGP squad, the team's first title partner since entering the championship. The deal covers the remainder of the 2026 season and beyond as Trackhouse expands its commercial backing in the paddock."
+      },
+      "ja": {
+        "title": "トラックハウス・アプリリア、初のMotoGPタイトルスポンサーにSuperFile",
+        "summary": "米国のファイル共有企業SuperFileは、トラックハウス・アプリリアMotoGPチームと複数年契約を締結し、参戦以来初となるタイトルスポンサーとなった。契約は2026年シーズン残り全戦以降をカバーし、チームはパドックでの商業パートナー基盤を拡大している。"
+      },
+      "es": {
+        "title": "SuperFile se convierte en el primer patrocinador titular de Trackhouse Aprilia en MotoGP",
+        "summary": "La empresa estadounidense de intercambio de archivos SuperFile firmó un acuerdo plurianual para convertirse en patrocinador titular del equipo Trackhouse Aprilia de MotoGP, su primer socio titular desde que ingresó al campeonato. El acuerdo cubre el resto de la temporada 2026 y más allá, mientras Trackhouse amplía su respaldo comercial en el paddock."
+      },
+      "zh": {
+        "title": "SuperFile成为Trackhouse阿普利亚车队首个MotoGP冠名赞助商",
+        "summary": "美国文件共享公司SuperFile与Trackhouse阿普利亚MotoGP车队签署多年协议，成为该队自参赛以来首个冠名赞助商。协议覆盖2026赛季剩余赛程及以后，车队借此扩大在围场内的商业合作阵容。"
+      },
+      "fr": {
+        "title": "SuperFile devient le premier sponsor-titre de Trackhouse Aprilia en MotoGP",
+        "summary": "L'entreprise américaine de partage de fichiers SuperFile a signé un accord pluriannuel pour devenir sponsor-titre de l'écurie Trackhouse Aprilia en MotoGP, son premier partenaire-titre depuis son entrée dans le championnat. L'accord couvre le reste de la saison 2026 et au-delà, alors que Trackhouse élargit son soutien commercial dans le paddock."
+      }
+    }
   }
 ]
