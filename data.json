@@ -6586,5 +6586,277 @@
         "summary": "Le laboratoire pharmaceutique Eli Lilly a signé en tant que sponsor officiel des Jeux olympiques et paralympiques d'hiver de Milan Cortina 2026, rejoignant la liste croissante de sponsors nationaux du comité d'organisation. Ce partenariat met l'accent sur la promotion de messages de santé et de bien-être autour des Jeux, qui se dérouleront en février et mars 2026."
       }
     }
+  },
+  {
+    "id": "resona-bleague-title-partner-2026-27",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-02-17T00:00:00Z",
+    "source_name": "B.LEAGUE",
+    "source_url": "https://www.bleague.jp/news_detail/id=550435",
+    "i18n": {
+      "en": {
+        "title": "Resona Holdings Extends B.League Title Partnership for Third Straight Season",
+        "summary": "Japan's B.League confirmed that Resona Holdings will remain its title partner for the 2026-27 season, marking a third consecutive year under the arrangement. The league framed the renewal as aligning with its own growth push heading into an 11th season and a newly branded reform push it calls 'B.Innovation'."
+      },
+      "ja": {
+        "title": "りそなホールディングス、Bリーグのタイトルパートナーを3季連続で継続",
+        "summary": "Bリーグは、りそなホールディングスが2026-27シーズンも引き続きタイトルパートナーを務めると発表した。これで3季連続の契約となる。リーグは11シーズン目を迎え「B.革新」と銘打つ改革を進める中での継続契約だと位置づけている。"
+      },
+      "es": {
+        "title": "Resona Holdings extiende su patrocinio como socio titular de la B.League por tercera temporada consecutiva",
+        "summary": "La B.League de Japón confirmó que Resona Holdings seguirá siendo su socio titular en la temporada 2026-27, la tercera consecutiva bajo este acuerdo. La liga vinculó la renovación con su propio impulso de crecimiento de cara a una undécima temporada marcada por una reforma que denomina 'B.Innovation'."
+      },
+      "zh": {
+        "title": "里索纳控股连续第三个赛季续约B联赛冠名合作伙伴",
+        "summary": "日本B联赛确认，里索纳控股将继续担任2026-27赛季的冠名合作伙伴，这是双方连续第三个赛季的合作。联盟表示，此次续约与联盟即将迎来第11个赛季、并推进名为“B.革新”的改革计划相契合。"
+      },
+      "fr": {
+        "title": "Resona Holdings prolonge son partenariat titre avec la B.League pour une troisième saison consécutive",
+        "summary": "La B.League japonaise a confirmé que Resona Holdings restera son partenaire titre pour la saison 2026-27, une troisième année consécutive sous cet accord. La ligue a présenté ce renouvellement comme s'inscrivant dans son propre élan de croissance à l'aube d'une onzième saison marquée par une réforme baptisée « B.Innovation »."
+      }
+    }
+  },
+  {
+    "id": "fifa-expressvpn-world-cup-sponsor",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-06-11T00:00:00Z",
+    "source_name": "TechRadar",
+    "source_url": "https://www.techradar.com/vpn/vpn-services/expressvpn-becomes-an-official-supporter-of-the-fifa-world-cup-2026-in-biggest-sports-deal-yet-and-gives-away-over-50-premium-tickets",
+    "i18n": {
+      "en": {
+        "title": "ExpressVPN Becomes First VPN Brand to Sponsor a FIFA World Cup",
+        "summary": "ExpressVPN has signed on as an official supporter of the 2026 FIFA World Cup, its largest sports sponsorship to date and the first time a VPN company has backed the tournament. The deal puts ExpressVPN branding on pitch-side LED boards across the U.S., Canada and Europe broadcasts, alongside a ticket giveaway tied to the knockout rounds."
+      },
+      "ja": {
+        "title": "ExpressVPN、VPNブランドとして初めてFIFAワールドカップのスポンサーに",
+        "summary": "ExpressVPNは2026年FIFAワールドカップの公式サポーターとして契約し、同社にとって過去最大規模のスポーツスポンサー契約となった。VPN企業が同大会を支援するのは初めてで、米国・カナダ・欧州向け放送でピッチサイドのLED看板に広告が掲出されるほか、決勝トーナメントに合わせたチケットプレゼントも実施される。"
+      },
+      "es": {
+        "title": "ExpressVPN se convierte en la primera marca de VPN en patrocinar una Copa Mundial de la FIFA",
+        "summary": "ExpressVPN firmó como patrocinador oficial de la Copa Mundial de la FIFA 2026, su mayor patrocinio deportivo hasta la fecha y la primera vez que una empresa de VPN respalda el torneo. El acuerdo coloca la marca ExpressVPN en vallas LED junto al campo en las transmisiones de EE.UU., Canadá y Europa, junto con un sorteo de entradas para las rondas eliminatorias."
+      },
+      "zh": {
+        "title": "ExpressVPN成为首家赞助FIFA世界杯的VPN品牌",
+        "summary": "ExpressVPN签约成为2026年FIFA世界杯官方支持商，这是该公司迄今为止规模最大的体育赞助，也是首次有VPN企业赞助该赛事。协议规定其品牌将出现在美国、加拿大及欧洲转播画面的场边LED广告牌上，并配合淘汰赛阶段推出门票赠送活动。"
+      },
+      "fr": {
+        "title": "ExpressVPN devient la première marque de VPN à sponsoriser une Coupe du Monde de la FIFA",
+        "summary": "ExpressVPN a signé en tant que soutien officiel de la Coupe du Monde de la FIFA 2026, son plus grand partenariat sportif à ce jour et la première fois qu'une entreprise de VPN soutient le tournoi. L'accord place la marque ExpressVPN sur des panneaux LED en bord de terrain lors des diffusions aux États-Unis, au Canada et en Europe, avec un tirage au sort de billets pour les phases à élimination directe."
+      }
+    }
+  },
+  {
+    "id": "inter-miami-shift4-payment-partner",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "tech",
+      "fan"
+    ],
+    "published_at": "2026-04-27T00:00:00Z",
+    "source_name": "Shift4",
+    "source_url": "https://investors.shift4.com/news-events/press-releases/detail/298/inter-miami-cf-and-shift4-announce-partnership-to-enhance-fan-experience-at-nu-stadium",
+    "i18n": {
+      "en": {
+        "title": "Inter Miami Names Shift4 Official Payment Partner of Nu Stadium",
+        "summary": "Inter Miami CF and payments company Shift4 announced a partnership making Shift4 the official payment processing partner of the club's new Nu Stadium. The technology will handle ticketing and concession transactions across the 26,700-seat venue, which opened in Miami earlier in 2026."
+      },
+      "ja": {
+        "title": "インテル・マイアミ、Shift4をヌー・スタジアムの公式決済パートナーに指定",
+        "summary": "インテル・マイアミCFは決済企業Shift4とのパートナーシップを発表し、Shift4が新本拠地ヌー・スタジアムの公式決済処理パートナーとなった。同社の技術は、2026年に開業した収容2万6700席の同スタジアムでのチケットや売店の決済に活用される。"
+      },
+      "es": {
+        "title": "Inter Miami nombra a Shift4 socio oficial de pagos del Nu Stadium",
+        "summary": "El Inter Miami CF y la empresa de pagos Shift4 anunciaron una alianza que convierte a Shift4 en el socio oficial de procesamiento de pagos del nuevo Nu Stadium del club. La tecnología gestionará las transacciones de boletería y concesiones en el estadio de 26.700 asientos, inaugurado en Miami a comienzos de 2026."
+      },
+      "zh": {
+        "title": "迈阿密国际宣布Shift4为Nu体育场官方支付合作伙伴",
+        "summary": "迈阿密国际队与支付公司Shift4宣布达成合作，Shift4将成为球队新主场Nu体育场的官方支付处理合作伙伴。该技术将支撑这座2026年初在迈阿密开业、可容纳26700人场馆内的购票及餐饮消费交易。"
+      },
+      "fr": {
+        "title": "L'Inter Miami nomme Shift4 partenaire officiel de paiement du Nu Stadium",
+        "summary": "L'Inter Miami CF et l'entreprise de paiement Shift4 ont annoncé un partenariat faisant de Shift4 le partenaire officiel de traitement des paiements du nouveau Nu Stadium du club. La technologie gérera les transactions de billetterie et de restauration dans ce stade de 26 700 places, inauguré à Miami au début de 2026."
+      }
+    }
+  },
+  {
+    "id": "houston-dynamo-tixr-ticketing-partner",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "tech",
+      "fan"
+    ],
+    "published_at": "2025-11-12T00:00:00Z",
+    "source_name": "Houston Dynamo FC",
+    "source_url": "https://www.houstondynamofc.com/news/houston-dynamo-fc-announce-multiyear-ticketing-partnership-with-tixr-to-improve-fan-experience-at-shell-energy-stadium-x7976",
+    "i18n": {
+      "en": {
+        "title": "Houston Dynamo and Dash Sign Multiyear Ticketing Deal With Tixr",
+        "summary": "Houston Dynamo FC and the Houston Dash announced a multiyear partnership with ticketing platform Tixr to unify ticket sales, a new team app and event access at Shell Energy Stadium. The rollout began with the clubs' Houston Soccer Celebration Kickoff event in December."
+      },
+      "ja": {
+        "title": "ヒューストン・ダイナモとダッシュ、Tixrと複数年のチケット販売契約",
+        "summary": "ヒューストン・ダイナモFCと女子チームのヒューストン・ダッシュは、チケット販売プラットフォームTixrとの複数年パートナーシップを発表した。シェル・エナジー・スタジアムでのチケット販売、新しいチームアプリ、入場管理を一本化する取り組みで、12月の「ヒューストン・サッカー・セレブレーション」開幕イベントから導入が始まった。"
+      },
+      "es": {
+        "title": "Houston Dynamo y Dash firman un acuerdo plurianual de boletería con Tixr",
+        "summary": "El Houston Dynamo FC y el Houston Dash anunciaron una asociación plurianual con la plataforma de boletería Tixr para unificar la venta de entradas, una nueva app del equipo y el acceso a eventos en el Shell Energy Stadium. El lanzamiento comenzó con el evento Houston Soccer Celebration Kickoff en diciembre."
+      },
+      "zh": {
+        "title": "休斯顿迪纳摩与达什队与Tixr签署多年票务合作协议",
+        "summary": "休斯顿迪纳摩足球俱乐部与休斯顿达什队宣布与票务平台Tixr达成多年合作，整合壳牌能源体育场的门票销售、全新球队应用程序及入场管理。该合作已随12月的“休斯顿足球嘉年华”开幕活动正式启动。"
+      },
+      "fr": {
+        "title": "Le Houston Dynamo et le Dash signent un accord de billetterie pluriannuel avec Tixr",
+        "summary": "Le Houston Dynamo FC et le Houston Dash ont annoncé un partenariat pluriannuel avec la plateforme de billetterie Tixr afin d'unifier la vente de billets, une nouvelle application d'équipe et l'accès aux événements au Shell Energy Stadium. Le déploiement a débuté lors de l'événement Houston Soccer Celebration Kickoff en décembre."
+      }
+    }
+  },
+  {
+    "id": "gl-events-milano-cortina-infrastructure-partner",
+    "sport": "olympics",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "stadium"
+    ],
+    "published_at": "2026-01-26T00:00:00Z",
+    "source_name": "Olympics.com",
+    "source_url": "https://www.olympics.com/en/milano-cortina-2026/news/milano-cortina-2026-signs-a-partnership-agreement-with-gl-events-as-temporary-infrastructure-partner-of-the-olympic-games",
+    "i18n": {
+      "en": {
+        "title": "Milano Cortina 2026 Signs GL Events as Temporary Infrastructure Partner",
+        "summary": "The Milano Cortina 2026 organizing foundation signed French events group GL Events as Official Temporary Infrastructure Partner of the Winter Games. The company will supply, install and later remove tents, modular buildings, temporary stands and media facilities across roughly 20 competition venues."
+      },
+      "ja": {
+        "title": "ミラノ・コルティナ2026、GLエベンツを仮設インフラ公式パートナーに",
+        "summary": "ミラノ・コルティナ2026組織委員会は、フランスのイベント企業GLエベンツを冬季大会の公式仮設インフラパートナーとして契約した。同社は約20の競技会場でテントや仮設建物、仮設スタンド、メディア施設の供給・設営・撤去を担当する。"
+      },
+      "es": {
+        "title": "Milán Cortina 2026 ficha a GL Events como socio oficial de infraestructura temporal",
+        "summary": "La fundación organizadora de Milán Cortina 2026 firmó con el grupo francés de eventos GL Events como Socio Oficial de Infraestructura Temporal de los Juegos de Invierno. La empresa suministrará, instalará y luego retirará carpas, construcciones modulares, gradas temporales e instalaciones para medios en unas 20 sedes de competición."
+      },
+      "zh": {
+        "title": "米兰-科尔蒂纳2026冬奥会签约GL Events为临时基础设施官方合作伙伴",
+        "summary": "米兰-科尔蒂纳2026组委会与法国活动集团GL Events签约，任命其为冬奥会官方临时基础设施合作伙伴。该公司将负责在约20个比赛场馆供应、安装并在赛后拆除帐篷、模块化建筑、临时看台及媒体设施。"
+      },
+      "fr": {
+        "title": "Milan Cortina 2026 signe avec GL Events comme partenaire officiel des infrastructures temporaires",
+        "summary": "La fondation organisatrice de Milan Cortina 2026 a signé avec le groupe événementiel français GL Events en tant que partenaire officiel des infrastructures temporaires des Jeux d'hiver. L'entreprise fournira, installera puis retirera des tentes, bâtiments modulaires, tribunes provisoires et installations médias sur une vingtaine de sites de compétition."
+      }
+    }
+  },
+  {
+    "id": "belgian-gp-f1-rotational-deal-2031",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2025-01-08T00:00:00Z",
+    "source_name": "Sky Sports",
+    "source_url": "https://www.skysports.com/f1/news/12433/13285344/belgian-gp-formula-1-agrees-extension-for-spa-francorchamps-race-on-rotational-basis-until-2031",
+    "i18n": {
+      "en": {
+        "title": "Belgian Grand Prix Secures Spa-Francorchamps Spot on F1 Calendar Through 2031",
+        "summary": "Formula 1 and the Belgian Grand Prix agreed to a new deal keeping Spa-Francorchamps on the calendar through 2031, but only on a rotational basis, racing in 2026, 2027, 2029 and 2031. The arrangement, backed by funding from the Walloon regional government, lets F1 free up calendar slots for newer venues while preserving one of its oldest races."
+      },
+      "ja": {
+        "title": "ベルギーGP、スパ・フランコルシャンが2031年までF1カレンダーに残留も隔年開催に",
+        "summary": "F1とベルギーGPは、スパ・フランコルシャンを2031年まで隔年開催の形でカレンダーに残す新契約に合意した。開催は2026年、2027年、2029年、2031年に限られる。ワロン地域政府の資金支援を受けた今回の枠組みにより、F1は新興開催地向けの日程枠を確保しつつ、最古参レースの一つを維持する。"
+      },
+      "es": {
+        "title": "El Gran Premio de Bélgica asegura su lugar en Spa-Francorchamps en el calendario de F1 hasta 2031",
+        "summary": "La Fórmula 1 y el Gran Premio de Bélgica acordaron un nuevo contrato que mantiene a Spa-Francorchamps en el calendario hasta 2031, pero de forma rotativa, corriendo en 2026, 2027, 2029 y 2031. El acuerdo, respaldado por financiación del gobierno regional valón, permite a la F1 liberar espacios de calendario para sedes más nuevas mientras conserva una de sus carreras más antiguas."
+      },
+      "zh": {
+        "title": "比利时大奖赛与F1达成协议 斯帕赛道轮换保留至2031年",
+        "summary": "F1与比利时大奖赛达成新协议，斯帕-弗朗科尔尚赛道将以轮换方式保留在赛历中直至2031年，仅在2026、2027、2029和2031赛季举办比赛。该协议获得瓦隆大区政府资金支持，使F1得以为新赛道腾出档期，同时保留这一历史最悠久的赛事之一。"
+      },
+      "fr": {
+        "title": "Le Grand Prix de Belgique conserve sa place à Spa-Francorchamps au calendrier de F1 jusqu'en 2031",
+        "summary": "La Formule 1 et le Grand Prix de Belgique ont conclu un nouvel accord maintenant Spa-Francorchamps au calendrier jusqu'en 2031, mais sur une base tournante, avec des courses en 2026, 2027, 2029 et 2031. Cet arrangement, soutenu par un financement de la région wallonne, permet à la F1 de libérer des créneaux pour de nouveaux circuits tout en préservant l'une de ses plus anciennes courses."
+      }
+    }
+  },
+  {
+    "id": "capitals-caci-vetdogs-blocked-shots",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-09-24T00:00:00Z",
+    "source_name": "GlobeNewswire",
+    "source_url": "https://www.globenewswire.com/news-release/2026/09/24/3368205/0/en/caci-joins-forces-with-america-s-vetdogs-to-advance-a-shared-passion-of-supporting-america-s-veterans-and-first-responders-with-disabilities.html",
+    "i18n": {
+      "en": {
+        "title": "Capitals and CACI Launch Program Funding Service Dogs Per Blocked Shot",
+        "summary": "The Washington Capitals and defense contractor CACI International launched 'Good Dogs for Great Americans,' under which CACI will donate $250 to nonprofit America's VetDogs for every blocked shot the Capitals record in the 2026-27 NHL season. Based on the team's typical shot-blocking pace, organizers expect the program to fund training for roughly eight service dogs a year for veterans and first responders."
+      },
+      "ja": {
+        "title": "キャピタルズとCACI、ブロックショット数に応じて盲導犬育成を支援するプログラムを開始",
+        "summary": "ワシントン・キャピタルズと防衛関連企業CACIインターナショナルは、2026-27シーズンにキャピタルズがブロックしたシュート1本ごとにCACIが非営利団体America's VetDogsへ250ドルを寄付する「Good Dogs for Great Americans」を開始した。チームの例年のブロック数を踏まえると、退役軍人や救急隊員向けの介助犬約8頭分の訓練費用を年間で賄える見込みだという。"
+      },
+      "es": {
+        "title": "Los Capitals y CACI lanzan un programa que financia perros de servicio por cada tiro bloqueado",
+        "summary": "Los Washington Capitals y la contratista de defensa CACI International lanzaron 'Good Dogs for Great Americans', mediante el cual CACI donará 250 dólares a la organización sin fines de lucro America's VetDogs por cada tiro bloqueado por los Capitals en la temporada 2026-27 de la NHL. Según el ritmo habitual del equipo, los organizadores esperan financiar el entrenamiento de unos ocho perros de servicio al año para veteranos y primeros respondientes."
+      },
+      "zh": {
+        "title": "华盛顿首都队与CACI推出以封盖数资助服务犬培训的项目",
+        "summary": "华盛顿首都队与国防承包商CACI国际公司推出“Good Dogs for Great Americans”项目，规定2026-27赛季首都队每完成一次封盖，CACI就向非营利组织America's VetDogs捐赠250美元。按球队往年的封盖节奏估算，该项目预计每年可资助约八只服务犬的培训，服务对象为退伍军人和急救人员。"
+      },
+      "fr": {
+        "title": "Les Capitals et CACI lancent un programme finançant des chiens d'assistance selon les tirs bloqués",
+        "summary": "Les Capitals de Washington et l'entreprise de défense CACI International ont lancé « Good Dogs for Great Americans », dans le cadre duquel CACI versera 250 dollars à l'organisation à but non lucratif America's VetDogs pour chaque tir bloqué par les Capitals durant la saison 2026-27 de la LNH. Selon le rythme habituel de l'équipe, les organisateurs espèrent financer l'entraînement d'environ huit chiens d'assistance par an pour des vétérans et des premiers intervenants."
+      }
+    }
+  },
+  {
+    "id": "raj-sports-whitehead-ceo",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "biz",
+      "team"
+    ],
+    "published_at": "2026-09-24T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-sept-25-2026-1234945704/",
+    "i18n": {
+      "en": {
+        "title": "RAJ Sports Names Mike Whitehead as First CEO Over Thorns, Fire",
+        "summary": "RAJ Sports, the Portland ownership group behind NWSL's Portland Thorns and the WNBA's Portland Fire, named Mike Whitehead as its first-ever chief executive officer and formalized a broader executive leadership structure. Whitehead, who joined the group in 2023 as managing director and previously worked in NFL, NBA and MLS finance roles, will continue overseeing business operations across both franchises."
+      },
+      "ja": {
+        "title": "RAJスポーツ、ソーンズとファイアーを統括する初代CEOにマイク・ホワイトヘッド氏",
+        "summary": "NWSLのポートランド・ソーンズとWNBAのポートランド・ファイアーを保有するオーナー企業RAJスポーツは、マイク・ホワイトヘッド氏を初代最高経営責任者に任命し、経営陣の体制をより広く正式化したと発表した。2023年にマネジングディレクターとして加わり、NFLやNBA、MLSの財務部門で経験を積んだホワイトヘッド氏は、両球団の事業運営を引き続き統括する。"
+      },
+      "es": {
+        "title": "RAJ Sports nombra a Mike Whitehead como su primer CEO al frente de Thorns y Fire",
+        "summary": "RAJ Sports, el grupo propietario de Portland detrás de las Thorns de la NWSL y las Fire de la WNBA, nombró a Mike Whitehead como su primer director ejecutivo y formalizó una estructura de liderazgo ejecutivo más amplia. Whitehead, quien se unió al grupo en 2023 como director general y trabajó previamente en áreas financieras de la NFL, la NBA y la MLS, seguirá supervisando las operaciones comerciales de ambas franquicias."
+      },
+      "zh": {
+        "title": "RAJ体育任命迈克·怀特海德为首任CEO 统管索恩斯队与火焰队",
+        "summary": "拥有NWSL波特兰索恩斯队和WNBA波特兰火焰队的所有者RAJ体育集团宣布，任命迈克·怀特海德为公司首任首席执行官，并正式确立了更完整的高管领导架构。怀特海德于2023年以董事总经理身份加入该集团，此前曾在NFL、NBA和MLS从事财务相关工作，未来将继续负责两支球队的业务运营。"
+      },
+      "fr": {
+        "title": "RAJ Sports nomme Mike Whitehead premier PDG à la tête des Thorns et des Fire",
+        "summary": "RAJ Sports, le groupe propriétaire de Portland derrière les Thorns de la NWSL et les Fire de la WNBA, a nommé Mike Whitehead premier directeur général de son histoire et a formalisé une structure de direction élargie. Whitehead, arrivé au sein du groupe en 2023 comme directeur général et passé auparavant par des postes financiers en NFL, NBA et MLS, continuera de superviser les opérations commerciales des deux franchises."
+      }
+    }
   }
 ]
