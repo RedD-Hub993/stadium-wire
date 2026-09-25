@@ -5664,5 +5664,211 @@
         "summary": "Le fournisseur de vêtements de travail UniFirst a dévoilé son calendrier de sponsoring principal pour la saison 2026 de la NASCAR Cup Series, poursuivant son partenariat avec Hendrick Motorsports. L'accord maintient la marque UniFirst sur certaines courses de la Cup Series tout au long de l'année, dans le cadre du dispositif de sponsors plus large de l'écurie."
       }
     }
+  },
+  {
+    "id": "tampa-bay-rays-legends-global-ballpark-partnership",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "biz",
+      "sponsor"
+    ],
+    "published_at": "2026-09-24T18:00:00Z",
+    "source_name": "CelebrityAccess",
+    "source_url": "https://celebrityaccess.com/2026/09/24/tampa-bay-rays-and-legends-global-announce-long-term-partnership-for-new-rays-forever-home-ballpark/",
+    "i18n": {
+      "en": {
+        "title": "Rays Tap Legends Global to Lead Sponsorship Sales for New Tampa Ballpark",
+        "summary": "The Tampa Bay Rays have named Legends Global as owner's representative for their planned Forever Home ballpark, set to open in 2029. Legends will lead sponsorship sales, premium seating, and suite sales for the new venue as the club builds out its commercial strategy years ahead of opening day."
+      },
+      "ja": {
+        "title": "レイズ、新球場のスポンサー営業をレジェンズ・グローバルに委託",
+        "summary": "タンパベイ・レイズは2029年開業予定の新本拠地球場「フォーエバー・ホーム」のオーナー代理人として、レジェンズ・グローバルを起用した。同社は新球場のスポンサー営業やプレミアム席、スイート販売を開業の数年前から主導し、球団の商業戦略構築を支える。"
+      },
+      "es": {
+        "title": "Los Rays eligen a Legends Global para liderar patrocinios de su nuevo estadio",
+        "summary": "Los Rays de Tampa Bay designaron a Legends Global como representante del propietario para su futuro estadio 'Forever Home', cuya apertura está prevista para 2029. La empresa liderará la venta de patrocinios, asientos premium y suites del nuevo recinto años antes de su inauguración."
+      },
+      "zh": {
+        "title": "光芒队委托Legends Global主导新球场赞助销售",
+        "summary": "坦帕湾光芒队宣布由Legends Global担任其计划于2029年开幕的新主场球场的业主代表。该公司将提前数年主导新球场的赞助销售、豪华座席及包厢销售，协助球队构建商业战略。"
+      },
+      "fr": {
+        "title": "Les Rays confient à Legends Global la vente des sponsors de leur futur stade",
+        "summary": "Les Rays de Tampa Bay ont désigné Legends Global comme représentant du propriétaire pour leur futur stade 'Forever Home', dont l'ouverture est prévue en 2029. L'entreprise dirigera la vente des sponsors, des places premium et des loges plusieurs années avant l'inauguration."
+      }
+    }
+  },
+  {
+    "id": "microsoft-toronto-blue-jays-ai-partnership",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "tech",
+      "fan",
+      "sponsor"
+    ],
+    "published_at": "2026-08-25T14:00:00Z",
+    "source_name": "Microsoft Source",
+    "source_url": "https://news.microsoft.com/source/canada/2026/08/25/microsoft-becomes-an-official-partner-of-the-toronto-blue-jays/",
+    "i18n": {
+      "en": {
+        "title": "Microsoft Becomes Official Partner of the Toronto Blue Jays in Multi-Year AI Deal",
+        "summary": "Microsoft has signed a multi-year agreement to become an official partner of the Toronto Blue Jays, bringing Copilot branding and Azure cloud tools into Rogers Centre and the team's fan-facing platforms. The partnership includes a Copilot-branded 'Performer of the Game' feature and other AI-driven content aimed at deepening fan engagement."
+      },
+      "ja": {
+        "title": "マイクロソフト、トロント・ブルージェイズと複数年AIパートナー契約",
+        "summary": "マイクロソフトはトロント・ブルージェイズと複数年の公式パートナー契約を締結し、ロジャーズ・センターやチームのファン向けプラットフォームにCopilotのブランディングとAzureクラウド技術を導入する。契約には「Copilot Performer of the Game」機能など、AIを活用したファンエンゲージメント施策が含まれる。"
+      },
+      "es": {
+        "title": "Microsoft se convierte en socio oficial de los Blue Jays de Toronto con acuerdo de IA",
+        "summary": "Microsoft firmó un acuerdo plurianual para ser socio oficial de los Blue Jays de Toronto, incorporando la marca Copilot y herramientas de nube Azure en el Rogers Centre y las plataformas del equipo para los aficionados. La alianza incluye una función 'Performer of the Game' impulsada por IA para reforzar la interacción con los fanáticos."
+      },
+      "zh": {
+        "title": "微软与多伦多蓝鸟队达成多年期AI合作伙伴协议",
+        "summary": "微软与多伦多蓝鸟队签署多年期官方合作协议，将Copilot品牌与Azure云技术引入罗杰斯中心及球队的球迷平台。合作内容包括由AI驱动的“本场最佳表现者”功能，旨在提升球迷互动体验。"
+      },
+      "fr": {
+        "title": "Microsoft devient partenaire officiel des Blue Jays de Toronto via un accord IA pluriannuel",
+        "summary": "Microsoft a signé un accord pluriannuel pour devenir partenaire officiel des Blue Jays de Toronto, intégrant la marque Copilot et les outils cloud Azure au Rogers Centre et aux plateformes destinées aux supporters. Le partenariat inclut une fonctionnalité 'Performer of the Game' pilotée par l'IA pour renforcer l'engagement des fans."
+      }
+    }
+  },
+  {
+    "id": "sf-giants-airwallex-jersey-patch",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-02-18T12:00:00Z",
+    "source_name": "Business Wire",
+    "source_url": "https://www.businesswire.com/news/home/20260218311345/en/Airwallex-Becomes-the-Giants-Official-Jersey-Patch-Partner",
+    "i18n": {
+      "en": {
+        "title": "Giants Name Airwallex as Jersey Patch and Financial Software Partner",
+        "summary": "The San Francisco Giants have signed a multi-year deal making fintech company Airwallex their official jersey patch sponsor and Official Financial Software Partner. Beyond uniform branding, Airwallex will help the club automate spend management, billing, and payment processing across its financial operations."
+      },
+      "ja": {
+        "title": "ジャイアンツ、エアウォレックスとユニフォームパッチ＆財務ソフト契約",
+        "summary": "サンフランシスコ・ジャイアンツは複数年契約を締結し、フィンテック企業エアウォレックスを公式ユニフォームパッチスポンサー兼公式財務ソフトウェアパートナーに迎えた。ユニフォームでの露出に加え、同社は球団の支出管理や請求、決済処理など財務業務の自動化を支援する。"
+      },
+      "es": {
+        "title": "Los Giants nombran a Airwallex socio de parche de camiseta y software financiero",
+        "summary": "Los Gigantes de San Francisco firmaron un acuerdo plurianual que convierte a la fintech Airwallex en su patrocinador oficial de parche de camiseta y Socio Oficial de Software Financiero. Además de la exposición en el uniforme, Airwallex ayudará al club a automatizar la gestión de gastos, facturación y procesamiento de pagos."
+      },
+      "zh": {
+        "title": "旧金山巨人队与Airwallex达成球衣广告及财务软件合作",
+        "summary": "旧金山巨人队宣布与金融科技公司Airwallex签订多年协议，后者将成为球队官方球衣广告赞助商及官方财务软件合作伙伴。除球衣曝光外，Airwallex还将协助球队实现支出管理、账单及支付处理等财务业务的自动化。"
+      },
+      "fr": {
+        "title": "Les Giants nomment Airwallex partenaire de patch maillot et logiciel financier",
+        "summary": "Les Giants de San Francisco ont signé un accord pluriannuel faisant de la fintech Airwallex leur sponsor officiel de patch de maillot et Partenaire Officiel des Logiciels Financiers. Au-delà de la visibilité sur le maillot, Airwallex aidera le club à automatiser la gestion des dépenses, la facturation et le traitement des paiements."
+      }
+    }
+  },
+  {
+    "id": "zeta-division-ntt-east-sponsorship",
+    "sport": "esports",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-09-15T09:00:00Z",
+    "source_name": "NTT East",
+    "source_url": "https://www.ntt-east.co.jp/info/detail/260915_01.html",
+    "i18n": {
+      "en": {
+        "title": "Japanese Esports Org ZETA DIVISION Signs Sponsorship With NTT East",
+        "summary": "Pro esports team ZETA DIVISION has signed a sponsorship agreement with telecom carrier NTT East, covering joint information campaigns and event activities. The partnership launched with a special video featuring players from the team's Apex Legends, Brawl Stars and Overwatch divisions, timed to coincide with Tokyo Game Show 2026."
+      },
+      "ja": {
+        "title": "ZETA DIVISION、NTT東日本とスポンサー契約を締結",
+        "summary": "プロeスポーツチーム「ZETA DIVISION」がNTT東日本とスポンサー契約を結び、情報発信や各種イベント施策で連携する。契約開始に合わせ、APEX LEGENDSやBRAWL STARS、OVERWATCH部門の選手が出演する特別映像を公開し、東京ゲームショウ2026のタイミングに合わせて展開された。"
+      },
+      "es": {
+        "title": "El club de esports japonés ZETA DIVISION firma patrocinio con NTT East",
+        "summary": "El equipo profesional de esports ZETA DIVISION firmó un acuerdo de patrocinio con la operadora de telecomunicaciones NTT East, que incluye campañas informativas conjuntas y actividades en eventos. La alianza se lanzó con un video especial protagonizado por jugadores de sus divisiones de Apex Legends, Brawl Stars y Overwatch, coincidiendo con el Tokyo Game Show 2026."
+      },
+      "zh": {
+        "title": "日本电竞战队ZETA DIVISION与NTT东日本达成赞助协议",
+        "summary": "职业电竞战队ZETA DIVISION与电信运营商NTT东日本签署赞助协议，双方将在信息发布及各类活动方面展开合作。该合作以一支由Apex英雄、荒野乱斗及守望先锋分部选手出演的特别宣传片启动，恰逢2026年东京电玩展举办期间。"
+      },
+      "fr": {
+        "title": "Le club d'esport japonais ZETA DIVISION signe un partenariat avec NTT East",
+        "summary": "L'équipe professionnelle d'esport ZETA DIVISION a signé un accord de sponsoring avec l'opérateur télécom NTT East, incluant des campagnes d'information conjointes et des animations lors d'événements. Le partenariat a été lancé avec une vidéo spéciale mettant en scène des joueurs des divisions Apex Legends, Brawl Stars et Overwatch, coïncidant avec le Tokyo Game Show 2026."
+      }
+    }
+  },
+  {
+    "id": "duke-basketball-amazon-prime-video",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "biz",
+      "fan"
+    ],
+    "published_at": "2026-04-30T15:00:00Z",
+    "source_name": "ESPN",
+    "source_url": "https://www.espn.com/mens-college-basketball/story/_/id/48637981/amazon-televise-3-marquee-duke-basketball-games-part-landmark-deal",
+    "i18n": {
+      "en": {
+        "title": "Amazon Prime Video Signs First College Sports Deal With Duke Basketball",
+        "summary": "Amazon's Prime Video has reached a multi-year agreement with Duke men's basketball to stream three marquee neutral-site, non-conference games per season, marking the platform's first foray into college sports rights. The deal reflects streamers' growing appetite for premium college programming alongside their professional league packages."
+      },
+      "ja": {
+        "title": "アマゾンPrime Video、初の大学スポーツ配信契約をデューク大バスケと締結",
+        "summary": "アマゾンのPrime Videoはデューク大学男子バスケットボールと複数年契約を結び、シーズンごとに中立地開催の非カンファレンス戦3試合を配信する。同社にとって大学スポーツの放映権獲得は初めてで、プロリーグに加え大学スポーツの人気コンテンツへの需要拡大を映す動きとなった。"
+      },
+      "es": {
+        "title": "Amazon Prime Video firma su primer acuerdo de baloncesto universitario con Duke",
+        "summary": "Prime Video de Amazon alcanzó un acuerdo plurianual con el baloncesto masculino de Duke para transmitir tres partidos destacados de no conferencia en sede neutral por temporada, marcando su primera incursión en los derechos del deporte universitario. El acuerdo refleja el creciente interés de las plataformas de streaming por la programación universitaria de primer nivel."
+      },
+      "zh": {
+        "title": "亚马逊Prime Video首次签下大学篮球转播权 携手杜克大学",
+        "summary": "亚马逊Prime Video与杜克大学男篮达成多年协议，将每赛季转播三场在中立场地举行的非联盟赛事，这是该平台首次涉足大学体育版权领域。该协议反映出流媒体平台在职业联赛之外，对优质大学体育内容日益增长的兴趣。"
+      },
+      "fr": {
+        "title": "Amazon Prime Video signe son premier contrat universitaire avec le basket de Duke",
+        "summary": "Prime Video d'Amazon a conclu un accord pluriannuel avec l'équipe masculine de basket de Duke pour diffuser trois matchs hors-conférence en terrain neutre par saison, marquant sa première incursion dans les droits du sport universitaire. Cet accord illustre l'appétit croissant des plateformes de streaming pour la programmation universitaire premium."
+      }
+    }
+  },
+  {
+    "id": "missouri-ambetter-health-jersey-patch",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-08-28T13:00:00Z",
+    "source_name": "ABC17News",
+    "source_url": "https://abc17news.com/sports/2026/08/28/mizzou-announces-jersey-patch-sponsorship-deal-with-ambetter-health/",
+    "i18n": {
+      "en": {
+        "title": "Missouri Football Adds Ambetter Health as Jersey Patch Sponsor",
+        "summary": "Missouri Athletics announced a jersey patch sponsorship with Ambetter Health covering the football program and Olympic sports ahead of the 2026 season, though men's and women's basketball are not included. The patch debuted in the Tigers' season opener, part of a broader wave of health-insurance brands entering college jersey sponsorship."
+      },
+      "ja": {
+        "title": "ミズーリ大フットボール、アンベター・ヘルスとユニフォームパッチ契約",
+        "summary": "ミズーリ大学athletics局は2026年シーズンを前に、健康保険ブランド「アンベター・ヘルス」とフットボール部およびオリンピック競技部門を対象としたユニフォームパッチ契約を発表した。男女バスケットボールは対象外。パッチはタイガースのシーズン開幕戦で初披露され、大学スポーツへの保険会社の進出が広がる流れの一環となった。"
+      },
+      "es": {
+        "title": "El fútbol americano de Missouri suma a Ambetter Health como patrocinador de parche",
+        "summary": "El departamento de atletismo de Missouri anunció un patrocinio de parche de camiseta con Ambetter Health que cubre al equipo de fútbol americano y a los deportes olímpicos de cara a la temporada 2026, aunque no incluye al baloncesto masculino ni femenino. El parche debutó en el partido inaugural de los Tigers, parte de una ola más amplia de aseguradoras de salud ingresando al patrocinio universitario."
+      },
+      "zh": {
+        "title": "密苏里大学橄榄球队签下Ambetter Health作为球衣广告赞助商",
+        "summary": "密苏里大学体育部宣布在2026赛季开始前，与健康保险品牌Ambetter Health达成球衣广告赞助协议，覆盖橄榄球项目及奥运项目，但不包括男女篮球。该广告标识在老虎队赛季揭幕战中首次亮相，是健康保险品牌大举进入大学体育赞助领域的又一例证。"
+      },
+      "fr": {
+        "title": "Le football américain du Missouri signe avec Ambetter Health pour son patch de maillot",
+        "summary": "Le département sportif du Missouri a annoncé un partenariat de patch de maillot avec l'assureur santé Ambetter Health, couvrant le programme de football américain et les sports olympiques avant la saison 2026, à l'exclusion du basketball masculin et féminin. Le patch a fait ses débuts lors du match d'ouverture des Tigers, illustrant l'arrivée croissante des assureurs santé dans le sponsoring universitaire."
+      }
+    }
   }
 ]
