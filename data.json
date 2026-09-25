@@ -5870,5 +5870,243 @@
         "summary": "Le département sportif du Missouri a annoncé un partenariat de patch de maillot avec l'assureur santé Ambetter Health, couvrant le programme de football américain et les sports olympiques avant la saison 2026, à l'exclusion du basketball masculin et féminin. Le patch a fait ses débuts lors du match d'ouverture des Tigers, illustrant l'arrivée croissante des assureurs santé dans le sponsoring universitaire."
       }
     }
+  },
+  {
+    "id": "memphis-fedex-jersey-patch",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz",
+      "team"
+    ],
+    "published_at": "2026-04-09T15:00:00Z",
+    "source_name": "Memphis Athletics",
+    "source_url": "https://gotigersgo.com/news/2026/4/9/general-fedex-and-memphis-athletics-announce-department-wide-jersey-patch-sponsorship",
+    "i18n": {
+      "en": {
+        "title": "Memphis Athletics Signs Department-Wide Jersey Patch Deal With FedEx",
+        "summary": "The University of Memphis reached a multi-year agreement with FedEx to place the shipping giant's logo on uniforms across all 19 of its varsity programs. The partnership, framed under the tagline 'Moving Memphis Athletics Forward,' builds on FedEx's existing branding at the football team's home stadium."
+      },
+      "ja": {
+        "title": "メンフィス大学、全19競技のユニフォームにFedExパッチを導入する複数年契約を締結",
+        "summary": "メンフィス大学athletics部門は物流大手FedExと複数年契約を結び、全19の強化指定競技のユニフォームに同社ロゴを掲出することになった。すでにフットボールの本拠地スタジアムにも同社のブランディングがあり、今回の提携はその関係を部門全体に拡大するものだ。"
+      },
+      "es": {
+        "title": "Atletismo de Memphis firma acuerdo de parche de camiseta con FedEx para todo el departamento",
+        "summary": "La Universidad de Memphis alcanzó un acuerdo plurianual con FedEx para colocar el logotipo de la empresa de mensajería en los uniformes de sus 19 programas universitarios. La asociación amplía la presencia de marca que FedEx ya tenía en el estadio de fútbol americano del campus."
+      },
+      "zh": {
+        "title": "孟菲斯大学体育部与联邦快递签署全系项目球衣广告协议",
+        "summary": "孟菲斯大学与联邦快递（FedEx）达成多年协议，将在其19个校队项目的球衣上统一印上该公司标志。此次合作以“共同推动孟菲斯体育前进”为主题，是双方在橄榄球主场既有赞助关系基础上的扩展。"
+      },
+      "fr": {
+        "title": "L'athlétisme de Memphis signe un accord de patch maillot avec FedEx pour tout le département",
+        "summary": "L'université de Memphis a conclu un accord pluriannuel avec FedEx pour apposer le logo du transporteur sur les maillots de ses 19 programmes universitaires. Ce partenariat élargit la présence de la marque déjà visible au stade de football américain du campus."
+      }
+    }
+  },
+  {
+    "id": "usf-tampa-general-jersey-patch",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-04-08T14:00:00Z",
+    "source_name": "USF Athletics",
+    "source_url": "https://gousfbulls.com/news/2026/4/8/football-usf-athletics-announces-landmark-jersey-partnership-with-tampa-general-hospital",
+    "i18n": {
+      "en": {
+        "title": "USF Football Adds Tampa General Hospital as First-Ever Jersey Patch Sponsor",
+        "summary": "South Florida signed a multi-year jersey patch agreement with longtime medical partner Tampa General Hospital, marking the school's first such deal and one of the first in college sports involving a healthcare provider. The redesigned uniforms carrying the TGH patch debuted for the Bulls' season opener on September 5."
+      },
+      "ja": {
+        "title": "サウスフロリダ大学フットボール、タンパ・ジェネラル病院を初のユニフォームパッチスポンサーに",
+        "summary": "サウスフロリダ大学は長年の医療パートナーであるタンパ・ジェネラル病院と複数年のユニフォームパッチ契約を締結した。同校初の試みであり、医療機関が関わる大学スポーツのパッチ契約としても先駆的な事例となる。新デザインのユニフォームは9月5日の開幕戦でお披露目された。"
+      },
+      "es": {
+        "title": "El fútbol americano de USF incorpora a Tampa General Hospital como su primer patrocinador de parche en la camiseta",
+        "summary": "South Florida firmó un acuerdo plurianual de parche en la camiseta con su socio médico de larga data, Tampa General Hospital, marcando el primer acuerdo de este tipo para la escuela. Los uniformes rediseñados con el parche de TGH debutaron en el partido inaugural de los Bulls el 5 de septiembre."
+      },
+      "zh": {
+        "title": "南佛罗里达大学橄榄球队与坦帕综合医院签订首个球衣广告合作",
+        "summary": "南佛罗里达大学与长期医疗合作伙伴坦帕综合医院（TGH）签署多年球衣广告协议，这是该校首次达成此类合作，也是大学体育界较早的医疗机构球衣赞助案例之一。印有TGH标志的新款球衣已于9月5日赛季揭幕战首次亮相。"
+      },
+      "fr": {
+        "title": "Le football de l'USF ajoute Tampa General Hospital comme tout premier sponsor de patch maillot",
+        "summary": "South Florida a signé un accord pluriannuel de patch maillot avec son partenaire médical de longue date, Tampa General Hospital, une première pour l'université. Les maillots redessinés portant le patch TGH ont fait leurs débuts lors du match d'ouverture des Bulls le 5 septembre."
+      }
+    }
+  },
+  {
+    "id": "commanders-elevate-stadium-partnership",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "biz"
+    ],
+    "published_at": "2026-09-01T13:00:00Z",
+    "source_name": "Washington Commanders",
+    "source_url": "https://www.commanders.com/news/washington-commanders-and-elevate-enter-into-multi-year-agreement-ahead-of-new-stadium-development",
+    "i18n": {
+      "en": {
+        "title": "Commanders Expand Elevate Partnership to Support New RFK Stadium Project",
+        "summary": "The Washington Commanders signed a multi-year expanded agreement with sports agency Elevate to support premium seating sales, hospitality strategy and fan-experience planning for the team's new stadium at the former RFK site. The venue, part of a larger mixed-use redevelopment, is slated to open in 2030."
+      },
+      "ja": {
+        "title": "コマンダーズ、新RFKスタジアム計画支援へElevateとの提携を拡大",
+        "summary": "ワシントン・コマンダーズはスポーツエージェンシーのElevateと複数年の拡大契約を締結し、旧RFKスタジアム跡地に建設される新スタジアムに向けたプレミアム席販売やホスピタリティ戦略、観戦体験の企画を支援してもらう。同施設は複合開発の一環として2030年開業を予定している。"
+      },
+      "es": {
+        "title": "Los Commanders amplían su alianza con Elevate para respaldar el nuevo proyecto del estadio RFK",
+        "summary": "Los Washington Commanders firmaron un acuerdo ampliado plurianual con la agencia deportiva Elevate para apoyar la venta de asientos premium, la estrategia de hospitalidad y la planificación de la experiencia del aficionado en el nuevo estadio del equipo, ubicado en el antiguo predio del RFK. El recinto, parte de una reurbanización de uso mixto, se prevé que abra en 2030."
+      },
+      "zh": {
+        "title": "华盛顿指挥官队扩大与Elevate的合作以支持新RFK球场项目",
+        "summary": "华盛顿指挥官队与体育代理机构Elevate签署了多年扩展协议，协助球队在原RFK球场旧址新建的球场进行高端座位销售、款待策略及球迷体验规划。该场馆是大型综合开发项目的一部分，预计于2030年开业。"
+      },
+      "fr": {
+        "title": "Les Commanders élargissent leur partenariat avec Elevate pour le nouveau projet de stade RFK",
+        "summary": "Les Washington Commanders ont signé un accord élargi pluriannuel avec l'agence sportive Elevate afin de soutenir la vente de places premium, la stratégie d'accueil et la planification de l'expérience des supporters pour le nouveau stade de l'équipe, sur l'ancien site du RFK. Le site, qui fait partie d'un vaste projet de réaménagement mixte, doit ouvrir en 2030."
+      }
+    }
+  },
+  {
+    "id": "kawasaki-brave-thunders-2026-27-sponsors",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-07-01T09:00:00Z",
+    "source_name": "Kawasaki Brave Thunders",
+    "source_url": "https://kawasaki-bravethunders.com/news/detail/id=25285",
+    "i18n": {
+      "en": {
+        "title": "Kawasaki Brave Thunders Unveil 2026-27 Uniforms and 12-Company Sponsor Lineup",
+        "summary": "B.League club Kawasaki Brave Thunders revealed its new uniform design for the 2026-27 season along with 12 uniform sponsors, led by global top partner Mitutoyo. Chiba-based Kokubo Ice & Refrigeration returns to the front-left-shoulder spot, renewing a relationship that dates back to the 2023-24 season."
+      },
+      "ja": {
+        "title": "川崎ブレイブサンダース、2026-27シーズンの新ユニフォームと12社のスポンサーを発表",
+        "summary": "Bリーグの川崎ブレイブサンダースは2026-27シーズンの新ユニフォームデザインを発表し、グローバルトップパートナーの株式会社ミツトヨを筆頭に12社のユニフォームスポンサーを明らかにした。千葉県の小久保製氷冷蔵株式会社は左胸スポンサーとして復帰し、2023-24シーズン以来の関係を更新する。"
+      },
+      "es": {
+        "title": "Kawasaki Brave Thunders presenta sus uniformes 2026-27 y una alineación de 12 patrocinadores",
+        "summary": "El club de la B.League Kawasaki Brave Thunders reveló el diseño de su nuevo uniforme para la temporada 2026-27 junto con 12 patrocinadores, encabezados por el socio principal global Mitutoyo. La empresa Kokubo Ice & Refrigeration, con sede en Chiba, regresa al espacio del hombro izquierdo delantero, renovando una relación que se remonta a la temporada 2023-24."
+      },
+      "zh": {
+        "title": "川崎雷霆队公布2026-27赛季新球衣及12家赞助商阵容",
+        "summary": "B联赛球队川崎雷霆队公布了2026-27赛季新款球衣设计，并公布了由全球最高级别合作伙伴三丰公司领衔的12家球衣赞助商。总部位于千叶县的小久保制冰冷藏公司重新获得左胸位置广告，延续了自2023-24赛季以来的合作关系。"
+      },
+      "fr": {
+        "title": "Les Kawasaki Brave Thunders dévoilent leurs maillots 2026-27 et 12 sponsors",
+        "summary": "Le club de B.League Kawasaki Brave Thunders a dévoilé le design de son nouveau maillot pour la saison 2026-27 ainsi que 12 sponsors de maillot, menés par le partenaire mondial principal Mitutoyo. L'entreprise Kokubo Ice & Refrigeration, basée à Chiba, retrouve l'emplacement de l'épaule gauche avant, renouvelant une relation remontant à la saison 2023-24."
+      }
+    }
+  },
+  {
+    "id": "savvy-games-moonton-acquisition",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-03-20T18:00:00Z",
+    "source_name": "Game Developer",
+    "source_url": "https://www.gamedeveloper.com/business/savvy-games-group-agreed-to-buy-moonton-games-for-6-billion",
+    "i18n": {
+      "en": {
+        "title": "Saudi-Backed Savvy Games Group to Acquire Mobile Legends Maker Moonton for $6 Billion",
+        "summary": "Savvy Games Group, a subsidiary of Saudi Arabia's Public Investment Fund, agreed to buy Moonton, the ByteDance-owned studio behind 'Mobile Legends: Bang Bang,' in a deal valued at roughly $6 billion. The acquisition extends Savvy's push to build a diversified esports and gaming portfolio beyond its existing titles and tournament properties."
+      },
+      "ja": {
+        "title": "サウジ系サビー・ゲームズ、『モバイルレジェンド』開発元Moontonを6000億円規模で買収へ",
+        "summary": "サウジアラビア公的投資基金（PIF）傘下のサビー・ゲームズ・グループは、バイトダンス傘下で『モバイルレジェンド：バンバン』を手がけるMoontonを約60億ドルで買収することで合意した。既存タイトルや大会事業に続き、幅広いeスポーツ・ゲーミング事業の拡大を狙う。"
+      },
+      "es": {
+        "title": "Savvy Games Group, respaldado por Arabia Saudita, adquirirá Moonton, creador de Mobile Legends, por 6.000 millones de dólares",
+        "summary": "Savvy Games Group, una filial del Fondo de Inversión Pública de Arabia Saudita, acordó comprar Moonton, el estudio propiedad de ByteDance detrás de 'Mobile Legends: Bang Bang', en un acuerdo valorado en unos 6.000 millones de dólares. La adquisición amplía la apuesta de Savvy por construir un portafolio diversificado de esports y videojuegos."
+      },
+      "zh": {
+        "title": "沙特背景的Savvy Games以60亿美元收购《无尽的拉格朗日》开发商Moonton",
+        "summary": "沙特阿拉伯公共投资基金旗下的Savvy Games Group同意以约60亿美元收购字节跳动旗下、开发《无尽对决（Mobile Legends: Bang Bang）》的Moonton工作室。此次收购是Savvy在现有游戏及赛事业务之外，进一步扩大电竞与游戏业务版图的举措。"
+      },
+      "fr": {
+        "title": "Savvy Games Group, soutenu par l'Arabie saoudite, va racheter Moonton, éditeur de Mobile Legends, pour 6 milliards de dollars",
+        "summary": "Savvy Games Group, filiale du Fonds d'investissement public saoudien, a accepté de racheter Moonton, le studio détenu par ByteDance derrière 'Mobile Legends: Bang Bang', dans un accord évalué à environ 6 milliards de dollars. Cette acquisition prolonge la stratégie de Savvy visant à diversifier son portefeuille d'esport et de jeux vidéo."
+      }
+    }
+  },
+  {
+    "id": "hcltech-metlife-stadium-ai-partner",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "tech",
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-04-30T13:00:00Z",
+    "source_name": "HCLTech",
+    "source_url": "https://www.hcltech.com/press-releases/hcltech-expands-cornerstone-partnership-metlife-stadium-new-york-jets-and-new-york",
+    "i18n": {
+      "en": {
+        "title": "HCLTech Becomes Official AI Partner of MetLife Stadium, Giants and Jets",
+        "summary": "IT services firm HCLTech expanded its existing partnership with MetLife Stadium, the New York Giants and the New York Jets to become the venue's official artificial intelligence partner. The deal builds on HCLTech's 2022 role as digital transformation partner, shifting the focus toward AI-driven operations and fan-facing tools."
+      },
+      "ja": {
+        "title": "HCLTech、MetLifeスタジアム及びジャイアンツ・ジェッツの公式AIパートナーに",
+        "summary": "IT サービス企業のHCLTechは、MetLifeスタジアムおよびニューヨーク・ジャイアンツ、ニューヨーク・ジェッツとの既存提携を拡大し、同施設の公式AIパートナーとなった。2022年に締結したデジタルトランスフォーメーション・パートナーとしての役割を土台に、AIを活用した運営とファン向けツールへ軸足を移す。"
+      },
+      "es": {
+        "title": "HCLTech se convierte en socio oficial de inteligencia artificial del MetLife Stadium, los Giants y los Jets",
+        "summary": "La firma de servicios de TI HCLTech amplió su alianza existente con el MetLife Stadium, los New York Giants y los New York Jets para convertirse en el socio oficial de inteligencia artificial del recinto. El acuerdo se basa en su papel como socio de transformación digital desde 2022, ahora enfocado en operaciones impulsadas por IA y herramientas para los aficionados."
+      },
+      "zh": {
+        "title": "HCLTech成为大都会人寿体育场、纽约巨人队及纽约喷气机队官方AI合作伙伴",
+        "summary": "IT服务公司HCLTech扩大了与大都会人寿体育场、纽约巨人队及纽约喷气机队的现有合作，成为该场馆的官方人工智能合作伙伴。该协议建立在其自2022年起担任数字化转型合作伙伴的基础上，重心转向人工智能驱动的运营及球迷互动工具。"
+      },
+      "fr": {
+        "title": "HCLTech devient partenaire officiel en intelligence artificielle du MetLife Stadium, des Giants et des Jets",
+        "summary": "La société de services informatiques HCLTech a élargi son partenariat existant avec le MetLife Stadium, les New York Giants et les New York Jets pour devenir le partenaire officiel en intelligence artificielle du site. L'accord s'appuie sur son rôle de partenaire de transformation numérique depuis 2022, désormais recentré sur des opérations pilotées par l'IA et des outils destinés aux supporters."
+      }
+    }
+  },
+  {
+    "id": "npb-pitchcom-introduction",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "tech"
+    ],
+    "published_at": "2026-08-31T09:00:00Z",
+    "source_name": "Nikkei",
+    "source_url": "https://www.nikkei.com/article/DGXZQOKC318W90R30C26A8000000/",
+    "i18n": {
+      "en": {
+        "title": "NPB to Introduce PitchCom Sign-Relay Devices Next Season",
+        "summary": "Japan's Nippon Professional Baseball notified all 12 teams that it will permit PitchCom electronic sign-relay devices in top-team games starting next season, with use left optional rather than mandatory. Minor-league teams have already been trialing the system, which has been used in MLB since 2022 and at this year's World Baseball Classic."
+      },
+      "ja": {
+        "title": "NPB、来季から「ピッチコム」導入へ　使用は任意",
+        "summary": "日本野球機構（NPB）は来季から1軍公式戦でサイン伝達機器「ピッチコム」の使用を認めると12球団に通達した。使用は義務ではなく任意とする方針で、2軍戦ではすでに試験運用が進んでいる。同機器は2022年からMLBで、今年のWBCでも採用されている。"
+      },
+      "es": {
+        "title": "NPB introducirá los dispositivos de señales PitchCom la próxima temporada",
+        "summary": "La liga profesional de béisbol de Japón (NPB) notificó a sus 12 equipos que permitirá el uso de los dispositivos electrónicos de transmisión de señales PitchCom en los partidos de primer equipo a partir de la próxima temporada, con un uso opcional y no obligatorio. Los equipos de ligas menores ya han estado probando el sistema, utilizado en la MLB desde 2022 y en el Clásico Mundial de Béisbol de este año."
+      },
+      "zh": {
+        "title": "日本职棒NPB将于下赛季引入“投手通”暗号传递装置",
+        "summary": "日本职业棒球机构（NPB）已通知旗下12支球队，将从下赛季起允许一军正式比赛使用电子暗号传递装置“PitchCom”，使用与否由各队自行决定而非强制。二军比赛已开始试用该系统，该装置自2022年起在美国职棒大联盟使用，今年的世界棒球经典赛也曾采用。"
+      },
+      "fr": {
+        "title": "La NPB introduira les dispositifs de transmission de signes PitchCom la saison prochaine",
+        "summary": "La ligue professionnelle de baseball japonaise (NPB) a informé ses 12 équipes qu'elle autoriserait l'utilisation des dispositifs électroniques de transmission de signes PitchCom lors des matchs de l'équipe première dès la saison prochaine, sur une base facultative plutôt qu'obligatoire. Les équipes de ligue mineure testent déjà ce système, utilisé en MLB depuis 2022 et lors du Classique mondial de baseball de cette année."
+      }
+    }
   }
 ]
