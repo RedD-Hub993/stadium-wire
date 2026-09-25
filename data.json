@@ -7063,5 +7063,174 @@
         "summary": "Le club de MLS Red Bull New York a fait de RWJBarnabas Health le partenaire des droits de dénomination de son nouveau centre de performance de 32 hectares à Morris Township, dans le New Jersey, inauguré en mars. Le groupe de santé devient également le prestataire officiel de soins médicaux et d'urgence du club, fournissant tests médicaux et rééducation à l'équipe première et au centre de formation."
       }
     }
+  },
+  {
+    "id": "orlando-magic-visiolab-self-checkout",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "tech",
+      "fan"
+    ],
+    "published_at": "2025-10-26T00:00:00Z",
+    "source_name": "Retail Technology Innovation Hub",
+    "source_url": "https://retailtechinnovationhub.com/home/2025/10/26/milestone-deployment-as-visiolab-frictionless-checkouts-go-live-for-orlando-magic-season-opener",
+    "i18n": {
+      "en": {
+        "title": "Orlando Magic and Levy Roll Out 43 AI Self-Checkout Kiosks at Kia Center",
+        "summary": "The Orlando Magic and concessionaire Levy have installed 43 VisioLab AI-powered self-checkout kiosks across 12 food markets inside Kia Center, one of the largest deployments of frictionless checkout technology in a North American arena. The system uses on-device computer vision to identify food and drink items without barcode scanning, and the team says early locations have seen a notable jump in per-stand sales."
+      },
+      "ja": {
+        "title": "オーランド・マジックとLevy、Kia CenterにAIセルフレジ43台を導入",
+        "summary": "オーランド・マジックとケータリング業者のLevyは、本拠地Kia Center内の12カ所のフードマーケットにAIセルフレジ「VisioLab」を計43台導入した。バーコードをスキャンせずに商品を認識する画像認識技術を採用しており、北米のアリーナでは最大級のフリクションレス決済導入事例とされる。導入済みの売店では売上が大きく伸びたと球団側は説明している。"
+      },
+      "es": {
+        "title": "Orlando Magic y Levy instalan 43 quioscos de autopago con IA en Kia Center",
+        "summary": "Los Orlando Magic y la empresa de restauración Levy instalaron 43 quioscos de autopago con IA de VisioLab en 12 puestos de comida dentro del Kia Center, una de las mayores implementaciones de pago sin fricción en una arena norteamericana. El sistema identifica productos mediante visión artificial sin necesidad de escanear códigos de barras, y el equipo afirma que los primeros puestos registraron un notable aumento en ventas."
+      },
+      "zh": {
+        "title": "奥兰多魔术队与Levy在Kia Center部署43台AI自助结账终端",
+        "summary": "奥兰多魔术队与餐饮承包商Levy在主场Kia Center的12个餐饮区共安装了43台VisioLab人工智能自助结账终端，是北美体育馆中规模最大的无感结账技术部署之一。该系统通过设备端视觉识别商品，无需扫描条形码，球队表示已投入使用的摊位销售额出现明显增长。"
+      },
+      "fr": {
+        "title": "Les Orlando Magic et Levy déploient 43 bornes de paiement IA au Kia Center",
+        "summary": "Les Orlando Magic et le prestataire de restauration Levy ont installé 43 bornes de paiement automatique VisioLab, dotées d'intelligence artificielle, dans 12 points de restauration du Kia Center, l'un des plus importants déploiements de paiement sans friction dans une salle nord-américaine. Le système identifie les produits par vision artificielle sans scanner de codes-barres, et l'équipe indique que les premiers points de vente ont enregistré une nette hausse des ventes."
+      }
+    }
+  },
+  {
+    "id": "browns-experience-center-preview",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "fan",
+      "team"
+    ],
+    "published_at": "2026-08-17T00:00:00Z",
+    "source_name": "Cleveland Browns / Haslam Sports Group",
+    "source_url": "https://www.clevelandbrowns.com/news/cleveland-browns-haslam-sports-group-celebrate-ribbon-cutting-for-new-browns-experience-center",
+    "i18n": {
+      "en": {
+        "title": "Browns Open Preview Center for New Huntington Bank Field Ahead of 2029 Opening",
+        "summary": "The Cleveland Browns and Haslam Sports Group held a ribbon-cutting for the new Browns Experience Center, a preview facility that lets fans and prospective suite holders explore the design of the future Huntington Bank Field before it opens in Brook Park. The center includes a large stadium model, sample seating, and a 270-degree immersive video display, and is being used to support early suite and premium-seating sales."
+      },
+      "ja": {
+        "title": "ブラウンズ、新スタジアム開業に先立ちプレビュー施設をオープン",
+        "summary": "クリーブランド・ブラウンズとHaslam Sports Groupは、新スタジアム「Huntington Bank Field」の開業前に来場者やスイート購入予定者が内容を体験できるプレビュー施設「Browns Experience Center」のオープニングセレモニーを行った。施設内には大型のスタジアム模型や実物大の座席サンプル、270度の没入型映像展示があり、早期のスイート・プレミアム席販売の後押しに活用されている。"
+      },
+      "es": {
+        "title": "Los Browns inauguran un centro de exhibición del futuro Huntington Bank Field",
+        "summary": "Los Cleveland Browns y Haslam Sports Group inauguraron el nuevo Browns Experience Center, un espacio de exhibición que permite a los aficionados y futuros titulares de palcos conocer el diseño del futuro Huntington Bank Field antes de su apertura en Brook Park. El centro incluye una gran maqueta del estadio, asientos de muestra y una pantalla inmersiva de 270 grados, y se utiliza para impulsar las ventas anticipadas de palcos y asientos premium."
+      },
+      "zh": {
+        "title": "布朗队开设新球场体验中心，提前展示未来场馆设计",
+        "summary": "克利夫兰布朗队与Haslam体育集团为全新的“布朗体验中心”举行了剪彩仪式，该展示设施让球迷和潜在包厢客户可以在位于布鲁克帕克的新球场Huntington Bank Field落成前提前了解其设计。中心内设有大型球场模型、样品座椅以及270度沉浸式影像展示，并被用于推动包厢及高端座位的早期销售。"
+      },
+      "fr": {
+        "title": "Les Browns ouvrent un centre de présentation avant le futur Huntington Bank Field",
+        "summary": "Les Cleveland Browns et le Haslam Sports Group ont inauguré le nouveau Browns Experience Center, un espace de présentation permettant aux supporters et futurs détenteurs de loges de découvrir le design du futur Huntington Bank Field avant son ouverture à Brook Park. Le centre comprend une grande maquette du stade, des sièges d'exposition et un écran immersif à 270 degrés, et sert à soutenir les ventes anticipées de loges et de places premium."
+      }
+    }
+  },
+  {
+    "id": "fifa-inter-rapidisimo-world-cup-2026-supporter",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-06-05T00:00:00Z",
+    "source_name": "FIFA",
+    "source_url": "https://inside.fifa.com/news/inter-rapidisimo-partnership-tournament-supporter-world-cup-2026",
+    "i18n": {
+      "en": {
+        "title": "FIFA Names Colombia's Inter Rapidísimo a World Cup 2026 Tournament Supporter",
+        "summary": "FIFA expanded its regional sponsorship portfolio by naming Colombian courier and logistics company Inter Rapidísimo a Tournament Supporter of the 2026 FIFA World Cup. The deal builds on the company's prior sponsorships of the 2022 World Cup and 2023 Women's World Cup, extending its activation rights within Colombia ahead of the tournament."
+      },
+      "ja": {
+        "title": "FIFA、コロンビアのインター・ラピディシモを2026年W杯サポーターに認定",
+        "summary": "FIFAは地域スポンサー体制を拡大し、コロンビアの配送・物流企業インター・ラピディシモを2026年FIFAワールドカップの「トーナメントサポーター」に認定した。同社は2022年ワールドカップおよび2023年女子ワールドカップでもスポンサーを務めており、今回の契約により大会開幕を前にコロンビア国内での権利活用がさらに拡大する。"
+      },
+      "es": {
+        "title": "La FIFA nombra a la colombiana Inter Rapidísimo Tournament Supporter del Mundial 2026",
+        "summary": "FIFA amplió su cartera de patrocinios regionales al nombrar a la empresa colombiana de mensajería y logística Inter Rapidísimo como Tournament Supporter de la Copa Mundial de la FIFA 2026. El acuerdo se suma a sus anteriores patrocinios del Mundial de 2022 y del Mundial Femenino de 2023, y amplía sus derechos de activación dentro de Colombia antes del torneo."
+      },
+      "zh": {
+        "title": "国际足联任命哥伦比亚企业Inter Rapidísimo为2026世界杯赛事支持商",
+        "summary": "国际足联扩大区域赞助体系，任命哥伦比亚快递物流企业Inter Rapidísimo为2026年国际足联世界杯的“赛事支持商”。该公司此前曾赞助2022年世界杯及2023年女足世界杯，此次协议在赛事开幕前进一步扩大了其在哥伦比亚境内的权益。"
+      },
+      "fr": {
+        "title": "La FIFA nomme la colombienne Inter Rapidísimo « Tournament Supporter » du Mondial 2026",
+        "summary": "La FIFA a élargi son portefeuille de sponsors régionaux en nommant l'entreprise colombienne de messagerie et de logistique Inter Rapidísimo « Tournament Supporter » de la Coupe du Monde de la FIFA 2026. Cet accord fait suite à ses précédents partenariats lors de la Coupe du Monde 2022 et de la Coupe du Monde féminine 2023, et élargit ses droits d'activation en Colombie avant le tournoi."
+      }
+    }
+  },
+  {
+    "id": "virtuspro-samsung-esports-partnership",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2025-03-11T00:00:00Z",
+    "source_name": "Esports Insider",
+    "source_url": "https://esportsinsider.com/2025/03/virtus-pro-announces-partnership-with-samsung",
+    "i18n": {
+      "en": {
+        "title": "Virtus.pro Signs Equipment and Grassroots Partnership With Samsung",
+        "summary": "Esports organization Virtus.pro announced a new partnership with Samsung Electronics, which will outfit its training facilities and playing rosters with the company's monitors, TVs, and mobile devices. The deal also includes support for grassroots tournaments in the CIS region as part of a shared push to grow amateur and youth esports participation."
+      },
+      "ja": {
+        "title": "Virtus.pro、サムスン電子と機材提供・草の根支援のパートナーシップ締結",
+        "summary": "eスポーツ組織Virtus.proは、サムスン電子との新たなパートナーシップ契約を発表した。同社の選手ロースターやトレーニング施設にモニター・テレビ・モバイル端末などの機材が提供される。契約にはCIS地域における草の根大会への支援も含まれ、アマチュア・ユース世代のeスポーツ普及を後押しする狙いがある。"
+      },
+      "es": {
+        "title": "Virtus.pro firma una alianza de equipamiento y apoyo de base con Samsung",
+        "summary": "La organización de esports Virtus.pro anunció una nueva alianza con Samsung Electronics, que equipará sus instalaciones de entrenamiento y a sus plantillas con monitores, televisores y dispositivos móviles de la marca. El acuerdo también incluye apoyo a torneos de base en la región de la CEI como parte de un esfuerzo conjunto por impulsar la participación amateur y juvenil en los esports."
+      },
+      "zh": {
+        "title": "Virtus.pro与三星达成设备赞助及草根赛事支持合作",
+        "summary": "电竞俱乐部Virtus.pro宣布与三星电子达成新的合作伙伴关系，三星将为其训练设施和参赛选手提供显示器、电视及移动设备等装备。协议还包括支持独联体地区的草根赛事，旨在共同推动业余及青少年电竞参与度的提升。"
+      },
+      "fr": {
+        "title": "Virtus.pro signe un partenariat matériel et soutien amateur avec Samsung",
+        "summary": "L'organisation esport Virtus.pro a annoncé un nouveau partenariat avec Samsung Electronics, qui équipera ses installations d'entraînement et ses effectifs de moniteurs, téléviseurs et appareils mobiles de la marque. L'accord prévoit également un soutien aux tournois amateurs dans la région de la CEI, dans le cadre d'un effort commun pour développer la pratique de l'esport chez les amateurs et les jeunes."
+      }
+    }
+  },
+  {
+    "id": "sentinels-sandisk-esports-partnership",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-03-28T00:00:00Z",
+    "source_name": "Inven Global",
+    "source_url": "https://www.invenglobal.com/articles/20359/sentinels-announces-collaboration-with-sandisk",
+    "i18n": {
+      "en": {
+        "title": "Sentinels Names SanDisk Official Storage Partner Across Rosters and Events",
+        "summary": "North American esports organization Sentinels announced a strategic marketing partnership with storage brand SanDisk, making it an official partner across the team's rosters, content creators, and live events. The deal centers on SanDisk's Optimus GX gaming storage product line and includes co-branded content and event activations through the year."
+      },
+      "ja": {
+        "title": "Sentinels、SanDiskを公式ストレージパートナーに迎える契約を発表",
+        "summary": "北米のeスポーツ組織SentinelsはストレージブランドのSanDiskとの戦略的マーケティングパートナーシップを発表した。SanDiskはチームの各ロースターやコンテンツクリエイター、ライブイベントにわたる公式パートナーとなる。契約の中心はSanDiskのゲーミングストレージ製品「Optimus GX」シリーズで、共同制作コンテンツやイベント施策が年間を通じて実施される。"
+      },
+      "es": {
+        "title": "Sentinels nombra a SanDisk socio oficial de almacenamiento para plantillas y eventos",
+        "summary": "La organización norteamericana de esports Sentinels anunció una alianza estratégica de marketing con la marca de almacenamiento SanDisk, que se convierte en socio oficial de las plantillas del equipo, sus creadores de contenido y sus eventos en vivo. El acuerdo se centra en la línea de almacenamiento para gaming Optimus GX de SanDisk e incluye contenido conjunto y activaciones en eventos durante el año."
+      },
+      "zh": {
+        "title": "Sentinels宣布SanDisk成为其官方存储合作伙伴",
+        "summary": "北美电竞俱乐部Sentinels宣布与存储品牌SanDisk达成战略营销合作，后者将成为该战队各阵容、内容创作者及线下赛事的官方合作伙伴。协议以SanDisk的Optimus GX系列游戏存储产品为核心，全年将开展联合内容制作与赛事活动。"
+      },
+      "fr": {
+        "title": "Sentinels fait de SanDisk son partenaire officiel du stockage",
+        "summary": "L'organisation esport nord-américaine Sentinels a annoncé un partenariat marketing stratégique avec la marque de stockage SanDisk, qui devient partenaire officiel des effectifs de l'équipe, de ses créateurs de contenu et de ses événements en direct. L'accord porte principalement sur la gamme de stockage gaming Optimus GX de SanDisk et prévoit du contenu coproduit ainsi que des activations lors d'événements tout au long de l'année."
+      }
+    }
   }
 ]
