@@ -6277,5 +6277,242 @@
         "summary": "Le All England Lawn Tennis Club a renouvelé son partenariat avec Range Rover dans le cadre d'une extension pluriannuelle qui permettra à la marque de présenter en avant-première son nouveau modèle Range Rover Electric au public du tournoi. Range Rover, dans le cadre d'une relation de Jaguar Land Rover avec Wimbledon vieille de plus d'une décennie, conservera sa présence sur les écrans de vitesse de service du court central et du court n°1. Cet accord confirme l'intérêt constant des constructeurs automobiles pour les parrainages des grands tournois de tennis."
       }
     }
+  },
+  {
+    "id": "tmobile-arena-smkd-bbq-partner",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "stadium"
+    ],
+    "published_at": "2026-09-17T13:00:00Z",
+    "source_name": "Business Wire",
+    "source_url": "https://www.businesswire.com/news/home/20260917004260/en/T-Mobile-Arena-and-SMKD-BBQ-Partner-to-Bring-Signature-Barbecue-to-Arena",
+    "i18n": {
+      "en": {
+        "title": "T-Mobile Arena Names Henderson's SMKD BBQ a Venue Partner",
+        "summary": "T-Mobile Arena in Las Vegas has signed a new venue partnership with local barbecue concept SMKD BBQ, brokered by AEG Global Partnerships. The brand will run a dedicated food cart on the arena's upper concourse for Vegas Golden Knights games, concerts and other events."
+      },
+      "ja": {
+        "title": "Tモバイル・アリーナ、地元BBQブランド「SMKD BBQ」とパートナー契約",
+        "summary": "ラスベガスのTモバイル・アリーナは、地元バーベキューブランドのSMKD BBQと新たな会場パートナー契約を締結した。契約はAEGグローバル・パートナーシップズが仲介し、ベガス・ゴールデンナイツの試合やコンサートに向けて専用フードカートを上階コンコースに設置する。"
+      },
+      "es": {
+        "title": "T-Mobile Arena nombra a SMKD BBQ socio oficial del recinto",
+        "summary": "El T-Mobile Arena de Las Vegas firmó una nueva asociación con la marca local de barbacoa SMKD BBQ, gestionada por AEG Global Partnerships. La marca operará un carrito de comida exclusivo en el concourse superior durante partidos de los Golden Knights, conciertos y otros eventos."
+      },
+      "zh": {
+        "title": "T-Mobile体育馆宣布与SMKD BBQ达成场馆合作伙伴关系",
+        "summary": "拉斯维加斯T-Mobile体育馆与本地烧烤品牌SMKD BBQ签署了新的场馆合作协议，该交易由AEG Global Partnerships牵线促成。该品牌将在场馆上层通道设立专属餐车，服务金骑士队比赛、演唱会等各类活动。"
+      },
+      "fr": {
+        "title": "Le T-Mobile Arena s'associe au barbecue local SMKD BBQ",
+        "summary": "Le T-Mobile Arena de Las Vegas a signé un nouveau partenariat avec la marque locale de barbecue SMKD BBQ, accord négocié par AEG Global Partnerships. La marque exploitera un chariot alimentaire dédié sur la mezzanine supérieure lors des matchs des Golden Knights, concerts et autres événements."
+      }
+    }
+  },
+  {
+    "id": "sounders-reign-jump-ticketing-partnership",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "fan",
+      "tech"
+    ],
+    "published_at": "2026-03-24T17:00:00Z",
+    "source_name": "Seattle Sounders FC",
+    "source_url": "https://www.soundersfc.com/news/sounders-fc-and-reign-fc-announce-long-term-partnership-with-jump-to-power-next-generation-of-seattle-s-soccer-fan-experience",
+    "i18n": {
+      "en": {
+        "title": "Sounders FC and Reign FC Switch Ticketing to Jump in Long-Term Fan Experience Deal",
+        "summary": "Seattle Sounders FC and Seattle Reign FC announced a long-term partnership with ticketing platform Jump, moving away from Ticketmaster starting in 2027. The deal is built to power an integrated, end-to-end fan experience at Lumen Field, including embedded AI tools for club operations and marketing."
+      },
+      "ja": {
+        "title": "シアトル・サウンダーズとレインFC、チケッティングをJumpへ移行する長期提携を発表",
+        "summary": "シアトル・サウンダーズFCとシアトル・レインFCは、チケッティングプラットフォームのJumpと長期パートナーシップを結び、2027年からチケットマスターを離脱すると発表した。契約はルーメン・フィールドでの一体的なファン体験の実現を目的とし、クラブ運営やマーケティング向けのAIツールも組み込まれる。"
+      },
+      "es": {
+        "title": "Sounders FC y Reign FC pasan su venta de entradas a Jump en un acuerdo a largo plazo",
+        "summary": "El Seattle Sounders FC y el Seattle Reign FC anunciaron una asociación a largo plazo con la plataforma de venta de entradas Jump, dejando Ticketmaster a partir de 2027. El acuerdo busca ofrecer una experiencia de aficionado integrada en el Lumen Field, con herramientas de inteligencia artificial para las operaciones y el marketing del club."
+      },
+      "zh": {
+        "title": "西雅图海湾者与雷恩FC宣布与Jump达成长期票务合作",
+        "summary": "西雅图海湾者足球俱乐部与西雅图雷恩FC宣布与票务平台Jump达成长期合作，将从2027年起停止使用Ticketmaster。该协议旨在为流明球场打造一体化的球迷体验，并为俱乐部运营和营销引入嵌入式人工智能工具。"
+      },
+      "fr": {
+        "title": "Les Sounders FC et le Reign FC confient leur billetterie à Jump dans un accord de long terme",
+        "summary": "Le Seattle Sounders FC et le Seattle Reign FC ont annoncé un partenariat de long terme avec la plateforme de billetterie Jump, abandonnant Ticketmaster à partir de 2027. L'accord vise à offrir une expérience supporter intégrée au Lumen Field, avec des outils d'intelligence artificielle pour les opérations et le marketing du club."
+      }
+    }
+  },
+  {
+    "id": "learfield-sponsorcx-college-sponsorship-ops",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "tech",
+      "biz"
+    ],
+    "published_at": "2026-07-15T12:00:00Z",
+    "source_name": "Learfield",
+    "source_url": "https://www.learfield.com/2026/07/learfield-partners-with-sponsorcx-to-advance-sponsorship-operations-elevate-brand-partnerships-and-drive-performance-across-college-sports/",
+    "i18n": {
+      "en": {
+        "title": "Learfield Partners with SponsorCX to Streamline College Sports Sponsorship Operations",
+        "summary": "Collegiate sports marketing giant Learfield has partnered with sponsorship management software provider SponsorCX to modernize how it tracks and services brand partnerships across its university clients. The tie-up aims to centralize sponsorship operations and give partners clearer performance reporting."
+      },
+      "ja": {
+        "title": "リアフィールド、大学スポーツのスポンサー業務効率化へSponsorCXと提携",
+        "summary": "大学スポーツマーケティング大手のリアフィールドは、スポンサーシップ管理ソフトウェアを手がけるSponsorCXと提携した。提携先の各大学におけるブランドパートナーシップの管理・運用を一元化し、成果報告をより明確にすることが狙いだ。"
+      },
+      "es": {
+        "title": "Learfield se asocia con SponsorCX para optimizar la gestión de patrocinios en el deporte universitario",
+        "summary": "El gigante del marketing deportivo universitario Learfield se asoció con SponsorCX, proveedor de software de gestión de patrocinios, para modernizar el seguimiento de sus acuerdos de marca en las universidades que representa. La alianza busca centralizar las operaciones de patrocinio y ofrecer informes de rendimiento más claros a los socios."
+      },
+      "zh": {
+        "title": "Learfield与SponsorCX合作以简化大学体育赞助运营",
+        "summary": "美国大学体育营销巨头Learfield宣布与赞助管理软件公司SponsorCX合作，旨在升级其为各高校客户追踪与服务品牌合作的方式。此次合作意在集中管理赞助运营，并为合作品牌提供更清晰的业绩报告。"
+      },
+      "fr": {
+        "title": "Learfield s'associe à SponsorCX pour optimiser la gestion des sponsors du sport universitaire",
+        "summary": "Le géant du marketing sportif universitaire Learfield s'est associé à SponsorCX, éditeur de logiciels de gestion de sponsoring, pour moderniser le suivi de ses partenariats de marque auprès de ses universités clientes. L'accord vise à centraliser les opérations de sponsoring et à offrir des rapports de performance plus clairs aux partenaires."
+      }
+    }
+  },
+  {
+    "id": "yokohama-bc-rename-b-corsairs",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-25T05:00:00Z",
+    "source_name": "バスケットボールキング",
+    "source_url": "https://basketballking.jp/news/japan/20260925/634348.html",
+    "i18n": {
+      "en": {
+        "title": "B.Premier's Yokohama B-Corsairs to Rename Club Starting 2027-28 Season",
+        "summary": "B.Premier club Yokohama B-Corsairs announced a corporate name change that will see the team rebrand starting with the 2027-28 season, aligning the club name with its updated operating company. The move is part of a broader rebranding effort by the franchise's front office."
+      },
+      "ja": {
+        "title": "Bプレミア横浜BC、2027-28シーズンからチーム名を変更へ",
+        "summary": "Bプレミアの横浜BCを運営する会社が社名変更を発表し、これに伴い2027-28シーズンからチーム名を新たなブランドへ変更することが明らかになった。フロントオフィスによる一連のリブランディング施策の一環となる。"
+      },
+      "es": {
+        "title": "El Yokohama B-Corsairs de la B.Premier cambiará de nombre desde la temporada 2027-28",
+        "summary": "El club de la B.Premier Yokohama B-Corsairs anunció un cambio en la denominación de su empresa operadora, lo que llevará a un cambio de nombre del equipo a partir de la temporada 2027-28. La medida forma parte de un proceso más amplio de rebranding impulsado por la directiva del club."
+      },
+      "zh": {
+        "title": "B联赛顶级组横滨B-Corsairs宣布2027-28赛季起更名",
+        "summary": "B联赛顶级组球队横滨B-Corsairs的运营公司宣布更改公司名称，球队名称也将随之在2027-28赛季起进行调整，以与新公司品牌保持一致。此举是俱乐部管理层更大规模品牌重塑计划的一部分。"
+      },
+      "fr": {
+        "title": "Le Yokohama B-Corsairs de la B.Premier va changer de nom dès la saison 2027-28",
+        "summary": "Le club de B.Premier Yokohama B-Corsairs a annoncé un changement de dénomination de sa société d'exploitation, qui entraînera un changement de nom de l'équipe à partir de la saison 2027-28. Cette décision s'inscrit dans une démarche plus large de refonte de l'image menée par la direction du club."
+      }
+    }
+  },
+  {
+    "id": "motogp-portimao-extension-2029",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "biz",
+      "stadium"
+    ],
+    "published_at": "2026-09-24T10:00:00Z",
+    "source_name": "SPEEDWEEK.com",
+    "source_url": "https://www.speedweek.com/en/a/motogp/motogp-contract-for-portimao-until-2029",
+    "i18n": {
+      "en": {
+        "title": "MotoGP Extends Deal with Portimao's Algarve Circuit Through 2029",
+        "summary": "MotoGP and the Algarve International Circuit in Portimao, Portugal have agreed to extend their race-hosting contract through at least 2029. The deal locks in the venue's place on the calendar and continues a commercial relationship built around one of the championship's fastest tracks."
+      },
+      "ja": {
+        "title": "MotoGP、ポルティマオのアルガルヴェ・サーキットとの契約を2029年まで延長",
+        "summary": "MotoGPはポルトガル・ポルティマオのアルガルヴェ・インターナショナル・サーキットとの開催契約を少なくとも2029年まで延長することで合意した。この契約により同サーキットのカレンダー入りが継続され、選手権屈指の高速コースを軸とした商業的関係が維持される。"
+      },
+      "es": {
+        "title": "MotoGP extiende su acuerdo con el circuito de Portimao hasta 2029",
+        "summary": "MotoGP y el Algarve International Circuit de Portimao, Portugal, acordaron extender su contrato de organización de carreras hasta al menos 2029. El acuerdo asegura el lugar del circuito en el calendario y mantiene la relación comercial en torno a una de las pistas más rápidas del campeonato."
+      },
+      "zh": {
+        "title": "MotoGP与葡萄牙波尔蒂芒赛道续约至2029年",
+        "summary": "MotoGP与葡萄牙波尔蒂芒的阿尔加维国际赛道达成协议，将办赛合同延长至2029年。该协议确保了该赛道在赛历中的地位，并延续了围绕这条锦标赛最快赛道之一建立的商业合作关系。"
+      },
+      "fr": {
+        "title": "Le MotoGP prolonge son accord avec le circuit de l'Algarve à Portimao jusqu'en 2029",
+        "summary": "Le MotoGP et le circuit international de l'Algarve à Portimao, au Portugal, ont convenu de prolonger leur contrat d'accueil de course jusqu'en 2029 au moins. Cet accord garantit la place du circuit au calendrier et prolonge la relation commerciale autour de l'un des tracés les plus rapides du championnat."
+      }
+    }
+  },
+  {
+    "id": "sams-club-indycar-ims-sponsor",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-05-04T14:00:00Z",
+    "source_name": "Indianapolis Motor Speedway",
+    "source_url": "https://www.indianapolismotorspeedway.com/news-multimedia/news/2026/05/04/05-04-samsclub-ims",
+    "i18n": {
+      "en": {
+        "title": "Sam's Club Becomes Official Sponsor of NTT INDYCAR Series and Indianapolis Motor Speedway",
+        "summary": "Sam's Club has signed on as the official sponsor and exclusive warehouse club retail partner of the NTT INDYCAR Series and Indianapolis Motor Speedway, including entitlement of the Indy 500 Fan Midway. Andretti Global separately confirmed Sam's Club as primary sponsor of Kyle Kirkwood's car for the Month of May and beyond."
+      },
+      "ja": {
+        "title": "サムズクラブ、NTT INDYCARシリーズとインディアナポリス・モータースピードウェイの公式スポンサーに",
+        "summary": "サムズクラブは、NTT INDYCARシリーズとインディアナポリス・モータースピードウェイの公式スポンサー兼独占ホールセールクラブパートナーとなり、インディ500ファンミッドウェイの冠スポンサーも務める。アンドレッティ・グローバルは、5月シーズンを中心にカイル・カークウッド選手のマシンのメインスポンサーとしてもサムズクラブを起用すると発表した。"
+      },
+      "es": {
+        "title": "Sam's Club se convierte en patrocinador oficial de la NTT INDYCAR Series y el Indianapolis Motor Speedway",
+        "summary": "Sam's Club firmó como patrocinador oficial y socio minorista exclusivo de clubes de almacén de la NTT INDYCAR Series y el Indianapolis Motor Speedway, incluyendo el naming del Indy 500 Fan Midway. Andretti Global confirmó por separado a Sam's Club como patrocinador principal del auto de Kyle Kirkwood durante el mes de mayo y en adelante."
+      },
+      "zh": {
+        "title": "山姆会员店成为NTT INDYCAR系列赛与印第安纳波利斯赛车场官方赞助商",
+        "summary": "山姆会员店已签约成为NTT INDYCAR系列赛与印第安纳波利斯赛车场的官方赞助商及独家仓储式会员店零售合作伙伴，并获得印第500车迷大道的冠名权。安德烈蒂环球车队另行确认，山姆会员店将在五月赛季及此后担任凯尔·柯克伍德赛车的主赞助商。"
+      },
+      "fr": {
+        "title": "Sam's Club devient sponsor officiel de la NTT INDYCAR Series et de l'Indianapolis Motor Speedway",
+        "summary": "Sam's Club a signé en tant que sponsor officiel et partenaire exclusif des clubs-entrepôts de la NTT INDYCAR Series et de l'Indianapolis Motor Speedway, avec notamment le naming du Indy 500 Fan Midway. Andretti Global a par ailleurs confirmé Sam's Club comme sponsor principal de la voiture de Kyle Kirkwood pour le mois de mai et au-delà."
+      }
+    }
+  },
+  {
+    "id": "npb-pacific-league-nifco-sponsorship-renewal",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-03-25T09:00:00Z",
+    "source_name": "フルカウント",
+    "source_url": "https://full-count.jp/2026/03/25/post1933007/",
+    "i18n": {
+      "en": {
+        "title": "NPB's Pacific League Renews League Sponsorship with Nifco for Second Term",
+        "summary": "Japan's six Pacific League baseball clubs and Pacific League Marketing renewed their league sponsorship agreement with auto-parts and fastener maker Nifco for a second consecutive term. The 2026 deal brings Nifco-branded commercials to all six Pacific League ballparks and credit billing during pregame starting-pitcher announcements, plus event booths at games."
+      },
+      "ja": {
+        "title": "NPBパ・リーグ、ニフコとのリーグスポンサーシップ契約を2期目更新",
+        "summary": "パシフィック・リーグ6球団とパシフィックリーグマーケティングは、自動車部品・締結部品メーカーのニフコとのリーグスポンサーシップ契約を2期連続で更新した。2026年の契約では、パ・リーグ全6球場でニフコのCMが放映されるほか、試合前の予告先発発表時に提供クレジットが表示され、各球場でイベントブースも出展される。"
+      },
+      "es": {
+        "title": "La Liga del Pacífico de la NPB renueva por segundo periodo su patrocinio con Nifco",
+        "summary": "Los seis clubes de béisbol de la Liga del Pacífico de Japón y Pacific League Marketing renovaron su acuerdo de patrocinio de liga con el fabricante de autopartes y sujetadores Nifco por un segundo periodo consecutivo. El acuerdo de 2026 incluye anuncios de Nifco en los seis estadios de la Liga del Pacífico, créditos de patrocinio durante el anuncio del lanzador abridor y stands en los partidos."
+      },
+      "zh": {
+        "title": "NPB太平洋联盟与Nifco续签联盟赞助协议，进入第二期合作",
+        "summary": "日本太平洋联盟六支棒球俱乐部与太平洋联盟营销公司宣布，与汽车零部件及紧固件制造商Nifco续签联盟赞助协议，这是双方连续第二期合作。2026年的协议将在太平洋联盟全部六座球场播放Nifco广告，并在赛前先发投手公布环节显示冠名字样，同时在各球场设立活动展位。"
+      },
+      "fr": {
+        "title": "La Pacific League de NPB renouvelle son sponsoring avec Nifco pour un second mandat",
+        "summary": "Les six clubs de baseball de la Pacific League japonaise et Pacific League Marketing ont renouvelé leur accord de sponsoring de ligue avec le fabricant de pièces automobiles et de fixations Nifco, pour un second mandat consécutif. L'accord 2026 apporte des publicités Nifco dans les six stades de la Pacific League, un crédit de sponsoring lors de l'annonce du lanceur partant avant match, ainsi que des stands lors des rencontres."
+      }
+    }
   }
 ]
