@@ -2095,5 +2095,208 @@
         "summary": "La coopérative de consommateurs Palsystem Saitama a conclu un partenariat de sponsoring avec le club de basket-ball Saitama Broncos, évoluant en B.League One, dans le but de soutenir l'équipe via des initiatives d'engagement communautaire. Le partenariat devrait inclure des produits collaboratifs et des activités promotionnelles régionales dans la préfecture de Saitama."
       }
     }
+  },
+  {
+    "id": "man-city-loses-premier-league-arbitration-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-25T18:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/law/analysis/2026/manchester-city-loses-arbitration-epl-1234827655/",
+    "i18n": {
+      "en": {
+        "title": "Manchester City Loses Arbitration Over Premier League Financial Charges",
+        "summary": "An independent arbitration panel ruled that Manchester City violated Premier League financial fair play rules and failed to cooperate fully with the years-long investigation. The club was found in breach on the vast majority of the charges it faced, with sanctions still to be determined, and City is expected to appeal the outcome."
+      },
+      "ja": {
+        "title": "マンチェスター・シティ、プレミアリーグ財務規則違反の仲裁で敗訴",
+        "summary": "独立仲裁委員会は、マンチェスター・シティがプレミアリーグの財務公正規則に違反し、長期にわたる調査への協力を怠ったと認定した。同クラブは告発された項目の大部分で違反ありとされ、制裁内容は今後決定される見通しで、クラブ側は判断を不服として控訴するとみられる。"
+      },
+      "es": {
+        "title": "El Manchester City pierde el arbitraje por infracciones financieras en la Premier League",
+        "summary": "Un panel de arbitraje independiente determinó que el Manchester City incumplió las normas de juego financiero limpio de la Premier League y no cooperó plenamente con la investigación de varios años. El club fue hallado culpable en la mayoría de los cargos, las sanciones aún no se han fijado y se espera que apele la decisión."
+      },
+      "zh": {
+        "title": "曼城在英超财务违规仲裁中败诉",
+        "summary": "一个独立仲裁小组裁定曼城违反了英超联赛的财务公平竞赛规则，并且未能充分配合长达数年的调查。俱乐部被认定在绝大多数指控项目上违规，具体处罚仍待确定，预计曼城将对裁决提出上诉。"
+      },
+      "fr": {
+        "title": "Manchester City perd son arbitrage sur des accusations financières en Premier League",
+        "summary": "Un panel d'arbitrage indépendant a jugé que Manchester City avait enfreint les règles de fair-play financier de la Premier League et n'avait pas pleinement coopéré à une enquête qui a duré plusieurs années. Le club a été reconnu en infraction sur la grande majorité des chefs d'accusation, les sanctions restant à déterminer, et devrait faire appel de la décision."
+      }
+    }
+  },
+  {
+    "id": "raj-sports-whitehead-ceo-promotion",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-23T16:00:00Z",
+    "source_name": "KOIN",
+    "source_url": "https://www.koin.com/news/portland/raj-sports-promotes-mike-whitehead-to-ceo/",
+    "i18n": {
+      "en": {
+        "title": "RAJ Sports Names Mike Whitehead as First-Ever CEO",
+        "summary": "RAJ Sports, the ownership group behind the NWSL's Portland Thorns and the WNBA's Portland Fire, has promoted managing director Mike Whitehead to serve as the company's first chief executive officer. Whitehead, a former NBA and Sacramento Kings finance executive, will now lead a newly formalized executive team reporting to co-founders Alex and Lisa Bhathal Merage."
+      },
+      "ja": {
+        "title": "RAJスポーツ、マイク・ホワイトヘッド氏を初代CEOに任命",
+        "summary": "NWSLのポートランド・ソーンズとWNBAのポートランド・ファイアを傘下に持つRAJスポーツは、マネジングディレクターのマイク・ホワイトヘッド氏を昇格させ、同社初のCEOに任命した。NBAやサクラメント・キングスで財務畑を歩んだホワイトヘッド氏は、共同創業者のアレックス&リサ・バサル・メレージ夫妻の下で新設された経営陣を率いる。"
+      },
+      "es": {
+        "title": "RAJ Sports nombra a Mike Whitehead como su primer director ejecutivo",
+        "summary": "RAJ Sports, el grupo propietario del Portland Thorns de la NWSL y el Portland Fire de la WNBA, ascendió a su director general Mike Whitehead para convertirlo en el primer CEO de la compañía. Whitehead, exejecutivo financiero de la NBA y los Sacramento Kings, liderará ahora un equipo directivo recién formalizado que reporta a los cofundadores Alex y Lisa Bhathal Merage."
+      },
+      "zh": {
+        "title": "RAJ体育集团任命迈克·怀特黑德为首任首席执行官",
+        "summary": "RAJ体育集团是NWSL波特兰索恩斯队和WNBA波特兰法尔队的所有者，该集团将常务董事迈克·怀特黑德提拔为公司首任首席执行官。怀特黑德曾在NBA和萨克拉门托国王队从事财务工作，如今将领导一支新组建的高管团队，向联合创始人亚历克斯与丽莎·巴瑟尔·梅拉奇夫妇汇报。"
+      },
+      "fr": {
+        "title": "RAJ Sports nomme Mike Whitehead premier directeur général de son histoire",
+        "summary": "RAJ Sports, le groupe propriétaire du Portland Thorns en NWSL et du Portland Fire en WNBA, a promu son directeur général Mike Whitehead au poste de tout premier PDG de la société. Ancien cadre financier de la NBA et des Sacramento Kings, Whitehead dirigera désormais une équipe de direction nouvellement structurée, rendant compte aux cofondateurs Alex et Lisa Bhathal Merage."
+      }
+    }
+  },
+  {
+    "id": "cowboys-jones-no-team-acquisitions-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-25T14:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/business/team-sales/2026/dallas-cowboys-buy-other-sports-teams-why-not-1234945663/",
+    "i18n": {
+      "en": {
+        "title": "Cowboys Owners Say They Aren't Interested in Buying Other Teams",
+        "summary": "Dallas Cowboys owner Jerry Jones said the league's most valuable and most profitable franchise has no plans to expand its holdings by acquiring stakes in other sports teams. The comments come as rival owners increasingly diversify into other leagues amid soaring franchise valuations across pro sports."
+      },
+      "ja": {
+        "title": "カウボーイズ、他球団の買収には関心なしとオーナーが表明",
+        "summary": "ダラス・カウボーイズのオーナー、ジェリー・ジョーンズ氏は、リーグ最高の評価額と収益を誇る同球団が、他のスポーツチームへの出資によって事業を拡大する計画はないと述べた。他のオーナーたちが評価額高騰を背景に他リーグへの投資を広げる動きが目立つ中での発言となった。"
+      },
+      "es": {
+        "title": "Los propietarios de los Cowboys aseguran no estar interesados en comprar otros equipos",
+        "summary": "El propietario de los Dallas Cowboys, Jerry Jones, afirmó que la franquicia más valiosa y rentable de la liga no tiene planes de ampliar su patrimonio adquiriendo participaciones en otros equipos deportivos. Las declaraciones llegan cuando otros propietarios diversifican cada vez más sus inversiones en otras ligas ante el aumento de las valoraciones de las franquicias."
+      },
+      "zh": {
+        "title": "牛仔队老板表示无意收购其他球队",
+        "summary": "达拉斯牛仔队老板杰里·琼斯表示，这支联盟估值最高、盈利最多的球队目前没有通过收购其他运动队股权来扩张业务的计划。此番表态正值其他球队老板在职业体育估值飙升之际，纷纷向其他联赛多元化投资。"
+      },
+      "fr": {
+        "title": "Les propriétaires des Cowboys disent ne pas vouloir racheter d'autres équipes",
+        "summary": "Jerry Jones, propriétaire des Cowboys de Dallas, a déclaré que la franchise la plus valorisée et la plus rentable de la ligue n'avait aucun projet d'élargir son portefeuille en acquérant des parts dans d'autres équipes sportives. Ces propos interviennent alors que d'autres propriétaires diversifient de plus en plus leurs investissements vers d'autres ligues, portés par la flambée des valorisations des franchises."
+      }
+    }
+  },
+  {
+    "id": "bleague-asobi-system-kawaii-lab-partnership",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "fan",
+      "sponsor"
+    ],
+    "published_at": "2026-09-14T09:00:00Z",
+    "source_name": "Basketball King",
+    "source_url": "https://basketballking.jp/news/japan/20260914/632381.html",
+    "i18n": {
+      "en": {
+        "title": "B.League Partners With Asobi System, Enlists KAWAII LAB. Idol Groups as Ambassadors",
+        "summary": "Japan's B.League announced a collaboration with talent agency Asobi System aimed at building live entertainment experiences beyond basketball itself, part of the league's push toward regional revitalization. Five idol groups from the agency's KAWAII LAB. project were named ambassadors for the league's fan festival and released a themed support song ahead of the new B.PREMIER season."
+      },
+      "ja": {
+        "title": "Bリーグ、アソビシステムと連携　KAWAII LAB.のアイドルグループを応援団に起用",
+        "summary": "Bリーグは、試合そのものを超えたライブエンターテインメント体験の創出を目指し、芸能事務所アソビシステムとの連携を発表した。地域創生を掲げる取り組みの一環で、同社の「KAWAII LAB.」に所属する5組のアイドルグループがファン向けイベントの応援団に就任し、新シーズン「B.PREMIER」開幕を前に応援ソングもリリースされた。"
+      },
+      "es": {
+        "title": "La B.League se asocia con Asobi System e incorpora a los grupos idol de KAWAII LAB. como embajadores",
+        "summary": "La B.League de Japón anunció una colaboración con la agencia de talentos Asobi System con el fin de crear experiencias de entretenimiento en vivo más allá del baloncesto, dentro de su apuesta por la revitalización regional. Cinco grupos idol del proyecto KAWAII LAB. de la agencia fueron nombrados embajadores del festival de aficionados de la liga y lanzaron una canción de apoyo antes del inicio de la nueva temporada B.PREMIER."
+      },
+      "zh": {
+        "title": "B联赛与Asobi System达成合作，起用KAWAII LAB.偶像团体担任应援大使",
+        "summary": "日本B联赛宣布与经纪公司Asobi System展开合作，旨在打造超越篮球本身的现场娱乐体验，是该联赛推动地区振兴战略的一部分。该公司旗下“KAWAII LAB.”项目的五个偶像团体被任命为联赛球迷节的应援大使，并在新赛季“B.PREMIER”开幕前发布了应援歌曲。"
+      },
+      "fr": {
+        "title": "La B.League s'associe à Asobi System et recrute les groupes idol de KAWAII LAB. comme ambassadeurs",
+        "summary": "La B.League japonaise a annoncé un partenariat avec l'agence de talents Asobi System afin de créer des expériences de divertissement en direct allant au-delà du seul basket-ball, dans le cadre de sa stratégie de revitalisation régionale. Cinq groupes idol issus du projet KAWAII LAB. de l'agence ont été nommés ambassadeurs du festival des supporters de la ligue et ont sorti une chanson de soutien avant le lancement de la nouvelle saison B.PREMIER."
+      }
+    }
+  },
+  {
+    "id": "jleague-record-investment-plan-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-09-17T08:00:00Z",
+    "source_name": "Sports Hochi",
+    "source_url": "https://news.yahoo.co.jp/articles/bf23bfbbacccafc1a8fdc7995ae4a818a19f6fdf",
+    "i18n": {
+      "en": {
+        "title": "J.League Unveils Its Largest-Ever Investment Plan, Worth About 21 Billion Yen",
+        "summary": "Japan's J.League announced its biggest planned investment in league history, budgeting roughly 21 billion yen over a year and a half by drawing on accumulated reserves. The funds will go toward boosting the league's media exposure, supporting club management, subsidizing facility upgrades in snowy regions, and helping clubs cover travel costs for AFC Champions League competition."
+      },
+      "ja": {
+        "title": "Jリーグ、過去最大規模の投資計画を発表　1.5年で約210億円",
+        "summary": "Jリーグは、これまでに積み上げた手元資金を活用し、1.5年間で約210億円規模となる過去最大の計画投資を実施すると発表した。資金は露出拡大やクラブ経営支援、降雪地域の施設整備助成、ACL出場クラブへの渡航支援などに充てられる。"
+      },
+      "es": {
+        "title": "La J.League anuncia su mayor plan de inversión, valorado en unos 21.000 millones de yenes",
+        "summary": "La J.League de Japón anunció el mayor plan de inversión de su historia, con un presupuesto de aproximadamente 21.000 millones de yenes a lo largo de un año y medio, utilizando sus reservas acumuladas. Los fondos se destinarán a aumentar la exposición mediática de la liga, apoyar la gestión de los clubes, subvencionar mejoras en instalaciones de zonas nevadas y ayudar a los clubes a cubrir gastos de viaje para la Liga de Campeones de la AFC."
+      },
+      "zh": {
+        "title": "J联赛公布史上最大规模投资计划，规模约210亿日元",
+        "summary": "日本J联赛宣布启动其历史上规模最大的投资计划，动用长期积累的资金，在一年半内投入约210亿日元。这笔资金将用于扩大联赛媒体曝光度、支持俱乐部经营、补贴多雪地区场馆设施改造，并帮助参加亚冠联赛的俱乐部支付差旅费用。"
+      },
+      "fr": {
+        "title": "La J.League dévoile son plus grand plan d'investissement, d'environ 21 milliards de yens",
+        "summary": "La J.League japonaise a annoncé le plus important plan d'investissement de son histoire, avec un budget d'environ 21 milliards de yens sur un an et demi, financé grâce à ses réserves accumulées. Ces fonds serviront à accroître l'exposition médiatique de la ligue, soutenir la gestion des clubs, subventionner la modernisation d'installations dans les régions enneigées et aider les clubs à couvrir leurs frais de déplacement pour la Ligue des champions de l'AFC."
+      }
+    }
+  },
+  {
+    "id": "rochester-altra-sportsplex-naming-rights",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-09-21T20:00:00Z",
+    "source_name": "Youth Sports Business Report",
+    "source_url": "https://youthsportsbusinessreport.com/rochester-minnesota-approves-sports-complex-naming-rights-deal-with-altra-federal-credit-union/",
+    "i18n": {
+      "en": {
+        "title": "Rochester, Minnesota Approves Naming Rights Deal for New Sports Complex",
+        "summary": "The Rochester City Council approved a naming rights agreement with Altra Federal Credit Union for the city's new multi-sport outdoor facility, which will be known as the Altra Sportsplex. The deal carries an annual fee starting near $210,000 that rises 3% each year beginning in its third year."
+      },
+      "ja": {
+        "title": "米ロチェスター市、新スポーツ施設の命名権契約を承認",
+        "summary": "米ミネソタ州ロチェスター市議会は、新設される多目的屋外スポーツ施設について、Altra連邦信用組合との命名権契約を承認し、施設名は「Altraスポーツプレックス」となる。契約は年間約21万ドルの命名料から始まり、3年目以降は毎年3%ずつ増額される仕組みだ。"
+      },
+      "es": {
+        "title": "Rochester, Minnesota, aprueba un acuerdo de naming rights para su nuevo complejo deportivo",
+        "summary": "El concejo municipal de Rochester aprobó un acuerdo de derechos de denominación con Altra Federal Credit Union para la nueva instalación deportiva multiusos al aire libre de la ciudad, que pasará a llamarse Altra Sportsplex. El contrato incluye una tarifa anual que comienza cerca de los 210.000 dólares y que aumenta un 3% cada año a partir del tercero."
+      },
+      "zh": {
+        "title": "美国罗切斯特市批准新体育中心冠名权协议",
+        "summary": "美国明尼苏达州罗切斯特市议会批准了与Altra联邦信用社达成的冠名权协议，该市新建的多功能户外体育设施将更名为“Altra运动中心”。协议规定的年度冠名费约为21万美元，从第三年起每年递增3%。"
+      },
+      "fr": {
+        "title": "Rochester, dans le Minnesota, approuve un accord de naming pour son nouveau complexe sportif",
+        "summary": "Le conseil municipal de Rochester a approuvé un accord de droits de dénomination avec Altra Federal Credit Union pour le nouveau complexe sportif extérieur multisports de la ville, qui sera baptisé Altra Sportsplex. L'accord prévoit une redevance annuelle débutant à environ 210 000 dollars, augmentant de 3 % chaque année à partir de la troisième."
+      }
+    }
   }
 ]
