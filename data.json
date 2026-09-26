@@ -267,5 +267,340 @@
         "summary": "Nottingham Forest a annoncé l'entreprise de services financiers Marex comme nouveau sponsor principal à l'avant du maillot, dans le cadre d'un contrat pluriannuel évalué à environ 25 millions de livres sterling sur trois ans. Marex remplace la marque de paris Bally's, poursuivant une tendance plus large en Premier League d'éloignement des sponsors de paris sportifs sur les maillots."
       }
     }
+  },
+  {
+    "id": "cal-databricks-memorial-stadium-naming-rights-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "stadium"
+    ],
+    "published_at": "2026-09-24T00:00:00Z",
+    "source_name": "Cal Bears Athletics",
+    "source_url": "https://calbears.com/news/2026/9/24/athletics-news-cal-announces-historic-naming-rights-partnership-with-databricks",
+    "i18n": {
+      "en": {
+        "title": "Databricks Becomes Naming-Rights Partner for Cal's Football Stadium",
+        "summary": "UC Berkeley's athletic department signed a multi-year deal renaming California Memorial Stadium's playing surface as Databricks Field, marking the AI and data company's first college sports sponsorship. The branding debuted during Cal's nationally televised home game against Clemson, and the agreement is reported as the largest in Cal Athletics history."
+      },
+      "ja": {
+        "title": "データブリックス、カル・フットボールスタジアムの命名権パートナーに",
+        "summary": "カリフォルニア大学バークレー校の運動部門は、カリフォルニア・メモリアル・スタジアムのフィールドを「データブリックス・フィールド」と改名する複数年契約を発表した。AI・データ企業データブリックスにとって初の大学スポーツ協賛となる。このブランディングは全米中継されたクレムソン大学戦のホームゲームで初披露され、契約額はカル・アスレチックス史上最大規模と報じられている。"
+      },
+      "es": {
+        "title": "Databricks se convierte en socio de naming del estadio de fútbol americano de Cal",
+        "summary": "El departamento deportivo de UC Berkeley firmó un acuerdo plurianual para rebautizar el campo de California Memorial Stadium como Databricks Field, el primer patrocinio universitario de la empresa de inteligencia artificial y datos. La nueva marca debutó durante el partido de local de Cal contra Clemson, transmitido a nivel nacional, y el acuerdo se describe como el más grande en la historia de Cal Athletics."
+      },
+      "zh": {
+        "title": "Databricks成为加州大学橄榄球场冠名合作伙伴",
+        "summary": "加州大学伯克利分校体育部与数据科技公司Databricks签署多年协议，将加州纪念体育场的球场更名为“Databricks球场”，这是该公司首次涉足大学体育赞助。新命名在卡尔队主场迎战克莱姆森队的全国转播比赛中首次亮相，该协议被称为卡尔体育史上规模最大的赞助交易。"
+      },
+      "fr": {
+        "title": "Databricks devient partenaire de dénomination du stade de football américain de Cal",
+        "summary": "Le département sportif de l'UC Berkeley a signé un accord pluriannuel rebaptisant le terrain du California Memorial Stadium « Databricks Field », premier partenariat universitaire pour l'entreprise d'intelligence artificielle et de données. La nouvelle identité a été dévoilée lors du match à domicile de Cal contre Clemson, diffusé nationalement, un contrat présenté comme le plus important de l'histoire de Cal Athletics."
+      }
+    }
+  },
+  {
+    "id": "northampton-saints-dpd-franklins-gardens-naming-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-09-25T00:00:00Z",
+    "source_name": "The Stadium Business",
+    "source_url": "https://www.thestadiumbusiness.com/2026/09/25/california-memorial-stadium-makes-naming-rights-return-dpd-delivers-for-saints/",
+    "i18n": {
+      "en": {
+        "title": "DPD Becomes New Stadium Naming Partner for Northampton Saints",
+        "summary": "Parcel delivery firm DPD has expanded its sponsorship of English rugby club Northampton Saints, taking over as the stadium naming partner for Franklin's Gardens. The deal succeeds the club's previous arrangement with cinch and will see DPD branding featured across matchday operations and club communications."
+      },
+      "ja": {
+        "title": "DPD、ノーサンプトン・セインツの新たなスタジアム命名権パートナーに",
+        "summary": "宅配便大手DPDは、イングランドのラグビークラブ、ノーサンプトン・セインツへのスポンサー契約を拡大し、本拠地フランクリンズ・ガーデンズの命名権パートナーとなった。この契約は同クラブが以前結んでいたcinchとの契約の後任にあたり、試合運営やクラブの広報活動においてDPDのブランディングが展開される。"
+      },
+      "es": {
+        "title": "DPD se convierte en el nuevo socio de naming del estadio de Northampton Saints",
+        "summary": "La empresa de mensajería DPD ha ampliado su patrocinio del club de rugby inglés Northampton Saints, asumiendo el papel de socio de naming del estadio Franklin's Gardens. El acuerdo sucede al convenio previo del club con cinch y llevará la marca DPD a las operaciones de los días de partido y a las comunicaciones del club."
+      },
+      "zh": {
+        "title": "DPD成为诺桑普顿圣徒队新的球场冠名合作伙伴",
+        "summary": "快递公司DPD扩大了对英格兰橄榄球俱乐部诺桑普顿圣徒队的赞助，接任其主场富兰克林花园球场的冠名合作伙伴。该协议取代了俱乐部此前与cinch的合作，DPD品牌将出现在比赛日运营及俱乐部宣传活动中。"
+      },
+      "fr": {
+        "title": "DPD devient le nouveau partenaire de dénomination du stade des Northampton Saints",
+        "summary": "L'entreprise de livraison DPD a étendu son partenariat avec le club de rugby anglais Northampton Saints en devenant le nouveau partenaire de dénomination de son stade, Franklin's Gardens. Cet accord succède au précédent partenariat du club avec cinch et verra la marque DPD apparaître dans les opérations des jours de match et les communications du club."
+      }
+    }
+  },
+  {
+    "id": "liverpool-turkish-airlines-shirt-sponsor-2027",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-08T00:00:00Z",
+    "source_name": "ESPN",
+    "source_url": "https://www.espn.com/soccer/story/_/id/49867443/liverpool-announce-turkish-airlines-main-shirt-sponsor-2027",
+    "i18n": {
+      "en": {
+        "title": "Turkish Airlines to Replace Standard Chartered as Liverpool's Shirt Sponsor",
+        "summary": "Liverpool FC announced a five-year front-of-shirt sponsorship agreement with Turkish Airlines, reported at more than £300 million, that will begin with the 2027-28 season. The deal ends Standard Chartered's 17-year run as the club's principal shirt sponsor and will cover the men's, women's, and academy teams."
+      },
+      "ja": {
+        "title": "トルコ航空、リバプールの新ユニフォームスポンサーにスタンダードチャータードから交代",
+        "summary": "リバプールFCは、トルコ航空との5年間にわたるユニフォーム胸スポンサー契約を発表した。契約金額は3億ポンド超と報じられており、2027-28シーズンから開始される。この契約により、17年間続いたスタンダードチャータードとの主要スポンサー契約は終了し、新契約はトップチーム、女子チーム、アカデミーを対象とする。"
+      },
+      "es": {
+        "title": "Turkish Airlines reemplazará a Standard Chartered como patrocinador de camiseta del Liverpool",
+        "summary": "El Liverpool FC anunció un acuerdo de patrocinio principal de camiseta a cinco años con Turkish Airlines, valorado en más de 300 millones de libras, que comenzará en la temporada 2027-28. El pacto pone fin a los 17 años de Standard Chartered como patrocinador principal del club y abarcará a los equipos masculino, femenino y de la academia."
+      },
+      "zh": {
+        "title": "土耳其航空将取代渣打银行成为利物浦球衣赞助商",
+        "summary": "利物浦足球俱乐部宣布与土耳其航空达成为期五年的球衣胸前赞助协议，据报道金额超过3亿英镑，将于2027-28赛季开始生效。该协议终结了渣打银行长达17年的主赞助商身份，新合作将覆盖男足、女足及青训学院球队。"
+      },
+      "fr": {
+        "title": "Turkish Airlines va remplacer Standard Chartered comme sponsor maillot de Liverpool",
+        "summary": "Liverpool FC a annoncé un accord de sponsoring principal de maillot de cinq ans avec Turkish Airlines, évalué à plus de 300 millions de livres sterling, qui débutera lors de la saison 2027-28. Cet accord met fin aux 17 années de Standard Chartered en tant que sponsor principal du club et couvrira les équipes masculine, féminine et de l'académie."
+      }
+    }
+  },
+  {
+    "id": "f1-dazn-iberia-broadcast-extension-2030",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-09-08T00:00:00Z",
+    "source_name": "Formula 1",
+    "source_url": "https://corp.formula1.com/formula-1-and-dazn-extend-broadcast-partnership-in-spain-andorra-and-portugal-through-2030/",
+    "i18n": {
+      "en": {
+        "title": "Formula 1 and DAZN Extend Iberian Broadcast Deal Through 2030",
+        "summary": "Formula 1 and streaming service DAZN announced a multi-year extension keeping DAZN as the exclusive home of F1 coverage in Spain, Portugal, and Andorra through the 2030 season. The renewed agreement also includes Formula 2, Formula 3, F1 Academy, and Porsche Supercup content, and comes as the sport's Iberian fanbase continues to grow."
+      },
+      "ja": {
+        "title": "F1とDAZN、イベリア半島での放映契約を2030年まで延長",
+        "summary": "F1とストリーミングサービスのDAZNは、スペイン、ポルトガル、アンドラにおけるF1独占放送契約を2030年シーズンまで延長する複数年契約を発表した。更新された契約にはフォーミュラ2、フォーミュラ3、F1アカデミー、ポルシェ・スーパーカップの放映も含まれており、イベリア半島でのF1ファン層拡大を背景とした動きとなる。"
+      },
+      "es": {
+        "title": "Fórmula 1 y DAZN extienden su acuerdo de difusión en Iberia hasta 2030",
+        "summary": "Fórmula 1 y el servicio de streaming DAZN anunciaron una extensión plurianual que mantiene a DAZN como el hogar exclusivo de la cobertura de F1 en España, Portugal y Andorra hasta la temporada 2030. El acuerdo renovado también incluye contenido de Fórmula 2, Fórmula 3, F1 Academy y la Porsche Supercup, en un momento de creciente afición al automovilismo en la península ibérica."
+      },
+      "zh": {
+        "title": "F1与DAZN将伊比利亚地区转播协议延长至2030年",
+        "summary": "F1与流媒体平台DAZN宣布达成多年续约协议，DAZN将继续作为西班牙、葡萄牙及安道尔地区F1赛事的独家转播平台，合约延续至2030赛季。续约内容还包括F2、F3、F1学院及保时捷单一杯赛的转播，此举正值伊比利亚半岛F1观众群体持续增长之际。"
+      },
+      "fr": {
+        "title": "La Formule 1 et DAZN prolongent leur accord de diffusion ibérique jusqu'en 2030",
+        "summary": "La Formule 1 et le service de streaming DAZN ont annoncé une extension pluriannuelle faisant de DAZN le diffuseur exclusif de la F1 en Espagne, au Portugal et en Andorre jusqu'à la saison 2030. L'accord renouvelé inclut également la Formule 2, la Formule 3, la F1 Academy et la Porsche Supercup, alors que la base de fans ibérique de la discipline continue de croître."
+      }
+    }
+  },
+  {
+    "id": "sportico-nfl-team-values-2026-cowboys",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "biz",
+      "team"
+    ],
+    "published_at": "2026-08-12T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/valuations/teams/2026/nfl-team-values-2026-dallas-cowboys-los-angeles-rams-1234941607/",
+    "i18n": {
+      "en": {
+        "title": "Cowboys Top Sportico's 2026 NFL Valuations as League Average Jumps 31%",
+        "summary": "Sportico's annual NFL franchise valuations put the Dallas Cowboys atop the league for a seventh straight year at $15.5 billion, with the Rams, Giants, Patriots, and Jets rounding out the top five. The average team value climbed roughly 31% year-over-year to $9.34 billion, the largest single-year jump since Sportico began tracking the figures in 2020."
+      },
+      "ja": {
+        "title": "スポルティコの2026年NFL球団価値評価、カウボーイズが首位を維持し平均は31%上昇",
+        "summary": "スポルティコによる2026年NFL球団価値評価で、ダラス・カウボーイズが7年連続で首位となり、評価額は155億ドルに達した。上位5球団にはラムズ、ジャイアンツ、ペイトリオッツ、ジェッツが続いた。球団の平均価値は前年比約31%上昇し93億4000万ドルとなり、スポルティコが2020年に集計を開始して以来最大の伸び幅となった。"
+      },
+      "es": {
+        "title": "Los Cowboys lideran las valoraciones 2026 de Sportico mientras el promedio de la liga sube 31%",
+        "summary": "La valoración anual de franquicias de la NFL realizada por Sportico coloca a los Dallas Cowboys en el primer lugar de la liga por séptimo año consecutivo, con 15.500 millones de dólares, seguidos por los Rams, los Giants, los Patriots y los Jets entre los cinco primeros. El valor promedio de los equipos subió aproximadamente un 31% interanual hasta los 9.340 millones de dólares, el mayor incremento en un solo año desde que Sportico comenzó a registrar estas cifras en 2020."
+      },
+      "zh": {
+        "title": "Sportico发布2026年NFL估值：牛仔队蝉联榜首，联盟平均值上涨31%",
+        "summary": "Sportico发布的2026年NFL球队估值报告显示，达拉斯牛仔队连续第七年蝉联联盟估值榜首，达155亿美元，公羊、巨人、爱国者和喷气机队紧随其后进入前五。联盟球队平均估值同比上涨约31%，达到93.4亿美元，创下Sportico自2020年开始统计以来的最大单年涨幅。"
+      },
+      "fr": {
+        "title": "Les Cowboys en tête du classement Sportico 2026 de la NFL, la moyenne de la ligue bondit de 31%",
+        "summary": "Le classement annuel des valorisations des franchises de la NFL établi par Sportico place les Dallas Cowboys en tête de la ligue pour la septième année consécutive, avec 15,5 milliards de dollars, suivis par les Rams, les Giants, les Patriots et les Jets dans le top 5. La valeur moyenne des équipes a bondi d'environ 31 % sur un an pour atteindre 9,34 milliards de dollars, la plus forte hausse annuelle depuis que Sportico a commencé à suivre ces chiffres en 2020."
+      }
+    }
+  },
+  {
+    "id": "seahawks-khosla-family-sale-close-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-03T00:00:00Z",
+    "source_name": "NFL.com",
+    "source_url": "https://www.nfl.com/news/khosla-family-closes-purchase-seahawks",
+    "i18n": {
+      "en": {
+        "title": "Khosla Family Officially Completes Record $9.6 Billion Seahawks Purchase",
+        "summary": "The Khosla family closed its purchase of the reigning Super Bowl champion Seattle Seahawks for a league-record $9.612 billion, days after NFL owners unanimously approved the sale. Vinod Khosla, his wife Neeru, and son Neal now control the franchise, which was previously owned by the estate of the late Paul Allen."
+      },
+      "ja": {
+        "title": "コスラ・ファミリー、シーホークス買収を完了しNFL史上最高額96億ドルに",
+        "summary": "コスラ・ファミリーは、現スーパーボウル王者シアトル・シーホークスの買収を正式に完了し、NFL史上最高額となる96億1200万ドルでの取得となった。これはNFLオーナー陣が全会一致で売却を承認した数日後のことである。ヴィノド・コスラ氏とその妻ニールー氏、息子ニール氏がチームの経営権を握り、これまで球団を所有していた故ポール・アレン氏の遺産財団から引き継ぐ形となった。"
+      },
+      "es": {
+        "title": "La familia Khosla completa oficialmente la compra récord de los Seahawks por 9.600 millones de dólares",
+        "summary": "La familia Khosla completó oficialmente la compra de los vigentes campeones del Super Bowl, los Seattle Seahawks, por un récord de la NFL de 9.612 millones de dólares, días después de que los propietarios de la liga aprobaran la venta por unanimidad. Vinod Khosla, su esposa Neeru y su hijo Neal ahora controlan la franquicia, que anteriormente pertenecía al patrimonio del fallecido Paul Allen."
+      },
+      "zh": {
+        "title": "科斯拉家族正式完成对海鹰队的96亿美元创纪录收购",
+        "summary": "科斯拉家族正式完成对卫冕超级碗冠军西雅图海鹰队的收购，成交价高达96.12亿美元，创下NFL历史纪录，此前联盟所有者已一致批准这笔交易。维诺德·科斯拉及其妻子妮鲁、儿子尼尔现已掌控该球队，此前球队归已故球队老板保罗·艾伦的遗产所有。"
+      },
+      "fr": {
+        "title": "La famille Khosla finalise officiellement le rachat record des Seahawks pour 9,6 milliards de dollars",
+        "summary": "La famille Khosla a officiellement finalisé le rachat des Seahawks de Seattle, champions en titre du Super Bowl, pour un montant record de 9,612 milliards de dollars, quelques jours après que les propriétaires de la NFL ont approuvé la vente à l'unanimité. Vinod Khosla, son épouse Neeru et leur fils Neal contrôlent désormais la franchise, auparavant détenue par la succession de feu Paul Allen."
+      }
+    }
+  },
+  {
+    "id": "newcastle-united-knox-hydrate-shirt-sponsor-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-06-23T00:00:00Z",
+    "source_name": "Newcastle United FC",
+    "source_url": "https://www.newcastleunited.com/en/news/knox-hydrate-front-of-shirt-partnership",
+    "i18n": {
+      "en": {
+        "title": "Newcastle United Unveils Knox Hydrate as New Front-of-Shirt Sponsor",
+        "summary": "Newcastle United confirmed a three-year front-of-shirt sponsorship with hydration brand Knox Hydrate, reported to be worth roughly £60 million, beginning with the 2026-27 season. The agreement replaces outgoing sponsor Sela Entertainment and also includes naming rights for the club's training ground."
+      },
+      "ja": {
+        "title": "ニューカッスル、新ユニフォームスポンサーにKnox Hydrateを発表",
+        "summary": "ニューカッスル・ユナイテッドは、水分補給ブランド「Knox Hydrate」との3年間のユニフォーム胸スポンサー契約を発表した。契約金額は約6000万ポンドと報じられており、2026-27シーズンから開始される。この契約は前スポンサーであるセラ・エンターテインメントに代わるもので、クラブの練習場の命名権も含まれている。"
+      },
+      "es": {
+        "title": "Newcastle United presenta a Knox Hydrate como su nuevo patrocinador de camiseta",
+        "summary": "El Newcastle United confirmó un patrocinio de camiseta a tres años con la marca de hidratación Knox Hydrate, valorado en unas 60 millones de libras, a partir de la temporada 2026-27. El acuerdo sustituye al patrocinador saliente, Sela Entertainment, e incluye también los derechos de denominación del campo de entrenamiento del club."
+      },
+      "zh": {
+        "title": "纽卡斯尔联队宣布Knox Hydrate为新球衣赞助商",
+        "summary": "纽卡斯尔联队宣布与补水品牌Knox Hydrate达成为期三年的球衣胸前赞助协议，据报道价值约6000万英镑，将于2026-27赛季生效。该协议取代了此前的赞助商Sela Entertainment，并包含俱乐部训练基地的冠名权。"
+      },
+      "fr": {
+        "title": "Newcastle United dévoile Knox Hydrate comme nouveau sponsor maillot",
+        "summary": "Newcastle United a confirmé un partenariat de sponsoring de maillot de trois ans avec la marque d'hydratation Knox Hydrate, évalué à environ 60 millions de livres sterling, à partir de la saison 2026-27. L'accord remplace le sponsor sortant, Sela Entertainment, et inclut également les droits de dénomination du centre d'entraînement du club."
+      }
+    }
+  },
+  {
+    "id": "jpmorgan-chase-ioc-top-sponsor-2026",
+    "sport": "olympics",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-04-29T00:00:00Z",
+    "source_name": "Olympics.com",
+    "source_url": "https://www.olympics.com/ioc/news/jpmorganchase-named-first-ever-global-banking-partner-of-the-olympic-games",
+    "i18n": {
+      "en": {
+        "title": "JPMorgan Chase Becomes First Bank to Join IOC's Top Sponsor Program",
+        "summary": "The IOC named JPMorgan Chase as its newest global TOP-tier sponsor, marking the first time a banking company has joined the program in its four-decade history. The deal covers both the LA 2028 Summer Games and the French Alps 2030 Winter Games, adding the bank alongside existing partners such as Coca-Cola, Visa, and Airbnb."
+      },
+      "ja": {
+        "title": "JPモルガン・チェース、IOCの最上位スポンサープログラムに銀行として初参加",
+        "summary": "IOCは、JPモルガン・チェースを新たなグローバル最上位（TOPプログラム）スポンサーに認定した。同プログラム40年の歴史の中で、銀行業の企業が加わるのは今回が初めてとなる。契約はロサンゼルス2028年夏季大会とフレンチアルプス2030年冬季大会の両方を対象としており、コカ・コーラ、ビザ、エアビーアンドビーといった既存パートナーに加わる形となる。"
+      },
+      "es": {
+        "title": "JPMorgan Chase se convierte en el primer banco en unirse al programa TOP del COI",
+        "summary": "El COI nombró a JPMorgan Chase como su nuevo patrocinador global de máximo nivel (programa TOP), marcando la primera vez que una entidad bancaria se une al programa en sus cuatro décadas de historia. El acuerdo abarca tanto los Juegos de Verano de Los Ángeles 2028 como los Juegos de Invierno de los Alpes Franceses 2030, sumándose a socios existentes como Coca-Cola, Visa y Airbnb."
+      },
+      "zh": {
+        "title": "摩根大通成为首家加入国际奥委会TOP赞助计划的银行",
+        "summary": "国际奥委会宣布摩根大通成为其最新的全球顶级（TOP）赞助商，这是该项目四十年历史上首次有银行类企业加入。该协议涵盖2028年洛杉矶夏季奥运会及2030年法国阿尔卑斯冬季奥运会，摩根大通由此加入可口可乐、维萨和爱彼迎等现有合作伙伴之列。"
+      },
+      "fr": {
+        "title": "JPMorgan Chase devient la première banque à rejoindre le programme TOP du CIO",
+        "summary": "Le CIO a nommé JPMorgan Chase comme son nouveau sponsor mondial de rang TOP, une première pour une banque en quatre décennies d'existence du programme. L'accord couvre à la fois les Jeux d'été de Los Angeles 2028 et les Jeux d'hiver des Alpes françaises 2030, rejoignant des partenaires existants tels que Coca-Cola, Visa et Airbnb."
+      }
+    }
+  },
+  {
+    "id": "smartnews-jleague-supporting-company-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-06-18T00:00:00Z",
+    "source_name": "J.League",
+    "source_url": "https://www.jleague.jp/sp/news/article/34204/",
+    "i18n": {
+      "en": {
+        "title": "SmartNews Signs Supporting Company Deal with J.League",
+        "summary": "News app SmartNews signed a supporting-company partnership with Japan's J.League, agreeing to distribute match information, official video, and club content to fans through its platform. The deal also led to dedicated in-app channels for all 60 J1, J2, and J3 clubs, aimed at deepening fan engagement and joint marketing efforts."
+      },
+      "ja": {
+        "title": "スマートニュース、Jリーグとサポーティングカンパニー契約を締結",
+        "summary": "ニュースアプリのスマートニュースは、Jリーグとのサポーティングカンパニー契約を締結した。試合情報や公式動画、クラブコンテンツをアプリを通じてファンに配信することに合意した。この提携により、J1・J2・J3全60クラブの専用チャンネルが開設され、ファンエンゲージメントの強化と共同マーケティング施策の推進が図られる。"
+      },
+      "es": {
+        "title": "SmartNews firma un acuerdo de empresa colaboradora con la J.League",
+        "summary": "La aplicación de noticias SmartNews firmó un acuerdo de empresa colaboradora con la J.League de Japón, comprometiéndose a distribuir información de partidos, video oficial y contenido de los clubes a los aficionados a través de su plataforma. El acuerdo también dio lugar a canales dedicados dentro de la app para los 60 clubes de J1, J2 y J3, con el objetivo de reforzar el compromiso de los aficionados y las iniciativas de marketing conjunto."
+      },
+      "zh": {
+        "title": "SmartNews与J联赛签署支持企业合作协议",
+        "summary": "新闻应用SmartNews与日本职业足球联赛J联赛签署支持企业合作协议，承诺通过其平台向球迷发布比赛信息、官方视频及俱乐部内容。该合作还促成了J1、J2、J3全部60家俱乐部专属频道的上线，旨在增强球迷参与度并推进联合营销活动。"
+      },
+      "fr": {
+        "title": "SmartNews signe un partenariat d'entreprise partenaire avec la J.League",
+        "summary": "L'application d'actualités SmartNews a signé un partenariat d'entreprise partenaire avec la J.League japonaise, s'engageant à diffuser des informations sur les matchs, des vidéos officielles et du contenu des clubs aux supporters via sa plateforme. Cet accord a également conduit à la création de chaînes dédiées dans l'application pour les 60 clubs de J1, J2 et J3, visant à renforcer l'engagement des fans et les initiatives de marketing conjointes."
+      }
+    }
+  },
+  {
+    "id": "resona-bleague-title-partner-2026-27-season3",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-02-17T00:00:00Z",
+    "source_name": "B.LEAGUE",
+    "source_url": "https://www.bleague.jp/news_detail/id=550435",
+    "i18n": {
+      "en": {
+        "title": "Resona Group Extends B.League Title Partnership for Third Season",
+        "summary": "Japanese financial group Resona will continue as B.League's title partner for the 2026-27 season, marking its third consecutive year in the role. The renewed partnership will support the league's 'B.Innovation' initiative, focusing on regional revitalization, youth development, diversity and inclusion, and joint business creation."
+      },
+      "ja": {
+        "title": "りそなグループ、B.LEAGUEタイトルパートナーを3季連続で継続",
+        "summary": "日本の金融グループであるりそなグループは、2026-27シーズンもB.LEAGUEのタイトルパートナーを継続し、3季連続での就任となる。更新された提携では、地域活性化、次世代育成、DE&I（多様性・公平性・包摂性）、事業共創をテーマに、リーグの新たな取り組み「B.革新」を支援していく。"
+      },
+      "es": {
+        "title": "Resona Group renueva su patrocinio titular de la B.League por tercera temporada",
+        "summary": "El grupo financiero japonés Resona continuará como patrocinador titular de la B.League durante la temporada 2026-27, marcando su tercer año consecutivo en ese papel. La alianza renovada respaldará la iniciativa \"B.Innovation\" de la liga, centrada en la revitalización regional, el desarrollo de jóvenes, la diversidad e inclusión, y la creación conjunta de negocios."
+      },
+      "zh": {
+        "title": "理索纳集团连续第三个赛季续约B联赛冠名合作伙伴",
+        "summary": "日本金融集团理索纳将连续第三个赛季担任B联赛（日本职业篮球联赛）冠名合作伙伴。续约合作将持续支持联赛推出的“B.革新”倡议，聚焦地区振兴、青年培养、多元与包容以及联合业务共创等主题。"
+      },
+      "fr": {
+        "title": "Resona Group prolonge son partenariat titre avec la B.League pour une troisième saison",
+        "summary": "Le groupe financier japonais Resona restera le partenaire titre de la B.League pour la saison 2026-27, une troisième année consécutive dans ce rôle. Ce partenariat renouvelé soutiendra l'initiative « B.Innovation » de la ligue, axée sur la revitalisation régionale, le développement des jeunes, la diversité et l'inclusion, ainsi que la création conjointe d'activités commerciales."
+      }
+    }
   }
 ]
