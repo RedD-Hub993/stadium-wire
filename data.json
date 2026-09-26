@@ -839,5 +839,244 @@
         "summary": "Une analyse post-événement récemment publiée sur les finales de basket-ball NCAA 2026 souligne la croissance continue de l'activité de sponsoring, citant des partenaires majeurs comme Invesco, GEICO, The Home Depot, Samsung et Unilever issus de secteurs variés. Le rapport indique également que la finale masculine a atteint un pic d'audience de 20,4 millions de téléspectateurs, illustrant l'attrait commercial croissant du tournoi."
       }
     }
+  },
+  {
+    "id": "lg-electronics-capital-one-arena-display-partner-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "tech",
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-09-16T00:00:00Z",
+    "source_name": "PR Newswire",
+    "source_url": "https://www.prnewswire.com/news-releases/monumental-sports--entertainment-names-lg-electronics-usa-official-tv-and-display-partner-for-brand-new-capital-one-arena-302880443.html",
+    "i18n": {
+      "en": {
+        "title": "LG Electronics Named Official Display Partner of New Capital One Arena",
+        "summary": "Monumental Sports & Entertainment named LG Electronics USA as the official TV, display and appliance partner for the rebuilt Capital One Arena in Washington, D.C. The multi-year deal covers new exterior and interior LED displays, business-center screens, and a roughly 150-meter digital concourse experience debuting for the 2026-27 season. Integrator ANC will handle installation and ongoing service of the new display systems."
+      },
+      "ja": {
+        "title": "LGエレクトロニクス、新キャピタル・ワン・アリーナの公式ディスプレイパートナーに",
+        "summary": "モニュメンタル・スポーツ&エンターテインメントは、ワシントンD.C.で改装中のキャピタル・ワン・アリーナの公式テレビ・ディスプレイ・家電パートナーにLGエレクトロニクスUSAを選定した。複数年契約には屋外壁面や館内のLEDディスプレイ、ビジネスセンター向け画面、全長約150メートルに及ぶデジタル観戦体験の設置が含まれ、2026-27シーズンから稼働する。設置と保守はインテグレーターのANCが担当する。"
+      },
+      "es": {
+        "title": "LG Electronics, socio oficial de pantallas del nuevo Capital One Arena",
+        "summary": "Monumental Sports & Entertainment nombró a LG Electronics USA como socio oficial de televisores, pantallas y electrodomésticos para el renovado Capital One Arena en Washington D.C. El acuerdo plurianual incluye nuevas pantallas LED exteriores e interiores, monitores para el centro de negocios y una experiencia digital de casi 150 metros que debutará en la temporada 2026-27. La integradora ANC se encargará de la instalación y el mantenimiento de los nuevos sistemas."
+      },
+      "zh": {
+        "title": "LG电子成为新凯投艾伦娱乐中心官方显示屏合作伙伴",
+        "summary": "蒙纽曼特体育娱乐集团宣布，LG电子美国公司成为华盛顿特区新建凯投艾伦娱乐中心的官方电视、显示屏与家电合作伙伴。这项多年协议涵盖场馆内外的LED显示屏、商务中心屏幕，以及一条长约150米的沉浸式数字观赛廊道，将于2026-27赛季启用。系统集成商ANC将负责安装与后续维护。"
+      },
+      "fr": {
+        "title": "LG Electronics, partenaire officiel des écrans du nouveau Capital One Arena",
+        "summary": "Monumental Sports & Entertainment a désigné LG Electronics USA comme partenaire officiel des téléviseurs, écrans et électroménagers pour le nouveau Capital One Arena de Washington. L'accord pluriannuel prévoit des écrans LED extérieurs et intérieurs, des écrans pour le centre d'affaires, ainsi qu'un espace numérique immersif d'environ 150 mètres, qui débutera pour la saison 2026-27. L'intégrateur ANC assurera l'installation et la maintenance des systèmes."
+      }
+    }
+  },
+  {
+    "id": "xonar-technology-capital-one-arena-security-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "tech",
+      "stadium"
+    ],
+    "published_at": "2026-08-31T00:00:00Z",
+    "source_name": "Stadium Tech Report",
+    "source_url": "https://stadiumtechreport.com/news/capital-one-arena-picks-xonar-for-walk-through-security-scanning/",
+    "i18n": {
+      "en": {
+        "title": "Capital One Arena to Deploy AI Security Screening from Xonar Technology",
+        "summary": "Monumental Sports & Entertainment signed a multi-year deal with Xonar Technology to install AI-powered walk-through security screening at Capital One Arena starting with the 2026-27 NBA and NHL seasons. The TruePort system uses multi-sensor radar to detect metallic and non-metallic threats at the venue's main entrances. It marks the first NBA and NHL arena deployment of Xonar's screening technology."
+      },
+      "ja": {
+        "title": "キャピタル・ワン・アリーナ、Xonar社のAI型セキュリティ検査を導入へ",
+        "summary": "モニュメンタル・スポーツ&エンターテインメントは、AI技術を用いた歩行型セキュリティスキャナーを提供するXonarテクノロジーと複数年契約を締結し、2026-27年のNBA・NHLシーズンからキャピタル・ワン・アリーナの主要入口に導入する。TruePortシステムはマルチセンサーレーダーで金属・非金属の危険物を検知する仕組みだ。NBA・NHLのアリーナでXonarの検査技術が採用されるのはこれが初めてとなる。"
+      },
+      "es": {
+        "title": "Capital One Arena instalará controles de seguridad con IA de Xonar Technology",
+        "summary": "Monumental Sports & Entertainment firmó un acuerdo plurianual con Xonar Technology para instalar controles de seguridad con IA en los accesos principales del Capital One Arena a partir de la temporada 2026-27 de la NBA y la NHL. El sistema TruePort emplea radar multisensor para detectar amenazas metálicas y no metálicas. Es la primera implementación de la tecnología de escaneo de Xonar en una arena de la NBA y la NHL."
+      },
+      "zh": {
+        "title": "凯投艾伦娱乐中心将部署Xonar人工智能安检系统",
+        "summary": "蒙纽曼特体育娱乐集团与Xonar科技公司签署多年协议，将从2026-27赛季NBA与NHL赛季起，在凯投艾伦娱乐中心主要入口部署人工智能步入式安检系统。TruePort系统采用多传感器雷达技术，可探测金属与非金属威胁物品。这也是Xonar安检技术首次在NBA与NHL场馆落地。"
+      },
+      "fr": {
+        "title": "Le Capital One Arena déploiera le contrôle de sécurité par IA de Xonar Technology",
+        "summary": "Monumental Sports & Entertainment a signé un accord pluriannuel avec Xonar Technology pour installer un contrôle de sécurité piloté par l'IA aux entrées principales du Capital One Arena dès la saison 2026-27 de NBA et de NHL. Le système TruePort utilise un radar multi-capteurs pour détecter les menaces métalliques et non métalliques. Il s'agit du premier déploiement de cette technologie de Xonar dans une salle de NBA et de NHL."
+      }
+    }
+  },
+  {
+    "id": "tottenham-hotspur-hpe-partnership-expansion-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "tech",
+      "stadium"
+    ],
+    "published_at": "2026-09-02T00:00:00Z",
+    "source_name": "HPE",
+    "source_url": "https://www.hpe.com/us/en/newsroom/press-release/2026/09/tottenham-hotspur-and-hpe-transform-digital-fan-experience-and-stadium-operations.html",
+    "i18n": {
+      "en": {
+        "title": "Tottenham Hotspur Expands HPE Partnership to Modernize Stadium Technology",
+        "summary": "Tottenham Hotspur expanded its long-running technology partnership with Hewlett Packard Enterprise to modernize the digital backbone of its north London stadium. The upgrade introduces an HPE-powered self-driving Wi-Fi 7 network alongside consolidated hybrid-cloud infrastructure supporting ticketless entry, cashless payments and crowd analytics. HPE said the project will cut the venue's distributed computing environments from eight locations down to two."
+      },
+      "ja": {
+        "title": "トッテナム、HPEとの技術提携を拡大しスタジアム基盤を刷新",
+        "summary": "トッテナム・ホットスパーは、ハードウェア大手ヒューレット・パッカード・エンタープライズ（HPE）との長年の技術提携を拡大し、北ロンドンのスタジアムのデジタル基盤を刷新する。今回の刷新では、HPE製の自律制御型Wi-Fi 7ネットワークを導入するとともに、ハイブリッドクラウド基盤を統合し、チケットレス入場やキャッシュレス決済、混雑分析などを支える。HPEによると、施設内に分散していたIT拠点を8か所から2か所に集約するという。"
+      },
+      "es": {
+        "title": "Tottenham Hotspur amplía su alianza con HPE para modernizar la tecnología del estadio",
+        "summary": "El Tottenham Hotspur amplió su histórica alianza tecnológica con Hewlett Packard Enterprise para modernizar la infraestructura digital de su estadio en el norte de Londres. La actualización incorpora una red Wi-Fi 7 autogestionada por HPE junto con una infraestructura de nube híbrida consolidada que respalda el acceso sin entradas físicas, los pagos sin efectivo y el análisis de aforo. HPE indicó que el proyecto reducirá los entornos informáticos distribuidos del recinto de ocho ubicaciones a solo dos."
+      },
+      "zh": {
+        "title": "热刺扩大与惠普企业的合作以升级球场科技系统",
+        "summary": "托特纳姆热刺俱乐部扩大了与惠普企业（HPE）的长期技术合作，以升级其北伦敦球场的数字基础架构。此次升级引入了由HPE驱动的自组织Wi-Fi 7网络，并整合了混合云基础设施，以支持无票入场、无现金支付和人流分析等功能。HPE表示，该项目将把场馆分散的计算环境从八个地点整合为两个。"
+      },
+      "fr": {
+        "title": "Tottenham Hotspur élargit son partenariat avec HPE pour moderniser son stade",
+        "summary": "Tottenham Hotspur a élargi son partenariat technologique de longue date avec Hewlett Packard Enterprise afin de moderniser l'infrastructure numérique de son stade du nord de Londres. Cette modernisation introduit un réseau Wi-Fi 7 autopiloté signé HPE, associé à une infrastructure de cloud hybride consolidée qui prend en charge l'entrée sans billet, les paiements sans contact et l'analyse des flux de spectateurs. Selon HPE, le projet réduira les environnements informatiques dispersés du stade de huit sites à seulement deux."
+      }
+    }
+  },
+  {
+    "id": "general-atlantic-ollamani-club-america-stake-2025",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2025-12-24T00:00:00Z",
+    "source_name": "General Atlantic",
+    "source_url": "https://www.generalatlantic.com/media-article/ollamani-and-general-atlantic-form-strategic-partnership/",
+    "i18n": {
+      "en": {
+        "title": "General Atlantic Buys 49% Stake in Club América Owner Grupo Ollamani",
+        "summary": "Investment firm General Atlantic agreed to acquire a 49% stake in Grupo Ollamani, the holding company behind Liga MX giant Club América and the Estadio Banorte, in a deal valuing Ollamani at roughly $490 million. The partnership creates a new holding entity, Grupo Aguilas, while founder Emilio Azcarraga Jean's group retains 51% control. The tie-up also links the Mexican club to Kraft Analytics Group, the data arm connected to NFL owner Robert Kraft's business network."
+      },
+      "ja": {
+        "title": "ゼネラル・アトランティック、クラブ・アメリカ運営元の株式49%を取得",
+        "summary": "投資会社ゼネラル・アトランティックは、メキシコ・リーガMXの名門クラブ・アメリカとエスタディオ・バノルテを傘下に持つグルポ・オラマニの株式49%を取得することで合意した。同社の企業価値は約4億9000万ドルと評価されている。新設される持株会社「グルポ・アギラス」において、創業者エミリオ・アスカラガ・ヒーン氏側は51%の経営権を維持する。今回の提携により、NFLのオーナーであるロバート・クラフト氏の事業と関係の深いデータ分析企業クラフト・アナリティクス・グループとの連携も生まれる。"
+      },
+      "es": {
+        "title": "General Atlantic adquiere el 49% de Grupo Ollamani, dueño del Club América",
+        "summary": "La firma de inversión General Atlantic acordó adquirir el 49% de Grupo Ollamani, la sociedad matriz del Club América de la Liga MX y del Estadio Banorte, en un acuerdo que valora a Ollamani en unos 490 millones de dólares. La alianza da origen a una nueva sociedad, Grupo Aguilas, mientras el grupo del fundador Emilio Azcarraga Jean conserva el 51% del control. El acuerdo también vincula al club mexicano con Kraft Analytics Group, la firma de datos ligada a la red empresarial del dueno de la NFL Robert Kraft."
+      },
+      "zh": {
+        "title": "General Atlantic收购美洲俱乐部母公司49%股权",
+        "summary": "投资公司General Atlantic同意收购Grupo Ollamani 49%的股份，后者是墨西哥甲级联赛豪门美洲俱乐部及巴诺尔特体育场的控股公司，此次交易对Ollamani的估值约为4.9亿美元。合作双方将成立新的控股实体Grupo Aguilas，创始人埃米利奥·阿斯卡拉加旗下团队仍保留51%的控制权。该交易还将这家墨西哥俱乐部与美国NFL球队老板罗伯特·克拉夫特旗下数据公司Kraft Analytics Group建立联系。"
+      },
+      "fr": {
+        "title": "General Atlantic acquiert 49 % du propriétaire du Club América",
+        "summary": "La société d'investissement General Atlantic a accepté d'acquérir 49 % de Grupo Ollamani, la holding qui contrôle le club phare de Liga MX Club América et l'Estadio Banorte, dans un accord valorisant Ollamani à environ 490 millions de dollars. Le partenariat donne naissance à une nouvelle entité, Grupo Aguilas, tandis que le groupe du fondateur Emilio Azcarraga Jean conserve 51 % du controle. L'operation relie egalement le club mexicain a Kraft Analytics Group, la filiale de donnees liee au reseau du proprietaire de la NFL Robert Kraft."
+      }
+    }
+  },
+  {
+    "id": "golden-state-warriors-parent-11b-stake-sale-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-01-12T00:00:00Z",
+    "source_name": "Bloomberg",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-01-12/warriors-parent-said-to-be-valued-at-11-billion-in-stake-sale",
+    "i18n": {
+      "en": {
+        "title": "Golden State Warriors' Parent Company Marketed at $11 Billion Valuation",
+        "summary": "A minority stake in Golden State Group, the parent company of the NBA's Golden State Warriors, the WNBA's Valkyries and the Chase Center arena, is being marketed at a valuation above $11 billion, according to Bloomberg. The reported figure would set a new high-water mark for North American sports franchises, surpassing the roughly $10 billion benchmark set by the Los Angeles Lakers' late-2025 sale. Citigroup is said to be advising on the transaction, which includes a board seat and courtside access for the buyer."
+      },
+      "ja": {
+        "title": "ウォリアーズ親会社、110億ドル評価で株式売却へ",
+        "summary": "ブルームバーグの報道によると、NBAゴールデンステート・ウォリアーズやWNBAヴァルキリーズ、チェイス・センターを傘下に持つゴールデンステート・グループの少数株式が、110億ドルを超える企業価値で売却先を探しているという。この評価額が実現すれば、2025年末のロサンゼルス・レイカーズの売却で付いた約100億ドルの水準を上回り、北米スポーツ球団として過去最高額となる。取引はシティグループが助言しているとされ、購入者には取締役会の議席や試合のコートサイド席へのアクセスが付与される見通しだ。"
+      },
+      "es": {
+        "title": "La matriz de los Golden State Warriors se ofrece con una valoración de 11.000 millones de dólares",
+        "summary": "Segun Bloomberg, se esta ofreciendo una participacion minoritaria de Golden State Group, matriz de los Warriors de la NBA, las Valkyries de la WNBA y el Chase Center, a una valoracion superior a los 11.000 millones de dolares. Esa cifra marcaria un nuevo record para las franquicias deportivas norteamericanas, superando el umbral de unos 10.000 millones alcanzado con la venta de los Lakers a fines de 2025. Citigroup asesoraria la operacion, que incluye un puesto en la junta directiva y acceso a asientos junto a la cancha para el comprador."
+      },
+      "zh": {
+        "title": "金州勇士母公司拟以110亿美元估值出售股权",
+        "summary": "据彭博社报道，NBA金州勇士队、WNBA山谷者队及大通中心球馆母公司Golden State Group正在以逾110亿美元的估值出售少数股权。若成交，这一估值将超过2025年末洛杉矶湖人队约100亿美元的出售价格，创下北美职业体育球队交易新高。据悉花旗集团担任此次交易顾问，买家还将获得董事会席位及场边座位权益。"
+      },
+      "fr": {
+        "title": "La maison mère des Warriors proposée à une valorisation de 11 milliards de dollars",
+        "summary": "Selon Bloomberg, une participation minoritaire dans Golden State Group, la societe mere des Warriors de la NBA, des Valkyries de la WNBA et de la Chase Center Arena, est proposee a une valorisation superieure a 11 milliards de dollars. Ce montant etablirait un nouveau record pour les franchises sportives nord-americaines, depassant les quelque 10 milliards de dollars atteints lors de la vente des Lakers fin 2025. Citigroup conseillerait l'operation, qui inclut un siege au conseil d'administration et un acces aux places en bord de terrain pour l'acheteur."
+      }
+    }
+  },
+  {
+    "id": "persol-npb-pacific-league-title-partner-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-03-26T00:00:00Z",
+    "source_name": "NPB.jp",
+    "source_url": "https://npb.jp/news/detail/20260326_02.html",
+    "i18n": {
+      "en": {
+        "title": "Persol Renews as NPB Pacific League Title Partner for Fourth Term",
+        "summary": "Nippon Professional Baseball's Pacific League confirmed that staffing group Persol Holdings will continue as its title partner for a fourth consecutive term in 2026, keeping the league's official name as the Persol Pacific League. The renewal also covers title sponsorship of the 2026 Pacific League Climax Series playoffs. Persol first took over the league naming rights in 2023."
+      },
+      "ja": {
+        "title": "パ・リーグ、パーソルとのタイトルパートナー契約を4期連続で更新",
+        "summary": "日本野球機構（NPB）のパシフィック・リーグは、人材サービス大手パーソルホールディングスが2026年も4期連続でタイトルパートナーを務めると発表し、リーグの正式名称は引き続き「パーソル・パ・リーグ」となる。今回の契約更新には、2026年パ・リーグ クライマックスシリーズの冠協賛も含まれている。パーソルが同リーグの命名権を取得したのは2023年からである。"
+      },
+      "es": {
+        "title": "Persol renueva como patrocinador principal de la Liga del Pacífico de la NPB por cuarto período",
+        "summary": "La Liga del Pacifico del beisbol profesional japones (NPB) confirmo que el grupo de personal Persol Holdings continuara como su patrocinador principal por cuarto periodo consecutivo en 2026, manteniendo el nombre oficial de la liga como Persol Pacific League. La renovacion tambien incluye el patrocinio principal de los playoffs de la Serie Climax de la Liga del Pacifico 2026. Persol obtuvo por primera vez los derechos de denominacion de la liga en 2023."
+      },
+      "zh": {
+        "title": "Persol连续第四个任期续约NPB太平洋联盟冠名合作伙伴",
+        "summary": "日本职业棒球组织（NPB）太平洋联盟宣布，人才服务巨头Persol控股公司将连续第四个任期担任联盟冠名合作伙伴，联盟官方名称继续保留为Persol太平洋联盟。此次续约还包括2026年太平洋联盟总决赛系列赛（Climax Series）的冠名赞助权。Persol自2023年起首次获得该联盟的冠名权。"
+      },
+      "fr": {
+        "title": "Persol renouvelle son titre de partenaire de la Pacific League de la NPB pour un quatrième mandat",
+        "summary": "La Pacific League du baseball professionnel japonais (NPB) a confirme que le groupe de ressources humaines Persol Holdings restera son partenaire titre pour un quatrieme mandat consecutif en 2026, la ligue conservant son nom officiel de Persol Pacific League. Ce renouvellement couvre egalement le naming des series eliminatoires Climax Series 2026 de la Pacific League. Persol avait obtenu pour la premiere fois les droits de denomination de la ligue en 2023."
+      }
+    }
+  },
+  {
+    "id": "mleague-2026-27-season-sponsors-cygames-jt-2026",
+    "sport": "general",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-09-01T00:00:00Z",
+    "source_name": "M.LEAGUE",
+    "source_url": "https://m-league.jp/news202609011500/",
+    "i18n": {
+      "en": {
+        "title": "M.League Unveils 2026-27 Sponsor Lineup with Cygames, Japan Tobacco Joining",
+        "summary": "M.League, Japan's professional mahjong league, announced its sponsor lineup for the 2026-27 season, which opened on September 14. New top sponsors joining the competition include Cygames, Nagatanien, Quants Research Holdings and Japan Tobacco, alongside returning top partners Meiji Yasuda Life Insurance and HEARTBEATS. Mizuno was named official supplier for match uniforms and licensed merchandise."
+      },
+      "ja": {
+        "title": "Mリーグ、2026-27シーズンのスポンサー体制を発表 Cygames・JTが新規参画",
+        "summary": "日本のプロ雀士によるMリーグは、9月14日に開幕した2026-27シーズンのスポンサー体制を発表した。新たにトップスポンサーとして、Cygames、永谷園、クオンツ総研ホールディングス、日本たばこ産業（JT）が参画し、明治安田生命保険とHEARTBEATSが続投する。オフィシャルサプライヤーには試合用ユニフォームとライセンス商品を手がけるミズノが選ばれた。"
+      },
+      "es": {
+        "title": "M.League presenta a sus patrocinadores para 2026-27, con Cygames y Japan Tobacco",
+        "summary": "M.League, la liga profesional de mahjong de Japon, anuncio su lista de patrocinadores para la temporada 2026-27, que comenzo el 14 de septiembre. Entre los nuevos patrocinadores principales se incluyen Cygames, Nagatanien, Quants Research Holdings y Japan Tobacco, junto a los patrocinadores que continuan, Meiji Yasuda Life Insurance y HEARTBEATS. Mizuno fue designada proveedora oficial de los uniformes de competicion y la mercancia con licencia."
+      },
+      "zh": {
+        "title": "M.League公布2026-27赛季赞助商阵容，Cygames、日本烟草加入",
+        "summary": "日本职业麻将联赛M.League公布了9月14日开幕的2026-27赛季赞助商阵容。新加入的顶级赞助商包括Cygames、永谷园、Quants综合研究控股和日本烟草产业（JT），此外明治安田生命保险与HEARTBEATS继续担任顶级合作伙伴。美津浓（Mizuno）被指定为比赛服装与授权商品的官方供应商。"
+      },
+      "fr": {
+        "title": "M.League dévoile ses sponsors pour 2026-27, avec l'arrivée de Cygames et Japan Tobacco",
+        "summary": "M.League, la ligue professionnelle de mahjong du Japon, a devoile ses sponsors pour la saison 2026-27, lancee le 14 septembre. Parmi les nouveaux sponsors principaux figurent Cygames, Nagatanien, Quants Research Holdings et Japan Tobacco, aux cotes des partenaires historiques Meiji Yasuda Life Insurance et HEARTBEATS. Mizuno a ete designe fournisseur officiel des tenues de competition et des produits sous licence."
+      }
+    }
   }
 ]
