@@ -2773,5 +2773,239 @@
         "summary": "Le Sunderland AFC a annoncé un nouveau partenariat mondial pluriannuel avec Shuffle, une plateforme de casino et de paris crypto licenciée à Curaçao, en tant que sponsor officiel de manche du club, en remplacement de LiveScore Bet. L'accord couvre les matchs de Premier League, des coupes nationales et de l'Europa League et prévoit des initiatives communes pour les fans, bien que Shuffle ne soit pas autorisée à opérer au Royaume-Uni."
       }
     }
+  },
+  {
+    "id": "liv-golf-layoffs-pif-funding-ends-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-08-26T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/leagues/golf/2026/liv-golf-fires-staff-workers-1234942978/",
+    "i18n": {
+      "en": {
+        "title": "LIV Golf Cuts Majority of Staff as Saudi PIF Funding Winds Down",
+        "summary": "LIV Golf laid off most of its workforce after Saudi Arabia's Public Investment Fund confirmed it would stop bankrolling the league following the 2026 season. PIF had pumped roughly $5 billion into the circuit since its 2022 launch, and organizers say a non-binding term sheet with a new lead investor could fund a restructured 'LIV 2.0' in 2027."
+      },
+      "ja": {
+        "title": "LIVゴルフ、サウジPIFの資金提供終了で従業員の大半を削減",
+        "summary": "サウジアラビアの公共投資基金（PIF）が2026年シーズン終了をもって資金提供を打ち切ると表明したことを受け、LIVゴルフは従業員の大半を解雇した。PIFは2022年の発足以来約50億ドルを投じてきたが、運営側は新たな主要投資家との拘束力のない基本合意により2027年に再編後の「LIV 2.0」を始動させたい考えを示している。"
+      },
+      "es": {
+        "title": "LIV Golf despide a la mayoría de su plantilla al terminar la financiación del FIP saudí",
+        "summary": "LIV Golf despidió a la mayor parte de su personal después de que el Fondo de Inversión Pública de Arabia Saudita confirmara que dejará de financiar la liga tras la temporada 2026. El FIP había invertido cerca de 5.000 millones de dólares desde el lanzamiento en 2022, y los organizadores dicen tener un acuerdo preliminar con un nuevo inversor para relanzar el circuito como 'LIV 2.0' en 2027."
+      },
+      "zh": {
+        "title": "沙特PIF终止注资，LIV高尔夫大规模裁员",
+        "summary": "在沙特公共投资基金（PIF）确认将于2026赛季结束后停止为联赛提供资金后，LIV高尔夫解雇了大部分员工。自2022年创立以来，PIF已向该联赛投入约50亿美元，主办方表示已与一位新的主要投资者达成无约束力的条款协议，计划在2027年以重组后的“LIV 2.0”形式继续运营。"
+      },
+      "fr": {
+        "title": "LIV Golf licencie la majorité de son personnel après l'arrêt du financement du FPI saoudien",
+        "summary": "LIV Golf a licencié la majeure partie de son personnel après que le Fonds public d'investissement saoudien a confirmé qu'il cesserait de financer la ligue après la saison 2026. Le FPI avait investi environ 5 milliards de dollars depuis le lancement en 2022, et les organisateurs évoquent un accord préliminaire avec un nouvel investisseur principal pour relancer un circuit restructuré, 'LIV 2.0', en 2027."
+      }
+    }
+  },
+  {
+    "id": "mlb-private-equity-ownership-cap-20-percent-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-09-23T00:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/article/mlb-raises-private-equity-ownership-limit-to-up-to-20-percent/",
+    "i18n": {
+      "en": {
+        "title": "MLB Raises Private Equity Ownership Cap to 20%",
+        "summary": "Major League Baseball owners voted to raise the maximum stake institutional and private-equity investors can hold in a franchise to 20%, up from the previous limit. The change brings MLB in line with the NBA, NHL and MLS and gives clubs another avenue to raise capital as franchise valuations keep climbing."
+      },
+      "ja": {
+        "title": "MLB、プライベートエクイティによる保有上限を20%に引き上げ",
+        "summary": "米大リーグ（MLB）のオーナーらは、機関投資家やプライベートエクイティ企業が球団に保有できる出資比率の上限をこれまでの水準から20%へ引き上げることを可決した。これによりMLBはNBA、NHL、MLSと足並みをそろえる形となり、球団価値の上昇が続く中で資金調達の選択肢が広がる。"
+      },
+      "es": {
+        "title": "La MLB eleva al 20% el límite de participación de capital privado",
+        "summary": "Los propietarios de la MLB votaron a favor de elevar al 20% el límite máximo de participación que los inversores institucionales y de capital privado pueden tener en una franquicia, por encima del tope anterior. El cambio equipara a la MLB con la NBA, la NHL y la MLS y da a los clubes otra vía para obtener capital mientras las valoraciones de las franquicias siguen subiendo."
+      },
+      "zh": {
+        "title": "MLB将私募股权持股上限提高至20%",
+        "summary": "美国职业棒球大联盟（MLB）的球队老板们投票决定，将机构投资者和私募股权投资者在球队中可持有的最高股份比例上调至20%，高于此前的限制。此举使MLB与NBA、NHL和MLS的规定保持一致，也为在球队估值持续攀升之际的球队提供了新的融资渠道。"
+      },
+      "fr": {
+        "title": "La MLB relève à 20 % le plafond de participation du capital-investissement",
+        "summary": "Les propriétaires de la MLB ont voté pour relever à 20 % la participation maximale que les investisseurs institutionnels et de capital-investissement peuvent détenir dans une franchise, contre un plafond inférieur auparavant. Ce changement aligne la MLB sur la NBA, la NHL et la MLS et offre aux clubs un nouveau levier de financement alors que les valorisations des franchises continuent de grimper."
+      }
+    }
+  },
+  {
+    "id": "chelsea-boehly-walter-sell-stakes-clearlake-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-17T00:00:00Z",
+    "source_name": "CNBC",
+    "source_url": "https://www.cnbc.com/2026/09/17/chelsea-mark-walter-bohely-clearlake-capital.html",
+    "i18n": {
+      "en": {
+        "title": "Boehly and Walter Sell Chelsea Stakes, Handing Clearlake Full Control",
+        "summary": "Todd Boehly and Dodgers owner Mark Walter sold their roughly 12.8% stakes each in Chelsea FC to Clearlake Capital for a combined £950 million ($1.27 billion). Boehly also stepped down as chairman, leaving private equity firm Clearlake, led by Behdad Eghbali and José E. Feliciano, in full control of the Premier League club."
+      },
+      "ja": {
+        "title": "ボーリー氏とウォルター氏、チェルシー株をクリアレイクに売却し経営権を完全移譲",
+        "summary": "トッド・ボーリー氏とドジャースオーナーのマーク・ウォルター氏は、それぞれ保有していたチェルシーFCの約12.8%の株式をクリアレイク・キャピタルに合計9億5000万ポンド（約12億7000万ドル）で売却した。ボーリー氏は会長職も退任し、ベーダッド・エグバリ氏とホセ・E・フェリシアーノ氏が率いるクリアレイクがプレミアリーグクラブの経営権を完全に掌握した。"
+      },
+      "es": {
+        "title": "Boehly y Walter venden sus participaciones en el Chelsea y dejan el control total a Clearlake",
+        "summary": "Todd Boehly y el propietario de los Dodgers, Mark Walter, vendieron sus respectivas participaciones de aproximadamente el 12.8% en el Chelsea FC a Clearlake Capital por un total de 950 millones de libras (1.270 millones de dólares). Boehly también dejó su cargo de presidente, dejando a la firma de capital privado Clearlake, liderada por Behdad Eghbali y José E. Feliciano, con el control total del club de la Premier League."
+      },
+      "zh": {
+        "title": "博利与沃尔特出售切尔西股份，Clearlake获得完全控制权",
+        "summary": "托德·博利与道奇队老板马克·沃尔特分别将各自持有的切尔西足球俱乐部约12.8%股份出售给Clearlake资本，交易总额达9.5亿英镑（约合12.7亿美元）。博利同时辞去主席职务，由贝达德·埃格巴利和何塞·E·费利西亚诺领导的私募股权公司Clearlake全面掌控这家英超俱乐部。"
+      },
+      "fr": {
+        "title": "Boehly et Walter cèdent leurs parts de Chelsea, Clearlake prend le contrôle total",
+        "summary": "Todd Boehly et le propriétaire des Dodgers, Mark Walter, ont vendu leurs participations respectives d'environ 12,8 % dans Chelsea FC à Clearlake Capital pour un total de 950 millions de livres sterling (1,27 milliard de dollars). Boehly a également démissionné de son poste de président, laissant la société de capital-investissement Clearlake, dirigée par Behdad Eghbali et José E. Feliciano, avec le contrôle total du club de Premier League."
+      }
+    }
+  },
+  {
+    "id": "mlb-espn-nbc-netflix-media-rights-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2025-11-19T00:00:00Z",
+    "source_name": "ESPN",
+    "source_url": "https://www.espn.com/mlb/story/_/id/47026249/espn-mlb-reach-new-3-year-media-agreement",
+    "i18n": {
+      "en": {
+        "title": "MLB Splits Media Rights Across ESPN, NBC and Netflix in New Three-Year Deals",
+        "summary": "Major League Baseball struck new three-year media rights agreements with ESPN, NBCUniversal and Netflix worth close to $800 million a year combined. NBC/Peacock takes over Sunday Night Baseball and the wild-card round, Netflix adds the Home Run Derby, and ESPN keeps its package while also becoming the new home of MLB.TV."
+      },
+      "ja": {
+        "title": "MLB、ESPN・NBC・Netflixとの新3年間メディア契約で放映権を分散",
+        "summary": "米大リーグ（MLB）はESPN、NBCユニバーサル、Netflixとそれぞれ新たな3年間のメディア権契約を締結し、合計で年間約8億ドル規模となる。NBC/ピーコックはサンデーナイト中継とワイルドカードラウンドを担当し、Netflixはホームランダービーを新たに獲得、ESPNは既存パッケージに加えMLB.TVの新たな配信拠点にもなる。"
+      },
+      "es": {
+        "title": "La MLB reparte sus derechos de medios entre ESPN, NBC y Netflix en nuevos acuerdos de tres años",
+        "summary": "Grandes Ligas de Béisbol firmó nuevos acuerdos de derechos de medios a tres años con ESPN, NBCUniversal y Netflix por un valor combinado cercano a los 800 millones de dólares anuales. NBC/Peacock asume el Sunday Night Baseball y la ronda de comodines, Netflix suma el Derby de Jonrones, y ESPN conserva su paquete además de convertirse en la nueva sede de MLB.TV."
+      },
+      "zh": {
+        "title": "MLB与ESPN、NBC、Netflix签署新三年媒体版权协议",
+        "summary": "美国职业棒球大联盟（MLB）与ESPN、NBC环球和Netflix分别签署了新的三年期媒体版权协议，三份合约总价值每年接近8亿美元。NBC/Peacock将接手周日晚间棒球赛和外卡轮转播，Netflix新增全垒打大赛转播权，ESPN则保留原有转播套餐并成为MLB.TV的新运营方。"
+      },
+      "fr": {
+        "title": "La MLB répartit ses droits médias entre ESPN, NBC et Netflix dans de nouveaux accords de trois ans",
+        "summary": "La Ligue majeure de baseball a conclu de nouveaux accords de droits médias de trois ans avec ESPN, NBCUniversal et Netflix, pour une valeur combinée proche de 800 millions de dollars par an. NBC/Peacock reprend le Sunday Night Baseball et le tour des wild cards, Netflix ajoute le Home Run Derby, et ESPN conserve son forfait tout en devenant le nouvel hébergeur de MLB.TV."
+      }
+    }
+  },
+  {
+    "id": "gucci-alpine-f1-title-partner-2027",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-05-27T00:00:00Z",
+    "source_name": "ESPN",
+    "source_url": "https://www.espn.com/f1/story/_/id/48890560/gucci-racing-alpine-f1-team-fashion-giant-joins-grid-title-sponsor-2027",
+    "i18n": {
+      "en": {
+        "title": "Gucci Becomes Alpine's F1 Title Partner for 2027, a First for Luxury Fashion",
+        "summary": "Alpine announced Gucci as its title partner starting in the 2027 Formula 1 season, with the team set to race as 'Gucci Racing Alpine.' It marks the first time a luxury fashion house has taken a title sponsorship in F1, replacing outgoing partner BWT."
+      },
+      "ja": {
+        "title": "グッチ、2027年からアルピーヌF1のタイトルパートナーに 高級ファッションブランドとして初",
+        "summary": "アルピーヌは2027年のF1シーズンからグッチをタイトルパートナーとすることを発表し、チームは「グッチ・レーシング・アルピーヌ」として参戦する予定。高級ファッションブランドがF1でタイトルスポンサーを務めるのは初めてで、これまで契約していたBWTに代わる形となる。"
+      },
+      "es": {
+        "title": "Gucci se convierte en socio titular de Alpine en la F1 desde 2027, una primicia para la moda de lujo",
+        "summary": "Alpine anunció a Gucci como su socio titular a partir de la temporada 2027 de Fórmula 1, y el equipo competirá como 'Gucci Racing Alpine'. Es la primera vez que una casa de moda de lujo asume el patrocinio titular en la F1, en sustitución del saliente socio BWT."
+      },
+      "zh": {
+        "title": "古驰成为阿尔派恩F1车队2027赛季冠名合作伙伴，奢侈时尚品牌首次冠名F1",
+        "summary": "阿尔派恩宣布古驰将从2027年F1赛季起成为车队冠名合作伙伴，车队届时将以“古驰赛车阿尔派恩”的名义参赛。这是奢侈时尚品牌首次担任F1车队冠名赞助商，取代此前的合作伙伴BWT。"
+      },
+      "fr": {
+        "title": "Gucci devient partenaire titre d'Alpine en F1 dès 2027, une première pour le luxe",
+        "summary": "Alpine a annoncé Gucci comme partenaire titre à partir de la saison 2027 de Formule 1, l'écurie devant courir sous le nom de 'Gucci Racing Alpine'. Il s'agit d'une première pour une maison de mode de luxe en tant que sponsor titre en F1, en remplacement du partenaire sortant BWT."
+      }
+    }
+  },
+  {
+    "id": "ferrari-rakuten-f1-global-partner-2027",
+    "sport": "motorsports",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-09-19T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/news/ferrari-and-rakuten-seal-multi-year-global-partnership/",
+    "i18n": {
+      "en": {
+        "title": "Ferrari Signs Japan's Rakuten as New Global Partner from 2027",
+        "summary": "Ferrari announced a multi-year global partnership with Japanese technology company Rakuten, effective from the 2027 Formula 1 season. It is Rakuten's first entry into F1 sponsorship after years of speculation about a possible tie-up with a rival team."
+      },
+      "ja": {
+        "title": "フェラーリ、日本の楽天と2027年からグローバルパートナー契約",
+        "summary": "フェラーリは日本のテクノロジー企業、楽天との複数年にわたるグローバルパートナーシップを発表した。契約は2027年のF1シーズンから発効する。楽天が他チームとの提携が噂されてきた末に、F1スポンサーシップへ参入するのは今回が初めてとなる。"
+      },
+      "es": {
+        "title": "Ferrari ficha a la japonesa Rakuten como nuevo socio global desde 2027",
+        "summary": "Ferrari anunció una asociación global plurianual con la empresa tecnológica japonesa Rakuten, vigente desde la temporada 2027 de Fórmula 1. Se trata de la primera incursión de Rakuten en el patrocinio de la F1, tras años de especulación sobre una posible alianza con un equipo rival."
+      },
+      "zh": {
+        "title": "法拉利签约日本乐天，成为2027年起的全球合作伙伴",
+        "summary": "法拉利宣布与日本科技公司乐天达成多年期全球合作伙伴关系，协议将从2027年F1赛季起生效。这是乐天在多年传闻可能与其他车队合作后，首次进入F1赞助领域。"
+      },
+      "fr": {
+        "title": "Ferrari signe un partenariat mondial avec le japonais Rakuten dès 2027",
+        "summary": "Ferrari a annoncé un partenariat mondial pluriannuel avec l'entreprise technologique japonaise Rakuten, effectif dès la saison 2027 de Formule 1. Il s'agit de la première incursion de Rakuten dans le sponsoring en F1, après des années de spéculation sur une possible alliance avec une écurie rivale."
+      }
+    }
+  },
+  {
+    "id": "bleague-kakushin-2026-27-season-launch",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-09-22T00:00:00Z",
+    "source_name": "B.LEAGUE",
+    "source_url": "https://www.bleague.jp/new-bleague/",
+    "i18n": {
+      "en": {
+        "title": "Japan's B.League Launches Overhauled 'B.Kakushin' Structure for 2026-27",
+        "summary": "B.League kicked off its 2026-27 season under a reform package dubbed 'B.Kakushin,' which raises club licensing standards, moves to an expansion-style model without promotion or relegation based on results, and introduces a salary cap. The league says the changes are meant to strengthen club finances and support long-term regional growth."
+      },
+      "ja": {
+        "title": "Bリーグ、2026-27シーズンから新体制「B.革新」がスタート",
+        "summary": "Bリーグは「B.革新」と銘打った改革のもとで2026-27シーズンを開幕させた。クラブライセンス基準の引き上げ、競技成績による昇降格を廃止したエクスパンション型リーグへの移行、サラリーキャップ導入が柱となる。リーグ側はこれらの改革によりクラブ経営の強化と持続的な地域創生を図るとしている。"
+      },
+      "es": {
+        "title": "La B.League japonesa estrena su estructura reformada 'B.Kakushin' para 2026-27",
+        "summary": "La B.League inició su temporada 2026-27 bajo un paquete de reformas denominado 'B.Kakushin', que eleva los estándares de licencia de los clubes, adopta un modelo de expansión sin ascensos ni descensos por resultados deportivos e introduce un tope salarial. La liga afirma que los cambios buscan fortalecer las finanzas de los clubes y apoyar el crecimiento regional a largo plazo."
+      },
+      "zh": {
+        "title": "日本B联赛2026-27赛季启动“B.革新”改革新体制",
+        "summary": "日本职业篮球B联赛在名为“B.革新”的改革方案下开启2026-27赛季，改革内容包括提高俱乐部准入标准、转向不再依据战绩升降级的扩张型联盟模式，并引入薪资帽制度。联盟方面表示，这些变革旨在强化俱乐部财务状况并支持地区的持续发展。"
+      },
+      "fr": {
+        "title": "La B.League japonaise lance sa nouvelle structure réformée « B.Kakushin » pour 2026-27",
+        "summary": "La B.League a entamé sa saison 2026-27 sous un plan de réforme baptisé « B.Kakushin », qui relève les normes de licence des clubs, adopte un modèle d'expansion sans montée ni descente basée sur les résultats, et instaure un plafond salarial. La ligue indique que ces changements visent à renforcer les finances des clubs et à soutenir une croissance régionale durable."
+      }
+    }
   }
 ]
