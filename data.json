@@ -4708,5 +4708,240 @@
         "summary": "Rapiscan, filiale d'OSI Systems, a été désignée fournisseur officiel de technologies de contrôle physique et de sécurité pour les Jeux olympiques et paralympiques de Los Angeles 2028, ainsi que partenaire de soutien de Team USA. L'accord couvre le matériel de contrôle, le contrôle d'accès et les logiciels de sécurité destinés à aider les organisateurs à gérer les opérations de sûreté sur les sites des Jeux."
       }
     }
+  },
+  {
+    "id": "crystal-palace-brooks-running-footwear-partner-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-08-27T00:00:00Z",
+    "source_name": "Crystal Palace F.C.",
+    "source_url": "https://www.cpfc.co.uk/news/announcement/crystal-palace-fc-announce-brooks-as-official-footwear-partner/",
+    "i18n": {
+      "en": {
+        "title": "Crystal Palace Signs Brooks Running as Official Footwear Partner",
+        "summary": "Crystal Palace announced a multiyear deal making Brooks Running the club's official footwear partner for its men's and women's first teams, marking the brand's first Premier League sponsorship. The agreement covers training and travel apparel branding plus stadium signage at Selhurst Park, and Brooks will also back the club's community running programs."
+      },
+      "ja": {
+        "title": "クリスタル・パレス、ブルックス・ランニングと公式フットウェア契約",
+        "summary": "クリスタル・パレスは、男女トップチームの公式フットウェアパートナーとしてブルックス・ランニングと複数年契約を結んだと発表した。同ブランドにとって初のプレミアリーグ契約となる。契約にはトレーニング着へのロゴ掲出やセルハースト・パークでのスタジアム広告が含まれ、クラブの地域ランニング活動への支援も行われる。"
+      },
+      "es": {
+        "title": "Crystal Palace ficha a Brooks Running como socio oficial de calzado",
+        "summary": "Crystal Palace anunció un acuerdo plurianual que convierte a Brooks Running en el socio oficial de calzado de sus equipos masculino y femenino, el primer patrocinio de la marca en la Premier League. El pacto incluye branding en la ropa de entrenamiento y viaje, además de publicidad en el estadio Selhurst Park y apoyo a los programas de running comunitarios del club."
+      },
+      "zh": {
+        "title": "水晶宫签下布鲁克斯跑鞋作为官方鞋类合作伙伴",
+        "summary": "水晶宫宣布与跑鞋品牌布鲁克斯达成多年协议，后者将成为俱乐部男女一线队的官方鞋类合作伙伴，这也是该品牌首次赞助英超球队。协议涵盖训练及出行服装的品牌露出，以及塞尔赫斯特公园球场的广告位，布鲁克斯还将支持俱乐部的社区跑步项目。"
+      },
+      "fr": {
+        "title": "Crystal Palace signe Brooks Running comme partenaire officiel équipementier chaussures",
+        "summary": "Crystal Palace a annoncé un accord pluriannuel faisant de Brooks Running le partenaire officiel chaussures de ses équipes masculine et féminine, premier partenariat de la marque en Premier League. L'accord couvre le marquage sur les tenues d'entraînement et de déplacement ainsi que l'affichage au stade Selhurst Park, Brooks soutenant également les programmes de course communautaires du club."
+      }
+    }
+  },
+  {
+    "id": "inter-miami-inigo-aznar-cro-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-15T00:00:00Z",
+    "source_name": "Inter Miami CF",
+    "source_url": "https://www.intermiamicf.com/news/inigo-aznar-named-chief-revenue-officer-of-inter-miami-cf-and-nu-stadium-as-club-continues-rapid-and-ambitious-growth",
+    "i18n": {
+      "en": {
+        "title": "Inter Miami Names Iñigo Aznar Chief Revenue Officer",
+        "summary": "Inter Miami CF appointed Iñigo Aznar, a veteran of Real Madrid and Atlético de Madrid, as chief revenue officer for the club and Nu Stadium. Aznar will oversee partnerships, ticketing, retail and the club's growing events business as it looks past the Messi era."
+      },
+      "ja": {
+        "title": "インテル・マイアミ、イニゴ・アスナル氏を最高収益責任者に任命",
+        "summary": "インテル・マイアミCFは、レアル・マドリードやアトレティコ・マドリードでの経験を持つイニゴ・アスナル氏をクラブおよびヌー・スタジアムの最高収益責任者(CRO)に任命したと発表した。同氏はパートナーシップ、チケット販売、物販、そして拡大するイベント事業を統括する。"
+      },
+      "es": {
+        "title": "Inter Miami nombra a Íñigo Aznar director de ingresos",
+        "summary": "Inter Miami CF designó a Íñigo Aznar, con experiencia previa en el Real Madrid y el Atlético de Madrid, como director de ingresos del club y de Nu Stadium. Aznar supervisará patrocinios, boletería, tienda y el creciente negocio de eventos del club tras la era de Messi."
+      },
+      "zh": {
+        "title": "迈阿密国际任命伊尼戈·阿斯纳尔为首席营收官",
+        "summary": "迈阿密国际足球俱乐部宣布任命曾在皇家马德里和马德里竞技任职的伊尼戈·阿斯纳尔为俱乐部及努体育场的首席营收官。阿斯纳尔将负责合作伙伴关系、票务、零售以及俱乐部日益扩大的活动业务，为后梅西时代做准备。"
+      },
+      "fr": {
+        "title": "L'Inter Miami nomme Íñigo Aznar directeur des revenus",
+        "summary": "L'Inter Miami CF a nommé Íñigo Aznar, passé par le Real Madrid et l'Atlético de Madrid, directeur des revenus du club et du Nu Stadium. Aznar supervisera les partenariats, la billetterie, le commerce de détail et l'activité événementielle croissante du club à l'approche de l'après-Messi."
+      }
+    }
+  },
+  {
+    "id": "tiktok-nba-wnba-global-content-partnership-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-07-16T00:00:00Z",
+    "source_name": "NBA.com",
+    "source_url": "https://www.nba.com/news/tiktok-nba-wnba-partnership-2026",
+    "i18n": {
+      "en": {
+        "title": "TikTok Strikes Multiyear Global Content Deal with NBA and WNBA",
+        "summary": "TikTok, the NBA and WNBA announced a multiyear global partnership covering highlight distribution, creator access to marquee events and live-game discovery through TikTok's GamePlan feature. The deal also opens advertiser opportunities via TikTok Pulse Premiere placements alongside league content."
+      },
+      "ja": {
+        "title": "TikTok、NBAとWNBAと複数年のグローバルコンテンツ契約を締結",
+        "summary": "TikTokはNBA、WNBAとの間で、ハイライト配信やクリエイターの主要イベントへのアクセス、TikTokの「GamePlan」機能を通じたライブ試合情報の提供を含む複数年のグローバル提携を発表した。この契約では、リーグコンテンツと連動した広告主向けの「TikTok Pulse Premiere」枠も新設される。"
+      },
+      "es": {
+        "title": "TikTok firma acuerdo global plurianual con la NBA y la WNBA",
+        "summary": "TikTok, la NBA y la WNBA anunciaron una asociación global plurianual que incluye distribución de mejores jugadas, acceso de creadores a eventos destacados y descubrimiento de partidos en vivo mediante la función GamePlan de TikTok. El acuerdo también abre espacios publicitarios a través de TikTok Pulse Premiere junto al contenido de las ligas."
+      },
+      "zh": {
+        "title": "TikTok与NBA、WNBA达成多年全球内容合作",
+        "summary": "TikTok与NBA、WNBA宣布达成多年期全球合作，内容涵盖精彩集锦分发、创作者参与顶级赛事，以及通过TikTok“GamePlan”功能获取赛事直播信息。该协议还为广告主开放了与联赛内容联动的“TikTok Pulse Premiere”广告位。"
+      },
+      "fr": {
+        "title": "TikTok signe un accord de contenu mondial pluriannuel avec la NBA et la WNBA",
+        "summary": "TikTok, la NBA et la WNBA ont annoncé un partenariat mondial pluriannuel couvrant la diffusion des temps forts, l'accès des créateurs aux événements phares et la découverte des matchs en direct via la fonctionnalité GamePlan de TikTok. L'accord ouvre aussi des espaces publicitaires via TikTok Pulse Premiere aux côtés du contenu des ligues."
+      }
+    }
+  },
+  {
+    "id": "npb-nissan-home-run-derby-sponsor-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-07-13T00:00:00Z",
+    "source_name": "NPB.jp",
+    "source_url": "https://npb.jp/news/detail/20260713_04.html",
+    "i18n": {
+      "en": {
+        "title": "Nissan Named Title Sponsor of NPB All-Star Home Run Derby",
+        "summary": "Nippon Professional Baseball named Nissan Motor as the title sponsor of the Home Run Derby at the 2026 Mynavi All-Star Game. The automaker will award the derby winner prize money and a new Nissan Kicks, continuing a multi-year sponsorship of the event."
+      },
+      "ja": {
+        "title": "日産自動車、NPBオールスター ホームランダービーの冠スポンサーに",
+        "summary": "日本野球機構は、2026年マイナビオールスターゲームのホームランダービーの冠スポンサーに日産自動車を選定したと発表した。同社は優勝者に賞金と新型日産キックスを贈呈し、複数年にわたる同イベントへの協賛を継続する。"
+      },
+      "es": {
+        "title": "Nissan se convierte en patrocinador titular del Home Run Derby de la NPB",
+        "summary": "La Liga Profesional de Béisbol de Japón (NPB) designó a Nissan Motor como patrocinador titular del Home Run Derby del Juego de Estrellas Mynavi 2026. La automotriz entregará al ganador un premio en efectivo y un nuevo Nissan Kicks, continuando su patrocinio plurianual del evento."
+      },
+      "zh": {
+        "title": "日产汽车成为NPB全明星本垄打大赛冠名赞助商",
+        "summary": "日本职业棒球组织（NPB）宣布日产汽车成为2026年Mynavi全明星赛全垄打大赛的冠名赞助商。该车企将向冠军颁发奖金及一辆全新日产Kicks，延续其对该赛事的多年赞助。"
+      },
+      "fr": {
+        "title": "Nissan devient sponsor titre du Home Run Derby du All-Star Game de la NPB",
+        "summary": "La ligue japonaise de baseball professionnel (NPB) a nommé Nissan Motor sponsor titre du Home Run Derby du Mynavi All-Star Game 2026. Le constructeur remettra au vainqueur une prime en argent et une nouvelle Nissan Kicks, prolongeant son partenariat pluriannuel avec l'événement."
+      }
+    }
+  },
+  {
+    "id": "bleague-b-kakushin-structural-reform-2026-27",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "biz",
+      "team"
+    ],
+    "published_at": "2026-09-21T00:00:00Z",
+    "source_name": "Chukei News",
+    "source_url": "https://www.chukei-news.co.jp/news/2026/09/21/OK0002609210b01_01/",
+    "i18n": {
+      "en": {
+        "title": "B.League Launches 'B.Kakushin' Reform Overhauling Division Structure",
+        "summary": "Japan's B.League began its 2026-27 season under a sweeping reform dubbed 'B.Kakushin,' restructuring into a 26-team B.Premier and a five-region, 25-team B.One tier. Promotion decisions now weigh clubs' business fundamentals, including attendance and revenue over the prior three years, as part of a plan targeting roughly 80 billion yen in league-wide business scale."
+      },
+      "ja": {
+        "title": "Bリーグ、部門構成を刷新する「B.革新」始動",
+        "summary": "日本のBリーグは、2026-27シーズンから「B.革新」と呼ばれる大規模な制度改革に踏み出し、26クラブによるBプレミアと5地区25クラブのBワンという新体制に移行した。昇格判断には直近3年間の入場者数や売上高などクラブの経営基盤が重視され、事業規模800億円を目標とする中期経営計画の一環となっている。"
+      },
+      "es": {
+        "title": "La B.League lanza la reforma 'B.Kakushin' que renueva su estructura de divisiones",
+        "summary": "La B.League japonesa inició la temporada 2026-27 bajo una amplia reforma llamada 'B.Kakushin', reorganizándose en una B.Premier de 26 clubes y una B.One de 25 clubes divididos en cinco regiones. Las decisiones de ascenso ahora ponderan los fundamentos comerciales de los clubes, incluidos asistencia e ingresos de los últimos tres años, como parte de un plan que apunta a unos 80.000 millones de yenes de escala de negocio de la liga."
+      },
+      "zh": {
+        "title": "日本B联赛启动“B.革新”改革，重塑分级体系",
+        "summary": "日本B联赛在2026-27赛季启动名为“B.革新”的大规模制度改革，重组为26支球队组成的B.Premier和按五个地区划分、共25支球队的B.One。升级评审现在更看重俱乐部近三年的入场人数、营收等经营基础，这是联赛冲击约800亿日元事业规模中期目标的一部分。"
+      },
+      "fr": {
+        "title": "La B.League lance la réforme « B.Kakushin » qui refond sa structure de divisions",
+        "summary": "La B.League japonaise a entamé la saison 2026-27 sous une vaste réforme baptisée « B.Kakushin », se réorganisant en une B.Premier de 26 clubs et une B.One de 25 clubs répartis en cinq régions. Les décisions de promotion tiennent désormais compte des fondamentaux économiques des clubs, dont la fréquentation et les revenus des trois dernières années, dans le cadre d'un plan visant environ 80 milliards de yens de chiffre d'affaires pour la ligue."
+      }
+    }
+  },
+  {
+    "id": "sf-giants-airwallex-jersey-patch-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-02-18T00:00:00Z",
+    "source_name": "MLB.com",
+    "source_url": "https://www.mlb.com/press-release/press-release-airwallex-becomes-the-giants-official-jersey-patch-partner",
+    "i18n": {
+      "en": {
+        "title": "Giants Name Airwallex as Official Jersey Patch Partner",
+        "summary": "The San Francisco Giants announced a multiyear deal with global financial platform Airwallex, which becomes the team's official jersey patch and financial software partner starting in the 2026 season. Airwallex is the third company on Giants uniforms since the patch program began, following Chevrolet and the since-discontinued Cruise deal."
+      },
+      "ja": {
+        "title": "ジャイアンツ、エアウォレックスとユニフォームパッチ契約を締結",
+        "summary": "サンフランシスコ・ジャイアンツは、グローバル金融プラットフォームのエアウォレックスと複数年契約を結び、2026年シーズンからチームの公式ユニフォームパッチおよび財務ソフトウェアパートナーになると発表した。エアウォレックスは、シボレー、そして契約解消となったクルーズに続き、パッチ導入以来3社目の企業となる。"
+      },
+      "es": {
+        "title": "Los Giants nombran a Airwallex socio oficial del parche en la camiseta",
+        "summary": "Los Gigantes de San Francisco anunciaron un acuerdo plurianual con la plataforma financiera global Airwallex, que se convierte en el socio oficial del parche de la camiseta y de software financiero del equipo a partir de la temporada 2026. Airwallex es la tercera empresa en los uniformes de los Giants desde que inició el programa de parches, tras Chevrolet y el ya cancelado acuerdo con Cruise."
+      },
+      "zh": {
+        "title": "旧金山巨人队宣布Airwallex为官方球衣广告贴合作伙伴",
+        "summary": "旧金山巨人队宣布与全球金融平台Airwallex达成多年协议，后者将从2026赛季起成为球队官方球衣广告贴及财务软件合作伙伴。这是自球衣广告贴项目启动以来登上巨人队球衣的第三家企业，此前分别为雪佛兰以及已终止合作的Cruise。"
+      },
+      "fr": {
+        "title": "Les Giants nomment Airwallex partenaire officiel du patch sur maillot",
+        "summary": "Les Giants de San Francisco ont annoncé un accord pluriannuel avec la plateforme financière mondiale Airwallex, qui devient le partenaire officiel du patch sur maillot et des logiciels financiers de l'équipe à partir de la saison 2026. Airwallex est la troisième entreprise sur les maillots des Giants depuis le lancement du programme, après Chevrolet et l'accord Cruise depuis abandonné."
+      }
+    }
+  },
+  {
+    "id": "tottenham-vsbet-asia-betting-partner-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-01T00:00:00Z",
+    "source_name": "Tottenham Hotspur",
+    "source_url": "https://www.tottenhamhotspur.com/news/1087202/tottenham-hotspur-announces-vsbet-as-official-regional-betting-partner-for-asia",
+    "i18n": {
+      "en": {
+        "title": "Tottenham Adds VSbet as Official Regional Betting Partner for Asia",
+        "summary": "Tottenham Hotspur signed a three-year deal naming digital sports betting operator VSbet as its official regional betting partner in Asia. The tie-up is aimed at growing the club's commercial presence and fan engagement across Asian markets through regional marketing and digital content."
+      },
+      "ja": {
+        "title": "トッテナム、アジア地域の公式ベッティングパートナーにVSbetを起用",
+        "summary": "トッテナム・ホットスパーは、デジタルスポーツベッティング事業者VSbetとアジア地域における公式ベッティングパートナー契約を3年間結んだと発表した。この提携は、地域向けマーケティングやデジタルコンテンツを通じて、アジア市場でのクラブの商業的存在感とファンエンゲージメントの拡大を狙う。"
+      },
+      "es": {
+        "title": "Tottenham incorpora a VSbet como socio oficial de apuestas para Asia",
+        "summary": "El Tottenham Hotspur firmó un acuerdo de tres años que designa al operador de apuestas deportivas digitales VSbet como su socio oficial de apuestas regionales en Asia. La alianza busca ampliar la presencia comercial del club y la relación con los aficionados en los mercados asiáticos mediante marketing regional y contenido digital."
+      },
+      "zh": {
+        "title": "热刺签约VSbet成为亚洲区官方博彩合作伙伴",
+        "summary": "托特纳姆热刺宣布与数字体育博彩运营商VSbet签订三年协议，后者成为俱乐部在亚洲地区的官方博彩合作伙伴。此次合作旨在通过区域营销和数字内容，扩大俱乐部在亚洲市场的商业影响力和球迷互动。"
+      },
+      "fr": {
+        "title": "Tottenham s'associe à VSbet comme partenaire officiel des paris pour l'Asie",
+        "summary": "Tottenham Hotspur a signé un accord de trois ans faisant de l'opérateur de paris sportifs numériques VSbet son partenaire officiel des paris régionaux en Asie. Ce partenariat vise à renforcer la présence commerciale du club et l'engagement des supporters sur les marchés asiatiques via du marketing régional et du contenu numérique."
+      }
+    }
   }
 ]
