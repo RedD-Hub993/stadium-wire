@@ -6991,5 +6991,141 @@
         "summary": "Les Hokkaido Nippon-Ham Fighters et leur société d'exploitation ont signé un accord de principe avec la ville d'Eniwa pour construire de nouvelles installations pour leur équipe de développement, comprenant un stade principal, des terrains d'entraînement et des dormitoires pour joueurs, dans un nouveau quartier prévu près de leur stade Es Con Field. Ces installations, qui seront déplacées depuis Kamagaya dans la préfecture de Chiba, devraient ouvrir vers 2030 ou 2031."
       }
     }
+  },
+  {
+    "id": "learfield-visible-college-sports-partnership",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-09-22T13:00:00Z",
+    "source_name": "Learfield",
+    "source_url": "https://www.learfield.com/2026/09/learfield-and-visible-team-up-to-connect-with-college-sports-fans-across-usc-oregon-minnesota-and-rutgers/",
+    "i18n": {
+      "en": {
+        "title": "Learfield and Visible Launch Multi-School College Sports Marketing Partnership",
+        "summary": "College sports marketing agency Learfield has teamed up with Verizon's Visible wireless brand on a new partnership spanning the athletic programs at USC, Oregon, Minnesota and Rutgers. The deal brings Visible-branded signage to marquee venues, including a helmet bumper sponsorship with Minnesota football and an on-court logo placement for Oregon basketball."
+      },
+      "ja": {
+        "title": "Learfieldとバイザブル、USC・オレゴン・ミネソタ・ラトガース4校と大学スポーツ広告提携",
+        "summary": "大学スポーツマーケティング大手のLearfieldは、ベライゾン傘下の格安ワイヤレスブランド「Visible」と提携し、USC、オレゴン大学、ミネソタ大学、ラトガース大学の4校の運動部を対象としたスポンサーシップを開始した。契約には、ミネソタ大学フットボールのヘルメットへの企業ロゴ掲出や、オレゴン大学バスケットボールのコート内広告などが含まれる。"
+      },
+      "es": {
+        "title": "Learfield y Visible lanzan una alianza de marketing deportivo universitario con cuatro escuelas",
+        "summary": "La agencia de marketing deportivo universitario Learfield se ha asociado con la marca inalámbrica Visible, de Verizon, en un acuerdo que abarca los programas atléticos de USC, Oregon, Minnesota y Rutgers. El convenio incluye señalización de marca en sedes destacadas, entre ellas un logotipo en el casco del equipo de fútbol americano de Minnesota y publicidad en la cancha de baloncesto de Oregon."
+      },
+      "zh": {
+        "title": "Learfield与Visible达成合作，覆盖南加州大学、俄勒冈、明尼苏达和罗格斯四所高校体育营销",
+        "summary": "大学体育营销公司Learfield与威瑞森旗下无线品牌Visible达成新合作，涵盖南加州大学、俄勒冈大学、明尼苏达大学和罗格斯大学的体育项目。协议包括在知名场馆展示品牌标识，其中明尼苏达大学橄榄球队头盔将首次出现企业冠名标志，俄勒冈大学篮球场地板上也将设置该品牌广告。"
+      },
+      "fr": {
+        "title": "Learfield et Visible lancent un partenariat marketing sportif universitaire avec quatre écoles",
+        "summary": "L'agence de marketing sportif universitaire Learfield s'est associée à la marque sans fil Visible, filiale de Verizon, dans le cadre d'un partenariat couvrant les programmes sportifs de l'USC, de l'Oregon, du Minnesota et de Rutgers. L'accord prévoit un affichage de marque dans des enceintes emblématiques, dont un logo sur le casque de l'équipe de football du Minnesota et une publicité sur le parquet de basket de l'Oregon."
+      }
+    }
+  },
+  {
+    "id": "tixr-laketown-squadron-ticketing-partner",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "tech",
+      "fan"
+    ],
+    "published_at": "2026-09-24T14:00:00Z",
+    "source_name": "NBA G League",
+    "source_url": "https://laketown.gleague.nba.com/news/laketown-squadron-name-tixr-official-ticket-services-partner-single-game-tickets-on-sale",
+    "i18n": {
+      "en": {
+        "title": "Tixr Named Official Ticketing Partner of NBA G League's New Laketown Squadron",
+        "summary": "Tixr has become the official ticket services provider for the Laketown Squadron, the New Orleans Pelicans' NBA G League affiliate, ahead of the franchise's inaugural season. The platform will handle single-game sales, resale and transfers for all Squadron home games at the Pontchartrain Center in Kenner, Louisiana."
+      },
+      "ja": {
+        "title": "TixrがNBA Gリーグ新規参入のレイクタウン・スカッドロンの公式チケットパートナーに",
+        "summary": "チケット販売プラットフォームのTixrは、NBAニューオーリンズ・ペリカンズ傘下のGリーグ新規球団「レイクタウン・スカッドロン」の公式チケットサービスパートナーに就任した。ケナー市のポンチャートレイン・センターで行われる同球団の初シーズンのホームゲームについて、通常チケット販売から転売・譲渡までを一括して担う。"
+      },
+      "es": {
+        "title": "Tixr, socio oficial de venta de boletos del nuevo equipo Laketown Squadron de la G League",
+        "summary": "Tixr se ha convertido en el proveedor oficial de servicios de boletería del Laketown Squadron, el afiliado de la G League de la NBA de los New Orleans Pelicans, de cara a la temporada inaugural de la franquicia. La plataforma gestionará la venta, reventa y transferencia de entradas para todos los partidos como local en el Pontchartrain Center, en Kenner, Luisiana."
+      },
+      "zh": {
+        "title": "Tixr成为NBA发展联盟新军湖镇中队官方票务合作伙伴",
+        "summary": "票务平台Tixr已成为新奥尔良鹈鹕队NBA发展联盟附属球队“湖镇中队”的官方票务服务合作伙伴，该球队即将迎来首个赛季。Tixr将负责该队在路易斯安那州肯纳市庞恰特雷恩中心举行的全部主场比赛的单场售票、转售及转让业务。"
+      },
+      "fr": {
+        "title": "Tixr devient le partenaire billetterie officiel du Laketown Squadron, nouvelle équipe de G League",
+        "summary": "La plateforme Tixr est devenue le fournisseur officiel de services de billetterie du Laketown Squadron, la franchise de G League affiliée aux Pelicans de La Nouvelle-Orléans, à l'approche de sa première saison. Tixr gérera la vente à l'unité, la revente et le transfert des billets pour tous les matchs à domicile au Pontchartrain Center, à Kenner, en Louisiane."
+      }
+    }
+  },
+  {
+    "id": "blitz-analytics-uc-davis-tnt-sports-partnership",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "tech",
+      "biz"
+    ],
+    "published_at": "2026-09-25T12:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-sept-25-2026-1234945704/",
+    "i18n": {
+      "en": {
+        "title": "AI Sports Data Startup Blitz Analytics Adds UC Davis and TNT Sports as Partners",
+        "summary": "AI-powered sports intelligence platform Blitz Analytics has signed partnerships with UC Davis athletics and broadcaster TNT Sports, extending its data tools to college research and content teams as well as national NHL, MLB and college broadcast coverage. The startup also closed a small friends-and-family pre-seed round to fund additional engineering hires."
+      },
+      "ja": {
+        "title": "AIスポーツデータ企業Blitz Analytics、UCデービスとTNTスポーツとの提携を発表",
+        "summary": "AIを活用したスポーツインテリジェンス企業のBlitz Analyticsは、カリフォルニア大学デービス校の運動部および放送局TNTスポーツとの提携を発表した。同社のデータツールは大学のリサーチ・コンテンツ制作チームに加え、NHLやMLB、大学スポーツの全国放送カバレッジにも活用される。同社は追加のエンジニア採用資金として、小規模な身内出資によるプレシード資金調達も実施した。"
+      },
+      "es": {
+        "title": "La startup de datos deportivos con IA Blitz Analytics suma a UC Davis y TNT Sports como socios",
+        "summary": "La plataforma de inteligencia deportiva impulsada por IA Blitz Analytics firmó acuerdos de colaboración con el departamento de atletismo de UC Davis y la cadena TNT Sports, ampliando sus herramientas de datos tanto a equipos universitarios de investigación y contenido como a la cobertura nacional de la NHL, la MLB y el deporte universitario. La startup también cerró una pequeña ronda pre-semilla entre familiares y amigos para financiar nuevas contrataciones de ingeniería."
+      },
+      "zh": {
+        "title": "AI体育数据初创公司Blitz Analytics与加州大学戴维斯分校及TNT体育达成合作",
+        "summary": "人工智能驱动的体育情报平台Blitz Analytics宣布与加州大学戴维斯分校体育部门及广播机构TNT体育达成合作，将其数据工具拓展至高校研究与内容制作团队，以及NHL、MLB和大学体育的全国转播报道。该初创公司还完成了一轮小规模的亲友种子前融资，用于资助新增工程师招聘。"
+      },
+      "fr": {
+        "title": "La start-up de données sportives IA Blitz Analytics s'associe à UC Davis et TNT Sports",
+        "summary": "La plateforme d'intelligence sportive basée sur l'IA Blitz Analytics a signé des partenariats avec le département sportif d'UC Davis et le diffuseur TNT Sports, étendant ses outils de données aux équipes universitaires de recherche et de contenu ainsi qu'à la couverture nationale de la NHL, de la MLB et du sport universitaire. La start-up a également bouclé un petit tour de financement pré-amorçage auprès de proches pour financer de nouvelles embauches d'ingénieurs."
+      }
+    }
+  },
+  {
+    "id": "rapiscan-la28-security-technology-partner",
+    "sport": "olympics",
+    "region": "global",
+    "topics": [
+      "tech",
+      "stadium"
+    ],
+    "published_at": "2026-08-19T15:00:00Z",
+    "source_name": "LA28",
+    "source_url": "https://la28.org/en/newsroom/rapiscan-named-official-physical-screening-and-security-technology-hardware-software-solutions-provider-of-the-la28-olympic-and-paralympic-games-and-supporter-of-team-usa.html",
+    "i18n": {
+      "en": {
+        "title": "Rapiscan Named Official Security Screening Technology Provider for LA28 Olympics",
+        "summary": "Security equipment maker Rapiscan, a division of OSI Systems, has been named the official physical screening and security technology provider for the 2028 Los Angeles Olympic and Paralympic Games. The multi-year partnership will supply screening hardware and software intended to help organizers manage security operations across Games venues."
+      },
+      "ja": {
+        "title": "ラピスキャン、LA28オリンピックの公式セキュリティスクリーニング技術プロバイダーに",
+        "summary": "セキュリティ機器メーカーのラピスキャン（OSIシステムズ傘下）は、2028年ロサンゼルス五輪・パラリンピックの公式フィジカルスクリーニング・セキュリティ技術プロバイダーに指定されたと発表した。複数年契約により、大会会場全体の警備運用を支援するスクリーニング用ハードウェアとソフトウェアを提供する。"
+      },
+      "es": {
+        "title": "Rapiscan es nombrada proveedora oficial de tecnología de seguridad para los Juegos Olímpicos de LA28",
+        "summary": "El fabricante de equipos de seguridad Rapiscan, una división de OSI Systems, fue designado proveedor oficial de tecnología de detección física y seguridad para los Juegos Olímpicos y Paralímpicos de Los Ángeles 2028. La alianza plurianual suministrará hardware y software de escaneo destinados a ayudar a los organizadores a gestionar las operaciones de seguridad en las sedes de los Juegos."
+      },
+      "zh": {
+        "title": "Rapiscan成为2028年洛杉矶奥运会官方安检技术供应商",
+        "summary": "安检设备制造商Rapiscan（OSI Systems旗下公司）被指定为2028年洛杉矶奥运会及残奥会官方实体安检与安保技术供应商。这项多年期合作将提供安检硬件与软件，协助赛事组织者在各比赛场馆管理安保运营。"
+      },
+      "fr": {
+        "title": "Rapiscan devient fournisseur officiel de technologies de sécurité pour les Jeux de LA28",
+        "summary": "Le fabricant d'équipements de sécurité Rapiscan, une division d'OSI Systems, a été désigné fournisseur officiel de technologies de contrôle physique et de sécurité pour les Jeux olympiques et paralympiques de Los Angeles 2028. Ce partenariat pluriannuel fournira du matériel et des logiciels de contrôle destinés à aider les organisateurs à gérer les opérations de sécurité sur les sites des Jeux."
+      }
+    }
   }
 ]
