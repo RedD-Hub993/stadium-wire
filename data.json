@@ -4200,5 +4200,343 @@
         "summary": "La Major League Soccer a mandaté l'agence Altius8 pour explorer un partenariat de sponsor titre, les discussions préliminaires atteignant déjà huit chiffres. Un accord conclu figurerait parmi les plus gros contrats commerciaux de la ligue, derrière ses droits médias avec Apple et son accord d'équipement avec Adidas, alors que la MLS prépare une refonte commerciale plus large baptisée « MLS 3.0 »."
       }
     }
+  },
+  {
+    "id": "lakers-sold-kushner-iger-record-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-26T21:00:00Z",
+    "source_name": "ESPN",
+    "source_url": "https://www.espn.com/nba/story/_/id/49590362/josh-kushner-bob-iger-buy-lakers-12b",
+    "i18n": {
+      "en": {
+        "title": "Lakers Agree to Record $12.5 Billion Sale to Kushner and Iger",
+        "summary": "Dodgers and now-outgoing Lakers owner Mark Walter has agreed to sell the Los Angeles Lakers to Thrive Capital founder Josh Kushner and former Disney chief Bob Iger at a $12.5 billion valuation, a record for a North American sports franchise. The Buss family is also selling its remaining stake as part of the deal, which still needs approval from the NBA's Board of Governors. Kushner and Iger reportedly turned to the Lakers after exploring a Las Vegas expansion franchise."
+      },
+      "ja": {
+        "title": "レイカーズ、クシュナー氏とアイガー氏に125億ドルで売却合意",
+        "summary": "ドジャースの株主でもあるレイカーズ現オーナーのマーク・ウォルターが、スライブ・キャピタル創業者のジョシュ・クシュナー氏と元ディズニーCEOのボブ・アイガー氏に対し、125億ドルという北米スポーツ史上最高額でレイカーズを売却することに合意した。バス家も残りの持ち分を今回の取引で手放す予定で、成立にはNBA理事会の承認が必要となる。両氏はラスベガスでの新規参入チーム獲得を検討していた末、レイカーズ買収に動いたと報じられている。"
+      },
+      "es": {
+        "title": "Lakers acuerdan venta récord de 12.500 millones de dólares a Kushner e Iger",
+        "summary": "Mark Walter, propietario saliente de los Lakers y también accionista de los Dodgers, acordó vender Los Angeles Lakers al fundador de Thrive Capital, Josh Kushner, y al exdirector de Disney, Bob Iger, a una valoración récord de 12.500 millones de dólares para una franquicia deportiva norteamericana. La familia Buss también venderá su participación restante como parte del acuerdo, que aún requiere la aprobación de la junta de gobernadores de la NBA. Según informes, Kushner e Iger giraron hacia los Lakers tras explorar una franquicia de expansión en Las Vegas."
+      },
+      "zh": {
+        "title": "湖人队以125亿美元创纪录估值同意出售给库什纳和艾格",
+        "summary": "现湖人队老板、道奇队股东马克·沃尔特已同意以125亿美元的估值将洛杉矶湖人队出售给Thrive Capital创始人乔希·库什纳和迪士尼前首席执行官鲍勃·艾格,创下北美职业体育特许经营权的最高纪录。巴斯家族也将在此次交易中出售其剩余股份,该交易仍需NBA理事会批准。据报道,库什纳和艾格此前曾考虑竞购拉斯维加斯扩张球队,后转而收购湖人队。"
+      },
+      "fr": {
+        "title": "Les Lakers acceptent une vente record de 12,5 milliards de dollars à Kushner et Iger",
+        "summary": "Mark Walter, propriétaire sortant des Lakers et actionnaire des Dodgers, a accepté de céder les Los Angeles Lakers au fondateur de Thrive Capital Josh Kushner et à l'ancien patron de Disney Bob Iger pour une valorisation record de 12,5 milliards de dollars pour une franchise sportive nord-américaine. La famille Buss vendra également sa participation restante dans le cadre de cet accord, qui doit encore être approuvé par le conseil des gouverneurs de la NBA. Kushner et Iger se seraient tournés vers les Lakers après avoir envisagé une franchise d'expansion à Las Vegas."
+      }
+    }
+  },
+  {
+    "id": "bills-highmark-stadium-standalone-tech-center-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "tech",
+      "stadium"
+    ],
+    "published_at": "2026-09-17T00:00:00Z",
+    "source_name": "Sports Video Group",
+    "source_url": "https://www.sportsvideo.org/2026/09/17/home-at-highmark-stadium-buffalo-bills-new-venue-drives-fan-experience-with-exterior-tech-center-internal-ip-powered-infrastructure/",
+    "i18n": {
+      "en": {
+        "title": "Bills' New Highmark Stadium Built Around Standalone Tech Center",
+        "summary": "The Buffalo Bills built a standalone, roughly 18,000-square-foot technology center outside the bowl of their new Highmark Stadium, housing broadcast production, distributed-antenna and fiber infrastructure separate from the main building. Keeping that gear in its own structure let crews begin installing switches, cameras and networking gear months before the stadium itself was fully enclosed. The venue's production network runs on SMPTE ST 2110 IP infrastructure supporting UHD and HDR video across 35 cameras."
+      },
+      "ja": {
+        "title": "ビルズの新スタジアム、独立型テクノロジーセンターを中核に建設",
+        "summary": "バッファロー・ビルズは新スタジアム「ハイマーク・スタジアム」のスタンド外に、約1,670平方メートルの独立したテクノロジーセンターを建設し、放送用機材や分散アンテナシステム、光ファイバー設備をメイン施設とは別に収容した。専用の建物に機材を置くことで、スタジアム本体の外壁工事が完了する数ヶ月前からスイッチやカメラ、ネットワーク機器の設置を開始できたという。施設の映像制作ネットワークはSMPTE ST 2110規格のIP基盤上で構築され、35台のカメラによるUHD・HDR映像に対応している。"
+      },
+      "es": {
+        "title": "El nuevo Highmark Stadium de los Bills se construye alrededor de un centro tecnológico independiente",
+        "summary": "Los Buffalo Bills construyeron un centro tecnológico independiente de unos 1.670 metros cuadrados fuera del graderío de su nuevo Highmark Stadium, que alberga la producción de transmisión, el sistema de antenas distribuidas y la infraestructura de fibra separada del edificio principal. Mantener ese equipo en una estructura propia permitió a los equipos empezar a instalar switches, cámaras y redes meses antes de que el estadio quedara totalmente cerrado. La red de producción del recinto funciona sobre infraestructura IP SMPTE ST 2110 que admite video UHD y HDR en 35 cámaras."
+      },
+      "zh": {
+        "title": "比尔队新球场以独立技术中心为核心建造",
+        "summary": "布法罗比尔队在新建的Highmark体育场看台外建造了一座约1,670平方米的独立技术中心,将转播制作、分布式天线系统和光纤基础设施与主体建筑分开安置。将这些设备安置在独立结构中,使施工团队能够在体育场主体尚未完全封闭的数月前就开始安装交换机、摄像机和网络设备。该场馆的制作网络基于SMPTE ST 2110 IP架构运行,支持35台摄像机的超高清和HDR视频制作。"
+      },
+      "fr": {
+        "title": "Le nouveau Highmark Stadium des Bills conçu autour d'un centre technologique indépendant",
+        "summary": "Les Buffalo Bills ont construit un centre technologique indépendant d'environ 1 670 mètres carrés à l'extérieur des gradins de leur nouveau Highmark Stadium, abritant la production de diffusion, le système d'antennes distribuées et l'infrastructure fibre séparément du bâtiment principal. Loger cet équipement dans une structure à part a permis aux équipes d'installer commutateurs, caméras et réseau plusieurs mois avant que le stade ne soit totalement fermé. Le réseau de production du site repose sur une infrastructure IP SMPTE ST 2110 prenant en charge la vidéo UHD et HDR sur 35 caméras."
+      }
+    }
+  },
+  {
+    "id": "npb-draft-taisho-pharmaceutical-lipovitan-sponsor-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-08-19T00:00:00Z",
+    "source_name": "NPB.jp",
+    "source_url": "https://npb.jp/news/detail/20260819_01.html",
+    "i18n": {
+      "en": {
+        "title": "Taisho Pharmaceutical Extends NPB Draft Sponsorship for 14th Straight Year",
+        "summary": "Japan's Nippon Professional Baseball announced that Taisho Pharmaceutical will once again serve as special sponsor of this year's NPB draft, to be held October 22, extending its backing to a 14th consecutive year. The event will again carry the title \"NPB Draft supported by Lipovitan D,\" tying the energy-drink brand's name to Japanese baseball's annual amateur player selection meeting. NPB said the long-running partnership underscores the sponsor's continued commitment to developing the country's professional baseball talent pipeline."
+      },
+      "ja": {
+        "title": "大正製薬、プロ野球ドラフト会議の特別協賛を14年連続で継続",
+        "summary": "日本野球機構(NPB)は、10月22日に開催される今年のプロ野球ドラフト会議について、大正製薬が特別協賛を継続すると発表した。同社の協賛は今回で14年連続となる。イベントの正式名称は今年も「プロ野球ドラフト会議 supported by リポビタンD」とされ、栄養ドリンクブランドの名がアマチュア選手選択会議と結び付けられる形となった。NPBは、この長年続く協賛関係が日本プロ野球の人材育成への支援を象徴するものだとしている。"
+      },
+      "es": {
+        "title": "Taisho Pharmaceutical extiende su patrocinio del draft de la NPB por 14º año consecutivo",
+        "summary": "La Liga Profesional de Béisbol de Japón (NPB) anunció que Taisho Pharmaceutical volverá a ser el patrocinador especial del draft de este año, que se celebrará el 22 de octubre, extendiendo su respaldo por 14° año consecutivo. El evento mantendrá el nombre \"NPB Draft supported by Lipovitan D\", vinculando la marca de bebidas energéticas a la reunión anual de selección de jugadores amateurs del béisbol japonés. La NPB señaló que esta larga asociación refleja el compromiso continuo del patrocinador con el desarrollo del talento del béisbol profesional japonés."
+      },
+      "zh": {
+        "title": "大正制药连续第14年赞助NPB选秀大会",
+        "summary": "日本职业棒球组织(NPB)宣布,大正制药将连续第14年担任今年选秀大会的特别赞助商,该赛事将于10月22日举行。此次活动仍将沿用\"NPB选秀会 supported by Lipovitan D\"的官方名称,将这款能量饮料品牌与日本棒球界年度业余选手选拔会绑定在一起。NPB表示,这一长期合作关系体现了赞助商对日本职业棒球人才培养的持续投入。"
+      },
+      "fr": {
+        "title": "Taisho Pharmaceutical prolonge son parrainage de la draft NPB pour une 14e année",
+        "summary": "La Nippon Professional Baseball (NPB) a annoncé que Taisho Pharmaceutical restera le sponsor spécial de la draft de cette année, prévue le 22 octobre, prolongeant ainsi son soutien pour une 14e année consécutive. L'événement conservera l'appellation « NPB Draft supported by Lipovitan D », associant la marque de boisson énergisante à la réunion annuelle de sélection des joueurs amateurs du baseball japonais. La NPB a indiqué que ce partenariat de longue date illustre l'engagement continu du sponsor envers le développement des talents du baseball professionnel japonais."
+      }
+    }
+  },
+  {
+    "id": "kallang-group-samsung-singapore-sports-hub-partner-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "tech"
+    ],
+    "published_at": "2026-09-17T00:00:00Z",
+    "source_name": "The Stadium Business",
+    "source_url": "https://www.thestadiumbusiness.com/2026/09/17/tech-stack-capital-one-arena-manchester-city-and-more/",
+    "i18n": {
+      "en": {
+        "title": "Kallang Group Names Samsung Official Consumer Electronics Partner",
+        "summary": "The Kallang Group, which operates the Singapore venue formerly known as the Singapore Sports Hub, has signed a multi-year deal naming Samsung Electronics Singapore its official consumer electronics partner. The partnership covers mobile devices, wearables, displays and connected AI appliances across the complex's stadium, arena and entertainment spaces. It adds to a wave of venue operators pairing with major electronics brands to modernize fan-facing technology inside large multi-purpose sports complexes."
+      },
+      "ja": {
+        "title": "カラン・グループ、サムスンを公式コンシューマーエレクトロニクスパートナーに指名",
+        "summary": "シンガポール・スポーツ・ハブとして知られていた複合施設を運営するカラン・グループは、サムスン電子シンガポールを公式コンシューマーエレクトロニクスパートナーとする複数年契約を締結した。今回の提携は、施設内のスタジアムやアリーナ、エンターテインメント空間全体で、モバイル機器、ウェアラブル端末、ディスプレイ、AI対応家電製品を対象とする。大型複合スポーツ施設内のファン向けテクノロジーを刷新するため、施設運営者が大手電機ブランドと提携する動きが広がっていることを示す一例となる。"
+      },
+      "es": {
+        "title": "Kallang Group nombra a Samsung socio oficial de electrónica de consumo",
+        "summary": "Kallang Group, que gestiona el recinto de Singapur antes conocido como Singapore Sports Hub, firmó un acuerdo plurianual que designa a Samsung Electronics Singapore como su socio oficial de electrónica de consumo. La colaboración abarca dispositivos móviles, wearables, pantallas y electrodomésticos conectados con IA en todo el estadio, la arena y los espacios de entretenimiento del complejo. Se suma a una tendencia de operadores de recintos que se asocian con grandes marcas de electrónica para modernizar la tecnología orientada al aficionado en grandes complejos deportivos multiuso."
+      },
+      "zh": {
+        "title": "凯朗集团任命三星为官方消费电子合作伙伴",
+        "summary": "负责运营原新加坡体育城的凯朗集团(Kallang Group)已与三星电子新加坡签订多年协议,任命其为官方消费电子合作伙伴。此次合作涵盖该综合体内体育场、竞技馆及娱乐空间的移动设备、可穿戴设备、显示屏和联网人工智能家电。这也反映出越来越多大型多功能体育场馆运营方与知名电子品牌合作,以升级面向球迷的场馆科技。"
+      },
+      "fr": {
+        "title": "Le Kallang Group désigne Samsung partenaire officiel d'électronique grand public",
+        "summary": "Le Kallang Group, qui exploite le complexe singapourien autrefois connu sous le nom de Singapore Sports Hub, a signé un accord pluriannuel désignant Samsung Electronics Singapore comme partenaire officiel d'électronique grand public. Le partenariat couvre les appareils mobiles, les objets connectés, les écrans et l'électroménager connecté à l'IA dans l'ensemble du stade, de l'arène et des espaces de divertissement du complexe. Il s'ajoute à une vague d'exploitants de sites s'associant à de grandes marques d'électronique pour moderniser la technologie destinée aux spectateurs dans de grands complexes sportifs polyvalents."
+      }
+    }
+  },
+  {
+    "id": "sports-illustrated-tickets-uk-nfl-fan-partner-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "fan",
+      "sponsor"
+    ],
+    "published_at": "2026-09-18T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-sept-18-2026-1234945267/",
+    "i18n": {
+      "en": {
+        "title": "Sports Illustrated Tickets Expands to UK as Official NFL London Games Partner",
+        "summary": "Sports Illustrated Tickets is expanding into the United Kingdom after being named an Official NFL Fan Experience Partner for the league's 2026 London Games. The deal gives the ticketing platform a formal role in packaging hospitality and fan-experience offerings around the NFL's growing slate of international games. It marks another step in the NFL's push to build out commercial infrastructure for its expanding overseas game schedule."
+      },
+      "ja": {
+        "title": "SIチケッツ、NFLロンドン開催試合の公式ファン体験パートナーとして英国進出",
+        "summary": "スポーツ・イラストレイテッド・チケッツが、NFLの2026年ロンドン開催試合における「公式ファン体験パートナー」に選ばれ、英国市場への進出を拡大している。この契約により、同チケットプラットフォームはNFLの国際戦拡大に合わせたホスピタリティやファン体験企画を正式に手掛ける立場となった。NFLが海外開催試合向けの商業インフラ整備を進める動きの一環と位置付けられる。"
+      },
+      "es": {
+        "title": "Sports Illustrated Tickets se expande al Reino Unido como socia oficial de los partidos de la NFL en Londres",
+        "summary": "Sports Illustrated Tickets se expande al Reino Unido tras ser nombrada Socia Oficial de Experiencia del Aficionado de la NFL para los partidos de Londres de 2026 de la liga. El acuerdo otorga a la plataforma de venta de entradas un papel formal en el diseño de ofertas de hospitalidad y experiencia para aficionados en torno al creciente calendario internacional de la NFL. Representa otro paso en el esfuerzo de la NFL por construir infraestructura comercial para su calendario de partidos en el extranjero, cada vez más amplio."
+      },
+      "zh": {
+        "title": "体育画报票务成为NFL伦敦系列赛官方合作伙伴,进军英国市场",
+        "summary": "体育画报票务(Sports Illustrated Tickets)被任命为NFL 2026年伦敦系列赛的官方球迷体验合作伙伴,借此拓展英国市场。该协议使这家票务平台正式参与围绕NFL不断增多的国际赛事所打造的接待与球迷体验项目。这也是NFL为其日益扩张的海外赛事日程搭建商业基础设施的又一举措。"
+      },
+      "fr": {
+        "title": "Sports Illustrated Tickets s'implante au Royaume-Uni comme partenaire officiel des matches de la NFL à Londres",
+        "summary": "Sports Illustrated Tickets se développe au Royaume-Uni après avoir été désignée partenaire officiel de l'expérience supporters de la NFL pour les matches de Londres 2026 de la ligue. L'accord confie à la plateforme de billetterie un rôle formel dans la conception d'offres d'hospitalité et d'expérience supporters autour du calendrier international croissant de la NFL. Il constitue une nouvelle étape dans l'effort de la NFL pour bâtir une infrastructure commerciale autour de son programme grandissant de matches à l'étranger."
+      }
+    }
+  },
+  {
+    "id": "science-in-sport-nike-after-dark-tour-partner-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-09-18T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-sept-18-2026-1234945267/",
+    "i18n": {
+      "en": {
+        "title": "Science in Sport Named Fuel & Hydration Partner of Nike After Dark Tour",
+        "summary": "Nutrition brand Science in Sport has been named Official Performance Fuel & Hydration Partner of the Nike After Dark Tour, a global running event series. The partnership puts SiS gels and hydration products directly in front of recreational runners at Nike-branded night races in multiple cities. It reflects growing sponsor interest in mass-participation running events as a marketing channel outside traditional team sports."
+      },
+      "ja": {
+        "title": "サイエンス・イン・スポート、ナイキ・アフター・ダーク・ツアーの燃料・補水パートナーに",
+        "summary": "スポーツ栄養ブランドのサイエンス・イン・スポート(SiS)が、ナイキ主催の世界的ランニングイベントシリーズ「ナイキ・アフター・ダーク・ツアー」の公式パフォーマンス燃料・ハイドレーションパートナーに選ばれた。この提携により、複数都市で開催されるナイキ主催のナイトレースに参加する一般ランナーに対し、SiSのジェルやハイドレーション製品が直接提供される。従来のチームスポーツとは異なるマーケティング手段として、大規模参加型のランニングイベントへのスポンサー関心が高まっていることを示している。"
+      },
+      "es": {
+        "title": "Science in Sport, socia de combustible e hidratación del Nike After Dark Tour",
+        "summary": "La marca de nutrición Science in Sport ha sido nombrada Socia Oficial de Combustible de Rendimiento e Hidratación del Nike After Dark Tour, una serie mundial de carreras. La colaboración pone los geles y productos de hidratación de SiS directamente al alcance de corredores recreativos en las carreras nocturnas de Nike celebradas en varias ciudades. Refleja el creciente interés de los patrocinadores en los eventos de running de participación masiva como canal de marketing fuera de los deportes de equipo tradicionales."
+      },
+      "zh": {
+        "title": "Science in Sport成为耐克After Dark Tour能量补给与水合合作伙伴",
+        "summary": "运动营养品牌Science in Sport(SiS)已被任命为耐克\"After Dark Tour\"全球夜跑赛事系列的官方能量补给与水合合作伙伴。此次合作使SiS的能量胶和补水产品能够直接接触到在多个城市参加耐克夜跑赛事的大众跑者。这反映出赞助商对大众参与型跑步赛事作为传统团队体育之外的营销渠道日益增长的兴趣。"
+      },
+      "fr": {
+        "title": "Science in Sport devient partenaire ravitaillement et hydratation du Nike After Dark Tour",
+        "summary": "La marque de nutrition sportive Science in Sport a été désignée partenaire officiel de la performance et de l'hydratation du Nike After Dark Tour, une série mondiale de courses nocturnes. Ce partenariat place les gels et produits d'hydratation de SiS directement à la portée des coureurs amateurs lors de ces courses de nuit organisées par Nike dans plusieurs villes. Il illustre l'intérêt croissant des sponsors pour les événements de course à pied à participation massive comme canal marketing en dehors des sports d'équipe traditionnels."
+      }
+    }
+  },
+  {
+    "id": "league-one-volleyball-cvs-pharmacy-jersey-patch-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-09-04T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-sept-4-2026-1234943968/",
+    "i18n": {
+      "en": {
+        "title": "League One Volleyball Names CVS Pharmacy Inaugural Jersey Patch Sponsor",
+        "summary": "League One Volleyball has named CVS Pharmacy its Official Health & Wellness Partner, with CVS also becoming the pro volleyball league's inaugural jersey patch sponsor. The deal gives the retail pharmacy chain branded visibility on player uniforms as LOVB continues building out its commercial partner roster in its early seasons. It's the latest example of retail and healthcare brands moving into jersey sponsorship as women's pro sports leagues expand."
+      },
+      "ja": {
+        "title": "リーグ・ワン・バレーボール、CVSファーマシーを初のユニフォームパッチスポンサーに指名",
+        "summary": "プロバレーボールリーグ「リーグ・ワン・バレーボール(LOVB)」は、CVSファーマシーを公式ヘルス&ウェルネスパートナーに指名し、同社は同リーグ史上初となるユニフォームパッチスポンサーにもなった。この契約により、創設初期段階にあるLOVBが商業パートナー網を拡大する中で、大手薬局チェーンが選手ユニフォームにブランドを露出する機会を得た。女子プロスポーツリーグの拡大に伴い、小売・医療関連ブランドがユニフォームスポンサーシップに参入する最新の事例となっている。"
+      },
+      "es": {
+        "title": "La Liga Uno de Voleibol nombra a CVS Pharmacy primera patrocinadora de parche en camiseta",
+        "summary": "La Liga Uno de Voleibol (LOVB) ha nombrado a CVS Pharmacy su Socia Oficial de Salud y Bienestar, y CVS se convierte además en la primera patrocinadora de parche en la camiseta de la liga profesional de voleibol. El acuerdo otorga a la cadena minorista de farmacias visibilidad de marca en los uniformes de las jugadoras mientras LOVB sigue ampliando su cartera de socios comerciales en sus primeras temporadas. Es el último ejemplo de marcas minoristas y de salud que ingresan al patrocinio de camisetas a medida que se expanden las ligas deportivas profesionales femeninas."
+      },
+      "zh": {
+        "title": "美国排球联赛LOVB任命CVS药房为首位球衣广告贴片赞助商",
+        "summary": "美国职业排球联赛League One Volleyball(LOVB)已任命CVS药房为其官方健康与保健合作伙伴,CVS同时也成为该职业排球联赛首位球衣广告贴片赞助商。该协议使这家零售药店连锁能在球员球衣上获得品牌曝光,此时LOVB正处于成立初期,持续扩充其商业合作伙伴阵容。这是随着女子职业体育联赛不断扩张,零售与医疗品牌进军球衣赞助领域的最新案例。"
+      },
+      "fr": {
+        "title": "La League One Volleyball nomme CVS Pharmacy premier sponsor de patch maillot",
+        "summary": "La League One Volleyball (LOVB) a désigné CVS Pharmacy comme partenaire officiel santé et bien-être, CVS devenant également le premier sponsor de patch maillot de cette ligue professionnelle de volleyball. L'accord offre à la chaîne de pharmacies une visibilité de marque sur les maillots des joueuses, tandis que la LOVB continue d'étoffer son portefeuille de partenaires commerciaux dès ses premières saisons. C'est le dernier exemple en date de marques de la distribution et de la santé investissant le sponsoring de maillot alors que les ligues sportives professionnelles féminines se développent."
+      }
+    }
+  },
+  {
+    "id": "dubai-premier-padel-emaar-title-partner-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-18T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-sept-18-2026-1234945267/",
+    "i18n": {
+      "en": {
+        "title": "Emaar Named Title Partner of Dubai Premier Padel P1 Event",
+        "summary": "Real estate developer Emaar has been named title partner of the 2026 Dubai leg of the Premier Padel P1 tour, one of the sport's top-tier global events. The sponsorship attaches Emaar's name to a rapidly growing padel circuit that has been attracting increasing commercial interest as the sport expands beyond Europe. It follows a broader pattern of Gulf-region developers and investment vehicles using racquet-sport sponsorships to raise their international profile."
+      },
+      "ja": {
+        "title": "エマール、ドバイ開催のプレミア・パデルP1のタイトルパートナーに",
+        "summary": "不動産開発会社エマールが、パデル世界最高峰ツアーの一つである「プレミア・パデルP1」の2026年ドバイ大会のタイトルパートナーに選ばれた。このスポンサー契約により、ヨーロッパ以外への競技拡大とともに商業的関心が急速に高まっているパデル・サーキットにエマールの名前が冠されることとなった。これは、ラケットスポーツへのスポンサーシップを通じて国際的な知名度向上を図る、湾岸地域のデベロッパーや投資会社による広範な動きの一例である。"
+      },
+      "es": {
+        "title": "Emaar, patrocinadora titular del torneo Premier Padel P1 de Dubái",
+        "summary": "La promotora inmobiliaria Emaar ha sido nombrada patrocinadora titular de la etapa de Dubái del circuito Premier Padel P1 2026, uno de los eventos globales de mayor nivel de este deporte. El patrocinio vincula el nombre de Emaar a un circuito de pádel en rápido crecimiento que atrae cada vez más interés comercial a medida que el deporte se expande más allá de Europa. Sigue un patrón más amplio de promotoras e inversores del Golfo que utilizan el patrocinio de deportes de raqueta para elevar su perfil internacional."
+      },
+      "zh": {
+        "title": "Emaar成为迪拜Premier Padel P1赛事冠名合作伙伴",
+        "summary": "地产开发商Emaar已被任命为2026年顶级欢乐网球(Premier Padel)P1巡回赛迪拜站的冠名赞助商,该赛事是这项运动的全球顶级赛事之一。此次赞助将Emaar的名字与这一快速发展的板式网球巡回赛联系在一起,随着该运动向欧洲以外地区扩张,其商业关注度也在持续上升。这延续了海湾地区开发商和投资机构借助拍类运动赞助提升国际知名度的更广泛趋势。"
+      },
+      "fr": {
+        "title": "Emaar devient sponsor titre de l'étape de Dubaï du Premier Padel P1",
+        "summary": "Le promoteur immobilier Emaar a été désigné sponsor titre de l'étape de Dubaï du circuit Premier Padel P1 2026, l'un des événements mondiaux de plus haut niveau de ce sport. Ce partenariat associe le nom d'Emaar à un circuit de padel en pleine croissance qui attire un intérêt commercial croissant à mesure que ce sport se développe au-delà de l'Europe. Il s'inscrit dans une tendance plus large des promoteurs et fonds d'investissement du Golfe qui utilisent le sponsoring des sports de raquette pour accroître leur visibilité internationale."
+      }
+    }
+  },
+  {
+    "id": "t-mobile-arena-smkd-bbq-venue-partner-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-09-18T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-sept-18-2026-1234945267/",
+    "i18n": {
+      "en": {
+        "title": "T-Mobile Arena Adds SMKD BBQ as New Venue Partner",
+        "summary": "T-Mobile Arena in Las Vegas has added barbecue restaurant brand SMKD BBQ as a new venue partner, expanding the arena's roster of local food and beverage sponsors. The deal gives SMKD BBQ a branded presence inside the arena, which hosts NHL's Vegas Golden Knights along with concerts and other major events. It's part of a broader trend of arenas signing regional hospitality brands as venue partners alongside their larger naming-rights and title sponsors."
+      },
+      "ja": {
+        "title": "T-モバイル・アリーナ、SMKDバーベキューを新施設パートナーに追加",
+        "summary": "ラスベガスのT-モバイル・アリーナは、バーベキューレストランブランド「SMKDバーベキュー」を新たな施設パートナーとして加え、地元の飲食系スポンサー陣を拡充した。この契約により、SMKDバーベキューはNHLベガス・ゴールデンナイツのホームアリーナであり、コンサートなど大型イベントも開催される同施設内でブランドを展開できるようになった。命名権パートナーやタイトルスポンサーといった大型契約に加え、地域の飲食ブランドを施設パートナーとして起用する動きが広がっていることを示す一例である。"
+      },
+      "es": {
+        "title": "El T-Mobile Arena incorpora a SMKD BBQ como nuevo socio del recinto",
+        "summary": "El T-Mobile Arena de Las Vegas ha incorporado a la marca de restaurantes de barbacoa SMKD BBQ como nuevo socio del recinto, ampliando su cartera de patrocinadores locales de comida y bebida. El acuerdo otorga a SMKD BBQ presencia de marca dentro de la arena, sede de los Vegas Golden Knights de la NHL además de conciertos y otros grandes eventos. Forma parte de una tendencia más amplia de arenas que firman con marcas de hostelería regionales como socios del recinto junto a sus patrocinadores de mayor peso, como los de naming rights."
+      },
+      "zh": {
+        "title": "T-Mobile体育馆新增SMKD BBQ为场馆合作伙伴",
+        "summary": "拉斯维加斯T-Mobile体育馆已引入烧烤餐厅品牌SMKD BBQ作为新的场馆合作伙伴,进一步扩充了场馆的本地餐饮赞助商阵容。该协议使SMKD BBQ能够在这座NHL维加斯金骑士队主场、同时也举办演唱会等大型活动的场馆内展示品牌。这也是场馆在冠名权和冠名赞助商之外,签约区域餐饮品牌作为场馆合作伙伴这一更广泛趋势的体现。"
+      },
+      "fr": {
+        "title": "Le T-Mobile Arena ajoute SMKD BBQ comme nouveau partenaire du site",
+        "summary": "Le T-Mobile Arena de Las Vegas a ajouté la chaîne de restauration barbecue SMKD BBQ comme nouveau partenaire du site, élargissant son portefeuille de sponsors locaux de restauration. L'accord offre à SMKD BBQ une présence de marque au sein de l'arène, qui accueille les Vegas Golden Knights de la LNH ainsi que des concerts et d'autres grands événements. Cela s'inscrit dans une tendance plus large des arénas signant avec des marques d'hôtellerie régionales comme partenaires de site, en complément de leurs sponsors de naming rights plus importants."
+      }
+    }
+  },
+  {
+    "id": "sporting-kansas-city-mallouk-700m-sale-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-01-16T00:00:00Z",
+    "source_name": "Forbes",
+    "source_url": "https://www.forbes.com/sites/justinbirnbaum/2026/01/16/sporting-kansas-city-is-being-sold-for-roughly-700-million-an-mls-record/",
+    "i18n": {
+      "en": {
+        "title": "Sporting Kansas City Sold for MLS-Record $700 Million Valuation",
+        "summary": "Sporting Kansas City's ownership group, led by the Illig family, has agreed to sell a majority stake to minority owner Peter Mallouk at an enterprise valuation of roughly $700 million, an MLS record. Mallouk, CEO of wealth management firm Creative Planning, is expected to end up controlling around 80% of the club, while the Illig family retains a minority stake and stays involved in day-to-day management. The deal underscores how rapidly MLS club valuations have climbed alongside the league's broader growth."
+      },
+      "ja": {
+        "title": "スポーティング・カンザスシティ、MLS史上最高額7億ドルで売却",
+        "summary": "スポーティング・カンザスシティのオーナーグループ(イリグ家が主導)は、少数株主であるピーター・マルーク氏に対し、企業価値約7億ドルというMLS史上最高額での過半数株式売却に合意した。資産運用会社クリエイティブ・プランニングのCEOであるマルーク氏は、最終的に約80%の株式を保有する見込みで、イリグ家は少数株を保持しつつ日常経営への関与も続けるとされている。この取引は、MLSの成長とともにクラブの企業価値がいかに急速に上昇しているかを示すものとなった。"
+      },
+      "es": {
+        "title": "Sporting Kansas City se vende a una valoración récord de la MLS de 700 millones de dólares",
+        "summary": "El grupo propietario de Sporting Kansas City, encabezado por la familia Illig, acordó vender una participación mayoritaria al accionista minoritario Peter Mallouk a una valoración empresarial de aproximadamente 700 millones de dólares, un récord en la MLS. Mallouk, director ejecutivo de la firma de gestión patrimonial Creative Planning, controlaría finalmente alrededor del 80% del club, mientras que la familia Illig conserva una participación minoritaria y continúa involucrada en la gestión diaria. El acuerdo pone de relieve la rapidez con la que han subido las valoraciones de los clubes de la MLS junto con el crecimiento general de la liga."
+      },
+      "zh": {
+        "title": "体育堪萨斯城以7亿美元创MLS估值纪录出售",
+        "summary": "以伊利格家族为首的体育堪萨斯城队(Sporting Kansas City)所有者团队已同意以约7亿美元的企业估值,将多数股权出售给少数股东彼得·马鲁克(Peter Mallouk),创下MLS纪录。财富管理公司Creative Planning首席执行官马鲁克预计最终将持有该俱乐部约80%的股份,而伊利格家族将保留少数股份并继续参与日常管理。这笔交易凸显出随着联赛整体发展,MLS俱乐部估值飙升的速度之快。"
+      },
+      "fr": {
+        "title": "Le Sporting Kansas City vendu pour une valorisation record de 700 millions de dollars en MLS",
+        "summary": "Le groupe propriétaire du Sporting Kansas City, dirigé par la famille Illig, a accepté de céder une participation majoritaire à l'actionnaire minoritaire Peter Mallouk pour une valorisation d'entreprise d'environ 700 millions de dollars, un record en MLS. Mallouk, directeur général de la société de gestion de patrimoine Creative Planning, devrait finir par détenir environ 80 % du club, tandis que la famille Illig conserve une participation minoritaire et reste impliquée dans la gestion quotidienne. Cet accord illustre la rapidité avec laquelle les valorisations des clubs de MLS ont grimpé, à mesure que la ligue poursuit sa croissance."
+      }
+    }
   }
 ]
