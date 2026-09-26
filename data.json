@@ -1282,5 +1282,275 @@
         "summary": "Une société d'investissement basée à New York a déposé une offre concurrente pour la future franchise d'expansion de la NBA à Seattle, proposant de construire une nouvelle arena sur des terres des tribus Tulalip, dans la ville voisine de Marysville, plutôt qu'à Seattle même. Cette offre rivale ajoute de l'incertitude à un processus déjà compliqué par la vente simultanée, à plusieurs milliards de dollars, des Seahawks de Seattle, alors que la ligue évalue des frais d'expansion évoqués entre 7 et 10 milliards de dollars."
       }
     }
+  },
+  {
+    "id": "chelsea-fpt-digital-partnership-extension-2026-27",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "tech",
+      "sponsor"
+    ],
+    "published_at": "2026-08-27T00:00:00Z",
+    "source_name": "Chelsea FC",
+    "source_url": "https://www.chelseafc.com/en/news/article/chelsea-and-fpt-extend-strategic-partnership-into-2026-27-season",
+    "i18n": {
+      "en": {
+        "title": "Chelsea Extend Digital Transformation Partnership With FPT Into 2026/27",
+        "summary": "Chelsea have extended their technology partnership with Vietnamese IT firm FPT into the 2026/27 season, continuing a collaboration that began in 2025. The deal covers fan-facing platforms such as a mobile click-and-collect store and a global supporters-club hub, alongside broader digital transformation projects at the club."
+      },
+      "ja": {
+        "title": "チェルシー、FPTとのデジタル変革提携を2026-27シーズンまで延長",
+        "summary": "チェルシーはベトナムのIT企業FPTとの技術提携を2026-27シーズンまで延長した。両者は2025年からの協業を継続し、モバイル注文・受け取りストアや世界のサポーターズクラブ向けプラットフォームなど、ファン向けデジタル施策を拡大していく。"
+      },
+      "es": {
+        "title": "Chelsea amplía su alianza de transformación digital con FPT hasta 2026/27",
+        "summary": "Chelsea ha ampliado su alianza tecnológica con la firma vietnamita FPT hasta la temporada 2026/27, prolongando una colaboración iniciada en 2025. El acuerdo incluye plataformas orientadas a los aficionados, como una tienda de recogida móvil y un centro global para clubes de seguidores."
+      },
+      "zh": {
+        "title": "切尔西与FPT的数字化转型合作延长至2026-27赛季",
+        "summary": "切尔西宣布将与越南科技公司FPT的合作延长至2026-27赛季，双方自2025年开始的合作关系得以延续。协议涵盖移动端自提商店及全球球迷会中心等面向球迷的数字化项目。"
+      },
+      "fr": {
+        "title": "Chelsea prolonge son partenariat de transformation numérique avec FPT jusqu'en 2026/27",
+        "summary": "Chelsea a prolongé son partenariat technologique avec l'entreprise vietnamienne FPT jusqu'à la saison 2026/27, poursuivant une collaboration entamée en 2025. L'accord porte sur des plateformes destinées aux supporters, dont une boutique mobile de retrait et un espace mondial pour les clubs de fans."
+      }
+    }
+  },
+  {
+    "id": "texas-tech-galaxy-stadium-naming-rights-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-07-17T00:00:00Z",
+    "source_name": "Texas Tech Athletics",
+    "source_url": "https://texastech.com/news/2026/7/17/football-texas-tech-secures-landmark-naming-rights-agreement-with-galaxy",
+    "i18n": {
+      "en": {
+        "title": "Texas Tech Renames Football Stadium Galaxy Stadium in $75M Naming-Rights Deal",
+        "summary": "Texas Tech has signed a 15-year, $75 million naming-rights agreement with technology infrastructure company Galaxy, renaming its home football venue Galaxy Stadium starting with the 2026 season. The Red Raiders played their first game under the new name on September 5 against Abilene Christian."
+      },
+      "ja": {
+        "title": "テキサス・テック大、7500万ドルの命名権契約でスタジアムを「ギャラクシー・スタジアム」に改称",
+        "summary": "テキサス・テック大学はテクノロジーインフラ企業ギャラクシーと15年総額7500万ドルの命名権契約を締結し、2026年シーズンからフットボール本拠地を「ギャラクシー・スタジアム」に改称した。レッド・レイダーズは9月5日のアビリーン・クリスチャン戦で新名称初戦を迎えた。"
+      },
+      "es": {
+        "title": "Texas Tech renombra su estadio como Galaxy Stadium en un acuerdo de 75 millones de dólares",
+        "summary": "Texas Tech firmó un acuerdo de naming rights por 15 años y 75 millones de dólares con la empresa de infraestructura tecnológica Galaxy, renombrando su estadio de fútbol americano como Galaxy Stadium desde la temporada 2026. Los Red Raiders disputaron su primer partido con el nuevo nombre el 5 de septiembre ante Abilene Christian."
+      },
+      "zh": {
+        "title": "德州理工大学7500万美元冠名协议将球场更名为Galaxy Stadium",
+        "summary": "德州理工大学与科技基础设施公司Galaxy签署为期15年、总价7500万美元的冠名权协议，自2026赛季起将其橄榄球主场更名为Galaxy Stadium。红色突袭者队于9月5日对阵阿比林基督教大学的比赛中首次启用新场馆名称。"
+      },
+      "fr": {
+        "title": "Texas Tech rebaptise son stade Galaxy Stadium dans un accord de naming à 75 millions de dollars",
+        "summary": "Texas Tech a signé un accord de naming de 15 ans, d'une valeur de 75 millions de dollars, avec l'entreprise d'infrastructures technologiques Galaxy, rebaptisant son stade de football américain Galaxy Stadium dès la saison 2026. Les Red Raiders ont disputé leur premier match sous ce nouveau nom le 5 septembre face à Abilene Christian."
+      }
+    }
+  },
+  {
+    "id": "arkansas-communityamerica-razorback-stadium-naming-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-06-24T00:00:00Z",
+    "source_name": "WholeHogSports",
+    "source_url": "https://www.wholehogsports.com/news/2026/jun/24/arkansas-football-community-america-razorback-stadium-naming-rights-deal-donald-w-reynolds/",
+    "i18n": {
+      "en": {
+        "title": "Arkansas Signs Record-Value Naming Deal With CommunityAmerica for Razorback Stadium",
+        "summary": "Arkansas has agreed to a 14-year, roughly $70 million naming-rights deal with CommunityAmerica Credit Union, renaming Donald W. Reynolds Razorback Stadium as CommunityAmerica Razorback Stadium starting with the 2027 season. The average annual value reportedly surpasses the previous record college football stadium naming deal between USC and United Airlines."
+      },
+      "ja": {
+        "title": "アーカンソー大、CommunityAmericaと過去最高水準のスタジアム命名権契約",
+        "summary": "アーカンソー大学はCommunityAmericaクレジットユニオンと14年・総額約7000万ドルの命名権契約を結び、2027年シーズンから本拠地スタジアムを「コミュニティアメリカ・レイザーバック・スタジアム」に改称する。年平均額は、これまで最高額とされたUSCとユナイテッド航空の契約を上回るとされる。"
+      },
+      "es": {
+        "title": "Arkansas firma un acuerdo récord de naming con CommunityAmerica para su estadio",
+        "summary": "Arkansas acordó un contrato de naming rights por 14 años y unos 70 millones de dólares con CommunityAmerica Credit Union, que renombrará su estadio como CommunityAmerica Razorback Stadium a partir de la temporada 2027. Su valor medio anual superaría el anterior récord universitario, fijado por USC y United Airlines."
+      },
+      "zh": {
+        "title": "阿肯色大学与CommunityAmerica签署创纪录球场冠名协议",
+        "summary": "阿肯色大学与CommunityAmerica信用合作社达成为期14年、总额约7000万美元的冠名权协议，自2027赛季起将主场更名为CommunityAmerica Razorback Stadium。据报道，其年均价值超过此前南加州大学与美国联合航空创下的大学橄榄球场冠名纪录。"
+      },
+      "fr": {
+        "title": "Arkansas signe un accord de naming record avec CommunityAmerica pour son stade",
+        "summary": "Arkansas a conclu un accord de naming de 14 ans, d'environ 70 millions de dollars, avec CommunityAmerica Credit Union, qui rebaptisera son stade CommunityAmerica Razorback Stadium dès la saison 2027. Sa valeur annuelle moyenne dépasserait le précédent record universitaire établi entre USC et United Airlines."
+      }
+    }
+  },
+  {
+    "id": "tampa-bay-rays-webull-jersey-patch-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-03-19T00:00:00Z",
+    "source_name": "MLB.com",
+    "source_url": "https://www.mlb.com/news/rays-announce-webull-will-be-corporate-jersey-patch-sponsor-2026",
+    "i18n": {
+      "en": {
+        "title": "Rays Name Webull as First-Ever Jersey Patch Sponsor",
+        "summary": "The Tampa Bay Rays named online brokerage Webull as their first-ever corporate jersey patch sponsor for the 2026 season. The commemorative patch design incorporates fabric elements referencing the original Tropicana Field roof, which was damaged during Hurricane Milton in 2024."
+      },
+      "ja": {
+        "title": "レイズ、Webullを球団史上初のユニフォームパッチ・スポンサーに",
+        "summary": "タンパベイ・レイズはオンライン証券Webullを2026年シーズンの初代ユニフォームパッチ・スポンサーに起用すると発表した。記念パッチのデザインには、2024年のハリケーン「ミルトン」で損傷したトロピカーナ・フィールドの旧屋根素材にちなんだ要素が取り入れられている。"
+      },
+      "es": {
+        "title": "Los Rays nombran a Webull su primer patrocinador de parche en la camiseta",
+        "summary": "Los Tampa Bay Rays designaron a la correduría en línea Webull como su primer patrocinador de parche corporativo en la camiseta para la temporada 2026. El diseño conmemorativo del parche incorpora elementos de tela que evocan el antiguo techo de Tropicana Field, dañado por el huracán Milton en 2024."
+      },
+      "zh": {
+        "title": "光芒队宣布Webull为队史首位球衣贴布赞助商",
+        "summary": "坦帕湾光芒队宣布，在线券商Webull将成为球队2026赛季首位球衣广告贴布赞助商。这款纪念版贴布设计融入了2024年“米尔顿”飓风中受损的热带体育场原屋顶材质元素。"
+      },
+      "fr": {
+        "title": "Les Rays nomment Webull premier sponsor de patch sur leur maillot",
+        "summary": "Les Rays de Tampa Bay ont désigné le courtier en ligne Webull comme premier sponsor de patch commémoratif sur leur maillot pour la saison 2026. Le motif du patch intègre des éléments de tissu évoquant l'ancien toit du Tropicana Field, endommagé par l'ouragan Milton en 2024."
+      }
+    }
+  },
+  {
+    "id": "white-sox-cme-group-jersey-patch-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-01-28T00:00:00Z",
+    "source_name": "CME Group",
+    "source_url": "https://www.cmegroup.com/media-room/press-releases/2026/1/28/cme_group_named_asfirst-everchicagowhitesoxjerseypatchsponsor.html",
+    "i18n": {
+      "en": {
+        "title": "White Sox Name CME Group First-Ever Jersey Patch Sponsor",
+        "summary": "The Chicago White Sox and derivatives marketplace operator CME Group signed a multiyear agreement making CME Group the team's first-ever jersey patch sponsor, announced ahead of the 2026 season. The deal made the White Sox one of the final MLB clubs to add a sponsored jersey patch, as the league neared a full 30-team slate."
+      },
+      "ja": {
+        "title": "ホワイトソックス、CMEグループを球団史上初のユニフォームパッチ・スポンサーに",
+        "summary": "シカゴ・ホワイトソックスはデリバティブ取引所運営会社CMEグループと複数年契約を締結し、球団史上初のユニフォームパッチ・スポンサーとして2026年シーズン開幕前に発表した。これによりホワイトソックスはMLB全30球団がパッチスポンサーを持つ体制に加わる最後発クラブの一つとなった。"
+      },
+      "es": {
+        "title": "Los White Sox nombran a CME Group su primer patrocinador de parche en la camiseta",
+        "summary": "Los Chicago White Sox y el operador de mercados de derivados CME Group firmaron un acuerdo plurianual que convierte a CME Group en el primer patrocinador de parche en la camiseta del equipo, anunciado antes de la temporada 2026. Con este acuerdo, los White Sox se sumaron a los últimos equipos de la MLB en incorporar un parche patrocinado, completando casi la totalidad de las 30 franquicias."
+      },
+      "zh": {
+        "title": "白袜队宣布芝商所为队史首位球衣贴布赞助商",
+        "summary": "芝加哥白袜队与衍生品交易所运营商芝商所（CME Group）签署多年协议，使其成为球队历史上首位球衣广告贴布赞助商，该协议于2026赛季开赛前宣布。白袜队也因此成为美职棒大联盟30支球队几乎全部拥有赞助贴布之列中较晚加入的球队之一。"
+      },
+      "fr": {
+        "title": "Les White Sox nomment CME Group premier sponsor de patch sur leur maillot",
+        "summary": "Les White Sox de Chicago et l'opérateur de marchés dérivés CME Group ont signé un accord pluriannuel faisant de CME Group le tout premier sponsor de patch sur le maillot de l'équipe, annoncé avant la saison 2026. Cet accord a fait des White Sox l'une des dernières équipes de MLB à ajouter un patch sponsorisé, la ligue approchant ainsi la totalité de ses 30 franchises."
+      }
+    }
+  },
+  {
+    "id": "npb-pacific-league-nifco-sponsorship-renewal-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-03-26T00:00:00Z",
+    "source_name": "Pacific League Marketing",
+    "source_url": "https://pacificleague.com/en/news/2026/3/81007",
+    "i18n": {
+      "en": {
+        "title": "Pacific League Renews League Sponsorship With Nifco for Second Term",
+        "summary": "Pacific League Marketing and the six Pacific League baseball clubs renewed their league-wide sponsorship agreement with automotive parts maker Nifco Corporation for a second consecutive term. The deal covers in-stadium advertising and starting-pitcher announcement sponsorship across Pacific League ballparks for the 2026 season."
+      },
+      "ja": {
+        "title": "パ・リーグ、ニフコとのリーグスポンサー契約を2期連続で更新",
+        "summary": "パシフィックリーグマーケティングとパ・リーグ6球団は、自動車部品メーカーのニフコと2期連続となるリーグスポンサーシップ契約を更新した。契約は2026年シーズン、パ・リーグ各球場での広告掲出や予告先発発表のスポンサー枠を対象とする。"
+      },
+      "es": {
+        "title": "La Pacific League renueva su patrocinio de liga con Nifco por segundo período",
+        "summary": "Pacific League Marketing y los seis clubes de béisbol de la Pacific League renovaron su acuerdo de patrocinio a nivel de liga con el fabricante de componentes para automóviles Nifco Corporation por segundo período consecutivo. El contrato cubre publicidad en los estadios y el patrocinio del anuncio de lanzadores abridores durante la temporada 2026."
+      },
+      "zh": {
+        "title": "太平洋联盟与Nifco续签联盟级赞助协议进入第二期",
+        "summary": "太平洋联盟营销公司与太平洋联盟六支球队与汽车零部件制造商Nifco续签了连续第二期的联盟级赞助协议。该协议覆盖2026赛季太平洋联盟各球场的广告投放及先发投手预告环节的冠名权。"
+      },
+      "fr": {
+        "title": "La Pacific League renouvelle pour la deuxième fois son partenariat avec Nifco",
+        "summary": "Pacific League Marketing et les six clubs de baseball de la Pacific League ont renouvelé pour la deuxième fois consécutive leur accord de sponsoring à l'échelle de la ligue avec le fabricant de pièces automobiles Nifco Corporation. L'accord couvre la publicité dans les stades et le parrainage de l'annonce des lanceurs partants pour la saison 2026."
+      }
+    }
+  },
+  {
+    "id": "jleague-fantasy-card-mynet-2026-27-edition1",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "fan",
+      "tech"
+    ],
+    "published_at": "2026-07-30T00:00:00Z",
+    "source_name": "Mynet",
+    "source_url": "https://www.mynet.co.jp/news/press/jfc_26-27edition1",
+    "i18n": {
+      "en": {
+        "title": "Mynet Launches 2026/27 Season Edition of Official J.League Fantasy Card App",
+        "summary": "Mobile game developer Mynet released the 2026/27 season edition of \"J.LEAGUE FANTASY CARD,\" its officially licensed trading-card and fantasy sports app built around J.League players. The free-to-play service lets fans collect digital player cards whose in-game value shifts based on real match performances such as goals and assists."
+      },
+      "ja": {
+        "title": "マイネット、公認アプリ「J.LEAGUE FANTASY CARD」2026-27シーズン版を配信開始",
+        "summary": "モバイルゲーム開発会社マイネットは、Jリーグ公認のトレーディングカード×ファンタジースポーツアプリ「J.LEAGUE FANTASY CARD」の2026-27シーズン版を配信開始した。基本無料のこのサービスでは、選手のデジタルカードを収集でき、ゴールやアシストなど実際の試合結果に応じてカードの価値が変動する。"
+      },
+      "es": {
+        "title": "Mynet lanza la edición 2026/27 de la app oficial J.League Fantasy Card",
+        "summary": "La desarrolladora de juegos móviles Mynet lanzó la edición de la temporada 2026/27 de \"J.LEAGUE FANTASY CARD\", su aplicación oficial de cartas coleccionables y fantasy deportivo basada en jugadores de la J.League. El servicio gratuito permite a los aficionados coleccionar cartas digitales cuyo valor varía según el rendimiento real de los jugadores, como goles y asistencias."
+      },
+      "zh": {
+        "title": "Mynet发布官方授权应用《J.LEAGUE FANTASY CARD》2026-27赛季版",
+        "summary": "移动游戏开发商Mynet发布了官方授权的J联赛集换卡牌与梦幻体育应用《J.LEAGUE FANTASY CARD》2026-27赛季版本。该免费服务让球迷收集球员数字卡牌，卡牌价值会根据进球、助攻等真实比赛表现而变化。"
+      },
+      "fr": {
+        "title": "Mynet lance l'édition saison 2026/27 de l'application officielle J.League Fantasy Card",
+        "summary": "Le développeur de jeux mobiles Mynet a lancé l'édition saison 2026/27 de « J.LEAGUE FANTASY CARD », son application officielle de cartes à collectionner et de fantasy sport basée sur les joueurs de J.League. Ce service gratuit permet aux supporters de collectionner des cartes numériques de joueurs dont la valeur évolue selon les performances réelles en match, comme les buts et les passes décisives."
+      }
+    }
+  },
+  {
+    "id": "darkzero-esports-acquires-nrg-2025",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2025-12-19T00:00:00Z",
+    "source_name": "HLTV.org",
+    "source_url": "https://www.hltv.org/news/43480/nrg-acquired-by-darkzero",
+    "i18n": {
+      "en": {
+        "title": "DarkZero Esports Acquires NRG in Major Industry Consolidation",
+        "summary": "Esports organization DarkZero Esports acquired the competitive gaming assets of NRG, consolidating rosters under the DarkZero brand in one of the year's larger esports industry mergers. The deal reflects continued consolidation among North American esports organizations amid tighter sponsorship and franchise economics."
+      },
+      "ja": {
+        "title": "DarkZero Esports、NRGを買収 業界再編の大型案件に",
+        "summary": "eスポーツ団体DarkZero Esportsは、NRGの競技部門資産を買収し、選手ロースターをDarkZeroブランドに統合した。今年のeスポーツ業界における大型再編の一つで、スポンサー収入や大会経済の厳しさを背景とした北米eスポーツ団体の統合傾向を映すものとなった。"
+      },
+      "es": {
+        "title": "DarkZero Esports adquiere NRG en una gran consolidación del sector",
+        "summary": "La organización de esports DarkZero Esports adquirió los activos competitivos de NRG, integrando sus plantillas bajo la marca DarkZero en una de las mayores fusiones del sector este año. El acuerdo refleja la continua consolidación entre organizaciones norteamericanas de esports en un contexto de patrocinios y economía de franquicias más ajustados."
+      },
+      "zh": {
+        "title": "DarkZero Esports收购NRG 成电竞行业重大整合案例",
+        "summary": "电竞组织DarkZero Esports收购了NRG的竞技资产，将其战队阵容整合至DarkZero品牌旗下，成为今年电竞行业规模较大的整合案例之一。这笔交易反映出在赞助收入和联赛经济收紧的背景下，北美电竞组织持续整合的趋势。"
+      },
+      "fr": {
+        "title": "DarkZero Esports rachète NRG dans une importante consolidation du secteur",
+        "summary": "L'organisation d'esport DarkZero Esports a racheté les actifs compétitifs de NRG, regroupant les effectifs sous la marque DarkZero, l'une des plus importantes fusions du secteur cette année. Cet accord illustre la consolidation continue des organisations d'esport nord-américaines dans un contexte de sponsoring et d'économie de franchise plus tendu."
+      }
+    }
   }
 ]
