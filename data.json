@@ -7127,5 +7127,174 @@
         "summary": "Le fabricant d'équipements de sécurité Rapiscan, une division d'OSI Systems, a été désigné fournisseur officiel de technologies de contrôle physique et de sécurité pour les Jeux olympiques et paralympiques de Los Angeles 2028. Ce partenariat pluriannuel fournira du matériel et des logiciels de contrôle destinés à aider les organisateurs à gérer les opérations de sécurité sur les sites des Jeux."
       }
     }
+  },
+  {
+    "id": "salesforce-vcarb-f1-fan-engagement",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "tech",
+      "fan",
+      "sponsor"
+    ],
+    "published_at": "2026-06-10T00:00:00Z",
+    "source_name": "Salesforce",
+    "source_url": "https://sector.world/2026/06/salesforce-doubles-down-on-f1-with-racing-bulls-fan-engagement-deal/",
+    "i18n": {
+      "en": {
+        "title": "Salesforce Expands F1 Footprint With Visa Cash App Racing Bulls Fan Engagement Deal",
+        "summary": "Salesforce and the Visa Cash App Racing Bulls Formula 1 team unveiled a partnership built around Agentforce 360 and Slack, aimed at connecting fan communities, hospitality operations and race-day logistics on one platform. The deal adds a garage-side dashboard system that turns live telemetry into visual displays for fans and VIP guests, and marks Salesforce's second team-level tie-up on the F1 grid."
+      },
+      "ja": {
+        "title": "セールスフォース、ビザ・キャッシュアップ・レーシングブルズとF1ファンエンゲージメント契約を拡大",
+        "summary": "セールスフォースはF1チームのビザ・キャッシュアップ・レーシングブルズと提携し、Agentforce 360とSlackを活用してファンコミュニティ、接客対応、レース運営を一つのプラットフォームに統合する取り組みを発表した。ガレージ内にはリアルタイムのデータを可視化する表示システムも導入され、これはセールスフォースにとってF1参戦チームとの2件目の提携となる。"
+      },
+      "es": {
+        "title": "Salesforce amplía su presencia en la F1 con un acuerdo de fidelización de aficionados con Visa Cash App Racing Bulls",
+        "summary": "Salesforce y el equipo de Fórmula 1 Visa Cash App Racing Bulls presentaron una alianza basada en Agentforce 360 y Slack, pensada para unificar comunidades de aficionados, operaciones de hospitalidad y la logística del día de carrera en una sola plataforma. El acuerdo incorpora un sistema de pantallas en el garaje que convierte la telemetría en tiempo real en visualizaciones para aficionados e invitados VIP, y supone la segunda alianza de Salesforce a nivel de equipo en la F1."
+      },
+      "zh": {
+        "title": "Salesforce扩大F1业务版图，与Visa Cash App Racing Bulls达成球迷互动合作",
+        "summary": "Salesforce与F1车队Visa Cash App Racing Bulls宣布合作，双方将利用Agentforce 360和Slack将车迷社区、接待服务与比赛日后勤整合到同一平台上。该协议还为车库引入了实时数据可视化展示系统，供车迷和贵宾使用，这是Salesforce在F1车队层面达成的第二项合作。"
+      },
+      "fr": {
+        "title": "Salesforce renforce sa présence en F1 avec un accord d'engagement des fans avec Visa Cash App Racing Bulls",
+        "summary": "Salesforce et l'écurie de Formule 1 Visa Cash App Racing Bulls ont dévoilé un partenariat reposant sur Agentforce 360 et Slack, destiné à réunir communautés de fans, opérations d'accueil et logistique des jours de course sur une seule plateforme. L'accord ajoute dans le garage un système d'affichage qui transforme la télémétrie en direct en visuels pour les fans et invités VIP, et constitue le deuxième partenariat de Salesforce au niveau d'une écurie en F1."
+      }
+    }
+  },
+  {
+    "id": "visa-red-bull-f1-renewal-2030",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-02-19T00:00:00Z",
+    "source_name": "Visa",
+    "source_url": "https://investor.visa.com/news/news-details/2026/Visa-Renews-Partnership-Across-Red-Bull-Formula-One-Teams/default.aspx",
+    "i18n": {
+      "en": {
+        "title": "Visa Renews and Expands Red Bull Formula One Sponsorship Through 2030",
+        "summary": "Visa has renewed and broadened its global partnership with Oracle Red Bull Racing and Visa Cash App Racing Bulls, extending the arrangement through the 2030 season. The refreshed deal adds branding rights and hospitality access across both teams and keeps Visa's title backing of the Racing Bulls Academy programme for young and female drivers."
+      },
+      "ja": {
+        "title": "ビザ、レッドブルF1チームとのスポンサー契約を2030年まで更新・拡大",
+        "summary": "ビザはオラクル・レッドブル・レーシングおよびビザ・キャッシュアップ・レーシングブルズとのグローバル提携を更新し、契約を2030年シーズンまで延長すると発表した。刷新された契約では両チームにまたがるブランディング権や接客対応の機会が拡大されるほか、若手・女性ドライバー育成プログラムへの冠スポンサー支援も継続される。"
+      },
+      "es": {
+        "title": "Visa renueva y amplía su patrocinio de las escuderías de Fórmula 1 de Red Bull hasta 2030",
+        "summary": "Visa ha renovado y ampliado su alianza global con Oracle Red Bull Racing y Visa Cash App Racing Bulls, extendiendo el acuerdo hasta la temporada 2030. El contrato renovado añade derechos de marca y acceso a hospitalidad en ambos equipos y mantiene el patrocinio principal de Visa al programa Racing Bulls Academy para pilotos jóvenes y femeninas."
+      },
+      "zh": {
+        "title": "Visa将与红牛F1车队的赞助合作续约并扩展至2030年",
+        "summary": "Visa宣布与甲骨文红牛车队及Visa Cash App Racing Bulls的全球合作续约，协议延长至2030赛季。此次更新的合作为两支车队增加了品牌露出权益与接待礼遇，并继续冠名赞助面向青年及女性车手的Racing Bulls学院项目。"
+      },
+      "fr": {
+        "title": "Visa renouvelle et élargit son partenariat avec les écuries de Formule 1 de Red Bull jusqu'en 2030",
+        "summary": "Visa a renouvelé et élargi son partenariat mondial avec Oracle Red Bull Racing et Visa Cash App Racing Bulls, prolongeant l'accord jusqu'à la saison 2030. Le contrat actualisé ajoute des droits de marque et un accès aux espaces d'accueil pour les deux écuries, tout en maintenant le parrainage principal du programme Racing Bulls Academy destiné aux jeunes pilotes et aux pilotes féminines."
+      }
+    }
+  },
+  {
+    "id": "csk-ashok-leyland-ipl-sponsor",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-03-06T00:00:00Z",
+    "source_name": "Business Standard",
+    "source_url": "https://www.business-standard.com/cricket/ipl/ipl-2026-ashok-leyland-named-principal-sponsor-by-chennai-super-kings-126030601078_1.html",
+    "i18n": {
+      "en": {
+        "title": "Chennai Super Kings Name Ashok Leyland as New IPL Principal Sponsor",
+        "summary": "Commercial vehicle maker Ashok Leyland has been named the new principal sponsor of Chennai Super Kings for the Indian Premier League season. The tie-up is part of a wider trend this year of IPL franchises signing brands from manufacturing, aviation and clean energy rather than the fantasy-gaming firms that had dominated jersey sponsorship in recent seasons."
+      },
+      "ja": {
+        "title": "チェンナイ・スーパーキングス、アショク・レイランドを新プリンシパルスポンサーに指名",
+        "summary": "商用車メーカーのアショク・レイランドが、インディアン・プレミアリーグ（IPL）に参戦するチェンナイ・スーパーキングスの新たなプリンシパルスポンサーに指名された。今季のIPLでは、近年ユニフォームスポンサーの主流だったファンタジーゲーム系企業に代わり、製造業や航空、クリーンエネルギー分野のブランドと契約する球団が増える傾向にある。"
+      },
+      "es": {
+        "title": "Chennai Super Kings nombra a Ashok Leyland su nuevo patrocinador principal en la IPL",
+        "summary": "El fabricante de vehículos comerciales Ashok Leyland ha sido nombrado nuevo patrocinador principal de Chennai Super Kings para la temporada de la Indian Premier League. La alianza forma parte de una tendencia más amplia este año, en la que franquicias de la IPL están fichando marcas de manufactura, aviación y energía limpia en lugar de las firmas de juegos de fantasía que dominaban el patrocinio de camisetas en temporadas recientes."
+      },
+      "zh": {
+        "title": "钦奈超级国王队宣布阿育王汽车为IPL新任主赞助商",
+        "summary": "商用车制造商阿育王汽车已被任命为本赛季印度超级联赛（IPL）钦奈超级国王队的新任主赞助商。这一合作也反映出本赛季的更广泛趋势——多支IPL球队开始引入制造业、航空及清洁能源类品牌，取代近几个赛季主导球衣赞助的梦幻游戏类公司。"
+      },
+      "fr": {
+        "title": "Chennai Super Kings nomme Ashok Leyland nouveau sponsor principal en IPL",
+        "summary": "Le constructeur de véhicules utilitaires Ashok Leyland a été nommé nouveau sponsor principal de Chennai Super Kings pour la saison de l'Indian Premier League. Ce partenariat s'inscrit dans une tendance plus large cette année, les franchises de l'IPL signant avec des marques issues de l'industrie, de l'aviation et de l'énergie propre plutôt qu'avec les entreprises de jeux fantastiques qui dominaient le sponsoring des maillots ces dernières saisons."
+      }
+    }
+  },
+  {
+    "id": "ai-plus-smartphone-ipl-mi-kkr-partner",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "tech",
+      "sponsor"
+    ],
+    "published_at": "2026-03-19T00:00:00Z",
+    "source_name": "Business Standard",
+    "source_url": "https://www.business-standard.com/content/press-releases-ani/ai-smartphone-signs-as-official-smartphone-partner-for-2-leading-ipl-teams-126031900620_1.html",
+    "i18n": {
+      "en": {
+        "title": "Ai+ Smartphone Signs as Official Smartphone Partner for Mumbai Indians and Kolkata Knight Riders",
+        "summary": "Handset brand Ai+ Smartphone has been signed as the official smartphone partner of both Mumbai Indians and Kolkata Knight Riders for the Indian Premier League season. The deal gives the brand visibility across two of the league's biggest fan bases and includes fan-facing perks such as player meet-and-greets and match tickets."
+      },
+      "ja": {
+        "title": "Ai+スマートフォン、ムンバイ・インディアンズとコルカタ・ナイト・ライダーズの公式スマートフォンパートナーに",
+        "summary": "スマートフォンブランドのAi+スマートフォンが、インディアン・プレミアリーグ（IPL）のムンバイ・インディアンズとコルカタ・ナイト・ライダーズ両球団の公式スマートフォンパートナーとして契約したことが発表された。この契約により同ブランドはリーグ屈指の2つの人気球団を通じた露出を得るほか、選手との交流会や試合チケットといったファン向け特典も提供される。"
+      },
+      "es": {
+        "title": "Ai+ Smartphone firma como socio oficial de telefonía de Mumbai Indians y Kolkata Knight Riders",
+        "summary": "La marca de teléfonos Ai+ Smartphone ha sido confirmada como socio oficial de telefonía tanto de Mumbai Indians como de Kolkata Knight Riders para la temporada de la Indian Premier League. El acuerdo da visibilidad a la marca entre dos de las mayores bases de aficionados de la liga e incluye beneficios para los fans, como encuentros con jugadores y entradas para los partidos."
+      },
+      "zh": {
+        "title": "Ai+智能手机成为孟买印度人队与加尔各答骑士队官方智能手机合作伙伴",
+        "summary": "手机品牌Ai+智能手机已签约成为印度超级联赛（IPL）孟买印度人队与加尔各答骑士队的官方智能手机合作伙伴。该协议使该品牌得以借助联赛两大人气球队提升曝光度，并为球迷提供球员见面会、比赛门票等专属福利。"
+      },
+      "fr": {
+        "title": "Ai+ Smartphone devient partenaire officiel téléphonie de Mumbai Indians et Kolkata Knight Riders",
+        "summary": "La marque de téléphones Ai+ Smartphone a été confirmée comme partenaire officiel téléphonie de Mumbai Indians et de Kolkata Knight Riders pour la saison de l'Indian Premier League. L'accord offre à la marque une visibilité auprès de deux des plus grandes bases de fans de la ligue et comprend des avantages pour les supporters, comme des rencontres avec les joueurs et des billets de match."
+      }
+    }
+  },
+  {
+    "id": "iss-securos-everbank-stadium-screening",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "tech",
+      "stadium"
+    ],
+    "published_at": "2026-09-25T18:00:00Z",
+    "source_name": "ISS",
+    "source_url": "https://issivs.com/stadiums-arenas/",
+    "i18n": {
+      "en": {
+        "title": "EverBank Stadium Deploys Under-Vehicle AI Screening System From ISS",
+        "summary": "EverBank Stadium, home of the Jacksonville Jaguars, has installed ISS's SecurOS under-vehicle surveillance system to screen vehicles entering the venue for security threats. The technology uses AI-assisted imaging to scan vehicle undercarriages automatically, reducing reliance on manual inspection during game-day security operations."
+      },
+      "ja": {
+        "title": "エバーバンク・スタジアム、ISS製の車両下部AIスクリーニングシステムを導入",
+        "summary": "ジャクソンビル・ジャガーズの本拠地エバーバンク・スタジアムは、施設に入場する車両のセキュリティ検査のためISS製の車両下部監視システム「SecurOS」を導入した。この技術はAIを活用した画像解析により車両の下部を自動でスキャンし、試合当日の警備における手作業での検査への依存を減らす。"
+      },
+      "es": {
+        "title": "El EverBank Stadium instala un sistema de inspección de vehículos con IA de ISS",
+        "summary": "El EverBank Stadium, sede de los Jacksonville Jaguars, ha instalado el sistema de vigilancia bajo vehículos SecurOS de ISS para inspeccionar los vehículos que ingresan al recinto en busca de amenazas de seguridad. La tecnología utiliza imágenes asistidas por inteligencia artificial para escanear automáticamente los bajos de los vehículos, reduciendo la dependencia de la inspección manual durante los operativos de seguridad en día de partido."
+      },
+      "zh": {
+        "title": "EverBank体育场部署ISS车底人工智能安检系统",
+        "summary": "杰克逊维尔美洲虎队主场EverBank体育场已安装ISS的SecurOS车底监控系统，用于对进入场馆的车辆进行安全排查。该技术借助人工智能辅助成像自动扫描车辆底盘，减少比赛日安保工作中对人工检查的依赖。"
+      },
+      "fr": {
+        "title": "L'EverBank Stadium déploie un système de contrôle des dessous de véhicules par IA signé ISS",
+        "summary": "L'EverBank Stadium, domicile des Jaguars de Jacksonville, a installé le système de surveillance sous véhicule SecurOS d'ISS afin de contrôler les véhicules entrant dans l'enceinte pour détecter d'éventuelles menaces. Cette technologie utilise l'imagerie assistée par intelligence artificielle pour scanner automatiquement le dessous des véhicules, réduisant le recours à l'inspection manuelle lors des dispositifs de sécurité les jours de match."
+      }
+    }
   }
 ]
