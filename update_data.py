@@ -107,7 +107,20 @@ for site_key, url in rss_urls.items():
     except Exception as e:
         print(f"Error fetching {site_key}: {e}")
 
-with open('data.json', 'w', encoding='utf-8') as f:
-    json.dump(articles_data, f, ensure_ascii=False, indent=2)
+try:
+    with open('data.json', encoding='utf-8') as f:
+        existing_data = json.load(f)
+except (FileNotFoundError, json.JSONDecodeError):
+    existing_data = []
 
-print("完了しました！")
+existing_urls = {a.get("source_url") for a in existing_data}
+merged_data = existing_data + [a for a in articles_data if a["source_url"] not in existing_urls]
+
+# Never let a failed or partial scrape (e.g. empty AI/API response) shrink or wipe
+# the live dataset. Only write when the merge grows or holds steady on the existing file.
+if len(merged_data) >= len(existing_data):
+    with open('data.json', 'w', encoding='utf-8') as f:
+        json.dump(merged_data, f, ensure_ascii=False, indent=2)
+    print(f"完了しました！({len(existing_data)} -> {len(merged_data)} 件)")
+else:
+    print(f"スキップ: 取得件数が既存データより少ないため書き込みを中止しました ({len(existing_data)} -> {len(merged_data)})")
