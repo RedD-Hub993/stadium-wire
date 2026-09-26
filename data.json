@@ -3453,5 +3453,276 @@
         "summary": "À l'occasion du coup d'envoi de sa saison 2026-27 le 22 septembre, la ligue japonaise de basketball B.League a dévoilé des collaborations tournées vers les supporters avec la marque de vêtements Uniqlo et les marques de jouets Tomica et Licca-chan. Ces partenariats intersectoriels visent à attirer un public plus jeune et familial au-delà des seuls passionnés de basketball."
       }
     }
+  },
+  {
+    "id": "memphis-fedex-jersey-patch-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "team",
+      "sponsor"
+    ],
+    "published_at": "2026-04-09T00:00:00Z",
+    "source_name": "University of Memphis Athletics",
+    "source_url": "https://gotigersgo.com/news/2026/4/9/general-fedex-and-memphis-athletics-announce-department-wide-jersey-patch-sponsorship",
+    "i18n": {
+      "en": {
+        "title": "Memphis Athletics Signs Department-Wide Jersey Patch Deal With FedEx",
+        "summary": "FedEx will place its logo on uniforms across all 19 Memphis Tigers varsity programs under a new multi-year sponsorship agreement branded \"Moving Memphis Athletics Forward.\" The Memphis-based shipping giant is also funding a name, image and likeness initiative worth $25 million over five years for Tigers athletes."
+      },
+      "ja": {
+        "title": "フェデックス、メンフィス大学アスレチックスと全部門ユニフォームパッチ契約",
+        "summary": "フェデックスがメンフィス大学アスレチックスと複数年契約を結び、全19の体育部門のユニフォームに同社のロゴを掲出することになった。この提携は「Moving Memphis Athletics Forward」と名付けられ、メンフィスを拠点とする物流大手は今後5年間で2500万ドル規模の選手向けNIL支援も行う。"
+      },
+      "es": {
+        "title": "FedEx firma un acuerdo de parche en la camiseta para todo el departamento deportivo de Memphis",
+        "summary": "FedEx llegó a un acuerdo multianual con el departamento deportivo de Memphis para colocar su logotipo en los uniformes de los 19 programas universitarios de los Tigers, bajo el lema \"Moving Memphis Athletics Forward\". La empresa de logística, con sede en Memphis, también financiará un programa de nombre, imagen y semejanza valorado en 25 millones de dólares durante cinco años."
+      },
+      "zh": {
+        "title": "联邦快递与孟菲斯大学体育部门签署全院球衣广告协议",
+        "summary": "联邦快递与孟菲斯大学体育部门签署多年赞助协议，将其标志印在该校19个大学代表队的球衣上，该合作被称为\"Moving Memphis Athletics Forward\"。这家总部位于孟菲斯的物流巨头还将在五年内出资2500万美元，用于支持球员的姓名、形象和肖像权（NIL）项目。"
+      },
+      "fr": {
+        "title": "FedEx signe un accord de patch sur maillot pour tout le département sportif de Memphis",
+        "summary": "FedEx a conclu un accord pluriannuel avec le département sportif de Memphis pour apposer son logo sur les maillots des 19 programmes universitaires des Tigers, dans le cadre d'un partenariat baptisé « Moving Memphis Athletics Forward ». Le géant de la logistique, basé à Memphis, financera également un programme NIL doté de 25 millions de dollars sur cinq ans."
+      }
+    }
+  },
+  {
+    "id": "usf-tampa-general-hospital-jersey-patch-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "team",
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-04-08T00:00:00Z",
+    "source_name": "USF Athletics",
+    "source_url": "https://gousfbulls.com/news/2026/4/8/football-usf-athletics-announces-landmark-jersey-partnership-with-tampa-general-hospital",
+    "i18n": {
+      "en": {
+        "title": "USF Football Adds Tampa General Hospital as Jersey Patch Partner",
+        "summary": "South Florida became the first college athletics program in the state to sign a jersey patch deal, putting Tampa General Hospital's logo on Bulls football uniforms starting with the 2026 season opener. The multi-year agreement extends a health care partnership between the two organizations that stretches back more than 25 years."
+      },
+      "ja": {
+        "title": "サウスフロリダ大学、タンパ・ジェネラル病院とユニフォームパッチ契約",
+        "summary": "サウスフロリダ大学は同州の大学スポーツ部門として初めてユニフォームパッチ契約を締結し、2026年シーズン開幕戦からブルズのフットボールユニフォームにタンパ・ジェネラル病院のロゴを掲出する。この複数年契約は、両組織が25年以上続けてきた医療提携関係をさらに拡大するものである。"
+      },
+      "es": {
+        "title": "El fútbol americano de USF incorpora a Tampa General Hospital como socio de parche en la camiseta",
+        "summary": "South Florida se convirtió en el primer programa deportivo universitario del estado en firmar un acuerdo de parche en la camiseta, colocando el logotipo del Tampa General Hospital en los uniformes de fútbol americano de los Bulls desde el partido inaugural de la temporada 2026. El acuerdo plurianual amplía una asociación sanitaria entre ambas organizaciones que se remonta a más de 25 años."
+      },
+      "zh": {
+        "title": "南佛罗里达大学橄榄球队签约坦帕综合医院为球衣广告合作伙伴",
+        "summary": "南佛罗里达大学成为该州首个签署球衣广告贴标协议的大学体育项目，从2026赛季揭幕战开始，坦帕综合医院的标志将出现在公牛队橄榄球队服上。这项多年协议延续了双方长达25年以上的医疗合作关系。"
+      },
+      "fr": {
+        "title": "Le football américain de USF ajoute Tampa General Hospital comme partenaire de patch sur maillot",
+        "summary": "South Florida est devenu le premier programme sportif universitaire de l'État à signer un accord de patch sur maillot, apposant le logo du Tampa General Hospital sur les maillots de football américain des Bulls dès le match d'ouverture de la saison 2026. Cet accord pluriannuel prolonge un partenariat de santé entre les deux organisations vieux de plus de 25 ans."
+      }
+    }
+  },
+  {
+    "id": "wyoming-tallgrass-energy-jersey-patch-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "team",
+      "sponsor"
+    ],
+    "published_at": "2026-04-06T00:00:00Z",
+    "source_name": "University of Wyoming Athletics",
+    "source_url": "https://gowyo.com/news/2026/4/6/general-tallgrass-named-first-ever-jersey-patch-partner-for-wyoming-athletics.aspx",
+    "i18n": {
+      "en": {
+        "title": "Tallgrass Becomes Wyoming's First-Ever Jersey Patch Sponsor",
+        "summary": "Energy infrastructure company Tallgrass signed a five-year, $4.5 million deal to become the first jersey patch partner for Wyoming football and men's and women's basketball. The agreement, arranged through Learfield's Wyoming Sports Properties, is the largest corporate contribution in the athletic department's history and will also help fund the school's revenue-sharing obligations to athletes."
+      },
+      "ja": {
+        "title": "タルグラス、ワイオミング大学史上初のユニフォームパッチスポンサーに",
+        "summary": "エネルギーインフラ企業タルグラスは、ワイオミング大学のフットボールおよび男女バスケットボールで初となるユニフォームパッチ契約を5年間450万ドルで締結した。リアフィールド社のワイオミング・スポーツ・プロパティーズを通じて成立したこの契約は同アスレチック局史上最大の企業からの資金提供で、選手への収益分配義務の財源確保にも役立つ。"
+      },
+      "es": {
+        "title": "Tallgrass se convierte en el primer patrocinador de parche en la camiseta de Wyoming",
+        "summary": "La empresa de infraestructura energética Tallgrass firmó un acuerdo de cinco años por 4.5 millones de dólares para convertirse en el primer patrocinador de parche en la camiseta de fútbol americano y baloncesto masculino y femenino de Wyoming. El acuerdo, gestionado a través de Wyoming Sports Properties de Learfield, es la mayor contribución corporativa en la historia del departamento deportivo y ayudará también a financiar las obligaciones de reparto de ingresos de la universidad con los atletas."
+      },
+      "zh": {
+        "title": "Tallgrass成为怀俄明大学史上首个球衣广告赞助商",
+        "summary": "能源基础设施公司Tallgrass签署了一项为期五年、价值450万美元的协议，成为怀俄明大学橄榄球队及男女篮球队史上首个球衣广告赞助商。这项通过Learfield旗下怀俄明体育资产部门达成的协议，是该校体育部历史上最大的一笔企业赞助，也将帮助资助学校对运动员的收入分成义务。"
+      },
+      "fr": {
+        "title": "Tallgrass devient le premier partenaire de patch sur maillot de Wyoming",
+        "summary": "L'entreprise d'infrastructures énergétiques Tallgrass a signé un contrat de cinq ans d'un montant de 4,5 millions de dollars pour devenir le premier partenaire de patch sur maillot du football américain et du basketball masculin et féminin de Wyoming. Cet accord, négocié via Wyoming Sports Properties de Learfield, constitue la plus importante contribution d'entreprise dans l'histoire du département sportif et contribuera également à financer les obligations de partage des revenus de l'université envers ses athlètes."
+      }
+    }
+  },
+  {
+    "id": "allegiant-stadium-north-entrance-upgrade-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "biz"
+    ],
+    "published_at": "2026-09-03T00:00:00Z",
+    "source_name": "NFL.com",
+    "source_url": "https://www.nfl.com/news/las-vegas-stadium-authority-approves-75-million-upgrades-allegiant-stadium",
+    "i18n": {
+      "en": {
+        "title": "Las Vegas Approves $75 Million in Public Funds for Allegiant Stadium Entrance Overhaul",
+        "summary": "The Las Vegas Stadium Authority approved $75 million in public funding toward a $158 million project to rebuild the congested north entrance at Allegiant Stadium, home of the Raiders. The Raiders will cover the remaining cost, with plans for an elevated pedestrian walkway and completion targeted before the venue hosts Super Bowl LXIII in early 2029."
+      },
+      "ja": {
+        "title": "ラスベガス、アレジアント・スタジアム入口改修に公的資金7500万ドルを承認",
+        "summary": "ラスベガス・スタジアム・オーソリティは、レイダースの本拠地アレジアント・スタジアムの混雑する北側入口を再整備する総額1億5800万ドルの計画に対し、公的資金7500万ドルの投入を承認した。残りの費用はレイダースが負担し、高架歩行者デッキの新設などを含む工事は2029年初めに予定される第63回スーパーボウル開催前の完成を目指す。"
+      },
+      "es": {
+        "title": "Las Vegas aprueba 75 millones de dólares en fondos públicos para renovar la entrada del Allegiant Stadium",
+        "summary": "La Autoridad del Estadio de Las Vegas aprobó 75 millones de dólares en fondos públicos para un proyecto de 158 millones destinado a rediseñar la congestionada entrada norte del Allegiant Stadium, sede de los Raiders. Los Raiders cubrirán el resto del costo, con planes para una pasarela peatonal elevada y la meta de terminar las obras antes de que el estadio albergue el Super Bowl LXIII a principios de 2029."
+      },
+      "zh": {
+        "title": "拉斯维加斯批准7500万美元公共资金翻修同盟体育场入口",
+        "summary": "拉斯维加斯体育场管理局批准拨款7500万美元公共资金，用于耗资1.58亿美元的项目，重建拥堵的雷德斯队主场——同盟体育场北侧入口。剩余费用由雷德斯队承担，计划新建高架人行天桥，工程目标是在2029年初该球场承办第63届超级碗之前完工。"
+      },
+      "fr": {
+        "title": "Las Vegas approuve 75 millions de dollars de fonds publics pour rénover l'entrée de l'Allegiant Stadium",
+        "summary": "L'Autorité du stade de Las Vegas a approuvé 75 millions de dollars de fonds publics pour un projet de 158 millions de dollars visant à reconstruire l'entrée nord encombrée de l'Allegiant Stadium, domicile des Raiders. Les Raiders financeront le reste des coûts, avec un projet de passerelle piétonne surélevée dont l'achèvement est prévu avant que le stade n'accueille le Super Bowl LXIII début 2029."
+      }
+    }
+  },
+  {
+    "id": "deloitte-premier-league-finance-report-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-07-08T00:00:00Z",
+    "source_name": "ESPN",
+    "source_url": "https://www.espn.com/soccer/story/_/id/49301192/premier-league-club-finances-pre-tax-losses-deloitte-football-finance",
+    "i18n": {
+      "en": {
+        "title": "Deloitte Report Finds Premier League Losses Jumped Over 600% in a Season",
+        "summary": "Deloitte's Annual Review of Football Finance found Premier League clubs' combined pre-tax losses rose from £135 million in 2023-24 to £948 million in 2024-25, driven by heavy transfer spending and fewer one-off player-sale profits. The report also showed record aggregate revenue of £6.8 billion and rising net debt of £3.6 billion across the league."
+      },
+      "ja": {
+        "title": "デロイト報告書、プレミアリーグの損失が1season で600%超急増と指摘",
+        "summary": "デロイトの年次サッカー財務報告書によると、プレミアリーグ全体の税引前損失は2023-24シーズンの1億3500万ポンドから2024-25シーズンには9億4800万ポンドへと急増した。要因は選手への大型移籍投資と、一時的な選手売却益の減少とされる。一方でリーグ全体の収益は68億ポンドと過去最高を記録し、純負債も36億ポンドに増加した。"
+      },
+      "es": {
+        "title": "Un informe de Deloitte revela que las pérdidas de la Premier League se dispararon más de un 600% en una temporada",
+        "summary": "El informe anual de finanzas del fútbol de Deloitte reveló que las pérdidas antes de impuestos combinadas de los clubes de la Premier League se dispararon de 135 millones de libras en 2023-24 a 948 millones de libras en 2024-25, impulsadas por un intenso gasto en traspasos y menos beneficios puntuales por venta de jugadores. El informe también mostró unos ingresos agregados récord de 6.800 millones de libras y una deuda neta creciente de 3.600 millones de libras en toda la liga."
+      },
+      "zh": {
+        "title": "德勤报告显示英超亏损单赛季暴增逾600%",
+        "summary": "德勤发布的年度足球财务报告显示，英超联赛俱乐部的税前亏损总额从2023-24赛季的1.35亿英镑猛增至2024-25赛季的9.48亿英镑，原因是转会支出大幅增加，且一次性球员出售获利减少。报告同时显示，联赛整体收入达到创纪录的68亿英镑，净负债也升至36亿英镑。"
+      },
+      "fr": {
+        "title": "Un rapport de Deloitte révèle que les pertes de la Premier League ont bondi de plus de 600 % en une saison",
+        "summary": "Le rapport annuel de Deloitte sur les finances du football a révélé que les pertes avant impôts combinées des clubs de Premier League ont bondi de 135 millions de livres en 2023-24 à 948 millions de livres en 2024-25, en raison de dépenses de transfert massives et de moins de profits ponctuels liés à la vente de joueurs. Le rapport a également montré un chiffre d'affaires global record de 6,8 milliards de livres et une dette nette en hausse à 3,6 milliards de livres pour l'ensemble du championnat."
+      }
+    }
+  },
+  {
+    "id": "alpen-bleague-partner-2026-27-season",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-18T00:00:00Z",
+    "source_name": "PR Times (Alpen Co.)",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000691.000042346.html",
+    "i18n": {
+      "en": {
+        "title": "Alpen Renews B.League Partnership for 2026-27 Season Opener",
+        "summary": "Sporting goods retailer Alpen announced it will again serve as a partner of Japan's B.League for the \"Resona Group B.LEAGUE 2026-27\" season that tipped off September 22. Alpen also continues individual club sponsorships with five teams, including Levanga Hokkaido and the Ryukyu Golden Kings, and plans fan-facing events and promotions through its stores."
+      },
+      "ja": {
+        "title": "アルペン、2026-27シーズン開幕へB.LEAGUEパートナーを継続",
+        "summary": "スポーツ用品販売のアルペンは、9月22日に開幕した「りそなグループ B.LEAGUE 2026-27シーズン」において、今シーズンもB.LEAGUEのパートナーを継続すると発表した。同社はレバンガ北海道や琉球ゴールデンキングスなど5クラブとのクラブスポンサーシップも継続し、店舗を通じたファン向けイベントや施策を展開する予定である。"
+      },
+      "es": {
+        "title": "Alpen renueva su patrocinio de la B.League para el inicio de la temporada 2026-27",
+        "summary": "La cadena de artículos deportivos Alpen anunció que volverá a ser socia de la B.League japonesa para la temporada \"Resona Group B.LEAGUE 2026-27\", que arrancó el 22 de septiembre. Alpen también mantiene patrocinios individuales con cinco clubes, entre ellos Levanga Hokkaido y los Ryukyu Golden Kings, y planea eventos y promociones para los aficionados a través de sus tiendas."
+      },
+      "zh": {
+        "title": "Alpen延续B联赛合作伙伴关系，迎接2026-27赛季开幕",
+        "summary": "体育用品零售商Alpen宣布将继续担任日本B联赛\"りそなグループ B.LEAGUE 2026-27赛季\"（9月22日开幕）的合作伙伴。该公司还将继续与包括Levanga北海道、琉球黄金国王队等五家俱乐部的单独赞助合作，并计划通过门店开展面向球迷的活动和促销。"
+      },
+      "fr": {
+        "title": "Alpen renouvelle son partenariat avec la B.League pour l'ouverture de la saison 2026-27",
+        "summary": "Le distributeur d'articles de sport Alpen a annoncé qu'il resterait partenaire de la B.League japonaise pour la saison « Resona Group B.LEAGUE 2026-27 », qui a débuté le 22 septembre. Alpen poursuit également ses parrainages individuels avec cinq clubs, dont les Levanga Hokkaido et les Ryukyu Golden Kings, et prévoit des événements et promotions destinés aux supporters dans ses magasins."
+      }
+    }
+  },
+  {
+    "id": "jal-asian-games-2026-aichi-nagoya-partnership",
+    "sport": "olympics",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-09-07T00:00:00Z",
+    "source_name": "Asian Games 2026 Aichi-Nagoya Organising Committee",
+    "source_url": "https://www.aichi-nagoya2026.org/ja/news-2041/",
+    "i18n": {
+      "en": {
+        "title": "Japan Airlines Signs Partnership Deal With Aichi-Nagoya 2026 Asian Games",
+        "summary": "Japan Airlines signed a partnership agreement with the organizing committee of the 20th Asian Games and 5th Asian Para Games, set to take place in Aichi and Nagoya. JAL joins a growing roster of domestic sponsors across the event's four-tier partnership program, which already includes companies such as Toyota Tsusho, Aeon and NTT."
+      },
+      "ja": {
+        "title": "日本航空、愛知・名古屋2026大会とパートナーシップ契約を締結",
+        "summary": "日本航空は、愛知・名古屋で開催される第20回アジア競技大会・第5回アジアパラ競技大会の組織委員会とパートナーシップ契約を締結した。同大会の4階層に分かれる協賛プログラムには、豊田通商やイオン、NTTなど既に多数の国内企業が参加しており、JALもその一員となる。"
+      },
+      "es": {
+        "title": "Japan Airlines firma un acuerdo de patrocinio con los Juegos Asiáticos Aichi-Nagoya 2026",
+        "summary": "Japan Airlines firmó un acuerdo de patrocinio con el comité organizador de los 20.ª Juegos Asiáticos y 5.ª Juegos Asiáticos para Personas con Discapacidad, que se celebrarán en Aichi y Nagoya. JAL se suma así a una creciente lista de patrocinadores nacionales dentro del programa de asociación de cuatro niveles del evento, que ya incluye a empresas como Toyota Tsusho, Aeon y NTT."
+      },
+      "zh": {
+        "title": "日本航空签约成为爱知·名古屋2026亚运会合作伙伴",
+        "summary": "日本航空与将在爱知县及名古屋举办的第20届亚运会暨第5届亚残运会组织委员会签署了合作伙伴协议。该赛事分为四个层级的赞助体系，此前已吸引丰田通商、永旺及NTT等多家日本企业加入，日航的加入进一步扩大了国内赞助商阵容。"
+      },
+      "fr": {
+        "title": "Japan Airlines signe un partenariat avec les Jeux asiatiques d'Aichi-Nagoya 2026",
+        "summary": "Japan Airlines a signé un accord de partenariat avec le comité organisateur des 20es Jeux asiatiques et des 5es Jeux asiatiques para, qui se dérouleront à Aichi et Nagoya. JAL rejoint ainsi une liste croissante de sponsors nationaux au sein du programme de partenariat à quatre niveaux de l'événement, qui compte déjà des entreprises comme Toyota Tsusho, Aeon et NTT."
+      }
+    }
+  },
+  {
+    "id": "pittsburgh-penguins-hoffmann-family-sale-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-06-23T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/business/team-sales/2026/nhl-approves-penguins-sale-hoffmann-family-1234936872/",
+    "i18n": {
+      "en": {
+        "title": "NHL Approves $1.75 Billion Sale of Penguins to Hoffmann Family",
+        "summary": "The NHL's Board of Governors unanimously approved the sale of the Pittsburgh Penguins from Fenway Sports Group to the Chicago-based Hoffmann Family of Companies in a deal valued at roughly $1.75 billion. Geoff Hoffmann will serve as the team's governor, with Greg Hoffmann, David Hoffmann and Kyle Dubas taking on alternate governor roles, ending Fenway's four-plus-year ownership tenure."
+      },
+      "ja": {
+        "title": "NHL、ペンギンズのホフマン・ファミリーへの17.5億ドル売却を承認",
+        "summary": "NHL理事会は、ピッツバーグ・ペンギンズをフェンウェイ・スポーツ・グループからシカゴを拠点とするホフマン・ファミリー・オブ・カンパニーズへ売却する契約を全会一致で承認した。取引額は約17.5億ドルとされる。ジェフ・ホフマン氏が球団のガバナーを務め、グレッグ・ホフマン氏、デービッド・ホフマン氏、ケイル・デュバ氏が副ガバナーに就任し、フェンウェイによる4年余りの保有期間が終了する。"
+      },
+      "es": {
+        "title": "La NHL aprueba la venta de los Penguins a la familia Hoffmann por 1,750 millones de dólares",
+        "summary": "La Junta de Gobernadores de la NHL aprobó por unanimidad la venta de los Pittsburgh Penguins de Fenway Sports Group a la firma Hoffmann Family of Companies, con sede en Chicago, en un acuerdo valorado en aproximadamente 1,750 millones de dólares. Geoff Hoffmann actuará como gobernador del equipo, mientras que Greg Hoffmann, David Hoffmann y Kyle Dubas ocuparán cargos de gobernadores alternos, poniendo fin a más de cuatro años de propiedad de Fenway."
+      },
+      "zh": {
+        "title": "NHL批准将企鹅队以17.5亿美元出售给霍夫曼家族",
+        "summary": "NHL理事会一致批准将匹兹堡企鹅队从芬威体育集团出售给总部位于芝加哥的霍夫曼家族企业集团，交易金额约为17.5亿美元。杰夫·霍夫曼将担任球队理事（Governor），格雷格·霍夫曼、大卫·霍夫曼及凯尔·杜巴斯将担任副理事，芬威长达四年多的球队所有权由此结束。"
+      },
+      "fr": {
+        "title": "La LNH approuve la vente des Penguins à la famille Hoffmann pour 1,75 milliard de dollars",
+        "summary": "Le conseil des gouverneurs de la LNH a approuvé à l'unanimité la vente des Pittsburgh Penguins par Fenway Sports Group à la société Hoffmann Family of Companies, basée à Chicago, pour un montant d'environ 1,75 milliard de dollars. Geoff Hoffmann occupera le poste de gouverneur de l'équipe, tandis que Greg Hoffmann, David Hoffmann et Kyle Dubas seront gouverneurs suppléants, mettant fin à plus de quatre ans de propriété de Fenway."
+      }
+    }
   }
 ]
