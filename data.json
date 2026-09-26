@@ -1078,5 +1078,209 @@
         "summary": "M.League, la ligue professionnelle de mahjong du Japon, a devoile ses sponsors pour la saison 2026-27, lancee le 14 septembre. Parmi les nouveaux sponsors principaux figurent Cygames, Nagatanien, Quants Research Holdings et Japan Tobacco, aux cotes des partenaires historiques Meiji Yasuda Life Insurance et HEARTBEATS. Mizuno a ete designe fournisseur officiel des tenues de competition et des produits sous licence."
       }
     }
+  },
+  {
+    "id": "chelsea-circle-usdc-shirt-sponsor-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-08-28T00:00:00Z",
+    "source_name": "SportsPro",
+    "source_url": "https://www.sportspro.com/news/sponsorship-marketing/chelsea-shirt-sponsor-contract-circle-usdc-august-2026/",
+    "i18n": {
+      "en": {
+        "title": "Circle's USDC Becomes Chelsea's First Shirt Sponsor in Four Seasons",
+        "summary": "Stablecoin issuer Circle signed a one-year front-of-shirt sponsorship with Chelsea FC, putting its USDC brand on the men's, women's and academy kits from the 2026-27 season. The deal ends a four-season stretch without a principal shirt sponsor and marks the first time a cryptocurrency-linked firm has held a Premier League club's top shirt spot."
+      },
+      "ja": {
+        "title": "サークル社のUSDC、チェルシーの4シーズンぶりの胸スポンサーに",
+        "summary": "ステーブルコイン発行会社サークルは、チェルシーFCと1年間のユニフォーム胸スポンサー契約を締結し、2026-27シーズンからトップチーム・女子・アカデミーの各キットにUSDCブランドを掲出する。この契約により同クラブは4シーズンぶりに主要胸スポンサーを迎え、暗号資産関連企業がプレミアリーグクラブの胸スポンサーの座に就くのは今回が初めてとなる。"
+      },
+      "es": {
+        "title": "USDC de Circle se convierte en el patrocinador de camiseta del Chelsea tras cuatro temporadas sin uno",
+        "summary": "La emisora de stablecoins Circle firmó un patrocinio de camiseta a un año con el Chelsea FC, que lucirá la marca USDC en las camisetas del primer equipo masculino, femenino y de la academia desde la temporada 2026-27. El acuerdo pone fin a cuatro temporadas sin un patrocinador principal de camiseta y marca la primera vez que una empresa vinculada a las criptomonedas ocupa ese lugar en un club de la Premier League."
+      },
+      "zh": {
+        "title": "稳定币发行商Circle成为切尔西队四个赛季以来首位胸前赞助商",
+        "summary": "稳定币发行商Circle与切尔西足球俱乐部签署为期一年的球衣胸前赞助协议，从2026-27赛季起，其USDC品牌将出现在一线队、女足及青训学院球衣上。该协议结束了俱乐部长达四个赛季没有主赞助商的局面，也是加密货币相关企业首次获得英超俱乐部球衣胸前赞助席位。"
+      },
+      "fr": {
+        "title": "L'USDC de Circle devient le sponsor maillot de Chelsea après quatre saisons sans partenaire principal",
+        "summary": "L'émetteur de stablecoin Circle a signé un partenariat d'un an pour le devant du maillot avec Chelsea FC, apposant sa marque USDC sur les maillots des équipes masculine, féminine et de l'académie dès la saison 2026-27. Cet accord met fin à quatre saisons sans sponsor principal et marque la première fois qu'une entreprise liée aux cryptomonnaies occupe cette place chez un club de Premier League."
+      }
+    }
+  },
+  {
+    "id": "crystal-palace-temporal-shirt-sponsor-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "tech"
+    ],
+    "published_at": "2026-05-22T00:00:00Z",
+    "source_name": "SportsPro",
+    "source_url": "https://www.sportspro.com/news/sponsorship-marketing/crystal-palace-ai-sector-shirt-sponsor-betting-ban/",
+    "i18n": {
+      "en": {
+        "title": "Crystal Palace Names Software Firm Temporal as New Shirt Sponsor",
+        "summary": "Crystal Palace signed enterprise software company Temporal to a multi-year front-of-shirt deal, replacing gambling brand Net88 ahead of the Premier League's betting-sponsor ban. The US-based workflow platform, used by clients such as OpenAI and Netflix, will also fund coding and AI workshops for young people in south London."
+      },
+      "ja": {
+        "title": "クリスタル・パレス、新ユニフォームスポンサーにソフトウェア企業テンポラルを起用",
+        "summary": "クリスタル・パレスは、企業向けソフトウェア企業テンポラルとの複数年にわたるユニフォーム胸スポンサー契約を発表した。プレミアリーグの賭博系スポンサー禁止措置を前に、これまでのギャンブルブランドNet88からの交代となる。オープンAIやネットフリックスも利用する米国拠点のワークフロー基盤企業である同社は、南ロンドンの若者向けにプログラミング・AI講座への資金提供も行う。"
+      },
+      "es": {
+        "title": "Crystal Palace ficha a la empresa de software Temporal como nuevo patrocinador de camiseta",
+        "summary": "El Crystal Palace firmó un acuerdo plurianual de patrocinio de camiseta con la empresa de software empresarial Temporal, en sustitución de la marca de apuestas Net88 antes de la prohibición de patrocinadores de apuestas en la Premier League. La plataforma de flujos de trabajo con sede en EE. UU., utilizada por clientes como OpenAI y Netflix, también financiará talleres de programación e inteligencia artificial para jóvenes del sur de Londres."
+      },
+      "zh": {
+        "title": "水晶宫队宣布软件公司Temporal为新球衣赞助商",
+        "summary": "水晶宫队与企业软件公司Temporal签署多年球衣胸前赞助协议，在英超博彩类赞助禁令生效前接替此前的博彩品牌Net88。这家总部位于美国、客户包括OpenAI和Netflix的工作流平台公司，还将为南伦敦青少年提供编程与人工智能培训资金支持。"
+      },
+      "fr": {
+        "title": "Crystal Palace choisit l'éditeur logiciel Temporal comme nouveau sponsor maillot",
+        "summary": "Crystal Palace a signé un accord pluriannuel de sponsoring maillot avec l'entreprise de logiciels d'entreprise Temporal, remplaçant la marque de paris Net88 avant l'interdiction des sponsors de paris en Premier League. Cette plateforme de gestion de flux de travail basée aux États-Unis, utilisée par des clients comme OpenAI et Netflix, financera également des ateliers de programmation et d'intelligence artificielle pour les jeunes du sud de Londres."
+      }
+    }
+  },
+  {
+    "id": "cosm-detroit-immersive-dome-opening-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "tech",
+      "fan"
+    ],
+    "published_at": "2026-09-10T00:00:00Z",
+    "source_name": "FOX 2 Detroit",
+    "source_url": "https://www.fox2detroit.com/news/cosm-detroit-opens-sept-10-downtown-bringing-immersive-sports-viewing-experience",
+    "i18n": {
+      "en": {
+        "title": "Cosm Opens Fourth Immersive Sports Venue in Downtown Detroit",
+        "summary": "Immersive-entertainment company Cosm opened its fourth U.S. venue in downtown Detroit, centered on an 87-foot-diameter 8K LED dome seating 500 people for shared sports watch parties and other events. The 70,000-square-foot site also includes a separate wall-to-wall LED screening hall and launched with a lineup of NFL game watch parties during its opening week."
+      },
+      "ja": {
+        "title": "コズム、デトロイト中心部に4カ所目の没入型スポーツ観戦施設を開業",
+        "summary": "没入型エンターテインメント企業コズムは、デトロイト中心部に米国内4カ所目となる施設を開業した。中心となるのは直径87フィートの8K LEDドームで、500人収容規模でスポーツの集団観戦などのイベントに利用される。約6500平方メートルの施設には壁一面のLEDスクリーンを備えた別ホールもあり、開業週にはNFL観戦イベントが多数組まれた。"
+      },
+      "es": {
+        "title": "Cosm abre su cuarto recinto inmersivo para deportes en el centro de Detroit",
+        "summary": "La empresa de entretenimiento inmersivo Cosm abrió su cuarto recinto en Estados Unidos en el centro de Detroit, centrado en una cúpula LED de 8K y 87 pies de diámetro con capacidad para 500 personas, pensada para ver deportes en grupo y otros eventos. El complejo de 70,000 pies cuadrados también incluye una sala aparte con pantalla LED de pared a pared y se inauguró con una serie de proyecciones de partidos de la NFL durante su semana de apertura."
+      },
+      "zh": {
+        "title": "沉浸式娱乐公司Cosm在底特律市中心开设第四家场馆",
+        "summary": "沉浸式娱乐公司Cosm在底特律市中心开设了其在美国的第四家场馆，核心设施为一个直径87英尺、可容纳500人的8K LED穹顶，用于集体观赛等活动。这座占地约6500平方米的场馆还设有另一间四壁环绕LED屏幕的大厅，开业首周便安排了多场NFL比赛观赛活动。"
+      },
+      "fr": {
+        "title": "Cosm ouvre son quatrième lieu immersif dédié au sport au centre-ville de Détroit",
+        "summary": "L'entreprise de divertissement immersif Cosm a ouvert son quatrième site américain au centre-ville de Détroit, autour d'un dôme LED 8K de 87 pieds de diamètre pouvant accueillir 500 personnes pour visionner des matchs en groupe et d'autres événements. Le site de 6 500 m² comprend aussi une salle séparée entièrement recouverte d'écrans LED et a été inauguré avec une série de projections de matchs de NFL durant sa première semaine."
+      }
+    }
+  },
+  {
+    "id": "kroenke-los-angeles-angels-purchase-agreement-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-02T00:00:00Z",
+    "source_name": "ESPN",
+    "source_url": "https://www.espn.com/mlb/story/_/id/49795578/kroenke-buy-controlling-interest-angels-moreno",
+    "i18n": {
+      "en": {
+        "title": "Rams Owner Stan Kroenke Agrees to Buy Los Angeles Angels for Record $4 Billion",
+        "summary": "Stan Kroenke reached an agreement to acquire a controlling stake in the Los Angeles Angels from longtime owner Arte Moreno at a reported $4 billion valuation, a new MLB sale record. The deal, expected to close in early 2027 pending league approval, would make Kroenke the first person to hold ownership stakes across all four major U.S. men's pro sports leagues, with Moreno retaining a minority share."
+      },
+      "ja": {
+        "title": "ラムズ・オーナーのクロエンキ氏、エンゼルスを史上最高額40億ドルで買収合意",
+        "summary": "NFLラムズのオーナーであるスタン・クロエンキ氏は、長年エンゼルスを所有してきたアーティ・モレノ氏から球団の支配的株式を取得することで合意した。評価額は40億ドルと報じられ、MLB球団売却額としては過去最高となる。リーグの承認を経て2027年初めの完了が見込まれており、実現すればクロエンキ氏は米4大プロスポーツリーグすべてで保有権益を持つ初めての人物となる。モレノ氏は少数株主として残る。"
+      },
+      "es": {
+        "title": "El propietario de los Rams, Stan Kroenke, acuerda comprar los Angels de Los Ángeles por un récord de 4.000 millones de dólares",
+        "summary": "Stan Kroenke llegó a un acuerdo para adquirir una participación mayoritaria en los Angels de Los Ángeles del longevo propietario Arte Moreno, con una valoración reportada de 4.000 millones de dólares, un nuevo récord de venta en la MLB. Se espera que el acuerdo, sujeto a la aprobación de la liga, se cierre a principios de 2027, y convertiría a Kroenke en la primera persona en tener participaciones de propiedad en las cuatro principales ligas deportivas profesionales masculinas de Estados Unidos, mientras Moreno conservaría una participación minoritaria."
+      },
+      "zh": {
+        "title": "公羊队老板斯坦·科隆克同意以创纪录的40亿美元收购洛杉矶天使队",
+        "summary": "美式橄榄球公羊队老板斯坦·科隆克已就收购洛杉矶天使队多数股权达成协议，交易对象为长期球队老板阿尔特·莫雷诺，据报道估值达40亿美元，创下MLB球队交易金额新纪录。该交易尚需联盟批准，预计2027年初完成；一旦达成，科隆克将成为首位在美国四大职业体育联盟均持有球队股权的人，莫雷诺将保留少数股份。"
+      },
+      "fr": {
+        "title": "Le propriétaire des Rams, Stan Kroenke, s'accorde pour racheter les Angels de Los Angeles pour un montant record de 4 milliards de dollars",
+        "summary": "Stan Kroenke est parvenu à un accord pour acquérir une participation majoritaire dans les Angels de Los Angeles auprès du propriétaire de longue date Arte Moreno, pour une valorisation rapportée à 4 milliards de dollars, un nouveau record de vente en MLB. L'opération, dont la conclusion est attendue début 2027 sous réserve de l'approbation de la ligue, ferait de Kroenke la première personne à détenir des participations dans les quatre grandes ligues sportives professionnelles masculines américaines, Moreno conservant une part minoritaire."
+      }
+    }
+  },
+  {
+    "id": "bleague-asobisystem-kawaii-lab-partnership-2026",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "fan",
+      "sponsor"
+    ],
+    "published_at": "2026-09-14T00:00:00Z",
+    "source_name": "B.LEAGUE",
+    "source_url": "https://www.bleague.jp/news_detail/id=620922",
+    "i18n": {
+      "en": {
+        "title": "B.League Partners with Talent Agency Asobisystem on Fan Entertainment Push",
+        "summary": "Japan's B.League announced a new collaboration with talent agency Asobisystem aimed at regional revitalization through live sports entertainment beyond the games themselves. As a first step, five idol groups from Asobisystem's KAWAII LAB. roster were named the league's official 'B-Matsuri Support Squad' and released a themed cheer song, with one group performing courtside at a September game in Saga."
+      },
+      "ja": {
+        "title": "Bリーグ、アソビシステムと連携しファン向けエンタメ企画を拡充",
+        "summary": "日本のBリーグは、芸能事務所アソビシステムとの新たな連携を発表した。試合そのものにとどまらないライブスポーツエンタメを通じた地域創生を目指す取り組みとなる。第一弾として、同事務所所属「KAWAII LAB.」から5組のアイドルグループが公式「B祭応援団」に就任し、テーマソングをリリース。うち1組は9月にサガアリーナで行われた試合でコートサイドパフォーマンスも披露した。"
+      },
+      "es": {
+        "title": "La B.League se asocia con la agencia de talentos Asobisystem para impulsar el entretenimiento de los aficionados",
+        "summary": "La B.League japonesa anunció una nueva colaboración con la agencia de talentos Asobisystem, orientada a la revitalización regional a través del entretenimiento deportivo en vivo más allá de los propios partidos. Como primer paso, cinco grupos idol del sello KAWAII LAB. de la agencia fueron nombrados \"Escuadrón de Apoyo del B-Matsuri\" oficial de la liga y lanzaron una canción de ánimo temática, y uno de los grupos actuó junto a la cancha en un partido de septiembre en Saga."
+      },
+      "zh": {
+        "title": "B联赛与经纪公司Asobisystem合作推动球迷娱乐项目",
+        "summary": "日本B联赛宣布与艺人经纪公司Asobisystem展开新合作，旨在通过超越比赛本身的现场体育娱乐推动地区振兴。作为首个举措，该公司旗下“KAWAII LAB.”厂牌的五个偶像组合被任命为联赛官方“B祭应援团”，并发布了主题应援歌曲，其中一组还在9月佐贺举行的一场比赛中于场边表演。"
+      },
+      "fr": {
+        "title": "La B.League s'associe à l'agence de talents Asobisystem pour dynamiser le divertissement des supporters",
+        "summary": "La B.League japonaise a annoncé une nouvelle collaboration avec l'agence de talents Asobisystem, visant la revitalisation régionale à travers un divertissement sportif en direct allant au-delà des matchs eux-mêmes. Dans un premier temps, cinq groupes d'idols du label KAWAII LAB. de l'agence ont été nommés « escouade de soutien B-Matsuri » officielle de la ligue et ont sorti une chanson de supporters thématique, l'un des groupes se produisant en bord de terrain lors d'un match de septembre à Saga."
+      }
+    }
+  },
+  {
+    "id": "seattle-nba-expansion-tulalip-arena-bid-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "team",
+      "stadium"
+    ],
+    "published_at": "2026-09-03T00:00:00Z",
+    "source_name": "NBC Sports",
+    "source_url": "https://www.nbcsports.com/nba/news/second-bidder-steps-up-for-seattle-expansion-team-wants-to-build-new-arena-outside-city",
+    "i18n": {
+      "en": {
+        "title": "Second Bidder Emerges for Seattle NBA Expansion Team, Proposes Arena on Tribal Land",
+        "summary": "A New York-based investment firm submitted a competing bid for the NBA's planned Seattle expansion franchise, proposing a new arena built on Tulalip Tribes land in nearby Marysville rather than in Seattle itself. The rival bid adds uncertainty to a process already complicated by the concurrent multibillion-dollar sale of the Seattle Seahawks, as the league weighs expansion fees reported in the $7-10 billion range."
+      },
+      "ja": {
+        "title": "シアトルのNBA拡張枠に2社目の入札、部族保有地でのアリーナ建設を提案",
+        "summary": "ニューヨーク拠点の投資会社が、NBAが計画するシアトル拡張球団枠に対抗入札を行い、シアトル市内ではなく近郊メアリズビルのタラリップ族保有地に新アリーナを建設する案を提示した。この対抗入札により、既にシーホークスの数十億ドル規模の売却案件と時期が重なり複雑化していた拡張プロセスは一段と不透明さを増しており、リーグは70億～100億ドルとも報じられる拡張料を検討している。"
+      },
+      "es": {
+        "title": "Surge un segundo postor para el equipo de expansión de la NBA en Seattle, con propuesta de arena en tierras tribales",
+        "summary": "Una firma de inversión con sede en Nueva York presentó una oferta rival para la futura franquicia de expansión de la NBA en Seattle, proponiendo construir una nueva arena en tierras de las Tribus Tulalip, en la cercana Marysville, en lugar de dentro de la propia Seattle. La oferta rival añade incertidumbre a un proceso ya complicado por la venta multimillonaria y simultánea de los Seattle Seahawks, mientras la liga evalúa tarifas de expansión que se han situado entre 7,000 y 10,000 millones de dólares."
+      },
+      "zh": {
+        "title": "西雅图NBA扩军球队出现第二个竞标方，提议在部落土地建球馆",
+        "summary": "一家总部位于纽约的投资公司就NBA计划中的西雅图扩军球队提交了竞争性竞标，提议在邻近的马里斯维尔的图拉利普部落土地上建造新球馆，而非选址西雅图市内。这一竞争性竞标为原本就因西雅图海鹰队同期数十亿美元规模出售而复杂化的扩军进程增添了更多不确定性，联盟目前评估的扩军费据报道在70亿至100亿美元之间。"
+      },
+      "fr": {
+        "title": "Un second candidat se présente pour l'équipe d'expansion NBA de Seattle, avec une arena sur des terres tribales",
+        "summary": "Une société d'investissement basée à New York a déposé une offre concurrente pour la future franchise d'expansion de la NBA à Seattle, proposant de construire une nouvelle arena sur des terres des tribus Tulalip, dans la ville voisine de Marysville, plutôt qu'à Seattle même. Cette offre rivale ajoute de l'incertitude à un processus déjà compliqué par la vente simultanée, à plusieurs milliards de dollars, des Seahawks de Seattle, alors que la ligue évalue des frais d'expansion évoqués entre 7 et 10 milliards de dollars."
+      }
+    }
   }
 ]
