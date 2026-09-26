@@ -1552,5 +1552,276 @@
         "summary": "L'organisation d'esport DarkZero Esports a racheté les actifs compétitifs de NRG, regroupant les effectifs sous la marque DarkZero, l'une des plus importantes fusions du secteur cette année. Cet accord illustre la consolidation continue des organisations d'esport nord-américaines dans un contexte de sponsoring et d'économie de franchise plus tendu."
       }
     }
+  },
+  {
+    "id": "clickhouse-fulham-principal-partner-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-07-21T00:00:00Z",
+    "source_name": "Fulham FC",
+    "source_url": "https://www.fulhamfc.com/news/2026/july/21/clickhouse-announced/",
+    "i18n": {
+      "en": {
+        "title": "Fulham Names ClickHouse as Principal Partner and Shirt Sponsor",
+        "summary": "Fulham Football Club announced real-time analytics and AI company ClickHouse as its new Principal Partner and Men's First Team front-of-shirt sponsor for the 2026-27 season. The multi-year deal also puts ClickHouse branding across Craven Cottage and the club's digital and matchday fan experiences."
+      },
+      "ja": {
+        "title": "フルアム、ClickHouseを新プリンシパルパートナー兼ユニフォームスポンサーに指名",
+        "summary": "フルアム・フットボール・クラブは、リアルタイム分析・AI企業のClickHouseを2026-27シーズンの新たなプリンシパルパートナー兼トップチームのユニフォームスポンサーに指名したと発表した。複数年契約により、本拠地クレイヴン・コテージや同クラブのデジタル施策、試合日のファン体験にもClickHouseのブランドが露出される。"
+      },
+      "es": {
+        "title": "Fulham nombra a ClickHouse socio principal y patrocinador de camiseta",
+        "summary": "El Fulham Football Club anunció a ClickHouse, empresa de análisis de datos en tiempo real e inteligencia artificial, como su nuevo Socio Principal y patrocinador principal de la camiseta del primer equipo masculino para la temporada 2026-27. El acuerdo plurianual también llevará la marca ClickHouse a Craven Cottage y a las experiencias digitales y de matchday del club."
+      },
+      "zh": {
+        "title": "富勒姆宣布ClickHouse为首席合作伙伴及球衣赞助商",
+        "summary": "富勒姆足球俱乐部宣布，实时数据分析与人工智能企业ClickHouse将成为球队2026-27赛季的新任首席合作伙伴及一线队球衣胸前赞助商。这项多年协议还将把ClickHouse的品牌植入克拉文农场球场及俱乐部的数字化和比赛日球迷体验中。"
+      },
+      "fr": {
+        "title": "Fulham nomme ClickHouse partenaire principal et sponsor maillot",
+        "summary": "Le Fulham Football Club a annoncé que ClickHouse, entreprise spécialisée dans l'analyse de données en temps réel et l'intelligence artificielle, devient son nouveau partenaire principal et sponsor maillot de l'équipe première masculine pour la saison 2026-27. Cet accord pluriannuel place également la marque ClickHouse à Craven Cottage ainsi que dans les expériences numériques et les jours de match du club."
+      }
+    }
+  },
+  {
+    "id": "aston-villa-visit-rwanda-shirt-sponsor-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-07-14T00:00:00Z",
+    "source_name": "Aston Villa FC",
+    "source_url": "https://www.avfc.co.uk/news/2026/july/14/news-aston-villa-announce-visit-rwanda-partnership/",
+    "i18n": {
+      "en": {
+        "title": "Aston Villa Unveil Visit Rwanda as New Principal Partner",
+        "summary": "Aston Villa unveiled Visit Rwanda as its new Principal Partner and front-of-shirt sponsor starting in the 2026-27 season, replacing previous sponsor Betano. The tourism-board deal, reported to be worth up to £20 million a year, also covers Villa Park signage and fan-facing marketing campaigns."
+      },
+      "ja": {
+        "title": "アストン・ヴィラ、新プリンシパルパートナーに「ビジット・ルワンダ」",
+        "summary": "アストン・ヴィラは2026-27シーズンから、これまでのスポンサーであったベターノに代わり、ルワンダ観光局の「ビジット・ルワンダ」を新たなプリンシパルパートナー兼ユニフォームスポンサーに迎えると発表した。報道によれば契約金額は年間最大2000万ポンドに上り、ヴィラ・パークのスタジアム広告やファン向けマーケティング施策も対象に含まれる。"
+      },
+      "es": {
+        "title": "Aston Villa presenta a Visit Rwanda como nuevo socio principal",
+        "summary": "Aston Villa presentó a Visit Rwanda como su nuevo Socio Principal y patrocinador de la camiseta a partir de la temporada 2026-27, en reemplazo del anterior patrocinador Betano. Según informes, el acuerdo con la oficina de turismo tendría un valor de hasta 20 millones de libras al año e incluye publicidad en Villa Park y campañas de marketing dirigidas a los aficionados."
+      },
+      "zh": {
+        "title": "阿斯顿维拉宣布“Visit Rwanda”为新首席合作伙伴",
+        "summary": "阿斯顿维拉宣布，卢旺达旅游局旗下的“Visit Rwanda”将从2026-27赛季起接替原赞助商Betano，成为球队新的首席合作伙伴及球衣胸前赞助商。据报道，这项与旅游局的协议价值每年最高2000万英镑，还涵盖维拉公园球场广告及面向球迷的营销活动。"
+      },
+      "fr": {
+        "title": "Aston Villa dévoile Visit Rwanda comme nouveau partenaire principal",
+        "summary": "Aston Villa a dévoilé Visit Rwanda comme nouveau partenaire principal et sponsor maillot à partir de la saison 2026-27, en remplacement de l'ancien sponsor Betano. Cet accord avec l'office du tourisme rwandais, estimé à jusqu'à 20 millions de livres par an, couvre également la signalétique à Villa Park et des campagnes marketing destinées aux supporters."
+      }
+    }
+  },
+  {
+    "id": "npb-smbc-japan-series-title-sponsor-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-08-04T00:00:00Z",
+    "source_name": "NPB.jp",
+    "source_url": "https://npb.jp/news/detail/20260804_01.html",
+    "i18n": {
+      "en": {
+        "title": "SMBC Named Japan Series 2026 Special Sponsor for 13th Straight Year",
+        "summary": "Japan's Nippon Professional Baseball confirmed Sumitomo Mitsui Banking Corporation (SMBC) as special sponsor of the 2026 Japan Series for a 13th consecutive year, with the event officially branded 'SMBC Japan Series 2026.' The championship is scheduled to open on October 24."
+      },
+      "ja": {
+        "title": "SMBC、日本シリーズ2026の特別協賛社に13年連続で決定",
+        "summary": "日本野球機構（NPB）は、2026年の日本シリーズの特別協賛社として三井住友銀行（SMBC）を13年連続で選定し、大会名称を「SMBC日本シリーズ2026」とすることを発表した。同大会は10月24日に開幕する予定。"
+      },
+      "es": {
+        "title": "SMBC, patrocinador especial de la Japan Series 2026 por 13º año consecutivo",
+        "summary": "La Liga de Béisbol Profesional de Japón (NPB) confirmó a Sumitomo Mitsui Banking Corporation (SMBC) como patrocinador especial de la Serie de Japón 2026 por decimotercer año consecutivo, con el evento denominado oficialmente 'SMBC Japan Series 2026'. El campeonato está previsto que comience el 24 de octubre."
+      },
+      "zh": {
+        "title": "SMBC连续第13年担任日本大赛2026特别赞助商",
+        "summary": "日本职业棒球机构（NPB）宣布，三井住友银行（SMBC）将连续第13年担任2026年日本大赛的特别赞助商，赛事正式命名为“SMBC日本大赛2026”。该赛事预计于10月24日开幕。"
+      },
+      "fr": {
+        "title": "SMBC sponsor spécial de la Japan Series 2026 pour la 13e année",
+        "summary": "La Ligue professionnelle de baseball du Japon (NPB) a confirmé que Sumitomo Mitsui Banking Corporation (SMBC) sera, pour la 13e année consécutive, le sponsor spécial de la Japan Series 2026, l'événement étant officiellement baptisé « SMBC Japan Series 2026 ». Le championnat doit débuter le 24 octobre."
+      }
+    }
+  },
+  {
+    "id": "ntt-indycar-title-sponsor-extension-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "tech",
+      "biz"
+    ],
+    "published_at": "2026-05-22T00:00:00Z",
+    "source_name": "INDYCAR",
+    "source_url": "https://www.indycar.com/news/2026/05/05-22-ntt-partnership",
+    "i18n": {
+      "en": {
+        "title": "NTT Extends Entitlement Sponsorship of NTT INDYCAR SERIES",
+        "summary": "NTT and NTT DATA agreed to extend their entitlement sponsorship of the NTT INDYCAR SERIES, continuing a technology partnership that has backed the championship since 2019. The renewal was announced ahead of the Indianapolis 500 and deepens NTT's role in data and connectivity initiatives across the series."
+      },
+      "ja": {
+        "title": "NTT、NTT INDYCARシリーズの冠協賛契約を延長",
+        "summary": "NTTとNTTデータは、2019年からNTT INDYCARシリーズの冠協賛を務めてきた技術パートナーシップの延長契約に合意したと発表した。契約更新はインディアナポリス500の直前に発表され、シリーズ全体のデータ活用や通信基盤整備におけるNTTの関与がさらに強化される。"
+      },
+      "es": {
+        "title": "NTT extiende el patrocinio de titularidad de la NTT INDYCAR SERIES",
+        "summary": "NTT y NTT DATA acordaron extender su patrocinio de titularidad de la NTT INDYCAR SERIES, prolongando una asociación tecnológica que respalda el campeonato desde 2019. La renovación se anunció antes de las 500 Millas de Indianápolis y profundiza el papel de NTT en las iniciativas de datos y conectividad de la serie."
+      },
+      "zh": {
+        "title": "NTT延长NTT INDYCAR SERIES冠名赞助协议",
+        "summary": "NTT与NTT DATA同意延长其对NTT INDYCAR SERIES的冠名赞助协议，双方自2019年起建立的科技合作关系得以延续。该续约消息在印第安纳波利斯500赛事前夕公布，进一步深化了NTT在该系列赛数据与连接技术项目中的参与。"
+      },
+      "fr": {
+        "title": "NTT prolonge son parrainage-titre de la NTT INDYCAR SERIES",
+        "summary": "NTT et NTT DATA ont convenu de prolonger leur parrainage-titre de la NTT INDYCAR SERIES, poursuivant un partenariat technologique qui soutient le championnat depuis 2019. Ce renouvellement, annoncé avant les 500 miles d'Indianapolis, renforce le rôle de NTT dans les initiatives de données et de connectivité de la série."
+      }
+    }
+  },
+  {
+    "id": "fanatics-nfl-betting-partnership-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-08-27T00:00:00Z",
+    "source_name": "NFL.com",
+    "source_url": "https://www.nfl.com/news/nfl-draftkings-fanduel-fanatics-sports-betting-partners",
+    "i18n": {
+      "en": {
+        "title": "NFL Confirms Fanatics as Official Sports Betting Partner",
+        "summary": "The NFL confirmed Fanatics Betting and Gaming as an official sports betting partner alongside DraftKings and FanDuel ahead of the 2026 season. The multi-year deal gives Fanatics access to NFL media inventory, advertising placements, and league hospitality and premium fan experiences."
+      },
+      "ja": {
+        "title": "NFL、ファナティクスを公式スポーツベッティングパートナーに認定",
+        "summary": "NFLは2026年シーズンを前に、ドラフトキングス、ファンデュエルに加えファナティクス・ベッティング・アンド・ゲーミングを公式スポーツベッティングパートナーとして認定したと発表した。複数年契約により、ファナティクスはNFLのメディア枠や広告掲出、リーグのホスピタリティおよびプレミアムなファン体験へのアクセス権を得る。"
+      },
+      "es": {
+        "title": "La NFL confirma a Fanatics como socio oficial de apuestas deportivas",
+        "summary": "La NFL confirmó a Fanatics Betting and Gaming como socio oficial de apuestas deportivas junto a DraftKings y FanDuel de cara a la temporada 2026. El acuerdo plurianual da a Fanatics acceso al inventario mediático de la NFL, espacios publicitarios y experiencias de hospitalidad y fan premium de la liga."
+      },
+      "zh": {
+        "title": "NFL确认Fanatics为官方体育博彩合作伙伴",
+        "summary": "NFL宣布，在2026赛季开赛前，Fanatics Betting and Gaming与DraftKings、FanDuel一同获认证为官方体育博彩合作伙伴。这项多年协议使Fanatics得以使用NFL的媒体资源、广告位以及联盟高端接待与球迷尊享体验。"
+      },
+      "fr": {
+        "title": "La NFL confirme Fanatics comme partenaire officiel de paris sportifs",
+        "summary": "La NFL a confirmé Fanatics Betting and Gaming comme partenaire officiel de paris sportifs, aux côtés de DraftKings et FanDuel, avant la saison 2026. Cet accord pluriannuel donne à Fanatics accès à l'inventaire média de la NFL, à des espaces publicitaires ainsi qu'à des expériences d'hospitalité et de fans premium de la ligue."
+      }
+    }
+  },
+  {
+    "id": "pacers-fieldhouse-media-network-launch-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "tech",
+      "fan",
+      "biz"
+    ],
+    "published_at": "2026-03-24T00:00:00Z",
+    "source_name": "GlobeNewswire",
+    "source_url": "https://www.globenewswire.com/news-release/2026/03/24/3261602/0/en/Pacers-Sports-Entertainment-Launches-Fieldhouse-Media-Network-Delivering-First-Of-Its-Kind-Global-Media-Channel-for-Partners.html",
+    "i18n": {
+      "en": {
+        "title": "Pacers Sports & Entertainment Launches Fieldhouse Media Network",
+        "summary": "Pacers Sports & Entertainment launched the Fieldhouse Media Network, an AI-powered retail media platform built on authenticated fan data, developed with Deloitte and Yieldmo. The organization says it is the first professional sports team to apply a retail-media-network model to fan engagement, giving partners measurable ad reach across its audience."
+      },
+      "ja": {
+        "title": "ペイサーズ運営会社、「フィールドハウス・メディア・ネットワーク」始動",
+        "summary": "ペイサーズ・スポーツ&エンターテインメントは、認証済みファンデータを基盤としたAI活用型リテールメディアプラットフォーム「フィールドハウス・メディア・ネットワーク」を、デロイトおよびYieldmoと共同で開発し始動させたと発表した。同社はリテールメディアネットワークのモデルをファンエンゲージメントに応用したプロスポーツ球団として初と説明しており、パートナー企業は自社の広告到達度を数値で把握できるようになる。"
+      },
+      "es": {
+        "title": "Pacers Sports & Entertainment lanza la Fieldhouse Media Network",
+        "summary": "Pacers Sports & Entertainment lanzó la Fieldhouse Media Network, una plataforma de medios minoristas impulsada por IA basada en datos de aficionados autenticados, desarrollada junto con Deloitte y Yieldmo. La organización afirma ser el primer equipo profesional en aplicar un modelo de red de medios minoristas al fan engagement, ofreciendo a sus socios un alcance publicitario medible."
+      },
+      "zh": {
+        "title": "步行者体育娱乐公司推出“Fieldhouse媒体网络”",
+        "summary": "步行者体育娱乐公司推出了以经过认证的球迷数据为基础、由AI驱动的零售媒体平台“Fieldhouse媒体网络”，该平台与德勤及Yieldmo共同开发。该机构表示，这是首支将零售媒体网络模式应用于球迷互动的职业体育球队，可为合作伙伴提供可衡量的广告触达效果。"
+      },
+      "fr": {
+        "title": "Pacers Sports & Entertainment lance le Fieldhouse Media Network",
+        "summary": "Pacers Sports & Entertainment a lancé le Fieldhouse Media Network, une plateforme de média retail propulsée par l'IA et fondée sur des données de fans authentifiées, développée avec Deloitte et Yieldmo. L'organisation affirme être la première équipe professionnelle à appliquer un modèle de réseau média retail à l'engagement des fans, offrant à ses partenaires une portée publicitaire mesurable."
+      }
+    }
+  },
+  {
+    "id": "g2-esports-betpanda-cs-betting-partner-2026",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2025-12-03T00:00:00Z",
+    "source_name": "Dot Esports",
+    "source_url": "https://dotesports.com/betting/esports/news/g2-betpanda-official-cs2-betting-partner",
+    "i18n": {
+      "en": {
+        "title": "G2 Esports Names Betpanda Official CS Betting Partner",
+        "summary": "G2 Esports announced Betpanda as the official global betting partner for its Counter-Strike team ahead of the 2026 season, one of a shrinking number of crypto-linked sponsorships still active in esports. The deal places Betpanda branding across G2's CS jerseys and content for the coming competitive year."
+      },
+      "ja": {
+        "title": "G2 Esports、CS部門の公式ベッティングパートナーにBetpanda",
+        "summary": "G2 Esportsは、2026年シーズンを前に、Counter-Strike部門の公式グローバルベッティングパートナーとしてBetpandaと契約したと発表した。暗号資産関連のスポンサーシップが縮小傾向にあるeスポーツ業界において、数少ない継続事例の一つとなる。契約によりBetpandaのブランドは今後1年間、G2のCSユニフォームやコンテンツに露出する。"
+      },
+      "es": {
+        "title": "G2 Esports nombra a Betpanda socio oficial de apuestas para su equipo CS",
+        "summary": "G2 Esports anunció a Betpanda como socio oficial global de apuestas para su equipo de Counter-Strike de cara a la temporada 2026, uno de los pocos patrocinios vinculados a criptomonedas que aún se mantienen activos en los esports. El acuerdo coloca la marca Betpanda en las camisetas y el contenido de CS de G2 durante la próxima temporada competitiva."
+      },
+      "zh": {
+        "title": "G2电竞宣布Betpanda为CS战队官方博彩合作伙伴",
+        "summary": "G2电竞宣布，在2026赛季开始前，Betpanda将成为其反恐精英（CS）战队的官方全球博彩合作伙伴，这也是电竞行业中为数不多仍在运作的加密货币相关赞助之一。该协议将在新赛季期间把Betpanda的品牌植入G2的CS队服及相关内容中。"
+      },
+      "fr": {
+        "title": "G2 Esports nomme Betpanda partenaire officiel de paris pour son équipe CS",
+        "summary": "G2 Esports a annoncé Betpanda comme partenaire officiel mondial de paris pour son équipe Counter-Strike avant la saison 2026, l'un des rares partenariats liés aux cryptomonnaies encore actifs dans l'esport. L'accord place la marque Betpanda sur les maillots CS de G2 et dans son contenu pour la saison compétitive à venir."
+      }
+    }
+  },
+  {
+    "id": "orix-buffaloes-fwd-life-uniform-sponsor-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-01-30T00:00:00Z",
+    "source_name": "Orix Buffaloes",
+    "source_url": "https://www.buffaloes.co.jp/news/detail/202600694120.html",
+    "i18n": {
+      "en": {
+        "title": "Orix Buffaloes Sign FWD Life as 2026 Uniform Sponsor",
+        "summary": "NPB's Orix Buffaloes signed FWD Life Insurance as the uniform jacket sponsor for the 2026 season, with the FWD Life logo appearing on the right sleeve starting at spring training in Miyazaki. The deal adds to a growing roster of uniform sponsorships across Japanese professional baseball this year, including cap-advertising rights sold separately to Mercari."
+      },
+      "ja": {
+        "title": "オリックス・バファローズ、2026年ユニフォーム広告スポンサーにFWD生命",
+        "summary": "NPBのオリックス・バファローズは、2026年シーズンのユニフォーム広告スポンサーとしてFWD生命保険と契約したと発表した。宮崎春季キャンプから、選手・監督・コーチが着用するユニフォーム上着の右袖に「FWD生命」のロゴが掲出される。同シーズンは別途メルカリがキャップ広告スポンサー契約を締結するなど、日本のプロ野球でユニフォーム関連スポンサーシップが拡大している。"
+      },
+      "es": {
+        "title": "Orix Buffaloes ficha a FWD Life como patrocinador de uniforme 2026",
+        "summary": "Los Orix Buffaloes de la NPB firmaron con FWD Life Insurance como patrocinador de la chaqueta del uniforme para la temporada 2026, con el logotipo de FWD Life apareciendo en la manga derecha desde el campamento de primavera en Miyazaki. El acuerdo se suma a una creciente lista de patrocinios de uniformes en el béisbol profesional japonés esta temporada, que incluye los derechos de publicidad en la gorra vendidos por separado a Mercari."
+      },
+      "zh": {
+        "title": "欧力士猛牛队签约FWD保险为2026赛季球衣赞助商",
+        "summary": "NPB欧力士猛牛队宣布与FWD保险签约，成为2026赛季球衣外套赞助商，FWD保险的标志将从宫崎春训开始出现在球员、教练球衣的右袖上。本赛季日本职业棒球的球衣类赞助持续扩大，此外Mercari也另行签下了帽子广告赞助权。"
+      },
+      "fr": {
+        "title": "Les Orix Buffaloes signent avec FWD Life pour l'uniforme 2026",
+        "summary": "Les Orix Buffaloes de la NPB ont signé avec FWD Life Insurance comme sponsor de la veste d'uniforme pour la saison 2026, le logo FWD Life apparaissant sur la manche droite dès le camp d'entraînement de printemps à Miyazaki. Cet accord s'ajoute à une liste croissante de parrainages d'uniformes dans le baseball professionnel japonais cette saison, incluant les droits publicitaires sur la casquette vendus séparément à Mercari."
+      }
+    }
   }
 ]
