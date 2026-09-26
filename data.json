@@ -3007,5 +3007,282 @@
         "summary": "La B.League a entamé sa saison 2026-27 sous un plan de réforme baptisé « B.Kakushin », qui relève les normes de licence des clubs, adopte un modèle d'expansion sans montée ni descente basée sur les résultats, et instaure un plafond salarial. La ligue indique que ces changements visent à renforcer les finances des clubs et à soutenir une croissance régionale durable."
       }
     }
+  },
+  {
+    "id": "hcltech-metlife-stadium-ai-partner-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "tech",
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-04-30T00:00:00Z",
+    "source_name": "HCLTech",
+    "source_url": "https://www.hcltech.com/press-releases/hcltech-expands-cornerstone-partnership-metlife-stadium-new-york-jets-and-new-york",
+    "i18n": {
+      "en": {
+        "title": "HCLTech Expands MetLife Stadium Deal, Becomes Official AI Partner to Giants and Jets",
+        "summary": "HCLTech has broadened its long-running Cornerstone Partnership with MetLife Stadium into a new role as Official AI Partner to the venue and both the New York Giants and New York Jets. The expanded deal builds on HCLTech's earlier digital-transformation work at the stadium, now applying AI tools toward smarter, safer fan and operations experiences."
+      },
+      "ja": {
+        "title": "HCLTech、メットライフ・スタジアムとのパートナーシップを拡大し公式AIパートナーに",
+        "summary": "HCLTechはメットライフ・スタジアムとの長期提携を拡大し、同スタジアムとジャイアンツ、ジェッツ両チームの公式AIパートナーに就任した。これまでのデジタル変革支援に続き、AI技術を活用してファン体験や運営の安全性・効率性向上を目指す。"
+      },
+      "es": {
+        "title": "HCLTech amplía su acuerdo con el MetLife Stadium y se convierte en socio oficial de IA de Giants y Jets",
+        "summary": "HCLTech ha ampliado su asociación de larga data con el MetLife Stadium para asumir el rol de socio oficial de inteligencia artificial del recinto y de los equipos Giants y Jets de la NFL. El acuerdo amplia el trabajo previo de transformación digital de la empresa, aplicando ahora IA para mejorar la experiencia de los aficionados y las operaciones del estadio."
+      },
+      "zh": {
+        "title": "HCLTech扩大与大都会人寿体育场合作，成为官方人工智能合作伙伴",
+        "summary": "HCLTech将其与大都会人寿体育场的长期合作关系升级，正式成为该球场及纽约巨人队、纽约喷气机队的官方人工智能合作伙伴。此次扩展建立在此前数字化转型工作的基础上，旨在利用AI技术提升球迷体验与场馆运营的安全与效率。"
+      },
+      "fr": {
+        "title": "HCLTech étend son partenariat avec le MetLife Stadium et devient partenaire officiel en IA des Giants et des Jets",
+        "summary": "HCLTech a élargi son partenariat de longue date avec le MetLife Stadium pour devenir partenaire officiel en intelligence artificielle du stade ainsi que des Giants et des Jets de New York. Cet accord élargi prolonge les précédents travaux de transformation numérique de l'entreprise, appliquant désormais l'IA à une expérience des supporters et à des opérations plus intelligentes et sûres."
+      }
+    }
+  },
+  {
+    "id": "evolv-shell-energy-stadium-weapons-detection-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "tech",
+      "stadium",
+      "fan"
+    ],
+    "published_at": "2026-02-19T00:00:00Z",
+    "source_name": "Evolv Technologies",
+    "source_url": "https://evolv.com/resources/press-releases/shell-energy-stadium-enhances-live-event-experience-with-evolvs-screening-technology/",
+    "i18n": {
+      "en": {
+        "title": "Shell Energy Stadium Adopts Evolv's Concealed Weapons Detection for Faster Entry",
+        "summary": "Shell Energy Stadium, home of MLS side Houston Dynamo FC and NWSL's Houston Dash, has signed a multi-year subscription for Evolv's Express screening system. The AI-driven sensors are meant to let fans keep moving at a natural walking pace while still screening for concealed weapons at every gate."
+      },
+      "ja": {
+        "title": "シェル・エナジー・スタジアム、エボルブ社の武器検知システムを導入し入場を迅速化",
+        "summary": "MLSヒューストン・ダイナモとNWSLヒューストン・ダッシュの本拠地シェル・エナジー・スタジアムが、エボルブ社の「エボルブ・エクスプレス」検知システムと複数年契約を締結した。AIを活用したセンサーにより、来場者が歩く速度を落とさずに隠し持った武器を検知できる入場体制を目指す。"
+      },
+      "es": {
+        "title": "Shell Energy Stadium adopta el sistema de detección de armas ocultas de Evolv para agilizar el ingreso",
+        "summary": "Shell Energy Stadium, sede del Houston Dynamo FC de la MLS y del Houston Dash de la NWSL, firmó una suscripción de varios años para el sistema de detección Evolv Express. Los sensores basados en inteligencia artificial buscan permitir que los aficionados sigan caminando a ritmo normal mientras se revisa cada acceso en busca de armas ocultas."
+      },
+      "zh": {
+        "title": "壳牌能源体育场引入Evolv隐蔽武器检测系统以加快入场速度",
+        "summary": "MLS休斯顿迪纳摩和NWSL休斯顿达什的主场壳牌能源体育场，已与Evolv公司签署多年期的Evolv Express安检系统订阅协议。这套基于人工智能的传感系统旨在让观众以正常步速通过安检口，同时对隐藏武器进行筛查。"
+      },
+      "fr": {
+        "title": "Le Shell Energy Stadium adopte le système de détection d'armes dissimulées d'Evolv pour accélérer l'entrée",
+        "summary": "Le Shell Energy Stadium, domicile du Houston Dynamo FC (MLS) et du Houston Dash (NWSL), a signé un abonnement pluriannuel pour le système de dépistage Evolv Express. Ces capteurs pilotés par l'IA visent à permettre aux supporters de continuer à marcher à un rythme naturel tout en détectant les armes dissimulées à chaque point d'entrée."
+      }
+    }
+  },
+  {
+    "id": "ravens-xfinity-flockyard-wifi-partner-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-09-21T00:00:00Z",
+    "source_name": "Baltimore Ravens",
+    "source_url": "https://www.baltimoreravens.com/news/baltimore-ravens-and-xfinity-announce-partnership-featuring-naming-right-to-the-xfinity-flockyard-at-m-t-bank-stadium",
+    "i18n": {
+      "en": {
+        "title": "Ravens Name Xfinity as WiFi Partner, Rebrand Hospitality Space to Xfinity FlockYard",
+        "summary": "The Baltimore Ravens have named Comcast's Xfinity brand as their official WiFi partner and given naming rights to the renovated exterior hospitality area at M&T Bank Stadium, now called the Xfinity FlockYard. The multi-level space includes climate-controlled private lofts and a rooftop terrace aimed at group and business outings on game days."
+      },
+      "ja": {
+        "title": "レイブンズ、Xfinityを公式WiFiパートナーに指定し新ホスピタリティ施設を命名",
+        "summary": "NFLボルティモア・レイブンズは、コムキャストのブランド「Xfinity」を公式WiFiパートナーに指定し、M&Tバンク・スタジアムに新設された屋外ホスピタリティ施設の命名権を付与し「Xfinity フロックヤード」と名付けた。空調完備の個室ロフトや屋上テラスを備えた複層施設で、団体・企業向けの観戦体験提供を狙う。"
+      },
+      "es": {
+        "title": "Los Ravens nombran a Xfinity socio de WiFi y renombran su espacio de hospitalidad como Xfinity FlockYard",
+        "summary": "Los Baltimore Ravens designaron a la marca Xfinity de Comcast como su socio oficial de WiFi y le otorgaron los derechos de nombre del renovado espacio de hospitalidad exterior del M&T Bank Stadium, ahora llamado Xfinity FlockYard. El recinto de varios niveles incluye lofts privados climatizados y una terraza en la azotea pensados para grupos y salidas corporativas los días de partido."
+      },
+      "zh": {
+        "title": "巴尔的摩乌鸦队将Xfinity列为WiFi合作伙伴，新款待客区更名为Xfinity FlockYard",
+        "summary": "NFL巴尔的摩乌鸦队宣布康卡斯特旗下Xfinity品牌成为球队官方WiFi合作伙伴，并获得M&T银行体育场新翻修的户外待客区域命名权，该区域现称为“Xfinity FlockYard”。这一多层空间设有恒温私人包厢与屋顶露台，主要面向比赛日的团体与企业客户。"
+      },
+      "fr": {
+        "title": "Les Ravens font d'Xfinity leur partenaire WiFi et renomment leur espace d'accueil Xfinity FlockYard",
+        "summary": "Les Baltimore Ravens ont désigné la marque Xfinity de Comcast comme partenaire officiel WiFi et lui ont accordé les droits de dénomination du nouvel espace d'accueil extérieur rénové du M&T Bank Stadium, désormais appelé Xfinity FlockYard. Cet espace à plusieurs niveaux comprend des lofts privés climatisés et une terrasse sur le toit destinés aux groupes et sorties d'entreprise les jours de match."
+      }
+    }
+  },
+  {
+    "id": "everton-cmc-markets-shirt-sponsor-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-07-01T00:00:00Z",
+    "source_name": "Everton FC",
+    "source_url": "https://www.evertonfc.com/news/2026/july/01/cmc-markets-confirmed-as-everton-s-new-main-partner/",
+    "i18n": {
+      "en": {
+        "title": "Everton Confirms CMC Markets as New Front-of-Shirt Main Partner",
+        "summary": "Everton has signed CMC Markets to a multi-year Main Club Partnership, putting the trading platform's branding on the front of shirts across the men's, women's and under-21 sides. The move helps Everton comply with the Premier League's incoming ban on gambling shirt sponsors, with outgoing partner Stake shifting to a sleeve deal."
+      },
+      "ja": {
+        "title": "エバートン、新たなメインクラブパートナーにCMCマーケッツと契約",
+        "summary": "エバートンはCMCマーケッツと複数年のメインクラブパートナー契約を締結し、男子・女子・U-21チームのユニフォーム胸部に同社ブランドを掲出することになった。プレミアリーグで導入されるギャンブル関連企業のシャツスポンサー禁止規定への対応でもあり、これまでのスポンサーであるステークは袖スポンサーへ移行する。"
+      },
+      "es": {
+        "title": "Everton confirma a CMC Markets como nuevo patrocinador principal en el frente de la camiseta",
+        "summary": "Everton firmó con CMC Markets un acuerdo de varios años como socio principal del club, lo que colocará la marca de la plataforma de trading en el frente de las camisetas de los equipos masculino, femenino y sub-21. El cambio ayuda al club a cumplir con la próxima prohibición de la Premier League a patrocinadores de apuestas en el frente de la camiseta, mientras el patrocinador saliente Stake pasa a la manga."
+      },
+      "zh": {
+        "title": "埃弗顿确认CMC Markets成为新的胸前主赞助商",
+        "summary": "埃弗顿与差价合约交易平台CMC Markets签订多年主赞助合约，该品牌将出现在男足、女足及U21队球衣胸前位置。此举也有助于俱乐部应对英超即将实施的博彩公司球衣胸前赞助禁令，原赞助商Stake将转为袖标赞助商。"
+      },
+      "fr": {
+        "title": "Everton confirme CMC Markets comme nouveau partenaire principal en façade du maillot",
+        "summary": "Everton a signé avec CMC Markets un partenariat principal pluriannuel qui placera la marque de la plateforme de trading sur le devant des maillots des équipes masculine, féminine et des moins de 21 ans. Cet accord aide le club à se conformer à la future interdiction des sponsors de paris en façade de maillot en Premier League, l'ancien partenaire Stake passant à un sponsoring de manche."
+      }
+    }
+  },
+  {
+    "id": "everton-friedkin-group-stake-sale-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-04T00:00:00Z",
+    "source_name": "Inside World Football",
+    "source_url": "https://www.insideworldfootball.com/2026/09/04/friedkin-group-eyes-fresh-investment-for-english-premier-league-club-everton",
+    "i18n": {
+      "en": {
+        "title": "Everton Owners the Friedkin Group Explore Selling Minority Stake",
+        "summary": "The Friedkin Group, which took control of Everton in December 2024, is reportedly sounding out potential investors for a significant minority stake in the club. Advisers say the process is still early and that Dan Friedkin has no plans to give up control, even as Premier League clubs face record spending levels."
+      },
+      "ja": {
+        "title": "エバートン筆頭株主フリードキン・グループ、少数株の売却先を探索",
+        "summary": "2024年12月にエバートンの経営権を握ったフリードキン・グループが、クラブの相当規模の少数株について投資家探しを進めていると報じられた。関係者によれば手続きはまだ初期段階で、ダン・フリードキン氏が経営権を手放す意向はないとされるが、プレミアリーグ各クラブの支出は記録的水準に達している。"
+      },
+      "es": {
+        "title": "Los propietarios de Everton, Friedkin Group, exploran vender una participación minoritaria",
+        "summary": "Friedkin Group, que asumió el control de Everton en diciembre de 2024, estaría sondeando a posibles inversores para una participación minoritaria significativa en el club, según reportes. Los asesores indican que el proceso aún está en etapas iniciales y que Dan Friedkin no tiene intención de ceder el control, en un momento de gasto récord entre los clubes de la Premier League."
+      },
+      "zh": {
+        "title": "埃弗顿母公司弗里德金集团据报正寻求出售少数股权",
+        "summary": "据报道，2024年12月取得埃弗顿控制权的弗里德金集团正在接触潜在投资者，考虑出售俱乐部一定规模的少数股权。顾问人士表示该进程仍处于早期阶段，丹·弗里德金并无放弃控制权的计划，而英超各俱乐部正面临创纪录的支出压力。"
+      },
+      "fr": {
+        "title": "Les propriétaires d'Everton, le Friedkin Group, envisageraient de céder une participation minoritaire",
+        "summary": "Le Friedkin Group, qui a pris le contrôle d'Everton en décembre 2024, sonderait des investisseurs potentiels pour une participation minoritaire importante dans le club, selon des informations de presse. Des conseillers précisent que le processus n'en est qu'à ses débuts et que Dan Friedkin n'a pas l'intention de céder le contrôle, alors que les dépenses des clubs de Premier League atteignent des niveaux records."
+      }
+    }
+  },
+  {
+    "id": "newcastle-pif-minority-stake-stadium-funding-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz",
+      "stadium"
+    ],
+    "published_at": "2026-09-24T00:00:00Z",
+    "source_name": "Goal.com",
+    "source_url": "https://www.goal.com/en-us/lists/newcastle-owners-sell-stake-fund-stadium-premier-league/blt62f0803f6e375aab",
+    "i18n": {
+      "en": {
+        "title": "Newcastle's PIF Owners Weigh Selling Minority Stake to Fund Stadium Overhaul",
+        "summary": "Saudi Arabia's Public Investment Fund is reportedly in talks with potential investors about selling a minority stake in Newcastle United to help pay for a major stadium project. The club is weighing a large-scale expansion of St James' Park against building an entirely new venue costing more than £1 billion, while PIF would keep majority control."
+      },
+      "ja": {
+        "title": "ニューカッスル筆頭株主PIF、スタジアム改修資金確保へ少数株売却を検討",
+        "summary": "サウジアラビアの公共投資基金（PIF）が、ニューカッスル・ユナイテッドの大規模スタジアム計画の資金確保に向け、少数株の売却について投資家と協議しているとされる。クラブはセント・ジェームズ・パークの大規模拡張と10億ポンド超の新スタジアム建設のいずれかを検討中で、PIFは過半数の経営権を維持する方針とみられる。"
+      },
+      "es": {
+        "title": "Los dueños de Newcastle, el PIF, sopesan vender una participación minoritaria para financiar la reforma del estadio",
+        "summary": "El Fondo de Inversión Pública de Arabia Saudita estaría en conversaciones con posibles inversores para vender una participación minoritaria en el Newcastle United, con el fin de financiar un gran proyecto de estadio. El club evalúa una ampliación a gran escala de St James' Park frente a la construcción de un estadio completamente nuevo con un costo superior a 1.000 millones de libras, mientras el PIF mantendría el control mayoritario."
+      },
+      "zh": {
+        "title": "纽卡斯尔联大股东PIF考虑出售少数股权以资助球场改造",
+        "summary": "据报道，沙特公共投资基金正与潜在投资者商谈，考虑出售纽卡斯尔联的一部分少数股权，以资助该俱乐部的重大球场项目。俱乐部正权衡对圣詹姆斯公园进行大规模扩建，还是新建一座造价超过10亿英镑的新球场，而PIF预计仍将保留控股权。"
+      },
+      "fr": {
+        "title": "Les propriétaires de Newcastle, le PIF, envisageraient de vendre une participation minoritaire pour financer la rénovation du stade",
+        "summary": "Le Fonds d'investissement public d'Arabie saoudite serait en discussion avec des investisseurs potentiels pour vendre une participation minoritaire dans Newcastle United afin de financer un vaste projet de stade. Le club hésite entre une extension à grande échelle de St James' Park et la construction d'une toute nouvelle enceinte coûtant plus d'un milliard de livres, le PIF conservant le contrôle majoritaire."
+      }
+    }
+  },
+  {
+    "id": "softbank-hawks-bellsystem24-helmet-sponsor-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-01-29T00:00:00Z",
+    "source_name": "Bell System24 Holdings",
+    "source_url": "https://www.bell24.co.jp/ja/news/holdings/20260129/",
+    "i18n": {
+      "en": {
+        "title": "Bell System24 Renews Fukuoka SoftBank Hawks Helmet Sponsorship for Fifth Straight Year",
+        "summary": "Bell System24 Holdings has renewed its team sponsorship covering the Fukuoka SoftBank Hawks' batting helmets for the 2026 NPB season, marking a fifth consecutive year in the role since 2022. The customer-support outsourcing firm continues to place its branding on the helmets worn by Hawks players throughout the season."
+      },
+      "ja": {
+        "title": "ベルシステム24、福岡ソフトバンクホークスのヘルメットスポンサーを5年連続で継続",
+        "summary": "ベルシステム24ホールディングスは、2026年シーズンの福岡ソフトバンクホークスのチームスポンサー（ヘルメット）契約を更新した。2022年シーズンから継続しており、今回で5シーズン目となる。同社ブランドは選手が着用するバッティングヘルメットに表示される。"
+      },
+      "es": {
+        "title": "Bell System24 renueva por quinto año consecutivo su patrocinio de casco con Fukuoka SoftBank Hawks",
+        "summary": "Bell System24 Holdings renovó su patrocinio de equipo que cubre los cascos de bateo de los Fukuoka SoftBank Hawks para la temporada 2026 de la NPB, marcando un quinto año consecutivo en ese rol desde 2022. La empresa de externalización de atención al cliente continúa mostrando su marca en los cascos que usan los jugadores del equipo durante toda la temporada."
+      },
+      "zh": {
+        "title": "Bell System24连续第五年成为福冈软银鹰头盔赞助商",
+        "summary": "Bell System24控股公司已续签2026赛季日本职棒福冈软银鹰队头盔赞助合约，自2022年以来连续第五年担任该赞助角色。这家客户支持外包企业的品牌标识将持续出现在球员整季佩戴的打击头盔上。"
+      },
+      "fr": {
+        "title": "Bell System24 renouvelle son parrainage du casque des Fukuoka SoftBank Hawks pour la cinquième année consécutive",
+        "summary": "Bell System24 Holdings a renouvelé son partenariat couvrant les casques de frappe des Fukuoka SoftBank Hawks pour la saison NPB 2026, une cinquième année consécutive à ce rôle depuis 2022. L'entreprise d'externalisation du service client continue d'apposer sa marque sur les casques portés par les joueurs du club durant toute la saison."
+      }
+    }
+  },
+  {
+    "id": "softbank-hawks-showakensetsu-uniform-sponsor-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-01-20T00:00:00Z",
+    "source_name": "Fukuoka SoftBank Hawks",
+    "source_url": "https://www.softbankhawks.co.jp/news/detail/202600925999.html",
+    "i18n": {
+      "en": {
+        "title": "Showa Kensetsu Extends Hawks Uniform Sponsorship Into 16th Season",
+        "summary": "Construction firm Showa Kensetsu has signed on again as the Fukuoka SoftBank Hawks' right-hip uniform sponsor for the 2026 NPB season, extending an arrangement that dates back to 2011. The renewal keeps the company's branding on Hawks players' uniforms for a 16th straight year."
+      },
+      "ja": {
+        "title": "昭和建設、ホークスのユニフォーム（右腰）スポンサーを16シーズン目に延長",
+        "summary": "建設会社の昭和建設は、2026年シーズンの福岡ソフトバンクホークスのユニフォームスポンサー（右腰）契約を再び締結した。2011年シーズンから続く契約で、今回で16シーズン連続となる。契約継続により、選手のユニフォームに同社の広告が表示され続ける。"
+      },
+      "es": {
+        "title": "Showa Kensetsu extiende su patrocinio en el uniforme de los Hawks por decimosexta temporada",
+        "summary": "La constructora Showa Kensetsu volvió a firmar como patrocinador del uniforme (cadera derecha) de los Fukuoka SoftBank Hawks para la temporada 2026 de la NPB, extendiendo un acuerdo que se remonta a 2011. La renovación mantiene la marca de la empresa en los uniformes de los jugadores por decimosexta temporada consecutiva."
+      },
+      "zh": {
+        "title": "昭和建设将福冈软银鹰队服（右腰）赞助延续至第16个赛季",
+        "summary": "建筑公司昭和建设再次签约成为福冈软银鹰队2026赛季球衣右腰位置的赞助商，这份合作关系可追溯至2011年。此次续约使该公司品牌连续第16个赛季出现在球员球衣上。"
+      },
+      "fr": {
+        "title": "Showa Kensetsu prolonge son parrainage sur le maillot des Hawks pour une 16e saison",
+        "summary": "L'entreprise de construction Showa Kensetsu a de nouveau signé comme sponsor du maillot (hanche droite) des Fukuoka SoftBank Hawks pour la saison NPB 2026, prolongeant un accord qui remonte à 2011. Ce renouvellement maintient la marque de l'entreprise sur les maillots des joueurs pour une 16e saison consécutive."
+      }
+    }
   }
 ]
