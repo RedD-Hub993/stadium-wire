@@ -7170,5 +7170,241 @@
         "summary": "Les Chunichi Dragons de la NPB ont annoncé un nouvel accord de sponsoring officiel de niveau or avec la division de Nagoya de l'agence de voyages JTB. Ce partenariat ajoute JTB à la liste hiérarchisée des sponsors institutionnels soutenant les opérations du club pour la saison 2026."
       }
     }
+  },
+  {
+    "id": "hcltech-metlife-stadium-ai-partner-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "tech",
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-04-30T00:00:00Z",
+    "source_name": "HCLTech",
+    "source_url": "https://www.hcltech.com/press-releases/hcltech-expands-cornerstone-partnership-metlife-stadium-new-york-jets-and-new-york",
+    "i18n": {
+      "en": {
+        "title": "HCLTech Expands MetLife Stadium Deal, Adds Official AI Partner Role",
+        "summary": "HCLTech has broadened its long-running Cornerstone Partnership with MetLife Stadium, the New York Giants and the New York Jets, taking on a new designation as the venue's Official AI Partner. The expanded deal builds on HCLTech's prior digital-transformation role and will apply AI tools aimed at smoother, safer fan journeys at the 82,500-seat stadium."
+      },
+      "ja": {
+        "title": "HCLTech、メットライフ・スタジアムとの提携を拡大し公式AIパートナーに",
+        "summary": "HCLTechはメットライフ・スタジアム、NYジャイアンツ、NYジェッツとの既存のコーナーストーン・パートナーシップを拡大し、新たに同施設の公式AIパートナーに就任した。従来のデジタル変革支援の役割を土台に、AI技術を活用してファン体験の向上と安全性強化を図る。"
+      },
+      "es": {
+        "title": "HCLTech amplía su acuerdo con el MetLife Stadium como socio oficial de IA",
+        "summary": "HCLTech ha ampliado su alianza de larga data con el MetLife Stadium, los Giants y los Jets de Nueva York, asumiendo ahora el rol de socio oficial de inteligencia artificial del recinto. El acuerdo ampliado se apoya en su papel previo de transformación digital para ofrecer experiencias más seguras y fluidas a los aficionados en el estadio de 82.500 asientos."
+      },
+      "zh": {
+        "title": "HCLTech扩大与大都会人寿体育场的合作，新增官方AI合作伙伴身份",
+        "summary": "HCLTech扩大了与大都会人寿体育场、纽约巨人队和纽约喷气机队长期的基石合作伙伴关系，新增担任该场馆官方AI合作伙伴。此次扩展建立在此前数字化转型合作的基础上，将运用人工智能技术为这座可容纳8.25万人的球场提供更顺畅安全的观赛体验。"
+      },
+      "fr": {
+        "title": "HCLTech étend son partenariat avec le MetLife Stadium en tant que partenaire IA officiel",
+        "summary": "HCLTech a élargi son partenariat de longue date avec le MetLife Stadium, les Giants et les Jets de New York, endossant désormais le rôle de partenaire officiel en intelligence artificielle du site. Cet accord élargi s'appuie sur son précédent rôle de transformation numérique pour offrir une expérience plus fluide et plus sûre aux 82 500 spectateurs du stade."
+      }
+    }
+  },
+  {
+    "id": "evolv-shell-energy-stadium-screening-tech",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "tech",
+      "stadium"
+    ],
+    "published_at": "2026-02-19T00:00:00Z",
+    "source_name": "Evolv Technologies",
+    "source_url": "https://evolv.com/resources/press-releases/shell-energy-stadium-enhances-live-event-experience-with-evolvs-screening-technology/",
+    "i18n": {
+      "en": {
+        "title": "Shell Energy Stadium Deploys Evolv Weapons-Screening Systems",
+        "summary": "Shell Energy Stadium, home of MLS side Houston Dynamo FC and NWSL club Houston Dash, has signed a multi-year deal to install Evolv Express concealed-weapons detection systems across its entry points. The AI-assisted sensors let fans walk through security screening at a normal pace, part of the venue's push to speed up entry while maintaining safety."
+      },
+      "ja": {
+        "title": "シェル・エナジー・スタジアム、Evolv社の武器検知システムを導入",
+        "summary": "MLSヒューストン・ダイナモFCとNWSLヒューストン・ダッシュの本拠地シェル・エナジー・スタジアムは、複数年契約でEvolv Express武器検知システムを全入場ゲートに導入した。AIを活用したセンサーによりファンは通常の歩行速度のまま保安検査を通過でき、安全性を保ちながら入場をスムーズにする狙いがある。"
+      },
+      "es": {
+        "title": "El Shell Energy Stadium instala sistemas de detección de armas de Evolv",
+        "summary": "El Shell Energy Stadium, sede del Houston Dynamo FC de la MLS y del Houston Dash de la NWSL, firmó un acuerdo plurianual para instalar los sistemas de detección de armas ocultas Evolv Express en todos sus accesos. Los sensores asistidos por IA permiten a los aficionados pasar el control de seguridad caminando a ritmo normal, como parte del esfuerzo del recinto por agilizar el ingreso sin sacrificar la seguridad."
+      },
+      "zh": {
+        "title": "壳牌能源体育场部署Evolv武器筛查系统",
+        "summary": "MLS休斯顿迪纳摩队与NWSL休斯顿达什队的主场壳牌能源体育场签署多年协议，在所有入口处安装Evolv Express隐藏武器探测系统。这套AI辅助传感设备让球迷可以以正常步速通过安检，是该场馆在保障安全的同时加快入场速度举措的一部分。"
+      },
+      "fr": {
+        "title": "Le Shell Energy Stadium déploie les systèmes de détection d'armes d'Evolv",
+        "summary": "Le Shell Energy Stadium, domicile du Houston Dynamo FC (MLS) et du Houston Dash (NWSL), a signé un accord pluriannuel pour installer les systèmes de détection d'armes dissimulées Evolv Express à tous ses points d'accès. Ces capteurs assistés par IA permettent aux supporters de passer le contrôle de sécurité à vitesse de marche normale, dans le cadre des efforts du stade pour accélérer l'entrée tout en préservant la sûreté."
+      }
+    }
+  },
+  {
+    "id": "giants-airwallex-jersey-patch-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-02-18T00:00:00Z",
+    "source_name": "MLB.com",
+    "source_url": "https://www.mlb.com/press-release/press-release-airwallex-becomes-the-giants-official-jersey-patch-partner",
+    "i18n": {
+      "en": {
+        "title": "Giants Name Airwallex as New Jersey Patch Partner",
+        "summary": "The San Francisco Giants announced a multi-year jersey patch deal with global financial platform Airwallex, which will also serve as the club's official financial software partner. Airwallex becomes the third company on Giants jerseys since patches were introduced in 2023, replacing Chevrolet after an earlier partnership with Cruise fell through."
+      },
+      "ja": {
+        "title": "ジャイアンツ、新ユニフォームパッチパートナーにAirwallexを起用",
+        "summary": "サンフランシスコ・ジャイアンツは、グローバル金融プラットフォームのAirwallexと複数年のユニフォームパッチ契約を締結したと発表した。Airwallexは球団の公式財務ソフトウェアパートナーも兼ねる。2023年のパッチ導入以降、Cruiseとの提携解消を経て3社目のパッチスポンサーとなり、シボレーに代わって起用される。"
+      },
+      "es": {
+        "title": "Los Giants nombran a Airwallex nuevo socio del parche de uniforme",
+        "summary": "Los Gigantes de San Francisco anunciaron un acuerdo plurianual de parche de uniforme con la plataforma financiera global Airwallex, que también será el socio oficial de software financiero del club. Airwallex se convierte en la tercera empresa en los uniformes de los Giants desde que se introdujeron los parches en 2023, sustituyendo a Chevrolet tras una alianza fallida con Cruise."
+      },
+      "zh": {
+        "title": "旧金山巨人队签约Airwallex担任新球衣广告合作伙伴",
+        "summary": "旧金山巨人队宣布与全球金融平台Airwallex达成多年球衣广告合作协议，Airwallex同时也将成为球队官方财务软件合作伙伴。自2023年引入球衣广告以来，Airwallex是继此前与Cruise合作告吹后第三家登上巨人队球衣的企业，接替了雪佛兰的位置。"
+      },
+      "fr": {
+        "title": "Les Giants nomment Airwallex nouveau partenaire du patch de maillot",
+        "summary": "Les Giants de San Francisco ont annoncé un accord pluriannuel de patch de maillot avec la plateforme financière mondiale Airwallex, qui deviendra également le partenaire officiel de logiciels financiers du club. Airwallex est la troisième entreprise à figurer sur les maillots des Giants depuis l'introduction des patchs en 2023, remplaçant Chevrolet après un partenariat avorté avec Cruise."
+      }
+    }
+  },
+  {
+    "id": "23xi-racing-xfinity-majority-sponsor-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-01-20T00:00:00Z",
+    "source_name": "NASCAR.com",
+    "source_url": "https://www.nascar.com/news-media/2026/01/20/xfinity-23xi-racing-announce-partnership-expansion-bubba-wallace-majority-partner/",
+    "i18n": {
+      "en": {
+        "title": "Xfinity Expands 23XI Racing Deal, Becomes Bubba Wallace's Majority Sponsor",
+        "summary": "Xfinity and 23XI Racing announced an expanded partnership under which Xfinity becomes the majority primary sponsor of Bubba Wallace's No. 23 Cup Series car for the 2026 season, including its first-ever primary sponsorship in the Daytona 500. Xfinity will also continue backing Tyler Reddick's No. 45 car in select races."
+      },
+      "ja": {
+        "title": "Xfinity、23XIレーシングとの提携拡大 バブ・ウォレスの主要スポンサーに",
+        "summary": "XfinityはNASCARの23XIレーシングとの提携拡大を発表し、2026年シーズンはバブ・ウォレス選手のカップシリーズ第23号車の筆頭スポンサーとなる。デイトナ500での主要スポンサー就任は同社初となる。タイラー・レディック選手の第45号車についても一部レースで引き続き協賛する。"
+      },
+      "es": {
+        "title": "Xfinity amplía su acuerdo con 23XI Racing y se convierte en patrocinador mayoritario de Bubba Wallace",
+        "summary": "Xfinity y 23XI Racing anunciaron una ampliación de su alianza por la cual Xfinity pasa a ser el patrocinador principal mayoritario del auto No. 23 de la Cup Series de Bubba Wallace para la temporada 2026, incluyendo su primer patrocinio principal en las 500 Millas de Daytona. Xfinity también seguirá respaldando el auto No. 45 de Tyler Reddick en carreras selectas."
+      },
+      "zh": {
+        "title": "Xfinity扩大与23XI车队合作，成为巴巴·华莱士的主要赞助商",
+        "summary": "Xfinity与23XI车队宣布扩大合作关系，2026赛季Xfinity将成为巴巴·华莱士23号杯赛赛车的大股比主赞助商，并首次担任戴通纳500大赛的主赞助商。Xfinity还将继续在部分赛事中赞助泰勒·雷迪克的45号赛车。"
+      },
+      "fr": {
+        "title": "Xfinity étend son accord avec 23XI Racing et devient sponsor majoritaire de Bubba Wallace",
+        "summary": "Xfinity et 23XI Racing ont annoncé un partenariat élargi selon lequel Xfinity devient le sponsor principal majoritaire de la voiture n°23 de Bubba Wallace en Cup Series pour la saison 2026, incluant son tout premier sponsoring principal aux 500 miles de Daytona. Xfinity continuera aussi de soutenir la voiture n°45 de Tyler Reddick lors de courses sélectionnées."
+      }
+    }
+  },
+  {
+    "id": "playvs-series-aa-funding-2026",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-07-15T00:00:00Z",
+    "source_name": "dot.LA",
+    "source_url": "https://dot.la/playvs-raises-10-5m-making-esports-varsity-sports-2649035403.html",
+    "i18n": {
+      "en": {
+        "title": "Scholastic Esports Platform PlayVS Raises Over $10 Million",
+        "summary": "PlayVS, which runs competitive gaming leagues for middle schools, high schools and colleges across North America, closed a funding round of just over $10 million combining Series AA-1 and Series AA venture capital. The round adds to more than $100 million the company has raised since its founding to build out scholastic and collegiate esports infrastructure."
+      },
+      "ja": {
+        "title": "学生eスポーツ基盤のPlayVS、1000万ドル超を調達",
+        "summary": "北米の中学・高校・大学向けに競技eスポーツリーグを運営するPlayVSは、シリーズAA-1とシリーズAAを組み合わせた1000万ドル超の資金調達ラウンドを完了した。同社は創業以来累計1億ドルを超える資金を調達しており、学生・大学eスポーツ基盤の拡充を進めている。"
+      },
+      "es": {
+        "title": "PlayVS, plataforma de esports escolar, recauda más de 10 millones de dólares",
+        "summary": "PlayVS, que opera ligas de videojuegos competitivos para escuelas secundarias, preparatorias y universidades de Norteamérica, cerró una ronda de financiamiento de poco más de 10 millones de dólares combinando capital de riesgo de Series AA-1 y Series AA. La ronda se suma a los más de 100 millones de dólares que la empresa ha reunido desde su fundación para desarrollar infraestructura de esports escolar y universitario."
+      },
+      "zh": {
+        "title": "学生电竞平台PlayVS融资逾1000万美元",
+        "summary": "PlayVS为北美中学、高中及大学运营电竞联赛，近日完成一轮合计逾1000万美元的Series AA-1和Series AA风险融资。此轮融资使该公司自成立以来累计融资额超过1亿美元，用于扩建校园及大学电竞基础设施。"
+      },
+      "fr": {
+        "title": "La plateforme d'esport scolaire PlayVS lève plus de 10 millions de dollars",
+        "summary": "PlayVS, qui gère des ligues de jeu vidéo compétitif pour les collèges, lycées et universités d'Amérique du Nord, a bouclé un tour de financement de plus de 10 millions de dollars combinant capital-risque de série AA-1 et série AA. Ce tour porte à plus de 100 millions de dollars les fonds levés par l'entreprise depuis sa création pour développer les infrastructures d'esport scolaire et universitaire."
+      }
+    }
+  },
+  {
+    "id": "chicago-fire-boldyn-networks-mcdonalds-park",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "tech",
+      "stadium"
+    ],
+    "published_at": "2026-07-27T00:00:00Z",
+    "source_name": "PR Newswire",
+    "source_url": "https://www.prnewswire.com/news-releases/chicago-fire-fc-taps-mls-supplier-boldyn-networks-to-realize-its-vision-for-mcdonalds-park-302834418.html",
+    "i18n": {
+      "en": {
+        "title": "Chicago Fire FC Selects Boldyn Networks for McDonald's Park Connectivity",
+        "summary": "Chicago Fire FC has tapped Boldyn Networks, MLS's official connectivity supplier, to design and deploy a converged neutral-host 5G distributed antenna system and Wi-Fi network at its new home, McDonald's Park. The project extends Boldyn's league-wide role providing venue connectivity across MLS stadiums."
+      },
+      "ja": {
+        "title": "シカゴ・ファイアーFC、マクドナルズ・パークの通信網整備にBoldyn Networksを起用",
+        "summary": "シカゴ・ファイアーFCは、MLSの公式通信インフラ供給元であるBoldyn Networksを新本拠地マクドナルズ・パークの通信整備パートナーに起用した。中立ホスト型の5G分散アンテナシステムとWi-Fiネットワークを設計・導入する計画で、MLS全体で施設の通信環境を支えるBoldynの役割を拡大するものとなる。"
+      },
+      "es": {
+        "title": "Chicago Fire FC elige a Boldyn Networks para la conectividad de McDonald's Park",
+        "summary": "El Chicago Fire FC contrató a Boldyn Networks, el proveedor oficial de conectividad de la MLS, para diseñar e implementar un sistema de antenas distribuidas 5G de host neutral y una red Wi-Fi convergentes en su nuevo estadio, McDonald's Park. El proyecto amplía el papel de Boldyn como proveedor de conectividad en los estadios de toda la liga."
+      },
+      "zh": {
+        "title": "芝加哥火焰队选定Boldyn Networks负责麦当劳公园联网建设",
+        "summary": "芝加哥火焰队聘请MLS官方联网供应商Boldyn Networks，为其新主场麦当劳公园设计并部署中立主机型5G分布式天线系统及Wi-Fi网络。该项目进一步扩大了Boldyn在整个MLS联盟场馆联网服务中的角色。"
+      },
+      "fr": {
+        "title": "Le Chicago Fire FC choisit Boldyn Networks pour la connectivité du McDonald's Park",
+        "summary": "Le Chicago Fire FC a fait appel à Boldyn Networks, fournisseur officiel de connectivité de la MLS, pour concevoir et déployer un système d'antennes distribuées 5G neutre et un réseau Wi-Fi convergents dans son nouveau stade, le McDonald's Park. Ce projet élargit le rôle de Boldyn en tant que fournisseur de connectivité dans les stades de toute la ligue."
+      }
+    }
+  },
+  {
+    "id": "ibaraki-robots-suntory-bronze-sponsor",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2025-10-10T00:00:00Z",
+    "source_name": "Ibaraki Robots",
+    "source_url": "https://www.ibarakirobots.win/news/20251010_01_sponsors/",
+    "i18n": {
+      "en": {
+        "title": "B.League's Ibaraki Robots Sign Suntory as Bronze Sponsor",
+        "summary": "B.League club Ibaraki Robots announced a new bronze-tier sponsorship agreement with beverage maker Suntory. The deal adds Suntory to the club's roster of local and national corporate partners supporting the team's operations and regional community activities."
+      },
+      "ja": {
+        "title": "Bリーグ茨城ロボッツ、サントリーとブロンズスポンサー契約を締結",
+        "summary": "Bリーグの茨城ロボッツは、飲料メーカーのサントリーと新たにブロンズスポンサー契約を締結したと発表した。今回の契約により、チーム運営や地域貢献活動を支える地元・全国企業パートナーの一員にサントリーが加わる。"
+      },
+      "es": {
+        "title": "Ibaraki Robots de la B.League firma con Suntory como patrocinador de bronce",
+        "summary": "El club de la B.League Ibaraki Robots anunció un nuevo acuerdo de patrocinio de nivel bronce con la fabricante de bebidas Suntory. El acuerdo suma a Suntory a la lista de socios corporativos locales y nacionales que respaldan las operaciones del equipo y sus actividades comunitarias regionales."
+      },
+      "zh": {
+        "title": "B联赛茨城机器人队签约三得利担任铜牌赞助商",
+        "summary": "B联赛球队茨城机器人队宣布与饮料制造商三得利签署新的铜牌赞助协议。此次签约使三得利加入支持球队运营及地区社区活动的本地与全国企业合作伙伴阵容。"
+      },
+      "fr": {
+        "title": "Le club de B.League Ibaraki Robots signe avec Suntory comme sponsor bronze",
+        "summary": "Le club de B.League Ibaraki Robots a annoncé un nouvel accord de sponsoring de niveau bronze avec le fabricant de boissons Suntory. Cet accord ajoute Suntory à la liste des partenaires corporatifs locaux et nationaux qui soutiennent les activités du club et son engagement communautaire régional."
+      }
+    }
   }
 ]
