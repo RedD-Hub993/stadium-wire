@@ -5211,5 +5211,107 @@
         "summary": "Aprilia Racing et Monster Energy ont signé un accord de sponsoring pluriannuel qui fera de la marque de boissons le sponsor-titre de l'équipe officielle MotoGP à partir de la saison 2027. Annoncé lors du Grand Prix d'Italie, cet accord constitue le tout premier partenariat-titre d'Aprilia dans l'histoire du MotoGP."
       }
     }
+  },
+  {
+    "id": "fifth-third-park-comerica-rename-tigers-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-09-21T00:00:00Z",
+    "source_name": "Detroit News",
+    "source_url": "https://www.detroitnews.com/story/sports/mlb/tigers/2026/09/21/comerica-park-in-detroit-set-to-change-names-after-bank-merger/91870093007/",
+    "i18n": {
+      "en": {
+        "title": "Detroit Tigers' Comerica Park to Be Renamed Fifth Third Park",
+        "summary": "The Detroit Tigers and Fifth Third Bank announced that the team's home ballpark will become Fifth Third Park starting with the 2027 season. The renaming follows Fifth Third Bancorp's multibillion-dollar acquisition of Comerica earlier in 2026, with signage updates planned for the offseason."
+      },
+      "ja": {
+        "title": "デトロイト・タイガースの本拠地、コメリカ・パークが「フィフス・サード・パーク」に改称",
+        "summary": "デトロイト・タイガースとフィフス・サード銀行は、2027年シーズンから本拠地球場の名称を「フィフス・サード・パーク」に変更すると発表した。2026年に成立したフィフス・サード・バンコープによるコメリカ買収を受けた措置で、看板類はオフシーズン中に更新される予定。"
+      },
+      "es": {
+        "title": "El Comerica Park de los Tigers de Detroit pasará a llamarse Fifth Third Park",
+        "summary": "Los Tigers de Detroit y Fifth Third Bank anunciaron que el estadio del equipo pasará a llamarse Fifth Third Park a partir de la temporada 2027. El cambio de nombre sigue a la adquisición multimillonaria de Comerica por parte de Fifth Third Bancorp a principios de 2026, con actualizaciones de señalización previstas para la temporada baja."
+      },
+      "zh": {
+        "title": "底特律老虎队主场科美利加公园将更名为Fifth Third Park",
+        "summary": "底特律老虎队与Fifth Third银行宣布，球队主场球场将从2027赛季起更名为Fifth Third Park。此举是Fifth Third Bancorp于2026年早些时候完成对科美利加数十亿美元收购后的结果，场馆标识预计将在休赛期更新。"
+      },
+      "fr": {
+        "title": "Le Comerica Park des Tigers de Détroit rebaptisé Fifth Third Park",
+        "summary": "Les Tigers de Détroit et la banque Fifth Third ont annoncé que le stade de l'équipe s'appellera désormais Fifth Third Park à partir de la saison 2027. Ce changement de nom fait suite au rachat de plusieurs milliards de dollars de Comerica par Fifth Third Bancorp plus tôt en 2026, la signalétique devant être mise à jour pendant l'intersaison."
+      }
+    }
+  },
+  {
+    "id": "leeds-united-etoro-trading-partner-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "stadium"
+    ],
+    "published_at": "2026-08-28T00:00:00Z",
+    "source_name": "Leeds United",
+    "source_url": "https://www.leedsunited.com/en/news/leeds-united-announce-multi-year-partnership-with-etoro",
+    "i18n": {
+      "en": {
+        "title": "Leeds United Names eToro Official Trading Partner in Multi-Year Deal",
+        "summary": "Leeds United announced a multi-year partnership with trading platform eToro, covering both the men's and women's teams from the 2026-27 season. eToro branding will appear on pitchside LED boards, stadium screens and digital content at Elland Road, joining the platform's growing roster of club sponsorships."
+      },
+      "ja": {
+        "title": "リーズ・ユナイテッド、複数年契約でeToroをオフィシャル・トレーディング・パートナーに",
+        "summary": "リーズ・ユナイテッドは、取引プラットフォームのeToroと複数年にわたるパートナーシップ契約を発表した。2026-27シーズンから男子・女子両チームが対象となり、本拠地エランド・ロードのLED広告板やスタジアム映像、デジタルコンテンツにeToroのブランドが表示される。"
+      },
+      "es": {
+        "title": "Leeds United nombra a eToro socio oficial de trading en un acuerdo plurianual",
+        "summary": "Leeds United anunció una asociación plurianual con la plataforma de trading eToro, que abarca tanto al equipo masculino como al femenino desde la temporada 2026-27. La marca eToro aparecerá en las vallas LED junto al campo, las pantallas del estadio y el contenido digital en Elland Road."
+      },
+      "zh": {
+        "title": "利兹联签下多年协议 eToro成为官方交易合作伙伴",
+        "summary": "利兹联宣布与交易平台eToro达成多年合作，自2026-27赛季起男女两队均纳入协议范围。eToro的品牌标识将出现在埃兰路球场的场边LED广告牌、大屏幕及数字内容中。"
+      },
+      "fr": {
+        "title": "Leeds United nomme eToro partenaire officiel de trading dans un accord pluriannuel",
+        "summary": "Leeds United a annoncé un partenariat pluriannuel avec la plateforme de trading eToro, couvrant les équipes masculine et féminine dès la saison 2026-27. La marque eToro apparaîtra sur les panneaux LED de bord de terrain, les écrans du stade et le contenu numérique à Elland Road."
+      }
+    }
+  },
+  {
+    "id": "paysafe-envision-racing-formula-e-title-partner-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-08-14T00:00:00Z",
+    "source_name": "Paysafe",
+    "source_url": "https://www.paysafe.com/us-en/paysafegroup/news/detail/paysafe-becomes-envision-racing-title-partner-to-build-the-future-of-fan-engagement-where-motorsport-gaming-and-payments-become-one/",
+    "i18n": {
+      "en": {
+        "title": "Paysafe Becomes Title Partner of Envision Racing in Formula E",
+        "summary": "Payments company Paysafe announced a title partnership with Envision Racing, with the Formula E team competing as Paysafe Envision Racing starting in Season 13. The companies said the deal aims to link motorsport, gaming and payments in new fan engagement activations."
+      },
+      "ja": {
+        "title": "ペイセーフ、フォーミュラE「エンビジョン・レーシング」のタイトルパートナーに",
+        "summary": "決済企業ペイセーフは、フォーミュラEチームのエンビジョン・レーシングとタイトルパートナー契約を締結したと発表した。シーズン13から「ペイセーフ・エンビジョン・レーシング」としてレースに参戦する。両社はモータースポーツ、ゲーム、決済を結び付けた新たなファンエンゲージメント施策を目指すとしている。"
+      },
+      "es": {
+        "title": "Paysafe se convierte en patrocinador principal de Envision Racing en la Fórmula E",
+        "summary": "La empresa de pagos Paysafe anunció una asociación de patrocinio principal con Envision Racing, y el equipo de Fórmula E competirá como Paysafe Envision Racing a partir de la Temporada 13. Las compañías indicaron que el acuerdo busca vincular el automovilismo, los videojuegos y los pagos en nuevas iniciativas de interacción con los aficionados."
+      },
+      "zh": {
+        "title": "Paysafe成为电动方程式车队Envision Racing冠名合作伙伴",
+        "summary": "支付公司Paysafe宣布与电动方程式（Formula E）车队Envision Racing达成冠名合作，该队将从第13赛季起以“Paysafe Envision Racing”名义参赛。双方表示，此次合作旨在将赛车运动、游戏与支付相结合，打造全新的球迷互动方式。"
+      },
+      "fr": {
+        "title": "Paysafe devient partenaire-titre d'Envision Racing en Formule E",
+        "summary": "L'entreprise de paiement Paysafe a annoncé un partenariat-titre avec Envision Racing, l'écurie de Formule E concourant sous le nom de Paysafe Envision Racing dès la Saison 13. Les deux sociétés indiquent que cet accord vise à relier sport automobile, jeu vidéo et paiements dans de nouvelles activations destinées aux fans."
+      }
+    }
   }
 ]
