@@ -6432,5 +6432,242 @@
         "summary": "Le fabricant d'écrans JAPANNEXT a signé un accord de sponsoring avec l'équipe professionnelle japonaise d'esport VAMOS, s'ajoutant à une liste croissante de partenariats d'équipes pour cette marque d'écrans de jeu. Les entreprises indiquent que cet accord vise à créer de nouvelles expériences numériques pour les fans en parallèle des activités compétitives de l'équipe."
       }
     }
+  },
+  {
+    "id": "messi-eldense-second-division-club-purchase",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-09T00:00:00Z",
+    "source_name": "Al Jazeera",
+    "source_url": "https://www.aljazeera.com/sports/2026/9/9/lionel-messi-agrees-deal-to-buy-second-tier-spanish-club-eldense",
+    "i18n": {
+      "en": {
+        "title": "Messi Agrees to Buy Second-Division Spanish Club Eldense",
+        "summary": "Lionel Messi has reached a preliminary agreement to acquire full ownership of CD Eldense, a Segunda División side based in the Alicante town of Elda, pending due diligence and approval from Spain's sports authorities. The move extends the Inter Miami forward's growing portfolio of club ownership stakes, which already includes sides in Argentina, Uruguay and Spain."
+      },
+      "ja": {
+        "title": "メッシ、スペイン2部リーグのエルデンセ買収に合意",
+        "summary": "リオネル・メッシがスペイン2部（セグンダ・ディビシオン）に所属するCDエルデンセの全株式取得に向けて予備合意に達したと報じられた。取引はデューデリジェンスとスペインスポーツ当局の承認を経て成立する見通し。インテル・マイアミでプレーするメッシは、アルゼンチンやウルグアイなど複数国のクラブに既に出資しており、オーナーシップの幅を広げている。"
+      },
+      "es": {
+        "title": "Messi acuerda comprar el club español de segunda división Eldense",
+        "summary": "Lionel Messi llegó a un acuerdo preliminar para adquirir la totalidad de las acciones del CD Eldense, equipo de la Segunda División con sede en Elda, Alicante, a la espera de la debida diligencia y la autorización de las autoridades deportivas españolas. El movimiento amplía la cartera de participaciones en clubes del delantero del Inter Miami, que ya incluye equipos en Argentina, Uruguay y España."
+      },
+      "zh": {
+        "title": "梅西同意收购西班牙乙级球队埃尔登塞",
+        "summary": "据报道，利昂内尔·梅西已就全资收购西班牙第二级联赛球队埃尔登塞（总部位于阿利坎特省埃尔达）达成初步协议，交易仍需完成尽职调查并获得西班牙体育主管部门批准。这位迈阿密国际前锋的俱乐部持股版图不断扩大，此前已在阿根廷、乌拉圭和西班牙拥有球队股份。"
+      },
+      "fr": {
+        "title": "Messi s'accorde pour racheter le club espagnol de deuxième division Eldense",
+        "summary": "Lionel Messi a conclu un accord préliminaire pour acquérir l'intégralité des parts du CD Eldense, club de Segunda División basé à Elda, dans la province d'Alicante, sous réserve d'un audit et de l'autorisation des autorités sportives espagnoles. Cette opération élargit le portefeuille de participations dans des clubs de l'attaquant de l'Inter Miami, qui détient déjà des parts en Argentine, en Uruguay et en Espagne."
+      }
+    }
+  },
+  {
+    "id": "adidas-unrivaled-apparel-partnership-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-09-23T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/leagues/basketball/2026/unrivaled-tabs-adidas-as-apparel-partner-as-sportswear-industry-spins-1234945531/",
+    "i18n": {
+      "en": {
+        "title": "Adidas Becomes Unrivaled's Official Apparel Partner, Replacing Under Armour",
+        "summary": "Women's 3-on-3 basketball league Unrivaled signed a multiyear partnership naming Adidas as its official uniform and performance-apparel supplier, taking over from launch outfitter Under Armour starting with the 2027 season. The deal, whose financial terms were not disclosed, arrives as the league's valuation has nearly doubled year-over-year to roughly $650 million."
+      },
+      "ja": {
+        "title": "アディダス、女子3人制バスケ「アンライバルド」の公式アパレルパートナーに就任",
+        "summary": "女子3人制バスケットボールリーグ「アンライバルド」は、2027年シーズンから公式ユニフォーム・パフォーマンスアパレルサプライヤーとしてアディダスと複数年契約を結び、創設時からのサプライヤーであったアンダーアーマーから移行することを発表した。契約の金額は非公表だが、リーグの企業価値は前年から約2倍の約6億5000万ドルに達しているという。"
+      },
+      "es": {
+        "title": "Adidas se convierte en el socio oficial de indumentaria de Unrivaled, sustituyendo a Under Armour",
+        "summary": "La liga de baloncesto femenino 3x3 Unrivaled firmó una asociación multianual que designa a Adidas como su proveedor oficial de uniformes y ropa de rendimiento, sustituyendo a Under Armour a partir de la temporada 2027. Los términos financieros no se revelaron, y el acuerdo llega mientras la valoración de la liga casi se duplicó en un año hasta unos 650 millones de dólares."
+      },
+      "zh": {
+        "title": "阿迪达斯成为Unrivaled官方装备合作伙伴，取代安德玛",
+        "summary": "女子3人制篮球联赛Unrivaled宣布与阿迪达斯签署多年合作协议，由其担任官方比赛服及功能性装备供应商，自2027赛季起取代创始供应商安德玛（Under Armour）。协议财务条款未披露，此时该联赛估值较去年几乎翻倍，达到约6.5亿美元。"
+      },
+      "fr": {
+        "title": "Adidas devient le partenaire officiel d'équipement d'Unrivaled, remplaçant Under Armour",
+        "summary": "La ligue de basketball féminin en 3x3 Unrivaled a signé un partenariat pluriannuel faisant d'Adidas son fournisseur officiel de maillots et d'équipement de performance, prenant la suite d'Under Armour dès la saison 2027. Les termes financiers n'ont pas été révélés, cet accord survenant alors que la valorisation de la ligue a presque doublé en un an, atteignant environ 650 millions de dollars."
+      }
+    }
+  },
+  {
+    "id": "plenitude-eni-paris-la-defense-arena-naming-rights",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-06-17T00:00:00Z",
+    "source_name": "The Stadium Business",
+    "source_url": "https://www.thestadiumbusiness.com/2026/06/17/sustainability-the-focus-for-paris-la-defense-arena-naming-rights-deal/",
+    "i18n": {
+      "en": {
+        "title": "Plenitude Takes Naming Rights to Europe's Largest Indoor Arena",
+        "summary": "Eni's renewable-energy unit Plenitude signed a seven-year naming-rights agreement with Paris La Défense Arena, renaming Europe's largest indoor venue as Plenitude Arena effective July 1. Beyond branding, the partnership will draw on Plenitude's energy expertise to help the venue cut consumption and move toward more sustainable operations."
+      },
+      "ja": {
+        "title": "プレニチュード、欧州最大の屋内アリーナの命名権を取得",
+        "summary": "イタリアのエネルギー大手Eniの再生可能エネルギー部門プレニチュードは、パリ・ラ・デファンス・アリーナと7年間の命名権契約を締結し、7月1日付で欧州最大の屋内会場を「プレニチュード・アリーナ」に改称した。ブランディングに加え、プレニチュードのエネルギー技術を活用して会場の消費電力削減と運営の持続可能性向上を進めるという。"
+      },
+      "es": {
+        "title": "Plenitude adquiere los derechos de denominación de la mayor arena cubierta de Europa",
+        "summary": "La filial de energías renovables de Eni, Plenitude, firmó un acuerdo de siete años por los derechos de denominación del Paris La Défense Arena, rebautizando desde el 1 de julio al mayor recinto cubierto de Europa como Plenitude Arena. Más allá de la marca, la asociación aprovechará la experiencia energética de Plenitude para reducir el consumo del recinto y avanzar hacia operaciones más sostenibles."
+      },
+      "zh": {
+        "title": "Plenitude获得欧洲最大室内竞技场命名权",
+        "summary": "意大利能源巨头Eni旗下可再生能源公司Plenitude与巴黎拉德芳斯竞技场签署为期七年的命名权协议，自7月1日起将这座欧洲最大的室内场馆更名为“Plenitude竞技场”。除品牌冠名外，双方还将借助Plenitude的能源技术帮助场馆降低能耗，推动运营向更可持续的方向转型。"
+      },
+      "fr": {
+        "title": "Plenitude rachète les droits de dénomination de la plus grande arène couverte d'Europe",
+        "summary": "La filiale d'énergies renouvelables d'Eni, Plenitude, a signé un accord de sept ans pour les droits de dénomination de la Paris La Défense Arena, rebaptisant depuis le 1er juillet la plus grande salle couverte d'Europe « Plenitude Arena ». Au-delà de l'image de marque, le partenariat s'appuiera sur l'expertise énergétique de Plenitude pour réduire la consommation du site et le faire évoluer vers une exploitation plus durable."
+      }
+    }
+  },
+  {
+    "id": "salomon-ironman-title-partner-kona-2027",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-11T00:00:00Z",
+    "source_name": "TRI247",
+    "source_url": "https://www.tri247.com/triathlon-news/elite/salomon-lands-kona-title-rights-2027-five-year-deal",
+    "i18n": {
+      "en": {
+        "title": "Salomon Signs Five-Year Deal for Ironman World Championship Title Rights",
+        "summary": "Outdoor brand Salomon agreed to a five-year global partnership with The Ironman Group that hands it title rights to the Ironman World Championship in Kona starting in 2027, running through 2031. As an Ironman Global Premier Partner, Salomon gains exclusive footwear, apparel and bag rights and will brand the run course at selected races across the US and Europe."
+      },
+      "ja": {
+        "title": "サロモン、アイアンマン世界選手権のタイトル権で5年契約",
+        "summary": "アウトドアブランドのサロモンは、アイアンマン・グループとグローバルパートナーシップを締結し、2027年から2031年までコナで行われるアイアンマン世界選手権のタイトル権を取得した。グローバル・プレミアパートナーとして、シューズやアパレル、バッグ分野での独占権を持ち、米国と欧州の一部レースではランコースにブランド名を冠する。"
+      },
+      "es": {
+        "title": "Salomon firma un acuerdo de cinco años por los derechos del título del Mundial Ironman",
+        "summary": "La marca outdoor Salomon acordó una asociación global de cinco años con The Ironman Group que le otorga los derechos del título del Campeonato Mundial Ironman en Kona a partir de 2027 y hasta 2031. Como Socio Premier Global de Ironman, Salomon obtiene derechos exclusivos de calzado, indumentaria y bolsos, y dará nombre al recorrido de carrera en pruebas selectas de EE. UU. y Europa."
+      },
+      "zh": {
+        "title": "萨洛蒙签下五年协议获得铁人三项世锦赛冠名权",
+        "summary": "户外品牌萨洛蒙（Salomon）与Ironman集团达成为期五年的全球合作，自2027年起至2031年获得在夏威夷科纳举行的铁人三项世界锦标赛冠名权。作为Ironman全球高级合作伙伴，萨洛蒙将在鞋类、服装及背包类目享有独家权益，并在美国和欧洲部分赛事中为跑步赛道命名。"
+      },
+      "fr": {
+        "title": "Salomon signe un accord de cinq ans pour les droits du titre du Championnat du monde Ironman",
+        "summary": "La marque outdoor Salomon a conclu un partenariat mondial de cinq ans avec The Ironman Group lui accordant les droits du titre du Championnat du monde Ironman à Kona à partir de 2027 et jusqu'en 2031. En tant que partenaire premier mondial d'Ironman, Salomon obtient des droits exclusifs sur les chaussures, les vêtements et les sacs, et donnera son nom au parcours de course lors de certaines épreuves aux États-Unis et en Europe."
+      }
+    }
+  },
+  {
+    "id": "pwhl-scripps-sports-national-tv-deal-2026-27",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "biz",
+      "fan"
+    ],
+    "published_at": "2026-09-09T00:00:00Z",
+    "source_name": "PWHL",
+    "source_url": "https://www.thepwhl.com/en/news/2026/september/09/pwhl-and-scripps-sports-announce-national-us-television-partnership-for-2026-27-season",
+    "i18n": {
+      "en": {
+        "title": "PWHL Lands First Season-Long US National TV Deal With Scripps Sports",
+        "summary": "The Professional Women's Hockey League signed its first full-season national US broadcast agreement, with Scripps Sports airing a weekly Saturday \"Game of the Week\" on its ION network, reaching more than 128 million households. The deal also makes ION the exclusive home for the Walter Cup Finals and adds local broadcast partners in the league's new Detroit and Las Vegas expansion markets."
+      },
+      "ja": {
+        "title": "PWHL、スクリップス・スポーツと初のシーズン通年米国全国放送契約",
+        "summary": "女子プロアイスホッケーリーグ（PWHL）は、米国初のシーズン通年での全国放送契約をスクリップス・スポーツと締結した。傘下のIONネットワークで毎週土曜の「ゲーム・オブ・ザ・ウィーク」を放送し、全米1億2800万世帯以上に届く。契約により、IONはウォルターカップ決勝の独占放送局となり、新規参入するデトロイトとラスベガス市場にも地元放送パートナーが加わる。"
+      },
+      "es": {
+        "title": "La PWHL cierra su primer acuerdo nacional de TV de temporada completa en EE. UU. con Scripps Sports",
+        "summary": "La Liga Profesional de Hockey Femenino firmó su primer acuerdo de transmisión nacional de temporada completa en Estados Unidos, con Scripps Sports emitiendo un \"Juego de la Semana\" cada sábado por su red ION, que llega a más de 128 millones de hogares. El acuerdo también convierte a ION en la sede exclusiva de las finales de la Copa Walter y suma socios de transmisión local en los nuevos mercados de expansión de Detroit y Las Vegas."
+      },
+      "zh": {
+        "title": "PWHL与Scripps Sports签署首个全季美国全国电视协议",
+        "summary": "职业女子冰球联赛（PWHL）与Scripps Sports签署了其在美国首个完整赛季的全国转播协议，Scripps旗下ION网络将每周六播出“本周焦点赛事”，覆盖超过1.28亿家庭。协议还使ION成为沃尔特杯总决赛的独家转播平台，并为联赛新扩军的底特律和拉斯维加斯市场增加了本地转播伙伴。"
+      },
+      "fr": {
+        "title": "La PWHL signe son premier accord de diffusion national américain sur une saison complète avec Scripps Sports",
+        "summary": "La Ligue professionnelle de hockey féminin a signé son premier accord de diffusion national américain portant sur une saison complète, Scripps Sports diffusant chaque samedi un « match de la semaine » sur son réseau ION, qui touche plus de 128 millions de foyers. L'accord fait aussi d'ION le diffuseur exclusif de la finale de la Coupe Walter et ajoute des partenaires de diffusion locaux dans les nouveaux marchés d'expansion de Detroit et Las Vegas."
+      }
+    }
+  },
+  {
+    "id": "lafc-carlos-vela-joe-tsai-stake-sale-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-03-05T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/business/team-sales/2026/joe-tsai-carlos-vela-lafc-mls-stake-sale-1234886489/",
+    "i18n": {
+      "en": {
+        "title": "Carlos Vela Joins LAFC Ownership as Joe Tsai Exits in $1.25 Billion Stake Sale",
+        "summary": "Former LAFC forward Carlos Vela became a limited partner in the MLS club's ownership group as part of a transaction valuing the team at $1.25 billion, with Brooklyn Nets owner Joe Tsai and Fanatics Collectibles' Mike Mahan exiting the group. Vela is joined by two other incoming investors buying roughly 6% of the club's equity."
+      },
+      "ja": {
+        "title": "カルロス・ベラがLAFCオーナー陣に参加、ジョー・ツァイは離脱 12.5億ドルの株式取得",
+        "summary": "LAFC（ロサンゼルスFC）の元フォワード、カルロス・ベラが、球団を12億5000万ドルと評価する取引の一環として同クラブのオーナーシップグループに有限責任パートナーとして加わった。一方、ブルックリン・ネッツの所有者ジョー・ツァイとファナティクス・コレクティブルズのマイク・マハンはグループを離脱する。ベラを含む新規投資家3人がクラブの株式約6%を取得した。"
+      },
+      "es": {
+        "title": "Carlos Vela se une a la propiedad de LAFC mientras Joe Tsai sale en una venta de participación de 1.250 millones de dólares",
+        "summary": "El exdelantero de LAFC Carlos Vela se convirtió en socio limitado del grupo propietario del club de la MLS como parte de una transacción que valora al equipo en 1.250 millones de dólares, mientras el propietario de los Brooklyn Nets, Joe Tsai, y Mike Mahan, de Fanatics Collectibles, abandonan el grupo. Vela se une a otros dos nuevos inversores que adquieren alrededor del 6% del capital del club."
+      },
+      "zh": {
+        "title": "卡洛斯·维拉加入LAFC所有权，蔡崇信在12.5亿美元股权交易中退出",
+        "summary": "LAFC（洛杉矶FC）前锋卡洛斯·维拉作为有限合伙人加入该美职联球队的所有权团队，这笔交易将球队估值定为12.5亿美元；同时，布鲁克林篮网老板蔡崇信及Fanatics Collectibles的迈克·马汉退出该所有权团队。维拉与另外两名新投资者共购入该俱乐部约6%的股权。"
+      },
+      "fr": {
+        "title": "Carlos Vela rejoint la propriété du LAFC tandis que Joe Tsai se retire lors d'une vente de participation de 1,25 milliard de dollars",
+        "summary": "L'ancien attaquant du LAFC Carlos Vela est devenu associé commanditaire au sein du groupe propriétaire du club de MLS dans le cadre d'une transaction valorisant l'équipe à 1,25 milliard de dollars, tandis que le propriétaire des Brooklyn Nets Joe Tsai et Mike Mahan de Fanatics Collectibles quittent le groupe. Vela est rejoint par deux autres nouveaux investisseurs qui acquièrent environ 6 % des parts du club."
+      }
+    }
+  },
+  {
+    "id": "rogers-communications-mlse-full-buyout-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-07-06T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/business/finance/2026/rogers-buys-mlse-toronto-maple-leafs-raptors-1234938017/",
+    "i18n": {
+      "en": {
+        "title": "Rogers Pays $3.1 Billion for Full Control of Toronto's MLSE Empire",
+        "summary": "Rogers Communications agreed to buy the remaining 25% stake in Maple Leaf Sports & Entertainment from Kilmer Sports for roughly CAD $4.35 billion, giving it sole ownership of the Maple Leafs, Raptors and Toronto FC once the deal closes in the fourth quarter. Combined with its existing ownership of the Blue Jays, Rogers Centre and Sportsnet, the move consolidates one of the largest sports-and-media portfolios in North America under a single owner."
+      },
+      "ja": {
+        "title": "ロジャース、トロントMLSE帝国の完全支配権に31億ドルを投じる",
+        "summary": "カナダの通信大手ロジャース・コミュニケーションズは、キルマー・スポーツが保有するメープル・リーフ・スポーツ&エンターテインメント（MLSE）の残り25%株式を約43.5億カナダドルで買収することに合意した。取引が第4四半期に完了すれば、メープルリーフス、ラプターズ、トロントFCを完全所有することになる。既に所有するブルージェイズやロジャース・センター、スポーツネットと合わせ、北米有数のスポーツ・メディア帝国を単独オーナーの下に統合する。"
+      },
+      "es": {
+        "title": "Rogers paga 3.100 millones de dólares por el control total del imperio MLSE de Toronto",
+        "summary": "Rogers Communications acordó comprar el 25% restante de Maple Leaf Sports & Entertainment a Kilmer Sports por aproximadamente 4.350 millones de dólares canadienses, lo que le otorgará la propiedad total de los Maple Leafs, los Raptors y el Toronto FC una vez cierre el trato en el cuarto trimestre. Junto con su propiedad existente de los Blue Jays, el Rogers Centre y Sportsnet, la operación consolida bajo un único propietario una de las mayores carteras deportivas y mediáticas de Norteamérica."
+      },
+      "zh": {
+        "title": "罗杰斯出资31亿美元获得多伦多MLSE体育帝国全部控股权",
+        "summary": "加拿大电信巨头罗杰斯通讯同意以约43.5亿加元的价格收购Kilmer Sports持有的Maple Leaf Sports & Entertainment（MLSE）剩余25%股权，交易预计第四季度完成后，罗杰斯将全资拥有枫叶队、猛龙队和多伦多FC。加上此前已持有的蓝鸟队、罗杰斯中心及Sportsnet，此举将北美最大的体育媒体资产之一整合到单一所有者名下。"
+      },
+      "fr": {
+        "title": "Rogers verse 3,1 milliards de dollars pour le contrôle total de l'empire sportif MLSE de Toronto",
+        "summary": "Rogers Communications a accepté de racheter les 25 % restants de Maple Leaf Sports & Entertainment détenus par Kilmer Sports pour environ 4,35 milliards de dollars canadiens, ce qui lui donnera la pleine propriété des Maple Leafs, des Raptors et du Toronto FC une fois la transaction conclue au quatrième trimestre. Combinée à sa propriété déjà existante des Blue Jays, du Rogers Centre et de Sportsnet, cette opération réunit sous un seul propriétaire l'un des plus vastes portefeuilles sportifs et médiatiques d'Amérique du Nord."
+      }
+    }
   }
 ]
