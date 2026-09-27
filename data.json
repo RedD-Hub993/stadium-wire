@@ -5553,5 +5553,344 @@
         "summary": "Le groupe d'infrastructures événementielles GL events a signé en tant que partenaire officiel des infrastructures temporaires des Jeux d'hiver de Milan-Cortina 2026. L'entreprise fournira, installera et démontera des structures provisoires telles que tentes, bâtiments modulaires et espaces médias sur les sites des Jeux."
       }
     }
+  },
+  {
+    "id": "inter-miami-marriott-sponsorship",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-27T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/business/sponsorship/2026/mls-inter-miami-lionel-messi-sponsor-marriott-1234939740/",
+    "i18n": {
+      "en": {
+        "title": "Marriott Signs Sponsorship Deal with Inter Miami",
+        "summary": "Inter Miami CF has agreed a new commercial partnership with Marriott, capitalizing on the club's rising global profile following a high-exposure World Cup stretch built around Lionel Messi. The deal adds a major hospitality brand to Inter Miami's growing sponsor portfolio as MLS clubs increasingly attract multinational partners."
+      },
+      "ja": {
+        "title": "マリオット、インテル・マイアミとスポンサー契約",
+        "summary": "インテル・マイアミCFは、リオネル・メッシを中心としたワールドカップ関連の露出拡大を背景に、マリオットと新たな商業提携契約を締結した。今回の契約により、MLSクラブが多国籍ブランドを引きつける流れの中で、同クラブのスポンサー陣に大手ホスピタリティブランドが加わることになる。"
+      },
+      "es": {
+        "title": "Marriott firma un acuerdo de patrocinio con el Inter Miami",
+        "summary": "El Inter Miami CF ha cerrado una nueva alianza comercial con Marriott, aprovechando el creciente perfil global del club tras una etapa de gran exposición mediática ligada al Mundial y a Lionel Messi. El acuerdo suma una importante marca hotelera a la cartera de patrocinadores del club, en un momento en que los equipos de la MLS atraen cada vez más socios multinacionales."
+      },
+      "zh": {
+        "title": "万豪与迈阿密国际签署赞助协议",
+        "summary": "迈阿密国际足球俱乐部与万豪酒店达成新的商业合作协议，此举正值球队因梅西相关的世界杯曝光度大幅提升之际。该协议为俱乐部日益扩大的赞助商阵容增添了一家重要的酒店品牌，反映出美职联球队正吸引越来越多跨国企业合作伙伴。"
+      },
+      "fr": {
+        "title": "Marriott signe un accord de sponsoring avec l'Inter Miami",
+        "summary": "L'Inter Miami CF a conclu un nouveau partenariat commercial avec Marriott, profitant de la visibilité mondiale grandissante du club à la suite d'une période de forte exposition liée à la Coupe du Monde et à Lionel Messi. Cet accord ajoute une grande marque hôtelière au portefeuille de sponsors du club, alors que les équipes de la MLS attirent de plus en plus de partenaires multinationaux."
+      }
+    }
+  },
+  {
+    "id": "baystars-yokohama-stadium-fan-sponsor-events",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "fan",
+      "stadium"
+    ],
+    "published_at": "2026-09-18T00:00:00Z",
+    "source_name": "Yokohama DeNA BayStars",
+    "source_url": "https://www.baystars.co.jp/news/2026/sponsor_09.php",
+    "i18n": {
+      "en": {
+        "title": "Yokohama DeNA BayStars Run Sponsor-Backed Fan Events Through September",
+        "summary": "The Yokohama DeNA BayStars hosted a string of sponsor-driven promotions at Yokohama Stadium this month, including a Nojima-branded 'Blue Light Series' fan activation and a label-free bottle giveaway with Coca-Cola Bottlers Japan. The club also unveiled a specially designed Nissan Leaf as a new on-field support vehicle."
+      },
+      "ja": {
+        "title": "横浜DeNAベイスターズ、9月にスポンサー協賛のファンイベントを相次いで開催",
+        "summary": "横浜DeNAベイスターズは今月、横浜スタジアムでノジマ協賛の『ブルー☆ライトシリーズ』のファン向け企画や、コカ・コーラボトラーズジャパンによるラベルレスボトルの配布イベントなど、スポンサー主体の企画を相次いで実施した。あわせて、特別デザインの日産リーフを新たなサポートカーとして披露した。"
+      },
+      "es": {
+        "title": "Los Yokohama DeNA BayStars organizan eventos para aficionados patrocinados en septiembre",
+        "summary": "Los Yokohama DeNA BayStars celebraron una serie de promociones patrocinadas en el Estadio de Yokohama este mes, incluida una activación para aficionados de la 'Blue Light Series' de Nojima y un sorteo de botellas sin etiqueta junto con Coca-Cola Bottlers Japan. El club también presentó un Nissan Leaf con un diseño especial como nuevo vehículo de apoyo en el campo."
+      },
+      "zh": {
+        "title": "横滨DeNA湾星队九月接连举办赞助商球迷活动",
+        "summary": "横滨DeNA湾星队本月在横滨体育场接连举办多场由赞助商主导的球迷活动，包括由野岛电器冠名的『蓝光系列』球迷互动，以及与可口可乐博特勒斯日本合作的无标签瓶装水赠送活动。球队还发布了一辆特别设计的日产聆风作为新的场地支援用车。"
+      },
+      "fr": {
+        "title": "Les Yokohama DeNA BayStars multiplient les événements sponsorisés pour les fans en septembre",
+        "summary": "Les Yokohama DeNA BayStars ont organisé une série de promotions sponsorisées au stade de Yokohama ce mois-ci, dont une animation pour supporters de la « Blue Light Series » soutenue par Nojima et une distribution de bouteilles sans étiquette avec Coca-Cola Bottlers Japan. Le club a également dévoilé une Nissan Leaf au design spécial comme nouveau véhicule d'assistance sur le terrain."
+      }
+    }
+  },
+  {
+    "id": "infront-hyrox-lcatterton-stake-sale",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "biz",
+      "sponsor"
+    ],
+    "published_at": "2026-09-08T00:00:00Z",
+    "source_name": "SportsPro",
+    "source_url": "https://www.sportspro.com/announcements/spotlight-agency/consortium-led-by-l-catterton-in-partnership-with-hyrox-founders-acquires-infronts-majority-stake-in-hyrox/",
+    "i18n": {
+      "en": {
+        "title": "L Catterton-Led Group Buys Majority Stake in Fitness Race Series Hyrox",
+        "summary": "Sports agency Infront has sold its majority stake in fitness competition brand Hyrox to a consortium led by private equity firm L Catterton, working alongside Hyrox's founders, in a deal reported to value the business at roughly €600 million. The sale underscores continued investor appetite for fast-growing participation sports properties."
+      },
+      "ja": {
+        "title": "Lカタトンが主導する企業連合、フィットネスレースブランド『ハイロックス』の過半数株式を取得",
+        "summary": "スポーツマーケティング大手インフロントは、フィットネス競技ブランド『ハイロックス』に保有していた過半数株式を、プライベートエクイティのLカタトンが主導する企業連合に売却した。この連合にはハイロックスの創業者らも参加しており、事業評価額は約6億ユーロと報じられている。"
+      },
+      "es": {
+        "title": "Un consorcio liderado por L Catterton compra la participación mayoritaria en Hyrox",
+        "summary": "La agencia deportiva Infront ha vendido su participación mayoritaria en la marca de competiciones de fitness Hyrox a un consorcio liderado por la firma de capital privado L Catterton, junto con los fundadores de Hyrox. Se informa que la operación valora el negocio en unos 600 millones de euros, lo que confirma el fuerte interés inversor en propiedades deportivas participativas de rápido crecimiento."
+      },
+      "zh": {
+        "title": "L Catterton牵头财团收购健身赛事品牌Hyrox多数股权",
+        "summary": "体育营销公司英孚朗（Infront）已将其持有的健身竞赛品牌Hyrox多数股权出售给由私募股权公司L Catterton牵头、并有Hyrox创始人参与的财团。据报道，此次交易对该业务的估值约为6亿欧元，显示投资者对快速增长的大众参与型体育品牌依然兴趣浓厚。"
+      },
+      "fr": {
+        "title": "Un consortium mené par L Catterton rachète la participation majoritaire dans Hyrox",
+        "summary": "L'agence sportive Infront a cédé sa participation majoritaire dans la marque de compétitions fitness Hyrox à un consortium mené par le fonds de capital-investissement L Catterton, aux côtés des fondateurs de Hyrox. L'opération valoriserait l'entreprise à environ 600 millions d'euros, confirmant l'appétit des investisseurs pour les marques sportives participatives à forte croissance."
+      }
+    }
+  },
+  {
+    "id": "visa-f1-red-bull-racing-sponsorship-renewal",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-27T00:00:00Z",
+    "source_name": "Sports Illustrated",
+    "source_url": "https://www.si.com/onsi/f1/news/visa-renews-and-expands-both-formula-1-team-sponsorships-in-multi-year-deal",
+    "i18n": {
+      "en": {
+        "title": "Visa Expands Sponsorship Across Oracle Red Bull Racing and Visa Cash App RB",
+        "summary": "Payments giant Visa has renewed and broadened its Formula 1 sponsorship, deepening its branding presence across both Oracle Red Bull Racing and Visa Cash App Racing Bulls under a new multi-year agreement. The expanded deal reflects the growing value brands place on F1's global audience reach."
+      },
+      "ja": {
+        "title": "ビザ、オラクル・レッドブル・レーシングとRBへのF1スポンサーシップを拡大",
+        "summary": "決済大手ビザは、F1におけるスポンサー契約を更新・拡大し、オラクル・レッドブル・レーシングとビザ・キャッシュアップ・レーシングブルズの両チームにわたるブランド露出を強化する複数年契約を締結した。今回の拡大は、F1が持つ世界的な視聴者基盤に対するブランド側の評価の高さを示している。"
+      },
+      "es": {
+        "title": "Visa amplía su patrocinio en Oracle Red Bull Racing y Visa Cash App RB",
+        "summary": "El gigante de pagos Visa ha renovado y ampliado su patrocinio en la Fórmula 1, reforzando su presencia de marca tanto en Oracle Red Bull Racing como en Visa Cash App Racing Bulls mediante un nuevo acuerdo plurianual. La ampliación refleja el creciente valor que las marcas otorgan al alcance global de audiencia de la F1."
+      },
+      "zh": {
+        "title": "Visa扩大在红牛车队与RB车队的F1赞助合作",
+        "summary": "支付巨头Visa续签并扩大了其在F1赛场的赞助合作，通过新的多年期协议加强在甲骨文红牛车队和Visa Cash App RB车队两支车队的品牌曝光。此次扩大合作反映出品牌方对F1全球观众覆盖面价值的持续看重。"
+      },
+      "fr": {
+        "title": "Visa élargit son partenariat avec Oracle Red Bull Racing et Visa Cash App RB",
+        "summary": "Le géant des paiements Visa a renouvelé et élargi son partenariat en Formule 1, renforçant sa présence de marque au sein d'Oracle Red Bull Racing comme de Visa Cash App Racing Bulls dans le cadre d'un nouvel accord pluriannuel. Cet élargissement illustre la valeur croissante que les marques accordent à l'audience mondiale de la F1."
+      }
+    }
+  },
+  {
+    "id": "dallas-stars-acrisure-jersey-patch",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-09-24T00:00:00Z",
+    "source_name": "Crain's Grand Rapids Business",
+    "source_url": "https://www.crainsgrandrapids.com/arts-entertainment/cgr-acrisure-dallas-stars-jersey-patch-sponsorship-20260924/",
+    "i18n": {
+      "en": {
+        "title": "Dallas Stars Add Acrisure as NHL Jersey Patch Sponsor",
+        "summary": "The Dallas Stars have signed insurance and fintech firm Acrisure as their new jersey patch sponsor, joining the large majority of NHL clubs that now carry patch sponsorships on their sweaters. The deal continues a broader trend of hockey teams monetizing jersey space once reserved for team crests alone."
+      },
+      "ja": {
+        "title": "NHLダラス・スターズ、アクリシュアとジャージパッチ契約を締結",
+        "summary": "NHLのダラス・スターズは、保険・フィンテック企業アクリシュアと新たなジャージパッチ・スポンサー契約を結んだ。NHLでは既に大多数のチームがジャージにパッチスポンサーを掲出しており、今回の契約もその流れに続くものとなる。"
+      },
+      "es": {
+        "title": "Los Dallas Stars incorporan a Acrisure como patrocinador de parche en la camiseta",
+        "summary": "Los Dallas Stars de la NHL han firmado con la firma de seguros y fintech Acrisure como nuevo patrocinador de parche en su camiseta, sumándose a la amplia mayoría de equipos de la liga que ya llevan publicidad de este tipo. El acuerdo continúa la tendencia de los equipos de hockey de monetizar un espacio antes reservado solo al escudo del club."
+      },
+      "zh": {
+        "title": "NHL达拉斯星队签下Acrisure作为球衣臂章赞助商",
+        "summary": "NHL达拉斯星队与保险及金融科技公司Acrisure签署新的球衣臂章赞助协议，加入联盟中已有的大多数球队之列，这些球队目前球衣上都印有臂章赞助广告。该协议延续了冰球球队将原本仅用于球队徽标的球衣空间进行商业化的趋势。"
+      },
+      "fr": {
+        "title": "Les Dallas Stars ajoutent Acrisure comme sponsor de patch sur leur maillot",
+        "summary": "Les Dallas Stars de la NHL ont signé avec la société d'assurance et de fintech Acrisure comme nouveau sponsor de patch sur leur maillot, rejoignant la grande majorité des équipes de la ligue qui arborent déjà ce type de publicité. Cet accord confirme la tendance des équipes de hockey à monétiser un espace autrefois réservé au seul écusson du club."
+      }
+    }
+  },
+  {
+    "id": "nippon-ham-fighters-eniwa-farm-complex",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "team"
+    ],
+    "published_at": "2026-09-25T00:00:00Z",
+    "source_name": "Hokkaido Nippon-Ham Fighters",
+    "source_url": "https://www.fighters.co.jp/news/detail/202600950240.html",
+    "i18n": {
+      "en": {
+        "title": "Nippon-Ham Fighters Agree to Build New Farm Team Complex in Eniwa",
+        "summary": "The Hokkaido Nippon-Ham Fighters signed a basic agreement with the city of Eniwa to construct a new farm-team facility complex, including a stadium, practice grounds, indoor training center and player dormitory. The project is part of a larger mixed-use development in the area that will also include housing and retail space."
+      },
+      "ja": {
+        "title": "日本ハムファイターズ、恵庭市とファーム施設整備で基本合意",
+        "summary": "北海道日本ハムファイターズは、北海道恵庭市との間で、新たなファーム施設群の整備に関する基本合意を締結した。計画には本拠となる球場のほか、サブグラウンド、屋内練習場、選手寮などが含まれ、住宅や商業施設を含む地域の複合開発計画の一環として進められる。"
+      },
+      "es": {
+        "title": "Los Nippon-Ham Fighters acuerdan construir un nuevo complejo para su equipo filial en Eniwa",
+        "summary": "Los Hokkaido Nippon-Ham Fighters firmaron un acuerdo básico con la ciudad de Eniwa para construir un nuevo complejo de instalaciones para su equipo filial, que incluirá un estadio, campos de entrenamiento, un centro de entrenamiento cubierto y una residencia para jugadores. El proyecto forma parte de un desarrollo urbano de uso mixto más amplio que también incluirá viviendas y comercios."
+      },
+      "zh": {
+        "title": "日本火腿斗士队与惠庭市就新建二军基地达成基本协议",
+        "summary": "北海道日本火腿斗士队与惠庭市签署基本协议，将在当地建设新的二军训练基地，包括主球场、副球场、室内训练设施及球员宿舍等设施。该项目是当地一项包含住宅与商业设施的更大规模综合开发计划的一部分。"
+      },
+      "fr": {
+        "title": "Les Nippon-Ham Fighters s'accordent avec la ville d'Eniwa pour un nouveau complexe d'équipe réserve",
+        "summary": "Les Hokkaido Nippon-Ham Fighters ont signé un accord de principe avec la ville d'Eniwa pour construire un nouveau complexe destiné à leur équipe réserve, comprenant un stade, des terrains d'entraînement, un centre d'entraînement couvert et un dortoir pour les joueurs. Le projet s'inscrit dans un développement urbain mixte plus vaste incluant aussi logements et commerces."
+      }
+    }
+  },
+  {
+    "id": "jleague-feileb-supporting-partner",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-09-01T00:00:00Z",
+    "source_name": "J.League",
+    "source_url": "https://www.jleague.jp/news/article/34779/",
+    "i18n": {
+      "en": {
+        "title": "J.League Signs Supplement Maker feileB as Supporting Partner",
+        "summary": "J.League has added feileB, maker of the Répierre conditioning supplement brand, as a new Supporting Partner under the league's youth and academy development category. The agreement extends J.League's roster of category-specific corporate partners supporting player development off the pitch."
+      },
+      "ja": {
+        "title": "Jリーグ、サプリメントメーカーのfeileBとサポーティングパートナー契約",
+        "summary": "Jリーグは、コンディショニングサプリメント『レピエール』を手がけるfeileBと、育成・アカデミー分野のサポーティングパートナー契約を新たに締結した。今回の契約により、ピッチ外での選手育成を支える企業パートナーの陣容がさらに拡大する。"
+      },
+      "es": {
+        "title": "La J.League ficha al fabricante de suplementos feileB como socio de apoyo",
+        "summary": "La J.League ha incorporado a feileB, fabricante de la marca de suplementos de recuperación Répierre, como nuevo Socio de Apoyo dentro de la categoría de desarrollo juvenil y de cantera de la liga. El acuerdo amplía la lista de socios corporativos específicos que respaldan el desarrollo de jugadores fuera del terreno de juego."
+      },
+      "zh": {
+        "title": "J联赛签下保健品品牌feileB为支持合作伙伴",
+        "summary": "J联赛新增保健品牌Répierre的制造商feileB为支持合作伙伴，归属于联赛青训与梯队培养类别。这项协议进一步扩充了在场外支持球员培养的专项企业合作伙伴阵容。"
+      },
+      "fr": {
+        "title": "La J.League signe avec le fabricant de compléments feileB comme partenaire de soutien",
+        "summary": "La J.League a ajouté feileB, fabricant de la marque de compléments de récupération Répierre, comme nouveau partenaire de soutien dans la catégorie développement des jeunes et des centres de formation. Cet accord élargit la liste des partenaires d'entreprise spécialisés qui soutiennent le développement des joueurs en dehors du terrain."
+      }
+    }
+  },
+  {
+    "id": "legacy-motor-club-fanatec-nascar-partner",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-07-16T00:00:00Z",
+    "source_name": "Speedway Media",
+    "source_url": "https://speedwaymedia.com/2026/07/16/legacy-motor-club-and-fanatec-announce-official-partnership-for-2026-and-2027-nascar-cup-series-seasons/",
+    "i18n": {
+      "en": {
+        "title": "Legacy Motor Club Signs Fanatec as NASCAR Cup Series Partner",
+        "summary": "Legacy Motor Club has brought on sim-racing hardware maker Fanatec as an official partner for the 2026 and 2027 NASCAR Cup Series seasons. Fanatec branding will appear on John Hunter Nemechek's No. 42 Toyota at select events, paired with fan-activation initiatives tying real racing to sim racing."
+      },
+      "ja": {
+        "title": "レガシー・モータークラブ、ファナテックとNASCARカップシリーズで提携",
+        "summary": "レガシー・モータークラブは、シムレーシング機器メーカーのファナテックと、2026・2027年のNASCARカップシリーズにおける公式パートナー契約を締結した。ファナテックのロゴはジョン・ハンター・ネメチェック選手が駆る42号車に一部レースで掲出され、実車レースとシムレーシングを結びつけるファン向け企画も予定されている。"
+      },
+      "es": {
+        "title": "Legacy Motor Club ficha a Fanatec como socio en la Copa NASCAR",
+        "summary": "Legacy Motor Club ha incorporado al fabricante de equipamiento de sim racing Fanatec como socio oficial para las temporadas 2026 y 2027 de la Copa NASCAR. El logo de Fanatec aparecerá en el auto número 42 de John Hunter Nemechek en carreras seleccionadas, junto con activaciones para aficionados que conectan las carreras reales con el sim racing."
+      },
+      "zh": {
+        "title": "Legacy Motor Club签下Fanatec成为NASCAR杯赛合作伙伴",
+        "summary": "Legacy Motor Club车队宣布模拟赛车硬件制造商Fanatec成为2026年及2027年NASCAR杯赛的官方合作伙伴。Fanatec标识将出现在约翰·亨特·内梅切克驾驶的42号丰田赛车上，双方还将开展连接真实赛车与模拟赛车的球迷互动活动。"
+      },
+      "fr": {
+        "title": "Legacy Motor Club signe avec Fanatec comme partenaire en NASCAR Cup Series",
+        "summary": "Legacy Motor Club a fait entrer le fabricant de matériel de simracing Fanatec comme partenaire officiel pour les saisons 2026 et 2027 de la NASCAR Cup Series. Le logo Fanatec apparaîtra sur la voiture n°42 de John Hunter Nemechek lors de courses sélectionnées, accompagné d'activations pour les fans reliant course réelle et simracing."
+      }
+    }
+  },
+  {
+    "id": "seatgeek-nil-college-football-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-09-01T00:00:00Z",
+    "source_name": "On3",
+    "source_url": "https://www.on3.com/nil/news/seatgeek-signs-7-college-football-players-nil-deals-2026-class",
+    "i18n": {
+      "en": {
+        "title": "SeatGeek Signs Seven College Football Players to NIL Ambassador Deals",
+        "summary": "Ticketing platform SeatGeek has added seven college football players, including athletes from Michigan, Alabama and Georgia, as NIL brand ambassadors who promote its discount codes on social media. It is the third consecutive season SeatGeek has run a college football NIL marketing campaign."
+      },
+      "ja": {
+        "title": "シートギーク、大学フットボール選手7人とNIL契約",
+        "summary": "チケット販売プラットフォームのシートギークは、ミシガン大学やアラバマ大学、ジョージア大学などの選手を含む大学フットボール選手7人と、NIL（氏名・肖像権）に基づくブランドアンバサダー契約を締結した。シートギークが大学フットボール分野でこうしたキャンペーンを展開するのはこれで3シーズン連続となる。"
+      },
+      "es": {
+        "title": "SeatGeek ficha a siete jugadores universitarios de fútbol americano para acuerdos NIL",
+        "summary": "La plataforma de venta de entradas SeatGeek ha incorporado a siete jugadores de fútbol americano universitario, incluidos atletas de Michigan, Alabama y Georgia, como embajadores de marca bajo acuerdos de NIL (nombre, imagen y semejanza). Es la tercera temporada consecutiva en la que SeatGeek desarrolla este tipo de campaña en el fútbol americano universitario."
+      },
+      "zh": {
+        "title": "SeatGeek签下七名大学橄榄球球员开展NIL代言合作",
+        "summary": "票务平台SeatGeek与七名大学橄榄球球员签署NIL（姓名、肖像与形象权）品牌代言协议，代言球员分别来自密歇根大学、阿拉巴马大学和佐治亚大学等校。这已是SeatGeek连续第三个赛季在大学橄榄球领域开展此类营销活动。"
+      },
+      "fr": {
+        "title": "SeatGeek signe sept joueurs de football universitaire pour des accords NIL",
+        "summary": "La plateforme de billetterie SeatGeek a recruté sept joueurs de football américain universitaire, dont des athlètes du Michigan, de l'Alabama et de la Géorgie, comme ambassadeurs de marque dans le cadre d'accords NIL (nom, image et ressemblance). Il s'agit de la troisième saison consécutive où SeatGeek mène ce type de campagne dans le football universitaire."
+      }
+    }
+  },
+  {
+    "id": "tyson-foods-arkansas-razorbacks-jersey-patch",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-03-04T00:00:00Z",
+    "source_name": "CBS Sports",
+    "source_url": "https://www.cbssports.com/college-football/news/arkansas-tyson-foods-jersey-patch-deal/",
+    "i18n": {
+      "en": {
+        "title": "Tyson Foods Signs All-Sports Jersey Patch Deal with Arkansas Razorbacks",
+        "summary": "Tyson Foods has expanded its partnership with the University of Arkansas into a five-year jersey patch agreement covering all 19 Razorback varsity teams starting in the 2026-27 season. The school says roughly 90% of the deal's value will flow directly to athlete compensation."
+      },
+      "ja": {
+        "title": "タイソン・フーズ、アーカンソー大学と全競技対象のジャージパッチ契約",
+        "summary": "食肉大手タイソン・フーズは、アーカンソー大学との提携を拡大し、2026-27シーズンから同大学の全19競技チームを対象とする5年間のジャージパッチ契約を締結した。大学側によると、契約金額の約9割が選手への直接的な対価として還元されるという。"
+      },
+      "es": {
+        "title": "Tyson Foods firma un acuerdo de parche en camiseta para todos los deportes de Arkansas",
+        "summary": "La compañía cárnica Tyson Foods ha ampliado su relación con la Universidad de Arkansas a un acuerdo de cinco años de parche en la camiseta que abarcará los 19 equipos universitarios de los Razorbacks a partir de la temporada 2026-27. La universidad afirma que aproximadamente el 90% del valor del acuerdo se destinará directamente a la compensación de los atletas."
+      },
+      "zh": {
+        "title": "泰森食品与阿肯色大学签署覆盖全部校队的球衣臂章协议",
+        "summary": "食品巨头泰森食品扩大了与阿肯色大学的合作关系，签署了一份为期五年的球衣臂章协议，自2026-27赛季起覆盖该校全部19支校队。校方表示，协议金额中约九成将直接用于运动员薪酬。"
+      },
+      "fr": {
+        "title": "Tyson Foods signe un accord de patch de maillot couvrant tous les sports d'Arkansas",
+        "summary": "Le géant agroalimentaire Tyson Foods a élargi son partenariat avec l'Université d'Arkansas via un accord de cinq ans portant sur un patch de maillot couvrant les 19 équipes universitaires des Razorbacks à partir de la saison 2026-27. L'université indique qu'environ 90 % de la valeur de l'accord sera reversé directement aux athlètes."
+      }
+    }
   }
 ]
