@@ -6195,5 +6195,241 @@
         "summary": "Urawa Red Diamonds a prolongé son partenariat de Top Partner avec le constructeur de maisons Polus Group jusqu'à la saison 2029/30, marquant la 14e année consécutive de soutien de l'entreprise au club. Le logo Polus continuera de figurer sur le devant des maillots d'Urawa lors des compétitions nationales et de coupe."
       }
     }
+  },
+  {
+    "id": "cd-leganes-885-capital-majority-stake-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-06-02T00:00:00Z",
+    "source_name": "CD Leganés",
+    "source_url": "https://www.cdleganes.com/en/official-statement-885-capital-majority-shareholder",
+    "i18n": {
+      "en": {
+        "title": "Investment Firm 885 Capital Takes Majority Control of CD Leganés",
+        "summary": "885 Capital bought out Blue Crow Sports' stake in La Liga club CD Leganés, valuing the Spanish side at roughly €100 million. Combined with its existing holding, the sport- and technology-focused investment group now controls more than 99% of the club and has named a new club president."
+      },
+      "ja": {
+        "title": "投資会社885キャピタル、CDレガネスの過半数株式を取得",
+        "summary": "投資会社885キャピタルは、スペイン1部リーグに所属するCDレガネスの株式をブルー・クロウ・スポーツから買い取り、クラブの評価額は約1億ユーロとなった。既存の保有分と合わせ、スポーツとテクノロジーに強みを持つ同社はクラブの99%超を支配することになり、新会長も選任された。"
+      },
+      "es": {
+        "title": "La firma de inversión 885 Capital toma el control mayoritario del CD Leganés",
+        "summary": "885 Capital compró la participación de Blue Crow Sports en el club de La Liga CD Leganés, con una valoración de unos 100 millones de euros para el equipo español. Sumado a su participación previa, el grupo inversor, centrado en deporte y tecnología, controla ya más del 99% del club y ha nombrado a un nuevo presidente."
+      },
+      "zh": {
+        "title": "投资公司885 Capital取得西甲莱加内斯俱乐部多数股权",
+        "summary": "投资公司885 Capital收购了Blue Crow Sports持有的西甲球队莱加内斯的股份，该俱乐部估值约为1亿欧元。加上此前持股，这家专注于体育和科技领域的投资集团目前掌控该俱乐部逾99%的股权，并任命了新任主席。"
+      },
+      "fr": {
+        "title": "Le fonds 885 Capital prend le contrôle majoritaire du CD Leganés",
+        "summary": "885 Capital a racheté la participation de Blue Crow Sports dans le club de Liga espagnole CD Leganés, valorisant l'équipe autour de 100 millions d'euros. Avec sa participation existante, ce groupe d'investissement spécialisé dans le sport et la technologie contrôle désormais plus de 99% du club et a nommé un nouveau président."
+      }
+    }
+  },
+  {
+    "id": "savvy-games-moonton-acquisition-2026",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-03-20T00:00:00Z",
+    "source_name": "Game Developer",
+    "source_url": "https://www.gamedeveloper.com/business/savvy-games-group-agreed-to-buy-moonton-games-for-6-billion",
+    "i18n": {
+      "en": {
+        "title": "Saudi-Backed Savvy Games Group Agrees to Buy Moonton for $6 Billion",
+        "summary": "Savvy Games Group, a subsidiary of Saudi Arabia's Public Investment Fund, agreed to acquire ByteDance-owned mobile studio Moonton, maker of the hit esports title Mobile Legends: Bang Bang. The deal ranks among the largest video game acquisitions ever and keeps Moonton's existing management team in place."
+      },
+      "ja": {
+        "title": "サウジ系サビー・ゲームズ、ムーントンを6000億円規模で買収合意",
+        "summary": "サウジアラビア公共投資基金傘下のサビー・ゲームズ・グループは、人気eスポーツタイトル「モバイル・レジェンド：バンバン」を手がけるバイトダンス傘下のムーントンを約60億ドルで買収することに合意した。歴代最大級のゲーム企業買収案件の一つとなり、既存の経営陣は引き続き経営を担う。"
+      },
+      "es": {
+        "title": "Savvy Games Group, respaldado por Arabia Saudí, acuerda comprar Moonton por 6.000 millones de dólares",
+        "summary": "Savvy Games Group, filial del Fondo de Inversión Pública de Arabia Saudí, acordó adquirir el estudio móvil Moonton, propiedad de ByteDance y creador del popular título de esports Mobile Legends: Bang Bang. La operación se sitúa entre las mayores adquisiciones de videojuegos de la historia y mantiene al actual equipo directivo de Moonton."
+      },
+      "zh": {
+        "title": "沙特背景Savvy Games集团同意以60亿美元收购Moonton",
+        "summary": "沙特阿拉伯公共投资基金旗下的Savvy Games集团同意收购字节跳动旗下的手游工作室Moonton，该公司开发了热门电竞游戏《无尽对决》。这笔交易是史上规模最大的游戏收购案之一，Moonton现有管理团队将继续留任。"
+      },
+      "fr": {
+        "title": "Savvy Games Group, soutenu par l'Arabie saoudite, accepte de racheter Moonton pour 6 milliards de dollars",
+        "summary": "Savvy Games Group, filiale du Fonds d'investissement public saoudien, a accepté de racheter Moonton, le studio mobile de ByteDance à l'origine du jeu d'esport à succès Mobile Legends: Bang Bang. L'opération figure parmi les plus grandes acquisitions de l'histoire du jeu vidéo, et l'équipe dirigeante actuelle de Moonton restera en place."
+      }
+    }
+  },
+  {
+    "id": "ea-pif-take-private-closes-2026",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-08-04T00:00:00Z",
+    "source_name": "Electronic Arts",
+    "source_url": "https://www.ea.com/news/ea-announces-completion-of-acquisition",
+    "i18n": {
+      "en": {
+        "title": "Electronic Arts Goes Private as $55 Billion Buyout Closes",
+        "summary": "Electronic Arts completed its acquisition by a consortium of Saudi Arabia's Public Investment Fund, Silver Lake and Affinity Partners, delisting from Nasdaq in what is described as the largest leveraged buyout in history. Shareholders received $210 per share in cash, with PIF retaining the largest stake in the newly private publisher of sports and gaming franchises."
+      },
+      "ja": {
+        "title": "エレクトロニック・アーツ、550億ドル規模の買収完了で非公開化",
+        "summary": "エレクトロニック・アーツは、サウジアラビア公共投資基金、シルバーレイク、アフィニティ・パートナーズによる買収を完了し、ナスダック上場を廃止した。史上最大級のレバレッジド・バイアウトとされ、株主は1株あたり210ドルの現金を受け取り、スポーツ関連ゲームを多く手がける同社の非公開後は公共投資基金が最大株主となる。"
+      },
+      "es": {
+        "title": "Electronic Arts se convierte en privada tras cerrarse una compra de 55.000 millones de dólares",
+        "summary": "Electronic Arts completó su adquisición por un consorcio formado por el Fondo de Inversión Pública de Arabia Saudí, Silver Lake y Affinity Partners, y se retiró del Nasdaq en lo que se describe como la mayor compra apalancada de la historia. Los accionistas recibieron 210 dólares por acción en efectivo, y el fondo saudí conserva la mayor participación en la editora, conocida por sus franquicias deportivas."
+      },
+      "zh": {
+        "title": "电子艺界完成550亿美元私有化交易",
+        "summary": "电子艺界（EA）完成了由沙特公共投资基金、银湖资本和Affinity Partners组成的财团对其的收购，并从纳斯达克摘牌，交易被称为史上最大规模的杠杆收购。股东每股获得210美元现金，私有化后这家知名体育类游戏发行商的最大股东为沙特公共投资基金。"
+      },
+      "fr": {
+        "title": "Electronic Arts devient une société privée après le bouclage d'un rachat de 55 milliards de dollars",
+        "summary": "Electronic Arts a finalisé son acquisition par un consortium réunissant le Fonds d'investissement public saoudien, Silver Lake et Affinity Partners, se retirant du Nasdaq dans ce qui est présenté comme le plus grand rachat par effet de levier de l'histoire. Les actionnaires ont reçu 210 dollars par action en liquide, le fonds saoudien conservant la plus grande participation dans cet éditeur connu pour ses franchises sportives."
+      }
+    }
+  },
+  {
+    "id": "jleague-img-global-sponsorship-partnership-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-08-12T00:00:00Z",
+    "source_name": "IMG",
+    "source_url": "https://www.img.com/our-news/j-league-and-img-partner-to-drive-global-sponsorship-strategy",
+    "i18n": {
+      "en": {
+        "title": "J.League Taps IMG to Lead Global Sponsorship Push",
+        "summary": "Japan's J.League partnered with sports agency IMG to build a renewed global brand structure and pursue international commercial partnerships. The deal aims to develop new sponsorship categories and grow J.League's commercial presence beyond Asia after a decade of regional expansion."
+      },
+      "ja": {
+        "title": "Jリーグ、世界戦略のスポンサー開拓でIMGと提携",
+        "summary": "Jリーグはスポーツ代理店IMGと提携し、ブランド体制を刷新して国際的な商業パートナーシップの開拓を進める。この10年でアジア圏での展開を広げてきたJリーグが、新たなスポンサーカテゴリーを創設し、アジア域外にも商業的な存在感を広げることを目指す取り組みとなる。"
+      },
+      "es": {
+        "title": "La J.League ficha a IMG para liderar su impulso de patrocinio global",
+        "summary": "La liga japonesa J.League se asoció con la agencia deportiva IMG para renovar su estructura de marca global y buscar acuerdos comerciales internacionales. El acuerdo busca desarrollar nuevas categorías de patrocinio y ampliar la presencia comercial de la J.League más allá de Asia tras una década de expansión regional."
+      },
+      "zh": {
+        "title": "日本J联赛与IMG合作推进全球赞助战略",
+        "summary": "日本职业足球J联赛与体育经纪公司IMG达成合作，重塑全球品牌架构并拓展国际商业合作。此举旨在开发新的赞助类别，在经历十年的亚洲区域扩张后，将J联赛的商业影响力推广至亚洲以外市场。"
+      },
+      "fr": {
+        "title": "La J.League s'associe à IMG pour piloter sa stratégie de sponsoring mondiale",
+        "summary": "Le championnat japonais de football J.League s'est associé à l'agence sportive IMG pour refondre sa structure de marque mondiale et nouer des partenariats commerciaux internationaux. L'accord vise à créer de nouvelles catégories de sponsoring et à étendre la présence commerciale de la J.League au-delà de l'Asie après une décennie d'expansion régionale."
+      }
+    }
+  },
+  {
+    "id": "ford-mlb-automotive-partner-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-03-23T00:00:00Z",
+    "source_name": "SportBusiness",
+    "source_url": "https://www.sportbusiness.com/news/ford-in-chevy-out-as-mlb-enters-2026-season/",
+    "i18n": {
+      "en": {
+        "title": "Ford Replaces Chevrolet as MLB's Official Automotive Partner",
+        "summary": "Ford signed a five-year deal to become Major League Baseball's official automotive partner, ending Chevrolet's two-decade run in the role. The agreement, which launched on Opening Day, covers MLB, Minor League Baseball and Little League International and centers Ford activations around marquee season moments like the All-Star Game and World Series."
+      },
+      "ja": {
+        "title": "フォード、MLB公式自動車パートナーに就任 シェビー20年の座から交代",
+        "summary": "フォードはメジャーリーグベースボールの公式自動車パートナーとなる5年契約を結び、20年間その座にあったシェビー（シボレー）に代わることになった。開幕戦から始まったこの契約はMLBとマイナーリーグ、リトルリーグ・インターナショナルを対象とし、オールスター戦やワールドシリーズなど主要シーズンイベントでの展開を軸とする。"
+      },
+      "es": {
+        "title": "Ford sustituye a Chevrolet como socio automotriz oficial de la MLB",
+        "summary": "Ford firmó un acuerdo de cinco años para convertirse en el socio automotriz oficial de las Grandes Ligas de Béisbol, poniendo fin a los veinte años de Chevrolet en ese papel. El acuerdo, que comenzó en el Día Inaugural, abarca la MLB, las Ligas Menores y la Liga Pequeña Internacional, y centra las activaciones de Ford en momentos clave de la temporada como el Juego de Estrellas y la Serie Mundial."
+      },
+      "zh": {
+        "title": "福特取代雪佛兰成为MLB官方汽车合作伙伴",
+        "summary": "福特签下一份五年协议，成为美国职业棒球大联盟的官方汽车合作伙伴，结束了雪佛兰长达二十年的合作关系。该协议自开幕日启动，覆盖大联盟、小联盟及国际少棒联盟，并围绕全明星赛、世界大赛等赛季重要时刻展开营销活动。"
+      },
+      "fr": {
+        "title": "Ford remplace Chevrolet comme partenaire automobile officiel de la MLB",
+        "summary": "Ford a signé un accord de cinq ans pour devenir le partenaire automobile officiel de la Ligue majeure de baseball, mettant fin aux vingt années de Chevrolet dans ce rôle. L'accord, entré en vigueur dès le jour d'ouverture, couvre la MLB, les ligues mineures et la Little League International, avec des activations Ford centrées sur les grands moments de la saison comme le match des étoiles et la Série mondiale."
+      }
+    }
+  },
+  {
+    "id": "jameson-nfl-spirits-sponsor-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-07-30T00:00:00Z",
+    "source_name": "The Spirits Business",
+    "source_url": "https://www.thespiritsbusiness.com/2026/07/jameson-teams-up-with-nfl/",
+    "i18n": {
+      "en": {
+        "title": "Jameson Replaces Diageo as NFL's Official Spirits Sponsor",
+        "summary": "Pernod Ricard's Jameson Irish Whiskey signed a multiyear deal worth roughly $20 million a year to become the NFL's official spirits sponsor, taking over from Diageo. The brand will anchor the Super Bowl Tailgate Concert and appear across four of the league's international games this season."
+      },
+      "ja": {
+        "title": "ジェムソン、NFL公式スピリッツスポンサーにディアジオから交代",
+        "summary": "ペルノ・リカール傘下のアイリッシュウイスキー「ジェムソン」は、年間約2000万ドル規模の複数年契約を結び、ディアジオに代わってNFLの公式スピリッツスポンサーとなった。同ブランドはスーパーボウルのテールゲート・コンサートを主軸に、今シーズンの国際戦4試合でも展開される。"
+      },
+      "es": {
+        "title": "Jameson sustituye a Diageo como patrocinador oficial de licores de la NFL",
+        "summary": "El whisky irlandés Jameson, de Pernod Ricard, firmó un acuerdo plurianual valorado en unos 20 millones de dólares al año para convertirse en el patrocinador oficial de licores de la NFL, relevando a Diageo. La marca será el eje del concierto previo al Super Bowl y estará presente en cuatro de los partidos internacionales de la liga esta temporada."
+      },
+      "zh": {
+        "title": "杰美森取代帝亚吉欧成为NFL官方烈酒赞助商",
+        "summary": "保乐力加旗下爱尔兰威士忌品牌杰美森签署了一份价值约每年2000万美元的多年协议，接替帝亚吉欧成为NFL官方烈酒赞助商。该品牌将主导超级碗前的尾门派对音乐会，并出现在本赛季联盟四场国际赛事中。"
+      },
+      "fr": {
+        "title": "Jameson remplace Diageo comme sponsor officiel des spiritueux de la NFL",
+        "summary": "Le whisky irlandais Jameson, propriété de Pernod Ricard, a signé un accord pluriannuel d'environ 20 millions de dollars par an pour devenir le sponsor officiel des spiritueux de la NFL, succédant à Diageo. La marque sera au cœur du concert du Tailgate du Super Bowl et apparaîtra lors de quatre matchs internationaux de la ligue cette saison."
+      }
+    }
+  },
+  {
+    "id": "aeromexico-toyota-nfl-mexico-sponsors-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-09-10T00:00:00Z",
+    "source_name": "Mexico Business News",
+    "source_url": "https://mexicobusiness.news/aerospace/news/aeromexico-lands-3-year-official-airline-deal-nfl-mexico",
+    "i18n": {
+      "en": {
+        "title": "Aeroméxico and Toyota Sign New NFL Mexico Sponsorships",
+        "summary": "Aeroméxico became the NFL's first official airline sponsor in Mexico under a new three-season deal that includes category exclusivity and custom NFL branding on an aircraft. Toyota separately extended its US NFL partnership into Mexico through 2028, timed to the league's growing slate of regular-season games in Mexico City."
+      },
+      "ja": {
+        "title": "アエロメヒコとトヨタ、NFLメキシコの新スポンサーに",
+        "summary": "アエロメヒコは3シーズン契約により、NFLメキシコ初の公式航空会社スポンサーとなり、業種独占権と機体への専用デザインが盛り込まれた。トヨタも別途、米国でのNFLパートナーシップを2028年までメキシコに拡大し、メキシコシティでのレギュラーシーズン試合開催拡大に合わせた展開となる。"
+      },
+      "es": {
+        "title": "Aeroméxico y Toyota firman nuevos patrocinios con la NFL en México",
+        "summary": "Aeroméxico se convirtió en el primer patrocinador aéreo oficial de la NFL en México mediante un nuevo acuerdo de tres temporadas que incluye exclusividad de categoría y una aeronave con diseño personalizado de la NFL. Por su parte, Toyota extendió su patrocinio de la NFL en EE.UU. a México hasta 2028, coincidiendo con el creciente calendario de partidos de temporada regular en Ciudad de México."
+      },
+      "zh": {
+        "title": "墨西哥航空与丰田签署NFL墨西哥新赞助协议",
+        "summary": "墨西哥航空通过一项三个赛季的新协议成为NFL在墨西哥的首个官方航空赞助商，协议包含品类独家权及一架专属涂装飞机。丰田则将其在美国的NFL合作伙伴关系延伸至墨西哥，合同至2028年，恰逢联盟在墨西哥城常规赛场次不断增加。"
+      },
+      "fr": {
+        "title": "Aeroméxico et Toyota signent de nouveaux partenariats avec la NFL au Mexique",
+        "summary": "Aeroméxico est devenu le premier sponsor aérien officiel de la NFL au Mexique grâce à un nouvel accord de trois saisons incluant une exclusivité catégorielle et un avion à la livrée NFL personnalisée. Toyota a de son côté étendu son partenariat NFL américain au Mexique jusqu'en 2028, coïncidant avec le nombre croissant de matchs de saison régulière organisés à Mexico."
+      }
+    }
   }
 ]
