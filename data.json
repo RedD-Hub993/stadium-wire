@@ -7121,5 +7121,240 @@
         "summary": "La J.League a signé avec le fabricant d'articles de sport Mikasa un accord de 'partenaire du développement futur' officiel, le ballon de match ALMUNDO de Mikasa devenant le ballon officiel des tournois de développement des jeunes de la ligue de juin 2026 à juin 2027. L'accord couvre des compétitions telles que le Next Generation Match, la J Youth Cup et les épreuves J.League U-14."
       }
     }
+  },
+  {
+    "id": "jleague-baacon-likejapan-hongkong-partner-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-07-14T00:00:00Z",
+    "source_name": "J.League",
+    "source_url": "https://www.jleague.jp/en/news/article/34566/",
+    "i18n": {
+      "en": {
+        "title": "J.League Signs First-Ever Regional Partner Deal With Hong Kong's Baacon Inc.",
+        "summary": "J.League has signed a Regional Partnership agreement with Baacon Inc., operator of the LikeJapan media platform, marking the league's first deal under its newly created Regional Partner category. The tie-up is aimed at growing J.League's fan base and media reach in Hong Kong as the league pursues international expansion."
+      },
+      "ja": {
+        "title": "Ｊリーグ、香港Baacon Inc.と初のリージョナルパートナー契約を締結",
+        "summary": "Ｊリーグは、LikeJapanを運営する香港のBaacon Inc.とリージョナルパートナー契約を締結した。新設されたリージョナルパートナー制度における初の契約となり、香港におけるファン層拡大とメディア露出の強化を目指す。"
+      },
+      "es": {
+        "title": "La J.League firma su primer acuerdo de Socio Regional con la hongkonesa Baacon Inc.",
+        "summary": "La J.League firmó un acuerdo de Socio Regional con Baacon Inc., operadora de la plataforma mediática LikeJapan, el primero bajo su nueva categoría de Socios Regionales. La alianza busca ampliar la base de aficionados y la presencia mediática de la liga en Hong Kong como parte de su expansión internacional."
+      },
+      "zh": {
+        "title": "J联赛与香港Baacon Inc.签署首份地区合作伙伴协议",
+        "summary": "日本职业足球联赛（J联赛）与运营LikeJapan媒体平台的香港企业Baacon Inc.签署地区合作伙伴协议，这是该联赛新设立的地区合作伙伴类别下的首份协议。此举旨在借助国际化战略扩大联赛在香港的球迷基础和媒体曝光度。"
+      },
+      "fr": {
+        "title": "La J.League signe son tout premier accord de Partenaire Régional avec la hongkongaise Baacon Inc.",
+        "summary": "La J.League a signé un accord de Partenaire Régional avec Baacon Inc., l'exploitant de la plateforme média LikeJapan, son tout premier contrat dans cette nouvelle catégorie. Ce partenariat vise à développer la base de supporters et la visibilité médiatique de la ligue à Hong Kong dans le cadre de son expansion internationale."
+      }
+    }
+  },
+  {
+    "id": "wnba-skechers-official-partner-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-05-06T00:00:00Z",
+    "source_name": "WNBA",
+    "source_url": "https://www.wnba.com/news/wnba-skechets-multiyear-partnership",
+    "i18n": {
+      "en": {
+        "title": "WNBA and Skechers Announce Multiyear Official Partner Deal",
+        "summary": "The WNBA announced a multiyear partnership naming Skechers an official league partner, with players wearing the footwear brand on court starting this season. The deal adds to a wave of new non-endemic and apparel sponsors entering women's basketball as league visibility and attendance have grown."
+      },
+      "ja": {
+        "title": "WNBA、スケッチャーズと複数年の公式パートナー契約を発表",
+        "summary": "WNBAは、スケッチャーズを公式パートナーとする複数年契約を発表した。今シーズンから選手が試合でスケッチャーズのシューズを着用する。女子バスケットボールの注目度と観客動員が伸びる中、アパレル系スポンサーの参入が相次いでいる。"
+      },
+      "es": {
+        "title": "La WNBA y Skechers anuncian una alianza plurianual como socio oficial",
+        "summary": "La WNBA anunció una alianza plurianual que designa a Skechers como socio oficial de la liga, con jugadoras usando el calzado de la marca en la cancha desde esta temporada. El acuerdo se suma a una ola de nuevos patrocinadores de calzado y marcas no endémicas que ingresan al baloncesto femenino conforme crecen su visibilidad y asistencia."
+      },
+      "zh": {
+        "title": "WNBA与斯凯奇宣布达成多年期官方合作伙伴协议",
+        "summary": "WNBA宣布与斯凯奇（Skechers）达成多年期官方合作伙伴协议，本赛季起球员将在场上穿着该品牌球鞋。随着女子篮球关注度和上座率持续攀升，越来越多鞋服品牌及非传统赞助商开始进入这一市场。"
+      },
+      "fr": {
+        "title": "La WNBA et Skechers annoncent un partenariat officiel pluriannuel",
+        "summary": "La WNBA a annoncé un partenariat pluriannuel faisant de Skechers un partenaire officiel de la ligue, les joueuses portant les chaussures de la marque sur le terrain dès cette saison. Cet accord s'inscrit dans une vague de nouveaux sponsors d'équipement et de marques non traditionnelles attirés par la popularité croissante du basketball féminin."
+      }
+    }
+  },
+  {
+    "id": "ohio-stadium-juniper-mist-wifi7-upgrade",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "tech"
+    ],
+    "published_at": "2026-07-08T00:00:00Z",
+    "source_name": "Ohio State University IT",
+    "source_url": "https://it.osu.edu/news/2026/07/08/news-ohio-stadium-embraces-ai-managed-wi-fi-juniper-mist-wi-fi-7-upgrade",
+    "i18n": {
+      "en": {
+        "title": "Ohio State Upgrades Ohio Stadium to Wi-Fi 7 Ahead of 2026 Season",
+        "summary": "Ohio State's IT department is replacing Ohio Stadium's seven-year-old wireless network with an AI-managed Juniper Mist Wi-Fi 7 system, expanding coverage from about 1,800 to more than 2,000 access points. The upgrade is designed to handle high-density fan connectivity demands during football gamedays."
+      },
+      "ja": {
+        "title": "オハイオ州立大学、2026年シーズンに向けスタジアムをWi-Fi 7に刷新",
+        "summary": "オハイオ州立大学は、オハイオ・スタジアムの老朽化した無線ネットワークを、AIで管理されるジュニパー・ミストのWi-Fi 7システムに刷新し、アクセスポイント数を約1800から2000超に増強する。アメフトの試合日における高密度な観客の通信需要に対応する狙いがある。"
+      },
+      "es": {
+        "title": "Ohio State actualiza el Ohio Stadium a Wi-Fi 7 antes de la temporada 2026",
+        "summary": "Ohio State está reemplazando la red inalámbrica de siete años del Ohio Stadium por un sistema Wi-Fi 7 de Juniper Mist gestionado por inteligencia artificial, ampliando la cobertura de unos 1.800 a más de 2.000 puntos de acceso. La mejora busca soportar la alta demanda de conectividad de los aficionados en los días de partido de fútbol americano."
+      },
+      "zh": {
+        "title": "俄亥俄州立大学在2026赛季前将体育场升级为Wi-Fi 7",
+        "summary": "俄亥俄州立大学正在为已使用七年的俄亥俄体育场无线网络升级为由人工智能管理的Juniper Mist Wi-Fi 7系统，接入点数量将从约1800个增至2000多个。此举旨在满足美式橄榄球比赛日高密度球迷的网络连接需求。"
+      },
+      "fr": {
+        "title": "Ohio State passe l'Ohio Stadium au Wi-Fi 7 avant la saison 2026",
+        "summary": "L'université d'État de l'Ohio remplace le réseau sans fil vieux de sept ans de l'Ohio Stadium par un système Wi-Fi 7 Juniper Mist géré par intelligence artificielle, portant le nombre de points d'accès d'environ 1 800 à plus de 2 000. Cette mise à niveau vise à répondre à la forte demande de connectivité des supporters les jours de match de football américain."
+      }
+    }
+  },
+  {
+    "id": "sunrockers-shibuya-kitanihon-onkyo-bronze-partner",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-02T00:00:00Z",
+    "source_name": "Tokyo Sunrockers Shibuya",
+    "source_url": "https://www.sunrockers.jp/news/detail/id=23005",
+    "i18n": {
+      "en": {
+        "title": "Tokyo's Sunrockers Shibuya Sign Bronze Partner Kitanihon Onkyo",
+        "summary": "B.League club Sunrockers Shibuya signed a new Bronze Partner sponsorship with audio equipment maker Kitanihon Onkyo for the 2026-27 season. The company's branding will appear on the team's in-arena ribbon boards and promotional materials starting this month."
+      },
+      "ja": {
+        "title": "東京サンロッカーズ、北日本音響とブロンズパートナー契約を新規締結",
+        "summary": "Ｂリーグの東京サンロッカーズは、音響機器メーカーの北日本音響株式会社と2026-27シーズンのブロンズパートナー契約を新規に締結した。今月開幕するシーズンから、会場内のリボンビジョンや広報物に同社のロゴが掲出される。"
+      },
+      "es": {
+        "title": "Sunrockers Shibuya, de Tokio, ficha como Socio Bronce a Kitanihon Onkyo",
+        "summary": "El club de la B.League Sunrockers Shibuya firmó un nuevo patrocinio como Socio Bronce con el fabricante de equipos de audio Kitanihon Onkyo para la temporada 2026-27. La marca de la empresa aparecerá en las pantallas del recinto y en materiales promocionales del equipo desde este mes."
+      },
+      "zh": {
+        "title": "东京Sunrockers Shibuya签下北日本音响作为铜牌合作伙伴",
+        "summary": "日本B联赛球队东京Sunrockers Shibuya与音响设备制造商北日本音响株式会社签署了2026-27赛季铜牌合作伙伴赞助协议。本月开季后，该公司标志将出现在球队主场的环形显示屏及宣传材料上。"
+      },
+      "fr": {
+        "title": "Les Sunrockers Shibuya de Tokyo signent un partenariat Bronze avec Kitanihon Onkyo",
+        "summary": "Le club de B.League Sunrockers Shibuya a signé un nouveau partenariat Bronze avec le fabricant d'équipements audio Kitanihon Onkyo pour la saison 2026-27. La marque de l'entreprise apparaîtra sur les bandeaux vidéo de la salle et les supports promotionnels de l'équipe dès ce mois-ci."
+      }
+    }
+  },
+  {
+    "id": "japannext-arneb-esports-sponsorship-2026",
+    "sport": "esports",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-01T00:00:00Z",
+    "source_name": "JAPANNEXT",
+    "source_url": "https://www.value-press.com/pressrelease/379840",
+    "i18n": {
+      "en": {
+        "title": "Display Maker JAPANNEXT Becomes Sponsor of Esports Team Arneb",
+        "summary": "Monitor manufacturer JAPANNEXT signed a new sponsorship agreement with Japanese esports organization Arneb, which competes in titles including Street Fighter 6 and League of Legends. JAPANNEXT said it was especially drawn to Arneb's women's Street Fighter 6 division as part of a broader push to support diverse competitive gaming."
+      },
+      "ja": {
+        "title": "ディスプレイメーカーのJAPANNEXT、eスポーツチーム「Arneb」のスポンサーに",
+        "summary": "ディスプレイメーカーのJAPANNEXTは、『ストリートファイター6』や『リーグ・オブ・レジェンド』などで活動する国内eスポーツチーム「Arneb」と新たにスポンサー契約を締結した。同社は特に、多様な競技環境の支援の一環として、Arnebの『ストリートファイター6』女子部門の取り組みに注目したという。"
+      },
+      "es": {
+        "title": "El fabricante de monitores JAPANNEXT patrocina al equipo de esports Arneb",
+        "summary": "El fabricante de monitores JAPANNEXT firmó un nuevo acuerdo de patrocinio con la organización japonesa de esports Arneb, que compite en títulos como Street Fighter 6 y League of Legends. JAPANNEXT señaló que le atrajo especialmente la división femenina de Street Fighter 6 de Arneb, dentro de un esfuerzo más amplio por apoyar la diversidad en los videojuegos competitivos."
+      },
+      "zh": {
+        "title": "显示器制造商JAPANNEXT成为电竞战队Arneb的赞助商",
+        "summary": "显示器制造商JAPANNEXT与参加《街头霸王6》《英雄联盟》等项目的日本电竞战队Arneb签署了新的赞助协议。JAPANNEXT表示，其特别看重Arneb在《街头霸王6》女子组别的相关举措，这也是该公司支持多元化电竞发展战略的一部分。"
+      },
+      "fr": {
+        "title": "Le fabricant d'écrans JAPANNEXT devient sponsor de l'équipe d'esport Arneb",
+        "summary": "Le fabricant d'écrans JAPANNEXT a signé un nouvel accord de sponsoring avec l'organisation d'esport japonaise Arneb, active notamment sur Street Fighter 6 et League of Legends. JAPANNEXT a indiqué avoir été particulièrement séduit par la division féminine Street Fighter 6 d'Arneb, dans le cadre d'une démarche plus large de soutien à la diversité dans le jeu vidéo compétitif."
+      }
+    }
+  },
+  {
+    "id": "wnba-cleveland-monarch-collective-stake-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-03-24T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/leagues/basketball/2026/wnba-cleveland-monarch-collective-investment-expansion-1234888116/",
+    "i18n": {
+      "en": {
+        "title": "Monarch Collective Takes Minority Stake in WNBA's Cleveland Expansion Team",
+        "summary": "Women's sports investment firm Monarch Collective has taken a 16.3% stake in the Cleveland WNBA expansion franchise, marking its first investment in the league. The Cleveland team, part of the Cavaliers ownership group led by Dan Gilbert, is set to begin play in 2028."
+      },
+      "ja": {
+        "title": "モナーク・コレクティブ、WNBAクリーブランド新規参入チームに出資",
+        "summary": "女性スポーツ専門の投資会社モナーク・コレクティブは、2028年に参入予定のWNBAクリーブランド新規参入チームに16.3％出資し、同リーグ初の投資を実現した。クリーブランドのチームは、ダン・ギルバート氏率いるキャバリアーズのオーナーグループの傘下にある。"
+      },
+      "es": {
+        "title": "Monarch Collective adquiere participación minoritaria en el equipo de expansión de la WNBA en Cleveland",
+        "summary": "La firma de inversión en deporte femenino Monarch Collective adquirió una participación del 16,3% en el nuevo equipo de expansión de la WNBA en Cleveland, su primera inversión en la liga. El equipo de Cleveland, parte del grupo propietario de los Cavaliers liderado por Dan Gilbert, comenzará a jugar en 2028."
+      },
+      "zh": {
+        "title": "Monarch Collective入股WNBA克利夫兰扩军球队",
+        "summary": "专注于女子体育投资的公司Monarch Collective收购了WNBA克利夫兰扩军球队16.3%的股份，这是该公司首次投资该联赛。克利夫兰球队隶属于丹·吉尔伯特（Dan Gilbert）旗下骑士队所有者集团，计划于2028年开始参赛。"
+      },
+      "fr": {
+        "title": "Monarch Collective prend une participation minoritaire dans la future franchise WNBA de Cleveland",
+        "summary": "La société d'investissement dans le sport féminin Monarch Collective a acquis une participation de 16,3 % dans la future franchise d'expansion de la WNBA à Cleveland, son premier investissement dans la ligue. L'équipe de Cleveland, rattachée au groupe propriétaire des Cavaliers dirigé par Dan Gilbert, doit débuter sa compétition en 2028."
+      }
+    }
+  },
+  {
+    "id": "bundesliga-ea-sports-fc-extension-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-08-27T00:00:00Z",
+    "source_name": "Bundesliga",
+    "source_url": "https://www.bundesliga.com/en/bundesliga/news/bundesliga-ea-sports-fc-extend-long-term-partnership-38817",
+    "i18n": {
+      "en": {
+        "title": "Bundesliga Extends EA Sports FC Licensing Deal in Record €250 Million Pact",
+        "summary": "Germany's Bundesliga announced a seven-year extension of its video-game licensing partnership with Electronic Arts, reportedly worth around €250 million, the league's largest deal of its kind. The renewed agreement, unveiled at Gamescom, keeps Bundesliga clubs and stadiums integrated into the EA Sports FC franchise through the new term."
+      },
+      "ja": {
+        "title": "ブンデスリーガ、EA Sports FCとのライセンス契約を過去最大の2.5億ユーロ規模で延長",
+        "summary": "ドイツのブンデスリーガは、エレクトロニック・アーツとのゲームライセンス契約を7年間延長すると発表した。契約金額は約2億5000万ユーロとされ、同種契約として過去最大規模となる。ゲームズコムで発表されたこの契約更新により、ブンデスリーガのクラブとスタジアムは引き続きEA Sports FCシリーズに収録される。"
+      },
+      "es": {
+        "title": "La Bundesliga extiende su acuerdo de licencia con EA Sports FC en un pacto récord de 250 millones de euros",
+        "summary": "La Bundesliga alemana anunció una extensión de siete años de su acuerdo de licencia de videojuegos con Electronic Arts, valorado en unos 250 millones de euros, el mayor contrato de este tipo en la historia de la liga. El acuerdo renovado, presentado en la Gamescom, mantiene a los clubes y estadios de la Bundesliga integrados en la franquicia EA Sports FC durante la nueva vigencia."
+      },
+      "zh": {
+        "title": "德甲与EA Sports FC续签授权协议，金额创纪录达2.5亿欧元",
+        "summary": "德国德甲联赛宣布将与艺电（Electronic Arts）的电子游戏授权合作延长七年，据报交易金额约为2.5亿欧元，是该联赛同类协议中规模最大的一笔。这项在科隆游戏展（Gamescom）上公布的续约协议，使德甲球队和球场在新周期内继续出现在EA Sports FC系列游戏中。"
+      },
+      "fr": {
+        "title": "La Bundesliga prolonge son accord de licence avec EA Sports FC pour un montant record de 250 millions d'euros",
+        "summary": "La Bundesliga allemande a annoncé une prolongation de sept ans de son partenariat de licence de jeux vidéo avec Electronic Arts, évalué à environ 250 millions d'euros, le plus important accord de ce type dans l'histoire de la ligue. Dévoilé à la Gamescom, cet accord renouvelé maintient les clubs et les stades de la Bundesliga intégrés à la franchise EA Sports FC pour la nouvelle période."
+      }
+    }
   }
 ]
