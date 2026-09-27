@@ -6642,5 +6642,246 @@
         "summary": "Le Chelsea Football Club a annoncé Circle Internet Group comme son nouveau partenaire principal et sponsor floqué à l'avant du maillot à partir de la saison 2026/27, avec le logo doré « USDC by Circle » apparaissant sur les maillots masculins, féminins et de l'académie. Il s'agit du quatrième sponsor différent à l'avant du maillot de Chelsea en autant de saisons."
       }
     }
+  },
+  {
+    "id": "lsu-woodside-energy-jersey-patch",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "team",
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-02-16T00:00:00Z",
+    "source_name": "LSU Athletics",
+    "source_url": "https://lsusports.net/news/2026/02/16/lsu-athletics-announces-historic-partnership-with-woodside-energy",
+    "i18n": {
+      "en": {
+        "title": "LSU Signs Multi-Year Jersey Patch Deal With Woodside Energy",
+        "summary": "LSU Athletics reached a multi-year jersey patch partnership with Woodside Energy that will place the energy company's logo, styled in purple and gold, across all 21 of LSU's varsity programs starting in the 2026-27 season. The agreement also brings venue signage and marketing assets across LSU's athletic channels, one of the broadest college sports sponsorship bundles struck so far."
+      },
+      "ja": {
+        "title": "LSU、ウッドサイド・エナジーと複数年のユニフォームパッチ契約を締結",
+        "summary": "LSUアスレチックスはウッドサイド・エナジーと複数年契約を結び、2026-27シーズンから全21競技のユニフォームに紫と金色にデザインされた同社ロゴを掲出する。契約には会場内看板やマーケティング露出も含まれ、大学スポーツ史上でも屈指の包括的スポンサー契約となる。"
+      },
+      "es": {
+        "title": "LSU firma un acuerdo plurianual de parche en la camiseta con Woodside Energy",
+        "summary": "El departamento de atletismo de LSU alcanzó una asociación plurianual con Woodside Energy que colocará el logo de la compañía energética, en tonos morado y dorado, en los uniformes de sus 21 programas universitarios a partir de la temporada 2026-27. El acuerdo también incluye señalización en los recintos y presencia en los canales de marketing de LSU."
+      },
+      "zh": {
+        "title": "LSU与伍德赛德能源签署多年球衣广告贴片协议",
+        "summary": "路易斯安那州立大学（LSU）体育部与伍德赛德能源达成多年合作，自2026-27赛季起，该能源公司紫金配色的标志将出现在LSU全部21个校队项目的球衣上。协议还包括场馆广告牌和营销资源，是大学体育界迄今范围最广的赞助合作之一。"
+      },
+      "fr": {
+        "title": "LSU signe un accord pluriannuel de sponsoring maillot avec Woodside Energy",
+        "summary": "Le département sportif de LSU a conclu un partenariat pluriannuel avec Woodside Energy, dont le logo aux couleurs violet et or figurera sur les maillots des 21 programmes universitaires dès la saison 2026-27. L'accord inclut aussi une signalétique dans les enceintes sportives et une présence sur les canaux marketing de LSU."
+      }
+    }
+  },
+  {
+    "id": "ugreen-new-england-patriots-tech-partner",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-04-22T00:00:00Z",
+    "source_name": "Patriots.com",
+    "source_url": "https://www.patriots.com/news/ugreen-enters-sports-arena-with-new-england-patriots-partnership",
+    "i18n": {
+      "en": {
+        "title": "UGREEN Becomes Official Technology Accessory Partner of the Patriots",
+        "summary": "Charging and accessory brand UGREEN signed its first-ever North American sports partnership, becoming the New England Patriots' Official Technology Accessory Partner for the 2026 season. The deal includes fan activations at Gillette Stadium and a brand ambassador role for cornerback Christian Gonzalez as UGREEN debuts new charging products to US audiences."
+      },
+      "ja": {
+        "title": "UGREEN、ペイトリオッツの公式テクノロジーアクセサリーパートナーに",
+        "summary": "充電・アクセサリーブランドのUGREENは北米スポーツ界初となる提携をニューイングランド・ペイトリオッツと締結し、2026年シーズンの公式テクノロジーアクセサリーパートナーとなった。ギレット・スタジアムでのファン向け展示に加え、コーナーバックのクリスチャン・ゴンザレス選手がブランドアンバサダーを務め、新製品を米国市場に投入する。"
+      },
+      "es": {
+        "title": "UGREEN se convierte en socio oficial de accesorios tecnológicos de los Patriots",
+        "summary": "La marca de cargadores y accesorios UGREEN firmó su primera asociación deportiva en Norteamérica, convirtiéndose en socio oficial de accesorios tecnológicos de los New England Patriots para la temporada 2026. El acuerdo incluye activaciones para aficionados en el Gillette Stadium y al cornerback Christian Gonzalez como embajador de marca mientras UGREEN presenta nuevos productos en Estados Unidos."
+      },
+      "zh": {
+        "title": "UGREEN绿联成为爱国者队官方科技配件合作伙伴",
+        "summary": "充电及配件品牌绿联（UGREEN）签下其在北美体育界的首个合作项目，成为新英格兰爱国者队2026赛季官方科技配件合作伙伴。协议包括在吉列体育场开展球迷互动活动，角卫克里斯蒂安·冈萨雷斯担任品牌大使，绿联借此在美国市场推出新款充电产品。"
+      },
+      "fr": {
+        "title": "UGREEN devient partenaire technologique officiel des Patriots",
+        "summary": "La marque de chargeurs et d'accessoires UGREEN a signé son tout premier partenariat sportif nord-américain, devenant le partenaire officiel d'accessoires technologiques des New England Patriots pour la saison 2026. L'accord prévoit des animations pour les supporters au Gillette Stadium et fait du cornerback Christian Gonzalez un ambassadeur de la marque, alors qu'UGREEN lance de nouveaux produits de charge aux États-Unis."
+      }
+    }
+  },
+  {
+    "id": "netapp-tampa-bay-buccaneers-data-partner",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "tech",
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-09-16T00:00:00Z",
+    "source_name": "Business Wire",
+    "source_url": "https://www.businesswire.com/news/home/20260916768662/en/NetApp-and-Tampa-Bay-Buccaneers-Partner-to-Enable-Data-Driven-Operational-Excellence/",
+    "i18n": {
+      "en": {
+        "title": "NetApp Named Official Data Infrastructure Partner of the Buccaneers",
+        "summary": "NetApp expanded its NFL relationship by becoming an official partner of the Tampa Bay Buccaneers, building on its role as the league's Official Intelligent Data Infrastructure Partner. The Buccaneers will use NetApp Keystone's subscription-based infrastructure to manage data workloads that support game-day operations and the fan experience at Raymond James Stadium."
+      },
+      "ja": {
+        "title": "NetApp、バッカニアーズの公式データインフラパートナーに就任",
+        "summary": "NetAppはNFL全体の公式インテリジェントデータインフラパートナーとしての立場を拡大し、タンパベイ・バッカニアーズの公式パートナーとなった。バッカニアーズはサブスクリプション型サービス「NetApp Keystone」を活用し、レイモンド・ジェームズ・スタジアムでの試合運営やファン体験を支えるデータ処理基盤を整備する。"
+      },
+      "es": {
+        "title": "NetApp es nombrado socio oficial de infraestructura de datos de los Buccaneers",
+        "summary": "NetApp amplió su relación con la NFL al convertirse en socio oficial de los Tampa Bay Buccaneers, reforzando su papel como socio oficial de infraestructura de datos inteligente de la liga. Los Buccaneers usarán el servicio por suscripción NetApp Keystone para gestionar las cargas de datos que sostienen las operaciones de los días de partido y la experiencia de los aficionados en el Raymond James Stadium."
+      },
+      "zh": {
+        "title": "NetApp成为坦帕湾海盗队官方数据基础设施合作伙伴",
+        "summary": "NetApp进一步拓展其与NFL的合作关系，成为坦帕湾海盗队官方合作伙伴，延续其作为联盟官方智能数据基础设施合作伙伴的角色。海盗队将采用订阅制服务NetApp Keystone来管理支撑雷蒙德·詹姆斯体育场比赛日运营与球迷体验的数据工作负载。"
+      },
+      "fr": {
+        "title": "NetApp devient partenaire officiel d'infrastructure de données des Buccaneers",
+        "summary": "NetApp a élargi sa relation avec la NFL en devenant partenaire officiel des Buccaneers de Tampa Bay, confortant son rôle de partenaire officiel d'infrastructure de données intelligente de la ligue. Les Buccaneers utiliseront le service par abonnement NetApp Keystone pour gérer les charges de données qui soutiennent les opérations les jours de match et l'expérience des supporters au Raymond James Stadium."
+      }
+    }
+  },
+  {
+    "id": "nisshin-denki-arena-kyoto-naming-rights",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-01-22T00:00:00Z",
+    "source_name": "Nissin Electric",
+    "source_url": "https://nissin.jp/news/260122/",
+    "i18n": {
+      "en": {
+        "title": "Nissin Electric Named New Naming-Rights Partner for Kyoto City Gymnasium",
+        "summary": "Nissin Electric was selected as the new naming-rights holder for Kyoto City Gymnasium, which will be known as 'Nisshin Denki Arena Kyoto,' after the previous rights holder, Kataoka Corporation, filed for corporate reorganization and terminated its contract. The venue is a home arena for basketball in the Kyoto region and has changed naming sponsors several times since introducing naming rights in 2011."
+      },
+      "ja": {
+        "title": "日新電機、京都市体育館の新たなネーミングライツパートナーに",
+        "summary": "経営再建手続き中だった片岡製作所が契約を解除した京都市体育館について、日新電機が新たな命名権取得候補企業に選ばれ、通称が「にっしんでんきアリーナ京都」に決定した。同施設は地域バスケットボールの拠点であり、2011年の命名権導入以降、複数回スポンサーが交代してきた。"
+      },
+      "es": {
+        "title": "Nissin Electric, nuevo socio de naming rights del Gimnasio Municipal de Kioto",
+        "summary": "Nissin Electric fue elegida como nueva titular de los derechos de nombre del Gimnasio Municipal de Kioto, que pasará a llamarse 'Nisshin Denki Arena Kyoto', después de que la anterior titular, Kataoka Corporation, se acogiera a un proceso de reorganización empresarial y rescindiera su contrato. El recinto es sede del baloncesto en la región de Kioto y ha cambiado de patrocinador de nombre varias veces desde que introdujo los naming rights en 2011."
+      },
+      "zh": {
+        "title": "日新电机成为京都市体育馆新的冠名权合作伙伴",
+        "summary": "此前持有冠名权的片冈制作所因申请企业重整而终止合同后，日新电机被选为京都市体育馆新的冠名权候选企业，该馆通称将变更为「日新电机京都竞技场」。该场馆是京都地区篮球赛事的主场之一，自2011年引入冠名权以来已多次更换冠名赞助商。"
+      },
+      "fr": {
+        "title": "Nissin Electric devient le nouveau partenaire de naming du gymnase municipal de Kyoto",
+        "summary": "Nissin Electric a été choisie comme nouvelle détentrice des droits de dénomination du gymnase municipal de Kyoto, qui sera rebaptisé « Nisshin Denki Arena Kyoto », après que l'ancien titulaire, Kataoka Corporation, a résilié son contrat suite à une procédure de redressement judiciaire. L'enceinte est une salle phare du basketball dans la région de Kyoto et a changé plusieurs fois de sponsor de nom depuis l'introduction du naming en 2011."
+      }
+    }
+  },
+  {
+    "id": "mercedes-f1-microsoft-ai-partnership",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "tech"
+    ],
+    "published_at": "2026-01-22T00:00:00Z",
+    "source_name": "Microsoft Source",
+    "source_url": "https://news.microsoft.com/source/2026/01/22/microsoft-and-mercedes-amg-petronas-f1-team-unite-to-drive-innovation-from-factory-to-circuit/",
+    "i18n": {
+      "en": {
+        "title": "Mercedes F1 Team Signs Multi-Year Microsoft AI Sponsorship",
+        "summary": "Mercedes-AMG Petronas unveiled its 2026 car alongside a new multi-year partnership with Microsoft, reported to be worth around $60 million a year and among the richest technology sponsorships on the F1 grid. Beyond trackside branding, the team plans to use Microsoft's data and AI tools across engineering and race operations."
+      },
+      "ja": {
+        "title": "メルセデスF1チーム、マイクロソフトと複数年のAIスポンサー契約",
+        "summary": "メルセデスAMGペトロナスは2026年型マシンの発表に合わせ、マイクロソフトとの複数年パートナーシップを発表した。契約規模は年間約6000万ドルとも報じられ、F1でも屈指の高額テクノロジースポンサー契約となる。車体広告にとどまらず、エンジニアリングやレース運営にマイクロソフトのデータ・AI技術を活用する計画。"
+      },
+      "es": {
+        "title": "El equipo Mercedes de F1 firma un patrocinio plurianual de IA con Microsoft",
+        "summary": "Mercedes-AMG Petronas presentó su monoplaza de 2026 junto con una nueva asociación plurianual con Microsoft, cuyo valor se estima en unos 60 millones de dólares anuales, uno de los patrocinios tecnológicos más costosos de la parrilla de F1. Más allá de la publicidad en pista, el equipo prevé usar las herramientas de datos e IA de Microsoft en ingeniería y en las operaciones de carrera."
+      },
+      "zh": {
+        "title": "梅赛德斯F1车队与微软签署多年期AI赞助协议",
+        "summary": "梅赛德斯AMG-马石油车队在发布2026赛季赛车的同时，宣布与微软达成多年合作，据报道价值约每年6000万美元，是F1赛场上最高价的科技赞助协议之一。除赛道广告外，车队计划在工程研发和比赛运营中使用微软的数据与人工智能工具。"
+      },
+      "fr": {
+        "title": "L'écurie Mercedes F1 signe un partenariat IA pluriannuel avec Microsoft",
+        "summary": "Mercedes-AMG Petronas a dévoilé sa monoplace 2026 en même temps qu'un nouveau partenariat pluriannuel avec Microsoft, évalué à environ 60 millions de dollars par an, l'un des sponsorings technologiques les plus lucratifs de la grille de F1. Au-delà de la visibilité sur la voiture, l'écurie prévoit d'utiliser les outils de données et d'IA de Microsoft dans l'ingénierie et les opérations de course."
+      }
+    }
+  },
+  {
+    "id": "kochi-kamatamare-j3-stadium-naming-rights",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2025-12-17T00:00:00Z",
+    "source_name": "Gekisaka",
+    "source_url": "https://web.gekisaka.jp/news/jleague/detail/?442929-442929-fl=",
+    "i18n": {
+      "en": {
+        "title": "Two J3 Clubs Rename Home Stadiums Under New Naming-Rights Deals",
+        "summary": "The J.League confirmed new naming-rights arrangements for the home stadiums of J3 side Kochi United SC and Kamatamare Sanuki, renaming the venues 'GIKEN Stadium' and 'Shikoku Kasei MEGLIO Stadium' respectively from January 1, 2026. The moves add to a wave of naming-rights renewals across smaller J.League venues as local sponsors seek regional visibility."
+      },
+      "ja": {
+        "title": "J3の2クラブ、ネーミングライツによりホームスタジアム名称を変更",
+        "summary": "Jリーグは高知ユナイテッドSCとカマタマーレ讃岐のホームスタジアムについて新たなネーミングライツ契約を発表し、2026年1月1日から通称をそれぞれ「GIKENスタジアム」「四国化成MEGLIOスタジアム」に変更する。地元企業が地域での露出を狙う中、J3クラブの本拠地でも命名権更新の動きが広がっている。"
+      },
+      "es": {
+        "title": "Dos clubes de la J3 renombran sus estadios con nuevos acuerdos de naming rights",
+        "summary": "La J.League confirmó nuevos acuerdos de naming rights para los estadios de los clubes de J3 Kochi United SC y Kamatamare Sanuki, que pasarán a llamarse 'GIKEN Stadium' y 'Shikoku Kasei MEGLIO Stadium' respectivamente a partir del 1 de enero de 2026. Estos movimientos se suman a una ola de renovaciones de naming rights en sedes más pequeñas de la J.League, ya que patrocinadores locales buscan visibilidad regional."
+      },
+      "zh": {
+        "title": "两支J3联赛俱乐部通过冠名权更改主场球场名称",
+        "summary": "日本职业足球联赛（J联赛）确认高知联合SC与鸣门涡潮讃岐两家J3俱乐部主场获得新的冠名权协议，自2026年1月1日起分别更名为「GIKEN球场」和「四国化成MEGLIO球场」。此举延续了J联赛中小型场馆冠名权更新的趋势，地方企业借此寻求区域曝光。"
+      },
+      "fr": {
+        "title": "Deux clubs de J3 renomment leur stade grâce à de nouveaux accords de naming",
+        "summary": "La J.League a confirmé de nouveaux accords de naming pour les stades des clubs de J3 Kochi United SC et Kamatamare Sanuki, rebaptisés respectivement « GIKEN Stadium » et « Shikoku Kasei MEGLIO Stadium » à compter du 1er janvier 2026. Ces changements s'inscrivent dans une vague de renouvellements de naming rights dans les plus petites enceintes de la J.League, des sponsors locaux recherchant une visibilité régionale."
+      }
+    }
+  },
+  {
+    "id": "wnba-aws-cloud-ai-partnership",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "tech",
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-05-07T00:00:00Z",
+    "source_name": "WNBA",
+    "source_url": "https://www.wnba.com/news/wnba-aws-multiyear-partnership",
+    "i18n": {
+      "en": {
+        "title": "WNBA Names AWS Its Official Cloud and AI Partner",
+        "summary": "The WNBA and Amazon Web Services announced a multi-year partnership naming AWS the league's Official Cloud and Cloud AI Partner, marking AWS's first deal with a women's professional sports league. The agreement launches 'WNBA Inside the Game powered by AWS,' a new advanced-statistics platform, and makes AWS presenting partner of the league's WNBA Live fan festival."
+      },
+      "ja": {
+        "title": "WNBA、AWSを公式クラウド・AIパートナーに指定",
+        "summary": "WNBAとアマゾン・ウェブ・サービス（AWS）は複数年パートナーシップを発表し、AWSがリーグの公式クラウド・クラウドAIパートナーとなった。これは女子プロスポーツリーグとしてAWSにとって初の契約となる。新統計プラットフォーム「WNBA Inside the Game powered by AWS」を開始するほか、AWSはファン向けイベント「WNBA Live」の冠スポンサーも務める。"
+      },
+      "es": {
+        "title": "La WNBA nombra a AWS su socio oficial de nube e inteligencia artificial",
+        "summary": "La WNBA y Amazon Web Services anunciaron una asociación plurianual que convierte a AWS en el socio oficial de nube e IA en la nube de la liga, el primer acuerdo de AWS con una liga deportiva profesional femenina. El acuerdo lanza 'WNBA Inside the Game powered by AWS', una nueva plataforma de estadísticas avanzadas, y convierte a AWS en patrocinador principal del festival para aficionados WNBA Live."
+      },
+      "zh": {
+        "title": "WNBA任命AWS为官方云计算与人工智能合作伙伴",
+        "summary": "WNBA与亚马逊云科技（AWS）宣布达成多年合作，AWS将成为联盟官方云计算与云端人工智能合作伙伴，这是AWS与女子职业体育联盟达成的首个此类协议。协议还将推出全新高级数据统计平台「WNBA Inside the Game powered by AWS」，并由AWS冠名赞助球迷嘉年华活动「WNBA Live」。"
+      },
+      "fr": {
+        "title": "La WNBA nomme AWS partenaire officiel du cloud et de l'IA",
+        "summary": "La WNBA et Amazon Web Services ont annoncé un partenariat pluriannuel faisant d'AWS le partenaire officiel du cloud et de l'IA en nuage de la ligue, premier accord d'AWS avec une ligue sportive professionnelle féminine. L'accord lance « WNBA Inside the Game powered by AWS », une nouvelle plateforme de statistiques avancées, et fait d'AWS le partenaire présentateur du festival pour supporters WNBA Live."
+      }
+    }
   }
 ]
