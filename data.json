@@ -1,5 +1,73 @@
 [
   {
+    "id": "fc-gifu-himalaya-stadium-naming-rights-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-04-01T00:00:00Z",
+    "source_name": "J.League",
+    "source_url": "https://www.jleague.jp/news/article/33529/",
+    "i18n": {
+      "en": {
+        "title": "FC Gifu's Home Stadium Gets New Name Under Himalaya Naming Rights Deal",
+        "summary": "Retailer Himalaya has acquired the naming rights to FC Gifu's home ground, the Gifu Memorial Center Nagaragawa Stadium, under a five-year agreement. The renamed venue will carry the Himalaya branding from April 2026 through March 2031."
+      },
+      "ja": {
+        "title": "FC岐阜の本拠地、ヒマラヤの命名権契約で新名称に",
+        "summary": "小売業のヒマラヤがFC岐阜の本拠地、岐阜メモリアルセンター長良川競技場の命名権を取得し、5年間の契約を締結した。新しい名称は2026年4月から2031年3月まで使用される。"
+      },
+      "es": {
+        "title": "El estadio del FC Gifu cambia de nombre tras un acuerdo con Himalaya",
+        "summary": "La cadena minorista Himalaya obtuvo los derechos de denominación del estadio del FC Gifu, el Gifu Memorial Center Nagaragawa Stadium, mediante un acuerdo de cinco años. El nuevo nombre se usará desde abril de 2026 hasta marzo de 2031."
+      },
+      "zh": {
+        "title": "岐阜FC主场因喜马拉雅冠名协议更名",
+        "summary": "零售商喜马拉雅通过一份为期五年的协议获得了岐阜FC主场——岐阜纪念中心长良川竞技场的冠名权。更名后的场馆将从2026年4月使用至2031年3月。"
+      },
+      "fr": {
+        "title": "Le stade du FC Gifu rebaptisé grâce à un accord de naming avec Himalaya",
+        "summary": "L'enseigne de distribution Himalaya a acquis les droits de dénomination du stade du FC Gifu, le Gifu Memorial Center Nagaragawa Stadium, dans le cadre d'un accord de cinq ans. Le nouveau nom sera utilisé d'avril 2026 à mars 2031."
+      }
+    }
+  },
+  {
+    "id": "hiroshima-carp-mazda-stadium-naming-rights-renewal-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-04-01T00:00:00Z",
+    "source_name": "City of Hiroshima",
+    "source_url": "https://www.city.hiroshima.lg.jp/shisei/kouhou/1004010/1027481/1005638/1005671.html",
+    "i18n": {
+      "en": {
+        "title": "Mazda Renews Naming Rights for Hiroshima Carp's Home Ballpark",
+        "summary": "Automaker Mazda has renewed its naming-rights contract for the Hiroshima Carp's home ballpark, Mazda Zoom-Zoom Stadium, after the previous five-year deal expired in March 2026. The new agreement sets the annual naming fee at about 220 million yen."
+      },
+      "ja": {
+        "title": "マツダ、広島カープ本拠地の命名権契約を更新",
+        "summary": "自動車メーカーのマツダは、5年間の契約期間が2026年3月に満了した広島東洋カープの本拠地「マツダスタジアム」の命名権契約を更新した。新契約の年間命名権料は約2億2000万円となる。"
+      },
+      "es": {
+        "title": "Mazda renueva los derechos de denominación del estadio de los Carp de Hiroshima",
+        "summary": "El fabricante de automóviles Mazda renovó el contrato de derechos de denominación del estadio de los Hiroshima Carp, Mazda Zoom-Zoom Stadium, tras la expiración del acuerdo anterior de cinco años en marzo de 2026. El nuevo contrato fija la tarifa anual en unos 220 millones de yenes."
+      },
+      "zh": {
+        "title": "马自达续签广岛鲤鱼队主场冠名权协议",
+        "summary": "汽车制造商马自达此前为期五年的广岛鲤鱼队主场“马自达Zoom-Zoom球场”冠名权合同已于2026年3月到期，现已完成续约。新协议将年冠名费定为约2.2亿日元。"
+      },
+      "fr": {
+        "title": "Mazda renouvelle les droits de dénomination du stade des Carp d'Hiroshima",
+        "summary": "Le constructeur automobile Mazda a renouvelé son contrat de naming pour le stade des Hiroshima Carp, le Mazda Zoom-Zoom Stadium, après l'expiration en mars 2026 du précédent accord de cinq ans. Le nouveau contrat fixe la redevance annuelle à environ 220 millions de yens."
+      }
+    }
+  },
+  {
     "id": "mikasa-jleague-future-development-partner-2026",
     "sport": "soccer",
     "region": "japan",
@@ -163,6 +231,40 @@
       "fr": {
         "title": "Konami Digital Entertainment devient Partenaire Or de la J.League pour 2026/27",
         "summary": "Konami Digital Entertainment a signé en tant que Partenaire Or de la J.League japonaise pour la saison 2026/27, faisant évoluer son précédent partenariat de premier rang. L'éditeur de jeux vidéo prévoit de promouvoir l'attractivité de la ligue à travers ses jeux vidéo et ses activités d'esport liées à la marque J.League."
+      }
+    }
+  },
+  {
+    "id": "chiba-lotte-marines-zozo-marine-stadium-renewal-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-06-30T00:00:00Z",
+    "source_name": "nippon.com",
+    "source_url": "https://www.nippon.com/ja/news/kd1444620859682111767/",
+    "i18n": {
+      "en": {
+        "title": "Chiba City Keeps ZOZO Marine Stadium Name for Lotte Marines' Ballpark",
+        "summary": "Chiba city agreed on June 30, 2026 to continue naming the Chiba Lotte Marines' home ballpark ZOZO Marine Stadium under a renewed naming-rights contract. The annual fee for the rights was raised to roughly 400 million yen as part of the new agreement."
+      },
+      "ja": {
+        "title": "千葉市、ロッテ本拠地の「ZOZOマリンスタジアム」継続に合意",
+        "summary": "千葉市は2026年6月30日、千葉ロッテマリーンズの本拠地球場の名称を引き続き「ZOZOマリンスタジアム」とする命名権契約の更新に合意した。新契約では命名権料が年間約4億円に引き上げられた。"
+      },
+      "es": {
+        "title": "La ciudad de Chiba mantiene el nombre ZOZO Marine Stadium para el estadio de los Marines",
+        "summary": "La ciudad de Chiba acordó el 30 de junio de 2026 seguir llamando ZOZO Marine Stadium al estadio de los Chiba Lotte Marines, tras renovar el contrato de derechos de denominación. La tarifa anual por esos derechos subió a unos 400 millones de yenes con el nuevo acuerdo."
+      },
+      "zh": {
+        "title": "千叶市同意继续沿用“ZOZO海洋球场”名称冠名罗德主场",
+        "summary": "千叶市于2026年6月30日同意续签冠名协议，继续将千叶罗德海洋队主场命名为“ZOZO海洋球场”。根据新协议，年冠名费上调至约4亿日元。"
+      },
+      "fr": {
+        "title": "La ville de Chiba conserve le nom ZOZO Marine Stadium pour le stade des Marines",
+        "summary": "La ville de Chiba a accepté, le 30 juin 2026, de continuer à nommer ZOZO Marine Stadium le stade des Chiba Lotte Marines, dans le cadre du renouvellement du contrat de naming. La redevance annuelle liée à ces droits a été portée à environ 400 millions de yens dans le nouvel accord."
       }
     }
   },
@@ -399,6 +501,41 @@
       "fr": {
         "title": "La B.LEAGUE s'associe à Hisense Japan pour installer de grands écrans LED dans toutes les salles de B.PREMIER",
         "summary": "La B.LEAGUE a annoncé Hisense Japan comme nouveau partenaire corporatif, qui installera de grands panneaux LED dans les 26 salles accueillant les matchs de B.PREMIER dès la saison 2026-27. Les écrans de neuf mètres de large seront placés en bord de terrain et près des bancs pour améliorer l'expérience en salle."
+      }
+    }
+  },
+  {
+    "id": "bleague-hisense-led-display-partner-2026",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "tech",
+      "stadium"
+    ],
+    "published_at": "2026-07-31T00:00:00Z",
+    "source_name": "Kyodo News",
+    "source_url": "https://b.kyodo.co.jp/business/2026-07-31_8447927/",
+    "i18n": {
+      "en": {
+        "title": "B.League Signs Hisense as Partner to Install LED Video Panels in All B.Premier Arenas",
+        "summary": "Japan's B.League announced a partnership with Hisense Japan under which the electronics maker will supply large LED display panels to all 26 arenas hosting the new top-tier B.Premier division starting in the 2026-27 season. The deal is aimed at upgrading in-arena visuals and enhancing the fan experience league-wide."
+      },
+      "ja": {
+        "title": "Bリーグ、ハイセンスとパートナー契約締結 Bプレミア全26会場にLED映像パネル導入へ",
+        "summary": "日本のBリーグはハイセンスジャパンとのパートナー契約を発表し、2026-27シーズンから始まる新1部Bプレミアの全26会場に大型LED映像パネルを導入することになった。この契約は会場内の映像演出を刷新し、リーグ全体でファン体験を向上させることを目的としている。"
+      },
+      "es": {
+        "title": "La B.League ficha a Hisense como socio para instalar paneles LED en todos los pabellones de la B.Premier",
+        "summary": "La B.League de Japón anunció una alianza con Hisense Japón por la que el fabricante de electrónica suministrará grandes paneles de vídeo LED a los 26 pabellones que albergarán la nueva división de máximo nivel B.Premier a partir de la temporada 2026-27. El acuerdo busca modernizar la experiencia visual y mejorar la vivencia de los aficionados en toda la liga."
+      },
+      "zh": {
+        "title": "日本B联赛与海信达成合作，将为全部26座B超级联赛球馆安装LED显示屏",
+        "summary": "日本B联赛宣布与海信日本达成合作，这家电子制造商将为2026-27赛季启动的新顶级联赛B超级联赛的全部26座球馆提供大型LED显示屏。该协议旨在升级场馆内的视觉效果，并提升整个联赛的球迷观赛体验。"
+      },
+      "fr": {
+        "title": "La B.League s'associe à Hisense pour installer des panneaux LED dans toutes les arènes de la B.Premier",
+        "summary": "La B.League japonaise a annoncé un partenariat avec Hisense Japon, dans le cadre duquel le fabricant d'électronique fournira de grands panneaux vidéo LED aux 26 arènes accueillant la nouvelle division phare B.Premier à partir de la saison 2026-27. L'accord vise à moderniser l'expérience visuelle en salle et à améliorer l'expérience des supporters à l'échelle de la ligue."
       }
     }
   },
@@ -804,6 +941,40 @@
       "fr": {
         "title": "Le fabricant d'écrans JAPANNEXT devient sponsor de l'équipe d'esport Arneb",
         "summary": "Le fabricant d'écrans JAPANNEXT a signé un nouvel accord de sponsoring avec l'organisation d'esport japonaise Arneb, active notamment sur Street Fighter 6 et League of Legends. JAPANNEXT a indiqué avoir été particulièrement séduit par la division féminine Street Fighter 6 d'Arneb, dans le cadre d'une démarche plus large de soutien à la diversité dans le jeu vidéo compétitif."
+      }
+    }
+  },
+  {
+    "id": "bleague-risona-title-partner-2026-27-season",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-09-01T00:00:00Z",
+    "source_name": "B.LEAGUE",
+    "source_url": "https://www.bleague.jp/news_detail/id=620718",
+    "i18n": {
+      "en": {
+        "title": "Risona Group Continues as B.League Title Partner for 2026-27",
+        "summary": "Japan's B.League has confirmed Risona Group will continue as title partner for the 2026-27 season, its third consecutive year in the role. The renewal comes alongside \"B.Innovation,\" a wider league reform that replaces promotion-relegation with a tiering system based on business and community standards. The continuity underscores how corporate sponsors are backing the league's push toward a more commercially driven structure."
+      },
+      "ja": {
+        "title": "りそなグループ、Bリーグのタイトルパートナーを2026-27シーズンも継続",
+        "summary": "日本のBリーグは、りそなグループが2026-27シーズンも引き続きタイトルパートナーを務めることを発表し、3年連続の契約継続となった。この更新は、成績による昇降格を廃止しビジネスや地域基準に基づく等級制度に移行する「B.革新」と呼ばれるリーグ全体の改革と時を同じくしている。企業スポンサーがリーグのより商業志向の強い構造への転換を後押ししている形だ。"
+      },
+      "es": {
+        "title": "Risona Group sigue como patrocinador principal de la B.League en 2026-27",
+        "summary": "La B.League japonesa confirmó que Risona Group seguirá como patrocinador principal en la temporada 2026-27, su tercer año consecutivo en ese rol. La renovación coincide con \"B.Innovation\", una reforma más amplia de la liga que sustituye el ascenso y descenso deportivo por un sistema de categorías basado en criterios empresariales y comunitarios. La continuidad refleja el respaldo de los patrocinadores corporativos al giro más comercial de la liga."
+      },
+      "zh": {
+        "title": "里索纳集团连续第三年出任B联赛冠名合作伙伴",
+        "summary": "日本B联赛确认里索纳集团将连续第三年出任2026-27赛季的冠名合作伙伴。此次续约恰逢联赛推行名为“B.革新”的更大范围改革，以基于商业与社区标准的分级制度取代传统的升降级制度。企业赞助商的持续支持凸显了联赛向更加商业化结构转型的趋势。"
+      },
+      "fr": {
+        "title": "Risona Group reste partenaire titre de la B.League pour 2026-27",
+        "summary": "La B.League japonaise a confirmé que Risona Group restera partenaire titre pour la saison 2026-27, une troisième année consécutive à ce poste. Ce renouvellement intervient parallèlement à « B.Innovation », une réforme plus large de la ligue qui remplace la montée-descente sportive par un système de paliers fondé sur des critères commerciaux et communautaires. Cette continuité illustre le soutien des sponsors corporatifs à l'orientation plus commerciale de la ligue."
       }
     }
   },
@@ -1414,277 +1585,6 @@
     }
   },
   {
-    "id": "gucci-alpine-f1-title-partner-2027",
-    "sport": "motorsports",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-05-27T00:00:00Z",
-    "source_name": "ESPN",
-    "source_url": "https://www.espn.com/f1/story/_/id/48890560/gucci-racing-alpine-f1-team-fashion-giant-joins-grid-title-sponsor-2027",
-    "i18n": {
-      "en": {
-        "title": "Gucci Becomes Alpine's F1 Title Partner for 2027, a First for Luxury Fashion",
-        "summary": "Alpine announced Gucci as its title partner starting in the 2027 Formula 1 season, with the team set to race as 'Gucci Racing Alpine.' It marks the first time a luxury fashion house has taken a title sponsorship in F1, replacing outgoing partner BWT."
-      },
-      "ja": {
-        "title": "グッチ、2027年からアルピーヌF1のタイトルパートナーに 高級ファッションブランドとして初",
-        "summary": "アルピーヌは2027年のF1シーズンからグッチをタイトルパートナーとすることを発表し、チームは「グッチ・レーシング・アルピーヌ」として参戦する予定。高級ファッションブランドがF1でタイトルスポンサーを務めるのは初めてで、これまで契約していたBWTに代わる形となる。"
-      },
-      "es": {
-        "title": "Gucci se convierte en socio titular de Alpine en la F1 desde 2027, una primicia para la moda de lujo",
-        "summary": "Alpine anunció a Gucci como su socio titular a partir de la temporada 2027 de Fórmula 1, y el equipo competirá como 'Gucci Racing Alpine'. Es la primera vez que una casa de moda de lujo asume el patrocinio titular en la F1, en sustitución del saliente socio BWT."
-      },
-      "zh": {
-        "title": "古驰成为阿尔派恩F1车队2027赛季冠名合作伙伴，奢侈时尚品牌首次冠名F1",
-        "summary": "阿尔派恩宣布古驰将从2027年F1赛季起成为车队冠名合作伙伴，车队届时将以“古驰赛车阿尔派恩”的名义参赛。这是奢侈时尚品牌首次担任F1车队冠名赞助商，取代此前的合作伙伴BWT。"
-      },
-      "fr": {
-        "title": "Gucci devient partenaire titre d'Alpine en F1 dès 2027, une première pour le luxe",
-        "summary": "Alpine a annoncé Gucci comme partenaire titre à partir de la saison 2027 de Formule 1, l'écurie devant courir sous le nom de 'Gucci Racing Alpine'. Il s'agit d'une première pour une maison de mode de luxe en tant que sponsor titre en F1, en remplacement du partenaire sortant BWT."
-      }
-    }
-  },
-  {
-    "id": "aprilia-monster-energy-motogp-title-sponsor-2027",
-    "sport": "motorsports",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-05-29T00:00:00Z",
-    "source_name": "MotoGP",
-    "source_url": "https://www.motogp.com/en/news/2026/05/29/aprilia-racing-and-monster-energy-sign-a-multi-year-sponsorship-agreement/1070549",
-    "i18n": {
-      "en": {
-        "title": "Monster Energy Becomes Aprilia's First-Ever MotoGP Title Sponsor",
-        "summary": "Aprilia Racing and Monster Energy have signed a multi-year sponsorship agreement that will make the drinks brand the factory MotoGP team's title sponsor from the 2027 season. Announced at the Italian Grand Prix, the deal is Aprilia's first title partnership in its MotoGP history."
-      },
-      "ja": {
-        "title": "モンスターエナジー、アプリリアの史上初となるMotoGPタイトルスポンサーに",
-        "summary": "アプリリア・レーシングとモンスターエナジーは複数年にわたるスポンサー契約を締結し、2027年シーズンからエナジードリンクブランドがファクトリーMotoGPチームのタイトルスポンサーとなることが決まった。イタリアGPで発表されたこの契約は、アプリリアのMotoGP参戦史上初のタイトルパートナーシップとなる。"
-      },
-      "es": {
-        "title": "Monster Energy se convierte en el primer patrocinador principal de Aprilia en MotoGP",
-        "summary": "Aprilia Racing y Monster Energy firmaron un acuerdo de patrocinio plurianual que convertirá a la marca de bebidas en el patrocinador principal del equipo oficial de MotoGP a partir de la temporada 2027. Anunciado en el Gran Premio de Italia, el acuerdo es el primer patrocinio principal de Aprilia en su historia en MotoGP."
-      },
-      "zh": {
-        "title": "怪物能量饮料成为阿普利亚MotoGP车队史上首个冠名赞助商",
-        "summary": "阿普利亚车队与怪物能量饮料签署多年赞助协议，从2027赛季起该饮料品牌将成为阿普利亚厂队在MotoGP的冠名赞助商。该协议在意大利大奖赛上宣布，是阿普利亚参加MotoGP历史上首个冠名合作伙伴关系。"
-      },
-      "fr": {
-        "title": "Monster Energy devient le tout premier sponsor-titre d'Aprilia en MotoGP",
-        "summary": "Aprilia Racing et Monster Energy ont signé un accord de sponsoring pluriannuel qui fera de la marque de boissons le sponsor-titre de l'équipe officielle MotoGP à partir de la saison 2027. Annoncé lors du Grand Prix d'Italie, cet accord constitue le tout premier partenariat-titre d'Aprilia dans l'histoire du MotoGP."
-      }
-    }
-  },
-  {
-    "id": "cd-leganes-885-capital-majority-stake-2026",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "team",
-      "biz"
-    ],
-    "published_at": "2026-06-02T00:00:00Z",
-    "source_name": "CD Leganés",
-    "source_url": "https://www.cdleganes.com/en/official-statement-885-capital-majority-shareholder",
-    "i18n": {
-      "en": {
-        "title": "Investment Firm 885 Capital Takes Majority Control of CD Leganés",
-        "summary": "885 Capital bought out Blue Crow Sports' stake in La Liga club CD Leganés, valuing the Spanish side at roughly €100 million. Combined with its existing holding, the sport- and technology-focused investment group now controls more than 99% of the club and has named a new club president."
-      },
-      "ja": {
-        "title": "投資会社885キャピタル、CDレガネスの過半数株式を取得",
-        "summary": "投資会社885キャピタルは、スペイン1部リーグに所属するCDレガネスの株式をブルー・クロウ・スポーツから買い取り、クラブの評価額は約1億ユーロとなった。既存の保有分と合わせ、スポーツとテクノロジーに強みを持つ同社はクラブの99%超を支配することになり、新会長も選任された。"
-      },
-      "es": {
-        "title": "La firma de inversión 885 Capital toma el control mayoritario del CD Leganés",
-        "summary": "885 Capital compró la participación de Blue Crow Sports en el club de La Liga CD Leganés, con una valoración de unos 100 millones de euros para el equipo español. Sumado a su participación previa, el grupo inversor, centrado en deporte y tecnología, controla ya más del 99% del club y ha nombrado a un nuevo presidente."
-      },
-      "zh": {
-        "title": "投资公司885 Capital取得西甲莱加内斯俱乐部多数股权",
-        "summary": "投资公司885 Capital收购了Blue Crow Sports持有的西甲球队莱加内斯的股份，该俱乐部估值约为1亿欧元。加上此前持股，这家专注于体育和科技领域的投资集团目前掌控该俱乐部逾99%的股权，并任命了新任主席。"
-      },
-      "fr": {
-        "title": "Le fonds 885 Capital prend le contrôle majoritaire du CD Leganés",
-        "summary": "885 Capital a racheté la participation de Blue Crow Sports dans le club de Liga espagnole CD Leganés, valorisant l'équipe autour de 100 millions d'euros. Avec sa participation existante, ce groupe d'investissement spécialisé dans le sport et la technologie contrôle désormais plus de 99% du club et a nommé un nouveau président."
-      }
-    }
-  },
-  {
-    "id": "dr-squatch-fifa-world-cup-2026-sponsor",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-06-05T00:00:00Z",
-    "source_name": "PR Newswire",
-    "source_url": "https://www.prnewswire.com/news-releases/dr-squatch-becomes-official-sponsor-of-fifa-world-cup-2026-launching-limited-edition-soap-and-fan-sweepstakes-302792215.html",
-    "i18n": {
-      "en": {
-        "title": "Dr. Squatch Becomes Official FIFA World Cup 2026 Sponsor",
-        "summary": "Personal care brand Dr. Squatch joined the roster of FIFA World Cup 2026 sponsors as part of Unilever's broader personal-care sponsorship of the tournament. The brand launched a limited-edition soap and a fan sweepstakes offering final-match tickets, marking its first major global sports sponsorship."
-      },
-      "ja": {
-        "title": "ドクター・スクワッチ、FIFAワールドカップ2026の公式スポンサーに",
-        "summary": "パーソナルケアブランドのドクター・スクワッチが、ユニリーバによる大会全体でのパーソナルケア協賛の一環として、FIFAワールドカップ2026の公式スポンサーに加わった。同ブランドは限定版石けんを発売し、決勝戦チケットが当たるファン向け懸賞企画も実施、同社にとって初の大型グローバルスポーツ協賛となる。"
-      },
-      "es": {
-        "title": "Dr. Squatch se convierte en patrocinador oficial de la Copa Mundial de la FIFA 2026",
-        "summary": "La marca de cuidado personal Dr. Squatch se sumó a los patrocinadores de la Copa Mundial de la FIFA 2026 dentro del amplio acuerdo de Unilever para el cuidado personal en el torneo. La marca lanzó un jabón de edición limitada y un sorteo con entradas para la final, su primer gran patrocinio deportivo global."
-      },
-      "zh": {
-        "title": "Dr. Squatch成为2026年FIFA世界杯官方赞助商",
-        "summary": "个人护理品牌Dr. Squatch加入2026年FIFA世界杯赞助商行列，这是联合利华在本届赛事个人护理领域整体赞助计划的一部分。该品牌推出限量版香皂并举办粉丝抽奖活动，奖品包括决赛门票，这是该公司首次参与大型全球体育赞助。"
-      },
-      "fr": {
-        "title": "Dr. Squatch devient sponsor officiel de la Coupe du Monde de la FIFA 2026",
-        "summary": "La marque de soins personnels Dr. Squatch a rejoint les sponsors de la Coupe du Monde de la FIFA 2026, dans le cadre du partenariat plus large d'Unilever pour les soins personnels autour du tournoi. La marque a lancé un savon en édition limitée et un jeu-concours offrant des billets pour la finale, son premier grand partenariat sportif mondial."
-      }
-    }
-  },
-  {
-    "id": "fifa-inter-rapidisimo-tournament-supporter-2026",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-06-09T00:00:00Z",
-    "source_name": "FIFA",
-    "source_url": "https://inside.fifa.com/tournament-organisation/commercial/news/inter-rapidisimo-partnership-tournament-supporter-world-cup-2026",
-    "i18n": {
-      "en": {
-        "title": "FIFA Extends Inter Rapidísimo Deal as World Cup 2026 Tournament Supporter",
-        "summary": "FIFA expanded its regional sponsorship portfolio by naming Colombian logistics company Inter Rapidísimo a Tournament Supporter of the 2026 World Cup, building on earlier ties from the Qatar 2022 and Women's World Cup 2023 cycles. The company plans fan activations and promotional campaigns aimed at its home market of Colombia."
-      },
-      "ja": {
-        "title": "FIFA、インテル・ラピディシモとの提携を「ワールドカップ2026トーナメントサポーター」に拡大",
-        "summary": "FIFAは地域スポンサー網の拡充として、コロンビアの物流企業インテル・ラピディシモをFIFAワールドカップ2026のトーナメントサポーターに認定した。同社はカタール2022や女子ワールドカップ2023での協力関係を土台に、母国コロンビアのファンに向けたキャンペーンや体験企画を展開する予定。"
-      },
-      "es": {
-        "title": "FIFA amplía su acuerdo con Inter Rapidísimo como Patrocinador del Torneo del Mundial 2026",
-        "summary": "FIFA reforzó su cartera de patrocinios regionales al nombrar a la empresa colombiana de logística Inter Rapidísimo como Patrocinador del Torneo de la Copa Mundial 2026, tras sus vínculos previos en Catar 2022 y el Mundial Femenino 2023. La compañía prevé activaciones y campañas dirigidas a los aficionados en su mercado de origen, Colombia."
-      },
-      "zh": {
-        "title": "国际快递公司Inter Rapidísimo升级为FIFA世界杯2026赛事支持者",
-        "summary": "FIFA扩大区域赞助阵容，将哥伦比亚物流企业Inter Rapidísimo认定为2026年世界杯的赛事支持者，此前双方已在2022年卡塔尔世界杯及2023年女足世界杯有过合作。该公司计划在其本土市场哥伦比亚开展球迷互动和宣传活动。"
-      },
-      "fr": {
-        "title": "La FIFA prolonge son partenariat avec Inter Rapidísimo, désormais Tournament Supporter de la Coupe du Monde 2026",
-        "summary": "La FIFA a renforcé son portefeuille de sponsors régionaux en nommant l'entreprise colombienne de logistique Inter Rapidísimo Tournament Supporter de la Coupe du Monde 2026, prolongeant une collaboration entamée lors du Qatar 2022 et de la Coupe du Monde féminine 2023. L'entreprise prévoit des animations et campagnes destinées aux supporters de son marché colombien."
-      }
-    }
-  },
-  {
-    "id": "pirelli-f1-tyre-supply-extension-2028",
-    "sport": "motorsports",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-06-11T00:00:00Z",
-    "source_name": "Formula1.com",
-    "source_url": "https://www.formula1.com/en/latest/article/formula-1-and-fia-announce-extension-of-pirellis-global-tyre-partnership-through-2028.7zmagtUQMH0KGPsvBcIqAF",
-    "i18n": {
-      "en": {
-        "title": "F1 and FIA Extend Pirelli's Tyre Supply Deal Through 2028",
-        "summary": "Formula 1 and the FIA confirmed Pirelli will remain the championship's exclusive tyre supplier through the end of 2028 after triggering a one-year contract option. The extension also keeps Pirelli supplying F2, F3 and F1 Academy, stretching its run as sole tyre partner past an 18-year mark."
-      },
-      "ja": {
-        "title": "F1とFIA、ピレリとのタイヤ供給契約を2028年まで延長",
-        "summary": "F1とFIAは、契約に含まれる1年間の延長オプションを発動し、ピレリを2028年シーズン末まで唯一のタイヤサプライヤーとして継続することを確認した。延長にはF2、F3、F1アカデミーへの供給も含まれ、同社の独占供給期間は18年以上に及ぶ。"
-      },
-      "es": {
-        "title": "F1 y la FIA extienden el contrato de neumáticos con Pirelli hasta 2028",
-        "summary": "Fórmula 1 y la FIA confirmaron que Pirelli seguirá siendo el proveedor exclusivo de neumáticos hasta finales de 2028 tras activar una opción contractual de un año. La extensión también mantiene a Pirelli como suministrador de F2, F3 y F1 Academy, superando los 18 años como socio único."
-      },
-      "zh": {
-        "title": "F1与国际汽联将倍耐力轮胎供应合同延长至2028年",
-        "summary": "F1和国际汽联确认，在启用合同中的一年期延长选项后，倍耐力将继续担任该锦标赛的独家轮胎供应商直至2028赛季结束。此次延长还包括F2、F3及F1学院系列赛，使其独家供应历史延续超过18年。"
-      },
-      "fr": {
-        "title": "La F1 et la FIA prolongent le contrat de pneus avec Pirelli jusqu'en 2028",
-        "summary": "La Formule 1 et la FIA ont confirmé que Pirelli restera le fournisseur exclusif de pneus du championnat jusqu'à la fin de 2028, après avoir activé une option contractuelle d'un an. La prolongation maintient aussi Pirelli comme fournisseur de la F2, de la F3 et de la F1 Academy, portant son règne à plus de 18 ans."
-      }
-    }
-  },
-  {
-    "id": "crystal-palace-raine-group-sale-process-2026",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "team",
-      "biz"
-    ],
-    "published_at": "2026-06-16T00:00:00Z",
-    "source_name": "Irish Times",
-    "source_url": "https://www.irishtimes.com/business/2026/06/16/us-billionaire-owners-of-crystal-palace-explore-sale/",
-    "i18n": {
-      "en": {
-        "title": "Crystal Palace Owners Hire Raine Group to Explore Sale Options",
-        "summary": "Crystal Palace's ownership group, led by American investors Josh Harris, David Blitzer and Woody Johnson alongside chairman Steve Parish, has engaged bankers at Raine Group to weigh a potential full sale or new capital-raising options. The move follows Johnson's purchase of a roughly 43% stake in the Premier League club in 2025."
-      },
-      "ja": {
-        "title": "クリスタル・パレス、身売り検討でレイン・グループを起用",
-        "summary": "クリスタル・パレスのオーナー陣（米国人投資家ジョシュ・ハリス氏、デイビッド・ブリッツァー氏、ウディ・ジョンソン氏、および会長のスティーブ・パリッシュ氏）は、投資銀行レイン・グループを起用し、完全売却や新たな資本調達の選択肢を検討していることが分かった。ジョンソン氏は2025年に同プレミアリーグクラブの約43%の株式を取得していた。"
-      },
-      "es": {
-        "title": "Los dueños de Crystal Palace contratan a Raine Group para explorar opciones de venta",
-        "summary": "El grupo propietario del Crystal Palace, liderado por los inversores estadounidenses Josh Harris, David Blitzer y Woody Johnson junto al presidente Steve Parish, ha contratado a banqueros de Raine Group para evaluar una posible venta total o nuevas opciones de captación de capital. El movimiento llega después de que Johnson adquiriera aproximadamente el 43% de las acciones del club de la Premier League en 2025."
-      },
-      "zh": {
-        "title": "水晶宫俱乐部股东聘请雷恩集团评估出售方案",
-        "summary": "水晶宫俱乐部的股东团队——由美国投资人乔希·哈里斯、大卫·布利策与伍迪·约翰逊，以及主席史蒂夫·帕里什组成——已聘请投资银行雷恩集团，评估完全出售或引入新资本的可能选项。此前约翰逊已于2025年收购该英超俱乐部约43%的股份。"
-      },
-      "fr": {
-        "title": "Les propriétaires de Crystal Palace engagent Raine Group pour étudier une vente",
-        "summary": "Le groupe propriétaire de Crystal Palace, mené par les investisseurs américains Josh Harris, David Blitzer et Woody Johnson aux côtés du président Steve Parish, a mandaté la banque Raine Group pour étudier une éventuelle vente totale ou de nouvelles options de levée de fonds. Cette décision fait suite à l'acquisition par Johnson d'environ 43 % des parts du club de Premier League en 2025."
-      }
-    }
-  },
-  {
-    "id": "plenitude-eni-paris-la-defense-arena-naming-rights",
-    "sport": "general",
-    "region": "global",
-    "topics": [
-      "stadium",
-      "sponsor"
-    ],
-    "published_at": "2026-06-17T00:00:00Z",
-    "source_name": "The Stadium Business",
-    "source_url": "https://www.thestadiumbusiness.com/2026/06/17/sustainability-the-focus-for-paris-la-defense-arena-naming-rights-deal/",
-    "i18n": {
-      "en": {
-        "title": "Plenitude Takes Naming Rights to Europe's Largest Indoor Arena",
-        "summary": "Eni's renewable-energy unit Plenitude signed a seven-year naming-rights agreement with Paris La Défense Arena, renaming Europe's largest indoor venue as Plenitude Arena effective July 1. Beyond branding, the partnership will draw on Plenitude's energy expertise to help the venue cut consumption and move toward more sustainable operations."
-      },
-      "ja": {
-        "title": "プレニチュード、欧州最大の屋内アリーナの命名権を取得",
-        "summary": "イタリアのエネルギー大手Eniの再生可能エネルギー部門プレニチュードは、パリ・ラ・デファンス・アリーナと7年間の命名権契約を締結し、7月1日付で欧州最大の屋内会場を「プレニチュード・アリーナ」に改称した。ブランディングに加え、プレニチュードのエネルギー技術を活用して会場の消費電力削減と運営の持続可能性向上を進めるという。"
-      },
-      "es": {
-        "title": "Plenitude adquiere los derechos de denominación de la mayor arena cubierta de Europa",
-        "summary": "La filial de energías renovables de Eni, Plenitude, firmó un acuerdo de siete años por los derechos de denominación del Paris La Défense Arena, rebautizando desde el 1 de julio al mayor recinto cubierto de Europa como Plenitude Arena. Más allá de la marca, la asociación aprovechará la experiencia energética de Plenitude para reducir el consumo del recinto y avanzar hacia operaciones más sostenibles."
-      },
-      "zh": {
-        "title": "Plenitude获得欧洲最大室内竞技场命名权",
-        "summary": "意大利能源巨头Eni旗下可再生能源公司Plenitude与巴黎拉德芳斯竞技场签署为期七年的命名权协议，自7月1日起将这座欧洲最大的室内场馆更名为“Plenitude竞技场”。除品牌冠名外，双方还将借助Plenitude的能源技术帮助场馆降低能耗，推动运营向更可持续的方向转型。"
-      },
-      "fr": {
-        "title": "Plenitude rachète les droits de dénomination de la plus grande arène couverte d'Europe",
-        "summary": "La filiale d'énergies renouvelables d'Eni, Plenitude, a signé un accord de sept ans pour les droits de dénomination de la Paris La Défense Arena, rebaptisant depuis le 1er juillet la plus grande salle couverte d'Europe « Plenitude Arena ». Au-delà de l'image de marque, le partenariat s'appuiera sur l'expertise énergétique de Plenitude pour réduire la consommation du site et le faire évoluer vers une exploitation plus durable."
-      }
-    }
-  },
-  {
     "id": "newcastle-united-knox-hydrate-shirt-sponsor-2026",
     "sport": "soccer",
     "region": "global",
@@ -1957,6 +1857,40 @@
     }
   },
   {
+    "id": "ont-field-naming-rights-ontario-tower-buzzers-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "stadium"
+    ],
+    "published_at": "2026-07-07T00:00:00Z",
+    "source_name": "Ontario International Airport",
+    "source_url": "https://www.flyontario.com/press/oiaa-commissioners-approve-naming-rights-agreement-ont-field",
+    "i18n": {
+      "en": {
+        "title": "Ontario International Airport Secures Naming Rights to New Minor League Ballpark",
+        "summary": "The Ontario International Airport Authority's commissioners approved a naming rights agreement making the new Southern California stadium of the Ontario Tower Buzzers, the Los Angeles Dodgers' Single-A affiliate, officially known as ONT Field. It is believed to be the first professional baseball venue in North America named after an airport code, with the authority paying the club roughly $200,000 annually and the city receiving $1 million under the arrangement."
+      },
+      "ja": {
+        "title": "オンタリオ国際空港、新マイナーリーグ球場の命名権を取得",
+        "summary": "オンタリオ国際空港局の理事会は、ロサンゼルス・ドジャースのシングルA傘下球団オンタリオ・タワー・バザーズの新本拠地を「ONTフィールド」と命名する命名権契約を承認した。北米のプロ野球場が空港コードにちなんで名付けられるのは初めてとみられ、空港局は球団に年間約20万ドルを支払い、市には100万ドルが提供される仕組みとなっている。"
+      },
+      "es": {
+        "title": "El Aeropuerto Internacional de Ontario obtiene los derechos de nombre de un nuevo estadio de ligas menores",
+        "summary": "Los comisionados de la Autoridad del Aeropuerto Internacional de Ontario aprobaron un acuerdo de naming rights que bautiza el nuevo estadio de los Ontario Tower Buzzers, filial Single-A de los Dodgers de Los Ángeles, como ONT Field. Se cree que es el primer estadio de béisbol profesional de Norteamérica nombrado con el código de un aeropuerto, con pagos anuales de unos 200.000 dólares al club y 1 millón de dólares para la ciudad."
+      },
+      "zh": {
+        "title": "安大略国际机场获新迷你联盟球场命名权",
+        "summary": "安大略国际机场管理局董事会批准了一项冠名协议，将洛杉矶道奇队1A级附属球队安大略塔蜂队的新主场正式命名为“ONT球场”。这被认为是北美首座以机场代码命名的职业棒球场，机场管理局每年向球队支付约20万美元，市政府则获得100万美元。"
+      },
+      "fr": {
+        "title": "L'aéroport international d'Ontario obtient les droits de dénomination d'un nouveau stade de ligue mineure",
+        "summary": "Les commissaires de l'Ontario International Airport Authority ont approuvé un accord de naming donnant au nouveau stade des Ontario Tower Buzzers, club affilié Single-A des Dodgers de Los Angeles, le nom officiel d'ONT Field. Il s'agirait du premier stade de baseball professionnel d'Amérique du Nord nommé d'après un code aéroportuaire, l'aéroport versant environ 200 000 dollars par an au club et 1 million de dollars à la ville."
+      }
+    }
+  },
+  {
     "id": "deloitte-premier-league-finance-report-2026",
     "sport": "soccer",
     "region": "global",
@@ -2125,6 +2059,72 @@
     }
   },
   {
+    "id": "playvs-series-aa-funding-2026",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-07-15T00:00:00Z",
+    "source_name": "dot.LA",
+    "source_url": "https://dot.la/playvs-raises-10-5m-making-esports-varsity-sports-2649035403.html",
+    "i18n": {
+      "en": {
+        "title": "Scholastic Esports Platform PlayVS Raises Over $10 Million",
+        "summary": "PlayVS, which runs competitive gaming leagues for middle schools, high schools and colleges across North America, closed a funding round of just over $10 million combining Series AA-1 and Series AA venture capital. The round adds to more than $100 million the company has raised since its founding to build out scholastic and collegiate esports infrastructure."
+      },
+      "ja": {
+        "title": "学生eスポーツ基盤のPlayVS、1000万ドル超を調達",
+        "summary": "北米の中学・高校・大学向けに競技eスポーツリーグを運営するPlayVSは、シリーズAA-1とシリーズAAを組み合わせた1000万ドル超の資金調達ラウンドを完了した。同社は創業以来累計1億ドルを超える資金を調達しており、学生・大学eスポーツ基盤の拡充を進めている。"
+      },
+      "es": {
+        "title": "PlayVS, plataforma de esports escolar, recauda más de 10 millones de dólares",
+        "summary": "PlayVS, que opera ligas de videojuegos competitivos para escuelas secundarias, preparatorias y universidades de Norteamérica, cerró una ronda de financiamiento de poco más de 10 millones de dólares combinando capital de riesgo de Series AA-1 y Series AA. La ronda se suma a los más de 100 millones de dólares que la empresa ha reunido desde su fundación para desarrollar infraestructura de esports escolar y universitario."
+      },
+      "zh": {
+        "title": "学生电竞平台PlayVS融资逾1000万美元",
+        "summary": "PlayVS为北美中学、高中及大学运营电竞联赛，近日完成一轮合计逾1000万美元的Series AA-1和Series AA风险融资。此轮融资使该公司自成立以来累计融资额超过1亿美元，用于扩建校园及大学电竞基础设施。"
+      },
+      "fr": {
+        "title": "La plateforme d'esport scolaire PlayVS lève plus de 10 millions de dollars",
+        "summary": "PlayVS, qui gère des ligues de jeu vidéo compétitif pour les collèges, lycées et universités d'Amérique du Nord, a bouclé un tour de financement de plus de 10 millions de dollars combinant capital-risque de série AA-1 et série AA. Ce tour porte à plus de 100 millions de dollars les fonds levés par l'entreprise depuis sa création pour développer les infrastructures d'esport scolaire et universitaire."
+      }
+    }
+  },
+  {
+    "id": "esports-investment-h1-2026-drakestar-report",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-07-15T00:00:00Z",
+    "source_name": "Drakestar",
+    "source_url": "https://www.drakestar.com/news/global-gaming-report-q2-2026",
+    "i18n": {
+      "en": {
+        "title": "Gaming Investment Hits 12-Month High While Esports Funding Slides",
+        "summary": "A mid-2026 industry report from Drakestar shows global gaming investment hit a 12-month high above $2.5 billion, driven by AI, ad-tech, and hardware deals. Esports-specific equity funding moved in the opposite direction, falling roughly 12% year-over-year to about $57 million across just eight rounds. Analysts point to Saudi-backed capital, including reported interest around a Moonton acquisition, as an increasingly dominant force in the sector's dealmaking."
+      },
+      "ja": {
+        "title": "ゲーム投資は12カ月ぶり高水準、eスポーツ資金は減少",
+        "summary": "Drakestarが発表した2026年半ばの業界レポートによると、世界のゲーム関連投資はAI、広告テクノロジー、ハードウェア関連の取引に牽引され、過去12カ月で最高水準の25億ドル超に達した。一方でeスポーツ専門のエクイティ投資は逆に減少し、前年比で約12%減の約5700万ドル、案件数もわずか8件にとどまった。アナリストは、Moonton買収を巡る動きも含め、サウジアラビア系資本が業界の取引を左右する存在感を強めていると指摘している。"
+      },
+      "es": {
+        "title": "La inversión en videojuegos toca máximo de 12 meses mientras cae la del esports",
+        "summary": "Un informe sectorial de mediados de 2026 de Drakestar muestra que la inversión global en videojuegos alcanzó un máximo de 12 meses, por encima de 2.500 millones de dólares, impulsada por operaciones de IA, publicidad tecnológica y hardware. La financiación de capital específica para esports se movió en sentido contrario, cayendo cerca de un 12% interanual hasta unos 57 millones de dólares en solo ocho rondas. Los analistas señalan al capital respaldado por Arabia Saudita, incluido el interés reportado en torno a una adquisición de Moonton, como una fuerza cada vez más dominante en las operaciones del sector."
+      },
+      "zh": {
+        "title": "游戏行业投资创12个月新高，电竞融资却在下滑",
+        "summary": "Drakestar发布的2026年年中行业报告显示，受人工智能、广告技术和硬件相关交易推动，全球游戏行业投资达到12个月来的最高水平，超过25亿美元。与此相反，电竞领域的股权融资同比下降约12%，仅通过8轮融资筹得约5700万美元。分析人士指出，包括据报道对Moonton的收购兴趣在内，沙特背景资本正日益成为该行业交易活动的主导力量。"
+      },
+      "fr": {
+        "title": "L'investissement dans le jeu vidéo au plus haut, l'esport en repli",
+        "summary": "Un rapport sectoriel de mi-2026 publié par Drakestar montre que l'investissement mondial dans le jeu vidéo a atteint un sommet sur douze mois, dépassant 2,5 milliards de dollars, porté par des opérations liées à l'IA, à l'ad-tech et au matériel. Le financement en capital spécifique à l'esport a évolué en sens inverse, reculant d'environ 12 % sur un an pour atteindre près de 57 millions de dollars répartis sur seulement huit levées de fonds. Les analystes soulignent le rôle croissant des capitaux adossés à l'Arabie saoudite, y compris un intérêt rapporté pour un rachat de Moonton, dans les opérations du secteur."
+      }
+    }
+  },
+  {
     "id": "tiktok-nba-wnba-global-content-partnership-2026",
     "sport": "basketball",
     "region": "global",
@@ -2193,6 +2193,39 @@
     }
   },
   {
+    "id": "lakers-albert-jersey-patch-sponsor",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-07-16T00:00:00Z",
+    "source_name": "ESPN",
+    "source_url": "https://bleacherreport.com/articles/25455750-lakers-announce-new-jersey-patch-sponsor-photo-latest-nba-rumors-contract-value",
+    "i18n": {
+      "en": {
+        "title": "Lakers Replace Bibigo With Fintech App Albert as Jersey Patch Sponsor",
+        "summary": "The Los Angeles Lakers announced that personal-finance app Albert will replace Bibigo as the team's jersey patch sponsor starting with the 2026-27 season, appearing on all four uniform designs. A league source told ESPN the agreement carries an annual value north of $30 million."
+      },
+      "ja": {
+        "title": "レイカーズ、ジャージパッチスポンサーをBibigoからフィンテックアプリAlbertに変更",
+        "summary": "ロサンゼルス・レイカーズは、2026-27シーズンからジャージパッチスポンサーをBibigoから個人向け資産管理アプリのAlbertに変更すると発表した。4種類全てのユニフォームデザインに表示される。ESPNによれば、リーグ関係者は契約額が年間3000万ドルを超えると明かしている。"
+      },
+      "es": {
+        "title": "Los Lakers sustituyen a Bibigo por la app fintech Albert como patrocinador del parche",
+        "summary": "Los Angeles Lakers anunciaron que la aplicación de finanzas personales Albert reemplazará a Bibigo como patrocinador del parche de camiseta del equipo a partir de la temporada 2026-27, apareciendo en los cuatro diseños de uniforme. Una fuente de la liga dijo a ESPN que el acuerdo tiene un valor anual superior a 30 millones de dólares."
+      },
+      "zh": {
+        "title": "湖人队球衣广告赞助商由Bibigo更换为金融科技应用Albert",
+        "summary": "洛杉矶湖人队宣布，从2026-27赛季起，个人理财应用Albert将取代Bibigo成为球队球衣广告赞助商，标志将出现在全部四款球衣设计上。据ESPN援引联盟人士消息，该协议年价值超过3000万美元。"
+      },
+      "fr": {
+        "title": "Les Lakers remplacent Bibigo par l'application fintech Albert comme sponsor de patch de maillot",
+        "summary": "Les Los Angeles Lakers ont annoncé que l'application de finances personnelles Albert remplacera Bibigo comme sponsor du patch de maillot de l'équipe à partir de la saison 2026-27, apparaissant sur les quatre modèles de maillot. Une source de la ligue a indiqué à ESPN que l'accord représente une valeur annuelle supérieure à 30 millions de dollars."
+      }
+    }
+  },
+  {
     "id": "texas-tech-galaxy-stadium-naming-rights-2026",
     "sport": "football",
     "region": "global",
@@ -2223,6 +2256,40 @@
       "fr": {
         "title": "Texas Tech rebaptise son stade Galaxy Stadium dans un accord de naming à 75 millions de dollars",
         "summary": "Texas Tech a signé un accord de naming de 15 ans, d'une valeur de 75 millions de dollars, avec l'entreprise d'infrastructures technologiques Galaxy, rebaptisant son stade de football américain Galaxy Stadium dès la saison 2026. Les Red Raiders ont disputé leur premier match sous ce nouveau nom le 5 septembre face à Abilene Christian."
+      }
+    }
+  },
+  {
+    "id": "texas-tech-galaxy-stadium-naming-rights",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-07-17T00:00:00Z",
+    "source_name": "NBC 5 Dallas-Fort Worth",
+    "source_url": "https://www.nbcdfw.com/news/sports/texas-tech-signs-naming-rights-deal-with-digital-assets-company-galaxy/4051708/",
+    "i18n": {
+      "en": {
+        "title": "Texas Tech Renames Football Stadium Galaxy Stadium in 15-Year Deal",
+        "summary": "Texas Tech Athletics signed a 15-year naming rights partnership with digital-assets firm Galaxy, renaming the school's football venue from Jones AT&T Stadium to Galaxy Stadium starting with the 2026 season. The agreement also includes provisions supporting Name, Image and Likeness opportunities for Red Raiders athletes; financial terms were not disclosed."
+      },
+      "ja": {
+        "title": "テキサス・テック、フットボール競技場を「ギャラクシー・スタジアム」に改称する15年契約",
+        "summary": "テキサス・テック大学は、デジタル資産企業ギャラクシーと15年間の命名権契約を締結し、フットボール競技場の名称を2026年シーズンから「ジョーンズAT&Tスタジアム」から「ギャラクシー・スタジアム」に変更した。契約には選手のNIL（氏名・画像・肖像権）機会を支援する条項も含まれるが、契約金額は非公表。"
+      },
+      "es": {
+        "title": "Texas Tech renombra su estadio de fútbol americano como Galaxy Stadium en un contrato de 15 años",
+        "summary": "El departamento deportivo de Texas Tech firmó una alianza de derechos de denominación por 15 años con la firma de activos digitales Galaxy, renombrando su estadio de fútbol americano de Jones AT&T Stadium a Galaxy Stadium a partir de la temporada 2026. El acuerdo también incluye disposiciones que respaldan oportunidades de nombre, imagen y semejanza para los deportistas de Red Raiders; no se revelaron los términos financieros."
+      },
+      "zh": {
+        "title": "德州理工大学与Galaxy签署15年冠名协议，橄榄球场更名为Galaxy Stadium",
+        "summary": "德州理工大学体育部与数字资产公司Galaxy签署了一份为期15年的冠名权合作协议，从2026赛季起将其橄榄球场从Jones AT&T Stadium更名为Galaxy Stadium。协议还包含支持Red Raiders运动员姓名、形象和肖像权（NIL）机会的条款，但财务条款未公开。"
+      },
+      "fr": {
+        "title": "Texas Tech renomme son stade de football américain Galaxy Stadium pour 15 ans",
+        "summary": "Le département sportif de Texas Tech a signé un partenariat de droits de dénomination de 15 ans avec la société d'actifs numériques Galaxy, rebaptisant son stade de football américain de Jones AT&T Stadium en Galaxy Stadium à partir de la saison 2026. L'accord comprend aussi des dispositions soutenant les opportunités de nom, image et ressemblance pour les athlètes des Red Raiders ; les conditions financières n'ont pas été divulguées."
       }
     }
   },
@@ -2329,6 +2396,40 @@
     }
   },
   {
+    "id": "boldhaven-manchester-united-stake-disclosure",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "biz",
+      "team"
+    ],
+    "published_at": "2026-07-21T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/leagues/soccer/2026/manchester-united-stake-boldhaven-1234939717/",
+    "i18n": {
+      "en": {
+        "title": "UK Investment Firm Boldhaven Discloses 5.6% Stake in Manchester United",
+        "summary": "London-based Boldhaven Management disclosed beneficial ownership of about 3.1 million Class A shares of Manchester United plc, equal to 5.6% of that share class, in a Schedule 13G filing with US regulators. The firm holds the shares on behalf of clients, with no single client owning more than 5% individually."
+      },
+      "ja": {
+        "title": "英投資会社ボールドヘイブンがマンチェスター・ユナイテッド株5.6%を保有と開示",
+        "summary": "ロンドンの投資会社ボールドヘイブン・マネジメントは、米当局へのスケジュール13G申請で、マンチェスター・ユナイテッドのクラスA株約310万株、同株式区分の5.6%相当を実質保有していると開示した。同社は複数の顧客の資産として株式を保有しており、単独で5%を超える顧客はいないとされる。"
+      },
+      "es": {
+        "title": "La firma británica Boldhaven revela una participación del 5,6% en el Manchester United",
+        "summary": "La gestora londinense Boldhaven Management reveló la titularidad efectiva de unas 3,1 millones de acciones Clase A del Manchester United plc, equivalentes al 5,6% de esa clase de acciones, en una presentación del Anexo 13G ante el regulador estadounidense. La firma mantiene las acciones en nombre de clientes, ninguno de los cuales posee individualmente más del 5%."
+      },
+      "zh": {
+        "title": "英国投资公司Boldhaven披露持有曼联5.6%股份",
+        "summary": "总部位于伦敦的Boldhaven Management公司在向美国监管机构提交的13G表格中披露，其实益持有曼联约310万股A类股票，占该类股份的5.6%。该公司代表多名客户持有这些股票，且没有单一客户持股比例超过5%。"
+      },
+      "fr": {
+        "title": "La société britannique Boldhaven révèle détenir 5,6 % du Manchester United",
+        "summary": "La société de gestion londonienne Boldhaven Management a déclaré détenir à titre bénéficiaire environ 3,1 millions d'actions de catégorie A de Manchester United plc, soit 5,6 % de cette catégorie d'actions, dans un dépôt Schedule 13G auprès du régulateur américain. La société détient ces actions pour le compte de clients, dont aucun ne possède individuellement plus de 5 %."
+      }
+    }
+  },
+  {
     "id": "como-1907-revolut-front-of-shirt-2026",
     "sport": "soccer",
     "region": "global",
@@ -2358,6 +2459,40 @@
       "fr": {
         "title": "Como 1907 promeut Revolut au rang de sponsor principal avant ses débuts en Ligue des champions",
         "summary": "Le club de Serie A Como 1907 a promu la fintech Revolut, jusque-là partenaire bancaire, au rang de sponsor principal du maillot dès la saison 2026-27. Cet accord renforcé coïncide avec la toute première participation du club à la Ligue des champions de l'UEFA, offrant à Revolut une grande visibilité sur la scène européenne."
+      }
+    }
+  },
+  {
+    "id": "chicago-fire-boldyn-networks-mcdonalds-park",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "tech",
+      "stadium"
+    ],
+    "published_at": "2026-07-27T00:00:00Z",
+    "source_name": "PR Newswire",
+    "source_url": "https://www.prnewswire.com/news-releases/chicago-fire-fc-taps-mls-supplier-boldyn-networks-to-realize-its-vision-for-mcdonalds-park-302834418.html",
+    "i18n": {
+      "en": {
+        "title": "Chicago Fire FC Selects Boldyn Networks for McDonald's Park Connectivity",
+        "summary": "Chicago Fire FC has tapped Boldyn Networks, MLS's official connectivity supplier, to design and deploy a converged neutral-host 5G distributed antenna system and Wi-Fi network at its new home, McDonald's Park. The project extends Boldyn's league-wide role providing venue connectivity across MLS stadiums."
+      },
+      "ja": {
+        "title": "シカゴ・ファイアーFC、マクドナルズ・パークの通信網整備にBoldyn Networksを起用",
+        "summary": "シカゴ・ファイアーFCは、MLSの公式通信インフラ供給元であるBoldyn Networksを新本拠地マクドナルズ・パークの通信整備パートナーに起用した。中立ホスト型の5G分散アンテナシステムとWi-Fiネットワークを設計・導入する計画で、MLS全体で施設の通信環境を支えるBoldynの役割を拡大するものとなる。"
+      },
+      "es": {
+        "title": "Chicago Fire FC elige a Boldyn Networks para la conectividad de McDonald's Park",
+        "summary": "El Chicago Fire FC contrató a Boldyn Networks, el proveedor oficial de conectividad de la MLS, para diseñar e implementar un sistema de antenas distribuidas 5G de host neutral y una red Wi-Fi convergentes en su nuevo estadio, McDonald's Park. El proyecto amplía el papel de Boldyn como proveedor de conectividad en los estadios de toda la liga."
+      },
+      "zh": {
+        "title": "芝加哥火焰队选定Boldyn Networks负责麦当劳公园联网建设",
+        "summary": "芝加哥火焰队聘请MLS官方联网供应商Boldyn Networks，为其新主场麦当劳公园设计并部署中立主机型5G分布式天线系统及Wi-Fi网络。该项目进一步扩大了Boldyn在整个MLS联盟场馆联网服务中的角色。"
+      },
+      "fr": {
+        "title": "Le Chicago Fire FC choisit Boldyn Networks pour la connectivité du McDonald's Park",
+        "summary": "Le Chicago Fire FC a fait appel à Boldyn Networks, fournisseur officiel de connectivité de la MLS, pour concevoir et déployer un système d'antennes distribuées 5G neutre et un réseau Wi-Fi convergents dans son nouveau stade, le McDonald's Park. Ce projet élargit le rôle de Boldyn en tant que fournisseur de connectivité dans les stades de toute la ligue."
       }
     }
   },
@@ -3103,6 +3238,39 @@
     }
   },
   {
+    "id": "burnley-vertu-shirt-sponsor-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-08-18T00:00:00Z",
+    "source_name": "City A.M.",
+    "source_url": "https://www.cityam.com/burnley-axe-main-sponsor-finotive-after-just-six-weeks-and-promote-vertu-to-shirt/",
+    "i18n": {
+      "en": {
+        "title": "Burnley Scraps Finotive Shirt Deal After 42 Days, Promotes Vertu to Front Sponsor",
+        "summary": "Burnley terminated its front-of-shirt agreement with trading platform Finotive Funding just six weeks after it began, citing the need to protect the club's interests. Car retailer Vertu, a existing club partner, was elevated to the main sponsorship spot, and fans who bought the short-lived kit were offered refunds or a swap."
+      },
+      "ja": {
+        "title": "バーンリー、42日で契約終了のFinotiveに代えVertuをメインスポンサーへ昇格",
+        "summary": "バーンリーは取引プラットフォームFinotive Fundingとの胸スポンサー契約を開始からわずか6週間で解消し、クラブの利益を守るための決断と説明した。既存パートナーだった自動車販売のVertuがメインスポンサーの座に昇格し、短命に終わったユニフォームを購入したファンには返金や交換が提供された。"
+      },
+      "es": {
+        "title": "Burnley cancela el acuerdo con Finotive tras 42 días y asciende a Vertu como patrocinador principal",
+        "summary": "Burnley rescindió su acuerdo de patrocinio frontal con la plataforma de trading Finotive Funding apenas seis semanas después de firmarlo, alegando la necesidad de proteger los intereses del club. El concesionario de coches Vertu, ya socio del club, pasó a ocupar el puesto principal, y a los aficionados que compraron la camiseta se les ofreció reembolso o canje."
+      },
+      "zh": {
+        "title": "伯恩利终止Finotive胸前广告合约仅42天，Vertu升级为主赞助商",
+        "summary": "伯恩利在与交易平台Finotive Funding签约仅六周后就终止了胸前广告协议，称此举是为了保护俱乐部的利益。原本已是俱乐部合作伙伴的汽车经销商Vertu升级为主赞助商，购买了短命球衣的球迷获得退款或更换服务。"
+      },
+      "fr": {
+        "title": "Burnley résilie l'accord avec Finotive après 42 jours et promeut Vertu comme sponsor principal",
+        "summary": "Burnley a mis fin à son contrat de sponsoring maillot avec la plateforme de trading Finotive Funding à peine six semaines après sa signature, invoquant la nécessité de protéger les intérêts du club. Le concessionnaire automobile Vertu, déjà partenaire du club, a été promu au poste de sponsor principal, et les supporters ayant acheté le maillot éphémère se sont vu proposer un remboursement ou un échange."
+      }
+    }
+  },
+  {
     "id": "kelce-publicis-tekta-nil-venture-2026",
     "sport": "general",
     "region": "global",
@@ -3472,6 +3640,40 @@
       "fr": {
         "title": "La Bundesliga prolonge son accord de licence avec EA Sports FC pour un montant record de 250 millions d'euros",
         "summary": "La Bundesliga allemande a annoncé une prolongation de sept ans de son partenariat de licence de jeux vidéo avec Electronic Arts, évalué à environ 250 millions d'euros, le plus important accord de ce type dans l'histoire de la ligue. Dévoilé à la Gamescom, cet accord renouvelé maintient les clubs et les stades de la Bundesliga intégrés à la franchise EA Sports FC pour la nouvelle période."
+      }
+    }
+  },
+  {
+    "id": "ln-federal-credit-union-louisville-jersey-patch-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-08-27T00:00:00Z",
+    "source_name": "Sports Illustrated",
+    "source_url": "https://www.si.com/college/louisville/l-n-inks-jersey-patch-sponsor-deal-with-louisville-football-volleyball-01m12hgx51j5",
+    "i18n": {
+      "en": {
+        "title": "Louisville Adds L&N Federal Credit Union Jersey Patch for Football and Volleyball",
+        "summary": "The University of Louisville athletic department expanded its long-running relationship with L&N Federal Credit Union, which already holds football stadium naming rights, into a jersey-patch sponsorship covering the football and volleyball programs. The Cardinals will begin wearing the L&N patch on uniforms starting with the 2026-27 season, though the school did not disclose the value of the new deal."
+      },
+      "ja": {
+        "title": "ルイビル大、L&Nフェデラル信用組合とフットボール・バレーボールのジャージーパッチ契約",
+        "summary": "ルイビル大学のathletic部門は、すでにフットボールスタジアムの命名権を持つL&Nフェデラル信用組合との関係を拡大し、フットボールとバレーボールのユニフォームに企業ロゴを掲出するジャージーパッチ契約を締結した。カージナルスは2026-27シーズンからパッチの着用を開始する予定だが、大学側は契約金額を公表していない。"
+      },
+      "es": {
+        "title": "Louisville añade un parche de camiseta de L&N Federal Credit Union para fútbol americano y vóleibol",
+        "summary": "El departamento de atletismo de la Universidad de Louisville amplió su relación de larga data con L&N Federal Credit Union, que ya posee los derechos de nombre del estadio de fútbol americano, mediante un patrocinio de parche en camiseta para los programas de fútbol americano y vóleibol. Los Cardinals comenzarán a lucir el parche de L&N en sus uniformes a partir de la temporada 2026-27, aunque la universidad no reveló el valor del nuevo acuerdo."
+      },
+      "zh": {
+        "title": "路易斯维尔大学与L&N联邦信用社达成橄榄球和排球队服广告贴标协议",
+        "summary": "路易斯维尔大学体育部扩大了与已持有其橄榄球场冠名权的L&N联邦信用社的合作关系，新增了覆盖橄榄球和排球项目的球衣广告贴标赞助。红雀队将从2026-27赛季开始在球衣上佩戴L&N标志，但校方未透露新协议的具体金额。"
+      },
+      "fr": {
+        "title": "Louisville ajoute un patch L&N Federal Credit Union sur les maillots de football américain et de volley",
+        "summary": "Le département sportif de l'université de Louisville a élargi sa relation de longue date avec L&N Federal Credit Union, qui détient déjà les droits de dénomination du stade de football américain, via un partenariat de patch sur maillot pour les programmes de football américain et de volley. Les Cardinals porteront le patch L&N sur leurs maillots à partir de la saison 2026-27, l'université n'ayant toutefois pas dévoilé le montant du nouvel accord."
       }
     }
   },
@@ -4014,6 +4216,72 @@
       "fr": {
         "title": "La League One Volleyball nomme CVS Pharmacy premier sponsor de patch maillot",
         "summary": "La League One Volleyball (LOVB) a désigné CVS Pharmacy comme partenaire officiel santé et bien-être, CVS devenant également le premier sponsor de patch maillot de cette ligue professionnelle de volleyball. L'accord offre à la chaîne de pharmacies une visibilité de marque sur les maillots des joueuses, tandis que la LOVB continue d'étoffer son portefeuille de partenaires commerciaux dès ses premières saisons. C'est le dernier exemple en date de marques de la distribution et de la santé investissant le sponsoring de maillot alors que les ligues sportives professionnelles féminines se développent."
+      }
+    }
+  },
+  {
+    "id": "london-city-lionesses-nike-shirt-sponsor-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-04T00:00:00Z",
+    "source_name": "SportsPro",
+    "source_url": "https://www.sportspro.com/news/sponsorship-marketing/london-city-lionesses-nike-shirt-sponsorship-michele-kang-september-2026/",
+    "i18n": {
+      "en": {
+        "title": "Nike Becomes London City Lionesses' Front-of-Shirt Sponsor in Record Women's Football Deal",
+        "summary": "Nike extended its kit deal with Women's Super League side London City Lionesses to also become the club's front-of-shirt sponsor, in what owner Michele Kang called the biggest such agreement in women's football. The new shirt design replaces the Swoosh with an image of the Greek goddess Nike and debuted in a WSL match against Manchester United."
+      },
+      "ja": {
+        "title": "ナイキ、ロンドン・シティ・ライオネスと女子サッカー史上最大級の胸スポンサー契約",
+        "summary": "ナイキはウィメンズ・スーパーリーグに所属するロンドン・シティ・ライオネスとのキット契約を拡張し、胸スポンサーも兼ねることになった。オーナーのミシェル・カン氏は女子サッカー史上最大規模の契約だと述べた。新ユニフォームはスウッシュの代わりにギリシャ神話の女神ニケをあしらったデザインで、マンチェスター・ユナイテッド戦で披露された。"
+      },
+      "es": {
+        "title": "Nike se convierte en patrocinador principal de London City Lionesses en un acuerdo récord del fútbol femenino",
+        "summary": "Nike amplió su contrato de equipación con el club de la Women's Super League London City Lionesses para convertirse también en su patrocinador frontal, en lo que la propietaria Michele Kang calificó como el mayor acuerdo de este tipo en el fútbol femenino. La nueva camiseta sustituye el logo Swoosh por una imagen de la diosa griega Niké y debutó ante el Manchester United."
+      },
+      "zh": {
+        "title": "耐克成为伦敦城市女狮胸前赞助商，创女子足球纪录合约",
+        "summary": "耐克将与英格兰女超球队伦敦城市女狮的球衣合约扩展为胸前赞助，俱乐部老板米歇尔·康称这是女子足球历史上规模最大的此类协议。新球衣以希腊胜利女神奈基的形象取代了标志性的Swoosh标识，并在对阵曼联的比赛中首次亮相。"
+      },
+      "fr": {
+        "title": "Nike devient sponsor maillot du London City Lionesses dans un accord record pour le football féminin",
+        "summary": "Nike a étendu son contrat d'équipementier avec le club de Women's Super League London City Lionesses pour devenir également son sponsor maillot principal, un accord que la propriétaire Michele Kang a qualifié du plus important du genre dans le football féminin. Le nouveau maillot remplace le logo Swoosh par une image de la déesse grecque Niké et a été porté lors d'un match contre Manchester United."
+      }
+    }
+  },
+  {
+    "id": "bucks-uline-jersey-patch-sponsor",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-05T00:00:00Z",
+    "source_name": "Hoodline",
+    "source_url": "https://hoodline.com/2026/09/uline-lands-on-bucks-jerseys-as-pleasant-prairie-firm-becomes-new-patch-sponsor/",
+    "i18n": {
+      "en": {
+        "title": "Milwaukee Bucks Name Uline as New Jersey Patch Sponsor",
+        "summary": "The Milwaukee Bucks announced a multiyear jersey patch partnership with Wisconsin-based shipping-supplies company Uline, replacing Motorola's logo on the front left shoulder of the team's jerseys starting with the 2026-27 season. The deal continues the NBA's trend of regionally headquartered companies buying into local team branding."
+      },
+      "ja": {
+        "title": "ミルウォーキー・バックス、新ジャージパッチスポンサーにユーラインを指名",
+        "summary": "ミルウォーキー・バックスは、ウィスコンシン州の物流用品企業ユーラインと複数年のジャージパッチ契約を発表した。2026-27シーズンから、ジャージ左肩前面のロゴがモトローラからユーラインに変更される。地元に本社を置く企業がチームブランディングに投資するNBAの傾向を反映した契約となる。"
+      },
+      "es": {
+        "title": "Los Milwaukee Bucks nombran a Uline nuevo patrocinador del parche de camiseta",
+        "summary": "Los Milwaukee Bucks anunciaron una asociación plurianual de parche de camiseta con la empresa de suministros de envío Uline, con sede en Wisconsin, que reemplaza el logotipo de Motorola en el hombro delantero izquierdo de las camisetas del equipo a partir de la temporada 2026-27. El acuerdo continúa la tendencia de la NBA de que empresas con sede regional inviertan en la marca de equipos locales."
+      },
+      "zh": {
+        "title": "密尔沃基雄鹿队宣布Uline为新球衣广告赞助商",
+        "summary": "密尔沃基雄鹿队宣布与总部位于威斯康星州的物流用品公司Uline达成多年球衣广告合作，从2026-27赛季起，球衣左前肩的摩托罗拉标志将由Uline取代。该协议延续了NBA中地区性企业投资本地球队品牌的趋势。"
+      },
+      "fr": {
+        "title": "Les Bucks de Milwaukee nomment Uline nouveau sponsor du patch de maillot",
+        "summary": "Les Bucks de Milwaukee ont annoncé un partenariat pluriannuel de patch de maillot avec l'entreprise de fournitures d'expédition Uline, basée dans le Wisconsin, remplaçant le logo Motorola sur l'épaule avant gauche des maillots de l'équipe dès la saison 2026-27. Cet accord confirme la tendance de la NBA à voir des entreprises régionales investir dans l'image des équipes locales."
       }
     }
   },
@@ -5379,6 +5647,39 @@
     }
   },
   {
+    "id": "espn-wwe-streaming-lawsuit-intervene-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-09-23T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/law/analysis/2026/espn-wwe-streaming-lawsuit-1234945416/",
+    "i18n": {
+      "en": {
+        "title": "ESPN Granted Right to Intervene in Consumer Lawsuit Against WWE",
+        "summary": "A U.S. magistrate judge has granted ESPN's request to formally join a consumer lawsuit against WWE as a defendant, rather than remain a bystander. The suit, filed by two subscribers, alleges WWE and ESPN coordinated to push fans into pricier streaming plans after moving premium live events off Peacock. Monthly costs for the affected service reportedly climbed from $11 to as much as $35.99."
+      },
+      "ja": {
+        "title": "ESPN、WWEを相手取った消費者訴訟への参加が認められる",
+        "summary": "米国の治安判事は、ESPNがWWEを相手取った消費者訴訟に被告として正式に参加することを認めた。この訴訟は、プレミアムライブイベントをPeacockから移行させた際に、WWEとESPNが結託してファンをより高額な配信プランに誘導したと主張する2人の加入者によって提起された。対象サービスの月額料金は11ドルから最大35.99ドルまで上昇したと報じられている。"
+      },
+      "es": {
+        "title": "ESPN obtiene permiso para sumarse a la demanda de consumidores contra WWE",
+        "summary": "Un juez federal de EE.UU. autorizó a ESPN a sumarse formalmente como demandado en una demanda de consumidores contra WWE. La demanda, presentada por dos suscriptores, alega que WWE y ESPN coordinaron el traslado de los eventos premium en directo fuera de Peacock para empujar a los aficionados hacia planes de streaming más caros. Se informa que el costo mensual del servicio afectado subió de 11 a hasta 35.99 dólares."
+      },
+      "zh": {
+        "title": "ESPN获准以被告身份加入针对WWE的消费者诉讼",
+        "summary": "美国一名治安法官批准ESPN正式作为被告加入一起针对WWE的消费者诉讼。该诉讼由两名订阅用户提起，指控WWE与ESPN在将付费直播赛事从Peacock平台迁出后，联手迫使球迷转向价格更高的流媒体套餐。据报道，相关服务的月费已从11美元涨至最高35.99美元。"
+      },
+      "fr": {
+        "title": "ESPN autorisé à rejoindre la plainte de consommateurs contre WWE",
+        "summary": "Un juge fédéral américain a autorisé ESPN à rejoindre officiellement, en tant que défendeur, une plainte de consommateurs visant WWE. Déposée par deux abonnés, la plainte affirme que WWE et ESPN se seraient coordonnés pour pousser les fans vers des formules de streaming plus chères après avoir retiré les événements premium de Peacock. Le tarif mensuel du service concerné serait passé de 11 à jusqu'à 35,99 dollars."
+      }
+    }
+  },
+  {
     "id": "raj-sports-whitehead-ceo-promotion",
     "sport": "general",
     "region": "global",
@@ -5681,6 +5982,40 @@
       "fr": {
         "title": "Des banques comme SoFi et Chase se lancent dans le sponsoring de patchs de maillot universitaires",
         "summary": "Un nombre croissant de grandes banques, dont SoFi et JPMorgan Chase, signent des accords de sponsoring de patchs de maillot avec des départements sportifs universitaires, une catégorie qui s'étend désormais au-delà de la NFL et de la NBA. Les analystes estiment que ces accords offrent aux marques financières un accès direct à un public jeune et engagé."
+      }
+    }
+  },
+  {
+    "id": "mlb-owners-salary-cap-cba-labor-talks-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "biz",
+      "team"
+    ],
+    "published_at": "2026-09-24T00:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/mlb-labor-talks-escalate-with-owners-salary-cap-pitch-to-union/",
+    "i18n": {
+      "en": {
+        "title": "MLB Labor Talks Escalate as Owners Push Salary Cap Plan",
+        "summary": "Contract talks between MLB owners and the players' union have intensified as the current collective bargaining agreement nears its December expiration. Owners have floated a $245.3 million salary cap paired with a $171.2 million payroll floor, the league's first such proposal since the mid-1990s strike era. The union has firmly rejected any cap, setting up a tense standoff over league economics."
+      },
+      "ja": {
+        "title": "MLB労使交渉が激化、オーナー側がサラリーキャップ導入案",
+        "summary": "現行の労使協定(CBA)が12月に期限を迎えるのを前に、MLB球団オーナー側と選手会の交渉が激化している。オーナー側は2億4530万ドルのサラリーキャップと1億7120万ドルの最低保証額を提示しており、1990年代半ばのストライキ以来初の同種提案となる。選手会はキャップ導入を断固拒否しており、リーグ経済を巡る緊張状態が続いている。"
+      },
+      "es": {
+        "title": "Se intensifican las negociaciones laborales de la MLB por el tope salarial",
+        "summary": "Las negociaciones entre los dueños de la MLB y el sindicato de jugadores se han intensificado mientras el convenio colectivo actual se acerca a su vencimiento en diciembre. Los propietarios han propuesto un tope salarial de 245.3 millones de dólares junto con un piso de 171.2 millones, su primera propuesta de este tipo desde la huelga de mediados de los años noventa. El sindicato ha rechazado rotundamente cualquier tope, lo que anticipa un tenso enfrentamiento sobre la economía de la liga."
+      },
+      "zh": {
+        "title": "MLB劳资谈判升级，老板方力推薪资帽方案",
+        "summary": "随着现行劳资协议将于12月到期，MLB球队老板与球员工会之间的谈判日趋激烈。老板方提出了2.453亿美元的薪资帽及1.712亿美元的最低薪资线，这是自上世纪90年代中期罢工以来首次提出此类方案。球员工会已明确拒绝任何形式的薪资帽，双方在联盟经济问题上的对峙日趋紧张。"
+      },
+      "fr": {
+        "title": "Les négociations sociales de la MLB s'intensifient autour d'un plafond salarial",
+        "summary": "Les négociations entre les propriétaires de la MLB et le syndicat des joueurs se sont intensifiées à l'approche de l'expiration, en décembre, de la convention collective actuelle. Les propriétaires ont proposé un plafond salarial de 245,3 millions de dollars assorti d'un plancher de 171,2 millions, une première proposition de ce type depuis la grève du milieu des années 1990. Le syndicat a fermement rejeté tout plafond, ouvrant la voie à une confrontation tendue sur l'économie de la ligue."
       }
     }
   },
@@ -6087,1323 +6422,6 @@
       "fr": {
         "title": "Muthoot Fincorp devient sponsor titre des matchs à domicile de l'Inde",
         "summary": "Le Board of Control for Cricket in India a désigné la société financière Muthoot Fincorp, basée à Kochi, comme sponsor titre des matchs à domicile de l'équipe nationale jusqu'en mars 2028, succédant à IDFC First Bank. L'accord, estimé entre 150 et 171 crores de roupies, couvre environ 35 rencontres à domicile sous la marque 'Blue Muthoot', à commencer par une série d'ODI face aux Antilles."
-      }
-    }
-  },
-  {
-    "id": "cerezo-osaka-yanmar-hanasaka-stadium-naming-2026",
-    "sport": "soccer",
-    "region": "japan",
-    "topics": [
-      "stadium",
-      "sponsor"
-    ],
-    "published_at": "2026-04-01T00:00:00Z",
-    "source_name": "J.League",
-    "source_url": "https://www.jleague.jp/news/article/33480/",
-    "i18n": {
-      "en": {
-        "title": "Cerezo Osaka's Home Ground Renamed YANMAR HANASAKA STADIUM",
-        "summary": "Cerezo Osaka's home venue, formerly Yodoko Sakura Stadium, has a new name after Yanmar Holdings acquired the naming rights. The YANMAR HANASAKA STADIUM name took effect on April 1, 2026 and runs through June 2031, following the previous sponsor's decision not to renew amid rising fees."
-      },
-      "ja": {
-        "title": "セレッソ大阪の本拠地が「ヤンマー ハナサカ スタジアム」に改称",
-        "summary": "セレッソ大阪のホームスタジアム、旧ヨドコウ桜スタジアムがヤンマーホールディングスの命名権取得により改称された。新名称「YANMAR HANASAKA STADIUM」は2026年4月1日から2031年6月まで使用される。前スポンサーは契約金の上昇により継続を見送った。"
-      },
-      "es": {
-        "title": "El estadio del Cerezo Osaka pasa a llamarse YANMAR HANASAKA STADIUM",
-        "summary": "El estadio del Cerezo Osaka, antes Yodoko Sakura Stadium, cambió de nombre tras la adquisición de los derechos de denominación por parte de Yanmar Holdings. El nuevo nombre entró en vigor el 1 de abril de 2026 y se mantendrá hasta junio de 2031, después de que el patrocinador anterior optara por no renovar ante el aumento de las tarifas."
-      },
-      "zh": {
-        "title": "大阪樱花主场更名为YANMAR HANASAKA STADIUM",
-        "summary": "大阪樱花队主场原名Yodoko樱花球场，在洋马控股获得冠名权后正式更名。新名称YANMAR HANASAKA STADIUM自2026年4月1日启用，合同持续至2031年6月，此前的冠名赞助商因费用上涨而选择不再续约。"
-      },
-      "fr": {
-        "title": "Le stade du Cerezo Osaka rebaptisé YANMAR HANASAKA STADIUM",
-        "summary": "Le stade du Cerezo Osaka, anciennement Yodoko Sakura Stadium, a changé de nom après l'acquisition des droits de dénomination par Yanmar Holdings. Le nouveau nom, YANMAR HANASAKA STADIUM, est entré en vigueur le 1er avril 2026 pour une durée allant jusqu'en juin 2031, l'ancien sponsor ayant renoncé au renouvellement face à la hausse des tarifs."
-      }
-    }
-  },
-  {
-    "id": "fc-gifu-himalaya-stadium-naming-rights-2026",
-    "sport": "soccer",
-    "region": "japan",
-    "topics": [
-      "stadium",
-      "sponsor"
-    ],
-    "published_at": "2026-04-01T00:00:00Z",
-    "source_name": "J.League",
-    "source_url": "https://www.jleague.jp/news/article/33529/",
-    "i18n": {
-      "en": {
-        "title": "FC Gifu's Home Stadium Gets New Name Under Himalaya Naming Rights Deal",
-        "summary": "Retailer Himalaya has acquired the naming rights to FC Gifu's home ground, the Gifu Memorial Center Nagaragawa Stadium, under a five-year agreement. The renamed venue will carry the Himalaya branding from April 2026 through March 2031."
-      },
-      "ja": {
-        "title": "FC岐阜の本拠地、ヒマラヤの命名権契約で新名称に",
-        "summary": "小売業のヒマラヤがFC岐阜の本拠地、岐阜メモリアルセンター長良川競技場の命名権を取得し、5年間の契約を締結した。新しい名称は2026年4月から2031年3月まで使用される。"
-      },
-      "es": {
-        "title": "El estadio del FC Gifu cambia de nombre tras un acuerdo con Himalaya",
-        "summary": "La cadena minorista Himalaya obtuvo los derechos de denominación del estadio del FC Gifu, el Gifu Memorial Center Nagaragawa Stadium, mediante un acuerdo de cinco años. El nuevo nombre se usará desde abril de 2026 hasta marzo de 2031."
-      },
-      "zh": {
-        "title": "岐阜FC主场因喜马拉雅冠名协议更名",
-        "summary": "零售商喜马拉雅通过一份为期五年的协议获得了岐阜FC主场——岐阜纪念中心长良川竞技场的冠名权。更名后的场馆将从2026年4月使用至2031年3月。"
-      },
-      "fr": {
-        "title": "Le stade du FC Gifu rebaptisé grâce à un accord de naming avec Himalaya",
-        "summary": "L'enseigne de distribution Himalaya a acquis les droits de dénomination du stade du FC Gifu, le Gifu Memorial Center Nagaragawa Stadium, dans le cadre d'un accord de cinq ans. Le nouveau nom sera utilisé d'avril 2026 à mars 2031."
-      }
-    }
-  },
-  {
-    "id": "kochi-united-sc-giken-stadium-naming-rights-2026",
-    "sport": "soccer",
-    "region": "japan",
-    "topics": [
-      "stadium",
-      "sponsor"
-    ],
-    "published_at": "2026-01-01T00:00:00Z",
-    "source_name": "J.League",
-    "source_url": "https://www.jleague.jp/news/article/32830/",
-    "i18n": {
-      "en": {
-        "title": "Kochi United SC's Home Stadium Renamed Under Giken Naming Rights Pact",
-        "summary": "Construction-equipment maker Giken has taken over the naming rights for Kochi United SC's home venue, the Kochi Prefectural Haruno Sports Park Athletics Stadium. The deal runs for roughly three years and three months, from January 2026 through March 2029."
-      },
-      "ja": {
-        "title": "高知ユナイテッドSCの本拠地、技研製作所の命名権契約で改称",
-        "summary": "建設機械メーカーの技研製作所が、高知ユナイテッドSCの本拠地である高知県立春野総合運動公園陸上競技場の命名権を取得した。契約期間は2026年1月から2029年3月までの約3年3か月間となる。"
-      },
-      "es": {
-        "title": "El estadio del Kochi United SC cambia de nombre tras un acuerdo con Giken",
-        "summary": "El fabricante de maquinaria de construcción Giken adquirió los derechos de denominación del estadio del Kochi United SC, el Kochi Prefectural Haruno Sports Park Athletics Stadium. El acuerdo tiene una duración aproximada de tres años y tres meses, de enero de 2026 a marzo de 2029."
-      },
-      "zh": {
-        "title": "高知联队主场因技研制作所冠名协议更名",
-        "summary": "建筑机械制造商技研制作所获得了高知联队主场——高知县立春野综合运动公园田径场的冠名权。该协议为期约三年三个月，自2026年1月起至2029年3月止。"
-      },
-      "fr": {
-        "title": "Le stade du Kochi United SC rebaptisé via un accord de naming avec Giken",
-        "summary": "Le fabricant d'équipements de construction Giken a acquis les droits de dénomination du stade du Kochi United SC, le Kochi Prefectural Haruno Sports Park Athletics Stadium. L'accord court sur environ trois ans et trois mois, de janvier 2026 à mars 2029."
-      }
-    }
-  },
-  {
-    "id": "chiba-lotte-marines-zozo-marine-stadium-renewal-2026",
-    "sport": "baseball",
-    "region": "japan",
-    "topics": [
-      "stadium",
-      "sponsor"
-    ],
-    "published_at": "2026-06-30T00:00:00Z",
-    "source_name": "nippon.com",
-    "source_url": "https://www.nippon.com/ja/news/kd1444620859682111767/",
-    "i18n": {
-      "en": {
-        "title": "Chiba City Keeps ZOZO Marine Stadium Name for Lotte Marines' Ballpark",
-        "summary": "Chiba city agreed on June 30, 2026 to continue naming the Chiba Lotte Marines' home ballpark ZOZO Marine Stadium under a renewed naming-rights contract. The annual fee for the rights was raised to roughly 400 million yen as part of the new agreement."
-      },
-      "ja": {
-        "title": "千葉市、ロッテ本拠地の「ZOZOマリンスタジアム」継続に合意",
-        "summary": "千葉市は2026年6月30日、千葉ロッテマリーンズの本拠地球場の名称を引き続き「ZOZOマリンスタジアム」とする命名権契約の更新に合意した。新契約では命名権料が年間約4億円に引き上げられた。"
-      },
-      "es": {
-        "title": "La ciudad de Chiba mantiene el nombre ZOZO Marine Stadium para el estadio de los Marines",
-        "summary": "La ciudad de Chiba acordó el 30 de junio de 2026 seguir llamando ZOZO Marine Stadium al estadio de los Chiba Lotte Marines, tras renovar el contrato de derechos de denominación. La tarifa anual por esos derechos subió a unos 400 millones de yenes con el nuevo acuerdo."
-      },
-      "zh": {
-        "title": "千叶市同意继续沿用“ZOZO海洋球场”名称冠名罗德主场",
-        "summary": "千叶市于2026年6月30日同意续签冠名协议，继续将千叶罗德海洋队主场命名为“ZOZO海洋球场”。根据新协议，年冠名费上调至约4亿日元。"
-      },
-      "fr": {
-        "title": "La ville de Chiba conserve le nom ZOZO Marine Stadium pour le stade des Marines",
-        "summary": "La ville de Chiba a accepté, le 30 juin 2026, de continuer à nommer ZOZO Marine Stadium le stade des Chiba Lotte Marines, dans le cadre du renouvellement du contrat de naming. La redevance annuelle liée à ces droits a été portée à environ 400 millions de yens dans le nouvel accord."
-      }
-    }
-  },
-  {
-    "id": "hiroshima-carp-mazda-stadium-naming-rights-renewal-2026",
-    "sport": "baseball",
-    "region": "japan",
-    "topics": [
-      "stadium",
-      "sponsor"
-    ],
-    "published_at": "2026-04-01T00:00:00Z",
-    "source_name": "City of Hiroshima",
-    "source_url": "https://www.city.hiroshima.lg.jp/shisei/kouhou/1004010/1027481/1005638/1005671.html",
-    "i18n": {
-      "en": {
-        "title": "Mazda Renews Naming Rights for Hiroshima Carp's Home Ballpark",
-        "summary": "Automaker Mazda has renewed its naming-rights contract for the Hiroshima Carp's home ballpark, Mazda Zoom-Zoom Stadium, after the previous five-year deal expired in March 2026. The new agreement sets the annual naming fee at about 220 million yen."
-      },
-      "ja": {
-        "title": "マツダ、広島カープ本拠地の命名権契約を更新",
-        "summary": "自動車メーカーのマツダは、5年間の契約期間が2026年3月に満了した広島東洋カープの本拠地「マツダスタジアム」の命名権契約を更新した。新契約の年間命名権料は約2億2000万円となる。"
-      },
-      "es": {
-        "title": "Mazda renueva los derechos de denominación del estadio de los Carp de Hiroshima",
-        "summary": "El fabricante de automóviles Mazda renovó el contrato de derechos de denominación del estadio de los Hiroshima Carp, Mazda Zoom-Zoom Stadium, tras la expiración del acuerdo anterior de cinco años en marzo de 2026. El nuevo contrato fija la tarifa anual en unos 220 millones de yenes."
-      },
-      "zh": {
-        "title": "马自达续签广岛鲤鱼队主场冠名权协议",
-        "summary": "汽车制造商马自达此前为期五年的广岛鲤鱼队主场“马自达Zoom-Zoom球场”冠名权合同已于2026年3月到期，现已完成续约。新协议将年冠名费定为约2.2亿日元。"
-      },
-      "fr": {
-        "title": "Mazda renouvelle les droits de dénomination du stade des Carp d'Hiroshima",
-        "summary": "Le constructeur automobile Mazda a renouvelé son contrat de naming pour le stade des Hiroshima Carp, le Mazda Zoom-Zoom Stadium, après l'expiration en mars 2026 du précédent accord de cinq ans. Le nouveau contrat fixe la redevance annuelle à environ 220 millions de yens."
-      }
-    }
-  },
-  {
-    "id": "dodgers-uniqlo-field-dodger-stadium-naming-2026",
-    "sport": "baseball",
-    "region": "global",
-    "topics": [
-      "stadium",
-      "sponsor"
-    ],
-    "published_at": "2026-03-25T00:00:00Z",
-    "source_name": "The Stadium Business",
-    "source_url": "https://www.thestadiumbusiness.com/2026/03/26/uniqlo-takes-field-naming-rights-to-dodger-stadium/",
-    "i18n": {
-      "en": {
-        "title": "Dodgers Unveil 'UNIQLO Field at Dodger Stadium' in First Naming Deal for the Ballpark",
-        "summary": "The Los Angeles Dodgers and retailer Uniqlo have introduced UNIQLO Field at Dodger Stadium, the first naming-rights partnership in the ballpark's more than 60-year history. Uniqlo branding will appear on the batter's-eye backdrop, the press-box facade and the baseline grass, marking the company's first major U.S. sports sponsorship."
-      },
-      "ja": {
-        "title": "ドジャース、球場史上初の命名権パートナーシップ「UNIQLOフィールド・アット・ドジャースタジアム」を発表",
-        "summary": "ロサンゼルス・ドジャースとユニクロは、60年以上の歴史を持つドジャースタジアムで初となる命名権パートナーシップ「UNIQLO Field at Dodger Stadium」を発表した。ユニクロのロゴはバックスクリーンやプレスボックス外壁、ベースライン沿いの芝生に掲出される。同社にとって米国スポーツ界で初の大型スポンサー契約となる。"
-      },
-      "es": {
-        "title": "Los Dodgers presentan 'UNIQLO Field at Dodger Stadium', su primer acuerdo de naming",
-        "summary": "Los Angeles Dodgers y la cadena minorista Uniqlo presentaron UNIQLO Field at Dodger Stadium, el primer acuerdo de derechos de denominación en los más de 60 años de historia del estadio. El logotipo de Uniqlo aparecerá en el fondo detrás del bateador, la fachada de la cabina de prensa y el césped junto a las líneas de base, en el primer gran patrocinio deportivo de la marca en Estados Unidos."
-      },
-      "zh": {
-        "title": "道奇队推出“优衣库道奇球场场地”，创球场60余年历史首个冠名协议",
-        "summary": "洛杉矶道奇队与零售商优衣库联合推出“UNIQLO Field at Dodger Stadium”，这是道奇球场60多年历史上首个冠名合作。优衣库标识将出现在打者背景板、记者席外墙及边线草坪区域，这也是该品牌在美国体育领域的首个重要赞助项目。"
-      },
-      "fr": {
-        "title": "Les Dodgers dévoilent « UNIQLO Field at Dodger Stadium », premier accord de naming du stade",
-        "summary": "Les Dodgers de Los Angeles et l'enseigne Uniqlo ont dévoilé UNIQLO Field at Dodger Stadium, le tout premier accord de naming dans les plus de 60 ans d'histoire du stade. La marque Uniqlo apparaîtra sur le fond de l'œil du batteur, la façade de la tribune de presse et la pelouse le long des lignes de but, un premier grand partenariat sportif américain pour l'enseigne."
-      }
-    }
-  },
-  {
-    "id": "portland-fire-chime-banking-partner-2026",
-    "sport": "basketball",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "team"
-    ],
-    "published_at": "2026-01-27T00:00:00Z",
-    "source_name": "WNBA",
-    "source_url": "https://fire.wnba.com/news/portland-fire-names-chime-as-official-banking-and-credit-partner",
-    "i18n": {
-      "en": {
-        "title": "WNBA Expansion Team Portland Fire Names Chime as Official Banking Partner",
-        "summary": "WNBA expansion franchise Portland Fire named fintech company Chime as its official banking and credit partner ahead of the team's inaugural 2026 season. Chime's logo will appear on all three jersey editions, and the deal includes a dedicated fan entrance and premium club space at Moda Center."
-      },
-      "ja": {
-        "title": "WNBA新規参入チーム、ポートランド・ファイアーがチャイムを公式バンキングパートナーに",
-        "summary": "WNBAの新規参入チーム、ポートランド・ファイアーは2026年の初シーズンを前に、フィンテック企業チャイムを公式バンキング・クレジットパートナーに指定した。チャイムのロゴは3種類全てのユニフォームに掲載され、モダセンターには専用の入場口とプレミアムクラブスペースが設けられる。"
-      },
-      "es": {
-        "title": "El equipo de expansión de la WNBA Portland Fire nombra a Chime su socio bancario oficial",
-        "summary": "La franquicia de expansión de la WNBA Portland Fire nombró a la empresa fintech Chime como su socio bancario y de crédito oficial antes de su temporada inaugural de 2026. El logotipo de Chime aparecerá en las tres versiones de la camiseta, y el acuerdo incluye una entrada exclusiva para aficionados y un espacio de club premium en el Moda Center."
-      },
-      "zh": {
-        "title": "WNBA扩军球队波特兰之火将Chime定为官方银行合作伙伴",
-        "summary": "WNBA扩军球队波特兰之火在2026年首个赛季开赛前，宣布金融科技公司Chime成为其官方银行及信贷合作伙伴。Chime标识将出现在三款球衣上，协议还包括在Moda中心设立专属球迷入口和高级俱乐部空间。"
-      },
-      "fr": {
-        "title": "L'équipe d'expansion WNBA Portland Fire nomme Chime partenaire bancaire officiel",
-        "summary": "La franchise d'expansion de la WNBA Portland Fire a nommé l'entreprise fintech Chime comme partenaire bancaire et de crédit officiel avant sa saison inaugurale 2026. Le logo de Chime figurera sur les trois versions du maillot, et l'accord inclut une entrée réservée aux fans et un espace club premium au Moda Center."
-      }
-    }
-  },
-  {
-    "id": "esports-foundation-club-partner-program-2026",
-    "sport": "esports",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-03-31T00:00:00Z",
-    "source_name": "Esports World Cup Foundation",
-    "source_url": "https://www.esportsworldcup.com/en/press-releases/40-elite-esports-clubs-selected-for-20m-foundation-program",
-    "i18n": {
-      "en": {
-        "title": "Esports Foundation Names 40 Clubs for $20 Million 2026 Partner Program",
-        "summary": "The Esports Foundation announced the 40 clubs selected for its 2026 Club Partner Program, a $20 million initiative offering up to $1 million in funding per club along with strategic guidance ahead of the Esports World Cup 2026. Selected organizations, including 100 Thieves, Cloud9, G2 Esports and Team Liquid, span North America, Europe, the Middle East, Asia and Latin America."
-      },
-      "ja": {
-        "title": "eスポーツ財団、2000万ドル規模の2026年クラブパートナープログラムに40クラブを選出",
-        "summary": "eスポーツ財団は、総額2000万ドル規模の「2026年クラブパートナープログラム」に選ばれた40クラブを発表した。各クラブには最大100万ドルの資金と、エスポーツワールドカップ2026に向けた戦略的支援が提供される。100 Thieves、Cloud9、G2 Esports、Team Liquidなど、北米・欧州・中東・アジア・中南米の各地域から選出された。"
-      },
-      "es": {
-        "title": "La Fundación de Esports selecciona 40 clubes para su programa de socios 2026 de 20 millones de dólares",
-        "summary": "La Esports Foundation anunció los 40 clubes seleccionados para su Programa de Socios de Clubes 2026, una iniciativa de 20 millones de dólares que ofrece hasta 1 millón de dólares en financiación por club, además de orientación estratégica de cara a la Esports World Cup 2026. Entre las organizaciones elegidas, de Norteamérica, Europa, Oriente Medio, Asia y América Latina, figuran 100 Thieves, Cloud9, G2 Esports y Team Liquid."
-      },
-      "zh": {
-        "title": "电竞基金会公布2026年2000万美元俱乐部合作计划的40家入选俱乐部",
-        "summary": "电竞基金会公布了入选其2026年俱乐部合作计划的40家俱乐部，该计划总规模达2000万美元，为每家俱乐部提供最高100万美元资金及备战2026电竞世界杯的战略指导。入选机构包括100 Thieves、Cloud9、G2 Esports和Team Liquid，覆盖北美、欧洲、中东、亚洲及拉丁美洲。"
-      },
-      "fr": {
-        "title": "La Fondation Esports sélectionne 40 clubs pour son programme de partenariat 2026 doté de 20 millions de dollars",
-        "summary": "L'Esports Foundation a annoncé les 40 clubs sélectionnés pour son programme de partenariat 2026, une initiative de 20 millions de dollars offrant jusqu'à 1 million de dollars de financement par club ainsi qu'un accompagnement stratégique avant l'Esports World Cup 2026. Les organisations retenues, dont 100 Thieves, Cloud9, G2 Esports et Team Liquid, viennent d'Amérique du Nord, d'Europe, du Moyen-Orient, d'Asie et d'Amérique latine."
-      }
-    }
-  },
-  {
-    "id": "rlcs-progressive-insurance-renewal-2026",
-    "sport": "esports",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-01-14T00:00:00Z",
-    "source_name": "Esports Insider",
-    "source_url": "https://esportsinsider.com/2026/01/rlcs-progressive-insurance-renews-partnership-2026-season",
-    "i18n": {
-      "en": {
-        "title": "Progressive Insurance Renews as RLCS Presenting Sponsor for 2026",
-        "summary": "Progressive Insurance has renewed its role as presenting sponsor of the Rocket League Championship Series for the full 2026 season. The extended partnership adds a commitment to more branded, personality-driven content and storytelling across Rocket League Esports broadcasts."
-      },
-      "ja": {
-        "title": "プログレッシブ保険、RLCSの2026年プレゼンティングスポンサーを更新",
-        "summary": "プログレッシブ保険は、ロケットリーグ・チャンピオンシップ・シリーズ（RLCS）の2026年シーズン全体のプレゼンティングスポンサーとしての契約を更新した。今回の延長では、ロケットリーグ・エスポーツの配信を通じて、より多くのブランデッドコンテンツや出演者を活かしたストーリーテリングを提供することも盛り込まれている。"
-      },
-      "es": {
-        "title": "Progressive Insurance renueva como patrocinador principal de la RLCS para 2026",
-        "summary": "Progressive Insurance renovó su papel como patrocinador principal de la Rocket League Championship Series para toda la temporada 2026. La ampliación del acuerdo incluye el compromiso de ofrecer más contenido de marca y narrativas centradas en la personalidad a lo largo de las transmisiones de Rocket League Esports."
-      },
-      "zh": {
-        "title": "Progressive保险公司续约成为2026赛季RLCS呈现赞助商",
-        "summary": "Progressive保险公司续签协议，继续担任2026整个赛季火箭联盟冠军系列赛（RLCS）的呈现赞助商。此次续约还包括在火箭联盟电竞转播中提供更多品牌定制内容及以人物为核心的叙事内容。"
-      },
-      "fr": {
-        "title": "Progressive Insurance renouvelle son statut de sponsor présentateur du RLCS pour 2026",
-        "summary": "Progressive Insurance a renouvelé son rôle de sponsor présentateur de la Rocket League Championship Series pour l'intégralité de la saison 2026. Ce partenariat prolongé prévoit davantage de contenus de marque et de récits centrés sur les personnalités diffusés sur les plateformes de Rocket League Esports."
-      }
-    }
-  },
-  {
-    "id": "buffalo-sabres-keybank-center-naming-extension-2026",
-    "sport": "general",
-    "region": "global",
-    "topics": [
-      "stadium",
-      "sponsor"
-    ],
-    "published_at": "2025-07-30T00:00:00Z",
-    "source_name": "NHL.com",
-    "source_url": "https://www.nhl.com/sabres/news/buffalo-sabres-keybank-extend-keybank-center-naming-rights-deal",
-    "i18n": {
-      "en": {
-        "title": "Sabres and KeyBank Sign 10-Year Extension to Keep KeyBank Center Name",
-        "summary": "The Buffalo Sabres and KeyBank agreed to a 10-year extension of their arena naming-rights deal, keeping the KeyBank Center name in place through the 2035-36 season. As part of the renewed partnership, KeyBank branding will also appear on the Sabres' away-game helmets starting in the 2026-27 season, alongside expanded benefits for the bank's customers attending games and events."
-      },
-      "ja": {
-        "title": "セイバーズとキーバンク、アリーナ命名権契約を10年延長",
-        "summary": "バッファロー・セイバーズとキーバンクは、アリーナの命名権契約を10年延長することで合意し、「キーバンク・センター」の名称は2035-36シーズンまで維持される。今回の契約更新に伴い、2026-27シーズンからはセイバーズのアウェイ用ヘルメットにもキーバンクのロゴが掲載されるほか、同行の顧客向けの特典も拡充される。"
-      },
-      "es": {
-        "title": "Los Sabres y KeyBank firman una extensión de 10 años para mantener el nombre KeyBank Center",
-        "summary": "Los Buffalo Sabres y KeyBank acordaron una extensión de 10 años de su acuerdo de naming del pabellón, manteniendo el nombre KeyBank Center hasta la temporada 2035-36. Como parte de la renovación, el logotipo de KeyBank también aparecerá en los cascos de visitante de los Sabres a partir de la temporada 2026-27, junto con beneficios ampliados para los clientes del banco que asistan a partidos y eventos."
-      },
-      "zh": {
-        "title": "水牛城军刀队与KeyBank签署10年冠名延长协议",
-        "summary": "布法罗军刀队与KeyBank达成协议，将球馆冠名权合同延长10年，“KeyBank中心”的名称将沿用至2035-36赛季。作为续约的一部分，从2026-27赛季起，KeyBank标识还将出现在军刀队客场头盔上，该行客户在观赛和参加活动时也将获得更多权益。"
-      },
-      "fr": {
-        "title": "Les Sabres et KeyBank signent une extension de 10 ans pour conserver le nom KeyBank Center",
-        "summary": "Les Sabres de Buffalo et KeyBank ont conclu une extension de 10 ans de leur accord de naming de l'aréna, conservant le nom KeyBank Center jusqu'à la saison 2035-36. Dans le cadre de ce renouvellement, le logo KeyBank apparaîtra aussi sur les casques extérieurs des Sabres dès la saison 2026-27, avec des avantages élargis pour les clients de la banque assistant aux matchs et événements."
-      }
-    }
-  },
-  {
-    "id": "visiolab-orlando-magic-self-checkout-kia-center",
-    "sport": "basketball",
-    "region": "global",
-    "topics": [
-      "tech",
-      "stadium",
-      "fan"
-    ],
-    "published_at": "2025-10-26T00:00:00Z",
-    "source_name": "Retail Technology Innovation Hub",
-    "source_url": "https://retailtechinnovationhub.com/home/2025/10/26/milestone-deployment-as-visiolab-frictionless-checkouts-go-live-for-orlando-magic-season-opener",
-    "i18n": {
-      "en": {
-        "title": "Orlando Magic Deploy 43 AI Self-Checkout Kiosks at Kia Center",
-        "summary": "The Orlando Magic and concessionaire Levy installed 43 VisioLab self-checkout kiosks across 12 food markets inside Kia Center, one of the largest rollouts of the AI-powered ordering platform in a North American arena. The edge-AI system recognizes food and drink items without barcode scanning, aiming to cut concession wait times for fans."
-      },
-      "ja": {
-        "title": "オーランド・マジック、キア・センターにAIセルフレジ43台を導入",
-        "summary": "オーランド・マジックと運営会社Levyは、キア・センター内の12の飲食エリアにVisioLabのAIセルフレジを43台設置した。北米アリーナでは最大規模の導入例の一つとなる。エッジAI技術によりバーコードを使わず商品を識別し、観客の待ち時間短縮を目指す。"
-      },
-      "es": {
-        "title": "Orlando Magic instala 43 quioscos de autopago con IA en el Kia Center",
-        "summary": "Los Orlando Magic y la concesionaria Levy instalaron 43 quioscos de autopago VisioLab en 12 puestos de comida del Kia Center, uno de los mayores despliegues de esta plataforma con IA en un recinto norteamericano. El sistema de IA en el borde reconoce productos sin necesidad de escanear códigos de barras, buscando reducir las esperas de los aficionados."
-      },
-      "zh": {
-        "title": "奥兰多魔术队在Kia中心部署43台AI自助结账设备",
-        "summary": "奥兰多魔术队与餐饮运营商Levy在Kia中心的12个餐饮点安装了43台VisioLab AI自助结账机，是北美体育馆中该平台规模最大的部署之一。该边缘AI系统无需扫描条形码即可识别商品，旨在缩短球迷排队等待时间。"
-      },
-      "fr": {
-        "title": "Les Magic d'Orlando déploient 43 bornes de paiement en libre-service par IA au Kia Center",
-        "summary": "Les Orlando Magic et le concessionnaire Levy ont installé 43 bornes de paiement en libre-service VisioLab dans 12 points de restauration du Kia Center, l'un des plus vastes déploiements de cette plateforme basée sur l'IA dans une salle nord-américaine. Le système d'IA en périphérie reconnaît les produits sans scanner de code-barres afin de réduire les files d'attente."
-      }
-    }
-  },
-  {
-    "id": "honda-la28-founding-partner-team-usa",
-    "sport": "olympics",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2025-06-02T00:00:00Z",
-    "source_name": "LA28",
-    "source_url": "https://la28.org/en/newsroom/honda-supporting-as-founding-partner-of-la28-games.html",
-    "i18n": {
-      "en": {
-        "title": "Honda Joins LA28 as Founding Partner and Team USA Automotive Partner",
-        "summary": "American Honda became a Founding Partner of the LA28 Olympic and Paralympic Games and the Official Automotive Partner of Team USA, its first top-tier Olympic sponsorship in four years. The deal adds to LA28's push toward a privately funded Games, which organizers say is tracking toward roughly $2.5 billion in sponsorship revenue."
-      },
-      "ja": {
-        "title": "ホンダ、LA28創立パートナー兼チームUSA自動車パートナーに",
-        "summary": "アメリカン・ホンダはLA28オリンピック・パラリンピックの創立パートナー（ファウンディングパートナー）およびチームUSAの公式自動車パートナーとなった。同社にとって4年ぶりのオリンピックトップスポンサー契約となる。LA28は民間資金によるオリンピック運営を目指し、スポンサー収入は約25億ドル規模を見込んでいるという。"
-      },
-      "es": {
-        "title": "Honda se une a LA28 como socio fundador y socio automotriz del Team USA",
-        "summary": "American Honda se convirtió en socio fundador de los Juegos Olímpicos y Paralímpicos de LA28 y en socio automotriz oficial del Team USA, su primer patrocinio olímpico de primer nivel en cuatro años. El acuerdo refuerza la apuesta de LA28 por unos Juegos financiados con fondos privados, con ingresos por patrocinio que se estiman en unos 2.500 millones de dólares."
-      },
-      "zh": {
-        "title": "本田成为LA28创始合作伙伴及美国代表团汽车合作伙伴",
-        "summary": "美国本田公司成为LA28奥运会及残奥会的创始合作伙伴，并成为美国代表团官方汽车合作伙伴，这是该公司四年来首次达成顶级奥运赞助协议。此举助力LA28迈向完全依靠私人资金运营的目标，据组织方称赞助收入预计约达25亿美元。"
-      },
-      "fr": {
-        "title": "Honda rejoint LA28 comme partenaire fondateur et partenaire automobile de Team USA",
-        "summary": "American Honda est devenu partenaire fondateur des Jeux olympiques et paralympiques de LA28 ainsi que partenaire automobile officiel de Team USA, son premier partenariat olympique de premier rang depuis quatre ans. Cet accord renforce la stratégie de LA28 visant des Jeux financés par le secteur privé, avec des revenus de sponsoring estimés à environ 2,5 milliards de dollars."
-      }
-    }
-  },
-  {
-    "id": "boldhaven-manchester-united-stake-disclosure",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "biz",
-      "team"
-    ],
-    "published_at": "2026-07-21T00:00:00Z",
-    "source_name": "Sportico",
-    "source_url": "https://www.sportico.com/leagues/soccer/2026/manchester-united-stake-boldhaven-1234939717/",
-    "i18n": {
-      "en": {
-        "title": "UK Investment Firm Boldhaven Discloses 5.6% Stake in Manchester United",
-        "summary": "London-based Boldhaven Management disclosed beneficial ownership of about 3.1 million Class A shares of Manchester United plc, equal to 5.6% of that share class, in a Schedule 13G filing with US regulators. The firm holds the shares on behalf of clients, with no single client owning more than 5% individually."
-      },
-      "ja": {
-        "title": "英投資会社ボールドヘイブンがマンチェスター・ユナイテッド株5.6%を保有と開示",
-        "summary": "ロンドンの投資会社ボールドヘイブン・マネジメントは、米当局へのスケジュール13G申請で、マンチェスター・ユナイテッドのクラスA株約310万株、同株式区分の5.6%相当を実質保有していると開示した。同社は複数の顧客の資産として株式を保有しており、単独で5%を超える顧客はいないとされる。"
-      },
-      "es": {
-        "title": "La firma británica Boldhaven revela una participación del 5,6% en el Manchester United",
-        "summary": "La gestora londinense Boldhaven Management reveló la titularidad efectiva de unas 3,1 millones de acciones Clase A del Manchester United plc, equivalentes al 5,6% de esa clase de acciones, en una presentación del Anexo 13G ante el regulador estadounidense. La firma mantiene las acciones en nombre de clientes, ninguno de los cuales posee individualmente más del 5%."
-      },
-      "zh": {
-        "title": "英国投资公司Boldhaven披露持有曼联5.6%股份",
-        "summary": "总部位于伦敦的Boldhaven Management公司在向美国监管机构提交的13G表格中披露，其实益持有曼联约310万股A类股票，占该类股份的5.6%。该公司代表多名客户持有这些股票，且没有单一客户持股比例超过5%。"
-      },
-      "fr": {
-        "title": "La société britannique Boldhaven révèle détenir 5,6 % du Manchester United",
-        "summary": "La société de gestion londonienne Boldhaven Management a déclaré détenir à titre bénéficiaire environ 3,1 millions d'actions de catégorie A de Manchester United plc, soit 5,6 % de cette catégorie d'actions, dans un dépôt Schedule 13G auprès du régulateur américain. La société détient ces actions pour le compte de clients, dont aucun ne possède individuellement plus de 5 %."
-      }
-    }
-  },
-  {
-    "id": "texas-tech-galaxy-stadium-naming-rights",
-    "sport": "football",
-    "region": "global",
-    "topics": [
-      "stadium",
-      "sponsor"
-    ],
-    "published_at": "2026-07-17T00:00:00Z",
-    "source_name": "NBC 5 Dallas-Fort Worth",
-    "source_url": "https://www.nbcdfw.com/news/sports/texas-tech-signs-naming-rights-deal-with-digital-assets-company-galaxy/4051708/",
-    "i18n": {
-      "en": {
-        "title": "Texas Tech Renames Football Stadium Galaxy Stadium in 15-Year Deal",
-        "summary": "Texas Tech Athletics signed a 15-year naming rights partnership with digital-assets firm Galaxy, renaming the school's football venue from Jones AT&T Stadium to Galaxy Stadium starting with the 2026 season. The agreement also includes provisions supporting Name, Image and Likeness opportunities for Red Raiders athletes; financial terms were not disclosed."
-      },
-      "ja": {
-        "title": "テキサス・テック、フットボール競技場を「ギャラクシー・スタジアム」に改称する15年契約",
-        "summary": "テキサス・テック大学は、デジタル資産企業ギャラクシーと15年間の命名権契約を締結し、フットボール競技場の名称を2026年シーズンから「ジョーンズAT&Tスタジアム」から「ギャラクシー・スタジアム」に変更した。契約には選手のNIL（氏名・画像・肖像権）機会を支援する条項も含まれるが、契約金額は非公表。"
-      },
-      "es": {
-        "title": "Texas Tech renombra su estadio de fútbol americano como Galaxy Stadium en un contrato de 15 años",
-        "summary": "El departamento deportivo de Texas Tech firmó una alianza de derechos de denominación por 15 años con la firma de activos digitales Galaxy, renombrando su estadio de fútbol americano de Jones AT&T Stadium a Galaxy Stadium a partir de la temporada 2026. El acuerdo también incluye disposiciones que respaldan oportunidades de nombre, imagen y semejanza para los deportistas de Red Raiders; no se revelaron los términos financieros."
-      },
-      "zh": {
-        "title": "德州理工大学与Galaxy签署15年冠名协议，橄榄球场更名为Galaxy Stadium",
-        "summary": "德州理工大学体育部与数字资产公司Galaxy签署了一份为期15年的冠名权合作协议，从2026赛季起将其橄榄球场从Jones AT&T Stadium更名为Galaxy Stadium。协议还包含支持Red Raiders运动员姓名、形象和肖像权（NIL）机会的条款，但财务条款未公开。"
-      },
-      "fr": {
-        "title": "Texas Tech renomme son stade de football américain Galaxy Stadium pour 15 ans",
-        "summary": "Le département sportif de Texas Tech a signé un partenariat de droits de dénomination de 15 ans avec la société d'actifs numériques Galaxy, rebaptisant son stade de football américain de Jones AT&T Stadium en Galaxy Stadium à partir de la saison 2026. L'accord comprend aussi des dispositions soutenant les opportunités de nom, image et ressemblance pour les athlètes des Red Raiders ; les conditions financières n'ont pas été divulguées."
-      }
-    }
-  },
-  {
-    "id": "orix-buffaloes-acn-uniform-sponsor",
-    "sport": "baseball",
-    "region": "japan",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2025-01-24T00:00:00Z",
-    "source_name": "Orix Buffaloes",
-    "source_url": "https://www.buffaloes.co.jp/news/detail/202500540815.html",
-    "i18n": {
-      "en": {
-        "title": "Orix Buffaloes Sign Uniform Sponsorship Deal with ACN Holdings",
-        "summary": "The Orix Buffaloes agreed to a uniform advertising sponsorship with ACN Holdings, a company that sells and services commercial air conditioners and security cameras. The ACN logo appears on the right sleeve of players', managers' and coaches' jerseys for both home and away games, starting from spring training in Miyazaki."
-      },
-      "ja": {
-        "title": "オリックス・バファローズ、ACNホールディングスとユニフォーム広告契約を締結",
-        "summary": "オリックス・バファローズは、業務用エアコンや防犯カメラの販売・保守を手がけるACNホールディングスとユニフォーム広告スポンサー契約を締結した。宮崎春季キャンプから、選手・監督・コーチが着用するユニフォーム上着の右袖にACNのロゴが表示され、ホーム・ビジター共通で使用される。"
-      },
-      "es": {
-        "title": "Los Orix Buffaloes firman un patrocinio de uniforme con ACN Holdings",
-        "summary": "Los Orix Buffaloes acordaron un patrocinio publicitario en el uniforme con ACN Holdings, una empresa que vende y da mantenimiento a aires acondicionados comerciales y cámaras de seguridad. El logotipo de ACN aparecerá en la manga derecha de las camisetas de jugadores, mánager y entrenadores tanto en casa como fuera, a partir de la pretemporada en Miyazaki."
-      },
-      "zh": {
-        "title": "欧力士猛牛队与ACN Holdings签署球衣广告赞助协议",
-        "summary": "欧力士猛牛队与从事商用空调及监控摄像头销售维护业务的ACN Holdings签署了球衣广告赞助协议。从宫崎春训开始，球员、总教练及教练员球衣右袖将统一印上ACN标志，主客场比赛均适用。"
-      },
-      "fr": {
-        "title": "Les Orix Buffaloes signent un partenariat publicitaire sur maillot avec ACN Holdings",
-        "summary": "Les Orix Buffaloes ont conclu un accord de sponsoring publicitaire sur maillot avec ACN Holdings, une entreprise spécialisée dans la vente et l'entretien de climatiseurs commerciaux et de caméras de sécurité. Le logo ACN figurera sur la manche droite des maillots des joueurs, du manager et des entraîneurs, à domicile comme à l'extérieur, dès le camp d'entraînement printanier de Miyazaki."
-      }
-    }
-  },
-  {
-    "id": "bucks-uline-jersey-patch-sponsor",
-    "sport": "basketball",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-09-05T00:00:00Z",
-    "source_name": "Hoodline",
-    "source_url": "https://hoodline.com/2026/09/uline-lands-on-bucks-jerseys-as-pleasant-prairie-firm-becomes-new-patch-sponsor/",
-    "i18n": {
-      "en": {
-        "title": "Milwaukee Bucks Name Uline as New Jersey Patch Sponsor",
-        "summary": "The Milwaukee Bucks announced a multiyear jersey patch partnership with Wisconsin-based shipping-supplies company Uline, replacing Motorola's logo on the front left shoulder of the team's jerseys starting with the 2026-27 season. The deal continues the NBA's trend of regionally headquartered companies buying into local team branding."
-      },
-      "ja": {
-        "title": "ミルウォーキー・バックス、新ジャージパッチスポンサーにユーラインを指名",
-        "summary": "ミルウォーキー・バックスは、ウィスコンシン州の物流用品企業ユーラインと複数年のジャージパッチ契約を発表した。2026-27シーズンから、ジャージ左肩前面のロゴがモトローラからユーラインに変更される。地元に本社を置く企業がチームブランディングに投資するNBAの傾向を反映した契約となる。"
-      },
-      "es": {
-        "title": "Los Milwaukee Bucks nombran a Uline nuevo patrocinador del parche de camiseta",
-        "summary": "Los Milwaukee Bucks anunciaron una asociación plurianual de parche de camiseta con la empresa de suministros de envío Uline, con sede en Wisconsin, que reemplaza el logotipo de Motorola en el hombro delantero izquierdo de las camisetas del equipo a partir de la temporada 2026-27. El acuerdo continúa la tendencia de la NBA de que empresas con sede regional inviertan en la marca de equipos locales."
-      },
-      "zh": {
-        "title": "密尔沃基雄鹿队宣布Uline为新球衣广告赞助商",
-        "summary": "密尔沃基雄鹿队宣布与总部位于威斯康星州的物流用品公司Uline达成多年球衣广告合作，从2026-27赛季起，球衣左前肩的摩托罗拉标志将由Uline取代。该协议延续了NBA中地区性企业投资本地球队品牌的趋势。"
-      },
-      "fr": {
-        "title": "Les Bucks de Milwaukee nomment Uline nouveau sponsor du patch de maillot",
-        "summary": "Les Bucks de Milwaukee ont annoncé un partenariat pluriannuel de patch de maillot avec l'entreprise de fournitures d'expédition Uline, basée dans le Wisconsin, remplaçant le logo Motorola sur l'épaule avant gauche des maillots de l'équipe dès la saison 2026-27. Cet accord confirme la tendance de la NBA à voir des entreprises régionales investir dans l'image des équipes locales."
-      }
-    }
-  },
-  {
-    "id": "lakers-albert-jersey-patch-sponsor",
-    "sport": "basketball",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-07-16T00:00:00Z",
-    "source_name": "ESPN",
-    "source_url": "https://bleacherreport.com/articles/25455750-lakers-announce-new-jersey-patch-sponsor-photo-latest-nba-rumors-contract-value",
-    "i18n": {
-      "en": {
-        "title": "Lakers Replace Bibigo With Fintech App Albert as Jersey Patch Sponsor",
-        "summary": "The Los Angeles Lakers announced that personal-finance app Albert will replace Bibigo as the team's jersey patch sponsor starting with the 2026-27 season, appearing on all four uniform designs. A league source told ESPN the agreement carries an annual value north of $30 million."
-      },
-      "ja": {
-        "title": "レイカーズ、ジャージパッチスポンサーをBibigoからフィンテックアプリAlbertに変更",
-        "summary": "ロサンゼルス・レイカーズは、2026-27シーズンからジャージパッチスポンサーをBibigoから個人向け資産管理アプリのAlbertに変更すると発表した。4種類全てのユニフォームデザインに表示される。ESPNによれば、リーグ関係者は契約額が年間3000万ドルを超えると明かしている。"
-      },
-      "es": {
-        "title": "Los Lakers sustituyen a Bibigo por la app fintech Albert como patrocinador del parche",
-        "summary": "Los Angeles Lakers anunciaron que la aplicación de finanzas personales Albert reemplazará a Bibigo como patrocinador del parche de camiseta del equipo a partir de la temporada 2026-27, apareciendo en los cuatro diseños de uniforme. Una fuente de la liga dijo a ESPN que el acuerdo tiene un valor anual superior a 30 millones de dólares."
-      },
-      "zh": {
-        "title": "湖人队球衣广告赞助商由Bibigo更换为金融科技应用Albert",
-        "summary": "洛杉矶湖人队宣布，从2026-27赛季起，个人理财应用Albert将取代Bibigo成为球队球衣广告赞助商，标志将出现在全部四款球衣设计上。据ESPN援引联盟人士消息，该协议年价值超过3000万美元。"
-      },
-      "fr": {
-        "title": "Les Lakers remplacent Bibigo par l'application fintech Albert comme sponsor de patch de maillot",
-        "summary": "Les Los Angeles Lakers ont annoncé que l'application de finances personnelles Albert remplacera Bibigo comme sponsor du patch de maillot de l'équipe à partir de la saison 2026-27, apparaissant sur les quatre modèles de maillot. Une source de la ligue a indiqué à ESPN que l'accord représente une valeur annuelle supérieure à 30 millions de dollars."
-      }
-    }
-  },
-  {
-    "id": "mufg-bank-jleague-top-partner",
-    "sport": "soccer",
-    "region": "japan",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-03-12T00:00:00Z",
-    "source_name": "J.League",
-    "source_url": "https://www.jleague.jp/news/article/33522/",
-    "i18n": {
-      "en": {
-        "title": "MUFG Bank Signs On as New J.League Top Partner",
-        "summary": "MUFG Bank concluded a Top Partner agreement with the J.League, with the deal's Top Partner component beginning in April 2026 and an All-Star platinum-partner component starting a month earlier. The partnership focuses on linking MUFG's regional branches with local J.League clubs, advancing financial-service DX, and building mechanisms to recirculate funds within local economies."
-      },
-      "ja": {
-        "title": "三菱UFJ銀行、Ｊリーグ新トップパートナーに就任",
-        "summary": "三菱UFJ銀行はＪリーグとトップパートナー契約を締結した。トップパートナー契約は2026年4月から、Ｊリーグオールスターのプラチナパートナー契約はその1カ月前から開始する。全国各地の三菱UFJ銀行拠点とＪクラブの連携、金融サービスを通じたDX推進、地域における資金循環の仕組みづくりなどに取り組む。"
-      },
-      "es": {
-        "title": "MUFG Bank se convierte en el nuevo socio principal (Top Partner) de la J.League",
-        "summary": "MUFG Bank firmó un acuerdo de Top Partner con la J.League, con la parte de Top Partner iniciando en abril de 2026 y un componente de socio platino del All-Star comenzando un mes antes. La alianza se centra en vincular las sucursales regionales de MUFG con los clubes locales de la J.League, impulsar la transformación digital de los servicios financieros y crear mecanismos para recircular fondos en las economías locales."
-      },
-      "zh": {
-        "title": "三菱UFJ银行成为J联赛新任顶级合作伙伴",
-        "summary": "三菱UFJ银行与J联赛签署顶级合作伙伴（Top Partner）协议，其中顶级合作伙伴部分自2026年4月生效，全明星白金合作伙伴部分则提前一个月开始。该合作重点在于连接三菱UFJ银行全国各地分行与当地J联赛俱乐部，推进金融服务数字化转型，并构建区域资金循环机制。"
-      },
-      "fr": {
-        "title": "MUFG Bank devient le nouveau partenaire principal (Top Partner) de la J.League",
-        "summary": "MUFG Bank a conclu un accord de Top Partner avec la J.League, la partie Top Partner débutant en avril 2026 et un volet partenaire platine pour le All-Star commençant un mois plus tôt. Le partenariat vise à relier les agences régionales de MUFG aux clubs locaux de la J.League, à faire progresser la transformation numérique des services financiers et à mettre en place des mécanismes de recirculation des fonds dans les économies locales."
-      }
-    }
-  },
-  {
-    "id": "kraken-fifa-world-cup-2026-crypto-sponsor",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-06-09T00:00:00Z",
-    "source_name": "Business Wire",
-    "source_url": "https://www.businesswire.com/news/home/20260609684502/en/Kraken-Named-Official-Crypto-Exchange-Supporter-of-the-FIFA-World-Cup-2026",
-    "i18n": {
-      "en": {
-        "title": "Kraken Named Official Crypto Exchange Supporter of FIFA World Cup 2026",
-        "summary": "FIFA named cryptocurrency exchange Kraken as the Official Crypto Exchange Supporter of the 2026 World Cup, the first time football's governing body has granted a crypto platform that sponsorship tier at the tournament. The deal, unveiled just before the 48-team, 104-match tournament kicked off across the United States, Canada and Mexico, covers activations and fan-facing product experiences focused on North America and Europe."
-      },
-      "ja": {
-        "title": "クラーケン、FIFAワールドカップ2026の公式暗号資産取引所サポーターに",
-        "summary": "FIFAは暗号資産取引所クラーケンを2026年ワールドカップの公式暗号資産取引所サポーターに指定した。サッカーの統括団体が暗号資産プラットフォームにこの水準のスポンサー契約を与えるのは初めてとなる。この契約は、米国・カナダ・メキシコで開催される48カ国104試合の大会開幕直前に発表され、北米と欧州のファン向け施策や製品体験に重点が置かれる。"
-      },
-      "es": {
-        "title": "Kraken, nombrado patrocinador oficial de intercambio de criptomonedas de la Copa Mundial de la FIFA 2026",
-        "summary": "La FIFA designó al exchange de criptomonedas Kraken como Patrocinador Oficial de Intercambio de Criptomonedas del Mundial 2026, la primera vez que el organismo rector del fútbol otorga ese nivel de patrocinio a una plataforma cripto. El acuerdo, anunciado justo antes del inicio del torneo de 48 selecciones y 104 partidos en Estados Unidos, Canadá y México, se centra en activaciones y experiencias para aficionados en Norteamérica y Europa."
-      },
-      "zh": {
-        "title": "Kraken被任命为2026年FIFA世界杯官方加密货币交易所赞助商",
-        "summary": "国际足联宣布加密货币交易所Kraken成为2026年世界杯官方加密货币交易所赞助商，这是足球管理机构首次将此级别的赞助权授予加密货币平台。该协议在美国、加拿大和墨西哥举办的48支球队、104场比赛的赛事开幕前公布，重点面向北美和欧洲球迷推出相关活动和产品体验。"
-      },
-      "fr": {
-        "title": "Kraken nommé sponsor officiel de la bourse de cryptomonnaies de la Coupe du Monde 2026 de la FIFA",
-        "summary": "La FIFA a désigné la plateforme d'échange de cryptomonnaies Kraken comme sponsor officiel de la bourse de cryptomonnaies de la Coupe du Monde 2026, une première pour l'instance dirigeante du football qui accorde ce niveau de partenariat à un acteur des cryptoactifs. L'accord, dévoilé juste avant le coup d'envoi du tournoi à 48 équipes et 104 matchs aux États-Unis, au Canada et au Mexique, porte sur des activations et expériences destinées aux supporters en Amérique du Nord et en Europe."
-      }
-    }
-  },
-  {
-    "id": "ont-field-naming-rights-ontario-tower-buzzers-2026",
-    "sport": "baseball",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "stadium"
-    ],
-    "published_at": "2026-07-07T00:00:00Z",
-    "source_name": "Ontario International Airport",
-    "source_url": "https://www.flyontario.com/press/oiaa-commissioners-approve-naming-rights-agreement-ont-field",
-    "i18n": {
-      "en": {
-        "title": "Ontario International Airport Secures Naming Rights to New Minor League Ballpark",
-        "summary": "The Ontario International Airport Authority's commissioners approved a naming rights agreement making the new Southern California stadium of the Ontario Tower Buzzers, the Los Angeles Dodgers' Single-A affiliate, officially known as ONT Field. It is believed to be the first professional baseball venue in North America named after an airport code, with the authority paying the club roughly $200,000 annually and the city receiving $1 million under the arrangement."
-      },
-      "ja": {
-        "title": "オンタリオ国際空港、新マイナーリーグ球場の命名権を取得",
-        "summary": "オンタリオ国際空港局の理事会は、ロサンゼルス・ドジャースのシングルA傘下球団オンタリオ・タワー・バザーズの新本拠地を「ONTフィールド」と命名する命名権契約を承認した。北米のプロ野球場が空港コードにちなんで名付けられるのは初めてとみられ、空港局は球団に年間約20万ドルを支払い、市には100万ドルが提供される仕組みとなっている。"
-      },
-      "es": {
-        "title": "El Aeropuerto Internacional de Ontario obtiene los derechos de nombre de un nuevo estadio de ligas menores",
-        "summary": "Los comisionados de la Autoridad del Aeropuerto Internacional de Ontario aprobaron un acuerdo de naming rights que bautiza el nuevo estadio de los Ontario Tower Buzzers, filial Single-A de los Dodgers de Los Ángeles, como ONT Field. Se cree que es el primer estadio de béisbol profesional de Norteamérica nombrado con el código de un aeropuerto, con pagos anuales de unos 200.000 dólares al club y 1 millón de dólares para la ciudad."
-      },
-      "zh": {
-        "title": "安大略国际机场获新迷你联盟球场命名权",
-        "summary": "安大略国际机场管理局董事会批准了一项冠名协议，将洛杉矶道奇队1A级附属球队安大略塔蜂队的新主场正式命名为“ONT球场”。这被认为是北美首座以机场代码命名的职业棒球场，机场管理局每年向球队支付约20万美元，市政府则获得100万美元。"
-      },
-      "fr": {
-        "title": "L'aéroport international d'Ontario obtient les droits de dénomination d'un nouveau stade de ligue mineure",
-        "summary": "Les commissaires de l'Ontario International Airport Authority ont approuvé un accord de naming donnant au nouveau stade des Ontario Tower Buzzers, club affilié Single-A des Dodgers de Los Angeles, le nom officiel d'ONT Field. Il s'agirait du premier stade de baseball professionnel d'Amérique du Nord nommé d'après un code aéroportuaire, l'aéroport versant environ 200 000 dollars par an au club et 1 million de dollars à la ville."
-      }
-    }
-  },
-  {
-    "id": "freeway-insurance-nascar-official-partner-2026",
-    "sport": "motorsports",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2025-10-31T00:00:00Z",
-    "source_name": "NASCAR.com",
-    "source_url": "https://www.nascar.com/news-media/2025/10/31/freeway-insurance-joins-nascar-as-premier-partner-in-cup-series/",
-    "i18n": {
-      "en": {
-        "title": "Freeway Insurance Becomes NASCAR's Official Insurance Partner",
-        "summary": "Freeway Insurance signed a multi-year deal to become NASCAR's fourth Premier Partner and the series' official insurance provider, joining Coca-Cola, Busch Light and Xfinity in that top sponsorship tier. The agreement, which takes effect in 2026, also makes Freeway Insurance the entitlement sponsor of the fall Cup Series race at Phoenix Raceway, to be run as the Freeway Insurance 500."
-      },
-      "ja": {
-        "title": "フリーウェイ・インシュランス、NASCARの公式保険パートナーに",
-        "summary": "フリーウェイ・インシュランスはNASCARと複数年契約を結び、コカ・コーラ、ブッシュ・ライト、エクスフィニティに続く4社目のプレミアパートナーおよびシリーズ公式保険会社となった。2026年に発効するこの契約により、同社はフェニックス・レースウェイで開催されるカップ・シリーズ秋季レースの冠スポンサーにもなり、レース名は「フリーウェイ・インシュランス500」となる。"
-      },
-      "es": {
-        "title": "Freeway Insurance se convierte en socio oficial de seguros de NASCAR",
-        "summary": "Freeway Insurance firmó un acuerdo plurianual para convertirse en el cuarto Socio Premier de NASCAR y proveedor oficial de seguros de la serie, uniéndose a Coca-Cola, Busch Light y Xfinity en ese nivel superior de patrocinio. El acuerdo, vigente a partir de 2026, también convierte a Freeway Insurance en patrocinador titular de la carrera de otoño de la Cup Series en Phoenix Raceway, que se disputará como la Freeway Insurance 500."
-      },
-      "zh": {
-        "title": "Freeway Insurance成为NASCAR官方保险合作伙伴",
-        "summary": "Freeway Insurance与NASCAR签署多年协议，成为继可口可乐、Busch Light和Xfinity之后第四家顶级合作伙伴，并担任该系列赛的官方保险供应商。该协议自2026年生效，还使Freeway Insurance成为凤凰城赛道秋季杯赛的冠名赞助商，比赛将被命名为“Freeway Insurance 500”。"
-      },
-      "fr": {
-        "title": "Freeway Insurance devient le partenaire officiel d'assurance de NASCAR",
-        "summary": "Freeway Insurance a signé un accord pluriannuel pour devenir le quatrième Partenaire Premier de NASCAR et l'assureur officiel de la série, rejoignant Coca-Cola, Busch Light et Xfinity à ce niveau de sponsoring. L'accord, effectif à partir de 2026, fait également de Freeway Insurance le sponsor titre de la course d'automne de la Cup Series à Phoenix Raceway, qui sera disputée sous le nom de Freeway Insurance 500."
-      }
-    }
-  },
-  {
-    "id": "oreilly-auto-parts-nascar-xfinity-series-title-sponsor-2026",
-    "sport": "motorsports",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2025-08-18T00:00:00Z",
-    "source_name": "NASCAR.com",
-    "source_url": "https://www.nascar.com/news-media/2025/08/18/oreilly-auto-parts-to-assume-title-sponsorship-of-nascars-secondary-series/",
-    "i18n": {
-      "en": {
-        "title": "O'Reilly Auto Parts to Rename NASCAR's Xfinity Series in 2026",
-        "summary": "NASCAR announced that O'Reilly Auto Parts will replace Xfinity as title sponsor of the sport's second-tier series starting with the 2026 season, rebranding it the NASCAR O'Reilly Auto Parts Series. The multi-year agreement includes broadcast integrations with The CW Network, the series' exclusive TV partner, and marks the fourth primary sponsor in the division's history."
-      },
-      "ja": {
-        "title": "オライリー・オートパーツ、2026年からNASCARエクスフィニティ・シリーズの名称スポンサーに",
-        "summary": "NASCARは、2026年シーズンからセカンドティア・シリーズの名称スポンサーがエクスフィニティからオライリー・オートパーツに交代し、「NASCARオライリー・オートパーツ・シリーズ」に改称すると発表した。複数年契約には同シリーズの独占放映パートナーであるCWネットワークとの連携も含まれ、同部門の歴史上4社目のプライマリースポンサーとなる。"
-      },
-      "es": {
-        "title": "O'Reilly Auto Parts pasará a dar nombre a la Xfinity Series de NASCAR en 2026",
-        "summary": "NASCAR anunció que O'Reilly Auto Parts sustituirá a Xfinity como patrocinador titular de la categoría de segundo nivel a partir de la temporada 2026, que pasará a llamarse NASCAR O'Reilly Auto Parts Series. El acuerdo plurianual incluye integraciones de transmisión con The CW Network, socio televisivo exclusivo de la serie, y convierte a la marca en el cuarto patrocinador principal en la historia de la categoría."
-      },
-      "zh": {
-        "title": "欧莱利汽车配件将从2026年起冠名NASCAR Xfinity系列赛",
-        "summary": "NASCAR宣布，从2026赛季起，欧莱利汽车配件将取代Xfinity成为其第二级别系列赛的冠名赞助商，该系列赛更名为“NASCAR欧莱利汽车配件系列赛”。这项多年协议还包括与该系列赛独家转播伙伴CW电视网的联动，欧莱利也成为该级别历史上第四家主要赞助商。"
-      },
-      "fr": {
-        "title": "O'Reilly Auto Parts va donner son nom à la Xfinity Series de NASCAR dès 2026",
-        "summary": "NASCAR a annoncé qu'O'Reilly Auto Parts remplacera Xfinity comme sponsor-titre de sa série de deuxième niveau à partir de la saison 2026, rebaptisée NASCAR O'Reilly Auto Parts Series. Cet accord pluriannuel inclut des intégrations diffusées avec The CW Network, partenaire télé exclusif de la série, et fait de la marque le quatrième sponsor principal de l'histoire de cette division."
-      }
-    }
-  },
-  {
-    "id": "ln-federal-credit-union-louisville-jersey-patch-2026",
-    "sport": "football",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "team"
-    ],
-    "published_at": "2026-08-27T00:00:00Z",
-    "source_name": "Sports Illustrated",
-    "source_url": "https://www.si.com/college/louisville/l-n-inks-jersey-patch-sponsor-deal-with-louisville-football-volleyball-01m12hgx51j5",
-    "i18n": {
-      "en": {
-        "title": "Louisville Adds L&N Federal Credit Union Jersey Patch for Football and Volleyball",
-        "summary": "The University of Louisville athletic department expanded its long-running relationship with L&N Federal Credit Union, which already holds football stadium naming rights, into a jersey-patch sponsorship covering the football and volleyball programs. The Cardinals will begin wearing the L&N patch on uniforms starting with the 2026-27 season, though the school did not disclose the value of the new deal."
-      },
-      "ja": {
-        "title": "ルイビル大、L&Nフェデラル信用組合とフットボール・バレーボールのジャージーパッチ契約",
-        "summary": "ルイビル大学のathletic部門は、すでにフットボールスタジアムの命名権を持つL&Nフェデラル信用組合との関係を拡大し、フットボールとバレーボールのユニフォームに企業ロゴを掲出するジャージーパッチ契約を締結した。カージナルスは2026-27シーズンからパッチの着用を開始する予定だが、大学側は契約金額を公表していない。"
-      },
-      "es": {
-        "title": "Louisville añade un parche de camiseta de L&N Federal Credit Union para fútbol americano y vóleibol",
-        "summary": "El departamento de atletismo de la Universidad de Louisville amplió su relación de larga data con L&N Federal Credit Union, que ya posee los derechos de nombre del estadio de fútbol americano, mediante un patrocinio de parche en camiseta para los programas de fútbol americano y vóleibol. Los Cardinals comenzarán a lucir el parche de L&N en sus uniformes a partir de la temporada 2026-27, aunque la universidad no reveló el valor del nuevo acuerdo."
-      },
-      "zh": {
-        "title": "路易斯维尔大学与L&N联邦信用社达成橄榄球和排球队服广告贴标协议",
-        "summary": "路易斯维尔大学体育部扩大了与已持有其橄榄球场冠名权的L&N联邦信用社的合作关系，新增了覆盖橄榄球和排球项目的球衣广告贴标赞助。红雀队将从2026-27赛季开始在球衣上佩戴L&N标志，但校方未透露新协议的具体金额。"
-      },
-      "fr": {
-        "title": "Louisville ajoute un patch L&N Federal Credit Union sur les maillots de football américain et de volley",
-        "summary": "Le département sportif de l'université de Louisville a élargi sa relation de longue date avec L&N Federal Credit Union, qui détient déjà les droits de dénomination du stade de football américain, via un partenariat de patch sur maillot pour les programmes de football américain et de volley. Les Cardinals porteront le patch L&N sur leurs maillots à partir de la saison 2026-27, l'université n'ayant toutefois pas dévoilé le montant du nouvel accord."
-      }
-    }
-  },
-  {
-    "id": "rakuten-mobile-saikyo-park-miyagi-naming-2026",
-    "sport": "baseball",
-    "region": "japan",
-    "topics": [
-      "sponsor",
-      "stadium"
-    ],
-    "published_at": "2025-12-01T00:00:00Z",
-    "source_name": "Rakuten Group",
-    "source_url": "https://corp.rakuten.co.jp/news/press/2025/1201_01.html",
-    "i18n": {
-      "en": {
-        "title": "Rakuten Renames Eagles' Home Stadium 'Rakuten Mobile Saikyo Park Miyagi'",
-        "summary": "Rakuten Group renewed its naming-rights agreement for the Tohoku Rakuten Golden Eagles' home stadium in Miyagi Prefecture, updating the nickname from Rakuten Mobile Park Miyagi to Rakuten Mobile Saikyo Park Miyagi for a three-year term beginning January 2026. The company said the added word 'saikyo' (meaning 'strongest') ties the venue to its Rakuten Saikyo mobile and streaming plans while reinforcing its regional partnership with the Eagles."
-      },
-      "ja": {
-        "title": "楽天、イーグルス本拠地の愛称を「楽天モバイル 最強パーク宮城」に変更",
-        "summary": "楽天グループは、東北楽天ゴールデンイーグルスの本拠地である宮城球場の命名権契約を更新し、愛称を「楽天モバイルパーク宮城」から「楽天モバイル 最強パーク宮城」へと変更した。契約期間は2026年1月から3年間で、同社は「最強」という言葉を加えることで、自社の「Rakuten最強プラン」などのブランド認知向上とイーグルスとの地域連携強化を狙うとしている。"
-      },
-      "es": {
-        "title": "Rakuten renombra el estadio de los Eagles como 'Rakuten Mobile Saikyo Park Miyagi'",
-        "summary": "Rakuten Group renovó su acuerdo de naming rights para el estadio de los Tohoku Rakuten Golden Eagles en la prefectura de Miyagi, actualizando el apodo de Rakuten Mobile Park Miyagi a Rakuten Mobile Saikyo Park Miyagi por un período de tres años a partir de enero de 2026. La compañía dijo que la palabra añadida, 'saikyo' ('el más fuerte'), vincula el estadio con sus planes móviles y de streaming Rakuten Saikyo, reforzando además su asociación regional con el club."
-      },
-      "zh": {
-        "title": "乐天将老鹰队主场更名为“乐天移动最强公园宫城”",
-        "summary": "乐天集团更新了其东北乐天金鹰队宫城主场球场的冠名权协议，将昵称从“乐天移动公园宫城”改为“乐天移动最强公园宫城”，新合同自2026年1月起为期三年。该公司表示，新增的“最强”一词旨在将球场与其“Rakuten最强”系列移动及流媒体套餐挂钩，同时强化与金鹰队的地区合作关系。"
-      },
-      "fr": {
-        "title": "Rakuten rebaptise le stade des Eagles « Rakuten Mobile Saikyo Park Miyagi »",
-        "summary": "Rakuten Group a renouvelé son contrat de naming pour le stade des Tohoku Rakuten Golden Eagles dans la préfecture de Miyagi, faisant passer le nom de Rakuten Mobile Park Miyagi à Rakuten Mobile Saikyo Park Miyagi pour une durée de trois ans à compter de janvier 2026. L'entreprise indique que le mot ajouté, « saikyo » (« le plus fort »), relie le stade à ses forfaits mobiles et de streaming Rakuten Saikyo tout en renforçant son partenariat régional avec le club."
-      }
-    }
-  },
-  {
-    "id": "nack5-stadium-omiya-naming-rights-renewal-2026",
-    "sport": "soccer",
-    "region": "japan",
-    "topics": [
-      "sponsor",
-      "stadium"
-    ],
-    "published_at": "2026-02-27T00:00:00Z",
-    "source_name": "Saitama Shimbun",
-    "source_url": "https://www.saitama-np.co.jp/articles/183952/postDetail",
-    "i18n": {
-      "en": {
-        "title": "Saitama City Renews NACK5 Naming Rights for Omiya Ardija's Stadium",
-        "summary": "Saitama City renewed its naming-rights contract with radio station FM NACK5 for the Omiya Park Soccer Stadium, home of J.League club Omiya Ardija, keeping the venue's name as NACK5 Stadium Omiya through June 2027. The renewed one-year-and-four-month deal is valued at roughly 18.66 million yen, according to the city's announcement."
-      },
-      "ja": {
-        "title": "さいたま市、大宮アルディージャ本拠地「NACK5スタジアム大宮」の命名権契約を更新",
-        "summary": "さいたま市は、Jリーグクラブ・大宮アルディージャの本拠地である大宮公園サッカー場について、ラジオ局FM NACK5との命名権契約を更新し、名称を2027年6月末まで「NACK5スタジアム大宮」のまま維持すると発表した。市の発表によると、契約期間1年4カ月の更新契約の金額は約1866万円となっている。"
-      },
-      "es": {
-        "title": "La ciudad de Saitama renueva los derechos de nombre del NACK5 Stadium Omiya, sede del Omiya Ardija",
-        "summary": "La ciudad de Saitama renovó su contrato de naming rights con la emisora de radio FM NACK5 para el estadio de fútbol del parque de Omiya, sede del club de la J.League Omiya Ardija, manteniendo el nombre de NACK5 Stadium Omiya hasta junio de 2027. Según el anuncio municipal, el acuerdo renovado, de un año y cuatro meses de duración, tiene un valor aproximado de 18,66 millones de yenes."
-      },
-      "zh": {
-        "title": "埼玉市续签大宫阿迪加主场“NACK5大宫球场”冠名权",
-        "summary": "埼玉市宣布与广播电台FM NACK5续签大宫公园足球场的冠名权协议，该球场是J联赛球队大宫阿迪加的主场，名称将维持“NACK5大宫球场”至2027年6月底。据市政府公告，这份为期一年零四个月的续约合同金额约为1866万日元。"
-      },
-      "fr": {
-        "title": "La ville de Saitama renouvelle les droits de dénomination du NACK5 Stadium Omiya, domicile de l'Omiya Ardija",
-        "summary": "La ville de Saitama a renouvelé son contrat de naming avec la station de radio FM NACK5 pour le stade de football du parc d'Omiya, domicile du club de J.League Omiya Ardija, conservant le nom de NACK5 Stadium Omiya jusqu'à fin juin 2027. Selon l'annonce municipale, cet accord renouvelé d'un an et quatre mois est évalué à environ 18,66 millions de yens."
-      }
-    }
-  },
-  {
-    "id": "state-street-wnba-etf-partnership-2025",
-    "sport": "basketball",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2025-09-16T00:00:00Z",
-    "source_name": "NBA Communications",
-    "source_url": "https://pr.nba.com/state-street-investment-management-wnba-partnership/",
-    "i18n": {
-      "en": {
-        "title": "State Street Investment Management Becomes Official ETF Partner of the WNBA",
-        "summary": "State Street Investment Management struck a multi-year partnership with the WNBA naming its SPY exchange-traded fund the league's official ETF, extending the asset manager's sports-marketing push into women's basketball. Individual WNBA teams, including the Los Angeles Sparks, followed with their own local activations tied to the league-wide deal."
-      },
-      "ja": {
-        "title": "ステート・ストリート・インベストメント・マネジメント、WNBA公式ETFパートナーに",
-        "summary": "ステート・ストリート・インベストメント・マネジメントは、自社のETF「SPY」をリーグ公式ETFとするWNBAとの複数年パートナーシップを締結し、女性バスケットボールへのスポーツマーケティング展開を拡大した。ロサンゼルス・スパークスなど各WNBA球団も、このリーグ全体の契約に連動した独自の連携施策を発表している。"
-      },
-      "es": {
-        "title": "State Street Investment Management se convierte en socio oficial de ETF de la WNBA",
-        "summary": "State Street Investment Management firmó una asociación plurianual con la WNBA que designa a su fondo cotizado SPY como el ETF oficial de la liga, ampliando la estrategia de marketing deportivo de la gestora hacia el baloncesto femenino. Equipos individuales de la WNBA, incluidos los Sparks de Los Ángeles, anunciaron a continuación sus propias activaciones locales vinculadas al acuerdo a nivel de liga."
-      },
-      "zh": {
-        "title": "道富投资管理成为WNBA官方ETF合作伙伴",
-        "summary": "道富投资管理与WNBA达成多年合作协议，将其SPY交易所交易基金指定为联盟官方ETF，把这家资产管理公司的体育营销布局拓展到女子篮球领域。包括洛杉矶火花队在内的多支WNBA球队随后也宣布了与这一联盟级协议相关的本地推广活动。"
-      },
-      "fr": {
-        "title": "State Street Investment Management devient le partenaire officiel ETF de la WNBA",
-        "summary": "State Street Investment Management a conclu un partenariat pluriannuel avec la WNBA désignant son fonds coté SPY comme l'ETF officiel de la ligue, élargissant la stratégie de marketing sportif du gestionnaire d'actifs au basket féminin. Plusieurs franchises WNBA, dont les Sparks de Los Angeles, ont ensuite annoncé leurs propres activations locales liées à cet accord à l'échelle de la ligue."
-      }
-    }
-  },
-  {
-    "id": "burnley-vertu-shirt-sponsor-2026",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-08-18T00:00:00Z",
-    "source_name": "City A.M.",
-    "source_url": "https://www.cityam.com/burnley-axe-main-sponsor-finotive-after-just-six-weeks-and-promote-vertu-to-shirt/",
-    "i18n": {
-      "en": {
-        "title": "Burnley Scraps Finotive Shirt Deal After 42 Days, Promotes Vertu to Front Sponsor",
-        "summary": "Burnley terminated its front-of-shirt agreement with trading platform Finotive Funding just six weeks after it began, citing the need to protect the club's interests. Car retailer Vertu, a existing club partner, was elevated to the main sponsorship spot, and fans who bought the short-lived kit were offered refunds or a swap."
-      },
-      "ja": {
-        "title": "バーンリー、42日で契約終了のFinotiveに代えVertuをメインスポンサーへ昇格",
-        "summary": "バーンリーは取引プラットフォームFinotive Fundingとの胸スポンサー契約を開始からわずか6週間で解消し、クラブの利益を守るための決断と説明した。既存パートナーだった自動車販売のVertuがメインスポンサーの座に昇格し、短命に終わったユニフォームを購入したファンには返金や交換が提供された。"
-      },
-      "es": {
-        "title": "Burnley cancela el acuerdo con Finotive tras 42 días y asciende a Vertu como patrocinador principal",
-        "summary": "Burnley rescindió su acuerdo de patrocinio frontal con la plataforma de trading Finotive Funding apenas seis semanas después de firmarlo, alegando la necesidad de proteger los intereses del club. El concesionario de coches Vertu, ya socio del club, pasó a ocupar el puesto principal, y a los aficionados que compraron la camiseta se les ofreció reembolso o canje."
-      },
-      "zh": {
-        "title": "伯恩利终止Finotive胸前广告合约仅42天，Vertu升级为主赞助商",
-        "summary": "伯恩利在与交易平台Finotive Funding签约仅六周后就终止了胸前广告协议，称此举是为了保护俱乐部的利益。原本已是俱乐部合作伙伴的汽车经销商Vertu升级为主赞助商，购买了短命球衣的球迷获得退款或更换服务。"
-      },
-      "fr": {
-        "title": "Burnley résilie l'accord avec Finotive après 42 jours et promeut Vertu comme sponsor principal",
-        "summary": "Burnley a mis fin à son contrat de sponsoring maillot avec la plateforme de trading Finotive Funding à peine six semaines après sa signature, invoquant la nécessité de protéger les intérêts du club. Le concessionnaire automobile Vertu, déjà partenaire du club, a été promu au poste de sponsor principal, et les supporters ayant acheté le maillot éphémère se sont vu proposer un remboursement ou un échange."
-      }
-    }
-  },
-  {
-    "id": "london-city-lionesses-nike-shirt-sponsor-2026",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-09-04T00:00:00Z",
-    "source_name": "SportsPro",
-    "source_url": "https://www.sportspro.com/news/sponsorship-marketing/london-city-lionesses-nike-shirt-sponsorship-michele-kang-september-2026/",
-    "i18n": {
-      "en": {
-        "title": "Nike Becomes London City Lionesses' Front-of-Shirt Sponsor in Record Women's Football Deal",
-        "summary": "Nike extended its kit deal with Women's Super League side London City Lionesses to also become the club's front-of-shirt sponsor, in what owner Michele Kang called the biggest such agreement in women's football. The new shirt design replaces the Swoosh with an image of the Greek goddess Nike and debuted in a WSL match against Manchester United."
-      },
-      "ja": {
-        "title": "ナイキ、ロンドン・シティ・ライオネスと女子サッカー史上最大級の胸スポンサー契約",
-        "summary": "ナイキはウィメンズ・スーパーリーグに所属するロンドン・シティ・ライオネスとのキット契約を拡張し、胸スポンサーも兼ねることになった。オーナーのミシェル・カン氏は女子サッカー史上最大規模の契約だと述べた。新ユニフォームはスウッシュの代わりにギリシャ神話の女神ニケをあしらったデザインで、マンチェスター・ユナイテッド戦で披露された。"
-      },
-      "es": {
-        "title": "Nike se convierte en patrocinador principal de London City Lionesses en un acuerdo récord del fútbol femenino",
-        "summary": "Nike amplió su contrato de equipación con el club de la Women's Super League London City Lionesses para convertirse también en su patrocinador frontal, en lo que la propietaria Michele Kang calificó como el mayor acuerdo de este tipo en el fútbol femenino. La nueva camiseta sustituye el logo Swoosh por una imagen de la diosa griega Niké y debutó ante el Manchester United."
-      },
-      "zh": {
-        "title": "耐克成为伦敦城市女狮胸前赞助商，创女子足球纪录合约",
-        "summary": "耐克将与英格兰女超球队伦敦城市女狮的球衣合约扩展为胸前赞助，俱乐部老板米歇尔·康称这是女子足球历史上规模最大的此类协议。新球衣以希腊胜利女神奈基的形象取代了标志性的Swoosh标识，并在对阵曼联的比赛中首次亮相。"
-      },
-      "fr": {
-        "title": "Nike devient sponsor maillot du London City Lionesses dans un accord record pour le football féminin",
-        "summary": "Nike a étendu son contrat d'équipementier avec le club de Women's Super League London City Lionesses pour devenir également son sponsor maillot principal, un accord que la propriétaire Michele Kang a qualifié du plus important du genre dans le football féminin. Le nouveau maillot remplace le logo Swoosh par une image de la déesse grecque Niké et a été porté lors d'un match contre Manchester United."
-      }
-    }
-  },
-  {
-    "id": "crystal-palace-temporal-shirt-sponsor-2026",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "tech"
-    ],
-    "published_at": "2026-05-21T00:00:00Z",
-    "source_name": "SportsPro",
-    "source_url": "https://www.sportspro.com/news/sponsorship-marketing/crystal-palace-ai-sector-shirt-sponsor-betting-ban/",
-    "i18n": {
-      "en": {
-        "title": "Crystal Palace Names AI Infrastructure Firm Temporal as New Front-of-Shirt Sponsor",
-        "summary": "Crystal Palace signed a multi-year deal with US software infrastructure company Temporal to replace Net88 as its front-of-shirt sponsor starting in the 2026-27 season. The agreement, part of a wider shift away from betting sponsors across the Premier League, also includes Temporal-run computer science and AI workshops for young people in South London."
-      },
-      "ja": {
-        "title": "クリスタル・パレス、AIインフラ企業Temporalと新たな胸スポンサー契約",
-        "summary": "クリスタル・パレスは米ソフトウェアインフラ企業Temporalと複数年契約を結び、2026-27シーズンから胸スポンサーをNet88から交代させることになった。プレミアリーグ全体で進む賭博系スポンサーからの脱却の一環であり、Temporalは南ロンドンの若者向けにコンピューターサイエンスとAIのワークショップも提供する。"
-      },
-      "es": {
-        "title": "Crystal Palace ficha a la empresa de infraestructura de IA Temporal como nuevo patrocinador principal",
-        "summary": "Crystal Palace firmó un acuerdo plurianual con la empresa estadounidense de infraestructura de software Temporal para sustituir a Net88 como patrocinador frontal a partir de la temporada 2026-27. El acuerdo, parte de un cambio más amplio hacia patrocinadores no relacionados con apuestas en la Premier League, incluye también talleres de informática e inteligencia artificial para jóvenes del sur de Londres."
-      },
-      "zh": {
-        "title": "水晶宫签约AI基础设施公司Temporal担任新胸前赞助商",
-        "summary": "水晶宫与美国软件基础设施公司Temporal签署多年协议，从2026-27赛季起接替Net88成为胸前赞助商。此举是英超各队因博彩禁令而寻找新赞助商这一大趋势的一部分，Temporal还将为南伦敦青少年提供计算机科学和人工智能培训课程。"
-      },
-      "fr": {
-        "title": "Crystal Palace nomme l'entreprise d'infrastructure IA Temporal comme nouveau sponsor maillot",
-        "summary": "Crystal Palace a signé un accord pluriannuel avec l'entreprise américaine d'infrastructure logicielle Temporal pour remplacer Net88 comme sponsor maillot principal à partir de la saison 2026-27. Cet accord, qui s'inscrit dans un mouvement plus large d'éloignement des sponsors de paris dans toute la Premier League, prévoit aussi des ateliers d'informatique et d'IA pour les jeunes du sud de Londres animés par Temporal."
-      }
-    }
-  },
-  {
-    "id": "bleague-hisense-led-display-partner-2026",
-    "sport": "basketball",
-    "region": "japan",
-    "topics": [
-      "sponsor",
-      "tech",
-      "stadium"
-    ],
-    "published_at": "2026-07-31T00:00:00Z",
-    "source_name": "Kyodo News",
-    "source_url": "https://b.kyodo.co.jp/business/2026-07-31_8447927/",
-    "i18n": {
-      "en": {
-        "title": "B.League Signs Hisense as Partner to Install LED Video Panels in All B.Premier Arenas",
-        "summary": "Japan's B.League announced a partnership with Hisense Japan under which the electronics maker will supply large LED display panels to all 26 arenas hosting the new top-tier B.Premier division starting in the 2026-27 season. The deal is aimed at upgrading in-arena visuals and enhancing the fan experience league-wide."
-      },
-      "ja": {
-        "title": "Bリーグ、ハイセンスとパートナー契約締結 Bプレミア全26会場にLED映像パネル導入へ",
-        "summary": "日本のBリーグはハイセンスジャパンとのパートナー契約を発表し、2026-27シーズンから始まる新1部Bプレミアの全26会場に大型LED映像パネルを導入することになった。この契約は会場内の映像演出を刷新し、リーグ全体でファン体験を向上させることを目的としている。"
-      },
-      "es": {
-        "title": "La B.League ficha a Hisense como socio para instalar paneles LED en todos los pabellones de la B.Premier",
-        "summary": "La B.League de Japón anunció una alianza con Hisense Japón por la que el fabricante de electrónica suministrará grandes paneles de vídeo LED a los 26 pabellones que albergarán la nueva división de máximo nivel B.Premier a partir de la temporada 2026-27. El acuerdo busca modernizar la experiencia visual y mejorar la vivencia de los aficionados en toda la liga."
-      },
-      "zh": {
-        "title": "日本B联赛与海信达成合作，将为全部26座B超级联赛球馆安装LED显示屏",
-        "summary": "日本B联赛宣布与海信日本达成合作，这家电子制造商将为2026-27赛季启动的新顶级联赛B超级联赛的全部26座球馆提供大型LED显示屏。该协议旨在升级场馆内的视觉效果，并提升整个联赛的球迷观赛体验。"
-      },
-      "fr": {
-        "title": "La B.League s'associe à Hisense pour installer des panneaux LED dans toutes les arènes de la B.Premier",
-        "summary": "La B.League japonaise a annoncé un partenariat avec Hisense Japon, dans le cadre duquel le fabricant d'électronique fournira de grands panneaux vidéo LED aux 26 arènes accueillant la nouvelle division phare B.Premier à partir de la saison 2026-27. L'accord vise à moderniser l'expérience visuelle en salle et à améliorer l'expérience des supporters à l'échelle de la ligue."
-      }
-    }
-  },
-  {
-    "id": "seibu-lions-cybozu-kintone-sleeve-sponsor-2026",
-    "sport": "baseball",
-    "region": "japan",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-01-29T00:00:00Z",
-    "source_name": "Cybozu Corporation",
-    "source_url": "https://topics.cybozu.co.jp/news/2026/01/29-19305.html",
-    "i18n": {
-      "en": {
-        "title": "Cybozu Becomes Sleeve-Advertising Sponsor of Saitama Seibu Lions",
-        "summary": "Software maker Cybozu signed a sleeve-advertising sponsorship deal with NPB's Saitama Seibu Lions, with players wearing uniforms bearing the company's kintone logo from spring training starting February 1. Cybozu has used the Lions' team facilities as a kintone customer since 2013, and the deal extends that relationship into on-field branding."
-      },
-      "ja": {
-        "title": "サイボウズ、埼玉西武ライオンズの袖広告スポンサーに",
-        "summary": "ソフトウェア企業のサイボウズは、NPBの埼玉西武ライオンズと袖広告のスポンサー契約を締結し、2月1日から始まる春季キャンプより選手は「kintone」ロゴ入りユニフォームを着用する。サイボウズは2013年からkintoneユーザーとしてライオンズと関係を築いており、今回の契約でその関係がユニフォーム上のブランディングへと広がった。"
-      },
-      "es": {
-        "title": "Cybozu se convierte en patrocinador publicitario de la manga de los Saitama Seibu Lions",
-        "summary": "La empresa de software Cybozu firmó un acuerdo de patrocinio publicitario en la manga con los Saitama Seibu Lions de la NPB, y los jugadores lucirán uniformes con el logotipo de kintone de la compañía desde el entrenamiento de primavera que comienza el 1 de febrero. Cybozu ha sido cliente de kintone vinculado a las instalaciones del equipo desde 2013, y el acuerdo extiende esa relación a la marca en el terreno de juego."
-      },
-      "zh": {
-        "title": "Cybozu成为埼玉西武狮队袖标广告赞助商",
-        "summary": "软件公司Cybozu与NPB球队埼玉西武狮签署袖标广告赞助协议，从2月1日开始的春季训练营起，球员球衣上将印有该公司kintone的标志。Cybozu自2013年起便是使用狮队设施的kintone客户，此次协议将这一关系进一步延伸到了球场上的品牌展示。"
-      },
-      "fr": {
-        "title": "Cybozu devient sponsor publicitaire de manche des Saitama Seibu Lions",
-        "summary": "L'éditeur de logiciels Cybozu a signé un accord de sponsoring publicitaire sur la manche avec les Saitama Seibu Lions de la NPB ; les joueurs porteront des uniformes arborant le logo kintone de l'entreprise dès le camp d'entraînement de printemps débutant le 1er février. Cybozu est cliente de kintone liée aux installations des Lions depuis 2013, et cet accord étend cette relation à un affichage sur le terrain."
-      }
-    }
-  },
-  {
-    "id": "chunichi-dragons-jtb-nagoya-gold-sponsor-2026",
-    "sport": "baseball",
-    "region": "japan",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-03-24T00:00:00Z",
-    "source_name": "Chunichi Dragons",
-    "source_url": "https://dragons.jp/news/2026/sponsor-jtb.php",
-    "i18n": {
-      "en": {
-        "title": "Chunichi Dragons Sign JTB's Nagoya Division as Official Gold Sponsor",
-        "summary": "NPB's Chunichi Dragons announced a new official gold sponsorship agreement with the Nagoya division of travel agency JTB. The partnership adds JTB to the club's tiered roster of corporate sponsors supporting its 2026 season operations."
-      },
-      "ja": {
-        "title": "中日ドラゴンズ、JTB名古屋事業部とオフィシャル・ゴールドスポンサー契約を締結",
-        "summary": "NPBの中日ドラゴンズは、旅行会社JTB名古屋事業部との新たなオフィシャル・ゴールドスポンサー契約を発表した。この提携により、2026年シーズンの球団運営を支える企業スポンサーの階層にJTBが加わることになった。"
-      },
-      "es": {
-        "title": "Los Chunichi Dragons firman con la división de Nagoya de JTB como patrocinador oficial de nivel oro",
-        "summary": "Los Chunichi Dragons de la NPB anunciaron un nuevo acuerdo de patrocinio oficial de nivel oro con la división de Nagoya de la agencia de viajes JTB. La alianza incorpora a JTB a la lista escalonada de patrocinadores corporativos que respaldan las operaciones del club durante la temporada 2026."
-      },
-      "zh": {
-        "title": "中日龙队签约JTB名古屋事业部为官方金牌赞助商",
-        "summary": "NPB球队中日龙宣布与旅行社JTB名古屋事业部达成新的官方金牌赞助协议。此次合作使JTB加入了支持球队2026赛季运营的分级企业赞助商名单。"
-      },
-      "fr": {
-        "title": "Les Chunichi Dragons signent avec la division de Nagoya de JTB comme sponsor officiel de niveau or",
-        "summary": "Les Chunichi Dragons de la NPB ont annoncé un nouvel accord de sponsoring officiel de niveau or avec la division de Nagoya de l'agence de voyages JTB. Ce partenariat ajoute JTB à la liste hiérarchisée des sponsors institutionnels soutenant les opérations du club pour la saison 2026."
-      }
-    }
-  },
-  {
-    "id": "hcltech-metlife-stadium-ai-partner-2026",
-    "sport": "football",
-    "region": "global",
-    "topics": [
-      "tech",
-      "stadium",
-      "sponsor"
-    ],
-    "published_at": "2026-04-30T00:00:00Z",
-    "source_name": "HCLTech",
-    "source_url": "https://www.hcltech.com/press-releases/hcltech-expands-cornerstone-partnership-metlife-stadium-new-york-jets-and-new-york",
-    "i18n": {
-      "en": {
-        "title": "HCLTech Expands MetLife Stadium Deal, Adds Official AI Partner Role",
-        "summary": "HCLTech has broadened its long-running Cornerstone Partnership with MetLife Stadium, the New York Giants and the New York Jets, taking on a new designation as the venue's Official AI Partner. The expanded deal builds on HCLTech's prior digital-transformation role and will apply AI tools aimed at smoother, safer fan journeys at the 82,500-seat stadium."
-      },
-      "ja": {
-        "title": "HCLTech、メットライフ・スタジアムとの提携を拡大し公式AIパートナーに",
-        "summary": "HCLTechはメットライフ・スタジアム、NYジャイアンツ、NYジェッツとの既存のコーナーストーン・パートナーシップを拡大し、新たに同施設の公式AIパートナーに就任した。従来のデジタル変革支援の役割を土台に、AI技術を活用してファン体験の向上と安全性強化を図る。"
-      },
-      "es": {
-        "title": "HCLTech amplía su acuerdo con el MetLife Stadium como socio oficial de IA",
-        "summary": "HCLTech ha ampliado su alianza de larga data con el MetLife Stadium, los Giants y los Jets de Nueva York, asumiendo ahora el rol de socio oficial de inteligencia artificial del recinto. El acuerdo ampliado se apoya en su papel previo de transformación digital para ofrecer experiencias más seguras y fluidas a los aficionados en el estadio de 82.500 asientos."
-      },
-      "zh": {
-        "title": "HCLTech扩大与大都会人寿体育场的合作，新增官方AI合作伙伴身份",
-        "summary": "HCLTech扩大了与大都会人寿体育场、纽约巨人队和纽约喷气机队长期的基石合作伙伴关系，新增担任该场馆官方AI合作伙伴。此次扩展建立在此前数字化转型合作的基础上，将运用人工智能技术为这座可容纳8.25万人的球场提供更顺畅安全的观赛体验。"
-      },
-      "fr": {
-        "title": "HCLTech étend son partenariat avec le MetLife Stadium en tant que partenaire IA officiel",
-        "summary": "HCLTech a élargi son partenariat de longue date avec le MetLife Stadium, les Giants et les Jets de New York, endossant désormais le rôle de partenaire officiel en intelligence artificielle du site. Cet accord élargi s'appuie sur son précédent rôle de transformation numérique pour offrir une expérience plus fluide et plus sûre aux 82 500 spectateurs du stade."
-      }
-    }
-  },
-  {
-    "id": "evolv-shell-energy-stadium-screening-tech",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "tech",
-      "stadium"
-    ],
-    "published_at": "2026-02-19T00:00:00Z",
-    "source_name": "Evolv Technologies",
-    "source_url": "https://evolv.com/resources/press-releases/shell-energy-stadium-enhances-live-event-experience-with-evolvs-screening-technology/",
-    "i18n": {
-      "en": {
-        "title": "Shell Energy Stadium Deploys Evolv Weapons-Screening Systems",
-        "summary": "Shell Energy Stadium, home of MLS side Houston Dynamo FC and NWSL club Houston Dash, has signed a multi-year deal to install Evolv Express concealed-weapons detection systems across its entry points. The AI-assisted sensors let fans walk through security screening at a normal pace, part of the venue's push to speed up entry while maintaining safety."
-      },
-      "ja": {
-        "title": "シェル・エナジー・スタジアム、Evolv社の武器検知システムを導入",
-        "summary": "MLSヒューストン・ダイナモFCとNWSLヒューストン・ダッシュの本拠地シェル・エナジー・スタジアムは、複数年契約でEvolv Express武器検知システムを全入場ゲートに導入した。AIを活用したセンサーによりファンは通常の歩行速度のまま保安検査を通過でき、安全性を保ちながら入場をスムーズにする狙いがある。"
-      },
-      "es": {
-        "title": "El Shell Energy Stadium instala sistemas de detección de armas de Evolv",
-        "summary": "El Shell Energy Stadium, sede del Houston Dynamo FC de la MLS y del Houston Dash de la NWSL, firmó un acuerdo plurianual para instalar los sistemas de detección de armas ocultas Evolv Express en todos sus accesos. Los sensores asistidos por IA permiten a los aficionados pasar el control de seguridad caminando a ritmo normal, como parte del esfuerzo del recinto por agilizar el ingreso sin sacrificar la seguridad."
-      },
-      "zh": {
-        "title": "壳牌能源体育场部署Evolv武器筛查系统",
-        "summary": "MLS休斯顿迪纳摩队与NWSL休斯顿达什队的主场壳牌能源体育场签署多年协议，在所有入口处安装Evolv Express隐藏武器探测系统。这套AI辅助传感设备让球迷可以以正常步速通过安检，是该场馆在保障安全的同时加快入场速度举措的一部分。"
-      },
-      "fr": {
-        "title": "Le Shell Energy Stadium déploie les systèmes de détection d'armes d'Evolv",
-        "summary": "Le Shell Energy Stadium, domicile du Houston Dynamo FC (MLS) et du Houston Dash (NWSL), a signé un accord pluriannuel pour installer les systèmes de détection d'armes dissimulées Evolv Express à tous ses points d'accès. Ces capteurs assistés par IA permettent aux supporters de passer le contrôle de sécurité à vitesse de marche normale, dans le cadre des efforts du stade pour accélérer l'entrée tout en préservant la sûreté."
-      }
-    }
-  },
-  {
-    "id": "giants-airwallex-jersey-patch-2026",
-    "sport": "baseball",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "team"
-    ],
-    "published_at": "2026-02-18T00:00:00Z",
-    "source_name": "MLB.com",
-    "source_url": "https://www.mlb.com/press-release/press-release-airwallex-becomes-the-giants-official-jersey-patch-partner",
-    "i18n": {
-      "en": {
-        "title": "Giants Name Airwallex as New Jersey Patch Partner",
-        "summary": "The San Francisco Giants announced a multi-year jersey patch deal with global financial platform Airwallex, which will also serve as the club's official financial software partner. Airwallex becomes the third company on Giants jerseys since patches were introduced in 2023, replacing Chevrolet after an earlier partnership with Cruise fell through."
-      },
-      "ja": {
-        "title": "ジャイアンツ、新ユニフォームパッチパートナーにAirwallexを起用",
-        "summary": "サンフランシスコ・ジャイアンツは、グローバル金融プラットフォームのAirwallexと複数年のユニフォームパッチ契約を締結したと発表した。Airwallexは球団の公式財務ソフトウェアパートナーも兼ねる。2023年のパッチ導入以降、Cruiseとの提携解消を経て3社目のパッチスポンサーとなり、シボレーに代わって起用される。"
-      },
-      "es": {
-        "title": "Los Giants nombran a Airwallex nuevo socio del parche de uniforme",
-        "summary": "Los Gigantes de San Francisco anunciaron un acuerdo plurianual de parche de uniforme con la plataforma financiera global Airwallex, que también será el socio oficial de software financiero del club. Airwallex se convierte en la tercera empresa en los uniformes de los Giants desde que se introdujeron los parches en 2023, sustituyendo a Chevrolet tras una alianza fallida con Cruise."
-      },
-      "zh": {
-        "title": "旧金山巨人队签约Airwallex担任新球衣广告合作伙伴",
-        "summary": "旧金山巨人队宣布与全球金融平台Airwallex达成多年球衣广告合作协议，Airwallex同时也将成为球队官方财务软件合作伙伴。自2023年引入球衣广告以来，Airwallex是继此前与Cruise合作告吹后第三家登上巨人队球衣的企业，接替了雪佛兰的位置。"
-      },
-      "fr": {
-        "title": "Les Giants nomment Airwallex nouveau partenaire du patch de maillot",
-        "summary": "Les Giants de San Francisco ont annoncé un accord pluriannuel de patch de maillot avec la plateforme financière mondiale Airwallex, qui deviendra également le partenaire officiel de logiciels financiers du club. Airwallex est la troisième entreprise à figurer sur les maillots des Giants depuis l'introduction des patchs en 2023, remplaçant Chevrolet après un partenariat avorté avec Cruise."
-      }
-    }
-  },
-  {
-    "id": "23xi-racing-xfinity-majority-sponsor-2026",
-    "sport": "motorsports",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-01-20T00:00:00Z",
-    "source_name": "NASCAR.com",
-    "source_url": "https://www.nascar.com/news-media/2026/01/20/xfinity-23xi-racing-announce-partnership-expansion-bubba-wallace-majority-partner/",
-    "i18n": {
-      "en": {
-        "title": "Xfinity Expands 23XI Racing Deal, Becomes Bubba Wallace's Majority Sponsor",
-        "summary": "Xfinity and 23XI Racing announced an expanded partnership under which Xfinity becomes the majority primary sponsor of Bubba Wallace's No. 23 Cup Series car for the 2026 season, including its first-ever primary sponsorship in the Daytona 500. Xfinity will also continue backing Tyler Reddick's No. 45 car in select races."
-      },
-      "ja": {
-        "title": "Xfinity、23XIレーシングとの提携拡大 バブ・ウォレスの主要スポンサーに",
-        "summary": "XfinityはNASCARの23XIレーシングとの提携拡大を発表し、2026年シーズンはバブ・ウォレス選手のカップシリーズ第23号車の筆頭スポンサーとなる。デイトナ500での主要スポンサー就任は同社初となる。タイラー・レディック選手の第45号車についても一部レースで引き続き協賛する。"
-      },
-      "es": {
-        "title": "Xfinity amplía su acuerdo con 23XI Racing y se convierte en patrocinador mayoritario de Bubba Wallace",
-        "summary": "Xfinity y 23XI Racing anunciaron una ampliación de su alianza por la cual Xfinity pasa a ser el patrocinador principal mayoritario del auto No. 23 de la Cup Series de Bubba Wallace para la temporada 2026, incluyendo su primer patrocinio principal en las 500 Millas de Daytona. Xfinity también seguirá respaldando el auto No. 45 de Tyler Reddick en carreras selectas."
-      },
-      "zh": {
-        "title": "Xfinity扩大与23XI车队合作，成为巴巴·华莱士的主要赞助商",
-        "summary": "Xfinity与23XI车队宣布扩大合作关系，2026赛季Xfinity将成为巴巴·华莱士23号杯赛赛车的大股比主赞助商，并首次担任戴通纳500大赛的主赞助商。Xfinity还将继续在部分赛事中赞助泰勒·雷迪克的45号赛车。"
-      },
-      "fr": {
-        "title": "Xfinity étend son accord avec 23XI Racing et devient sponsor majoritaire de Bubba Wallace",
-        "summary": "Xfinity et 23XI Racing ont annoncé un partenariat élargi selon lequel Xfinity devient le sponsor principal majoritaire de la voiture n°23 de Bubba Wallace en Cup Series pour la saison 2026, incluant son tout premier sponsoring principal aux 500 miles de Daytona. Xfinity continuera aussi de soutenir la voiture n°45 de Tyler Reddick lors de courses sélectionnées."
-      }
-    }
-  },
-  {
-    "id": "playvs-series-aa-funding-2026",
-    "sport": "esports",
-    "region": "global",
-    "topics": [
-      "biz"
-    ],
-    "published_at": "2026-07-15T00:00:00Z",
-    "source_name": "dot.LA",
-    "source_url": "https://dot.la/playvs-raises-10-5m-making-esports-varsity-sports-2649035403.html",
-    "i18n": {
-      "en": {
-        "title": "Scholastic Esports Platform PlayVS Raises Over $10 Million",
-        "summary": "PlayVS, which runs competitive gaming leagues for middle schools, high schools and colleges across North America, closed a funding round of just over $10 million combining Series AA-1 and Series AA venture capital. The round adds to more than $100 million the company has raised since its founding to build out scholastic and collegiate esports infrastructure."
-      },
-      "ja": {
-        "title": "学生eスポーツ基盤のPlayVS、1000万ドル超を調達",
-        "summary": "北米の中学・高校・大学向けに競技eスポーツリーグを運営するPlayVSは、シリーズAA-1とシリーズAAを組み合わせた1000万ドル超の資金調達ラウンドを完了した。同社は創業以来累計1億ドルを超える資金を調達しており、学生・大学eスポーツ基盤の拡充を進めている。"
-      },
-      "es": {
-        "title": "PlayVS, plataforma de esports escolar, recauda más de 10 millones de dólares",
-        "summary": "PlayVS, que opera ligas de videojuegos competitivos para escuelas secundarias, preparatorias y universidades de Norteamérica, cerró una ronda de financiamiento de poco más de 10 millones de dólares combinando capital de riesgo de Series AA-1 y Series AA. La ronda se suma a los más de 100 millones de dólares que la empresa ha reunido desde su fundación para desarrollar infraestructura de esports escolar y universitario."
-      },
-      "zh": {
-        "title": "学生电竞平台PlayVS融资逾1000万美元",
-        "summary": "PlayVS为北美中学、高中及大学运营电竞联赛，近日完成一轮合计逾1000万美元的Series AA-1和Series AA风险融资。此轮融资使该公司自成立以来累计融资额超过1亿美元，用于扩建校园及大学电竞基础设施。"
-      },
-      "fr": {
-        "title": "La plateforme d'esport scolaire PlayVS lève plus de 10 millions de dollars",
-        "summary": "PlayVS, qui gère des ligues de jeu vidéo compétitif pour les collèges, lycées et universités d'Amérique du Nord, a bouclé un tour de financement de plus de 10 millions de dollars combinant capital-risque de série AA-1 et série AA. Ce tour porte à plus de 100 millions de dollars les fonds levés par l'entreprise depuis sa création pour développer les infrastructures d'esport scolaire et universitaire."
-      }
-    }
-  },
-  {
-    "id": "chicago-fire-boldyn-networks-mcdonalds-park",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "tech",
-      "stadium"
-    ],
-    "published_at": "2026-07-27T00:00:00Z",
-    "source_name": "PR Newswire",
-    "source_url": "https://www.prnewswire.com/news-releases/chicago-fire-fc-taps-mls-supplier-boldyn-networks-to-realize-its-vision-for-mcdonalds-park-302834418.html",
-    "i18n": {
-      "en": {
-        "title": "Chicago Fire FC Selects Boldyn Networks for McDonald's Park Connectivity",
-        "summary": "Chicago Fire FC has tapped Boldyn Networks, MLS's official connectivity supplier, to design and deploy a converged neutral-host 5G distributed antenna system and Wi-Fi network at its new home, McDonald's Park. The project extends Boldyn's league-wide role providing venue connectivity across MLS stadiums."
-      },
-      "ja": {
-        "title": "シカゴ・ファイアーFC、マクドナルズ・パークの通信網整備にBoldyn Networksを起用",
-        "summary": "シカゴ・ファイアーFCは、MLSの公式通信インフラ供給元であるBoldyn Networksを新本拠地マクドナルズ・パークの通信整備パートナーに起用した。中立ホスト型の5G分散アンテナシステムとWi-Fiネットワークを設計・導入する計画で、MLS全体で施設の通信環境を支えるBoldynの役割を拡大するものとなる。"
-      },
-      "es": {
-        "title": "Chicago Fire FC elige a Boldyn Networks para la conectividad de McDonald's Park",
-        "summary": "El Chicago Fire FC contrató a Boldyn Networks, el proveedor oficial de conectividad de la MLS, para diseñar e implementar un sistema de antenas distribuidas 5G de host neutral y una red Wi-Fi convergentes en su nuevo estadio, McDonald's Park. El proyecto amplía el papel de Boldyn como proveedor de conectividad en los estadios de toda la liga."
-      },
-      "zh": {
-        "title": "芝加哥火焰队选定Boldyn Networks负责麦当劳公园联网建设",
-        "summary": "芝加哥火焰队聘请MLS官方联网供应商Boldyn Networks，为其新主场麦当劳公园设计并部署中立主机型5G分布式天线系统及Wi-Fi网络。该项目进一步扩大了Boldyn在整个MLS联盟场馆联网服务中的角色。"
-      },
-      "fr": {
-        "title": "Le Chicago Fire FC choisit Boldyn Networks pour la connectivité du McDonald's Park",
-        "summary": "Le Chicago Fire FC a fait appel à Boldyn Networks, fournisseur officiel de connectivité de la MLS, pour concevoir et déployer un système d'antennes distribuées 5G neutre et un réseau Wi-Fi convergents dans son nouveau stade, le McDonald's Park. Ce projet élargit le rôle de Boldyn en tant que fournisseur de connectivité dans les stades de toute la ligue."
-      }
-    }
-  },
-  {
-    "id": "ibaraki-robots-suntory-bronze-sponsor",
-    "sport": "basketball",
-    "region": "japan",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2025-10-10T00:00:00Z",
-    "source_name": "Ibaraki Robots",
-    "source_url": "https://www.ibarakirobots.win/news/20251010_01_sponsors/",
-    "i18n": {
-      "en": {
-        "title": "B.League's Ibaraki Robots Sign Suntory as Bronze Sponsor",
-        "summary": "B.League club Ibaraki Robots announced a new bronze-tier sponsorship agreement with beverage maker Suntory. The deal adds Suntory to the club's roster of local and national corporate partners supporting the team's operations and regional community activities."
-      },
-      "ja": {
-        "title": "Bリーグ茨城ロボッツ、サントリーとブロンズスポンサー契約を締結",
-        "summary": "Bリーグの茨城ロボッツは、飲料メーカーのサントリーと新たにブロンズスポンサー契約を締結したと発表した。今回の契約により、チーム運営や地域貢献活動を支える地元・全国企業パートナーの一員にサントリーが加わる。"
-      },
-      "es": {
-        "title": "Ibaraki Robots de la B.League firma con Suntory como patrocinador de bronce",
-        "summary": "El club de la B.League Ibaraki Robots anunció un nuevo acuerdo de patrocinio de nivel bronce con la fabricante de bebidas Suntory. El acuerdo suma a Suntory a la lista de socios corporativos locales y nacionales que respaldan las operaciones del equipo y sus actividades comunitarias regionales."
-      },
-      "zh": {
-        "title": "B联赛茨城机器人队签约三得利担任铜牌赞助商",
-        "summary": "B联赛球队茨城机器人队宣布与饮料制造商三得利签署新的铜牌赞助协议。此次签约使三得利加入支持球队运营及地区社区活动的本地与全国企业合作伙伴阵容。"
-      },
-      "fr": {
-        "title": "Le club de B.League Ibaraki Robots signe avec Suntory comme sponsor bronze",
-        "summary": "Le club de B.League Ibaraki Robots a annoncé un nouvel accord de sponsoring de niveau bronze avec le fabricant de boissons Suntory. Cet accord ajoute Suntory à la liste des partenaires corporatifs locaux et nationaux qui soutiennent les activités du club et son engagement communautaire régional."
       }
     }
   }
