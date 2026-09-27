@@ -5313,5 +5313,245 @@
         "summary": "L'entreprise de paiement Paysafe a annoncé un partenariat-titre avec Envision Racing, l'écurie de Formule E concourant sous le nom de Paysafe Envision Racing dès la Saison 13. Les deux sociétés indiquent que cet accord vise à relier sport automobile, jeu vidéo et paiements dans de nouvelles activations destinées aux fans."
       }
     }
+  },
+  {
+    "id": "esports-foundation-club-partner-2026",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-09-20T00:00:00Z",
+    "source_name": "Esports World Cup Foundation",
+    "source_url": "https://esportsworldcup.com/en/news/the-esports-foundation-club-partner-program-2026-is-here",
+    "i18n": {
+      "en": {
+        "title": "Esports Foundation Names 40 Clubs for 2026 Club Partner Program",
+        "summary": "The Esports Foundation selected 40 organizations, including Cloud9, Fnatic, G2 Esports and T1, for its 2026 Club Partner Program. The $20 million initiative provides participating clubs with up to $1 million each in funding plus strategic support ahead of the Esports World Cup 2026 in Riyadh."
+      },
+      "ja": {
+        "title": "eスポーツ財団、2026年クラブパートナープログラムに40クラブを選出",
+        "summary": "eスポーツ財団は、クラウド9やフナティック、G2エスポーツ、T1など40の組織を2026年クラブパートナープログラムの対象に選んだ。総額2000万ドル規模のこの取り組みでは、参加クラブ各チームに最大100万ドルの資金提供と戦略支援が行われ、サウジアラビア・リヤドで開催されるeスポーツワールドカップ2026に向けた準備を後押しする。"
+      },
+      "es": {
+        "title": "La Fundación de Esports selecciona a 40 clubes para el Programa de Clubes Socios 2026",
+        "summary": "La Esports Foundation eligió a 40 organizaciones, entre ellas Cloud9, Fnatic, G2 Esports y T1, para su Programa de Clubes Socios 2026. La iniciativa, valorada en 20 millones de dólares, otorga a cada club participante hasta un millón de dólares en financiamiento y apoyo estratégico de cara a la Copa Mundial de Esports 2026 en Riad."
+      },
+      "zh": {
+        "title": "电竞基金会公布2026年俱乐部合作伙伴计划40家入选队伍",
+        "summary": "电竞基金会公布了包括Cloud9、Fnatic、G2 Esports和T1在内的40家机构入选其2026年俱乐部合作伙伴计划。这项总额2000万美元的计划将为每支参与俱乐部提供最高100万美元资金及战略支持，为在利雅得举行的2026电竞世界杯做准备。"
+      },
+      "fr": {
+        "title": "La Esports Foundation sélectionne 40 clubs pour son programme de clubs partenaires 2026",
+        "summary": "La Esports Foundation a choisi 40 organisations, dont Cloud9, Fnatic, G2 Esports et T1, pour son programme de clubs partenaires 2026. Cette initiative de 20 millions de dollars offre à chaque club participant jusqu'à un million de dollars de financement ainsi qu'un accompagnement stratégique avant la Coupe du monde d'esport 2026 à Riyad."
+      }
+    }
+  },
+  {
+    "id": "chiliz-scottish-fa-fan-token-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "tech",
+      "fan"
+    ],
+    "published_at": "2026-05-21T00:00:00Z",
+    "source_name": "Chiliz",
+    "source_url": "https://www.chiliz.com/chiliz-scottish-fa-partnership-sfa-fan-token/",
+    "i18n": {
+      "en": {
+        "title": "Chiliz and Scottish FA Launch Official Fan Token Ahead of World Cup",
+        "summary": "The Scottish Football Association partnered with blockchain firm Chiliz to launch an official Scotland Fan Token on the Socios.com platform. The deal, timed ahead of the 2026 World Cup, aims to give supporters new digital ways to engage with the national team."
+      },
+      "ja": {
+        "title": "チリーズとスコットランドサッカー協会、W杯前に公式ファントークンを開始",
+        "summary": "スコットランドサッカー協会は、ブロックチェーン企業チリーズと提携し、Socios.comプラットフォーム上で公式の「スコットランド・ファントークン」を開始した。この契約は2026年W杯を前に発表され、サポーターが代表チームとより新しいデジタルの形で関わる手段を提供することを目指している。"
+      },
+      "es": {
+        "title": "Chiliz y la Federación Escocesa lanzan un Fan Token oficial antes del Mundial",
+        "summary": "La Federación Escocesa de Fútbol se asoció con la empresa de blockchain Chiliz para lanzar un Fan Token oficial de Escocia en la plataforma Socios.com. El acuerdo, anunciado antes del Mundial 2026, busca ofrecer a los aficionados nuevas formas digitales de conectar con la selección nacional."
+      },
+      "zh": {
+        "title": "Chiliz与苏格兰足协在世界杯前推出官方粉丝代币",
+        "summary": "苏格兰足球协会与区块链公司Chiliz合作，在Socios.com平台推出官方“苏格兰粉丝代币”。该协议在2026年世界杯前公布，旨在为球迷提供与国家队互动的新数字方式。"
+      },
+      "fr": {
+        "title": "Chiliz et la Fédération écossaise lancent un jeton de supporter officiel avant la Coupe du monde",
+        "summary": "La Fédération écossaise de football s'est associée à l'entreprise blockchain Chiliz pour lancer un jeton de supporter officiel de l'Écosse sur la plateforme Socios.com. Cet accord, dévoilé avant la Coupe du monde 2026, vise à offrir aux supporters de nouvelles façons numériques de suivre l'équipe nationale."
+      }
+    }
+  },
+  {
+    "id": "adobe-mlb-partnership-expansion-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "tech",
+      "fan",
+      "sponsor"
+    ],
+    "published_at": "2026-03-09T00:00:00Z",
+    "source_name": "Adobe",
+    "source_url": "https://news.adobe.com/news/2026/03/adobe-major-league-baseball-expand-partnership",
+    "i18n": {
+      "en": {
+        "title": "Adobe and MLB Expand Partnership to Power Digital Fan Experiences",
+        "summary": "Adobe and Major League Baseball expanded their multi-year partnership, with Adobe becoming presenting sponsor of Opening Day through 2028. The deal will bring AI-powered creative tools to MLB's marketing and content teams and let fans engage with league channels using integrated Adobe Express features."
+      },
+      "ja": {
+        "title": "アドビとMLB、デジタルファン体験強化へパートナーシップを拡大",
+        "summary": "アドビと米大リーグ機構（MLB）は複数年にわたる提携を拡大し、アドビは2028年まで開幕戦の冠スポンサーを務めることになった。この提携により、MLBのマーケティング・コンテンツ部門にAI活用の制作ツールが導入され、ファンは統合されたAdobe Express機能を通じてリーグの各チャンネルに参加できるようになる。"
+      },
+      "es": {
+        "title": "Adobe y la MLB amplían su alianza para impulsar experiencias digitales para los fanáticos",
+        "summary": "Adobe y las Grandes Ligas de Béisbol ampliaron su alianza de varios años, y Adobe se convirtió en patrocinador principal del Día Inaugural hasta 2028. El acuerdo llevará herramientas creativas impulsadas por IA a los equipos de marketing y contenido de la MLB, y permitirá a los aficionados interactuar con los canales de la liga mediante funciones integradas de Adobe Express."
+      },
+      "zh": {
+        "title": "Adobe与MLB扩大合作，助力数字化球迷体验",
+        "summary": "Adobe与美国职业棒球大联盟（MLB）扩大了双方的多年合作关系，Adobe将担任开幕日冠名赞助商直至2028年。此次合作将为MLB的营销与内容团队引入AI驱动的创作工具，并让球迷通过集成的Adobe Express功能参与联盟各渠道互动。"
+      },
+      "fr": {
+        "title": "Adobe et la MLB élargissent leur partenariat pour dynamiser l'expérience numérique des supporters",
+        "summary": "Adobe et la Ligue majeure de baseball ont élargi leur partenariat pluriannuel, Adobe devenant le sponsor présentateur du Jour d'ouverture jusqu'en 2028. L'accord apportera des outils créatifs propulsés par l'IA aux équipes marketing et contenu de la MLB, et permettra aux supporters d'interagir avec les canaux de la ligue via des fonctionnalités Adobe Express intégrées."
+      }
+    }
+  },
+  {
+    "id": "nfl-tixr-ticket-hq-partner-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "tech",
+      "fan"
+    ],
+    "published_at": "2026-05-21T00:00:00Z",
+    "source_name": "TicketNews",
+    "source_url": "https://www.ticketnews.com/2026/05/nfl-expands-ticketing-lineup-tixr-partnership/",
+    "i18n": {
+      "en": {
+        "title": "NFL Adds Tixr as Newest Licensed Channel of Ticket HQ",
+        "summary": "The NFL added ticketing platform Tixr as a new licensed sales channel within NFL Ticket HQ, joining Ticketmaster, SeatGeek and Sports Illustrated Tickets. Tixr will work directly with clubs to sell primary and secondary tickets as part of the league's push to modernize its ticketing ecosystem."
+      },
+      "ja": {
+        "title": "NFL、チケット販売基盤「Ticket HQ」にTixrを新たに追加",
+        "summary": "NFLは、チケット販売プラットフォームのTixrを「NFLチケットHQ」の新たな公式販売チャンネルとして追加し、チケットマスターやシートギーク、スポーツ・イラストレイテッド・チケッツと並ぶ立場となった。Tixrは各クラブと直接連携し、チケッティング基盤の刷新を進めるリーグの取り組みの一環として、正規・二次チケットの販売を担う。"
+      },
+      "es": {
+        "title": "La NFL incorpora a Tixr como nuevo canal autorizado de Ticket HQ",
+        "summary": "La NFL sumó a la plataforma de venta de entradas Tixr como nuevo canal autorizado dentro de NFL Ticket HQ, uniéndose a Ticketmaster, SeatGeek y Sports Illustrated Tickets. Tixr trabajará directamente con los clubes para vender boletos primarios y de reventa, como parte del esfuerzo de la liga por modernizar su ecosistema de emisión de entradas."
+      },
+      "zh": {
+        "title": "NFL将Tixr纳入Ticket HQ，成为最新授权票务渠道",
+        "summary": "NFL将票务平台Tixr纳入“NFL Ticket HQ”体系，成为继Ticketmaster、SeatGeek和Sports Illustrated Tickets之后的最新授权销售渠道。作为联盟推进票务生态现代化的一部分，Tixr将直接与各俱乐部合作，销售一手及二手门票。"
+      },
+      "fr": {
+        "title": "La NFL ajoute Tixr comme nouveau canal agréé de Ticket HQ",
+        "summary": "La NFL a intégré la plateforme de billetterie Tixr comme nouveau canal de vente agréé au sein de NFL Ticket HQ, rejoignant Ticketmaster, SeatGeek et Sports Illustrated Tickets. Tixr collaborera directement avec les clubs pour vendre des billets primaires et de revente, dans le cadre des efforts de la ligue pour moderniser son écosystème de billetterie."
+      }
+    }
+  },
+  {
+    "id": "genius-sports-moment-engine-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "tech",
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-03-26T00:00:00Z",
+    "source_name": "Genius Sports",
+    "source_url": "https://www.geniussports.com/newsroom/digital-advertising-leaders-unite-around-genius-sports-moment-engine-for-real-time-activation/",
+    "i18n": {
+      "en": {
+        "title": "Genius Sports Expands Moment Engine Across Major Ad Platforms",
+        "summary": "Genius Sports announced that its Moment Engine, which triggers real-time advertising around key moments in live sports using official data and fan audiences, is now integrated across partners representing roughly 90% of the programmatic ad ecosystem. Partners include DIRECTV Advertising, Magnite, PubMatic and OpenX, alongside a global tie-up with Publicis Sports."
+      },
+      "ja": {
+        "title": "ジーニアス・スポーツ、「モーメント・エンジン」を主要広告基盤に拡大",
+        "summary": "ジーニアス・スポーツは、公式データとファンオーディエンスを活用してライブスポーツの重要な瞬間にリアルタイムで広告を配信する「モーメント・エンジン」を、プログラマティック広告市場の約9割を占めるパートナー各社に統合したと発表した。提携先にはDIRECTVアドバタイジングやマグナイト、パブマティック、オープンXが含まれ、パブリシス・スポーツとのグローバル提携も実現した。"
+      },
+      "es": {
+        "title": "Genius Sports amplía su Moment Engine a las principales plataformas publicitarias",
+        "summary": "Genius Sports anunció que su Moment Engine, que activa publicidad en tiempo real en torno a momentos clave del deporte en vivo usando datos oficiales y audiencias de aficionados, ya está integrado con socios que representan cerca del 90% del ecosistema de publicidad programática. Entre los socios figuran DIRECTV Advertising, Magnite, PubMatic y OpenX, además de una alianza global con Publicis Sports."
+      },
+      "zh": {
+        "title": "Genius Sports将“Moment Engine”拓展至主流广告平台",
+        "summary": "Genius Sports宣布，其利用官方数据和球迷受众在体育赛事关键时刻实时触发广告投放的“Moment Engine”系统，已与占据约九成程序化广告生态份额的合作伙伴完成集成。合作方包括DIRECTV Advertising、Magnite、PubMatic和OpenX，同时公司还与浦泽公关体育（Publicis Sports）达成全球合作。"
+      },
+      "fr": {
+        "title": "Genius Sports étend son Moment Engine aux principales plateformes publicitaires",
+        "summary": "Genius Sports a annoncé que son Moment Engine, qui déclenche des publicités en temps réel autour des moments clés du sport en direct grâce à des données officielles et des audiences de supporters, est désormais intégré chez des partenaires représentant environ 90 % de l'écosystème publicitaire programmatique. Parmi eux figurent DIRECTV Advertising, Magnite, PubMatic et OpenX, aux côtés d'un partenariat mondial avec Publicis Sports."
+      }
+    }
+  },
+  {
+    "id": "lilly-milano-cortina-2026-sponsor",
+    "sport": "olympics",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2025-10-23T00:00:00Z",
+    "source_name": "Milano Cortina 2026",
+    "source_url": "https://www.olympics.com/en/milano-cortina-2026/news/lilly-and-milano-cortina-2026-announce-their-partnership-the-company-is-now-an-official-sponsor-of-the-games",
+    "i18n": {
+      "en": {
+        "title": "Eli Lilly Becomes Official Sponsor of Milano Cortina 2026",
+        "summary": "Pharmaceutical company Eli Lilly signed on as an official sponsor of the Milano Cortina 2026 Olympic and Paralympic Winter Games. The partnership will support health-awareness programs promoting disease prevention and early intervention alongside the Games."
+      },
+      "ja": {
+        "title": "イーライリリー、ミラノ・コルティナ2026の公式スポンサーに",
+        "summary": "製薬大手イーライリリーは、2026年ミラノ・コルティナ冬季オリンピック・パラリンピックの公式スポンサー契約を締結した。この提携では、大会に合わせて疾病予防と早期介入を呼びかける健康啓発プログラムを支援する。"
+      },
+      "es": {
+        "title": "Eli Lilly se convierte en patrocinador oficial de Milán-Cortina 2026",
+        "summary": "La farmacéutica Eli Lilly firmó como patrocinador oficial de los Juegos Olímpicos y Paralímpicos de Invierno Milán-Cortina 2026. La alianza respaldará programas de concientización sobre salud centrados en la prevención de enfermedades y la intervención temprana en torno a los Juegos."
+      },
+      "zh": {
+        "title": "礼来公司成为2026米兰-科尔蒂纳冬奥会官方赞助商",
+        "summary": "制药公司礼来签约成为2026年米兰-科尔蒂纳冬季奥运会及残奥会官方赞助商。此次合作将围绕赛事推广疾病预防与早期干预相关的健康宣传项目。"
+      },
+      "fr": {
+        "title": "Eli Lilly devient sponsor officiel de Milan-Cortina 2026",
+        "summary": "Le laboratoire pharmaceutique Eli Lilly a signé en tant que sponsor officiel des Jeux olympiques et paralympiques d'hiver de Milan-Cortina 2026. Ce partenariat soutiendra des programmes de sensibilisation à la santé axés sur la prévention des maladies et l'intervention précoce autour des Jeux."
+      }
+    }
+  },
+  {
+    "id": "gl-events-milano-cortina-2026-infrastructure",
+    "sport": "olympics",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "stadium"
+    ],
+    "published_at": "2026-01-26T00:00:00Z",
+    "source_name": "Milano Cortina 2026",
+    "source_url": "https://www.olympics.com/en/milano-cortina-2026/news/milano-cortina-2026-signs-a-partnership-agreement-with-gl-events-as-temporary-infrastructure-partner-of-the-olympic-games",
+    "i18n": {
+      "en": {
+        "title": "GL Events Named Temporary Infrastructure Partner for Milano Cortina 2026",
+        "summary": "Event infrastructure group GL events signed on as the Official Temporary Infrastructure Partner of the Milano Cortina 2026 Winter Games. The company will supply, install and remove overlay structures such as tents, modular buildings and media stations across the Games' venues."
+      },
+      "ja": {
+        "title": "GLイベンツ、ミラノ・コルティナ2026の仮設インフラ公式パートナーに",
+        "summary": "イベントインフラ大手のGLイベンツは、2026年ミラノ・コルティナ冬季大会の公式仮設インフラパートナーとして契約を締結した。同社は大会会場全体にわたり、テントやモジュール式建物、メディアステーションといった仮設構造物の設営から撤去までを担う。"
+      },
+      "es": {
+        "title": "GL events, socio oficial de infraestructura temporal de Milán-Cortina 2026",
+        "summary": "El grupo de infraestructura para eventos GL events firmó como Socio Oficial de Infraestructura Temporal de los Juegos de Invierno Milán-Cortina 2026. La compañía suministrará, instalará y retirará estructuras temporales como carpas, edificios modulares y estaciones de medios en las sedes de los Juegos."
+      },
+      "zh": {
+        "title": "GL events成为2026米兰-科尔蒂纳冬奥会临时基础设施官方合作伙伴",
+        "summary": "活动基础设施集团GL events签约成为2026年米兰-科尔蒂纳冬奥会官方临时基础设施合作伙伴。该公司将负责在各赛事场馆搭建、安装并拆除帐篷、模块化建筑及媒体工作站等临时设施。"
+      },
+      "fr": {
+        "title": "GL events devient partenaire officiel des infrastructures temporaires de Milan-Cortina 2026",
+        "summary": "Le groupe d'infrastructures événementielles GL events a signé en tant que partenaire officiel des infrastructures temporaires des Jeux d'hiver de Milan-Cortina 2026. L'entreprise fournira, installera et démontera des structures provisoires telles que tentes, bâtiments modulaires et espaces médias sur les sites des Jeux."
+      }
+    }
   }
 ]
