@@ -6428,5 +6428,274 @@
         "summary": "Les Sabres de Buffalo et KeyBank ont conclu une extension de 10 ans de leur accord de naming de l'aréna, conservant le nom KeyBank Center jusqu'à la saison 2035-36. Dans le cadre de ce renouvellement, le logo KeyBank apparaîtra aussi sur les casques extérieurs des Sabres dès la saison 2026-27, avec des avantages élargis pour les clients de la banque assistant aux matchs et événements."
       }
     }
+  },
+  {
+    "id": "visiolab-orlando-magic-self-checkout-kia-center",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "tech",
+      "stadium",
+      "fan"
+    ],
+    "published_at": "2025-10-26T00:00:00Z",
+    "source_name": "Retail Technology Innovation Hub",
+    "source_url": "https://retailtechinnovationhub.com/home/2025/10/26/milestone-deployment-as-visiolab-frictionless-checkouts-go-live-for-orlando-magic-season-opener",
+    "i18n": {
+      "en": {
+        "title": "Orlando Magic Deploy 43 AI Self-Checkout Kiosks at Kia Center",
+        "summary": "The Orlando Magic and concessionaire Levy installed 43 VisioLab self-checkout kiosks across 12 food markets inside Kia Center, one of the largest rollouts of the AI-powered ordering platform in a North American arena. The edge-AI system recognizes food and drink items without barcode scanning, aiming to cut concession wait times for fans."
+      },
+      "ja": {
+        "title": "オーランド・マジック、キア・センターにAIセルフレジ43台を導入",
+        "summary": "オーランド・マジックと運営会社Levyは、キア・センター内の12の飲食エリアにVisioLabのAIセルフレジを43台設置した。北米アリーナでは最大規模の導入例の一つとなる。エッジAI技術によりバーコードを使わず商品を識別し、観客の待ち時間短縮を目指す。"
+      },
+      "es": {
+        "title": "Orlando Magic instala 43 quioscos de autopago con IA en el Kia Center",
+        "summary": "Los Orlando Magic y la concesionaria Levy instalaron 43 quioscos de autopago VisioLab en 12 puestos de comida del Kia Center, uno de los mayores despliegues de esta plataforma con IA en un recinto norteamericano. El sistema de IA en el borde reconoce productos sin necesidad de escanear códigos de barras, buscando reducir las esperas de los aficionados."
+      },
+      "zh": {
+        "title": "奥兰多魔术队在Kia中心部署43台AI自助结账设备",
+        "summary": "奥兰多魔术队与餐饮运营商Levy在Kia中心的12个餐饮点安装了43台VisioLab AI自助结账机，是北美体育馆中该平台规模最大的部署之一。该边缘AI系统无需扫描条形码即可识别商品，旨在缩短球迷排队等待时间。"
+      },
+      "fr": {
+        "title": "Les Magic d'Orlando déploient 43 bornes de paiement en libre-service par IA au Kia Center",
+        "summary": "Les Orlando Magic et le concessionnaire Levy ont installé 43 bornes de paiement en libre-service VisioLab dans 12 points de restauration du Kia Center, l'un des plus vastes déploiements de cette plateforme basée sur l'IA dans une salle nord-américaine. Le système d'IA en périphérie reconnaît les produits sans scanner de code-barres afin de réduire les files d'attente."
+      }
+    }
+  },
+  {
+    "id": "honda-la28-founding-partner-team-usa",
+    "sport": "olympics",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2025-06-02T00:00:00Z",
+    "source_name": "LA28",
+    "source_url": "https://la28.org/en/newsroom/honda-supporting-as-founding-partner-of-la28-games.html",
+    "i18n": {
+      "en": {
+        "title": "Honda Joins LA28 as Founding Partner and Team USA Automotive Partner",
+        "summary": "American Honda became a Founding Partner of the LA28 Olympic and Paralympic Games and the Official Automotive Partner of Team USA, its first top-tier Olympic sponsorship in four years. The deal adds to LA28's push toward a privately funded Games, which organizers say is tracking toward roughly $2.5 billion in sponsorship revenue."
+      },
+      "ja": {
+        "title": "ホンダ、LA28創立パートナー兼チームUSA自動車パートナーに",
+        "summary": "アメリカン・ホンダはLA28オリンピック・パラリンピックの創立パートナー（ファウンディングパートナー）およびチームUSAの公式自動車パートナーとなった。同社にとって4年ぶりのオリンピックトップスポンサー契約となる。LA28は民間資金によるオリンピック運営を目指し、スポンサー収入は約25億ドル規模を見込んでいるという。"
+      },
+      "es": {
+        "title": "Honda se une a LA28 como socio fundador y socio automotriz del Team USA",
+        "summary": "American Honda se convirtió en socio fundador de los Juegos Olímpicos y Paralímpicos de LA28 y en socio automotriz oficial del Team USA, su primer patrocinio olímpico de primer nivel en cuatro años. El acuerdo refuerza la apuesta de LA28 por unos Juegos financiados con fondos privados, con ingresos por patrocinio que se estiman en unos 2.500 millones de dólares."
+      },
+      "zh": {
+        "title": "本田成为LA28创始合作伙伴及美国代表团汽车合作伙伴",
+        "summary": "美国本田公司成为LA28奥运会及残奥会的创始合作伙伴，并成为美国代表团官方汽车合作伙伴，这是该公司四年来首次达成顶级奥运赞助协议。此举助力LA28迈向完全依靠私人资金运营的目标，据组织方称赞助收入预计约达25亿美元。"
+      },
+      "fr": {
+        "title": "Honda rejoint LA28 comme partenaire fondateur et partenaire automobile de Team USA",
+        "summary": "American Honda est devenu partenaire fondateur des Jeux olympiques et paralympiques de LA28 ainsi que partenaire automobile officiel de Team USA, son premier partenariat olympique de premier rang depuis quatre ans. Cet accord renforce la stratégie de LA28 visant des Jeux financés par le secteur privé, avec des revenus de sponsoring estimés à environ 2,5 milliards de dollars."
+      }
+    }
+  },
+  {
+    "id": "boldhaven-manchester-united-stake-disclosure",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "biz",
+      "team"
+    ],
+    "published_at": "2026-07-21T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/leagues/soccer/2026/manchester-united-stake-boldhaven-1234939717/",
+    "i18n": {
+      "en": {
+        "title": "UK Investment Firm Boldhaven Discloses 5.6% Stake in Manchester United",
+        "summary": "London-based Boldhaven Management disclosed beneficial ownership of about 3.1 million Class A shares of Manchester United plc, equal to 5.6% of that share class, in a Schedule 13G filing with US regulators. The firm holds the shares on behalf of clients, with no single client owning more than 5% individually."
+      },
+      "ja": {
+        "title": "英投資会社ボールドヘイブンがマンチェスター・ユナイテッド株5.6%を保有と開示",
+        "summary": "ロンドンの投資会社ボールドヘイブン・マネジメントは、米当局へのスケジュール13G申請で、マンチェスター・ユナイテッドのクラスA株約310万株、同株式区分の5.6%相当を実質保有していると開示した。同社は複数の顧客の資産として株式を保有しており、単独で5%を超える顧客はいないとされる。"
+      },
+      "es": {
+        "title": "La firma británica Boldhaven revela una participación del 5,6% en el Manchester United",
+        "summary": "La gestora londinense Boldhaven Management reveló la titularidad efectiva de unas 3,1 millones de acciones Clase A del Manchester United plc, equivalentes al 5,6% de esa clase de acciones, en una presentación del Anexo 13G ante el regulador estadounidense. La firma mantiene las acciones en nombre de clientes, ninguno de los cuales posee individualmente más del 5%."
+      },
+      "zh": {
+        "title": "英国投资公司Boldhaven披露持有曼联5.6%股份",
+        "summary": "总部位于伦敦的Boldhaven Management公司在向美国监管机构提交的13G表格中披露，其实益持有曼联约310万股A类股票，占该类股份的5.6%。该公司代表多名客户持有这些股票，且没有单一客户持股比例超过5%。"
+      },
+      "fr": {
+        "title": "La société britannique Boldhaven révèle détenir 5,6 % du Manchester United",
+        "summary": "La société de gestion londonienne Boldhaven Management a déclaré détenir à titre bénéficiaire environ 3,1 millions d'actions de catégorie A de Manchester United plc, soit 5,6 % de cette catégorie d'actions, dans un dépôt Schedule 13G auprès du régulateur américain. La société détient ces actions pour le compte de clients, dont aucun ne possède individuellement plus de 5 %."
+      }
+    }
+  },
+  {
+    "id": "texas-tech-galaxy-stadium-naming-rights",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-07-17T00:00:00Z",
+    "source_name": "NBC 5 Dallas-Fort Worth",
+    "source_url": "https://www.nbcdfw.com/news/sports/texas-tech-signs-naming-rights-deal-with-digital-assets-company-galaxy/4051708/",
+    "i18n": {
+      "en": {
+        "title": "Texas Tech Renames Football Stadium Galaxy Stadium in 15-Year Deal",
+        "summary": "Texas Tech Athletics signed a 15-year naming rights partnership with digital-assets firm Galaxy, renaming the school's football venue from Jones AT&T Stadium to Galaxy Stadium starting with the 2026 season. The agreement also includes provisions supporting Name, Image and Likeness opportunities for Red Raiders athletes; financial terms were not disclosed."
+      },
+      "ja": {
+        "title": "テキサス・テック、フットボール競技場を「ギャラクシー・スタジアム」に改称する15年契約",
+        "summary": "テキサス・テック大学は、デジタル資産企業ギャラクシーと15年間の命名権契約を締結し、フットボール競技場の名称を2026年シーズンから「ジョーンズAT&Tスタジアム」から「ギャラクシー・スタジアム」に変更した。契約には選手のNIL（氏名・画像・肖像権）機会を支援する条項も含まれるが、契約金額は非公表。"
+      },
+      "es": {
+        "title": "Texas Tech renombra su estadio de fútbol americano como Galaxy Stadium en un contrato de 15 años",
+        "summary": "El departamento deportivo de Texas Tech firmó una alianza de derechos de denominación por 15 años con la firma de activos digitales Galaxy, renombrando su estadio de fútbol americano de Jones AT&T Stadium a Galaxy Stadium a partir de la temporada 2026. El acuerdo también incluye disposiciones que respaldan oportunidades de nombre, imagen y semejanza para los deportistas de Red Raiders; no se revelaron los términos financieros."
+      },
+      "zh": {
+        "title": "德州理工大学与Galaxy签署15年冠名协议，橄榄球场更名为Galaxy Stadium",
+        "summary": "德州理工大学体育部与数字资产公司Galaxy签署了一份为期15年的冠名权合作协议，从2026赛季起将其橄榄球场从Jones AT&T Stadium更名为Galaxy Stadium。协议还包含支持Red Raiders运动员姓名、形象和肖像权（NIL）机会的条款，但财务条款未公开。"
+      },
+      "fr": {
+        "title": "Texas Tech renomme son stade de football américain Galaxy Stadium pour 15 ans",
+        "summary": "Le département sportif de Texas Tech a signé un partenariat de droits de dénomination de 15 ans avec la société d'actifs numériques Galaxy, rebaptisant son stade de football américain de Jones AT&T Stadium en Galaxy Stadium à partir de la saison 2026. L'accord comprend aussi des dispositions soutenant les opportunités de nom, image et ressemblance pour les athlètes des Red Raiders ; les conditions financières n'ont pas été divulguées."
+      }
+    }
+  },
+  {
+    "id": "orix-buffaloes-acn-uniform-sponsor",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2025-01-24T00:00:00Z",
+    "source_name": "Orix Buffaloes",
+    "source_url": "https://www.buffaloes.co.jp/news/detail/202500540815.html",
+    "i18n": {
+      "en": {
+        "title": "Orix Buffaloes Sign Uniform Sponsorship Deal with ACN Holdings",
+        "summary": "The Orix Buffaloes agreed to a uniform advertising sponsorship with ACN Holdings, a company that sells and services commercial air conditioners and security cameras. The ACN logo appears on the right sleeve of players', managers' and coaches' jerseys for both home and away games, starting from spring training in Miyazaki."
+      },
+      "ja": {
+        "title": "オリックス・バファローズ、ACNホールディングスとユニフォーム広告契約を締結",
+        "summary": "オリックス・バファローズは、業務用エアコンや防犯カメラの販売・保守を手がけるACNホールディングスとユニフォーム広告スポンサー契約を締結した。宮崎春季キャンプから、選手・監督・コーチが着用するユニフォーム上着の右袖にACNのロゴが表示され、ホーム・ビジター共通で使用される。"
+      },
+      "es": {
+        "title": "Los Orix Buffaloes firman un patrocinio de uniforme con ACN Holdings",
+        "summary": "Los Orix Buffaloes acordaron un patrocinio publicitario en el uniforme con ACN Holdings, una empresa que vende y da mantenimiento a aires acondicionados comerciales y cámaras de seguridad. El logotipo de ACN aparecerá en la manga derecha de las camisetas de jugadores, mánager y entrenadores tanto en casa como fuera, a partir de la pretemporada en Miyazaki."
+      },
+      "zh": {
+        "title": "欧力士猛牛队与ACN Holdings签署球衣广告赞助协议",
+        "summary": "欧力士猛牛队与从事商用空调及监控摄像头销售维护业务的ACN Holdings签署了球衣广告赞助协议。从宫崎春训开始，球员、总教练及教练员球衣右袖将统一印上ACN标志，主客场比赛均适用。"
+      },
+      "fr": {
+        "title": "Les Orix Buffaloes signent un partenariat publicitaire sur maillot avec ACN Holdings",
+        "summary": "Les Orix Buffaloes ont conclu un accord de sponsoring publicitaire sur maillot avec ACN Holdings, une entreprise spécialisée dans la vente et l'entretien de climatiseurs commerciaux et de caméras de sécurité. Le logo ACN figurera sur la manche droite des maillots des joueurs, du manager et des entraîneurs, à domicile comme à l'extérieur, dès le camp d'entraînement printanier de Miyazaki."
+      }
+    }
+  },
+  {
+    "id": "bucks-uline-jersey-patch-sponsor",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-05T00:00:00Z",
+    "source_name": "Hoodline",
+    "source_url": "https://hoodline.com/2026/09/uline-lands-on-bucks-jerseys-as-pleasant-prairie-firm-becomes-new-patch-sponsor/",
+    "i18n": {
+      "en": {
+        "title": "Milwaukee Bucks Name Uline as New Jersey Patch Sponsor",
+        "summary": "The Milwaukee Bucks announced a multiyear jersey patch partnership with Wisconsin-based shipping-supplies company Uline, replacing Motorola's logo on the front left shoulder of the team's jerseys starting with the 2026-27 season. The deal continues the NBA's trend of regionally headquartered companies buying into local team branding."
+      },
+      "ja": {
+        "title": "ミルウォーキー・バックス、新ジャージパッチスポンサーにユーラインを指名",
+        "summary": "ミルウォーキー・バックスは、ウィスコンシン州の物流用品企業ユーラインと複数年のジャージパッチ契約を発表した。2026-27シーズンから、ジャージ左肩前面のロゴがモトローラからユーラインに変更される。地元に本社を置く企業がチームブランディングに投資するNBAの傾向を反映した契約となる。"
+      },
+      "es": {
+        "title": "Los Milwaukee Bucks nombran a Uline nuevo patrocinador del parche de camiseta",
+        "summary": "Los Milwaukee Bucks anunciaron una asociación plurianual de parche de camiseta con la empresa de suministros de envío Uline, con sede en Wisconsin, que reemplaza el logotipo de Motorola en el hombro delantero izquierdo de las camisetas del equipo a partir de la temporada 2026-27. El acuerdo continúa la tendencia de la NBA de que empresas con sede regional inviertan en la marca de equipos locales."
+      },
+      "zh": {
+        "title": "密尔沃基雄鹿队宣布Uline为新球衣广告赞助商",
+        "summary": "密尔沃基雄鹿队宣布与总部位于威斯康星州的物流用品公司Uline达成多年球衣广告合作，从2026-27赛季起，球衣左前肩的摩托罗拉标志将由Uline取代。该协议延续了NBA中地区性企业投资本地球队品牌的趋势。"
+      },
+      "fr": {
+        "title": "Les Bucks de Milwaukee nomment Uline nouveau sponsor du patch de maillot",
+        "summary": "Les Bucks de Milwaukee ont annoncé un partenariat pluriannuel de patch de maillot avec l'entreprise de fournitures d'expédition Uline, basée dans le Wisconsin, remplaçant le logo Motorola sur l'épaule avant gauche des maillots de l'équipe dès la saison 2026-27. Cet accord confirme la tendance de la NBA à voir des entreprises régionales investir dans l'image des équipes locales."
+      }
+    }
+  },
+  {
+    "id": "lakers-albert-jersey-patch-sponsor",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-07-16T00:00:00Z",
+    "source_name": "ESPN",
+    "source_url": "https://bleacherreport.com/articles/25455750-lakers-announce-new-jersey-patch-sponsor-photo-latest-nba-rumors-contract-value",
+    "i18n": {
+      "en": {
+        "title": "Lakers Replace Bibigo With Fintech App Albert as Jersey Patch Sponsor",
+        "summary": "The Los Angeles Lakers announced that personal-finance app Albert will replace Bibigo as the team's jersey patch sponsor starting with the 2026-27 season, appearing on all four uniform designs. A league source told ESPN the agreement carries an annual value north of $30 million."
+      },
+      "ja": {
+        "title": "レイカーズ、ジャージパッチスポンサーをBibigoからフィンテックアプリAlbertに変更",
+        "summary": "ロサンゼルス・レイカーズは、2026-27シーズンからジャージパッチスポンサーをBibigoから個人向け資産管理アプリのAlbertに変更すると発表した。4種類全てのユニフォームデザインに表示される。ESPNによれば、リーグ関係者は契約額が年間3000万ドルを超えると明かしている。"
+      },
+      "es": {
+        "title": "Los Lakers sustituyen a Bibigo por la app fintech Albert como patrocinador del parche",
+        "summary": "Los Angeles Lakers anunciaron que la aplicación de finanzas personales Albert reemplazará a Bibigo como patrocinador del parche de camiseta del equipo a partir de la temporada 2026-27, apareciendo en los cuatro diseños de uniforme. Una fuente de la liga dijo a ESPN que el acuerdo tiene un valor anual superior a 30 millones de dólares."
+      },
+      "zh": {
+        "title": "湖人队球衣广告赞助商由Bibigo更换为金融科技应用Albert",
+        "summary": "洛杉矶湖人队宣布，从2026-27赛季起，个人理财应用Albert将取代Bibigo成为球队球衣广告赞助商，标志将出现在全部四款球衣设计上。据ESPN援引联盟人士消息，该协议年价值超过3000万美元。"
+      },
+      "fr": {
+        "title": "Les Lakers remplacent Bibigo par l'application fintech Albert comme sponsor de patch de maillot",
+        "summary": "Les Los Angeles Lakers ont annoncé que l'application de finances personnelles Albert remplacera Bibigo comme sponsor du patch de maillot de l'équipe à partir de la saison 2026-27, apparaissant sur les quatre modèles de maillot. Une source de la ligue a indiqué à ESPN que l'accord représente une valeur annuelle supérieure à 30 millions de dollars."
+      }
+    }
+  },
+  {
+    "id": "mufg-bank-jleague-top-partner",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-03-12T00:00:00Z",
+    "source_name": "J.League",
+    "source_url": "https://www.jleague.jp/news/article/33522/",
+    "i18n": {
+      "en": {
+        "title": "MUFG Bank Signs On as New J.League Top Partner",
+        "summary": "MUFG Bank concluded a Top Partner agreement with the J.League, with the deal's Top Partner component beginning in April 2026 and an All-Star platinum-partner component starting a month earlier. The partnership focuses on linking MUFG's regional branches with local J.League clubs, advancing financial-service DX, and building mechanisms to recirculate funds within local economies."
+      },
+      "ja": {
+        "title": "三菱UFJ銀行、Ｊリーグ新トップパートナーに就任",
+        "summary": "三菱UFJ銀行はＪリーグとトップパートナー契約を締結した。トップパートナー契約は2026年4月から、Ｊリーグオールスターのプラチナパートナー契約はその1カ月前から開始する。全国各地の三菱UFJ銀行拠点とＪクラブの連携、金融サービスを通じたDX推進、地域における資金循環の仕組みづくりなどに取り組む。"
+      },
+      "es": {
+        "title": "MUFG Bank se convierte en el nuevo socio principal (Top Partner) de la J.League",
+        "summary": "MUFG Bank firmó un acuerdo de Top Partner con la J.League, con la parte de Top Partner iniciando en abril de 2026 y un componente de socio platino del All-Star comenzando un mes antes. La alianza se centra en vincular las sucursales regionales de MUFG con los clubes locales de la J.League, impulsar la transformación digital de los servicios financieros y crear mecanismos para recircular fondos en las economías locales."
+      },
+      "zh": {
+        "title": "三菱UFJ银行成为J联赛新任顶级合作伙伴",
+        "summary": "三菱UFJ银行与J联赛签署顶级合作伙伴（Top Partner）协议，其中顶级合作伙伴部分自2026年4月生效，全明星白金合作伙伴部分则提前一个月开始。该合作重点在于连接三菱UFJ银行全国各地分行与当地J联赛俱乐部，推进金融服务数字化转型，并构建区域资金循环机制。"
+      },
+      "fr": {
+        "title": "MUFG Bank devient le nouveau partenaire principal (Top Partner) de la J.League",
+        "summary": "MUFG Bank a conclu un accord de Top Partner avec la J.League, la partie Top Partner débutant en avril 2026 et un volet partenaire platine pour le All-Star commençant un mois plus tôt. Le partenariat vise à relier les agences régionales de MUFG aux clubs locaux de la J.League, à faire progresser la transformation numérique des services financiers et à mettre en place des mécanismes de recirculation des fonds dans les économies locales."
+      }
+    }
   }
 ]
