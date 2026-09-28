@@ -6897,5 +6897,73 @@
         "summary": "American Express et la NFL ont annoncé un partenariat mondial pluriannuel faisant d'Amex le partenaire officiel des paiements de la ligue à partir de la saison 2026, succédant à Visa dans cette catégorie. L'accord comprend des avantages pour les porteurs de carte lors de la Draft, du Super Bowl et des matchs internationaux, ainsi qu'une carte de crédit co-brandée lancée plus tard en 2026."
       }
     }
+  },
+  {
+    "id": "haslam-sports-group-shepro-nwsl-columbus-hire",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-21T00:00:00Z",
+    "source_name": "Bloomberg",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-09-21/haslam-sports-group-makes-first-hire-for-nwsl-columbus-franchise",
+    "i18n": {
+      "en": {
+        "title": "Haslam Sports Group Names First Executive for Incoming NWSL Columbus Club",
+        "summary": "Haslam Sports Group made its first front-office hire for its planned NWSL expansion franchise in Columbus, naming Mary Shepro as president of business operations. Shepro, previously a Columbus Crew vice president and general counsel, will oversee partnerships, ticketing and matchday operations for both clubs as the new NWSL team prepares to begin play in 2028."
+      },
+      "ja": {
+        "title": "ハスラム・スポーツ・グループ、コロンバスの新NWSLクラブ幹部を初めて任命",
+        "summary": "ハスラム・スポーツ・グループは、2028年に参入予定のNWSL拡張クラブ(コロンバス)に向けた初のフロントオフィス人事として、メアリー・シェプロ氏を事業運営部門の社長に任命した。同氏はこれまでコロンバス・クルーの副社長兼法務顧問を務めており、今後は両クラブのパートナーシップ、チケット販売、試合運営を統括する。"
+      },
+      "es": {
+        "title": "Haslam Sports Group nombra a su primera ejecutiva para el futuro club de Columbus en la NWSL",
+        "summary": "Haslam Sports Group realizó su primera contratación ejecutiva para su franquicia de expansión de la NWSL en Columbus, designando a Mary Shepro como presidenta de operaciones comerciales. Shepro, exvicepresidenta y asesora general del Columbus Crew, supervisará las asociaciones, la venta de entradas y las operaciones de los días de partido de ambos clubes antes del debut del nuevo equipo en 2028."
+      },
+      "zh": {
+        "title": "哈斯拉姆体育集团为筹建中的哥伦布NWSL新球队任命首位高管",
+        "summary": "哈斯拉姆体育集团为其计划中的哥伦布NWSL扩军球队完成首位管理层任命,玛丽·谢普罗将出任商业运营总裁。谢普罗此前担任哥伦布机员队副总裁兼法务总监,未来将负责两支球队的合作伙伴关系、票务及比赛日运营,新球队计划于2028年开始参赛。"
+      },
+      "fr": {
+        "title": "Haslam Sports Group nomme sa première dirigeante pour le futur club de Columbus en NWSL",
+        "summary": "Haslam Sports Group a effectué son premier recrutement de dirigeant pour sa future franchise d'expansion de la NWSL à Columbus, en nommant Mary Shepro présidente des opérations commerciales. Ancienne vice-présidente et directrice juridique du Columbus Crew, elle supervisera les partenariats, la billetterie et l'organisation des jours de match pour les deux clubs avant les débuts de la nouvelle équipe en 2028."
+      }
+    }
+  },
+  {
+    "id": "zamst-hokkaido-yellow-stars-volleyball-sponsor-2026",
+    "sport": "general",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-09-17T00:00:00Z",
+    "source_name": "PR Times",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000663.000002354.html",
+    "i18n": {
+      "en": {
+        "title": "Sports Brand ZAMST Becomes Supplier Partner of Volleyball's Hokkaido Yellow Stars",
+        "summary": "Sports-support equipment maker ZAMST, operated by Nippon Sigmax, signed on as a supplier partner of the Hokkaido Yellow Stars ahead of the men's volleyball club's 2026-27 season in Japan's top SV.LEAGUE division. The agreement will see ZAMST braces and supports provided to the team as part of its ongoing athlete-support sponsorship activities."
+      },
+      "ja": {
+        "title": "スポーツブランド「ザムスト」、バレーボール北海道イエローストーンズのサプライヤーパートナーに",
+        "summary": "日本シグマックスが展開するスポーツサポートブランド「ザムスト」が、SVリーグ男子1部に所属する北海道イエローストーンズの2026-27シーズンを前にサプライヤーパートナー契約を締結した。今後、同社のサポーター製品がチームに提供され、選手のコンディショニングを支援する取り組みが続けられる。"
+      },
+      "es": {
+        "title": "La marca deportiva ZAMST se convierte en proveedor del club de voleibol Hokkaido Yellow Stars",
+        "summary": "El fabricante de equipamiento de soporte deportivo ZAMST, operado por Nippon Sigmax, firmó un acuerdo como proveedor oficial del club de voleibol Hokkaido Yellow Stars antes de su temporada 2026-27 en la máxima división japonesa, la SV.LEAGUE. El acuerdo contempla el suministro de rodilleras y soportes ortopédicos de la marca al equipo como parte de su apoyo continuo a los deportistas."
+      },
+      "zh": {
+        "title": "运动品牌ZAMST成为排球队北海道黄星队的供应商合作伙伴",
+        "summary": "由日本西格玛克斯运营的运动护具品牌ZAMST,在北海道黄星队备战日本SV联赛男子一部2026-27赛季之际,与该队签署供应商合作协议。根据协议,ZAMST将为球队提供护具产品,持续支持球员的身体机能管理。"
+      },
+      "fr": {
+        "title": "La marque sportive ZAMST devient fournisseur partenaire du club de volley-ball Hokkaido Yellow Stars",
+        "summary": "Le fabricant d'équipements de soutien sportif ZAMST, exploité par Nippon Sigmax, est devenu fournisseur partenaire du club de volley-ball Hokkaido Yellow Stars avant sa saison 2026-27 dans la première division japonaise, la SV.LEAGUE. L'accord prévoit la fourniture d'orthèses et de genouillères de la marque à l'équipe, dans le cadre de son soutien continu aux athlètes."
+      }
+    }
   }
 ]
