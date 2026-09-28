@@ -6697,5 +6697,275 @@
         "summary": "L'éditeur japonais de jeux vidéo Sega a annoncé un accord de partenariat avec les 20es Jeux asiatiques d'Aichi-Nagoya, dans le cadre duquel son titre « Puyo Puyo Champions » figurera au programme officiel d'esport de l'événement. Sega rejoint d'autres éditeurs japonais, dont Konami et Bandai Namco, qui ont également signé comme partenaires de ces Jeux de septembre 2026, dont les compétitions d'esport se dérouleront en parallèle de l'événement principal."
       }
     }
+  },
+  {
+    "id": "sporting-kc-mallouk-sale-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-01-16T00:00:00Z",
+    "source_name": "Forbes",
+    "source_url": "https://www.forbes.com/sites/justinbirnbaum/2026/01/16/sporting-kansas-city-is-being-sold-for-roughly-700-million-an-mls-record/",
+    "i18n": {
+      "en": {
+        "title": "Sporting Kansas City Sells Majority Stake at MLS-Record $700 Million Valuation",
+        "summary": "The Illig family agreed to sell a 71% stake in Sporting Kansas City to existing minority owner Peter Mallouk, valuing the club at roughly $700 million. The price is the highest ever paid for a majority stake in Major League Soccer, up from the club's $650 million valuation just a year earlier."
+      },
+      "ja": {
+        "title": "スポーティングKC、MLS史上最高額の約7億ドルで筆頭株主が交代",
+        "summary": "イリグ一族はスポーティング・カンザスシティの71%の株式を、既存の少数株主であるピーター・マルーク氏に売却することで合意した。評価額は約7億ドルとなり、MLSの過半数株式取得としては過去最高額となる。1年前の評価額6億5000万ドルから大きく上昇した。"
+      },
+      "es": {
+        "title": "Sporting Kansas City vende su participación mayoritaria a un valor récord de 700 millones de dólares en la MLS",
+        "summary": "La familia Illig acordó vender una participación del 71% en Sporting Kansas City al ya accionista minoritario Peter Mallouk, con lo que el club queda valorado en unos 700 millones de dólares. Es el precio más alto pagado jamás por una participación mayoritaria en la MLS, frente a los 650 millones de la valoración del club apenas un año antes."
+      },
+      "zh": {
+        "title": "堪萨斯城体育俱乐部以创MLS纪录的7亿美元估值出售控股权",
+        "summary": "伊利格家族同意将其持有的堪萨斯城体育俱乐部71%股份出售给现有小股东彼得·马卢克，交易对俱乐部的估值约为7亿美元。这是美国职业足球大联盟历史上控股权交易的最高价格，较一年前6.5亿美元的估值大幅上涨。"
+      },
+      "fr": {
+        "title": "Le Sporting Kansas City cède sa participation majoritaire pour une valorisation record de 700 millions de dollars en MLS",
+        "summary": "La famille Illig a accepté de vendre une participation de 71% dans le Sporting Kansas City à Peter Mallouk, déjà actionnaire minoritaire, valorisant le club à environ 700 millions de dollars. Il s'agit du prix le plus élevé jamais payé pour une participation majoritaire en MLS, contre une valorisation de 650 millions un an plus tôt."
+      }
+    }
+  },
+  {
+    "id": "kraken-fifa-world-cup-2026-crypto-sponsor",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-06-09T00:00:00Z",
+    "source_name": "FIFA",
+    "source_url": "https://inside.fifa.com/tournament-organisation/commercial/media-releases/kraken-official-crypto-exchange-supporter-world-cup-2026",
+    "i18n": {
+      "en": {
+        "title": "Kraken Becomes FIFA World Cup 2026's First-Ever Official Crypto Exchange Sponsor",
+        "summary": "FIFA named crypto exchange Kraken as the Official Crypto Exchange Supporter of the 2026 World Cup, the first time a cryptocurrency platform has held that designation for the tournament. The deal aims to drive crypto awareness among fans across the 48-team event's three host nations, the U.S., Canada and Mexico."
+      },
+      "ja": {
+        "title": "クラーケン、FIFAワールドカップ2026史上初の公式暗号資産取引所スポンサーに",
+        "summary": "FIFAは暗号資産取引所クラーケンを2026年ワールドカップの公式暗号資産取引所サポーターに指名した。同大会で暗号資産プラットフォームがこの称号を得るのは初めて。契約は米国・カナダ・メキシコの3カ国で開催される48カ国参加の大会を通じて、ファンの間で暗号資産の認知を広めることを狙う。"
+      },
+      "es": {
+        "title": "Kraken se convierte en el primer patrocinador oficial de intercambio de criptomonedas en la historia del Mundial 2026",
+        "summary": "La FIFA designó al exchange de criptomonedas Kraken como Patrocinador Oficial de Intercambio de Criptomonedas del Mundial 2026, la primera vez que una plataforma de criptoactivos recibe esa distinción en el torneo. El acuerdo busca aumentar la conciencia sobre las criptomonedas entre los aficionados en los tres países anfitriones del torneo de 48 selecciones: Estados Unidos, Canadá y México."
+      },
+      "zh": {
+        "title": "Kraken成为2026年世界杯历史上首个官方加密货币交易所赞助商",
+        "summary": "国际足联宣布加密货币交易所Kraken为2026年世界杯官方加密货币交易所支持者，这是该赛事史上首次由加密货币平台获此称号。该协议旨在美国、加拿大和墨西哥三个东道国举办的48支球队赛事中，提升球迷对加密货币的认知度。"
+      },
+      "fr": {
+        "title": "Kraken devient le tout premier sponsor officiel d'échange de cryptomonnaies de la Coupe du Monde 2026",
+        "summary": "La FIFA a désigné la plateforme d'échange de cryptomonnaies Kraken comme Partenaire Officiel d'Échange de Cryptomonnaies de la Coupe du Monde 2026, une première pour une plateforme crypto dans l'histoire du tournoi. L'accord vise à sensibiliser les supporters aux cryptomonnaies dans les trois pays hôtes de cette édition à 48 équipes : les États-Unis, le Canada et le Mexique."
+      }
+    }
+  },
+  {
+    "id": "texas-tech-galaxy-stadium-naming-rights-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-07-17T00:00:00Z",
+    "source_name": "Texas Tech Athletics",
+    "source_url": "https://texastech.com/news/2026/7/17/football-texas-tech-secures-landmark-naming-rights-agreement-with-galaxy",
+    "i18n": {
+      "en": {
+        "title": "Texas Tech Renames Football Stadium 'Galaxy Stadium' in 15-Year Naming Rights Deal",
+        "summary": "Texas Tech Athletics signed a 15-year naming rights partnership with digital-assets and infrastructure firm Galaxy, renaming its football venue Galaxy Stadium starting with the 2026 season. The deal extends beyond the stadium name to include Galaxy branding across football and basketball, plus NIL opportunities for Texas Tech student-athletes."
+      },
+      "ja": {
+        "title": "テキサス工科大、フットボールスタジアムを「ギャラクシー・スタジアム」に改称する15年契約締結",
+        "summary": "テキサス工科大学athleticsは、デジタル資産・インフラ企業ギャラクシーと15年間の命名権契約を締結し、2026年シーズンからフットボール場を「ギャラクシー・スタジアム」に改称する。契約はスタジアム名にとどまらず、フットボールとバスケットボールにおけるギャラクシーのブランディングや、同大学の学生アスリート向けNIL（氏名・肖像権）機会にも及ぶ。"
+      },
+      "es": {
+        "title": "Texas Tech renombra su estadio de fútbol americano 'Galaxy Stadium' en un acuerdo de naming a 15 años",
+        "summary": "El departamento de deportes de Texas Tech firmó una asociación de derechos de denominación a 15 años con la firma de activos digitales e infraestructura Galaxy, renombrando su estadio de fútbol americano como Galaxy Stadium a partir de la temporada 2026. El acuerdo va más allá del nombre del estadio e incluye branding de Galaxy en fútbol americano y baloncesto, además de oportunidades de NIL para los estudiantes-atletas de Texas Tech."
+      },
+      "zh": {
+        "title": "德州理工大学签订15年冠名协议，橄榄球场更名为“Galaxy体育场”",
+        "summary": "德州理工大学体育部与数字资产及基础设施公司Galaxy签署了为期15年的冠名合作协议，自2026赛季起将其橄榄球场更名为“Galaxy体育场”。协议不仅限于场馆冠名，还包括Galaxy在橄榄球和篮球项目中的品牌露出，以及为该校学生运动员提供的姓名、肖像和形象权（NIL）机会。"
+      },
+      "fr": {
+        "title": "Texas Tech renomme son stade de football américain « Galaxy Stadium » dans un accord de naming de 15 ans",
+        "summary": "Le département sportif de Texas Tech a signé un partenariat de droits de dénomination de 15 ans avec la société d'actifs numériques et d'infrastructures Galaxy, rebaptisant son stade de football américain Galaxy Stadium dès la saison 2026. L'accord dépasse le simple nom du stade et inclut la visibilité de la marque Galaxy en football américain et en basketball, ainsi que des opportunités de NIL pour les étudiants-athlètes de Texas Tech."
+      }
+    }
+  },
+  {
+    "id": "inter-miami-nu-stadium-naming-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-03-03T00:00:00Z",
+    "source_name": "MLSSoccer.com",
+    "source_url": "https://www.mlssoccer.com/news/nu-stadium-inter-miami-s-new-home-named-at-miami-freedom-park",
+    "i18n": {
+      "en": {
+        "title": "Inter Miami Names New Home 'Nu Stadium' in Multiyear Deal With Brazilian Fintech Nu",
+        "summary": "Inter Miami CF unveiled Nu Stadium as the name of its new 26,700-seat venue at Miami Freedom Park ahead of its April 2026 opening, under a multiyear naming-rights agreement with Brazilian digital financial services company Nu. The deal is among the largest for a soccer-specific stadium in MLS history and also gives Nu the club's new back-of-shirt sponsorship space."
+      },
+      "ja": {
+        "title": "インテル・マイアミ、新本拠地をブラジルのフィンテック企業「Nu」との複数年契約で「Nuスタジアム」と命名",
+        "summary": "インテル・マイアミCFは、2026年4月開場予定のマイアミ・フリーダム・パーク内にある新本拠地（収容人数2万6700人）を、ブラジルのデジタル金融サービス企業Nuとの複数年命名権契約により「Nuスタジアム」と名付けたと発表した。この契約はMLSのサッカー専用スタジアムとしては史上最大級であり、Nuはクラブの新たな背中スポンサー枠も獲得する。"
+      },
+      "es": {
+        "title": "Inter Miami bautiza su nuevo estadio como 'Nu Stadium' en un acuerdo plurianual con la fintech brasileña Nu",
+        "summary": "Inter Miami CF presentó Nu Stadium como el nombre de su nuevo recinto de 26.700 asientos en Miami Freedom Park antes de su apertura en abril de 2026, bajo un acuerdo de naming plurianual con la empresa brasileña de servicios financieros digitales Nu. El acuerdo se cuenta entre los más grandes para un estadio específico de fútbol en la historia de la MLS y también otorga a Nu el nuevo espacio publicitario en la parte trasera de la camiseta del club."
+      },
+      "zh": {
+        "title": "迈阿密国际队与巴西金融科技公司Nu达成多年协议，新主场命名为“Nu体育场”",
+        "summary": "迈阿密国际队公布其位于迈阿密自由公园、可容纳26700人的新主场将命名为“Nu体育场”，该场馆预计于2026年4月启用，命名权来自与巴西数字金融服务公司Nu签订的多年协议。这是MLS历史上足球专用体育场规模最大的冠名协议之一，Nu还获得了俱乐部球衣背后新增的广告位。"
+      },
+      "fr": {
+        "title": "L'Inter Miami baptise son nouveau stade « Nu Stadium » dans un accord pluriannuel avec la fintech brésilienne Nu",
+        "summary": "L'Inter Miami CF a dévoilé le nom de son nouveau stade de 26 700 places à Miami Freedom Park, baptisé Nu Stadium, avant son ouverture prévue en avril 2026, dans le cadre d'un accord de naming pluriannuel avec l'entreprise brésilienne de services financiers numériques Nu. Cet accord figure parmi les plus importants pour un stade dédié au football dans l'histoire de la MLS et confère aussi à Nu le nouvel espace publicitaire au dos des maillots du club."
+      }
+    }
+  },
+  {
+    "id": "arizona-casino-del-sol-stadium-naming-2025",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2025-11-17T00:00:00Z",
+    "source_name": "University of Arizona Athletics",
+    "source_url": "https://arizonawildcats.com/news/2025/11/17/football-arizona-athletics-and-casino-del-sol-announce-transformative-60-million-plus-stadium-naming-rights-partnership.aspx",
+    "i18n": {
+      "en": {
+        "title": "Arizona Renames Football Stadium 'Casino Del Sol Stadium' in 20-Year, $60M+ Deal",
+        "summary": "The University of Arizona and Casino Del Sol, an enterprise of the Pascua Yaqui Tribe, announced a 20-year naming rights partnership worth more than $60 million for Arizona Stadium, now called Casino Del Sol Stadium. Athletics officials called it the largest such agreement in Big 12 Conference history, including new exterior and interior branding and expanded broadcast integration."
+      },
+      "ja": {
+        "title": "アリゾナ大、フットボールスタジアムを20年・6000万ドル超の契約で「カジノ・デル・ソル・スタジアム」に改称",
+        "summary": "アリゾナ大学とパスクア・ヤキ族の事業体カジノ・デル・ソルは、アリゾナ・スタジアムを対象に20年間・6000万ドル超の命名権契約を発表し、名称は「カジノ・デル・ソル・スタジアム」となった。athletics関係者はビッグ12カンファレンス史上最大規模の契約と説明しており、外装・内装の新たなブランディングや放送における露出拡大も含まれる。"
+      },
+      "es": {
+        "title": "Arizona renombra su estadio de fútbol americano 'Casino Del Sol Stadium' en un acuerdo de 20 años y más de 60 millones de dólares",
+        "summary": "La Universidad de Arizona y Casino Del Sol, una empresa de la tribu Pascua Yaqui, anunciaron una asociación de derechos de denominación a 20 años por más de 60 millones de dólares para Arizona Stadium, ahora llamado Casino Del Sol Stadium. Funcionarios del departamento deportivo lo calificaron como el mayor acuerdo de este tipo en la historia de la Big 12, e incluye nueva identidad de marca exterior e interior y una mayor presencia en las transmisiones."
+      },
+      "zh": {
+        "title": "亚利桑那大学签订20年、逾6000万美元协议，橄榄球场更名为“太阳赌场体育场”",
+        "summary": "亚利桑那大学与帕斯夸亚基部落旗下企业太阳赌场（Casino Del Sol）宣布达成为期20年、价值超过6000万美元的冠名合作，亚利桑那体育场自此更名为“太阳赌场体育场”。校方体育部门官员称这是Big 12联盟历史上规模最大的此类协议，内容包括场馆内外全新品牌形象及转播露出的扩大。"
+      },
+      "fr": {
+        "title": "Arizona renomme son stade de football américain « Casino Del Sol Stadium » dans un accord de 20 ans à plus de 60 millions de dollars",
+        "summary": "L'université d'Arizona et Casino Del Sol, une entreprise de la tribu Pascua Yaqui, ont annoncé un partenariat de droits de dénomination de 20 ans, d'une valeur de plus de 60 millions de dollars, pour l'Arizona Stadium, désormais appelé Casino Del Sol Stadium. Les responsables du département sportif ont qualifié cet accord du plus important de ce type dans l'histoire de la Big 12 Conference, incluant une nouvelle identité visuelle extérieure et intérieure ainsi qu'une intégration accrue dans les diffusions."
+      }
+    }
+  },
+  {
+    "id": "warriors-iren-jersey-patch-record-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-09-19T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/business/sponsorship/2026/warriors-sign-record-jersey-patch-deal-with-iren-1234937113/",
+    "i18n": {
+      "en": {
+        "title": "Warriors Sign Record-Setting $50M-a-Year Jersey Patch Deal With AI Firm Iren",
+        "summary": "The Golden State Warriors agreed to a multiyear jersey patch deal with AI cloud provider Iren worth more than $50 million per year, replacing Rakuten in what is reported to be the richest sponsorship agreement in North American team sports history. The partnership also extends to the WNBA's Golden State Valkyries and G League's Santa Cruz Warriors, and includes youth basketball and STEAM education programs in the Bay Area."
+      },
+      "ja": {
+        "title": "ウォリアーズ、AI企業アイレンと年間5000万ドル超の史上最高額ユニフォームパッチ契約を締結",
+        "summary": "ゴールデンステート・ウォリアーズは、AIクラウド企業アイレンと年間5000万ドル超の複数年ユニフォームパッチ契約に合意し、楽天に代わるスポンサーとなった。この契約は北米プロスポーツ史上最高額のスポンサー契約と報じられている。提携はWNBAのゴールデンステート・ヴァルキリーズやGリーグのサンタクルーズ・ウォリアーズにも及び、ベイエリアでの育成年代バスケットボールやSTEAM教育プログラムも含まれる。"
+      },
+      "es": {
+        "title": "Los Warriors firman un acuerdo récord de 50 millones de dólares al año por su parche de camiseta con la firma de IA Iren",
+        "summary": "Los Golden State Warriors acordaron un contrato plurianual de parche de camiseta con el proveedor de nube de IA Iren por más de 50 millones de dólares anuales, reemplazando a Rakuten en lo que se reporta como el acuerdo de patrocinio más lucrativo en la historia de los deportes de equipo norteamericanos. La alianza también se extiende a las Golden State Valkyries de la WNBA y a los Santa Cruz Warriors de la G League, e incluye programas de baloncesto juvenil y educación STEAM en el Área de la Bahía."
+      },
+      "zh": {
+        "title": "勇士队与AI公司Iren签订创纪录的年均5000万美元球衣广告合约",
+        "summary": "金州勇士队与人工智能云服务商Iren达成多年球衣广告合作协议，年均金额超过5000万美元，取代乐天成为新赞助商，据报道这是北美职业体育史上金额最高的赞助协议。该合作还延伸至WNBA金州勇士女篮以及G联赛圣克鲁斯勇士队，并包含面向湾区青少年篮球和STEAM教育的项目。"
+      },
+      "fr": {
+        "title": "Les Warriors signent un accord record de 50 millions de dollars par an pour leur patch de maillot avec l'entreprise d'IA Iren",
+        "summary": "Les Golden State Warriors ont conclu un accord pluriannuel de patch de maillot avec le fournisseur de cloud IA Iren, d'une valeur de plus de 50 millions de dollars par an, remplaçant Rakuten dans ce qui serait le contrat de sponsoring le plus lucratif de l'histoire des sports collectifs nord-américains. Le partenariat s'étend également aux Golden State Valkyries de la WNBA et aux Santa Cruz Warriors de la G League, et comprend des programmes de basketball jeunesse et d'éducation STEAM dans la région de la baie de San Francisco."
+      }
+    }
+  },
+  {
+    "id": "lakers-albert-jersey-patch-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-09-25T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/news/lakers-land-albert-as-new-jersey-sponsor-in-lucrative-deal/",
+    "i18n": {
+      "en": {
+        "title": "Lakers Land Financial App Albert as New Jersey Patch Sponsor, Replacing Bibigo",
+        "summary": "The Los Angeles Lakers announced personal financial assistant app Albert as their new jersey patch sponsor starting in the 2026-27 season, replacing Korean food brand Bibigo. A league source told ESPN the deal is worth more than $30 million annually, up from Bibigo's reported $20 million-per-year arrangement."
+      },
+      "ja": {
+        "title": "レイカーズ、新ユニフォームパッチスポンサーに金融アプリ「アルバート」起用、ビビゴから交代",
+        "summary": "ロサンゼルス・レイカーズは、2026-27シーズンから個人向け資産管理アプリ「アルバート」を新たなユニフォームパッチスポンサーに起用すると発表し、韓国系食品ブランドのビビゴと交代する。リーグ関係者がESPNに語ったところによると、契約額は年間3000万ドル超とされ、ビビゴの契約（年間約2000万ドルと報じられていた）から増額となる。"
+      },
+      "es": {
+        "title": "Los Lakers fichan a la app financiera Albert como nuevo patrocinador del parche de camiseta, en reemplazo de Bibigo",
+        "summary": "Los Lakers de Los Ángeles anunciaron a la aplicación de asistencia financiera personal Albert como su nuevo patrocinador del parche de camiseta a partir de la temporada 2026-27, en reemplazo de la marca de alimentos coreana Bibigo. Una fuente de la liga dijo a ESPN que el acuerdo vale más de 30 millones de dólares anuales, por encima de los aproximadamente 20 millones anuales que se reportaba para Bibigo."
+      },
+      "zh": {
+        "title": "湖人队签下理财应用Albert为新球衣广告赞助商，取代必品阁",
+        "summary": "洛杉矶湖人队宣布，个人理财助手应用Albert将从2026-27赛季起成为球队新的球衣广告赞助商，取代韩国食品品牌必品阁（Bibigo）。一位联盟消息人士告诉ESPN，该协议年价值超过3000万美元，高于此前必品阁据报道约2000万美元的年协议金额。"
+      },
+      "fr": {
+        "title": "Les Lakers signent avec l'application financière Albert comme nouveau sponsor du patch de maillot, en remplacement de Bibigo",
+        "summary": "Les Lakers de Los Angeles ont annoncé que l'application d'assistance financière personnelle Albert deviendrait leur nouveau sponsor du patch de maillot dès la saison 2026-27, remplaçant la marque alimentaire coréenne Bibigo. Une source de la ligue a indiqué à ESPN que l'accord valait plus de 30 millions de dollars par an, contre environ 20 millions annuels rapportés pour Bibigo."
+      }
+    }
+  },
+  {
+    "id": "utah-alkeme-helmet-sponsorship-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-01T00:00:00Z",
+    "source_name": "University of Utah Athletics",
+    "source_url": "https://utahutes.com/news/2026/9/1/general-utah-and-alkeme-insurance-announce-equipment-sponsorship",
+    "i18n": {
+      "en": {
+        "title": "Utah Football Adds ALKEME Insurance Logo to Helmets in Equipment-Only Sponsorship",
+        "summary": "Utah Athletics announced a multiyear partnership with ALKEME Insurance ahead of the 2026 season, placing the company's logo on the rear bumper of Utah football helmets. The deal is believed to be the first equipment-only sponsorship of its kind in the country, distinct from the program's separate jersey patch arrangement with University of Utah Health."
+      },
+      "ja": {
+        "title": "ユタ大学フットボール、装備限定スポンサー契約でヘルメットに保険会社ALKEMEのロゴ",
+        "summary": "ユタ大学athleticsは2026年シーズンを前に保険会社ALKEMEとの複数年提携を発表し、同社のロゴをユタ大学フットボールのヘルメット後部バンパーに掲出する。この契約は同種のものとしては全米初の「装備限定」スポンサー契約とみられ、大学医療機関ユニバーシティ・オブ・ユタ・ヘルスとの別途のユニフォームパッチ契約とは異なる。"
+      },
+      "es": {
+        "title": "El fútbol americano de Utah incorpora el logo de ALKEME Insurance en sus cascos en un patrocinio exclusivo de equipamiento",
+        "summary": "El departamento de deportes de Utah anunció una asociación plurianual con ALKEME Insurance antes de la temporada 2026, colocando el logo de la compañía en la parte trasera de los cascos del equipo de fútbol americano. Se cree que es el primer patrocinio exclusivo de equipamiento de este tipo en el país, distinto del acuerdo separado de parche de camiseta del programa con University of Utah Health."
+      },
+      "zh": {
+        "title": "犹他大学橄榄球队头盔加入ALKEME保险公司标志，达成装备专属赞助",
+        "summary": "犹他大学体育部在2026赛季开始前宣布与ALKEME保险公司达成多年合作，将该公司标志印在犹他大学橄榄球队头盔后部护垫上。据信这是美国同类协议中首个“仅限装备”的赞助合作，与该项目此前与犹他大学医疗中心（University of Utah Health）单独签订的球衣广告协议不同。"
+      },
+      "fr": {
+        "title": "Le football américain de l'Utah ajoute le logo d'ALKEME Insurance sur ses casques dans un partenariat exclusivement dédié à l'équipement",
+        "summary": "Le département sportif de l'Utah a annoncé un partenariat pluriannuel avec ALKEME Insurance avant la saison 2026, plaçant le logo de l'entreprise à l'arrière des casques de l'équipe de football américain. Cet accord serait le premier partenariat de ce type limité à l'équipement aux États-Unis, distinct de l'accord séparé de patch de maillot du programme avec University of Utah Health."
+      }
+    }
   }
 ]
