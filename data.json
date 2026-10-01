@@ -1,411 +1,5 @@
 [
   {
-    "id": "japannext-vamos-esports-sponsorship-2026",
-    "sport": "esports",
-    "region": "japan",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-07-02T00:00:00Z",
-    "source_name": "JAPANNEXT",
-    "source_url": "https://www.value-press.com/pressrelease/376644",
-    "i18n": {
-      "en": {
-        "title": "Monitor Maker JAPANNEXT Signs Sponsorship With Esports Team VAMOS",
-        "summary": "Display manufacturer JAPANNEXT has signed a sponsorship agreement with Japanese professional esports team VAMOS, adding to a growing roster of team partnerships for the gaming-monitor brand. The companies said the deal is aimed at creating new digital experiences for fans alongside the team's competitive activities."
-      },
-      "ja": {
-        "title": "モニターメーカーのJAPANNEXT、eスポーツチーム「VAMOS」とスポンサー契約締結",
-        "summary": "ディスプレイメーカーのJAPANNEXTは、国内のプロeスポーツチーム「VAMOS」とスポンサー契約を締結した。同社がゲーミングモニターブランドとして進めてきたチーム提携の一つに加わる形となる。両者は、チームの競技活動と合わせ、ファン向けの新たなデジタル体験創出を目指すとしている。"
-      },
-      "es": {
-        "title": "El fabricante de monitores JAPANNEXT firma un patrocinio con el equipo de esports VAMOS",
-        "summary": "El fabricante de pantallas JAPANNEXT firmó un acuerdo de patrocinio con el equipo profesional japonés de esports VAMOS, sumándose a una creciente lista de asociaciones con equipos de la marca de monitores para juegos. Las compañías indicaron que el acuerdo busca crear nuevas experiencias digitales para los aficionados junto con la actividad competitiva del equipo."
-      },
-      "zh": {
-        "title": "显示器厂商JAPANNEXT与电竞战队VAMOS签署赞助协议",
-        "summary": "显示器制造商JAPANNEXT与日本职业电竞战队VAMOS签署了赞助协议，进一步扩充了这家电竞显示器品牌不断增长的战队合作名单。双方表示，此次合作旨在结合战队的竞技活动，为粉丝打造全新的数字体验。"
-      },
-      "fr": {
-        "title": "Le fabricant d'écrans JAPANNEXT signe un partenariat avec l'équipe d'esport VAMOS",
-        "summary": "Le fabricant d'écrans JAPANNEXT a signé un accord de sponsoring avec l'équipe professionnelle japonaise d'esport VAMOS, s'ajoutant à une liste croissante de partenariats d'équipes pour cette marque d'écrans de jeu. Les entreprises indiquent que cet accord vise à créer de nouvelles expériences numériques pour les fans en parallèle des activités compétitives de l'équipe."
-      }
-    }
-  },
-  {
-    "id": "npb-nissan-home-run-derby-sponsor-2026",
-    "sport": "baseball",
-    "region": "japan",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-07-13T00:00:00Z",
-    "source_name": "NPB.jp",
-    "source_url": "https://npb.jp/news/detail/20260713_04.html",
-    "i18n": {
-      "en": {
-        "title": "Nissan Named Title Sponsor of NPB All-Star Home Run Derby",
-        "summary": "Nippon Professional Baseball named Nissan Motor as the title sponsor of the Home Run Derby at the 2026 Mynavi All-Star Game. The automaker will award the derby winner prize money and a new Nissan Kicks, continuing a multi-year sponsorship of the event."
-      },
-      "ja": {
-        "title": "日産自動車、NPBオールスター ホームランダービーの冠スポンサーに",
-        "summary": "日本野球機構は、2026年マイナビオールスターゲームのホームランダービーの冠スポンサーに日産自動車を選定したと発表した。同社は優勝者に賞金と新型日産キックスを贈呈し、複数年にわたる同イベントへの協賛を継続する。"
-      },
-      "es": {
-        "title": "Nissan se convierte en patrocinador titular del Home Run Derby de la NPB",
-        "summary": "La Liga Profesional de Béisbol de Japón (NPB) designó a Nissan Motor como patrocinador titular del Home Run Derby del Juego de Estrellas Mynavi 2026. La automotriz entregará al ganador un premio en efectivo y un nuevo Nissan Kicks, continuando su patrocinio plurianual del evento."
-      },
-      "zh": {
-        "title": "日产汽车成为NPB全明星本垄打大赛冠名赞助商",
-        "summary": "日本职业棒球组织（NPB）宣布日产汽车成为2026年Mynavi全明星赛全垄打大赛的冠名赞助商。该车企将向冠军颁发奖金及一辆全新日产Kicks，延续其对该赛事的多年赞助。"
-      },
-      "fr": {
-        "title": "Nissan devient sponsor titre du Home Run Derby du All-Star Game de la NPB",
-        "summary": "La ligue japonaise de baseball professionnel (NPB) a nommé Nissan Motor sponsor titre du Home Run Derby du Mynavi All-Star Game 2026. Le constructeur remettra au vainqueur une prime en argent et une nouvelle Nissan Kicks, prolongeant son partenariat pluriannuel avec l'événement."
-      }
-    }
-  },
-  {
-    "id": "jleague-regional-partner-barcon-hongkong-2026",
-    "sport": "soccer",
-    "region": "japan",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-07-14T00:00:00Z",
-    "source_name": "J.League",
-    "source_url": "https://www.jleague.jp/news/article/34428/",
-    "i18n": {
-      "en": {
-        "title": "J.League Launches Regional Partner Tier, Signs Hong Kong's Barcon",
-        "summary": "J.League announced a new \"Regional Partner\" category within its official partnership structure, aimed at expanding the league's business ties across Asia. Hong Kong travel-media company Barcon, which operates the LikeJapan platform, became the first club to sign under the new tier, covering e-commerce and inbound tourism promotion. The league framed the move as part of a strategy to \"win in Asia and compete globally.\""
-      },
-      "ja": {
-        "title": "Jリーグ、新「リージョナルパートナー」新設 香港バーコンと契約",
-        "summary": "Jリーグは公式パートナー制度内に新たな「Jリーグリージョナルパートナー」カテゴリーを新設し、アジアにおける事業連携の拡大を目指すと発表した。訪日情報メディア「LikeJapan」を運営する香港の旅行メディア企業バーコンが、この新カテゴリー第1号の契約企業となり、ECおよび訪日プロモーションでの連携を進める。リーグはこの動きを「アジアで勝ち、世界と戦う」戦略の一環と位置づけている。"
-      },
-      "es": {
-        "title": "J.League crea la categoría de Socio Regional y firma con la hongkonesa Barcon",
-        "summary": "J.League anunció una nueva categoría de \"Socio Regional\" dentro de su estructura oficial de patrocinios, orientada a ampliar los vínculos comerciales de la liga en Asia. La empresa de medios y viajes de Hong Kong Barcon, que opera la plataforma LikeJapan, se convirtió en la primera en firmar bajo esta nueva categoría, centrada en comercio electrónico y promoción del turismo receptivo. La liga describió el movimiento como parte de una estrategia para \"ganar en Asia y competir globalmente\"."
-      },
-      "zh": {
-        "title": "J联赛新设\"区域合作伙伴\"类别，与香港Barcon签约",
-        "summary": "J联赛宣布在其官方合作伙伴体系中新设\"区域合作伙伴\"类别，旨在拓展联赛在亚洲的商业联系。运营\"LikeJapan\"平台的香港旅游媒体公司Barcon成为首个签约该新类别的企业，合作内容涵盖电商及访日旅游推广。联赛将此举定位为\"制霸亚洲、走向世界\"战略的一部分。"
-      },
-      "fr": {
-        "title": "La J.League crée une catégorie « partenaire régional » et signe avec la hongkongaise Barcon",
-        "summary": "La J.League a annoncé la création d'une nouvelle catégorie de « partenaire régional » au sein de sa structure officielle de partenariats, visant à étendre les liens commerciaux de la ligue en Asie. La société hongkongaise de médias et voyages Barcon, qui exploite la plateforme LikeJapan, est devenue la première à signer sous cette nouvelle catégorie, axée sur le commerce électronique et la promotion touristique. La ligue a présenté cette initiative comme faisant partie d'une stratégie visant à « gagner en Asie et rivaliser à l'échelle mondiale »."
-      }
-    }
-  },
-  {
-    "id": "jleague-baacon-likejapan-hongkong-partner-2026",
-    "sport": "soccer",
-    "region": "japan",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-07-14T00:00:00Z",
-    "source_name": "J.League",
-    "source_url": "https://www.jleague.jp/en/news/article/34566/",
-    "i18n": {
-      "en": {
-        "title": "J.League Signs First-Ever Regional Partner Deal With Hong Kong's Baacon Inc.",
-        "summary": "J.League has signed a Regional Partnership agreement with Baacon Inc., operator of the LikeJapan media platform, marking the league's first deal under its newly created Regional Partner category. The tie-up is aimed at growing J.League's fan base and media reach in Hong Kong as the league pursues international expansion."
-      },
-      "ja": {
-        "title": "Ｊリーグ、香港Baacon Inc.と初のリージョナルパートナー契約を締結",
-        "summary": "Ｊリーグは、LikeJapanを運営する香港のBaacon Inc.とリージョナルパートナー契約を締結した。新設されたリージョナルパートナー制度における初の契約となり、香港におけるファン層拡大とメディア露出の強化を目指す。"
-      },
-      "es": {
-        "title": "La J.League firma su primer acuerdo de Socio Regional con la hongkonesa Baacon Inc.",
-        "summary": "La J.League firmó un acuerdo de Socio Regional con Baacon Inc., operadora de la plataforma mediática LikeJapan, el primero bajo su nueva categoría de Socios Regionales. La alianza busca ampliar la base de aficionados y la presencia mediática de la liga en Hong Kong como parte de su expansión internacional."
-      },
-      "zh": {
-        "title": "J联赛与香港Baacon Inc.签署首份地区合作伙伴协议",
-        "summary": "日本职业足球联赛（J联赛）与运营LikeJapan媒体平台的香港企业Baacon Inc.签署地区合作伙伴协议，这是该联赛新设立的地区合作伙伴类别下的首份协议。此举旨在借助国际化战略扩大联赛在香港的球迷基础和媒体曝光度。"
-      },
-      "fr": {
-        "title": "La J.League signe son tout premier accord de Partenaire Régional avec la hongkongaise Baacon Inc.",
-        "summary": "La J.League a signé un accord de Partenaire Régional avec Baacon Inc., l'exploitant de la plateforme média LikeJapan, son tout premier contrat dans cette nouvelle catégorie. Ce partenariat vise à développer la base de supporters et la visibilité médiatique de la ligue à Hong Kong dans le cadre de son expansion internationale."
-      }
-    }
-  },
-  {
-    "id": "raxus-wbsc-global-sponsor-2029",
-    "sport": "baseball",
-    "region": "japan",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-07-16T00:00:00Z",
-    "source_name": "Baseball King",
-    "source_url": "https://baseballking.jp/ns/701619/",
-    "i18n": {
-      "en": {
-        "title": "Japanese Fintech Firm Raxus Becomes WBSC Global Sponsor Through 2029",
-        "summary": "Japan's Raxus Inc. signed a global sponsorship agreement with the World Baseball Softball Confederation running through 2029, covering flagship events including the Premier12 and the Asia Professional Baseball Championship. Multiple WBSC tournaments will carry the Raxus name, extending the company's existing ties to Japanese baseball."
-      },
-      "ja": {
-        "title": "ラグザス、WBSCと2029年までのグローバルスポンサー契約を締結",
-        "summary": "日本のラグザス株式会社は、世界野球ソフトボール連盟（WBSC）と2029年までのグローバルスポンサー契約を締結したと発表した。プレミア12やアジアプロ野球チャンピオンシップなど主要大会が対象となり、複数のWBSC主催大会でラグザスの名を冠した大会名称が用いられる。"
-      },
-      "es": {
-        "title": "La firma financiera japonesa Raxus se convierte en patrocinador global de la WBSC hasta 2029",
-        "summary": "La empresa japonesa Raxus Inc. firmó un acuerdo de patrocinio global con la Confederación Mundial de Béisbol y Softbol (WBSC) vigente hasta 2029, que abarca torneos insignia como el Premier12 y el Campeonato Asiático de Béisbol Profesional. Varios torneos de la WBSC llevarán el nombre de Raxus, ampliando los vínculos existentes de la compañía con el béisbol japonés."
-      },
-      "zh": {
-        "title": "日本金融科技公司Raxus成为WBSC全球赞助商，合约至2029年",
-        "summary": "日本Raxus株式会社宣布与世界棒垒球总会（WBSC）签署全球赞助协议，合约期至2029年，涵盖超级12强赛及亚洲职业棒球冠军赛等旗舰赛事。多项WBSC主办赛事将冠以Raxus之名，进一步扩展该公司与日本棒球的既有联系。"
-      },
-      "fr": {
-        "title": "La société financière japonaise Raxus devient sponsor mondial de la WBSC jusqu'en 2029",
-        "summary": "L'entreprise japonaise Raxus Inc. a signé un accord de sponsoring mondial avec la Confédération mondiale de baseball et softball (WBSC) valable jusqu'en 2029, couvrant des événements phares comme le Premier12 et le Championnat professionnel de baseball d'Asie. Plusieurs tournois de la WBSC porteront le nom de Raxus, renforçant les liens existants de l'entreprise avec le baseball japonais."
-      }
-    }
-  },
-  {
-    "id": "clickhouse-fulham-principal-partner-2026",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "team"
-    ],
-    "published_at": "2026-07-21T00:00:00Z",
-    "source_name": "Fulham FC",
-    "source_url": "https://www.fulhamfc.com/news/2026/july/21/clickhouse-announced/",
-    "i18n": {
-      "en": {
-        "title": "Fulham Names ClickHouse as Principal Partner and Shirt Sponsor",
-        "summary": "Fulham Football Club announced real-time analytics and AI company ClickHouse as its new Principal Partner and Men's First Team front-of-shirt sponsor for the 2026-27 season. The multi-year deal also puts ClickHouse branding across Craven Cottage and the club's digital and matchday fan experiences."
-      },
-      "ja": {
-        "title": "フルアム、ClickHouseを新プリンシパルパートナー兼ユニフォームスポンサーに指名",
-        "summary": "フルアム・フットボール・クラブは、リアルタイム分析・AI企業のClickHouseを2026-27シーズンの新たなプリンシパルパートナー兼トップチームのユニフォームスポンサーに指名したと発表した。複数年契約により、本拠地クレイヴン・コテージや同クラブのデジタル施策、試合日のファン体験にもClickHouseのブランドが露出される。"
-      },
-      "es": {
-        "title": "Fulham nombra a ClickHouse socio principal y patrocinador de camiseta",
-        "summary": "El Fulham Football Club anunció a ClickHouse, empresa de análisis de datos en tiempo real e inteligencia artificial, como su nuevo Socio Principal y patrocinador principal de la camiseta del primer equipo masculino para la temporada 2026-27. El acuerdo plurianual también llevará la marca ClickHouse a Craven Cottage y a las experiencias digitales y de matchday del club."
-      },
-      "zh": {
-        "title": "富勒姆宣布ClickHouse为首席合作伙伴及球衣赞助商",
-        "summary": "富勒姆足球俱乐部宣布，实时数据分析与人工智能企业ClickHouse将成为球队2026-27赛季的新任首席合作伙伴及一线队球衣胸前赞助商。这项多年协议还将把ClickHouse的品牌植入克拉文农场球场及俱乐部的数字化和比赛日球迷体验中。"
-      },
-      "fr": {
-        "title": "Fulham nomme ClickHouse partenaire principal et sponsor maillot",
-        "summary": "Le Fulham Football Club a annoncé que ClickHouse, entreprise spécialisée dans l'analyse de données en temps réel et l'intelligence artificielle, devient son nouveau partenaire principal et sponsor maillot de l'équipe première masculine pour la saison 2026-27. Cet accord pluriannuel place également la marque ClickHouse à Craven Cottage ainsi que dans les expériences numériques et les jours de match du club."
-      }
-    }
-  },
-  {
-    "id": "boldhaven-manchester-united-stake-disclosure",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "biz",
-      "team"
-    ],
-    "published_at": "2026-07-21T00:00:00Z",
-    "source_name": "Sportico",
-    "source_url": "https://www.sportico.com/leagues/soccer/2026/manchester-united-stake-boldhaven-1234939717/",
-    "i18n": {
-      "en": {
-        "title": "UK Investment Firm Boldhaven Discloses 5.6% Stake in Manchester United",
-        "summary": "London-based Boldhaven Management disclosed beneficial ownership of about 3.1 million Class A shares of Manchester United plc, equal to 5.6% of that share class, in a Schedule 13G filing with US regulators. The firm holds the shares on behalf of clients, with no single client owning more than 5% individually."
-      },
-      "ja": {
-        "title": "英投資会社ボールドヘイブンがマンチェスター・ユナイテッド株5.6%を保有と開示",
-        "summary": "ロンドンの投資会社ボールドヘイブン・マネジメントは、米当局へのスケジュール13G申請で、マンチェスター・ユナイテッドのクラスA株約310万株、同株式区分の5.6%相当を実質保有していると開示した。同社は複数の顧客の資産として株式を保有しており、単独で5%を超える顧客はいないとされる。"
-      },
-      "es": {
-        "title": "La firma británica Boldhaven revela una participación del 5,6% en el Manchester United",
-        "summary": "La gestora londinense Boldhaven Management reveló la titularidad efectiva de unas 3,1 millones de acciones Clase A del Manchester United plc, equivalentes al 5,6% de esa clase de acciones, en una presentación del Anexo 13G ante el regulador estadounidense. La firma mantiene las acciones en nombre de clientes, ninguno de los cuales posee individualmente más del 5%."
-      },
-      "zh": {
-        "title": "英国投资公司Boldhaven披露持有曼联5.6%股份",
-        "summary": "总部位于伦敦的Boldhaven Management公司在向美国监管机构提交的13G表格中披露，其实益持有曼联约310万股A类股票，占该类股份的5.6%。该公司代表多名客户持有这些股票，且没有单一客户持股比例超过5%。"
-      },
-      "fr": {
-        "title": "La société britannique Boldhaven révèle détenir 5,6 % du Manchester United",
-        "summary": "La société de gestion londonienne Boldhaven Management a déclaré détenir à titre bénéficiaire environ 3,1 millions d'actions de catégorie A de Manchester United plc, soit 5,6 % de cette catégorie d'actions, dans un dépôt Schedule 13G auprès du régulateur américain. La société détient ces actions pour le compte de clients, dont aucun ne possède individuellement plus de 5 %."
-      }
-    }
-  },
-  {
-    "id": "vanderbilt-srm-concrete-jersey-patch-2026",
-    "sport": "general",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "team"
-    ],
-    "published_at": "2026-07-21T00:00:00Z",
-    "source_name": "Vanderbilt Commodores",
-    "source_url": "https://vucommodores.com/news/2026/07/21/vanderbilt-athletics-and-srm-concrete-expand-foundational-partnership-with-all-sports-jersey-patch",
-    "i18n": {
-      "en": {
-        "title": "Vanderbilt Signs All-Sports Jersey Patch Deal with SRM Concrete",
-        "summary": "Vanderbilt Athletics has struck a multi-year jersey patch agreement with regional builder SRM Concrete, covering all 17 of the university's varsity programs starting with the 2026-27 athletic year. The arrangement, brokered by Learfield, makes SRM the third jersey patch sponsor among Southeastern Conference schools, following Arkansas and LSU."
-      },
-      "ja": {
-        "title": "ヴァンダービルト大学、SRMコンクリートと全競技対象のユニフォームパッチ契約",
-        "summary": "ヴァンダービルト大学のアスレチック局は、地域の建設会社SRMコンクリートと複数年契約を締結し、2026-27年度から大学の全17競技のユニフォームにロゴを掲出する。仲介はLearfieldが担当し、同社はアーカンソー、LSUに続きSECで3校目のユニフォームパッチ契約企業となった。"
-      },
-      "es": {
-        "title": "Vanderbilt firma un acuerdo de parche en camiseta para todos sus deportes con SRM Concrete",
-        "summary": "El departamento de atletismo de Vanderbilt cerró un acuerdo plurianual con la constructora regional SRM Concrete para colocar su logo en los uniformes de los 17 programas universitarios a partir del curso 2026-27. El trato, negociado por Learfield, convierte a SRM en el tercer patrocinador de este tipo en la SEC, tras Arkansas y LSU."
-      },
-      "zh": {
-        "title": "范德堡大学与SRM混凝土公司签署全项目球衣广告协议",
-        "summary": "范德堡大学体育部与地区建筑企业SRM混凝土公司达成多年协议，从2026-27学年起该公司标志将出现在校内全部17支校队的球衣上。此次交易由Learfield牵线促成，使SRM成为继阿肯色大学和路易斯安那州立大学之后，东南联盟第三家获得此类球衣赞助权的企业。"
-      },
-      "fr": {
-        "title": "Vanderbilt signe un accord de sponsoring maillot pour tous ses sports avec SRM Concrete",
-        "summary": "Le département sportif de Vanderbilt a conclu un accord pluriannuel avec l'entreprise de construction régionale SRM Concrete, dont le logo apparaîtra sur les maillots des 17 équipes universitaires dès la saison 2026-27. Négocié par Learfield, cet accord fait de SRM le troisième sponsor de ce type dans la conférence SEC, après Arkansas et LSU."
-      }
-    }
-  },
-  {
-    "id": "como-1907-revolut-front-of-shirt-2026",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-07-27T00:00:00Z",
-    "source_name": "Como 1907",
-    "source_url": "https://comofootball.com/en/revolut-becomes-como-1907-s-official-front-of-shirt-partner/",
-    "i18n": {
-      "en": {
-        "title": "Como 1907 Upgrades Revolut to Front-of-Shirt Partner Ahead of Champions League Debut",
-        "summary": "Serie A club Como 1907 has elevated fintech firm Revolut from banking partner to front-of-shirt sponsor starting with the 2026-27 season. The upgraded deal coincides with Como's first-ever appearance in the UEFA Champions League, giving Revolut prime visibility on the European stage."
-      },
-      "ja": {
-        "title": "コモ1907、チャンピオンズリーグ初出場を前にレヴォルートをメインスポンサーに昇格",
-        "summary": "セリエAのコモ1907は、これまでの銀行パートナーだったフィンテック企業レヴォルートを2026-27シーズンからユニフォームの胸スポンサーに格上げした。今回の契約はクラブ史上初のUEFAチャンピオンズリーグ出場と重なり、レヴォルートは欧州の大舞台で高い露出を得ることになる。"
-      },
-      "es": {
-        "title": "Como 1907 asciende a Revolut a patrocinador principal antes de su debut en la Champions",
-        "summary": "El club de la Serie A Como 1907 ha elevado a la firma fintech Revolut de socio bancario a patrocinador principal de la camiseta a partir de la temporada 2026-27. El acuerdo ampliado coincide con la primera participación del Como en la Liga de Campeones de la UEFA, dando a Revolut una gran visibilidad en el escenario europeo."
-      },
-      "zh": {
-        "title": "科莫1907队将Revolut升级为胸前主赞助商，迎接欧冠首秀",
-        "summary": "意甲球队科莫1907宣布，从2026-27赛季起将金融科技公司Revolut由银行合作伙伴升级为球衣胸前主赞助商。此次升级恰逢球队历史上首次晋级欧洲冠军联赛，令Revolut在欧洲赛场获得更高曝光度。"
-      },
-      "fr": {
-        "title": "Como 1907 promeut Revolut au rang de sponsor principal avant ses débuts en Ligue des champions",
-        "summary": "Le club de Serie A Como 1907 a promu la fintech Revolut, jusque-là partenaire bancaire, au rang de sponsor principal du maillot dès la saison 2026-27. Cet accord renforcé coïncide avec la toute première participation du club à la Ligue des champions de l'UEFA, offrant à Revolut une grande visibilité sur la scène européenne."
-      }
-    }
-  },
-  {
-    "id": "chicago-fire-boldyn-networks-mcdonalds-park",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "tech",
-      "stadium"
-    ],
-    "published_at": "2026-07-27T00:00:00Z",
-    "source_name": "PR Newswire",
-    "source_url": "https://www.prnewswire.com/news-releases/chicago-fire-fc-taps-mls-supplier-boldyn-networks-to-realize-its-vision-for-mcdonalds-park-302834418.html",
-    "i18n": {
-      "en": {
-        "title": "Chicago Fire FC Selects Boldyn Networks for McDonald's Park Connectivity",
-        "summary": "Chicago Fire FC has tapped Boldyn Networks, MLS's official connectivity supplier, to design and deploy a converged neutral-host 5G distributed antenna system and Wi-Fi network at its new home, McDonald's Park. The project extends Boldyn's league-wide role providing venue connectivity across MLS stadiums."
-      },
-      "ja": {
-        "title": "シカゴ・ファイアーFC、マクドナルズ・パークの通信網整備にBoldyn Networksを起用",
-        "summary": "シカゴ・ファイアーFCは、MLSの公式通信インフラ供給元であるBoldyn Networksを新本拠地マクドナルズ・パークの通信整備パートナーに起用した。中立ホスト型の5G分散アンテナシステムとWi-Fiネットワークを設計・導入する計画で、MLS全体で施設の通信環境を支えるBoldynの役割を拡大するものとなる。"
-      },
-      "es": {
-        "title": "Chicago Fire FC elige a Boldyn Networks para la conectividad de McDonald's Park",
-        "summary": "El Chicago Fire FC contrató a Boldyn Networks, el proveedor oficial de conectividad de la MLS, para diseñar e implementar un sistema de antenas distribuidas 5G de host neutral y una red Wi-Fi convergentes en su nuevo estadio, McDonald's Park. El proyecto amplía el papel de Boldyn como proveedor de conectividad en los estadios de toda la liga."
-      },
-      "zh": {
-        "title": "芝加哥火焰队选定Boldyn Networks负责麦当劳公园联网建设",
-        "summary": "芝加哥火焰队聘请MLS官方联网供应商Boldyn Networks，为其新主场麦当劳公园设计并部署中立主机型5G分布式天线系统及Wi-Fi网络。该项目进一步扩大了Boldyn在整个MLS联盟场馆联网服务中的角色。"
-      },
-      "fr": {
-        "title": "Le Chicago Fire FC choisit Boldyn Networks pour la connectivité du McDonald's Park",
-        "summary": "Le Chicago Fire FC a fait appel à Boldyn Networks, fournisseur officiel de connectivité de la MLS, pour concevoir et déployer un système d'antennes distribuées 5G neutre et un réseau Wi-Fi convergents dans son nouveau stade, le McDonald's Park. Ce projet élargit le rôle de Boldyn en tant que fournisseur de connectivité dans les stades de toute la ligue."
-      }
-    }
-  },
-  {
-    "id": "ohio-state-jpmorganchase-jersey-patch",
-    "sport": "football",
-    "region": "global",
-    "topics": [
-      "team",
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-07-28T00:00:00Z",
-    "source_name": "ESPN",
-    "source_url": "https://www.espn.com/college-sports/story/_/id/49469951/ohio-state-jpmorganchase-reach-lucrative-jersey-patch-deal",
-    "i18n": {
-      "en": {
-        "title": "Ohio State Signs Record Jersey Patch Deal With JPMorganChase",
-        "summary": "Ohio State agreed to a multi-year jersey patch partnership with JPMorganChase reported to be worth roughly $17 million annually across all 36 of its varsity programs. The pact also makes Chase presenting sponsor of a stadium hospitality club and includes NIL and financial-education opportunities for athletes, making Ohio State the fourth Big Ten school with a patch deal."
-      },
-      "ja": {
-        "title": "オハイオ州立大学、JPモルガン・チェースと過去最高額のジャージーパッチ契約",
-        "summary": "オハイオ州立大学はJPモルガン・チェースと複数年契約を結び、全36の運動部を対象に年間約1700万ドル規模とされるジャージーパッチ協賛を獲得した。契約にはスタジアム内クラブの冠協賛や選手向けのNIL・金融教育プログラムも含まれ、ビッグテンで4校目のパッチ契約となる。"
-      },
-      "es": {
-        "title": "Ohio State firma un acuerdo récord de parche en la camiseta con JPMorganChase",
-        "summary": "Ohio State llegó a un acuerdo plurianual con JPMorganChase por un parche en la camiseta valorado en unos 17 millones de dólares al año para sus 36 programas deportivos. El pacto también convierte a Chase en patrocinador de un club dentro del estadio e incluye oportunidades de NIL y educación financiera para los atletas."
-      },
-      "zh": {
-        "title": "俄亥俄州立大学与摩根大通签订创纪录球衣广告协议",
-        "summary": "俄亥俄州立大学与摩根大通签署多年协议，据报道该球衣广告合作每年价值约1700万美元，覆盖其36个校队项目。协议还包括体育场内俱乐部的冠名赞助，以及为运动员提供的NIL和金融教育机会，使俄亥俄州立成为大十联盟第四所达成此类协议的学校。"
-      },
-      "fr": {
-        "title": "Ohio State signe un accord record de sponsoring maillot avec JPMorganChase",
-        "summary": "Ohio State a conclu un partenariat pluriannuel avec JPMorganChase pour un patch sur le maillot évalué à environ 17 millions de dollars par an pour ses 36 programmes universitaires. L'accord fait aussi de Chase le sponsor présentateur d'un club au sein du stade et prévoit des opportunités NIL et d'éducation financière pour les athlètes."
-      }
-    }
-  },
-  {
-    "id": "notre-dame-sofi-jersey-patch-2026",
-    "sport": "football",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-07-28T00:00:00Z",
-    "source_name": "ESPN",
-    "source_url": "https://www.espn.com/college-football/story/_/id/49471461/notre-dame-passes-ohio-state-richest-patch-deal",
-    "i18n": {
-      "en": {
-        "title": "Notre Dame Signs Record $20 Million Jersey Patch Deal With SoFi",
-        "summary": "Notre Dame announced a six-year sponsorship agreement with SoFi Technologies worth roughly $20 million annually, making SoFi the first non-apparel company to appear on Fighting Irish uniforms. The deal reportedly surpasses Ohio State's earlier patch agreement with JPMorgan Chase as the richest in college sports."
-      },
-      "ja": {
-        "title": "ノートルダム大学、SoFiと年間約2000万ドルの記録的ユニフォームパッチ契約",
-        "summary": "ノートルダム大学は金融テクノロジー企業SoFiと6年間、年間約2000万ドル規模のスポンサー契約を発表し、SoFiはアパレル以外の企業として初めてファイティング・アイリッシュのユニフォームに広告を掲出する。この契約はオハイオ州立大学とJPモルガン・チェースの先行契約を上回り、大学スポーツ史上最高額とされる。"
-      },
-      "es": {
-        "title": "Notre Dame firma un histórico acuerdo de parche de camiseta de 20 millones de dólares con SoFi",
-        "summary": "Notre Dame anunció un acuerdo de patrocinio de seis años con la empresa de tecnología financiera SoFi por unos 20 millones de dólares anuales, convirtiendo a SoFi en la primera empresa no deportiva en aparecer en los uniformes de los Fighting Irish. El acuerdo superaría al de Ohio State con JPMorgan Chase como el más lucrativo en el deporte universitario."
-      },
-      "zh": {
-        "title": "圣母大学与SoFi签署价值2000万美元的历史性球衣广告合约",
-        "summary": "圣母大学宣布与金融科技公司SoFi达成为期六年、每年约2000万美元的赞助协议，SoFi也成为首家出现在圣母队球衣上的非服装类企业。据报道，该合约金额超过俄亥俄州立大学与摩根大通此前签订的协议，创下大学体育界纪录。"
-      },
-      "fr": {
-        "title": "Notre Dame signe un accord record de 20 millions de dollars avec SoFi pour un écusson sur le maillot",
-        "summary": "Notre Dame a annoncé un partenariat de six ans avec l'entreprise de technologie financière SoFi, d'une valeur d'environ 20 millions de dollars par an, faisant de SoFi la première entreprise hors équipementier à figurer sur les maillots des Fighting Irish. Cet accord dépasserait celui d'Ohio State avec JPMorgan Chase comme le plus lucratif du sport universitaire."
-      }
-    }
-  },
-  {
     "id": "jleague-fantasy-card-mynet-2026-27-edition1",
     "sport": "soccer",
     "region": "japan",
@@ -436,73 +30,6 @@
       "fr": {
         "title": "Mynet lance l'édition saison 2026/27 de l'application officielle J.League Fantasy Card",
         "summary": "Le développeur de jeux mobiles Mynet a lancé l'édition saison 2026/27 de « J.LEAGUE FANTASY CARD », son application officielle de cartes à collectionner et de fantasy sport basée sur les joueurs de J.League. Ce service gratuit permet aux supporters de collectionner des cartes numériques de joueurs dont la valeur évolue selon les performances réelles en match, comme les buts et les passes décisives."
-      }
-    }
-  },
-  {
-    "id": "jameson-nfl-spirits-sponsor-2026",
-    "sport": "football",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-07-30T00:00:00Z",
-    "source_name": "The Spirits Business",
-    "source_url": "https://www.thespiritsbusiness.com/2026/07/jameson-teams-up-with-nfl/",
-    "i18n": {
-      "en": {
-        "title": "Jameson Replaces Diageo as NFL's Official Spirits Sponsor",
-        "summary": "Pernod Ricard's Jameson Irish Whiskey signed a multiyear deal worth roughly $20 million a year to become the NFL's official spirits sponsor, taking over from Diageo. The brand will anchor the Super Bowl Tailgate Concert and appear across four of the league's international games this season."
-      },
-      "ja": {
-        "title": "ジェムソン、NFL公式スピリッツスポンサーにディアジオから交代",
-        "summary": "ペルノ・リカール傘下のアイリッシュウイスキー「ジェムソン」は、年間約2000万ドル規模の複数年契約を結び、ディアジオに代わってNFLの公式スピリッツスポンサーとなった。同ブランドはスーパーボウルのテールゲート・コンサートを主軸に、今シーズンの国際戦4試合でも展開される。"
-      },
-      "es": {
-        "title": "Jameson sustituye a Diageo como patrocinador oficial de licores de la NFL",
-        "summary": "El whisky irlandés Jameson, de Pernod Ricard, firmó un acuerdo plurianual valorado en unos 20 millones de dólares al año para convertirse en el patrocinador oficial de licores de la NFL, relevando a Diageo. La marca será el eje del concierto previo al Super Bowl y estará presente en cuatro de los partidos internacionales de la liga esta temporada."
-      },
-      "zh": {
-        "title": "杰美森取代帝亚吉欧成为NFL官方烈酒赞助商",
-        "summary": "保乐力加旗下爱尔兰威士忌品牌杰美森签署了一份价值约每年2000万美元的多年协议，接替帝亚吉欧成为NFL官方烈酒赞助商。该品牌将主导超级碗前的尾门派对音乐会，并出现在本赛季联盟四场国际赛事中。"
-      },
-      "fr": {
-        "title": "Jameson remplace Diageo comme sponsor officiel des spiritueux de la NFL",
-        "summary": "Le whisky irlandais Jameson, propriété de Pernod Ricard, a signé un accord pluriannuel d'environ 20 millions de dollars par an pour devenir le sponsor officiel des spiritueux de la NFL, succédant à Diageo. La marque sera au cœur du concert du Tailgate du Super Bowl et apparaîtra lors de quatre matchs internationaux de la ligue cette saison."
-      }
-    }
-  },
-  {
-    "id": "drx-singapore-exchange-esports-listing-2026",
-    "sport": "esports",
-    "region": "global",
-    "topics": [
-      "biz"
-    ],
-    "published_at": "2026-07-30T00:00:00Z",
-    "source_name": "Esports Advocate",
-    "source_url": "https://esportsadvocate.net/2026/07/drx-reportedly-revives-ipo-ambitions-with-singapore-listing-plan/",
-    "i18n": {
-      "en": {
-        "title": "South Korean Esports Org DRX Reportedly Preparing Singapore Exchange Listing",
-        "summary": "South Korean esports organization DRX is said to be preparing a preliminary application to list on the Singapore Exchange, according to Korean financial media reports. A successful listing would make DRX the first Korean esports club, and one of the first professional sports organizations in the country, to go public."
-      },
-      "ja": {
-        "title": "韓国のeスポーツ組織DRX、シンガポール取引所への上場を準備か",
-        "summary": "韓国の金融メディアの報道によると、eスポーツ組織DRXがシンガポール証券取引所への上場に向けた予備申請を準備しているという。上場が実現すれば、韓国のeスポーツクラブとして初、同国のプロスポーツ団体としても異例の株式公開となる。"
-      },
-      "es": {
-        "title": "La organización surcoreana de esports DRX prepararía su cotización en la Bolsa de Singapur",
-        "summary": "Según medios financieros surcoreanos, la organización de esports DRX estaría preparando una solicitud preliminar para cotizar en la Bolsa de Valores de Singapur. Una salida a bolsa exitosa convertiría a DRX en el primer club de esports surcoreano, y una de las primeras organizaciones deportivas profesionales del país, en cotizar públicamente."
-      },
-      "zh": {
-        "title": "韩国电竞组织DRX据报正筹备新加坡交易所上市",
-        "summary": "据韩国财经媒体报道，韩国电竞组织DRX正在筹备向新加坡证券交易所提交初步上市申请。若成功上市，DRX将成为韩国首家上市的电竞俱乐部，也是该国最早上市的职业体育组织之一。"
-      },
-      "fr": {
-        "title": "L'organisation d'esport sud-coréenne DRX préparerait une cotation à la Bourse de Singapour",
-        "summary": "Selon des médias financiers sud-coréens, l'organisation d'esport DRX préparerait une demande préliminaire de cotation à la Bourse de Singapour. Une introduction en bourse réussie ferait de DRX le premier club d'esport sud-coréen, et l'une des premières organisations sportives professionnelles du pays, à être coté."
       }
     }
   },
@@ -6431,40 +5958,6 @@
     }
   },
   {
-    "id": "usf-bulls-tampa-general-hospital-jersey-patch-2026",
-    "sport": "football",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "team"
-    ],
-    "published_at": "2026-04-08T00:00:00Z",
-    "source_name": "USF Athletics",
-    "source_url": "https://gousfbulls.com/news/2026/4/8/football-usf-athletics-announces-landmark-jersey-partnership-with-tampa-general-hospital",
-    "i18n": {
-      "en": {
-        "title": "USF Football Adds Tampa General Hospital as Jersey Patch Sponsor",
-        "summary": "University of South Florida athletics signed a multiyear deal making Tampa General Hospital the football program's first jersey patch sponsor, extending a healthcare partnership that dates back more than two decades. The hospital's logo appeared on Bulls uniforms starting with the team's 2026 season opener, and it continues as the exclusive medical provider across USF's 21 varsity sports."
-      },
-      "ja": {
-        "title": "USFフットボール、タンパ・ジェネラル病院とユニフォームパッチスポンサー契約",
-        "summary": "サウスフロリダ大学（USF）のアスレチック部門は、タンパ・ジェネラル病院とフットボールチーム初となるユニフォームパッチのスポンサー契約を複数年契約で締結した。両者は20年以上にわたり医療パートナーシップを続けてきた関係にある。同病院のロゴは2026年シーズン開幕戦からブルズのユニフォームに登場し、同病院はUSFの21の体育会競技全体で公式医療提供機関を務め続ける。"
-      },
-      "es": {
-        "title": "USF Football ficha a Tampa General Hospital como patrocinador del parche en la camiseta",
-        "summary": "El departamento de atletismo de la Universidad del Sur de Florida (USF) firmó un acuerdo plurianual que convierte a Tampa General Hospital en el primer patrocinador del parche de la camiseta del equipo de fútbol americano, ampliando una alianza sanitaria que se remonta a más de dos décadas. El logotipo del hospital apareció en los uniformes de los Bulls desde el partido inaugural de la temporada 2026, y la institución sigue siendo el proveedor médico exclusivo de los 21 deportes universitarios de USF."
-      },
-      "zh": {
-        "title": "南佛罗里达大学橄榄球队与坦帕综合医院签订球衣贴标赞助协议",
-        "summary": "南佛罗里达大学（USF）体育部与坦帕综合医院签署多年协议，使该医院成为橄榄球队首个球衣贴标赞助商，双方的医疗合作关系已持续二十多年。该医院的标志自2026赛季揭幕战起出现在公牛队球衣上，并将继续担任USF全部21支校队运动项目的官方医疗合作机构。"
-      },
-      "fr": {
-        "title": "USF Football s'associe à Tampa General Hospital comme sponsor de son écusson de maillot",
-        "summary": "Le département sportif de l'université de South Florida (USF) a signé un accord pluriannuel faisant de Tampa General Hospital le premier sponsor d'écusson de maillot du programme de football américain, prolongeant un partenariat médical vieux de plus de vingt ans. Le logo de l'hôpital est apparu sur les maillots des Bulls dès le match d'ouverture de la saison 2026, l'établissement restant le prestataire médical exclusif des 21 équipes universitaires d'USF."
-      }
-    }
-  },
-  {
     "id": "england-rugby-lloyds-back-of-shirt-sponsor-2026",
     "sport": "general",
     "region": "global",
@@ -6498,72 +5991,6 @@
     }
   },
   {
-    "id": "rcb-nothing-title-sponsor-ipl-2026",
-    "sport": "general",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-02-03T00:00:00Z",
-    "source_name": "afaqs!",
-    "source_url": "https://www.afaqs.com/news/mktg/rcb-announces-nothing-as-title-sponsor-ahead-of-t20-2026-11069723",
-    "i18n": {
-      "en": {
-        "title": "Royal Challengers Bengaluru Names Nothing as Title Sponsor for 2026",
-        "summary": "Indian Premier League franchise Royal Challengers Bengaluru confirmed consumer tech brand Nothing as its title sponsor for the 2026 T20 season, extending their partnership after RCB's first championship in 2025. The two-season agreement builds on Nothing's prior backing of the club and will see its branding featured prominently on team kit and marketing."
-      },
-      "ja": {
-        "title": "RCB、2026年シーズンのタイトルスポンサーにNothingを起用",
-        "summary": "インド・プレミアリーグ（IPL）のロイヤル・チャレンジャーズ・ベンガルールは、2025年シーズンの初優勝を受けて、家電ブランドのNothingを2026年T20シーズンのタイトルスポンサーとして起用すると発表した。2シーズンにわたる契約で、これまでのNothingによるチーム支援関係を拡大するものとなり、同ブランドのロゴはユニフォームやマーケティング活動で大きく扱われる予定。"
-      },
-      "es": {
-        "title": "Royal Challengers Bengaluru nombra a Nothing como patrocinador principal para 2026",
-        "summary": "El equipo de la Liga Premier de India (IPL) Royal Challengers Bengaluru confirmó a la marca de tecnología de consumo Nothing como su patrocinador principal para la temporada T20 de 2026, ampliando su alianza tras el primer título del club en 2025. El acuerdo, que cubre dos temporadas, refuerza el respaldo previo de Nothing al club y su logotipo tendrá gran protagonismo en la equipación y el marketing del equipo."
-      },
-      "zh": {
-        "title": "IPL冠军皇家挑战者班加罗尔宣布Nothing为2026赛季冠名赞助商",
-        "summary": "印度板球超级联赛（IPL）球队皇家挑战者班加罗尔宣布，消费电子品牌Nothing将成为其2026年T20赛季的冠名赞助商，此举是在球队2025赛季首次夺冠后对双方合作的延续和扩大。这份为期两个赛季的协议建立在Nothing此前对球队的赞助基础上，其品牌标识将在球队球衣和营销活动中占据显著位置。"
-      },
-      "fr": {
-        "title": "Les Royal Challengers Bengaluru nomment Nothing sponsor titre pour 2026",
-        "summary": "La franchise de l'Indian Premier League (IPL) Royal Challengers Bengaluru a confirmé que la marque technologique Nothing devient son sponsor titre pour la saison T20 2026, prolongeant leur partenariat après le premier titre du club en 2025. Cet accord portant sur deux saisons élargit le soutien déjà apporté par Nothing au club, dont le logo figurera en évidence sur le maillot et dans les campagnes marketing de l'équipe."
-      }
-    }
-  },
-  {
-    "id": "punjab-kings-cp-plus-title-sponsor-ipl-2026",
-    "sport": "general",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-02-19T00:00:00Z",
-    "source_name": "The Tribune",
-    "source_url": "https://www.tribuneindia.com/news/sports/punjab-kings-announces-cp-plus-as-new-title-sponsor-for-ipl-2026/",
-    "i18n": {
-      "en": {
-        "title": "Punjab Kings Sign CP PLUS as New Title Sponsor for IPL 2026",
-        "summary": "Indian Premier League side Punjab Kings named security and surveillance company CP PLUS as its title sponsor for the 2026 season, replacing its previous backer following the team's run to last season's final. The partnership will include a season-long campaign built around digital storytelling, in-stadium activations and fan engagement initiatives."
-      },
-      "ja": {
-        "title": "パンジャブ・キングス、2026年IPLの新タイトルスポンサーにCP PLUSを起用",
-        "summary": "インド・プレミアリーグ（IPL）のパンジャブ・キングスは、防犯・監視機器企業CP PLUSを2026年シーズンの新タイトルスポンサーとして起用すると発表した。前シーズンに決勝進出を果たしたことを受け、従来のスポンサーから切り替える形となる。両者はデジタル発信やスタジアム内の演出、ファン向け施策を軸にシーズンを通じたキャンペーンを展開する。"
-      },
-      "es": {
-        "title": "Punjab Kings ficha a CP PLUS como nuevo patrocinador principal para IPL 2026",
-        "summary": "El equipo de la Liga Premier de India (IPL) Punjab Kings nombró a la empresa de seguridad y videovigilancia CP PLUS como su patrocinador principal para la temporada 2026, sustituyendo a su anterior respaldo tras llegar el equipo a la final de la temporada pasada. La alianza incluirá una campaña de toda la temporada centrada en narrativa digital, activaciones en el estadio e iniciativas de interacción con los aficionados."
-      },
-      "zh": {
-        "title": "旁遮普国王队签下CP PLUS为2026赛季IPL新冠名赞助商",
-        "summary": "印度板球超级联赛（IPL）球队旁遮普国王队宣布，安防监控企业CP PLUS将成为其2026赛季的新冠名赞助商，接替此前赞助商，此举正值球队在上赛季闯入总决赛之后。双方合作将围绕数字化内容传播、球场内互动活动以及球迷参与项目展开整个赛季的宣传活动。"
-      },
-      "fr": {
-        "title": "Punjab Kings s'associent à CP PLUS comme nouveau sponsor titre pour l'IPL 2026",
-        "summary": "La franchise de l'Indian Premier League (IPL) Punjab Kings a nommé l'entreprise de sécurité et de vidéosurveillance CP PLUS comme sponsor titre pour la saison 2026, remplaçant son précédent partenaire après la finale atteinte la saison passée. Le partenariat comprendra une campagne étalée sur toute la saison, axée sur le contenu numérique, des animations au stade et des initiatives d'engagement des supporters."
-      }
-    }
-  },
-  {
     "id": "kobe-storks-shin-energy-top-partner-2026-27",
     "sport": "basketball",
     "region": "japan",
@@ -6593,39 +6020,6 @@
       "fr": {
         "title": "Les Kobe Storks signent Shin Energy comme partenaire principal pour leur première saison en B.League Premier",
         "summary": "Le club de basket-ball Kobe Storks, basé à Kobe, a signé un contrat de partenaire principal de trois saisons avec le fournisseur d'électricité Shin Energy, couvrant les débuts de l'équipe dans la nouvelle division d'élite japonaise B.League Premier. Shin Energy, qui soutient le club depuis 2024, continuera de fournir de l'électricité renouvelable à ses salles et lance un programme commun destiné à développer le soutien local au basket-ball."
-      }
-    }
-  },
-  {
-    "id": "sams-club-indycar-official-sponsor-2026",
-    "sport": "motorsports",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-05-04T00:00:00Z",
-    "source_name": "IndyCar.com",
-    "source_url": "https://www.indycar.com/news/2026/05/05-04-samsclub-ic",
-    "i18n": {
-      "en": {
-        "title": "Sam's Club Becomes Official Sponsor of NTT INDYCAR SERIES and Indianapolis Motor Speedway",
-        "summary": "Warehouse retailer Sam's Club signed on as the official sponsor and exclusive warehouse club retail partner of the NTT INDYCAR SERIES, Indianapolis Motor Speedway and the Indianapolis 500. The deal adds a major retail brand to IndyCar's commercial roster as the series continues expanding its sponsorship portfolio around its marquee events."
-      },
-      "ja": {
-        "title": "サムズ・クラブ、NTT INDYCARシリーズとインディアナポリス・モーター・スピードウェイの公式スポンサーに",
-        "summary": "会員制卸売量販店のサムズ・クラブは、NTT INDYCARシリーズおよびインディアナポリス・モーター・スピードウェイ、インディアナポリス500の公式スポンサー兼独占ウェアハウスクラブ小売パートナーとして契約を締結したと発表した。今回の契約により、看板レースを中心にスポンサーポートフォリオの拡大を進めるインディカー・シリーズに大手小売ブランドが新たに加わる。"
-      },
-      "es": {
-        "title": "Sam's Club se convierte en patrocinador oficial de la NTT INDYCAR SERIES y del Indianapolis Motor Speedway",
-        "summary": "La cadena minorista de venta al por mayor Sam's Club firmó como patrocinador oficial y socio minorista exclusivo de clubes de almacén de la NTT INDYCAR SERIES, el Indianapolis Motor Speedway y las 500 Millas de Indianápolis. El acuerdo suma una importante marca minorista a la cartera comercial de IndyCar, que continúa ampliando su cartera de patrocinios en torno a sus eventos insignia."
-      },
-      "zh": {
-        "title": "山姆会员店成为NTT INDYCAR系列赛及印第安纳波利斯赛车场官方赞助商",
-        "summary": "仓储式零售商山姆会员店宣布签约成为NTT INDYCAR系列赛、印第安纳波利斯赛车场及印第安纳波利斯500英里赛的官方赞助商兼独家仓储会员店零售合作伙伴。此次合作为印第赛车持续围绕其旗舰赛事扩大赞助阵容增添了一个重要零售品牌。"
-      },
-      "fr": {
-        "title": "Sam's Club devient sponsor officiel de la NTT INDYCAR SERIES et de l'Indianapolis Motor Speedway",
-        "summary": "L'enseigne de vente en gros Sam's Club a signé en tant que sponsor officiel et partenaire exclusif de vente en club-entrepôt de la NTT INDYCAR SERIES, de l'Indianapolis Motor Speedway et des 500 miles d'Indianapolis. Cet accord ajoute une grande marque de distribution au portefeuille commercial d'IndyCar, qui continue d'étoffer ses partenariats autour de ses événements phares."
       }
     }
   },
@@ -6699,39 +6093,6 @@
     }
   },
   {
-    "id": "deloitte-premier-league-losses-2026",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "biz"
-    ],
-    "published_at": "2026-07-08T00:00:00Z",
-    "source_name": "ESPN",
-    "source_url": "https://www.espn.com/soccer/story/_/id/49301192/premier-league-club-finances-pre-tax-losses-deloitte-football-finance",
-    "i18n": {
-      "en": {
-        "title": "Premier League Clubs' Pre-Tax Losses Jump Over 600%, Deloitte Finds",
-        "summary": "Deloitte's Annual Review of Football Finance found Premier League clubs' combined pre-tax losses rose from £135 million to £948 million in 2024-25, even as aggregate revenue hit a record £6.8 billion. The report attributed the swing mainly to heavier transfer spending and fewer one-off player-sale profits, with net debt across the division reaching £3.6 billion."
-      },
-      "ja": {
-        "title": "プレミアリーグ加盟クラブの税引前損失、デロイト調査で600%超増加",
-        "summary": "デロイトの年次サッカー財務報告によると、プレミアリーグ加盟クラブの合計税引前損失は2024-25シーズンに1億3500万ポンドから9億4800万ポンドへ拡大した一方、合計収益は過去最高の68億ポンドに達した。損失拡大の主因は移籍市場での支出増加と一時的な選手売却益の減少とされ、リーグ全体の純負債は36億ポンドに達した。"
-      },
-      "es": {
-        "title": "Las pérdidas antes de impuestos de los clubes de la Premier League se disparan más del 600%, según Deloitte",
-        "summary": "El informe anual de finanzas del fútbol de Deloitte reveló que las pérdidas combinadas antes de impuestos de los clubes de la Premier League pasaron de 135 millones a 948 millones de libras en 2024-25, pese a que los ingresos conjuntos alcanzaron un récord de 6.800 millones de libras. El informe atribuye el aumento principalmente al mayor gasto en fichajes y a menores beneficios por ventas puntuales de jugadores, con una deuda neta de la división de 3.600 millones de libras."
-      },
-      "zh": {
-        "title": "德勤报告：英超俱乐部税前亏损激增逾600%",
-        "summary": "德勤发布的年度足球财务报告显示，2024-25赛季英超俱乐部合计税前亏损从1.35亿英镑升至9.48亿英镑，而同期总收入却创下68亿英镑的纪录新高。报告将亏损扩大主要归因于转会支出增加及一次性球员出售收益减少，联赛整体净债务达到36亿英镑。"
-      },
-      "fr": {
-        "title": "Les pertes avant impôts des clubs de Premier League bondissent de plus de 600%, selon Deloitte",
-        "summary": "Le rapport annuel de Deloitte sur les finances du football a révélé que les pertes combinées avant impôts des clubs de Premier League sont passées de 135 millions à 948 millions de livres en 2024-25, alors que les revenus cumulés ont atteint un record de 6,8 milliards de livres. Le rapport attribue cette évolution principalement à des dépenses de transfert plus élevées et à moins de bénéfices ponctuels sur les ventes de joueurs, la dette nette du championnat atteignant 3,6 milliards de livres."
-      }
-    }
-  },
-  {
     "id": "cosm-detroit-immersive-venue-2026",
     "sport": "general",
     "region": "global",
@@ -6763,73 +6124,6 @@
       "fr": {
         "title": "Cosm ouvre un dôme immersif pour regarder le sport au centre-ville de Détroit",
         "summary": "Cosm a ouvert son quatrième lieu immersif dédié au sport et au divertissement au centre-ville de Détroit, construit autour d'un dôme LED 8K d'environ 465 mètres carrés comptant près de 30 millions de pixels. Le site prévoit d'accueillir des soirées de visionnage sportif, dont plusieurs matchs de NFL dès sa semaine d'ouverture, ainsi que des concerts et projections de films."
-      }
-    }
-  },
-  {
-    "id": "jpmorgan-chase-ioc-olympic-partner-2026",
-    "sport": "olympics",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-04-28T00:00:00Z",
-    "source_name": "Olympics.com (IOC)",
-    "source_url": "https://www.olympics.com/ioc/news/jpmorganchase-named-first-ever-global-banking-partner-of-the-olympic-games",
-    "i18n": {
-      "en": {
-        "title": "JPMorganChase Becomes First-Ever Global Banking Partner of the Olympics",
-        "summary": "The IOC and JPMorganChase announced a Worldwide Olympic Partnership naming the bank the first-ever Global Banking Partner in Olympic history. The agreement also covers the LA28 Games and the French Alps 2030 Winter Games, and makes JPMorganChase a Founding Partner and Official Bank of Team USA for LA28."
-      },
-      "ja": {
-        "title": "JPモルガン・チェース、五輪史上初のグローバル・バンキング・パートナーに",
-        "summary": "IOCとJPモルガン・チェースは、同社をオリンピック史上初の「グローバル・バンキング・パートナー」とするワールドワイド・オリンピック・パートナーシップ契約を発表した。契約はLA28大会とフレンチアルプス2030冬季大会も対象とし、LA28ではファウンディングパートナー兼チームUSA公式銀行にも位置付けられる。"
-      },
-      "es": {
-        "title": "JPMorganChase se convierte en el primer socio bancario global de los Juegos Olímpicos",
-        "summary": "El COI y JPMorganChase anunciaron una Asociación Olímpica Mundial que convierte al banco en el primer Socio Bancario Global en la historia olímpica. El acuerdo también abarca los Juegos de LA28 y los Juegos de Invierno de los Alpes Franceses 2030, y designa a JPMorganChase como Socio Fundador y Banco Oficial del Team USA para LA28."
-      },
-      "zh": {
-        "title": "摩根大通成为奥运会历史上首位全球银行合作伙伴",
-        "summary": "国际奥委会与摩根大通宣布达成全球奥林匹克合作伙伴关系，摩根大通成为奥运历史上首个“全球银行合作伙伴”。该协议同时涵盖2028年洛杉矶奥运会及2030年法国阿尔卑斯冬奥会，并使摩根大通成为洛杉矶奥运会的创始合作伙伴及美国代表队官方银行。"
-      },
-      "fr": {
-        "title": "JPMorganChase devient le tout premier partenaire bancaire mondial des Jeux olympiques",
-        "summary": "Le CIO et JPMorganChase ont annoncé un partenariat olympique mondial faisant de la banque le tout premier partenaire bancaire mondial de l'histoire olympique. L'accord couvre également les Jeux de LA28 et les Jeux d'hiver des Alpes françaises 2030, et désigne JPMorganChase comme partenaire fondateur et banque officielle de Team USA pour LA28."
-      }
-    }
-  },
-  {
-    "id": "smartnews-jleague-supporting-company-2026",
-    "sport": "soccer",
-    "region": "japan",
-    "topics": [
-      "sponsor",
-      "fan"
-    ],
-    "published_at": "2026-06-18T00:00:00Z",
-    "source_name": "J.League",
-    "source_url": "https://www.jleague.jp/news/article/34204/",
-    "i18n": {
-      "en": {
-        "title": "SmartNews Signs J.League Supporting Company Deal",
-        "summary": "News app operator SmartNews has signed a Supporting Company partnership with Japan's J.League, effective from June 2026. The deal centers on distributing match information, official footage and club content through the SmartNews app, alongside joint marketing and fan-engagement campaigns."
-      },
-      "ja": {
-        "title": "スマートニュース、Jリーグとサポーティングカンパニー契約を締結",
-        "summary": "ニュースアプリを運営するスマートニュースは、Jリーグと2026年6月から効力を持つサポーティングカンパニー契約を締結した。契約は、同社アプリを通じた試合情報や公式映像、クラブコンテンツの発信強化を軸に、両社共同でのマーケティング施策やファンエンゲージメント企画の実施も含む。"
-      },
-      "es": {
-        "title": "SmartNews firma un acuerdo de empresa colaboradora con la J.League",
-        "summary": "SmartNews, operador de la aplicación de noticias, firmó un acuerdo de Empresa Colaboradora con la J.League de Japón, vigente desde junio de 2026. El acuerdo se centra en distribuir información de partidos, contenido oficial y material de los clubes a través de la app SmartNews, junto con campañas conjuntas de marketing y participación de aficionados."
-      },
-      "zh": {
-        "title": "SmartNews与日本J联赛签署支持企业合作协议",
-        "summary": "新闻应用运营商SmartNews与日本J联赛签署了自2026年6月起生效的“支持企业”合作协议。协议核心是通过SmartNews应用加强比赛信息、官方视频及俱乐部内容的传播，并开展双方联合营销及球迷互动活动。"
-      },
-      "fr": {
-        "title": "SmartNews signe un accord d'entreprise partenaire avec la J.League",
-        "summary": "SmartNews, éditeur de l'application d'actualités du même nom, a signé un accord d'entreprise partenaire avec la J.League japonaise, effectif depuis juin 2026. L'accord porte principalement sur la diffusion d'informations sur les matchs, de contenus officiels et de contenus de clubs via l'application SmartNews, ainsi que sur des campagnes marketing communes et d'engagement des supporters."
       }
     }
   },
@@ -6899,72 +6193,6 @@
       "fr": {
         "title": "Le fabricant de vêtements de récupération Relive devient sponsor principal des Sendai 89ers en B.League",
         "summary": "L'entreprise de vêtements de récupération basée à Sendai, Relive, est devenue sponsor principal du club de B.League Sendai 89ers pour la saison 2026-27. La société fournira des vêtements fonctionnels pour l'entraînement, les déplacements et le sommeil afin d'améliorer la récupération des joueurs, après avoir auparavant détenu un partenariat à l'échelle de la ligue plutôt que propre à un club."
-      }
-    }
-  },
-  {
-    "id": "as-roma-wizz-air-sleeve-sponsor-2025",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2025-12-13T00:00:00Z",
-    "source_name": "AS Roma",
-    "source_url": "https://www.asroma.com/en/news/74468/as-roma-announces-new-strategic-partnership-with-wizz-air",
-    "i18n": {
-      "en": {
-        "title": "Wizz Air Becomes AS Roma's New Sleeve Sponsor and Official Airline",
-        "summary": "AS Roma signed a multi-year partnership with Wizz Air, making the Hungarian low-cost carrier the Serie A club's shirt-sleeve sponsor and official airline. The Wizz Air logo debuted on Roma's kit in a home match in mid-December, and the deal also covers travel packages and promotions for supporters."
-      },
-      "ja": {
-        "title": "ウィズエア、ASローマの新ユニフォームスリーブスポンサー兼公式航空会社に",
-        "summary": "ASローマはハンガリーの格安航空会社ウィズエアと複数年契約を結び、同社がセリエAクラブのユニフォームスリーブスポンサーおよび公式航空会社となった。ウィズエアのロゴは12月中旬のホームゲームでユニフォームに初めて登場し、契約にはサポーター向けの旅行パッケージや特典も含まれる。"
-      },
-      "es": {
-        "title": "Wizz Air se convierte en el nuevo patrocinador de manga y aerolínea oficial de la AS Roma",
-        "summary": "La AS Roma firmó un acuerdo plurianual con la aerolínea de bajo costo húngara Wizz Air, que pasa a ser el patrocinador de manga y la aerolínea oficial del club de la Serie A. El logotipo de Wizz Air debutó en la camiseta romanista a mediados de diciembre, y el acuerdo incluye paquetes de viaje y promociones para los aficionados."
-      },
-      "zh": {
-        "title": "维兹航空成为罗马俱乐部新袖标赞助商及官方航空公司",
-        "summary": "意甲罗马俱乐部与匈牙利廉价航空公司维兹航空签署多年合作协议,后者将成为球队的袖标赞助商及官方航空公司。维兹航空的标志于12月中旬的一场主场比赛中首次出现在罗马球衣上,协议还包括为球迷提供旅行套餐和优惠活动。"
-      },
-      "fr": {
-        "title": "Wizz Air devient le nouveau sponsor de manche et transporteur officiel de l'AS Roma",
-        "summary": "L'AS Roma a signé un partenariat pluriannuel avec la compagnie aérienne low-cost hongroise Wizz Air, qui devient le sponsor de manche et le transporteur officiel du club de Serie A. Le logo de Wizz Air est apparu pour la première fois sur le maillot romain à la mi-décembre, l'accord incluant aussi des offres de voyage pour les supporters."
-      }
-    }
-  },
-  {
-    "id": "whoop-scuderia-ferrari-hp-wearable-partner-2026",
-    "sport": "motorsports",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-01-19T00:00:00Z",
-    "source_name": "SportBusiness",
-    "source_url": "https://sponsorship.sportbusiness.com/news/whoop-makes-f1-move-with-ferrari-tie-up/",
-    "i18n": {
-      "en": {
-        "title": "Whoop Signs On as Wearable Tech Partner of Scuderia Ferrari HP",
-        "summary": "Fitness-tracker maker Whoop struck its first motorsport sponsorship, becoming the official health and fitness wearable partner of Scuderia Ferrari HP ahead of the 2026 Formula 1 season. Team members will use Whoop devices to monitor recovery and fitness, while the brand's logo appears on the team's cars."
-      },
-      "ja": {
-        "title": "Whoop、スクーデリア・フェラーリHPのウェアラブル技術パートナーに",
-        "summary": "フィットネストラッカーのWhoopは、2026年F1シーズンを前にスクーデリア・フェラーリHPとの契約を発表し、同社初のモータースポーツ協賛となった。チームスタッフはWhoopデバイスで回復状態やフィットネスを管理し、ロゴはマシンにも表示される。"
-      },
-      "es": {
-        "title": "Whoop se convierte en socio de tecnología vestible de Scuderia Ferrari HP",
-        "summary": "La marca de pulseras de fitness Whoop firmó su primer patrocinio en el automovilismo al asociarse con Scuderia Ferrari HP antes de la temporada 2026 de Fórmula 1. El personal del equipo usará dispositivos Whoop para monitorear su recuperación y forma física, y el logotipo aparecerá en los monoplazas."
-      },
-      "zh": {
-        "title": "Whoop成为法拉利车队可穿戴设备合作伙伴",
-        "summary": "健身追踪设备品牌Whoop在2026赛季F1开赛前与法拉利HP车队达成合作,这是该公司首次进军赛车运动赞助领域。车队工作人员将使用Whoop设备监测恢复情况和体能状态,其标志也将出现在赛车上。"
-      },
-      "fr": {
-        "title": "Whoop devient partenaire d'objets connectés de la Scuderia Ferrari HP",
-        "summary": "La marque de bracelets connectés Whoop a signé son premier partenariat en sport automobile en s'associant à la Scuderia Ferrari HP avant la saison 2026 de Formule 1. Le personnel de l'écurie utilisera les appareils Whoop pour suivre récupération et forme physique, et le logo figurera sur les monoplaces."
       }
     }
   },
@@ -7068,140 +6296,6 @@
     }
   },
   {
-    "id": "invictus-gaming-shanghai-putuo-arena-2026",
-    "sport": "esports",
-    "region": "global",
-    "topics": [
-      "stadium",
-      "sponsor"
-    ],
-    "published_at": "2026-05-12T00:00:00Z",
-    "source_name": "Players",
-    "source_url": "https://players.com.ua/en/news/invictus-gaming-opens-a-20-million-esports-arena-in-shanghai/",
-    "i18n": {
-      "en": {
-        "title": "Invictus Gaming Opens $20 Million Esports Arena in Shanghai",
-        "summary": "Chinese esports organization Invictus Gaming opened a new $20 million home arena in Shanghai's Putuo district, part of the Inzone Esports Industrial Park. The 10,000-square-meter venue, which hosted its first League of Legends Pro League match in May, will also serve as a hub for content production and broadcasts."
-      },
-      "ja": {
-        "title": "インビクタス・ゲーミング、上海に2000万ドルのeスポーツアリーナを開設",
-        "summary": "中国のeスポーツ団体インビクタス・ゲーミングは、上海・普陀区に2000万ドルを投じた新本拠地アリーナを開設した。延べ1万平方メートルを超える施設は5月に行われたLPLの試合で初めて使用され、コンテンツ制作や放送拠点としても機能する。"
-      },
-      "es": {
-        "title": "Invictus Gaming abre una arena de esports de 20 millones de dólares en Shanghái",
-        "summary": "La organización china de esports Invictus Gaming inauguró su nueva sede, una arena de 20 millones de dólares en el distrito de Putuo, en Shanghái. El recinto, de más de 10,000 metros cuadrados, se utilizó por primera vez en mayo para un partido de la LPL y también servirá como centro de producción de contenido y transmisiones."
-      },
-      "zh": {
-        "title": "电竞俱乐部IG在上海开设耗资2000万美元的新主场场馆",
-        "summary": "中国电竞俱乐部IG(Invictus Gaming)在上海普陀区启用了一座投资2000万美元的新主场场馆。该场馆面积超过一万平方米,5月的LPL联赛比赛中首次投入使用,未来还将承担内容制作与转播功能。"
-      },
-      "fr": {
-        "title": "Invictus Gaming ouvre une arena d'esport de 20 millions de dollars à Shanghai",
-        "summary": "L'organisation chinoise d'esport Invictus Gaming a inauguré sa nouvelle arena, d'un coût de 20 millions de dollars, dans le district de Putuo à Shanghai. Le site, qui dépasse 10 000 mètres carrés, a accueilli son premier match de LPL en mai et servira aussi de centre de production de contenu et de diffusion."
-      }
-    }
-  },
-  {
-    "id": "esports-virtual-arenas-eva-funding-round-2026",
-    "sport": "esports",
-    "region": "global",
-    "topics": [
-      "biz"
-    ],
-    "published_at": "2026-04-29T00:00:00Z",
-    "source_name": "Cambon Partners",
-    "source_url": "https://www.cambonpartners.com/en/transactions/eva-investment-from-raise-invest",
-    "i18n": {
-      "en": {
-        "title": "VR Esports Chain Esports Virtual Arenas Raises Over €35 Million",
-        "summary": "French VR gaming company Esports Virtual Arenas (EVA) closed a funding round of more than €35 million led by RAISE Invest. EVA, which runs more than 70 locations across ten countries, plans to use the capital to expand further into Germany and Spain and roll out new VR titles."
-      },
-      "ja": {
-        "title": "VRエスポーツ運営のEVA、3500万ユーロ超を調達",
-        "summary": "フランスのVRゲーム企業エスポーツ・バーチャル・アリーナズ(EVA)は、RAISE Investが主導する3500万ユーロ超の資金調達を完了した。10カ国で70拠点以上を展開するEVAは、この資金をドイツやスペインでの拠点拡大と新作VRタイトルの開発に充てる計画。"
-      },
-      "es": {
-        "title": "La cadena de esports en VR EVA recauda más de 35 millones de euros",
-        "summary": "La empresa francesa de videojuegos en realidad virtual Esports Virtual Arenas (EVA) cerró una ronda de financiación de más de 35 millones de euros liderada por RAISE Invest. EVA, que opera más de 70 locales en diez países, planea usar el capital para expandirse en Alemania y España y lanzar nuevos títulos en VR."
-      },
-      "zh": {
-        "title": "VR电竞连锁品牌EVA完成超3500万欧元融资",
-        "summary": "法国VR电竞企业Esports Virtual Arenas(EVA)完成了一轮由RAISE Invest领投、总额超过3500万欧元的融资。目前在十个国家运营超过70家门店的EVA计划利用这笔资金在德国和西班牙加速扩张,并推出新的VR游戏项目。"
-      },
-      "fr": {
-        "title": "La chaîne d'esport en VR EVA lève plus de 35 millions d'euros",
-        "summary": "La société française de jeux en réalité virtuelle Esports Virtual Arenas (EVA) a bouclé une levée de fonds de plus de 35 millions d'euros menée par RAISE Invest. EVA, qui exploite plus de 70 sites dans dix pays, prévoit d'utiliser ces capitaux pour accélérer son expansion en Allemagne et en Espagne et lancer de nouveaux jeux en VR."
-      }
-    }
-  },
-  {
-    "id": "mls-polymarket-leagues-cup-partnership-2026",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "fan"
-    ],
-    "published_at": "2026-01-27T00:00:00Z",
-    "source_name": "Sports Video Group",
-    "source_url": "https://www.sportsvideo.org/2026/01/27/mls-enters-multi-year-partnership-with-polymarket/",
-    "i18n": {
-      "en": {
-        "title": "MLS and Leagues Cup Sign Multi-Year Partnership With Polymarket",
-        "summary": "Soccer United Marketing struck a multi-year deal naming prediction-market platform Polymarket an official partner of Major League Soccer and the Leagues Cup. The companies plan to build new fan experiences around live matches, including second-screen engagement on MLS digital platforms."
-      },
-      "ja": {
-        "title": "MLSとリーグスカップ、予測市場のポリマーケットと複数年提携",
-        "summary": "サッカー・ユナイテッド・マーケティングは、予測市場プラットフォームのポリマーケットをMLSおよびリーグスカップの公式パートナーとする複数年契約を締結した。両者はMLSのデジタルプラットフォーム上でのセカンドスクリーン体験など、試合観戦時の新たなファン体験を共同開発する計画。"
-      },
-      "es": {
-        "title": "La MLS y la Leagues Cup firman una alianza multianual con Polymarket",
-        "summary": "Soccer United Marketing cerró un acuerdo plurianual que convierte a la plataforma de mercados predictivos Polymarket en socio oficial de la MLS y de la Leagues Cup. Las partes planean crear nuevas experiencias para los aficionados en torno a los partidos en vivo, incluida la interacción de segunda pantalla en las plataformas digitales de la MLS."
-      },
-      "zh": {
-        "title": "MLS与联赛杯同宣布与预测市场平台Polymarket达成多年合作",
-        "summary": "足球联合营销公司(Soccer United Marketing)与预测市场平台Polymarket签署多年协议,后者成为美国职业足球大联盟(MLS)及联赛杯的官方合作伙伴。双方计划围绕比赛直播打造新的球迷互动体验,包括在MLS数字平台上的第二屏互动功能。"
-      },
-      "fr": {
-        "title": "La MLS et la Leagues Cup signent un partenariat pluriannuel avec Polymarket",
-        "summary": "Soccer United Marketing a conclu un accord pluriannuel faisant de la plateforme de marchés prédictifs Polymarket un partenaire officiel de la MLS et de la Leagues Cup. Les deux parties prévoient de créer de nouvelles expériences pour les supporters autour des matches en direct, dont une interaction en second écran sur les plateformes numériques de la MLS."
-      }
-    }
-  },
-  {
-    "id": "fifa-adi-predictstreet-prediction-market-partner-2026",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-04-02T13:00:00Z",
-    "source_name": "FIFA",
-    "source_url": "https://inside.fifa.com/news/adi-predictstreet-official-prediction-market-partner-fifa-world-cup-2026",
-    "i18n": {
-      "en": {
-        "title": "FIFA Names ADI Predictstreet First-Ever Prediction Market Partner",
-        "summary": "FIFA signed a multi-year deal appointing ADI Predictstreet as its first official partner in the prediction-market category, tied to the 2026 World Cup. The platform will use FIFA's historical data to let fans forecast match outcomes and will present FIFA's free bracket challenge for the 48-team tournament."
-      },
-      "ja": {
-        "title": "FIFA、予測市場分野で初の公式パートナーにADIプレディクトストリートを選定",
-        "summary": "FIFAは2026年ワールドカップに関連し、予測市場カテゴリーで初の公式パートナーとしてADIプレディクトストリートとの複数年契約を発表した。同プラットフォームはFIFAの過去データを活用し、ファンが試合結果や注目選手を予想できる仕組みを提供し、48チーム出場トーナメントの無料ブラケット予想企画も担う。"
-      },
-      "es": {
-        "title": "La FIFA designa a ADI Predictstreet como su primer socio oficial de mercados predictivos",
-        "summary": "La FIFA anunció un acuerdo plurianual con ADI Predictstreet, nombrada primer socio oficial en la categoría de mercados predictivos de cara al Mundial 2026. La plataforma usará datos históricos de la FIFA para que los aficionados pronostiquen resultados y jugadores destacados, y también será la patrocinadora del concurso gratuito de predicciones del torneo de 48 selecciones."
-      },
-      "zh": {
-        "title": "国际足联任命ADI Predictstreet为首位预测市场官方合作伙伴",
-        "summary": "国际足联宣布与ADI Predictstreet签署多年协议,后者成为国际足联在预测市场类别中的首位官方合作伙伴,协议与2026年世界杯相关。该平台将利用国际足联的历史数据,让球迷预测比赛结果和焦点球员,并将为48队参赛赛事的免费竞猜活动提供支持。"
-      },
-      "fr": {
-        "title": "La FIFA nomme ADI Predictstreet premier partenaire officiel des marchés prédictifs",
-        "summary": "La FIFA a annoncé un accord pluriannuel désignant ADI Predictstreet comme son premier partenaire officiel dans la catégorie des marchés prédictifs, en lien avec la Coupe du monde 2026. La plateforme utilisera les données historiques de la FIFA pour permettre aux supporters de prédire résultats et joueurs marquants, et accompagnera aussi le concours de pronostics gratuit du tournoi à 48 équipes."
-      }
-    }
-  },
-  {
     "id": "toyota-bleague-manila-games-presale-sponsor-2026",
     "sport": "basketball",
     "region": "japan",
@@ -7235,69 +6329,104 @@
     }
   },
   {
-    "id": "chiba-lotte-hyundai-mobility-cap-sponsor-2026",
-    "sport": "baseball",
-    "region": "japan",
+    "id": "georgia-tech-veritiv-jersey-patch-2026",
+    "sport": "football",
+    "region": "global",
     "topics": [
-      "sponsor"
+      "sponsor",
+      "team"
     ],
-    "published_at": "2026-01-20T00:00:00Z",
-    "source_name": "Baseball Channel",
-    "source_url": "https://www.baseballchannel.jp/npb/245615/",
+    "published_at": "2026-09-03T00:00:00Z",
+    "source_name": "The Atlanta Journal-Constitution",
+    "source_url": "https://www.ajc.com/sports/2026/09/georgia-tech-football-will-debut-new-jersey-patch-during-season-opener/",
     "i18n": {
       "en": {
-        "title": "Chiba Lotte Marines Sign Cap-Advertising Deal With Hyundai Mobility Japan",
-        "summary": "NPB's Chiba Lotte Marines agreed to a cap-sponsorship deal with Hyundai Mobility Japan, with players wearing caps bearing the Hyundai logo from spring training. It is the second phase of a partnership that began in August 2025 with Hyundai supplying the team's bullpen relief car."
+        "title": "Georgia Tech Debuts First-Ever Jersey Patch Sponsor With Veritiv",
+        "summary": "Georgia Tech football unveiled a jersey patch featuring packaging and print-solutions company Veritiv, marking the first sponsorship patch in program history. The multiyear deal also names Veritiv the official sustainability partner of Georgia Tech athletics, supporting waste reduction and resource-efficiency initiatives."
       },
       "ja": {
-        "title": "千葉ロッテ、ヒョンデ・モビリティ・ジャパンとキャップ広告契約",
-        "summary": "NPBの千葉ロッテマリーンズは、ヒョンデ・モビリティ・ジャパンとキャップ広告のスポンサー契約を締結した。選手は春季キャンプからヒョンデのロゴが入ったキャップを着用し、2025年8月に始まったリリーフカー提供に続く第2弾の取り組みとなる。"
+        "title": "ジョージア工科大学、史上初のユニフォームパッチスポンサーとしてVeritivと契約",
+        "summary": "ジョージア工科大学のアメフトチームは、包装・印刷ソリューション企業Veritivをスポンサーとするユニフォームパッチを披露した。プログラム史上初のスポンサーパッチとなり、複数年契約によりVeritivは同大学athleticsの公式サステナビリティ・パートナーにも位置づけられる。"
       },
       "es": {
-        "title": "Chiba Lotte Marines firma un acuerdo de publicidad en gorras con Hyundai Mobility Japan",
-        "summary": "El club de la NPB Chiba Lotte Marines acordó un patrocinio de publicidad en gorras con Hyundai Mobility Japan, por el que los jugadores lucirán el logotipo de Hyundai desde el campamento de primavera. Es la segunda fase de una colaboración que comenzó en agosto de 2025 con el suministro del coche del bullpen del equipo."
+        "title": "Georgia Tech estrena su primer patrocinador de parche en el uniforme con Veritiv",
+        "summary": "El equipo de fútbol americano de Georgia Tech presentó un parche en el uniforme con la empresa de embalaje e impresión Veritiv, el primer patrocinio de este tipo en la historia del programa. El acuerdo plurianual también convierte a Veritiv en socio oficial de sostenibilidad de la universidad."
       },
       "zh": {
-        "title": "千叶罗德海洋队与现代摩比利提日本签署棒球帽广告赞助协议",
-        "summary": "日本职棒(NPB)千叶罗德海洋队与现代摩比利提日本(Hyundai Mobility Japan)签署棒球帽广告赞助协议,球员将从春训开始佩戴印有现代标志的球帽。此为双方合作的第二阶段,此前已于2025年8月由现代提供球队牛棚用车。"
+        "title": "佐治亚理工首次推出球衣广告贴标赞助商Veritiv",
+        "summary": "佐治亚理工橄榄球队推出了印有包装及印刷解决方案公司Veritiv标志的球衣贴标,这是该项目历史上首个此类赞助。这份多年协议还使Veritiv成为佐治亚理工体育部官方可持续发展合作伙伴。"
       },
       "fr": {
-        "title": "Les Chiba Lotte Marines signent un accord de publicité sur casquette avec Hyundai Mobility Japan",
-        "summary": "Le club de NPB Chiba Lotte Marines a conclu un partenariat de publicité sur casquette avec Hyundai Mobility Japan, les joueurs portant dès le camp de printemps une casquette arborant le logo Hyundai. Il s'agit de la deuxième phase d'une collaboration entamée en août 2025 avec la fourniture de la voiture de bullpen de l'équipe."
+        "title": "Georgia Tech dévoile son premier sponsor de patch de maillot avec Veritiv",
+        "summary": "L'équipe de football américain de Georgia Tech a dévoilé un patch de maillot au nom de l'entreprise d'emballage et d'impression Veritiv, un premier dans l'histoire du programme. L'accord pluriannuel fait également de Veritiv le partenaire officiel de développement durable du département sportif."
       }
     }
   },
   {
-    "id": "mufg-bank-jleague-top-partner-2026",
+    "id": "jleague-pokemon-carnival-60-clubs-2026",
     "sport": "soccer",
     "region": "japan",
     "topics": [
-      "sponsor",
-      "biz"
+      "fan",
+      "sponsor"
     ],
-    "published_at": "2026-03-12T00:00:00Z",
-    "source_name": "Advertimes",
-    "source_url": "https://www.advertimes.com/?p=537051",
+    "published_at": "2026-08-07T00:00:00Z",
+    "source_name": "The Express Tribune",
+    "source_url": "https://tribune.com.pk/story/2616624/jleague-partners-with-pokemon-as-all-60-clubs-receive-unique-mascot-ahead-of-2026-season",
     "i18n": {
       "en": {
-        "title": "MUFG Bank Becomes J.League Top Partner in Regional Finance Push",
-        "summary": "Mitsubishi UFJ Bank agreed to become a J.League Top Partner starting in April 2026 and a Platinum Partner of the J.League All-Star Game. The partnership is expected to link the bank's client network with the league's 60 clubs through regional business events, management seminars and cooperation on stadium-related development projects."
+        "title": "J.League and Pokémon Launch Carnival Giving All 60 Clubs Original Mascots",
+        "summary": "Japan's J.League partnered with The Pokémon Company to kick off the 'Pokémon J.League Carnival,' a fan-engagement campaign marking J.League's milestone anniversary in which every club across J1, J2 and J3 received its own original Pokémon-themed mascot design. The collaboration runs across matchday events and merchandise at all 60 member clubs."
       },
       "ja": {
-        "title": "三菱UFJ銀行、Jリーグのトップパートナーに就任し地域連携を強化",
-        "summary": "三菱UFJ銀行は2026年4月からJリーグのトップパートナー、またJリーグオールスターのプラチナパートナーに就任することを発表した。Jリーグ60クラブの地域ネットワークと銀行の取引先基盤を結び、ビジネス交流会やスタジアム関連の地域プロジェクトなどでの協業を見込む。"
+        "title": "Jリーグとポケモン、全60クラブに専用マスコットを贈るカーニバルを開始",
+        "summary": "Jリーグは株式会社ポケモンと提携し、ファン向け企画「ポケモン Jリーグカーニバル」を開始した。J1・J2・J3の全60クラブそれぞれに専用デザインのポケモンモチーフマスコットが用意され、試合日イベントやグッズ展開を通じて盛り上げる取り組みとなる。"
       },
       "es": {
-        "title": "MUFG Bank se convierte en Top Partner de la J.League para impulsar la colaboración regional",
-        "summary": "Mitsubishi UFJ Bank acordó convertirse en Top Partner de la J.League a partir de abril de 2026 y en Platinum Partner del J.League All-Star Game. La alianza busca conectar la red regional de los 60 clubes de la liga con la base de clientes del banco, incluyendo eventos de negocios, seminarios para directivos y proyectos vinculados a estadios."
+        "title": "J.League y Pokémon lanzan un carnaval que da mascotas propias a los 60 clubes",
+        "summary": "La J.League de Japón se asoció con The Pokémon Company para lanzar el 'Pokémon J.League Carnival', una campaña de interacción con los aficionados en la que cada club de J1, J2 y J3 recibió su propio diseño de mascota temática de Pokémon. La colaboración incluye actividades en los días de partido y mercancía en los 60 clubes de la liga."
       },
       "zh": {
-        "title": "三菱日联银行成为J联赛顶级合作伙伴,加强区域联动",
-        "summary": "三菱UFJ银行宣布将于2026年4月起成为J联赛顶级合作伙伴,并担任J联赛全明星赛白金合作伙伴。此次合作旨在将J联赛60家俱乐部的区域网络与银行的客户资源相连接,计划开展商务交流活动、经营者研讨会以及涉及球场建设的区域项目合作。"
+        "title": "J联赛与宝可梦联合推出活动,为60家俱乐部打造专属吉祥物",
+        "summary": "日本J联赛与宝可梦公司合作,启动了面向球迷的“宝可梦J联赛嘉年华”活动,J1、J2、J3三个级别共60家俱乐部均获得了专属设计的宝可梦主题吉祥物。该合作涵盖比赛日活动及周边商品,贯穿整个联赛。"
       },
       "fr": {
-        "title": "MUFG Bank devient partenaire principal de la J.League pour renforcer la coopération régionale",
-        "summary": "La banque Mitsubishi UFJ a annoncé qu'elle deviendrait partenaire principal (Top Partner) de la J.League à partir d'avril 2026, ainsi que partenaire Platinum du J.League All-Star Game. Ce partenariat vise à relier le réseau régional des 60 clubs de la ligue à la clientèle de la banque, avec des rencontres d'affaires, des séminaires pour dirigeants et une coopération sur des projets régionaux liés aux stades."
+        "title": "La J.League et Pokémon lancent un carnaval offrant une mascotte à chacun des 60 clubs",
+        "summary": "La J.League japonaise s'est associée à The Pokémon Company pour lancer le « Pokémon J.League Carnival », une opération d'engagement des supporters dans laquelle chaque club de J1, J2 et J3 a reçu sa propre mascotte sur le thème Pokémon. La collaboration se décline lors des jours de match et à travers des produits dérivés dans les 60 clubs du championnat."
+      }
+    }
+  },
+  {
+    "id": "kstate-purple-wave-jersey-patch-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-08-19T00:00:00Z",
+    "source_name": "KCTV5",
+    "source_url": "https://www.kctv5.com/2026/08/19/k-state-agrees-football-jersey-patch-deal-with-purple-wave/",
+    "i18n": {
+      "en": {
+        "title": "Kansas State Strikes First-Ever Jersey Patch Deal With Purple Wave Auction",
+        "summary": "Kansas State football signed its first jersey-patch sponsorship, placing Manhattan-based Purple Wave Auction's logo on home and away uniforms for the 2026 season under new head coach Collin Klein. The agreement includes digital and in-game activations plus NIL opportunities for players, with the patch debuting against Nicholls on Sept. 5."
+      },
+      "ja": {
+        "title": "カンザス州立大学、史上初のユニフォームパッチ契約をパープルウェーブ・オークションと締結",
+        "summary": "カンザス州立大学のアメフトチームは、同州マンハッタンに拠点を置くオークション企業パープルウェーブと史上初となるユニフォームパッチ契約を結んだ。2026年シーズンのホーム・アウェー両ユニフォームにロゴが掲出され、デジタル施策や選手向けNIL機会も含まれる。"
+      },
+      "es": {
+        "title": "Kansas State firma su primer acuerdo de parche en el uniforme con Purple Wave Auction",
+        "summary": "El equipo de fútbol americano de Kansas State firmó su primer patrocinio de parche en el uniforme, con el logo de la casa de subastas Purple Wave, con sede en Manhattan (Kansas), en las camisetas de local y visitante para la temporada 2026. El acuerdo incluye activaciones digitales y oportunidades de NIL para los jugadores."
+      },
+      "zh": {
+        "title": "堪萨斯州立大学与Purple Wave拍卖行达成首个球衣贴标协议",
+        "summary": "堪萨斯州立大学橄榄球队签署了校史首份球衣贴标赞助协议,总部位于曼哈顿市的拍卖公司Purple Wave的标志将出现在2026赛季主客场球衣上。协议还包含数字宣传活动及球员NIL(姓名、形象、肖像权)合作机会。"
+      },
+      "fr": {
+        "title": "Kansas State signe son premier accord de patch de maillot avec Purple Wave Auction",
+        "summary": "L'équipe de football américain de Kansas State a signé son premier partenariat de patch de maillot, plaçant le logo de la maison de vente aux enchères Purple Wave, basée à Manhattan (Kansas), sur les maillots domicile et extérieur pour la saison 2026. L'accord inclut des activations numériques et des opportunités NIL pour les joueurs."
       }
     }
   }
