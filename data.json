@@ -6433,5 +6433,340 @@
         "summary": "Le Club Partner Program de la Fondation Esports World Cup finance environ 40 organisations d'esport en 2026, avec des subventions à six chiffres chacune, dans le cadre d'un investissement de 20 millions de dollars dans l'écosystème mondial des clubs d'esport. Les clubs participants bénéficient aussi d'un accès prioritaire au Superfan Program de la fondation et d'opportunités de collaboration tout au long de l'année."
       }
     }
+  },
+  {
+    "id": "nike-four-year-restructuring-layoffs-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-10-01T13:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/business/commerce/2026/nike-earnings-revenue-stock-price-1234946372/",
+    "i18n": {
+      "en": {
+        "title": "Nike Outlines Four-Year Restructuring With More Layoffs Ahead",
+        "summary": "Nike disclosed a four-year restructuring plan alongside its latest earnings, with additional layoffs and geographic changes to its operations expected to continue into 2027. The plan builds on CEO Elliott Hill's ongoing turnaround effort, which has already included multiple rounds of job cuts across the company's technology and distribution operations this year."
+      },
+      "ja": {
+        "title": "ナイキ、4年間の事業再編計画を発表 追加の人員削減も",
+        "summary": "ナイキは最新の決算発表に合わせて4年間にわたる事業再編計画を示し、追加の人員削減と事業運営の地理的な見直しが2027年まで続く見通しだと明らかにした。この計画はエリオット・ヒルCEOが進める経営再建策の一環で、同社は今年すでにテクノロジー部門や物流部門で複数回の人員削減を実施している。"
+      },
+      "es": {
+        "title": "Nike anuncia una reestructuración de cuatro años con más despidos en camino",
+        "summary": "Nike reveló un plan de reestructuración de cuatro años junto con sus últimos resultados financieros, anticipando despidos adicionales y cambios geográficos en sus operaciones que continuarían hasta 2027. El plan se suma al esfuerzo de recuperación del CEO Elliott Hill, que ya ha incluido varias rondas de recortes de empleo en las áreas de tecnología y distribución de la compañía este año."
+      },
+      "zh": {
+        "title": "耐克公布四年期重组计划，未来仍将裁员",
+        "summary": "耐克在发布最新财报的同时披露了一项四年期重组计划,预计未来裁员和运营地理布局调整将持续到2027年。该计划是首席执行官埃利奥特·希尔(Elliott Hill)持续推进的业务转型举措的一部分,今年公司已在技术和物流部门进行了多轮裁员。"
+      },
+      "fr": {
+        "title": "Nike dévoile un plan de restructuration sur quatre ans, avec de nouveaux licenciements à venir",
+        "summary": "Nike a présenté un plan de restructuration sur quatre ans en marge de la publication de ses derniers résultats, avec de nouveaux licenciements et des changements géographiques dans ses opérations qui devraient se poursuivre jusqu'en 2027. Ce plan s'inscrit dans le redressement mené par le PDG Elliott Hill, qui a déjà entraîné plusieurs vagues de suppressions de postes dans les équipes technologiques et logistiques de l'entreprise cette année."
+      }
+    }
+  },
+  {
+    "id": "mlb-postseason-advertising-rates-rally-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "biz",
+      "sponsor"
+    ],
+    "published_at": "2026-10-01T14:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/business/media/2026/mlb-playoff-advertising-price-per-spot-tv-1234946428/",
+    "i18n": {
+      "en": {
+        "title": "MLB Advertising Prices Jump Just as the Postseason Begins",
+        "summary": "Advertising rates for MLB broadcasts have risen sharply heading into the postseason, a turnaround after a regular season marked by largely flat ad revenue across the league's national TV packages. Buyers are paying noticeably more per spot for October games than they did for comparable regular-season inventory, reflecting the premium networks can command once elimination baseball begins."
+      },
+      "ja": {
+        "title": "MLBの広告料金、ポストシーズン開幕とともに急上昇",
+        "summary": "MLB中継の広告料金が、ポストシーズンを迎えて急激に上昇している。レギュラーシーズン中は全国向けTVパッケージの広告収入がほぼ横ばいだったが、一転した動きとなった。広告主は10月の試合に対し、レギュラーシーズンの同種の広告枠よりも明らかに高い金額を支払っており、消化試合がなくなる季節に放送局が得られる割増価値を映し出している。"
+      },
+      "es": {
+        "title": "Los precios publicitarios de la MLB se disparan justo cuando comienza la postemporada",
+        "summary": "Las tarifas publicitarias de las transmisiones de la MLB han subido bruscamente de cara a la postemporada, un giro tras una temporada regular marcada por ingresos publicitarios prácticamente estancados en los paquetes de televisión nacional de la liga. Los compradores están pagando notablemente más por anuncio en los partidos de octubre que por un espacio comparable durante la temporada regular, lo que refleja la prima que pueden cobrar las cadenas una vez que comienza el béisbol de eliminación directa."
+      },
+      "zh": {
+        "title": "季后赛开打之际，MLB广告价格大幅上涨",
+        "summary": "随着季后赛的到来,MLB转播广告费率大幅上涨,这与常规赛期间全国电视转播广告收入基本持平的局面形成反转。相比常规赛同类广告位,广告主为10月比赛支付的每条广告费用明显更高,反映出一旦进入淘汰赛阶段,电视网能够获得的溢价。"
+      },
+      "fr": {
+        "title": "Les tarifs publicitaires de la MLB bondissent au moment où les séries éliminatoires débutent",
+        "summary": "Les tarifs publicitaires des retransmissions de la MLB ont fortement augmenté à l'approche des séries éliminatoires, un revirement après une saison régulière marquée par des revenus publicitaires globalement stables sur les packages télévisés nationaux de la ligue. Les annonceurs paient nettement plus par spot pour les matchs d'octobre que pour un espace comparable en saison régulière, ce qui illustre la prime que les chaînes peuvent exiger une fois le baseball à élimination directe entamé."
+      }
+    }
+  },
+  {
+    "id": "nhl-valuations-panthers-hurricanes-sunbelt-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-10-01T15:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/podcasts/sporticast/2026/sporticast-nhl-valuations-hurricanes-panthers-sun-belt-1234946303/",
+    "i18n": {
+      "en": {
+        "title": "NHL's Sun Belt Teams Post Steep Valuation Gains, Led by Hurricanes and Panthers",
+        "summary": "Sportico's latest NHL team valuations show the Carolina Hurricanes and Florida Panthers among the league's biggest gainers, with the Hurricanes climbing roughly 49% year over year and the Panthers up about 37%. The jumps come as Sun Belt franchises in Florida, Texas and Nevada have combined for the bulk of recent Stanley Cup Final appearances, reshaping how the league's non-traditional markets are valued."
+      },
+      "ja": {
+        "title": "NHLのサンベルト勢、資産価値が急上昇 ハリケーンズとパンサーズが主導",
+        "summary": "スポルティコ(Sportico)が発表した最新のNHL球団資産評価で、カロライナ・ハリケーンズとフロリダ・パンサーズが大幅な上昇を記録した。ハリケーンズは前年比約49%、パンサーズは約37%の増加となった。フロリダ、テキサス、ネバダのサンベルト勢がここ数年のスタンレーカップ決勝進出の大半を占めるようになっており、非伝統的市場の評価方法が見直されつつある。"
+      },
+      "es": {
+        "title": "Los equipos de la NHL en el Sun Belt registran fuertes alzas de valoración, liderados por los Hurricanes y los Panthers",
+        "summary": "La última valoración de equipos de la NHL elaborada por Sportico muestra a los Carolina Hurricanes y los Florida Panthers entre los que más subieron, con un aumento de aproximadamente 49% interanual para los Hurricanes y de alrededor del 37% para los Panthers. Las subidas se producen mientras las franquicias del Sun Belt en Florida, Texas y Nevada han protagonizado la mayoría de las recientes apariciones en la final de la Copa Stanley, lo que está cambiando la forma en que se valoran los mercados no tradicionales de la liga."
+      },
+      "zh": {
+        "title": "NHL阳光地带球队估值大涨，飓风队与黑豹队领涨",
+        "summary": "Sportico发布的最新NHL球队估值显示,卡罗来纳飓风队和佛罗里达黑豹队的涨幅位居联盟前列,飓风队估值同比上涨约49%,黑豹队上涨约37%。佛罗里达、德克萨斯和内华达等阳光地带球队近年来包揽了斯坦利杯决赛的大部分席位,这正在改变联盟对非传统市场球队的估值方式。"
+      },
+      "fr": {
+        "title": "Les franchises du Sun Belt en NHL voient leur valeur bondir, menées par les Hurricanes et les Panthers",
+        "summary": "La dernière évaluation des franchises de la NHL réalisée par Sportico place les Hurricanes de la Caroline et les Panthers de la Floride parmi les plus fortes progressions, avec une hausse d'environ 49% sur un an pour les Hurricanes et d'environ 37% pour les Panthers. Ces bonds surviennent alors que les franchises du Sun Belt en Floride, au Texas et au Nevada ont concentré l'essentiel des récentes apparitions en finale de la Coupe Stanley, modifiant la manière dont les marchés non traditionnels de la ligue sont valorisés."
+      }
+    }
+  },
+  {
+    "id": "mclaren-etihad-airways-f1-official-partner-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-02-26T00:00:00Z",
+    "source_name": "GrandPrix247",
+    "source_url": "https://www.grandprix247.com/formula-1-news/mclaren-secures-etihad-as-official-partner-from-2026",
+    "i18n": {
+      "en": {
+        "title": "McLaren Signs Etihad Airways as Official Partner Across F1 and WEC",
+        "summary": "McLaren Racing named Etihad Airways an Official Partner of its Formula 1 team and its United Autosports WEC Hypercar programme starting with the 2026 season. The Abu Dhabi carrier, previously a Ferrari sponsor, gains branding across McLaren's motorsport operations as part of a multi-year agreement."
+      },
+      "ja": {
+        "title": "マクラーレン、エティハド航空とF1・WECにわたる公式パートナー契約",
+        "summary": "マクラーレン・レーシングは2026年シーズンから、エティハド航空を自チームのF1部門とユナイテッド・オートスポーツのWECハイパーカー部門における公式パートナーに起用すると発表した。かつてフェラーリのスポンサーだったアブダビの航空会社は、複数年契約の一環としてマクラーレンのモータースポーツ活動全般でブランド露出を得る。"
+      },
+      "es": {
+        "title": "McLaren ficha a Etihad Airways como socio oficial en la F1 y el WEC",
+        "summary": "McLaren Racing designó a Etihad Airways como Socio Oficial de su equipo de Fórmula 1 y de su programa WEC Hypercar con United Autosports a partir de la temporada 2026. La aerolínea de Abu Dabi, antigua patrocinadora de Ferrari, obtiene presencia de marca en toda la actividad de automovilismo de McLaren como parte de un acuerdo plurianual."
+      },
+      "zh": {
+        "title": "迈凯伦签下阿提哈德航空，成为F1与WEC官方合作伙伴",
+        "summary": "迈凯伦车队宣布,从2026赛季起,阿提哈德航空将成为其F1车队以及与United Autosports合作的WEC超跑组别项目的官方合作伙伴。这家阿布扎比航空公司此前曾是法拉利的赞助商,如今通过一项多年协议在迈凯伦的赛车业务中获得品牌曝光。"
+      },
+      "fr": {
+        "title": "McLaren s'associe à Etihad Airways comme partenaire officiel en F1 et en WEC",
+        "summary": "McLaren Racing a désigné Etihad Airways comme Partenaire Officiel de son équipe de Formule 1 et de son programme WEC Hypercar avec United Autosports à partir de la saison 2026. La compagnie aérienne d'Abou Dabi, ancienne sponsor de Ferrari, obtient une visibilité de marque sur l'ensemble des activités sportives de McLaren dans le cadre d'un accord pluriannuel."
+      }
+    }
+  },
+  {
+    "id": "aston-martin-f1-cohere-generative-ai-partner-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "tech"
+    ],
+    "published_at": "2026-03-04T00:00:00Z",
+    "source_name": "BlackBook Motorsport",
+    "source_url": "https://www.blackbookmotorsport.com/news/aston-martin-f1-cohere-agentic-generative-ai-march-2026/",
+    "i18n": {
+      "en": {
+        "title": "Aston Martin Aramco F1 Team Names Cohere Its Official Generative AI Partner",
+        "summary": "AI firm Cohere agreed to a multi-year deal to become the Aston Martin Aramco Formula One Team's official Generative AI Partner, giving staff access to its 'North' agentic AI platform across engineering and operations. Cohere branding appears on the AMR26 chassis and front-wing mirror arms starting at the Australian Grand Prix."
+      },
+      "ja": {
+        "title": "アストンマーティン・アラムコF1、コヒアと生成AIの公式パートナー契約",
+        "summary": "AI企業のコヒア(Cohere)は、アストンマーティン・アラムコF1チームの公式生成AIパートナーとなる複数年契約を締結した。これにより、チームのスタッフはエンジニアリングや運営業務全般で同社のエージェント型AIプラットフォーム「ノース」を利用できるようになる。コヒアのロゴは、オーストラリアGPから新車「AMR26」のシャシーとフロントウィングのミラーアームに掲出される。"
+      },
+      "es": {
+        "title": "El equipo Aston Martin Aramco de F1 nombra a Cohere su socio oficial de IA generativa",
+        "summary": "La empresa de inteligencia artificial Cohere firmó un acuerdo plurianual para convertirse en el Socio Oficial de IA Generativa del equipo Aston Martin Aramco de Fórmula 1, dando acceso al personal a su plataforma de IA agéntica 'North' en ingeniería y operaciones. El logotipo de Cohere aparece en el chasis del AMR26 y en los brazos de los retrovisores del alerón delantero desde el Gran Premio de Australia."
+      },
+      "zh": {
+        "title": "阿斯顿·马丁阿美F1车队任命Cohere为官方生成式AI合作伙伴",
+        "summary": "人工智能公司Cohere与阿斯顿·马丁阿美F1车队签署多年协议,成为该队官方生成式AI合作伙伴,车队工程和运营团队将可使用其代理式AI平台“North”。从澳大利亚大奖赛起,Cohere的品牌标识将出现在新赛车AMR26的底盘以及前翼镜臂上。"
+      },
+      "fr": {
+        "title": "L'écurie Aston Martin Aramco F1 nomme Cohere partenaire officiel en IA générative",
+        "summary": "L'entreprise d'intelligence artificielle Cohere a conclu un accord pluriannuel pour devenir le Partenaire Officiel en IA générative de l'écurie Aston Martin Aramco en Formule 1, donnant au personnel accès à sa plateforme d'IA agentique « North » pour l'ingénierie et les opérations. Le logo de Cohere apparaît sur le châssis de l'AMR26 et sur les bras de rétroviseurs de l'aileron avant dès le Grand Prix d'Australie."
+      }
+    }
+  },
+  {
+    "id": "oracle-red-bull-racing-title-partnership-extension-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "tech"
+    ],
+    "published_at": "2026-02-26T09:00:00Z",
+    "source_name": "Oracle",
+    "source_url": "https://www.oracle.com/news/announcement/oracle-red-bull-racing-extends-title-partnership-with-oracle-2026-02-26/",
+    "i18n": {
+      "en": {
+        "title": "Oracle and Red Bull Racing Extend Title Partnership Beyond $100 Million a Year",
+        "summary": "Oracle and Red Bull Racing announced a multi-year extension and expansion of their title partnership, which began in 2022 and was previously worth roughly $100 million annually. The deal expands Oracle Cloud Infrastructure and Oracle AI's role in the team's new power-unit programme, including race-strategy simulation and an AI-powered strategy agent."
+      },
+      "ja": {
+        "title": "オラクルとレッドブル・レーシング、年1億ドル超のタイトルパートナーシップを延長",
+        "summary": "オラクルとレッドブル・レーシングは、2022年に始まり年間約1億ドル規模だったタイトルパートナーシップについて、複数年の延長・拡大に合意したと発表した。新契約では、新たなパワーユニット開発におけるオラクル・クラウド・インフラストラクチャーとオラクルAIの活用範囲が広がり、レース戦略シミュレーションやAIを活用した戦略エージェントも含まれる。"
+      },
+      "es": {
+        "title": "Oracle y Red Bull Racing amplían su patrocinio principal a más de 100 millones de dólares al año",
+        "summary": "Oracle y Red Bull Racing anunciaron una extensión y ampliación plurianual de su patrocinio principal, que comenzó en 2022 y rondaba los 100 millones de dólares anuales. El nuevo acuerdo amplía el papel de Oracle Cloud Infrastructure y Oracle AI en el nuevo programa de unidad de potencia del equipo, incluyendo simulaciones de estrategia de carrera y un agente de estrategia basado en IA."
+      },
+      "zh": {
+        "title": "甲骨文与红牛车队续签冠名合作，年价值超1亿美元",
+        "summary": "甲骨文公司与红牛车队宣布,双方自2022年开始、价值约每年1亿美元的冠名赞助合作将进行多年期的续约与扩展。新协议扩大了甲骨文云基础设施和甲骨文AI在车队新动力单元项目中的应用范围,包括比赛策略模拟和AI策略助手系统。"
+      },
+      "fr": {
+        "title": "Oracle et Red Bull Racing prolongent leur partenariat-titre à plus de 100 millions de dollars par an",
+        "summary": "Oracle et Red Bull Racing ont annoncé une prolongation et un élargissement pluriannuels de leur partenariat-titre, débuté en 2022 et évalué jusqu'ici à environ 100 millions de dollars par an. Le nouvel accord étend le rôle d'Oracle Cloud Infrastructure et d'Oracle AI dans le nouveau programme de groupe propulseur de l'écurie, incluant des simulations de stratégie de course et un agent de stratégie basé sur l'IA."
+      }
+    }
+  },
+  {
+    "id": "illinois-busey-bank-jersey-patch-deal-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-07-27T00:00:00Z",
+    "source_name": "Athletic Business",
+    "source_url": "https://www.athleticbusiness.com/operations/marketing/article/15830979/university-of-illinois-signs-30m-jersey-patch-sponsorship-deal-with-busey-bank",
+    "i18n": {
+      "en": {
+        "title": "Illinois Signs $30 Million Jersey Patch Deal With Busey Bank",
+        "summary": "The University of Illinois athletics department agreed to a five-year, $30 million sponsorship with Busey Bank that places the bank's logo on jerseys across nine varsity sports, including football and both basketball programs. Busey also becomes Illinois Athletics' official financial-services partner and will fund annual student-athlete career placements through the deal."
+      },
+      "ja": {
+        "title": "イリノイ大学、ビューシー銀行と3000万ドルのジャージパッチ契約",
+        "summary": "イリノイ大学の athletics部門は、ビューシー銀行と5年間3000万ドル規模のスポンサー契約を締結した。これにより、フットボールと男女バスケットボールを含む9種目の大学代表チームのジャージに同行のロゴが入ることになる。ビューシー銀行はイリノイ・アスレチックスの公式金融サービスパートナーにもなり、契約の一環として学生アスリートへの就職支援も毎年実施する。"
+      },
+      "es": {
+        "title": "Illinois firma un acuerdo de 30 millones de dólares con Busey Bank por el parche de sus camisetas",
+        "summary": "El departamento de atletismo de la Universidad de Illinois acordó un patrocinio de cinco años y 30 millones de dólares con Busey Bank, que coloca el logotipo del banco en las camisetas de nueve deportes universitarios, incluidos el fútbol americano y ambos programas de baloncesto. Busey también se convierte en el socio oficial de servicios financieros de Illinois Athletics y financiará colocaciones laborales anuales para deportistas universitarios como parte del acuerdo."
+      },
+      "zh": {
+        "title": "伊利诺伊大学与比西银行签订3000万美元球衣广告合约",
+        "summary": "伊利诺伊大学体育部与比西银行(Busey Bank)达成一项为期五年、总额3000万美元的赞助协议,该银行的标志将出现在包括美式橄榄球及男女篮球等九个大学代表队项目的球衣上。比西银行还将成为伊利诺伊athletics的官方金融服务合作伙伴,并依据协议每年资助学生运动员的职业安置项目。"
+      },
+      "fr": {
+        "title": "Illinois signe un accord de 30 millions de dollars avec Busey Bank pour un patch sur ses maillots",
+        "summary": "Le département sportif de l'Université de l'Illinois a conclu un partenariat de cinq ans, d'une valeur de 30 millions de dollars, avec Busey Bank, dont le logo figurera sur les maillots de neuf sports universitaires, dont le football américain et les deux programmes de basket-ball. Busey devient également le partenaire officiel de services financiers d'Illinois Athletics et financera chaque année des placements professionnels pour les étudiants-athlètes dans le cadre de cet accord."
+      }
+    }
+  },
+  {
+    "id": "swedish-basketball-two-circles-fan-engagement-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "fan"
+    ],
+    "published_at": "2026-09-29T00:00:00Z",
+    "source_name": "SportCal",
+    "source_url": "https://www.sportcal.com/news/swedish-basketball-federation-enlists-two-circles-to-enhance-fan-engagement/",
+    "i18n": {
+      "en": {
+        "title": "Swedish Basketball Federation Hires Two Circles for Fan Engagement Push",
+        "summary": "The Swedish Basketball Federation appointed UK sports marketing agency Two Circles to help grow fan engagement and ticketing around its national teams. The partnership covers audience insight, data analysis, marketing and communications as the federation looks to build a bigger following for the national programme."
+      },
+      "ja": {
+        "title": "スウェーデンバスケットボール連盟、ファンエンゲージメント強化でトゥー・サークルズと提携",
+        "summary": "スウェーデンバスケットボール連盟は、英国のスポーツマーケティング会社トゥー・サークルズ(Two Circles)と提携し、ナショナルチームを中心としたファンエンゲージメントとチケット販売の強化を図ると発表した。提携範囲には観客データの分析、マーケティング、広報活動が含まれ、連盟は代表チームの支持層拡大を目指している。"
+      },
+      "es": {
+        "title": "La Federación Sueca de Baloncesto contrata a Two Circles para impulsar el vínculo con los aficionados",
+        "summary": "La Federación Sueca de Baloncesto designó a la agencia británica de marketing deportivo Two Circles para ayudar a aumentar el vínculo con los aficionados y la venta de entradas en torno a sus selecciones nacionales. La colaboración abarca análisis de audiencia, datos, marketing y comunicación, en un esfuerzo de la federación por ampliar su base de seguidores."
+      },
+      "zh": {
+        "title": "瑞典篮球协会聘请Two Circles提升球迷互动",
+        "summary": "瑞典篮球协会任命英国体育营销公司Two Circles,协助提升围绕国家队的球迷互动和票务销售。此次合作涵盖受众洞察、数据分析、市场营销和传播沟通等领域,协会希望借此扩大国家队项目的支持者基础。"
+      },
+      "fr": {
+        "title": "La Fédération suédoise de basket-ball engage Two Circles pour renforcer l'engagement des supporters",
+        "summary": "La Fédération suédoise de basket-ball a mandaté l'agence britannique de marketing sportif Two Circles pour l'aider à développer l'engagement des supporters et la billetterie autour de ses équipes nationales. Le partenariat couvre l'analyse d'audience, les données, le marketing et la communication, alors que la fédération cherche à élargir son public."
+      }
+    }
+  },
+  {
+    "id": "jleague-smartnews-supporting-company-contract-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-06-18T00:00:00Z",
+    "source_name": "J.League",
+    "source_url": "https://digitalpr.jp/r/137037",
+    "i18n": {
+      "en": {
+        "title": "J.League Signs SmartNews as a Supporting Company",
+        "summary": "News app operator SmartNews concluded a Supporting Company contract with J.League, effective from June 2026. The deal pairs J.League's regionally rooted content with SmartNews' content-curation algorithm and its network of more than 3,000 domestic and international media partners, aimed at bringing league and club storylines to a wider audience."
+      },
+      "ja": {
+        "title": "Jリーグ、スマートニュースとサポーティングカンパニー契約を締結",
+        "summary": "ニュースアプリを運営するスマートニュースは、2026年6月付でJリーグとサポーティングカンパニー契約を締結した。この提携により、地域に根ざしたJリーグのコンテンツと、スマートニュースのコンテンツ配信アルゴニズムおよび国内外3000以上のメディアパートナー網が組み合わされ、リーグやクラブの話題をより多くの読者に届けることを目指す。"
+      },
+      "es": {
+        "title": "La J.League ficha a SmartNews como empresa de apoyo",
+        "summary": "El operador de la aplicación de noticias SmartNews firmó un contrato de Empresa de Apoyo con la J.League, vigente desde junio de 2026. El acuerdo combina el contenido de la J.League, arraigado en las comunidades locales, con el algoritmo de curación de contenidos de SmartNews y su red de más de 3.000 socios de medios nacionales e internacionales, con el objetivo de llevar las historias de la liga y sus clubes a un público más amplio."
+      },
+      "zh": {
+        "title": "J联赛与SmartNews签订支持企业合约",
+        "summary": "新闻应用运营商SmartNews与日本J联赛签订支持企业合约,自2026年6月起生效。该合作将J联赛扎根地方的内容与SmartNews的内容推荐算法及其国内外3000多家媒体合作伙伴网络相结合,旨在让联赛和俱乐部的相关资讯触达更广泛的受众。"
+      },
+      "fr": {
+        "title": "La J.League signe SmartNews comme entreprise partenaire de soutien",
+        "summary": "L'opérateur de l'application d'actualités SmartNews a conclu un contrat d'entreprise partenaire de soutien avec la J.League, effectif depuis juin 2026. L'accord associe le contenu de la J.League, ancré dans les régions, à l'algorithme de curation de contenu de SmartNews et à son réseau de plus de 3 000 partenaires médias nationaux et internationaux, afin de porter les histoires de la ligue et de ses clubs auprès d'un public plus large."
+      }
+    }
+  },
+  {
+    "id": "nissan-stadium-naming-rights-renewal-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-03-01T00:00:00Z",
+    "source_name": "Gekisaka",
+    "source_url": "https://web.gekisaka.jp/news/jleague/detail/%3F446996-446996-fl",
+    "i18n": {
+      "en": {
+        "title": "Nissan Renews Naming Rights to Yokohama's Nissan Stadium Through 2031",
+        "summary": "Nissan Motor renewed its naming-rights contract for the Yokohama International Stadium, keeping the 'Nissan Stadium' name in place for another five years through February 2031. The deal, covering the venue used by Yokohama F. Marinos and worth about 650 million yen including surrounding facilities, is one of several J.League-area naming-rights renewals taking effect this year."
+      },
+      "ja": {
+        "title": "日産、横浜国際総合競技場のネーミングライツを2031年まで更新",
+        "summary": "日産自動車は、横浜国際総合競技場のネーミングライツ契約を更新し、「日産スタジアム」の呼称を2031年2月末まで5年間継続することを決めた。横浜F・マリノスが使用するこの競技場に関する契約は、周辺施設を含めた総額約6.5億円規模で、今年発効するJリーグ関連のネーミングライツ更新の一つとなる。"
+      },
+      "es": {
+        "title": "Nissan renueva los derechos de denominación del Nissan Stadium de Yokohama hasta 2031",
+        "summary": "Nissan Motor renovó su contrato de derechos de denominación del Estadio Internacional de Yokohama, manteniendo el nombre 'Nissan Stadium' durante otros cinco años, hasta febrero de 2031. El acuerdo, que cubre el recinto utilizado por el Yokohama F. Marinos y tiene un valor de unos 650 millones de yenes incluyendo instalaciones circundantes, es una de varias renovaciones de derechos de denominación en el entorno de la J.League que entran en vigor este año."
+      },
+      "zh": {
+        "title": "日产将横滨日产体育场命名权续约至2031年",
+        "summary": "日产汽车续签了横滨国际综合运动场的命名权合约,使“日产体育场”这一名称继续保留五年,至2031年2月。该合约涉及横滨水手队主场使用的这座体育场,连同周边设施总价值约6.5亿日元,是今年多项J联赛相关命名权续约中的一例。"
+      },
+      "fr": {
+        "title": "Nissan renouvelle les droits de dénomination du Nissan Stadium de Yokohama jusqu'en 2031",
+        "summary": "Nissan Motor a renouvelé son contrat de droits de dénomination pour le Stade international de Yokohama, conservant le nom « Nissan Stadium » pour cinq années supplémentaires, jusqu'en février 2031. L'accord, qui concerne l'enceinte utilisée par les Yokohama F. Marinos et dont la valeur avoisine 650 millions de yens avec les installations environnantes, fait partie de plusieurs renouvellements de droits de dénomination liés à la J.League entrant en vigueur cette année."
+      }
+    }
   }
 ]
