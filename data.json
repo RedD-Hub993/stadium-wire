@@ -6671,5 +6671,274 @@
         "summary": "L'organisation européenne d'esports GIANTX a signé un accord avec l'université en ligne malaguène UTAMED, qui devient son « partenaire éducatif officiel » jusqu'à fin 2026. Le logo d'UTAMED figurera au niveau de la clavicule sur le maillot de GIANTX lors du League of Legends EMEA Championship, l'une des principales compétitions d'esports en Europe, dans le cadre d'une collaboration plus large autour du contenu et des réseaux sociaux visant à relier jeu vidéo et éducation."
       }
     }
+  },
+  {
+    "id": "ny-giants-koch-family-stake-sale-2025",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2025-10-22T00:00:00Z",
+    "source_name": "NBC Sports",
+    "source_url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-announce-sale-of-minority-ownership-stake-to-julia-koch-and-family",
+    "i18n": {
+      "en": {
+        "title": "NFL Owners Approve Giants' Sale of 10% Stake to Koch Family",
+        "summary": "League owners signed off on the New York Giants' sale of a 10% non-controlling interest to Julia Koch and her family, a deal that reportedly values the franchise at more than $10 billion. The transaction sets a new high-water mark for an NFL team and leaves the Mara and Tisch families each holding 45% of the club, with their roles atop the organization unchanged."
+      },
+      "ja": {
+        "title": "NFL、ジャイアンツの株式10%をコック家に売却する取引を承認",
+        "summary": "NFLの各オーナーは、ニューヨーク・ジャイアンツが非支配的株式の10%をジュリア・コック氏とその家族に売却する取引を承認した。報道によれば球団の評価額は100億ドルを超え、NFL史上最高額となる。マーラ家とティッシュ家はそれぞれ45%の株式を保有し続け、経営体制に変更はないとされている。"
+      },
+      "es": {
+        "title": "La NFL aprueba la venta del 10% de los Giants a la familia Koch",
+        "summary": "Los propietarios de la liga aprobaron la venta de una participación minoritaria del 10% de los New York Giants a Julia Koch y su familia, en una operación que según reportes valora a la franquicia en más de 10.000 millones de dólares. La cifra marca un récord para un equipo de la NFL, mientras las familias Mara y Tisch conservan un 45% cada una sin cambios en la dirección del club."
+      },
+      "zh": {
+        "title": "NFL批准纽约巨人队将10%股权出售给科赫家族",
+        "summary": "NFL各队老板已批准纽约巨人队将10%的非控股股权出售给朱莉娅·科赫及其家族，据报道该交易对球队的估值超过100亿美元,创下NFL球队估值新纪录。马拉家族与蒂施家族仍各持45%股份,球队管理层保持不变。"
+      },
+      "fr": {
+        "title": "La NFL approuve la vente de 10% des Giants à la famille Koch",
+        "summary": "Les propriétaires de la ligue ont approuvé la vente d'une participation minoritaire de 10% des New York Giants à Julia Koch et sa famille, une opération qui valoriserait la franchise à plus de 10 milliards de dollars. Ce montant établit un record pour une équipe de la NFL, les familles Mara et Tisch conservant chacune 45% des parts sans changement de direction."
+      }
+    }
+  },
+  {
+    "id": "patriots-sixth-street-metropoulos-stake-2025",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2025-09-25T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/business/team-sales/2025/new-england-patriots-stake-sale-sixth-street-1234872048/",
+    "i18n": {
+      "en": {
+        "title": "Patriots to Sell 8% Stake to Sixth Street and Dean Metropoulos at $9B Valuation",
+        "summary": "Robert Kraft has agreed to sell an 8% stake in the New England Patriots to investment firm Sixth Street and billionaire Dean Metropoulos, in a deal valuing the franchise above $9 billion. It is the first time Kraft has sold any portion of the team since buying it more than three decades ago, and the Kraft family will retain over 90% ownership."
+      },
+      "ja": {
+        "title": "ペイトリオッツ、シックス・ストリートとメトロポロス氏に株式8%を売却、評価額90億ドル超",
+        "summary": "ロバート・クラフト氏はニューイングランド・ペイトリオッツの株式8%を、投資会社シックス・ストリートと実業家ディーン・メトロポロス氏に売却することで合意した。取引額は球団の評価額を90億ドル超とするものとなる。クラフト氏が30年以上前に球団を買収して以来、初めて株式の一部を売却するケースで、クラフト家は90%超の所有権を維持する。"
+      },
+      "es": {
+        "title": "Los Patriots venderán un 8% de participación a Sixth Street y Dean Metropoulos por 9.000 millones",
+        "summary": "Robert Kraft acordó vender una participación del 8% en los New England Patriots a la firma de inversión Sixth Street y al multimillonario Dean Metropoulos, en una operación que valora a la franquicia en más de 9.000 millones de dólares. Es la primera vez que Kraft vende parte del equipo desde que lo adquirió hace más de tres décadas, y la familia Kraft conservará más del 90% de la propiedad."
+      },
+      "zh": {
+        "title": "爱国者队将把8%股权出售给Sixth Street和梅特罗普洛斯,估值超90亿美元",
+        "summary": "罗伯特·克拉夫特已同意将新英格兰爱国者队8%的股权出售给投资公司Sixth Street及亿万富翁迪恩·梅特罗普洛斯,该交易对球队的估值超过90亿美元。这是克拉夫特三十多年前收购球队以来首次出售部分股权,克拉夫特家族仍将持有超过90%的所有权。"
+      },
+      "fr": {
+        "title": "Les Patriots vont céder 8% de leurs parts à Sixth Street et Dean Metropoulos pour 9 milliards",
+        "summary": "Robert Kraft a accepté de vendre une participation de 8% dans les New England Patriots à la société d'investissement Sixth Street et au milliardaire Dean Metropoulos, dans un accord valorisant la franchise à plus de 9 milliards de dollars. C'est la première fois que Kraft vend une partie de l'équipe depuis son acquisition il y a plus de trente ans, et la famille Kraft conservera plus de 90% de la propriété."
+      }
+    }
+  },
+  {
+    "id": "npb-pokemon-baseball-carnival-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "fan",
+      "sponsor"
+    ],
+    "published_at": "2026-02-26T00:00:00Z",
+    "source_name": "Famitsu",
+    "source_url": "https://www.famitsu.com/article/202602/67114",
+    "i18n": {
+      "en": {
+        "title": "NPB's 12 Teams Launch Season-Long Pokemon Collaboration for Franchise's 30th Anniversary",
+        "summary": "All 12 Nippon Professional Baseball clubs will run a season-long 'Pokemon Baseball Carnival 2026' promotion marking Pokemon's 30th anniversary. Each team gets its own uniformed Pikachu and a partner Pokemon matched to its colors, with special theme games, exclusive merchandise and Pokemon Go raid events planned throughout the 2026 season."
+      },
+      "ja": {
+        "title": "NPB12球団、ポケモン30周年を記念したシーズン通しコラボ企画を実施",
+        "summary": "日本プロ野球の12球団は、ポケモン誕生30周年を記念した「ポケモンベースボールカーニバル2026」をシーズンを通して展開する。各球団のユニフォームを着たピカチュウと、チームカラーに合わせたパートナーポケモンが登場し、特別演出試合や限定グッズ販売、『ポケモンGO』の特別レイドバトルなどが2026年シーズン中に予定されている。"
+      },
+      "es": {
+        "title": "Los 12 equipos de la NPB lanzan una colaboración con Pokemon por el 30 aniversario de la franquicia",
+        "summary": "Los 12 clubes de la Liga Profesional de Béisbol de Japón (NPB) desarrollarán durante toda la temporada 2026 la promoción 'Pokemon Baseball Carnival 2026' para celebrar el 30 aniversario de Pokemon. Cada equipo tendrá su propio Pikachu uniformado y un Pokemon compañero asociado a sus colores, con partidos temáticos especiales, mercancía exclusiva y eventos de incursión de Pokemon Go durante toda la temporada."
+      },
+      "zh": {
+        "title": "NPB12支球队推出贯穿全季的宝可梦联动活动,庆祝品牌30周年",
+        "summary": "日本职业棒球组织(NPB)旗下12支球队将在整个2026赛季开展“宝可梦棒球嘉年华2026”活动,以纪念宝可梦品牌诞生30周年。每支球队都将拥有专属的穿队服皮卡丘以及与球队颜色相匹配的搭档宝可梦,赛季期间还将举办主题特别赛、限定周边商品销售及《宝可梦GO》特别团体战活动。"
+      },
+      "fr": {
+        "title": "Les 12 clubs de NPB lancent une collaboration Pokemon sur toute la saison pour le 30e anniversaire",
+        "summary": "Les 12 clubs de la Nippon Professional Baseball organiseront tout au long de la saison 2026 la promotion « Pokemon Baseball Carnival 2026 » pour célébrer les 30 ans de Pokemon. Chaque équipe aura son propre Pikachu en uniforme et un Pokemon partenaire assorti à ses couleurs, avec des matchs à thème spéciaux, des produits exclusifs et des événements de raid Pokemon Go prévus durant toute la saison."
+      }
+    }
+  },
+  {
+    "id": "kashima-antlers-new-stadium-2033",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "team"
+    ],
+    "published_at": "2026-02-12T00:00:00Z",
+    "source_name": "Soccer King",
+    "source_url": "https://www.soccer-king.jp/news/japan/jl/20260212/2124786.html",
+    "i18n": {
+      "en": {
+        "title": "Kashima Antlers, Ibaraki Prefecture Unveil New Stadium Project Targeting 2033 Opening",
+        "summary": "Kashima Antlers, Ibaraki Prefecture and Kashima City jointly announced plans for a new stadium on land adjacent to the club's current home, targeting completion around 2033. The move addresses rising upkeep costs at the more than 30-year-old venue, now known as Mercari Stadium, which run to roughly 800 million yen a year."
+      },
+      "ja": {
+        "title": "鹿島アントラーズと茨城県、2033年開業目標の新スタジアム計画を発表",
+        "summary": "鹿島アントラーズ、茨城県、鹿嶋市は、現在のスタジアムに隣接する土地に新スタジアムを整備する計画を共同で発表し、2033年ごろの完成を目指す。建設から30年以上が経過し「メルカリスタジアム」と呼ばれる現本拠地は、年間約8億円に上る維持管理コストが課題となっていた。"
+      },
+      "es": {
+        "title": "Kashima Antlers y la prefectura de Ibaraki presentan un proyecto de nuevo estadio para 2033",
+        "summary": "Kashima Antlers, la prefectura de Ibaraki y la ciudad de Kashima anunciaron conjuntamente planes para un nuevo estadio en terrenos junto a la actual sede del club, con el objetivo de finalizarlo hacia 2033. La medida responde al aumento de los costos de mantenimiento del recinto actual, conocido como Mercari Stadium y con más de 30 años de antigüedad, que ascienden a unos 800 millones de yenes anuales."
+      },
+      "zh": {
+        "title": "鹿岛鹿角与茨城县公布新球场计划,目标2033年建成",
+        "summary": "鹿岛鹿角队、茨城县与鹿岛市联合公布了在现有主场旁兴建新球场的计划,目标在2033年前后完工。目前已使用超过30年、现称“Mercari Stadium”的主场每年维护成本高达约8亿日元,成为推动新建计划的主要原因。"
+      },
+      "fr": {
+        "title": "Les Kashima Antlers et la préfecture d'Ibaraki présentent un projet de nouveau stade pour 2033",
+        "summary": "Les Kashima Antlers, la préfecture d'Ibaraki et la ville de Kashima ont annoncé conjointement un projet de nouveau stade sur un terrain adjacent au domicile actuel du club, avec un objectif d'achèvement vers 2033. Cette décision répond à la hausse des coûts d'entretien du site actuel, vieux de plus de 30 ans et connu sous le nom de Mercari Stadium, qui s'élèvent à environ 800 millions de yens par an."
+      }
+    }
+  },
+  {
+    "id": "liverpool-turkish-airlines-shirt-sponsor-2027",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-08T00:00:00Z",
+    "source_name": "InsiderSport",
+    "source_url": "https://insidersport.com/2026/09/08/liverpool-signs-turkish-airlines-deal/",
+    "i18n": {
+      "en": {
+        "title": "Liverpool Agree Record £300m Front-of-Shirt Deal With Turkish Airlines",
+        "summary": "Liverpool have signed Turkish Airlines as their new front-of-shirt partner starting with the 2027-28 season, in a five-year deal worth around £300 million in total, or more than £60 million per season. The agreement is believed to be the most lucrative front-of-shirt-only sponsorship in Premier League history."
+      },
+      "ja": {
+        "title": "リバプール、トルコ航空と総額3億ポンドの胸スポンサー契約を締結",
+        "summary": "リバプールは、2027-28シーズンから新たな胸スポンサーとしてトルコ航空と契約を締結した。契約期間は5年間、総額は約3億ポンド、年間では6000万ポンドを超える規模となる。この契約はプレミアリーグ史上最も高額な胸スポンサー単独契約とみられている。"
+      },
+      "es": {
+        "title": "Liverpool firma un acuerdo récord de 300 millones de libras con Turkish Airlines para el frente de su camiseta",
+        "summary": "El Liverpool ha fichado a Turkish Airlines como nuevo patrocinador principal en el frente de su camiseta a partir de la temporada 2027-28, en un acuerdo de cinco años valorado en unos 300 millones de libras en total, más de 60 millones de libras por temporada. Se considera el patrocinio exclusivo de frente de camiseta más lucrativo en la historia de la Premier League."
+      },
+      "zh": {
+        "title": "利物浦与土耳其航空达成总额3亿英镑的胸前广告赞助纪录协议",
+        "summary": "利物浦已与土耳其航空签订协议,自2027-28赛季起成为球队新的球衣胸前广告赞助商,合同为期五年,总价值约3亿英镑,即每个赛季超过6000万英镑。该协议被认为是英超历史上纯胸前广告赞助金额最高的一笔交易。"
+      },
+      "fr": {
+        "title": "Liverpool signe un accord record de 300 millions de livres avec Turkish Airlines pour le sponsor maillot",
+        "summary": "Liverpool a signé Turkish Airlines comme nouveau sponsor principal à l'avant du maillot à partir de la saison 2027-28, dans un accord de cinq ans d'une valeur totale d'environ 300 millions de livres, soit plus de 60 millions par saison. Cet accord serait le partenariat exclusif de sponsor maillot le plus lucratif de l'histoire de la Premier League."
+      }
+    }
+  },
+  {
+    "id": "brentford-indeed-shirt-sponsor-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-04-21T00:00:00Z",
+    "source_name": "SportBusiness",
+    "source_url": "https://www.sportbusiness.com/news/brentford-upgrades-indeed-amid-betting-sponsor-ban/",
+    "i18n": {
+      "en": {
+        "title": "Brentford Upgrade Indeed to Front-of-Shirt Sponsor Ahead of Premier League Betting Ban",
+        "summary": "Brentford confirmed that hiring platform Indeed will become the club's principal and front-of-shirt partner from the 2026-27 season, moving up from its existing training-kit deal. The upgrade replaces gambling brand Hollywoodbets as the Premier League's ban on front-of-shirt betting sponsorships takes effect, with Indeed branding set to appear across men's, women's and academy kits."
+      },
+      "ja": {
+        "title": "ブレントフォード、賭博スポンサー禁止を前にインディードを胸スポンサーへ格上げ",
+        "summary": "ブレントフォードは、求人プラットフォームのインディードを2026-27シーズンからクラブのメインパートナー兼胸スポンサーとすることを確認した。これまでのトレーニングキットスポンサーからの格上げとなる。プレミアリーグで胸スポンサーへの賭博ブランド起用が禁止されることを受け、ギャンブルブランドのハリウッドベッツに代わる形となり、インディードのロゴは男女トップチームとアカデミーのキットに表示される予定。"
+      },
+      "es": {
+        "title": "Brentford asciende a Indeed a patrocinador principal del frente de la camiseta ante la prohibición de apuestas",
+        "summary": "El Brentford confirmó que la plataforma de empleo Indeed se convertirá en el patrocinador principal y del frente de la camiseta del club a partir de la temporada 2026-27, tras ascender desde su actual acuerdo como patrocinador de la ropa de entrenamiento. El ascenso sustituye a la marca de apuestas Hollywoodbets, en vista de la prohibición de la Premier League sobre patrocinadores de apuestas en el frente de la camiseta, con el logo de Indeed apareciendo en las camisetas masculinas, femeninas y de la academia."
+      },
+      "zh": {
+        "title": "英超禁止博彩广告前,布伦特福德将Indeed升级为胸前广告赞助商",
+        "summary": "布伦特福德官方确认,招聘平台Indeed将从2026-27赛季起升级为球队的主要合作伙伴及球衣胸前广告赞助商,此前该品牌只是球队训练服赞助商。随着英超禁止博彩品牌出现在球衣胸前广告位,这一升级将取代博彩品牌Hollywoodbets,Indeed的标识将出现在男女一队及青训队的球衣上。"
+      },
+      "fr": {
+        "title": "Brentford promeut Indeed au rang de sponsor maillot avant l'interdiction des paris sportifs",
+        "summary": "Brentford a confirmé que la plateforme de recrutement Indeed deviendra le partenaire principal et sponsor à l'avant du maillot du club à partir de la saison 2026-27, après avoir été sponsor des tenues d'entraînement. Cette promotion remplace la marque de paris Hollywoodbets, à l'approche de l'interdiction par la Premier League des sponsors de paris à l'avant des maillots, le logo Indeed devant apparaître sur les maillots masculins, féminins et de l'académie."
+      }
+    }
+  },
+  {
+    "id": "mclaren-etihad-airways-f1-partner-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-02-26T00:00:00Z",
+    "source_name": "McLaren Racing",
+    "source_url": "https://www.mclaren.com/racing/latest-news/2026/mclaren-racing-announces-etihad-airways-as-an-official-partner/",
+    "i18n": {
+      "en": {
+        "title": "McLaren Signs Etihad Airways as Official Partner Across F1 and WEC Programs",
+        "summary": "McLaren Racing announced Etihad Airways as an official partner of its Formula 1 team and its United Autosports World Endurance Championship Hypercar entry from 2026. Etihad branding will feature on the MCL40's rear wing and halo and on driver helmets, while the UAE carrier plans a special McLaren-liveried Boeing 787 later this year."
+      },
+      "ja": {
+        "title": "マクラーレン、エティハド航空をF1とWECの公式パートナーに",
+        "summary": "マクラーレン・レーシングは、2026年からエティハド航空をF1チームおよびユナイテッド・オートスポーツのWEC（世界耐久選手権）ハイパーカー参戦チームの公式パートナーとすることを発表した。エティハドのロゴはMCL40のリアウイングとヘイロー、ドライバーのヘルメットに表示される予定で、同航空会社は今年中にマクラーレン仕様の特別塗装のボーイング787を導入する計画としている。"
+      },
+      "es": {
+        "title": "McLaren ficha a Etihad Airways como socio oficial en sus programas de F1 y WEC",
+        "summary": "McLaren Racing anunció a Etihad Airways como socio oficial de su equipo de Fórmula 1 y de su participación en la categoría Hypercar del Campeonato Mundial de Resistencia (WEC) con United Autosports a partir de 2026. El logo de Etihad aparecerá en el alerón trasero y el halo del MCL40, así como en los cascos de los pilotos, mientras la aerolínea de Emiratos Árabes Unidos prepara un Boeing 787 con una decoración especial de McLaren para más adelante este año."
+      },
+      "zh": {
+        "title": "迈凌伦签下阿提哈德航空成为F1及WEC项目官方合作伙伴",
+        "summary": "迈凌伦车队宣布阿提哈德航空自2026年起成为其F1车队及与联合汽车运动合作出战世界耐力锦标赛(WEC)超级跑车组别的官方合作伙伴。阿提哈德的标识将出现在MCL40赛车的尾翼与halo装置以及车手头盔上,这家阿联酋航空公司还计划今年推出一架迈凌伦特别涂装的波音787客机。"
+      },
+      "fr": {
+        "title": "McLaren signe Etihad Airways comme partenaire officiel pour ses programmes F1 et WEC",
+        "summary": "McLaren Racing a annoncé Etihad Airways comme partenaire officiel de son équipe de Formule 1 et de son engagement en catégorie Hypercar du Championnat du monde d'endurance (WEC) avec United Autosports, à partir de 2026. Le logo d'Etihad figurera sur l'aileron arrière et le halo de la MCL40 ainsi que sur les casques des pilotes, tandis que la compagnie émiratie prévoit un Boeing 787 à la livrée spéciale McLaren plus tard cette année."
+      }
+    }
+  },
+  {
+    "id": "mufg-jleague-top-partner-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-03-12T00:00:00Z",
+    "source_name": "J.League",
+    "source_url": "https://www.jleague.jp/corporate/pressrelease/article/15895",
+    "i18n": {
+      "en": {
+        "title": "MUFG Bank Signs On as J.League Top Partner and All-Star Platinum Partner",
+        "summary": "MUFG Bank has signed a J.League Top Partner agreement starting in April 2026, alongside a separate Platinum Partner deal tied to the J.League All-Star Game beginning that March. The partnership covers business matchmaking events and executive seminars with local companies, collaboration on stadium-linked regional development, and joint efforts on financial-service access and digital transformation across J.League markets."
+      },
+      "ja": {
+        "title": "三菱UFJ銀行、Jリーグとトップパートナー契約・オールスタープラチナパートナー契約を締結",
+        "summary": "三菱UFJ銀行は、2026年4月開始のJリーグトップパートナー契約と、同年3月開始のJリーグオールスターにかかるプラチナパートナー契約を締結した。提携内容には、地場企業とのビジネス交流会や経営者向けセミナーの開催、スタジアム開発を含む地域プロジェクトでの協業、金融サービス利用促進や地域における資金循環の仕組みづくり、DX推進などが含まれる。"
+      },
+      "es": {
+        "title": "MUFG Bank se convierte en Socio Principal de la J.League y socio Platino del All-Star",
+        "summary": "MUFG Bank firmó un acuerdo como Socio Principal de la J.League que comenzará en abril de 2026, junto con un acuerdo independiente como socio Platino vinculado al Partido de Estrellas de la J.League que arranca ese marzo. La colaboración abarca encuentros de negocios y seminarios para ejecutivos con empresas locales, cooperación en proyectos regionales ligados a estadios, y esfuerzos conjuntos sobre acceso a servicios financieros y transformación digital en los mercados de la J.League."
+      },
+      "zh": {
+        "title": "三菱UFJ银行成为J联赛顶级合作伙伴及全明星赛铂金合作伙伴",
+        "summary": "三菱UFJ银行已签署自2026年4月起生效的J联赛顶级合作伙伴协议,并另行签订了与当年3月开赛的J联赛全明星赛相关的铂金合作伙伴协议。合作内容包括与地方企业举办商务交流活动及经营者研讨会、参与包括球场开发的地区项目合作,以及推动金融服务普及、区域资金循环机制建设和数字化转型。"
+      },
+      "fr": {
+        "title": "MUFG Bank devient partenaire principal de la J.League et partenaire Platine du All-Star Game",
+        "summary": "MUFG Bank a signé un accord de partenaire principal de la J.League à compter d'avril 2026, ainsi qu'un accord distinct de partenaire Platine lié au match des étoiles de la J.League débutant en mars de la même année. Le partenariat couvre des événements de mise en relation d'affaires et des séminaires pour dirigeants avec des entreprises locales, une collaboration sur des projets régionaux liés aux stades, ainsi que des efforts communs sur l'accès aux services financiers et la transformation numérique dans les marchés de la J.League."
+      }
+    }
   }
 ]
