@@ -6938,5 +6938,273 @@
         "summary": "Le fournisseur de technologie d'engagement des fans FanCompass a annoncé un partenariat d'apport d'affaires avec l'agence de marketing numérique Digital Ignite, destiné à aider les organisations sportives et de divertissement à développer et monétiser leur base de fans. Les outils ludifiés de FanCompass, comme les quiz et les jeux à gain instantané, seront associés aux services de médias payants et de ciblage d'audience de Digital Ignite afin de transformer l'engagement numérique en données propriétaires et en nouvelles sources de revenus."
       }
     }
+  },
+  {
+    "id": "serie-a-private-equity-bidders-media-rights-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "biz",
+      "sponsor"
+    ],
+    "published_at": "2026-09-15T00:00:00Z",
+    "source_name": "Inside World Football",
+    "source_url": "https://www.insideworldfootball.com/2026/09/15/ten-bidders-for-serie-a-media-rights-sponsorship-and-betting-company/",
+    "i18n": {
+      "en": {
+        "title": "Serie A Draws Around Ten Bidders for Stake in New Media and Betting Company",
+        "summary": "Italy's Serie A has attracted roughly ten private-equity suitors, including Bain Capital, Carlyle and Blackstone, for a minority stake of 10-20% in a newly formed company that would hold the league's international media rights, overseas sponsorship and betting-related business. The league plans to keep majority control, and any agreement needs the backing of at least 14 of its 20 clubs in a vote expected by November."
+      },
+      "ja": {
+        "title": "セリエA、新設の海外事業会社の株式取得に約10社が応札",
+        "summary": "イタリアのセリエAは、海外向けの放映権やスポンサー、賭博関連事業を担う新会社の10〜20%の少数株式取得をめぐり、ベインキャピタルやカーライル、ブラックストーンなど約10社から応札を受けた。リーグ側は過半数の支配権を維持する方針で、取引の成立には加盟20クラブ中14クラブ以上の賛成が必要となり、採決は11月までに行われる見通しだ。"
+      },
+      "es": {
+        "title": "La Serie A recibe cerca de diez ofertas por una participación en su nueva empresa de medios y apuestas",
+        "summary": "La Serie A italiana ha atraído a cerca de diez fondos de capital privado, entre ellos Bain Capital, Carlyle y Blackstone, interesados en adquirir entre un 10% y un 20% de una nueva sociedad que agruparía los derechos de televisión internacionales, el patrocinio en el extranjero y el negocio de apuestas de la liga. La liga planea conservar el control mayoritario, y cualquier acuerdo necesitará el respaldo de al menos 14 de sus 20 clubes en una votación prevista para noviembre."
+      },
+      "zh": {
+        "title": "意甲新设海外业务公司股权招标，约十家机构参与竞购",
+        "summary": "意大利意甲联赛为旗下负责国际转播权、海外赞助及博彩相关业务的新公司寻求出售10%至20%的少数股权，吸引了贝恩资本、凯雷和黑石等约十家私募机构参与竞购。联赛方面计划保留多数控制权，交易需获得20家俱乐部中至少14家的支持，预计将于11月前进行表决。"
+      },
+      "fr": {
+        "title": "La Serie A reçoit une dizaine d'offres pour une participation dans sa nouvelle société de médias et de paris",
+        "summary": "Le championnat italien de Serie A a attiré près d'une dizaine de fonds d'investissement, dont Bain Capital, Carlyle et Blackstone, intéressés par une prise de participation minoritaire de 10 à 20% dans une nouvelle société regroupant les droits médias internationaux, le sponsoring à l'étranger et les activités liées aux paris. La ligue compte conserver le contrôle majoritaire, et tout accord devra être approuvé par au moins 14 des 20 clubs lors d'un vote attendu d'ici novembre."
+      }
+    }
+  },
+  {
+    "id": "man-city-seatgeek-global-ticketing-partnership-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "tech",
+      "fan"
+    ],
+    "published_at": "2026-09-20T00:00:00Z",
+    "source_name": "SeatGeek",
+    "source_url": "https://seatgeek.com/press/manchester-city-announces-ticketing-technology-partnership-with-seatgeek",
+    "i18n": {
+      "en": {
+        "title": "Manchester City Expands Ticketing Partnership With SeatGeek Into Global Deal",
+        "summary": "Manchester City has upgraded its longstanding relationship with SeatGeek, in place since 2018, into a new global ticketing technology partnership. The agreement covers primary and resale ticketing for the club's matches, aiming to simplify entry and give fans a more unified purchasing experience."
+      },
+      "ja": {
+        "title": "マンチェスター・シティ、シートギークとのチケット契約を世界規模に拡大",
+        "summary": "マンチェスター・シティは2018年から続くシートギークとの提携関係を格上げし、新たにグローバルなチケッティング技術パートナーシップを締結した。契約には試合の一次販売とリセール双方のチケッティングが含まれ、入場手続きの簡略化とファンにとって一貫した購入体験の提供を狙う。"
+      },
+      "es": {
+        "title": "El Manchester City amplía su alianza de boletería con SeatGeek a nivel global",
+        "summary": "El Manchester City ha elevado su relación de larga data con SeatGeek, vigente desde 2018, a una nueva alianza tecnológica de boletería de alcance global. El acuerdo abarca tanto la venta primaria como la reventa de entradas para los partidos del club, con el objetivo de simplificar el ingreso y ofrecer una experiencia de compra más unificada a los aficionados."
+      },
+      "zh": {
+        "title": "曼城将与SeatGeek的票务合作升级为全球协议",
+        "summary": "曼城俱乐部将自2018年起与票务平台SeatGeek的长期合作关系升级为新的全球票务技术合作伙伴关系。该协议涵盖比赛门票的首次发售及转售业务，旨在简化入场流程，为球迷提供更统一的购票体验。"
+      },
+      "fr": {
+        "title": "Manchester City transforme son partenariat billetterie avec SeatGeek en accord mondial",
+        "summary": "Manchester City a fait évoluer sa relation de longue date avec SeatGeek, en place depuis 2018, vers un nouveau partenariat technologique de billetterie à l'échelle mondiale. L'accord couvre la vente initiale et la revente des billets pour les matchs du club, dans le but de simplifier l'accès au stade et d'offrir aux supporters une expérience d'achat plus homogène."
+      }
+    }
+  },
+  {
+    "id": "jleague-pia-u21-gold-partner-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-06-10T00:00:00Z",
+    "source_name": "J.League",
+    "source_url": "https://www.jleague.jp/corporate/pressrelease/article/15995",
+    "i18n": {
+      "en": {
+        "title": "Pia Becomes Gold Partner of New U-21 J.League Ahead of 2026/27 Launch",
+        "summary": "Ticketing and media company Pia has signed on as a Gold Partner of the newly created U-21 J.League, a competition for players aged 21 and under set to launch in the 2026/27 season with 11 clubs split into East and West groups. The deal adds a fresh corporate backer to the J.League's effort to build a development pathway for younger professional players."
+      },
+      "ja": {
+        "title": "ぴあ、2026/27年開幕のU-21Jリーグでゴールドパートナーに",
+        "summary": "チケット・メディア事業を手がけるぴあは、2026/27シーズンに開幕する新競技会「U-21Jリーグ」のゴールドパートナー契約を締結した。21歳以下の選手を対象とするこの大会は東西2グループ・計11クラブで構成され、若手プロ選手の育成の場づくりを進めるJリーグに新たな協賛企業が加わった形だ。"
+      },
+      "es": {
+        "title": "Pia se convierte en Socio Gold de la nueva Sub-21 de la J.League antes de su lanzamiento en 2026/27",
+        "summary": "La empresa de venta de entradas y medios Pia ha firmado como Socio Gold de la recién creada Sub-21 de la J.League, una competición para jugadores de 21 años o menos que se lanzará en la temporada 2026/27 con 11 clubes divididos en grupos Este y Oeste. El acuerdo suma un nuevo patrocinador corporativo al esfuerzo de la J.League por construir una vía de desarrollo para jugadores profesionales jóvenes."
+      },
+      "zh": {
+        "title": "pia成为新设U-21 J联赛黄金合作伙伴，该赛事将于2026/27赛季启动",
+        "summary": "票务与媒体企业pia公司已签约成为新设立的“U-21 J联赛”黄金合作伙伴，该项面向21岁以下球员的赛事将于2026/27赛季开赛，由东西两个分组共11支俱乐部组成。此次签约为J联赛打造年轻职业球员培养通道的计划增添了新的企业赞助商。"
+      },
+      "fr": {
+        "title": "Pia devient partenaire « Gold » de la nouvelle U-21 J.League avant son lancement en 2026/27",
+        "summary": "L'entreprise de billetterie et de médias Pia a signé en tant que partenaire « Gold » de la toute nouvelle U-21 J.League, une compétition réservée aux joueurs de 21 ans et moins qui débutera lors de la saison 2026/27 avec 11 clubs répartis en groupes Est et Ouest. Cet accord apporte un nouveau soutien financier à l'initiative de la J.League visant à bâtir une filière de formation pour les jeunes joueurs professionnels."
+      }
+    }
+  },
+  {
+    "id": "bleague-b-innovation-three-tier-restructure-2026",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "biz",
+      "team"
+    ],
+    "published_at": "2026-09-22T00:00:00Z",
+    "source_name": "B.LEAGUE",
+    "source_url": "https://www.newscoda.com/articles/bleague-business-reform-relegation-abolition-2026/",
+    "i18n": {
+      "en": {
+        "title": "B.LEAGUE Launches 'B.Innovation' Reform, Splitting Into Three Tiers by Club Finances",
+        "summary": "Japan's B.LEAGUE opened its 2026-27 season by scrapping its old two-division format in favor of a three-tier structure under a reform branded 'B.Innovation,' sorting its 55 clubs into B.Premier, B.One and B.Next based largely on revenue and attendance rather than only on-court results. The league says the overhaul is meant to push clubs toward stronger business operations as the season kicked off with Alvark Tokyo hosting the Ryukyu Golden Kings."
+      },
+      "ja": {
+        "title": "Bリーグ、経営指標で3階層に再編する「B.革新」始動",
+        "summary": "日本のBリーグは2026-27シーズン開幕にあわせ、従来の2部制を廃止し、「B.革新」と銘打った改革のもとでB.プレミア、B.ワン、B.ネクストの3階層制へ移行した。加盟55クラブは勝敗だけでなく収益や観客動員などの経営指標を基に区分され、リーグ側はクラブ経営の強化を促す狙いがあるとしており、開幕戦はアルバルク東京がホームに琉球ゴールデンキングスを迎えて行われた。"
+      },
+      "es": {
+        "title": "La B.LEAGUE lanza la reforma 'B.Innovation' y se divide en tres niveles según las finanzas de los clubes",
+        "summary": "La B.LEAGUE japonesa inició su temporada 2026-27 eliminando su antiguo formato de dos divisiones a favor de una estructura de tres niveles bajo una reforma llamada 'B.Innovation', que clasifica a sus 55 clubes en B.Premier, B.One y B.Next en función sobre todo de los ingresos y la asistencia de público, y no solo de los resultados deportivos. La liga afirma que el cambio busca impulsar una gestión empresarial más sólida en los clubes, y la temporada arrancó con el Alvark Tokyo recibiendo a los Ryukyu Golden Kings."
+      },
+      "zh": {
+        "title": "日本B联赛启动“B.革新”改革，按财务状况划分为三个等级",
+        "summary": "日本B联赛在2026-27赛季开幕之际，取消原有的两级联赛体制，转而实施名为“B.革新”的改革，将三个等级——B.Premier、B.One和B.Next，依据营收和上座人数等经营指标而非仅凭战绩对55家俱乐部进行重新分级。联赛方面表示，此举旨在推动各俱乐部加强经营管理，开幕战由阿尔瓦克东京主场迎战琉球黄金国王队。"
+      },
+      "fr": {
+        "title": "La B.LEAGUE lance la réforme « B.Innovation » et se scinde en trois niveaux selon les finances des clubs",
+        "summary": "La ligue japonaise B.LEAGUE a entamé sa saison 2026-27 en abandonnant son ancien format à deux divisions au profit d'une structure à trois niveaux dans le cadre d'une réforme baptisée « B.Innovation », répartissant ses 55 clubs en B.Premier, B.One et B.Next principalement selon les revenus et l'affluence plutôt que les seuls résultats sportifs. La ligue affirme que cette refonte vise à pousser les clubs vers une gestion plus solide, la saison ayant débuté avec l'Alvark Tokyo recevant les Ryukyu Golden Kings."
+      }
+    }
+  },
+  {
+    "id": "rogers-mlse-minority-stake-sale-plans-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-07-22T00:00:00Z",
+    "source_name": "BNN Bloomberg",
+    "source_url": "https://www.bnnbloomberg.ca/business/company-news/2026/07/22/rogers-communications-reports-q2-loss-as-it-took-non-cash-charge-related-to-mlse-deal/",
+    "i18n": {
+      "en": {
+        "title": "Rogers Eyes Minority Investors for Its Toronto Sports Empire After MLSE Buyout",
+        "summary": "After agreeing to pay roughly $4.35 billion to buy out the remaining quarter of Maple Leaf Sports and Entertainment it didn't already own, Rogers Communications says it plans to bring in outside minority investors for its combined sports and media portfolio by the first half of 2027. The group, covering the Blue Jays, Maple Leafs, Raptors, Toronto FC, Argonauts and Sportsnet, has been informally valued by Rogers at more than $25 billion, with proceeds from any stake sale expected to go toward paying down debt."
+      },
+      "ja": {
+        "title": "ロジャースコミュニケーションズ、MLSE完全子会社化後にトロント・スポーツ帝国への外部出資者募集へ",
+        "summary": "ロジャースコミュニケーションズは、未保有だったメープル・リーフ・スポーツ&エンターテインメント(MLSE)の残り4分の1の株式を約43億5000万ドルで買収することに合意した後、2027年上半期までに自社のスポーツ・メディア事業全体へ外部の少数株主を迎え入れる計画を示した。ブルージェイズやメープルリーフス、ラプターズ、トロントFC、アルゴノーツ、スポーツネットを含むこの事業群は同社内で250億ドル超と見積もられており、株式売却で得た資金は債務返済に充てる見通しだ。"
+      },
+      "es": {
+        "title": "Rogers busca inversores minoritarios para su imperio deportivo de Toronto tras la compra de MLSE",
+        "summary": "Después de acordar pagar unos 4,350 millones de dólares para adquirir la cuarta parte restante de Maple Leaf Sports and Entertainment que aún no poseía, Rogers Communications afirma que planea incorporar inversores minoritarios externos a su cartera combinada de deportes y medios antes de la primera mitad de 2027. El grupo, que incluye a los Blue Jays, los Maple Leafs, los Raptors, el Toronto FC, los Argonauts y Sportsnet, ha sido valorado informalmente por Rogers en más de 25,000 millones de dólares, y lo recaudado por la venta de participaciones se destinaría a reducir deuda."
+      },
+      "zh": {
+        "title": "罗杰斯通信收购MLSE剩余股权后，拟为多伦多体育帝国引入少数股权投资者",
+        "summary": "在同意斥资约43.5亿美元收购原本未持有的枫叶体育娱乐公司（MLSE）剩余四分之一股权后，罗杰斯通信表示计划在2027年上半年前为其整合后的体育与媒体业务引入外部少数股权投资者。该业务集团涵盖蓝鸟队、枫叶队、猛龙队、多伦多FC、阿尔戈人队及体育网（Sportsnet），公司内部估值超过250亿美元，出售股权所得资金预计将用于偿还债务。"
+      },
+      "fr": {
+        "title": "Rogers envisage des investisseurs minoritaires pour son empire sportif torontois après le rachat de MLSE",
+        "summary": "Après avoir accepté de verser environ 4,35 milliards de dollars pour racheter le quart restant de Maple Leaf Sports and Entertainment qu'elle ne détenait pas encore, Rogers Communications indique vouloir faire entrer des investisseurs minoritaires externes dans son portefeuille combiné de sport et de médias d'ici le premier semestre 2027. Ce groupe, qui réunit les Blue Jays, les Maple Leafs, les Raptors, le Toronto FC, les Argonauts et Sportsnet, est évalué en interne par Rogers à plus de 25 milliards de dollars, et le produit d'une éventuelle cession de parts servirait à rembourser sa dette."
+      }
+    }
+  },
+  {
+    "id": "snbl-kagoshima-united-fc-top-partner-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-01-30T00:00:00Z",
+    "source_name": "SNBL",
+    "source_url": "https://en.snbl.com/news/unitedfc-officialpartner2026/",
+    "i18n": {
+      "en": {
+        "title": "Pharma Firm SNBL Renews Official Top Partner Deal With Kagoshima United FC",
+        "summary": "Drug-development company SNBL has renewed its official top partner contract with J.League club Kagoshima United FC, covering the period from February 2026 through June 2027. The extension marks the eighth consecutive year of backing for the club since the companies' sponsorship ties began in 2019."
+      },
+      "ja": {
+        "title": "新薬開発のSNBL、鹿児島ユナイテッドFCとのオフィシャルトップパートナー契約を更新",
+        "summary": "新薬開発を手がけるSNBLは、Jリーグクラブの鹿児島ユナイテッドFCとのオフィシャルトップパートナー契約を更新し、2026年2月から2027年6月までを契約期間とした。両社の協賛関係は2019年に始まっており、今回の更新で8年連続のサポートとなる。"
+      },
+      "es": {
+        "title": "La farmacéutica SNBL renueva su acuerdo de socio principal oficial con el Kagoshima United FC",
+        "summary": "La empresa de desarrollo de fármacos SNBL ha renovado su contrato de socio principal oficial con el club de la J.League Kagoshima United FC, vigente desde febrero de 2026 hasta junio de 2027. La renovación marca el octavo año consecutivo de respaldo al club desde que comenzó su relación de patrocinio en 2019."
+      },
+      "zh": {
+        "title": "制药企业SNBL与鹿儿岛联FC续签官方首席合作伙伴协议",
+        "summary": "从事新药研发的SNBL公司已与J联赛球队鹿儿岛联FC续签官方首席合作伙伴协议，合同期为2026年2月至2027年6月。此次续约标志着双方自2019年建立赞助关系以来，已连续第八年提供支持。"
+      },
+      "fr": {
+        "title": "Le laboratoire pharmaceutique SNBL renouvelle son accord de partenaire officiel principal avec le Kagoshima United FC",
+        "summary": "L'entreprise de développement de médicaments SNBL a renouvelé son contrat de partenaire officiel principal avec le club de J.League Kagoshima United FC, pour une période allant de février 2026 à juin 2027. Ce renouvellement marque la huitième année consécutive de soutien au club depuis le début de leur relation de sponsoring en 2019."
+      }
+    }
+  },
+  {
+    "id": "nascar-freeway-insurance-premier-partner-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-02-01T00:00:00Z",
+    "source_name": "Racing America (SI)",
+    "source_url": "https://www.si.com/onsi/racing-america/news/nascar-lands-a-new-multi-year-premier-partner-beginning-in-2026",
+    "i18n": {
+      "en": {
+        "title": "Freeway Insurance Joins NASCAR's Top Sponsor Tier, Replacing GEICO",
+        "summary": "Freeway Insurance has signed on as a new multi-year NASCAR Premier Partner starting in 2026, taking the top-tier sponsorship slot previously held by GEICO alongside Busch Light, Coca-Cola and Xfinity. The announcement was made at Phoenix Raceway as part of NASCAR's push to keep its small group of series-wide marquee sponsors refreshed."
+      },
+      "ja": {
+        "title": "フリーウェイ・インシュランス、GEICOに代わりNASCARの最上位スポンサーに",
+        "summary": "保険会社フリーウェイ・インシュランスは2026年シーズンから複数年契約でNASCARのプレミアパートナーに就任し、これまでGEICOが保持していた最上位スポンサー枠をバッシュ・ライト、コカ・コーラ、エクスフィニティと並んで獲得した。発表はフェニックス・レースウェイで行われ、NASCARがシリーズ全体を代表する少数の主要スポンサー陣を刷新する取り組みの一環となる。"
+      },
+      "es": {
+        "title": "Freeway Insurance se une al máximo nivel de patrocinio de NASCAR en lugar de GEICO",
+        "summary": "Freeway Insurance ha firmado como nuevo Socio Premier de NASCAR por varios años a partir de 2026, ocupando el espacio de patrocinio de más alto nivel que antes tenía GEICO junto a Busch Light, Coca-Cola y Xfinity. El anuncio se realizó en Phoenix Raceway, dentro del esfuerzo de NASCAR por renovar su reducido grupo de patrocinadores estrella de toda la serie."
+      },
+      "zh": {
+        "title": "Freeway Insurance取代GEICO跻身NASCAR最高级别赞助商",
+        "summary": "保险公司Freeway Insurance自2026赛季起签约成为NASCAR新的多年期“至尊合作伙伴”，接替此前由GEICO持有的最高级别赞助席位，与Busch Light、可口可乐及Xfinity并列。该消息在凤凰城赛道宣布，是NASCAR持续更新其系列赛顶级赞助商阵容举措的一部分。"
+      },
+      "fr": {
+        "title": "Freeway Insurance intègre le plus haut niveau de sponsoring de NASCAR en remplacement de GEICO",
+        "summary": "Freeway Insurance a signé un contrat pluriannuel en tant que nouveau Partenaire Premier de NASCAR à partir de 2026, occupant la place de sponsor de premier rang auparavant détenue par GEICO, aux côtés de Busch Light, Coca-Cola et Xfinity. L'annonce a eu lieu à Phoenix Raceway, dans le cadre des efforts de NASCAR pour renouveler son cercle restreint de sponsors vedettes à l'échelle de la série."
+      }
+    }
+  },
+  {
+    "id": "forbes-nfl-valuations-2026-cowboys-top",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-09-02T00:00:00Z",
+    "source_name": "Forbes",
+    "source_url": "https://groundnews.lakegeneva.lib.wi.us/article/the-nfls-most-valuable-teams-2026",
+    "i18n": {
+      "en": {
+        "title": "Cowboys Top Forbes' 2026 NFL Valuations for 20th Straight Year as League Values Jump",
+        "summary": "Forbes' 2026 franchise valuations place the Dallas Cowboys atop the NFL for the 20th consecutive year at an estimated $17 billion, ahead of the Los Angeles Rams, New York Giants and New England Patriots. The magazine found average league values rose sharply after Rob Walton's group paid $4.65 billion for the Denver Broncos, resetting the market's benchmark price for a franchise."
+      },
+      "ja": {
+        "title": "フォーブス2026年NFL球団価値、カウボーイズが20年連続首位 リーグ全体の評価額も急伸",
+        "summary": "フォーブス誌が発表した2026年のNFL球団価値ランキングで、ダラス・カウボーイズが推定170億ドルで20年連続の首位となり、ロサンゼルス・ラムズ、ニューヨーク・ジャイアンツ、ニューイングランド・ペイトリオッツが続いた。同誌によると、ロブ・ウォルトン氏のグループがデンバー・ブロンコスを46億5000万ドルで買収したことを受け、球団価値の市場基準が引き上げられ、リーグ全体の平均評価額も大きく上昇したという。"
+      },
+      "es": {
+        "title": "Los Cowboys encabezan las valoraciones de la NFL de Forbes en 2026 por 20º año consecutivo",
+        "summary": "Las valoraciones de franquicias de Forbes para 2026 sitúan a los Dallas Cowboys en lo más alto de la NFL por vigésimo año consecutivo, con un valor estimado de 17,000 millones de dólares, por delante de los Los Angeles Rams, los New York Giants y los New England Patriots. La revista halló que el valor promedio de la liga subió con fuerza después de que el grupo de Rob Walton pagara 4,650 millones de dólares por los Denver Broncos, lo que elevó el precio de referencia del mercado para una franquicia."
+      },
+      "zh": {
+        "title": "福布斯2026年NFL球队估值：牛仔队连续20年蝉联榜首，联盟整体估值大涨",
+        "summary": "福布斯发布的2026年NFL球队估值榜单显示，达拉斯牛仔队以约170亿美元估值连续第20年位居联盟首位，洛杉矶公羊队、纽约巨人队和新英格兰爱国者队紧随其后。该杂志指出，由于罗布·沃尔顿牵头的团队以46.5亿美元收购丹佛野马队，刷新了球队收购的市场基准价格，带动联盟整体平均估值大幅上升。"
+      },
+      "fr": {
+        "title": "Les Cowboys en tête des valorisations NFL 2026 de Forbes pour la 20e année consécutive",
+        "summary": "Les valorisations de franchises établies par Forbes pour 2026 placent les Cowboys de Dallas en tête de la NFL pour la 20e année consécutive, avec une valeur estimée à 17 milliards de dollars, devant les Rams de Los Angeles, les Giants de New York et les Patriots de la Nouvelle-Angleterre. Le magazine relève que la valeur moyenne des franchises de la ligue a fortement augmenté après que le groupe de Rob Walton a déboursé 4,65 milliards de dollars pour les Broncos de Denver, redéfinissant le prix de référence du marché pour une franchise."
+      }
+    }
   }
 ]
