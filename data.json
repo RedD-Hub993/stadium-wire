@@ -6429,5 +6429,312 @@
         "summary": "Le Club Partner Program de la Fondation Esports World Cup finance environ 40 organisations d'esport en 2026, avec des subventions à six chiffres chacune, dans le cadre d'un investissement de 20 millions de dollars dans l'écosystème mondial des clubs d'esport. Les clubs participants bénéficient aussi d'un accès prioritaire au Superfan Program de la fondation et d'opportunités de collaboration tout au long de l'année."
       }
     }
+  },
+  {
+    "id": "arkansas-razorback-stadium-communityamerica-naming-rights-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-06-24T00:00:00Z",
+    "source_name": "Talk Business & Politics",
+    "source_url": "https://talkbusiness.net/2026/06/communityamerica-acquires-naming-rights-for-razorback-stadium/",
+    "i18n": {
+      "en": {
+        "title": "Arkansas Signs 13-Year Naming Rights Deal With CommunityAmerica Credit Union",
+        "summary": "The University of Arkansas Board of Trustees approved a 13-year naming rights agreement with CommunityAmerica Credit Union, negotiated through sports marketing agency Learfield. Donald W. Reynolds Razorback Stadium will become CommunityAmerica Razorback Stadium starting July 1, 2027, though the school did not disclose the deal's financial terms."
+      },
+      "ja": {
+        "title": "アーカンソー大学、コミュニティアメリカ信用組合と13年間の命名権契約",
+        "summary": "アーカンソー大学理事会は、スポーツマーケティング代理店リーフィールドの仲介により、コミュニティアメリカ信用組合との13年間の命名権契約を承認した。ドナルド・W・レイノルズ・レイザーバック・スタジアムは2027年7月1日から「コミュニティアメリカ・レイザーバック・スタジアム」に改称される予定だが、契約金額は公表されていない。"
+      },
+      "es": {
+        "title": "Arkansas firma un acuerdo de naming rights de 13 años con CommunityAmerica Credit Union",
+        "summary": "La Junta de Síndicos de la Universidad de Arkansas aprobó un acuerdo de naming rights de 13 años con CommunityAmerica Credit Union, negociado a través de la agencia Learfield. El Donald W. Reynolds Razorback Stadium pasará a llamarse CommunityAmerica Razorback Stadium a partir del 1 de julio de 2027, aunque la universidad no reveló los términos financieros del acuerdo."
+      },
+      "zh": {
+        "title": "阿肯色大学与CommunityAmerica信用合作社签订13年命名权协议",
+        "summary": "阿肯色大学董事会通过体育营销代理公司Learfield,批准了与CommunityAmerica信用合作社长达13年的体育场命名权协议。唐纳德·W·雷诺兹·剃刀背球场将从2027年7月1日起更名为CommunityAmerica剃刀背球场,但校方未公开该交易的具体金额。"
+      },
+      "fr": {
+        "title": "Arkansas signe un accord de naming de 13 ans avec CommunityAmerica Credit Union",
+        "summary": "Le conseil d'administration de l'université de l'Arkansas a approuvé un accord de naming de 13 ans avec CommunityAmerica Credit Union, négocié par l'agence Learfield. Le Donald W. Reynolds Razorback Stadium sera rebaptisé CommunityAmerica Razorback Stadium à partir du 1er juillet 2027, bien que les termes financiers de l'accord n'aient pas été dévoilés."
+      }
+    }
+  },
+  {
+    "id": "texas-tech-galaxy-stadium-naming-rights-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "tech",
+      "sponsor"
+    ],
+    "published_at": "2026-07-17T00:00:00Z",
+    "source_name": "NBC 5 DFW",
+    "source_url": "https://www.nbcdfw.com/news/sports/texas-tech-signs-naming-rights-deal-with-digital-assets-company-galaxy/4051708/",
+    "i18n": {
+      "en": {
+        "title": "Texas Tech Rebrands Jones AT&T Stadium as Galaxy Stadium in 15-Year Deal",
+        "summary": "Texas Tech University struck a 15-year naming rights partnership with digital-asset and data-center firm Galaxy, renaming Jones AT&T Stadium as Galaxy Stadium starting with the 2026 season. Industry estimates value the package at roughly $75 million, and the agreement also opens new name, image and likeness opportunities for Red Raiders athletes."
+      },
+      "ja": {
+        "title": "テキサス工科大学、ギャラクシーと15年契約で「ジョーンズAT&Tスタジアム」を改称",
+        "summary": "テキサス工科大学は、デジタル資産・データセンター企業ギャラクシーと15年間の命名権パートナーシップを締結し、2026年シーズンからジョーンズAT&Tスタジアムを「ギャラクシー・スタジアム」に改称する。業界推計では契約規模は約7500万ドルとされ、レッドレイダーズの選手への新たな肖像権(NIL)機会も含まれている。"
+      },
+      "es": {
+        "title": "Texas Tech renombra el Jones AT&T Stadium como Galaxy Stadium en un acuerdo de 15 años",
+        "summary": "La Universidad Texas Tech firmó una asociación de naming rights de 15 años con la firma de activos digitales y centros de datos Galaxy, que renombra el Jones AT&T Stadium como Galaxy Stadium desde la temporada 2026. Estimaciones del sector valoran el paquete en unos 75 millones de dólares, y el acuerdo también abre nuevas oportunidades de nombre, imagen y semejanza para los atletas de los Red Raiders."
+      },
+      "zh": {
+        "title": "德州理工大学与Galaxy签订15年协议,琼斯AT&T球场更名为Galaxy球场",
+        "summary": "德州理工大学与数字资产及数据中心企业Galaxy达成15年命名权合作,自2026赛季起将琼斯AT&T球场更名为Galaxy球场。业内估计该协议价值约7500万美元,协议还为红色突袭者队运动员带来了新的姓名、形象和相似权(NIL)机会。"
+      },
+      "fr": {
+        "title": "Texas Tech rebaptise le Jones AT&T Stadium en Galaxy Stadium dans un accord de 15 ans",
+        "summary": "L'université Texas Tech a conclu un partenariat de naming de 15 ans avec l'entreprise d'actifs numériques et de centres de données Galaxy, rebaptisant le Jones AT&T Stadium en Galaxy Stadium dès la saison 2026. Les estimations du secteur évaluent l'accord à environ 75 millions de dollars, et il ouvre aussi de nouvelles opportunités de nom, image et ressemblance pour les athlètes des Red Raiders."
+      }
+    }
+  },
+  {
+    "id": "la28-olympic-ticket-sales-six-million-2026",
+    "sport": "olympics",
+    "region": "global",
+    "topics": [
+      "fan",
+      "biz"
+    ],
+    "published_at": "2026-08-21T00:00:00Z",
+    "source_name": "TicketNews",
+    "source_url": "https://www.ticketnews.com/2026/08/la28-announces-more-than-6-million-olympic-tickets-sold/",
+    "i18n": {
+      "en": {
+        "title": "LA28 Olympic Ticket Sales Surpass 6 Million Ahead of 2027 Public Sale",
+        "summary": "LA28 organizers said more than 6 million tickets have been sold across the Games' first two purchase windows, with buyers coming from 129 countries and territories. The next release will move to a first-come, first-served system in 2027, dropping the earlier per-buyer purchase limits used during this year's draws."
+      },
+      "ja": {
+        "title": "LA28オリンピック、チケット販売600万枚超 次回公募は2027年に",
+        "summary": "LA28組織委員会は、これまで実施した2回の購入期間で600万枚以上のチケットが売れたと発表し、購入者は129の国と地域にわたるとした。次回の販売は2027年に先着順方式に切り替わり、今年の抽選で設けられていた購入者1人あたりの上限も撤廃される。"
+      },
+      "es": {
+        "title": "Las ventas de entradas de LA28 superan los 6 millones antes de la venta pública de 2027",
+        "summary": "Los organizadores de LA28 informaron que se han vendido más de 6 millones de entradas en las dos primeras rondas de compra de los Juegos, con compradores procedentes de 129 países y territorios. La próxima ronda de venta pasará a un sistema de orden de llegada en 2027, eliminando los límites de compra por persona utilizados en los sorteos de este año."
+      },
+      "zh": {
+        "title": "LA28奥运门票销量突破600万张,2027年将开启下一轮公开销售",
+        "summary": "LA28组委会表示,在前两轮购票窗口中已售出逾600万张门票,购票者来自129个国家和地区。下一轮门票发售将于2027年改为先到先得方式,并取消今年抽签阶段设置的单人购票上限。"
+      },
+      "fr": {
+        "title": "Les ventes de billets de LA28 dépassent les 6 millions avant la vente publique de 2027",
+        "summary": "Les organisateurs de LA28 ont annoncé que plus de 6 millions de billets ont été vendus lors des deux premières fenêtres d'achat des Jeux, avec des acheteurs venant de 129 pays et territoires. La prochaine mise en vente passera à un système de premier arrivé, premier servi en 2027, supprimant les limites d'achat par personne appliquées lors des tirages de cette année."
+      }
+    }
+  },
+  {
+    "id": "spire-healthcare-team-gb-partner-2026",
+    "sport": "olympics",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-09-04T00:00:00Z",
+    "source_name": "Team GB",
+    "source_url": "https://www.teamgb.com/article/spire-healthcare-team-gb-healthcare-services-partner/3plM8RqnqpJH90CV6mP11j",
+    "i18n": {
+      "en": {
+        "title": "Spire Healthcare Named Team GB's Official Healthcare Partner Through LA28",
+        "summary": "Team GB announced Spire Healthcare as its exclusive official healthcare services partner in a deal running through the end of the 2028 Los Angeles Games. The agreement draws on Spire's network of roughly 38 UK hospitals and more than 60 clinics to support athletes and promote physical activity among the wider public."
+      },
+      "ja": {
+        "title": "スパイア・ヘルスケア、LA28までのチームGB公式ヘルスケアパートナーに",
+        "summary": "チームGBは、スパイア・ヘルスケアを2028年ロサンゼルス大会終了までの独占的な公式ヘルスケアサービスパートナーに指名したと発表した。同社は英国内約38の病院と60以上のクリニックのネットワークを活かし、選手のサポートと国民の運動習慣の促進に取り組むとしている。"
+      },
+      "es": {
+        "title": "Spire Healthcare, nombrado socio sanitario oficial del Team GB hasta LA28",
+        "summary": "El Team GB anunció a Spire Healthcare como su socio exclusivo de servicios sanitarios oficiales en un acuerdo vigente hasta el final de los Juegos de Los Ángeles 2028. El acuerdo se apoya en la red de Spire de unos 38 hospitales y más de 60 clínicas en el Reino Unido para apoyar a los atletas y fomentar la actividad física entre el público."
+      },
+      "zh": {
+        "title": "斯派尔医疗成为英国代表队官方医疗合作伙伴,合作期至LA28",
+        "summary": "英国代表队(Team GB)宣布斯派尔医疗(Spire Healthcare)成为其独家官方医疗服务合作伙伴,合作关系将持续至2028年洛杉矶奥运会结束。该协议依托斯派尔在英国约38家医院及60多家诊所的网络,为运动员提供支持并推动公众参与体育锻炼。"
+      },
+      "fr": {
+        "title": "Spire Healthcare devient partenaire santé officiel de Team GB jusqu'à LA28",
+        "summary": "Team GB a annoncé Spire Healthcare comme son partenaire exclusif de services de santé officiel, dans un accord courant jusqu'à la fin des Jeux de Los Angeles 2028. L'accord s'appuie sur le réseau de Spire, composé d'environ 38 hôpitaux et de plus de 60 cliniques au Royaume-Uni, pour soutenir les athlètes et promouvoir l'activité physique auprès du public."
+      }
+    }
+  },
+  {
+    "id": "kochi-kamatamare-j3-naming-rights-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2025-12-17T00:00:00Z",
+    "source_name": "J.League",
+    "source_url": "https://www.jleague.jp/sp/news/article/32830/",
+    "i18n": {
+      "en": {
+        "title": "Two J3 Clubs' Home Stadiums Get New Names Under Naming Rights Deals",
+        "summary": "J.League confirmed that Kochi United SC's home ground will become Giken Stadium under a naming rights deal with construction-equipment maker Giken, while Kamatamare Sanuki's stadium will be renamed Shikoku Kasei Meglio Stadium after chemicals firm Shikoku Kasei Holdings. Both new names took effect from January 1, 2026, with the Giken agreement running three years and three months and the Shikoku Kasei deal running five years."
+      },
+      "ja": {
+        "title": "J3の2クラブ、ホームスタジアムがネーミングライツで新名称に",
+        "summary": "Jリーグは、高知ユナイテッドSCのホームスタジアムが建設機械メーカー技研製作所との契約で「GIKENスタジアム」に、カマタマーレ讃岐のスタジアムが化学メーカー四国化成ホールディングスとの契約で「四国化成MEGLIOスタジアム」になると発表した。両新名称は2026年1月1日から使用が始まり、技研との契約は3年3か月、四国化成との契約は5年間となる。"
+      },
+      "es": {
+        "title": "Los estadios de dos clubes de J3 reciben nuevos nombres por acuerdos de naming rights",
+        "summary": "La J.League confirmó que el estadio local del Kochi United SC pasará a llamarse Giken Stadium bajo un acuerdo con el fabricante de maquinaria Giken, mientras que el estadio del Kamatamare Sanuki se renombrará como Shikoku Kasei Meglio Stadium tras un acuerdo con la química Shikoku Kasei Holdings. Ambos nombres entraron en vigor el 1 de enero de 2026, con el acuerdo de Giken vigente durante tres años y tres meses y el de Shikoku Kasei durante cinco años."
+      },
+      "zh": {
+        "title": "J3联赛两家俱乐部主场因冠名权协议更名",
+        "summary": "日本职业足球联赛(J联赛)确认,高知联合SC主场将依据与建筑机械制造商技研制作所签订的冠名协议更名为「技研体育场」,而鸣门马雷赞岐队的主场则因与化工企业四国化成控股的协议更名为「四国化成MEGLIO体育场」。两项新名称均自2026年1月1日起生效,技研的合同期为三年三个月,四国化成的合同期为五年。"
+      },
+      "fr": {
+        "title": "Les stades de deux clubs de J3 reçoivent de nouveaux noms via des accords de naming",
+        "summary": "La J.League a confirmé que le stade du Kochi United SC sera rebaptisé Giken Stadium dans le cadre d'un accord avec le fabricant d'équipements Giken, tandis que le stade du Kamatamare Sanuki deviendra le Shikoku Kasei Meglio Stadium suite à un accord avec le groupe chimique Shikoku Kasei Holdings. Les deux nouveaux noms sont entrés en vigueur le 1er janvier 2026, l'accord avec Giken courant sur trois ans et trois mois et celui avec Shikoku Kasei sur cinq ans."
+      }
+    }
+  },
+  {
+    "id": "f1-salesforce-agentforce-fan-companion-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "tech",
+      "fan",
+      "sponsor"
+    ],
+    "published_at": "2026-03-03T00:00:00Z",
+    "source_name": "Salesforce",
+    "source_url": "https://www.salesforce.com/uk/news/press-releases/2026/03/03/formula-1-agentforce-to-grow-fan-connection/",
+    "i18n": {
+      "en": {
+        "title": "Formula 1 Expands Salesforce Deal With AI-Powered Fan Companion",
+        "summary": "Formula 1 extended its multiyear partnership with Salesforce and launched an AI agent built on the Agentforce platform to answer fan questions about the sport's new-for-2026 technical regulations. The tool initially debuted on F1.com, continuing a relationship the two companies have built up over recent seasons around data and fan engagement."
+      },
+      "ja": {
+        "title": "F1、セールスフォースとの提携を拡大しAI搭載ファン向けツールを導入",
+        "summary": "F1はセールスフォースとの複数年パートナーシップを拡大し、「Agentforce」基盤を使ったAIエージェントを導入、2026年からの新技術規則についてファンの質問に答える機能を提供する。このツールはまずF1.comで公開され、両社がこれまで築いてきたデータとファンエンゲージメントに関する協業を一歩進めるものとなる。"
+      },
+      "es": {
+        "title": "Fórmula 1 amplía su acuerdo con Salesforce con un asistente de fans impulsado por IA",
+        "summary": "La Fórmula 1 amplió su asociación plurianual con Salesforce y lanzó un agente de inteligencia artificial basado en la plataforma Agentforce para responder preguntas de los aficionados sobre el nuevo reglamento técnico de 2026. La herramienta debutó primero en F1.com, dando continuidad a la colaboración que ambas empresas han construido en torno a los datos y la participación de los fans."
+      },
+      "zh": {
+        "title": "F1扩大与Salesforce的合作,推出人工智能车迷助手",
+        "summary": "F1扩大了与Salesforce的多年合作关系,推出基于Agentforce平台的人工智能助手,用于解答车迷对2026赛季新技术规则的疑问。该工具首先在F1官网上线,延续了两家公司围绕数据与车迷互动建立的合作关系。"
+      },
+      "fr": {
+        "title": "La Formule 1 élargit son accord avec Salesforce via un assistant fan dopé à l'IA",
+        "summary": "La Formule 1 a élargi son partenariat pluriannuel avec Salesforce en lançant un agent d'intelligence artificielle basé sur la plateforme Agentforce pour répondre aux questions des fans sur le nouveau règlement technique 2026. L'outil a d'abord été lancé sur F1.com, prolongeant la collaboration que les deux entreprises ont construite autour des données et de l'engagement des fans."
+      }
+    }
+  },
+  {
+    "id": "dell-alienware-team-liquid-extension-2026",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-08-18T00:00:00Z",
+    "source_name": "Business Wire",
+    "source_url": "https://www.eagletribune.com/region/team-liquid-and-alienware-extend-esports-longest-running-partnership/article_80097767-74fa-5fc0-b44b-cd56ba9df399.html",
+    "i18n": {
+      "en": {
+        "title": "Team Liquid and Alienware Extend Esports' Longest-Running Partnership Through 2031",
+        "summary": "Dell's Alienware brand and esports organization Team Liquid signed a new five-year extension of their sponsorship, stretching a relationship that began 15 years ago through 2031. The renewed deal kicks off with Alienware backing Team Liquid's push in World of Warcraft's Race to World First competition."
+      },
+      "ja": {
+        "title": "チームリキッドとエイリアンウェア、eスポーツ最長パートナーシップを2031年まで延長",
+        "summary": "デルのエイリアンウェアブランドとeスポーツ団体チームリキッドは、15年間続く関係をさらに5年延長する契約に署名し、2031年まで提携を継続する。新契約はまず「ワールド・オブ・ウォークラフト」の「レース・トゥ・ワールド・ファースト」競技でのチームリキッドの挑戦をエイリアンウェアが支援する形でスタートする。"
+      },
+      "es": {
+        "title": "Team Liquid y Alienware extienden la asociación más longeva del esports hasta 2031",
+        "summary": "La marca Alienware de Dell y la organización de esports Team Liquid firmaron una nueva extensión de cinco años de su patrocinio, prolongando hasta 2031 una relación que comenzó hace 15 años. El acuerdo renovado arranca con Alienware respaldando la participación de Team Liquid en la competición Race to World First de World of Warcraft."
+      },
+      "zh": {
+        "title": "Team Liquid与Alienware将电竞史上最长合作关系延长至2031年",
+        "summary": "戴尔旗下Alienware品牌与电竞组织Team Liquid签署了新的五年赞助延长协议,将这段始于15年前的合作关系延续至2031年。新协议首先体现在Alienware支持Team Liquid参加《魔兽世界》「世界第一竞速赛」的比拼。"
+      },
+      "fr": {
+        "title": "Team Liquid et Alienware prolongent le plus long partenariat de l'esport jusqu'en 2031",
+        "summary": "La marque Alienware de Dell et l'organisation esport Team Liquid ont signé une nouvelle prolongation de cinq ans de leur parrainage, étendant jusqu'en 2031 une relation vieille de 15 ans. L'accord renouvelé démarre avec le soutien d'Alienware à Team Liquid dans la compétition Race to World First de World of Warcraft."
+      }
+    }
+  },
+  {
+    "id": "twisted-minds-americana-foods-biofit-sponsors-2026",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-06-28T00:00:00Z",
+    "source_name": "Dot Esports",
+    "source_url": "https://dotesports.com/general/news/twisted-minds-esports-sponsorship-deals-ewc-2026",
+    "i18n": {
+      "en": {
+        "title": "Saudi Org Twisted Minds Adds Americana Foods and Biofit as Sponsors Ahead of EWC",
+        "summary": "Saudi esports organization Twisted Minds signed new sponsorship deals with regional food and beverage group Americana Foods and wellness brand Biofit ahead of the 2026 Esports World Cup in Riyadh. Twisted Minds is set to compete across nine of the tournament's game titles, including Call of Duty: Warzone, PUBG and Fortnite, with the Americana Foods logo debuting on its jersey sleeve."
+      },
+      "ja": {
+        "title": "サウジのTwisted Minds、EWC前にAmericana FoodsとBiofitと新スポンサー契約",
+        "summary": "サウジアラビアのeスポーツ団体Twisted Mindsは、2026年にリヤドで開催されるEsports World Cupを前に、地域の食品・飲料大手Americana FoodsとウェルネスブランドのBiofitと新たなスポンサー契約を結んだ。Twisted Mindsは大会で「Call of Duty: Warzone」「PUBG」「フォートナイト」を含む9タイトルに出場し、Americana Foodsのロゴはジャージの袖に初めて登場する。"
+      },
+      "es": {
+        "title": "La organización saudí Twisted Minds suma a Americana Foods y Biofit como patrocinadores antes de la EWC",
+        "summary": "La organización de esports saudí Twisted Minds firmó nuevos acuerdos de patrocinio con el gigante regional de alimentos y bebidas Americana Foods y la marca de bienestar Biofit antes de la Esports World Cup 2026 en Riad. Twisted Minds competirá en nueve de los títulos del torneo, incluidos Call of Duty: Warzone, PUBG y Fortnite, con el logo de Americana Foods debutando en la manga de su camiseta."
+      },
+      "zh": {
+        "title": "沙特电竞组织Twisted Minds在EWC开赛前新增Americana Foods与Biofit两大赞助商",
+        "summary": "沙特阿拉伯电竞组织Twisted Minds在2026年利雅得电竞世界杯开赛前,与地区食品饮料巨头Americana Foods及健康品牌Biofit签订了新的赞助协议。Twisted Minds将参加包括《使命召唤:战区》《绝地求生》和《堡垒之夜》等九个项目的比赛,Americana Foods的标志将首次出现在其队服袖子上。"
+      },
+      "fr": {
+        "title": "L'organisation saoudienne Twisted Minds ajoute Americana Foods et Biofit comme sponsors avant l'EWC",
+        "summary": "L'organisation esport saoudienne Twisted Minds a signé de nouveaux accords de parrainage avec le géant régional de l'agroalimentaire Americana Foods et la marque bien-être Biofit avant la Esports World Cup 2026 à Riyad. Twisted Minds concourra dans neuf des titres du tournoi, dont Call of Duty: Warzone, PUBG et Fortnite, le logo d'Americana Foods faisant ses débuts sur la manche de son maillot."
+      }
+    }
+  },
+  {
+    "id": "orix-buffaloes-samty-uniform-sponsor-renewal-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-06-08T00:00:00Z",
+    "source_name": "Zaikei Shimbun",
+    "source_url": "https://zaikei.co.jp/press/company/227973/",
+    "i18n": {
+      "en": {
+        "title": "Orix Buffaloes Renew Uniform Advertising Deal With Samty for 2026",
+        "summary": "The Orix Buffaloes renewed their uniform advertising sponsorship agreement with real estate firm Samty Holdings for the 2026 NPB season, keeping the Samty logo on jerseys worn by players, the manager and coaching staff. The two sides are also tying the renewal to the club's summer event, themed around a deep-navy uniform color."
+      },
+      "ja": {
+        "title": "オリックス・バファローズ、2026年シーズンのユニフォーム広告契約をサムティと更新",
+        "summary": "オリックス・バファローズは、不動産会社サムティホールディングスとの2026年シーズンのユニフォーム広告スポンサー契約を更新し、選手・監督・コーチが着用するユニフォームに「サムティ」のロゴが継続して掲出される。両者はこの更新を、深紺(ディープネイビー)をテーマカラーとする夏季イベントにも結び付けている。"
+      },
+      "es": {
+        "title": "Orix Buffaloes renueva el acuerdo de publicidad en el uniforme con Samty para 2026",
+        "summary": "Los Orix Buffaloes renovaron su acuerdo de patrocinio publicitario en el uniforme con la inmobiliaria Samty Holdings para la temporada 2026 de la NPB, manteniendo el logo de Samty en las camisetas de jugadores, el mánager y el cuerpo técnico. Ambas partes vinculan la renovación con el evento de verano del club, con un uniforme de color azul marino oscuro como tema."
+      },
+      "zh": {
+        "title": "欧力士猛牛队与Samty续签2026赛季球衣广告赞助协议",
+        "summary": "欧力士猛牛队与房地产公司Samty控股续签了2026赛季日本职棒(NPB)球衣广告赞助协议,球员、主教练及教练组球衣上将继续展示「Samty」标志。双方还将此次续约与球队以深藏青色球衣为主题的夏季活动相结合。"
+      },
+      "fr": {
+        "title": "Les Orix Buffaloes renouvellent leur accord de publicité sur maillot avec Samty pour 2026",
+        "summary": "Les Orix Buffaloes ont renouvelé leur accord de parrainage publicitaire sur maillot avec le promoteur immobilier Samty Holdings pour la saison 2026 de NPB, maintenant le logo Samty sur les maillots des joueurs, du manager et du staff technique. Les deux parties associent ce renouvellement à l'événement estival du club, dont l'uniforme est décliné en bleu marine profond."
+      }
+    }
   }
 ]
