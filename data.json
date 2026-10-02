@@ -6701,5 +6701,242 @@
         "summary": "Le distributeur japonais d'articles de sport Alpen a annoncé qu'il deviendra partenaire de la B.LEAGUE pour la saison 2026-27, baptisée « Resona Group B.LEAGUE », en complément de ses partenariats déjà existants avec les clubs Levanga Hokkaido, Tokyo Sunrockers, Kawasaki Brave Thunders, Nagoya Diamond Dolphins et Ryukyu Golden Kings. Le partenariat prévoit des réductions pour les membres sur le matériel de basket-ball ainsi que des événements en magasin, comme des rencontres et des stages avec des joueurs."
       }
     }
+  },
+  {
+    "id": "rays-webull-jersey-patch-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-03-19T00:00:00Z",
+    "source_name": "MLB.com",
+    "source_url": "https://www.mlb.com/rays/news/rays-announce-webull-will-be-corporate-jersey-patch-sponsor-2026",
+    "i18n": {
+      "en": {
+        "title": "Rays Name Webull as Jersey Patch Sponsor, Closing Out MLB's Uniform Ad Rollout",
+        "summary": "The Tampa Bay Rays have signed online trading platform Webull as the corporate patch sponsor for their 2026 jerseys, with the brand having grown its footprint in the Tampa Bay area after setting up U.S. headquarters in St. Petersburg. The Rays were reportedly the last of baseball's 30 clubs to add a jersey patch, completing the sport's shift toward uniform advertising."
+      },
+      "ja": {
+        "title": "レイズ、オンライン証券Webullとユニフォーム広告契約 MLB全球団導入が完了",
+        "summary": "タンパベイ・レイズは2026年シーズンのユニフォームパッチスポンサーとしてオンライン証券プラットフォームのWebullと契約した。同社はセントピーターズバーグに米国本社を構えて以来、タンパベイ地域での事業展開を拡大してきた。レイズはMLB30球団の中で最後にパッチ広告を導入したクラブとされ、これによりリーグ全体でのユニフォーム広告導入が完了した。"
+      },
+      "es": {
+        "title": "Los Rays ficha a Webull como patrocinador de su parche de uniforme, cerrando el despliegue publicitario de la MLB",
+        "summary": "Los Rays de Tampa Bay firmaron con la plataforma de inversión en línea Webull como patrocinador del parche corporativo de sus uniformes de 2026, tras la expansión de la empresa en la zona de Tampa Bay desde que estableció su sede estadounidense en San Petersburgo. Los Rays habrían sido el último de los 30 equipos de béisbol en sumar un parche en el uniforme, completando así la transición del deporte hacia la publicidad en la camiseta."
+      },
+      "zh": {
+        "title": "光芒队签下Webull作为球衣广告赞助商 至此MLB全部球队完成球衣广告布局",
+        "summary": "坦帕湾光芒队宣布，网络交易平台Webull将成为球队2026赛季球衣企业广告贴标的赞助商。该公司自在圣彼得斯堡设立美国总部以来，一直在扩大其在坦帕湾地区的业务布局。据报道，光芒队是美职棒30支球队中最后一支加入球衣广告的球队，这标志着整个联盟球衣广告化进程的完成。"
+      },
+      "fr": {
+        "title": "Les Rays s'associent à Webull pour le patch publicitaire de leur maillot, achevant le déploiement de la MLB",
+        "summary": "Les Rays de Tampa Bay ont signé avec la plateforme de courtage en ligne Webull pour le parrainage du patch publicitaire de leur maillot pour la saison 2026, l'entreprise ayant renforcé sa présence dans la région de Tampa Bay depuis l'installation de son siège américain à Saint-Pétersbourg. Les Rays seraient la dernière des 30 équipes de la MLB à adopter un patch sur leur maillot, achevant ainsi la généralisation de la publicité sur les uniformes dans ce sport."
+      }
+    }
+  },
+  {
+    "id": "yokohama-marinos-nissan-shareholder-review-2025",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2025-10-03T00:00:00Z",
+    "source_name": "Kyodo/Sakigake",
+    "source_url": "https://www.sakigake.jp/news/article/20251003CO0164/",
+    "i18n": {
+      "en": {
+        "title": "Nissan Stays on as Yokohama F. Marinos' Top Shareholder but Weighs Reshaping Ownership",
+        "summary": "Nissan Motor said it will remain the largest shareholder of J.League club Yokohama F. Marinos, citing the automaker's commitment to the Yokohama area, after reports surfaced that its deepening financial troubles had pushed it to explore selling its roughly 75% stake. The carmaker nonetheless signaled it is actively reviewing ways to broaden the club's shareholder base, suggesting a partial sell-down of its holding remains on the table even as a full sale is shelved for now."
+      },
+      "ja": {
+        "title": "日産、横浜F・マリノスの筆頭株主を継続 株主構成の見直しは検討",
+        "summary": "日産自動車は経営不振を背景に保有する横浜F・マリノス株（約75%）の売却を検討していると報じられていたが、同社は地元横浜への貢献を理由に引き続き筆頭株主であり続ける方針を示した。一方で、株主構成を強化・多様化する方向性は積極的に検討しているとしており、完全売却は当面見送られたものの、一部株式の売却の可能性は残されている。"
+      },
+      "es": {
+        "title": "Nissan seguirá siendo el principal accionista del Yokohama F. Marinos, pero evalúa reestructurar su propiedad",
+        "summary": "Nissan Motor afirmó que continuará como el mayor accionista del club de la J.League Yokohama F. Marinos, citando su compromiso con la región de Yokohama, después de que trascendiera que sus crecientes problemas financieros la habían llevado a estudiar la venta de su participación de alrededor del 75%. Pese a ello, la automotriz señaló que está revisando activamente formas de ampliar la base accionarial del club, por lo que no se descarta una venta parcial aunque la venta total queda de momento descartada."
+      },
+      "zh": {
+        "title": "日产将继续担任横滨水手队第一大股东，但正评估调整股权结构",
+        "summary": "此前有报道称，受经营不振影响，日产汽车正考虑出售其持有的J联赛球队横滨水手队约75%的股份。日产随后表示，出于对横滨地区的责任，公司将继续担任该俱乐部的第一大股东。不过该公司同时表示，正积极研究强化和多元化股东结构的方案，这意味着完全出售暂被搁置，但部分股权出售的可能性依然存在。"
+      },
+      "fr": {
+        "title": "Nissan reste le premier actionnaire du Yokohama F. Marinos mais envisage de revoir son actionnariat",
+        "summary": "Nissan Motor a indiqué qu'il resterait le principal actionnaire du club de J.League Yokohama F. Marinos, invoquant son engagement envers la région de Yokohama, après que des informations eurent révélé que ses difficultés financières croissantes l'avaient poussé à envisager la vente de sa participation d'environ 75 %. Le constructeur a toutefois précisé qu'il étudiait activement des pistes pour élargir l'actionnariat du club, laissant entrevoir une cession partielle de sa participation même si une vente totale est pour l'instant écartée."
+      }
+    }
+  },
+  {
+    "id": "wnba-cleveland-detroit-philadelphia-expansion-fee-2025",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2025-06-30T00:00:00Z",
+    "source_name": "Bloomberg",
+    "source_url": "https://www.bloomberg.com/news/articles/2025-06-30/wnba-adds-three-teams-at-record-250-million-expansion-fee",
+    "i18n": {
+      "en": {
+        "title": "WNBA Adds Cleveland, Detroit and Philadelphia at Record $250 Million Expansion Fee",
+        "summary": "The WNBA confirmed three new expansion franchises in Cleveland, Detroit and Philadelphia, each paying a record $250 million entry fee that dwarfs the $50 million clubs paid just a few years earlier. All three incoming teams are backed by existing NBA ownership groups, including Cavaliers owner Dan Gilbert in Cleveland and Pistons owner Tom Gores in Detroit, underscoring how quickly the league's valuations have climbed."
+      },
+      "ja": {
+        "title": "WNBA、クリーブランド・デトロイト・フィラデルフィアに新規参入 加盟料は過去最高の2億5千万ドル",
+        "summary": "WNBAはクリーブランド、デトロイト、フィラデルフィアの3都市への新規参入を正式発表した。加盟料は1チームあたり過去最高となる2億5千万ドルで、数年前の5千万ドルから大幅に上昇している。新規参入する3チームはいずれも既存のNBAオーナーグループが母体となっており、クリーブランドはキャバリアーズのオーナーであるダン・ギルバート氏、デトロイトはピストンズのオーナーであるトム・ゴアーズ氏が関与しており、リーグの価値が急速に高まっていることを示している。"
+      },
+      "es": {
+        "title": "La WNBA suma a Cleveland, Detroit y Filadelfia con una tarifa de expansión récord de 250 millones de dólares",
+        "summary": "La WNBA confirmó tres nuevas franquicias de expansión en Cleveland, Detroit y Filadelfia, cada una abonando una tarifa de entrada récord de 250 millones de dólares, muy por encima de los 50 millones que pagaban los clubes apenas unos años antes. Las tres franquicias entrantes cuentan con el respaldo de grupos propietarios que ya poseen equipos de la NBA, entre ellos Dan Gilbert (Cavaliers) en Cleveland y Tom Gores (Pistons) en Detroit, lo que refleja la rapidez con la que han subido las valoraciones de la liga."
+      },
+      "zh": {
+        "title": "WNBA新增克利夫兰、底特律和费城三支球队，加盟费创纪录达2.5亿美元",
+        "summary": "WNBA正式确认克利夫兰、底特律和费城三座城市获得扩军球队资格，每支球队的加盟费高达创纪录的2.5亿美元，远超几年前5000万美元的水平。三支新球队背后均有现有NBA球队老板的支持，其中克利夫兰骑士队老板丹·吉尔伯特参与克利夫兰球队，活塞队老板汤姆·戈尔斯参与底特律球队，显示出联盟估值的迅速攀升。"
+      },
+      "fr": {
+        "title": "La WNBA accueille Cleveland, Détroit et Philadelphie avec des droits d'entrée record de 250 millions de dollars",
+        "summary": "La WNBA a confirmé l'arrivée de trois nouvelles franchises d'expansion à Cleveland, Détroit et Philadelphie, chacune versant des droits d'entrée record de 250 millions de dollars, bien au-delà des 50 millions de dollars payés quelques années plus tôt. Les trois nouvelles équipes sont soutenues par des groupes propriétaires déjà présents en NBA, dont Dan Gilbert (Cavaliers) à Cleveland et Tom Gores (Pistons) à Détroit, illustrant la rapidité avec laquelle les valorisations de la ligue ont grimpé."
+      }
+    }
+  },
+  {
+    "id": "big12-monster-energy-jersey-patch-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-07-28T00:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/big-12-monster-energy-20-million-partnership-jersey-patch-logo/",
+    "i18n": {
+      "en": {
+        "title": "Big 12 Signs Conference-Wide Monster Energy Patch Deal Worth $20 Million a Year",
+        "summary": "The Big 12 struck a multiyear, conference-wide partnership with Monster Energy that puts a co-branded patch on football and men's and women's basketball jerseys across all member schools, in a deal worth roughly $20 million annually. The agreement, which commissioner Brett Yormark says will pay each school about $1 million a year, builds on an earlier deal naming Monster the conference's official energy drink and extends into branded court and field logos."
+      },
+      "ja": {
+        "title": "ビッグ12、モンスターエナジーとカンファレンス一括のパッチ契約 年間2000万ドル規模",
+        "summary": "米大学スポーツのビッグ12カンファレンスは、加盟全校のフットボールおよび男女バスケットボールのユニフォームに共同ブランドパッチを掲出する複数年契約をモンスターエナジーと締結した。契約規模は年間約2000万ドルで、ヨーマークコミッショナーによると各校には年間約100万ドルが配分される見込み。同社を公式エナジードリンクとする既存契約を拡張する形で、コートやフィールドのロゴ掲出にも対象が広がる。"
+      },
+      "es": {
+        "title": "La Big 12 firma un acuerdo conjunto con Monster Energy por 20 millones de dólares al año",
+        "summary": "La conferencia universitaria Big 12 cerró una alianza plurianual a nivel de toda la conferencia con Monster Energy que coloca un parche de marca conjunta en los uniformes de fútbol americano y baloncesto masculino y femenino de todas las escuelas miembro, en un acuerdo valorado en unos 20 millones de dólares anuales. El comisionado Brett Yormark señaló que cada escuela recibirá cerca de un millón de dólares al año, en una ampliación de un acuerdo previo que ya nombraba a Monster como bebida energética oficial de la conferencia."
+      },
+      "zh": {
+        "title": "Big 12联盟与怪物能量饮料签订全联盟球衣广告协议 年价值2000万美元",
+        "summary": "美国大学体育Big 12联盟与怪物能量饮料（Monster Energy）达成多年期、覆盖全联盟的合作协议，所有成员学校的橄榄球及男女篮球队球衣上都将印有联合品牌标志，协议年价值约2000万美元。联盟主席布雷特·约马克表示，每所学校每年可获得约100万美元分成，该协议是在此前怪物能量饮料成为联盟官方能量饮料合作的基础上进一步扩展，并延伸至球场与球馆的品牌标识。"
+      },
+      "fr": {
+        "title": "La Big 12 signe un accord de patch à l'échelle de la conférence avec Monster Energy, pour 20 millions de dollars par an",
+        "summary": "La conférence universitaire Big 12 a conclu un partenariat pluriannuel à l'échelle de toute la conférence avec Monster Energy, apposant un patch co-marqué sur les maillots de football américain et de basketball masculin et féminin dans tous les établissements membres, pour un accord estimé à environ 20 millions de dollars par an. Le commissaire Brett Yormark a indiqué que chaque établissement toucherait environ un million de dollars par an, dans le prolongement d'un accord antérieur faisant de Monster la boisson énergisante officielle de la conférence."
+      }
+    }
+  },
+  {
+    "id": "aston-villa-visit-rwanda-shirt-sponsor-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-07-14T00:00:00Z",
+    "source_name": "AllAfrica",
+    "source_url": "https://allafrica.com/stories/202607150585.html",
+    "i18n": {
+      "en": {
+        "title": "Aston Villa Unveils Visit Rwanda as Record Front-of-Shirt Sponsor for 2026/27",
+        "summary": "Aston Villa announced Rwanda's tourism board, Visit Rwanda, as its new front-of-shirt partner from the 2026/27 season, in what the club called its most lucrative shirt deal to date at roughly £20 million a year with bonuses. The agreement replaces betting firm Betano ahead of the Premier League's ban on gambling logos on the front of shirts, and has drawn renewed criticism from human-rights groups over Rwanda's use of sports sponsorship."
+      },
+      "ja": {
+        "title": "アストン・ヴィラ、2026-27シーズンの胸スポンサーに「ビジット・ルワンダ」 クラブ史上最高額",
+        "summary": "アストン・ヴィラは2026-27シーズンから胸スポンサーとしてルワンダ観光局「ビジット・ルワンダ」との契約を発表した。ボーナス条項を含め年間約2000万ポンドとされ、クラブ史上最高額の胸スポンサー契約としている。プレミアリーグがユニフォーム前面でのギャンブル企業ロゴを禁止する規制を前に、これまでのスポンサーであるベットカジノ企業ベターノに代わる形となり、人権団体からはルワンダのスポーツスポンサーシップ活用への批判も改めて出ている。"
+      },
+      "es": {
+        "title": "Aston Villa presenta a Visit Rwanda como patrocinador principal de su camiseta para 2026/27, el acuerdo más lucrativo de su historia",
+        "summary": "El Aston Villa anunció a la oficina de turismo de Ruanda, Visit Rwanda, como su nuevo patrocinador principal de camiseta a partir de la temporada 2026/27, en lo que el club calificó como su acuerdo de patrocinio más lucrativo hasta la fecha, con unos 20 millones de libras al año incluyendo bonificaciones. El acuerdo sustituye a la casa de apuestas Betano antes de que la Premier League prohíba los logotipos de apuestas en el frente de las camisetas, y ha reavivado las críticas de organizaciones de derechos humanos sobre el uso del patrocinio deportivo por parte de Ruanda."
+      },
+      "zh": {
+        "title": "阿斯顿维拉签下卢旺达旅游局作为2026/27赛季胸前广告赞助商，创队史最高纪录",
+        "summary": "阿斯顿维拉宣布，卢旺达旅游推广机构Visit Rwanda将自2026/27赛季起成为球队新的胸前广告赞助商，俱乐部称这是队史上金额最高的球衣赞助协议，含奖金条款年价值约2000万英镑。该协议取代了此前的博彩公司Betano，原因是英超联赛即将禁止博彩品牌出现在球衣正面，而人权组织也再次就卢旺达利用体育赞助进行形象宣传提出批评。"
+      },
+      "fr": {
+        "title": "Aston Villa dévoile Visit Rwanda comme sponsor principal de maillot pour 2026/27, un record pour le club",
+        "summary": "Aston Villa a annoncé l'office du tourisme rwandais, Visit Rwanda, comme nouveau sponsor principal de maillot à compter de la saison 2026/27, un accord que le club qualifie du plus lucratif de son histoire, à environ 20 millions de livres par an primes comprises. Cet accord remplace le bookmaker Betano avant l'interdiction par la Premier League des logos de paris sur le devant des maillots, et a ravivé les critiques d'organisations de défense des droits humains sur l'usage du parrainage sportif par le Rwanda."
+      }
+    }
+  },
+  {
+    "id": "brentford-indeed-shirt-sponsor-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-04-01T00:00:00Z",
+    "source_name": "SportBusiness",
+    "source_url": "https://tech.sportbusiness.com/news/brentford-upgrades-indeed-amid-betting-sponsor-ban/",
+    "i18n": {
+      "en": {
+        "title": "Brentford Upgrades Indeed to Front-of-Shirt Sponsor Ahead of Premier League Betting Ban",
+        "summary": "Brentford has promoted job-search site Indeed from training-kit sponsor to principal front-of-shirt partner starting in the 2026/27 season, replacing betting brand Hollywoodbets before the Premier League's ban on gambling logos on shirt fronts takes effect. Industry estimates put the new deal at roughly £4-5 million a year, well below typical betting-sponsor fees, with Indeed branding extending to the men's and women's first-team and academy kits."
+      },
+      "ja": {
+        "title": "ブレントフォード、Indeedを胸スポンサーに昇格 プレミアリーグの賭博規制を前に",
+        "summary": "ブレントフォードは2026-27シーズンから、これまでトレーニングウェアスポンサーだった求人検索サイトIndeedを胸スポンサーに昇格させると発表した。プレミアリーグがユニフォーム前面での賭博企業ロゴを禁止する規制の施行前に、これまでの賭博ブランド「Hollywoodbets」に代わる形となる。業界筋によると新契約の規模は年間400万〜500万ポンド程度とされ、典型的な賭博系スポンサー契約より低額だが、Indeedのロゴは男女トップチームおよびアカデミーのキットにも展開される。"
+      },
+      "es": {
+        "title": "El Brentford asciende a Indeed como patrocinador principal de camiseta antes de la prohibición de apuestas en la Premier League",
+        "summary": "El Brentford ha ascendido al portal de empleo Indeed de patrocinador de la ropa de entrenamiento a socio principal de la parte frontal de la camiseta a partir de la temporada 2026/27, en sustitución de la marca de apuestas Hollywoodbets antes de que entre en vigor la prohibición de la Premier League sobre logotipos de apuestas en el frente de las camisetas. Estimaciones del sector sitúan el nuevo acuerdo en torno a 4-5 millones de libras al año, muy por debajo de las cifras habituales de los patrocinadores de apuestas, con la marca Indeed presente en las equipaciones del primer equipo masculino y femenino y de la academia."
+      },
+      "zh": {
+        "title": "布倫特福德将Indeed升级为胸前广告赞助商，抢在英超博彩禁令前完成换标",
+        "summary": "布倫特福德宣布，自2026/27赛季起将招聘网站Indeed从训练服赞助商升级为球衣正面主赞助商，以取代此前的博彩品牌Hollywoodbets，这一调整是在英超联赛即将禁止球衣正面出现博彩品牌标志之前完成的。业内人士估计，新协议价值约为每年400万至500万英镑，远低于典型博彩类赞助的金额，Indeed的标志将出现在男女一线队及梯队球衣上。"
+      },
+      "fr": {
+        "title": "Brentford promeut Indeed au rang de sponsor principal de maillot avant l'interdiction des paris sportifs en Premier League",
+        "summary": "Brentford a fait passer le site d'emploi Indeed du statut de sponsor de la tenue d'entraînement à celui de partenaire principal, apposé sur le devant du maillot, à partir de la saison 2026/27, en remplacement de la marque de paris Hollywoodbets, avant l'entrée en vigueur de l'interdiction par la Premier League des logos de paris sur le devant des maillots. Selon des estimations du secteur, le nouvel accord se situerait entre 4 et 5 millions de livres par an, bien en dessous des sommes habituelles versées par les sponsors de paris, le logo Indeed figurant sur les maillots des équipes premières masculine et féminine ainsi que de l'académie."
+      }
+    }
+  },
+  {
+    "id": "fancompass-digital-ignite-partnership-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "fan",
+      "tech",
+      "biz"
+    ],
+    "published_at": "2026-02-23T00:00:00Z",
+    "source_name": "Business Wire",
+    "source_url": "https://www.businesswire.com/news/home/20260223836345/en/FanCompass-and-Digital-Ignite-Announce-Strategic-Partnership-to-Accelerate-Digital-Fan-Engagement-and-Revenue-Growth",
+    "i18n": {
+      "en": {
+        "title": "FanCompass Teams With Digital Ignite to Pair Fan-Engagement Tech With Paid Media",
+        "summary": "Fan-engagement technology provider FanCompass announced a referral partnership with digital marketing agency Digital Ignite aimed at helping sports and entertainment organizations grow and monetize their fan bases. FanCompass's gamified tools, including trivia contests and instant-win games, will be combined with Digital Ignite's paid-media and audience-targeting services so clubs can turn digital engagement into first-party data and new revenue streams."
+      },
+      "ja": {
+        "title": "ファンエンゲージメント企業FanCompass、Digital Igniteと提携 技術と有料広告運用を組み合わせ",
+        "summary": "ファンエンゲージメント技術を手がけるFanCompassは、デジタルマーケティング会社Digital Igniteとの紹介提携を発表した。スポーツ・エンターテインメント団体がファン基盤を拡大し収益化することを支援する狙いがある。クイズ大会やその場で当たるゲームなどFanCompassのゲーム性のある仕組みと、Digital Igniteの有料広告運用・ターゲティング技術を組み合わせることで、デジタル上のファン接点を自社保有データや新たな収益源に転換できるとしている。"
+      },
+      "es": {
+        "title": "FanCompass se asocia con Digital Ignite para combinar tecnología de compromiso de fans con medios pagados",
+        "summary": "El proveedor de tecnología de compromiso con los aficionados FanCompass anunció una alianza de referidos con la agencia de marketing digital Digital Ignite, orientada a ayudar a organizaciones deportivas y de entretenimiento a hacer crecer y rentabilizar sus bases de aficionados. Las herramientas gamificadas de FanCompass, como concursos de trivia y juegos de premio instantáneo, se combinarán con los servicios de medios pagados y segmentación de audiencias de Digital Ignite para convertir el compromiso digital en datos propios y nuevas fuentes de ingresos."
+      },
+      "zh": {
+        "title": "球迷互动科技公司FanCompass与Digital Ignite合作，整合互动技术与付费媒体投放",
+        "summary": "球迷互动技术提供商FanCompass宣布与数字营销机构Digital Ignite建立推荐合作关系，旨在帮助体育和娱乐机构扩大并变现其粉丝群体。FanCompass旗下的互动问答、即时抽奖等游戏化工具，将与Digital Ignite的付费媒体投放及受众定向服务相结合，帮助俱乐部将数字互动转化为自有数据和新的收入来源。"
+      },
+      "fr": {
+        "title": "FanCompass s'associe à Digital Ignite pour combiner technologie d'engagement des fans et médias payants",
+        "summary": "Le fournisseur de technologie d'engagement des fans FanCompass a annoncé un partenariat d'apport d'affaires avec l'agence de marketing numérique Digital Ignite, destiné à aider les organisations sportives et de divertissement à développer et monétiser leur base de fans. Les outils ludifiés de FanCompass, comme les quiz et les jeux à gain instantané, seront associés aux services de médias payants et de ciblage d'audience de Digital Ignite afin de transformer l'engagement numérique en données propriétaires et en nouvelles sources de revenus."
+      }
+    }
   }
 ]
