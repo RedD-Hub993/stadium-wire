@@ -6940,5 +6940,379 @@
         "summary": "MUFG Bank a signé un accord de partenaire principal de la J.League à compter d'avril 2026, ainsi qu'un accord distinct de partenaire Platine lié au match des étoiles de la J.League débutant en mars de la même année. Le partenariat couvre des événements de mise en relation d'affaires et des séminaires pour dirigeants avec des entreprises locales, une collaboration sur des projets régionaux liés aux stades, ainsi que des efforts communs sur l'accès aux services financiers et la transformation numérique dans les marchés de la J.League."
       }
     }
+  },
+  {
+    "id": "panthers-bofa-stadium-naming-extension-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-07-23T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/sponsorship/boa-renews-panthers-stadium-naming-rights-deal-amid-1-3bn-upgrade/",
+    "i18n": {
+      "en": {
+        "title": "Panthers and Bank of America Extend Stadium Naming Rights Amid $1.3 Billion Renovation",
+        "summary": "The Carolina Panthers and Bank of America have agreed to a long-term extension of their stadium naming-rights partnership, which dates back to 2004. The deal coincides with a $1.3 billion renovation that will transform the 30-year-old venue with new social patios and an entertainment venue by 2030."
+      },
+      "ja": {
+        "title": "パンサーズとバンク・オブ・アメリカ、13億ドル改修と合わせスタジアム命名権を長期更新",
+        "summary": "カロライナ・パンサーズとバンク・オブ・アメリカは、2004年から続くスタジアム命名権契約を長期で更新した。この合意は、築30年のスタジアムを2030年までに改修する13億ドル規模のプロジェクトと同時に発表された。"
+      },
+      "es": {
+        "title": "Los Panthers y Bank of America extienden el naming rights del estadio en medio de una renovación de 1.300 millones",
+        "summary": "Los Panthers de Carolina y Bank of America acordaron extender a largo plazo su acuerdo de naming rights del estadio, vigente desde 2004. El pacto coincide con una renovación de 1.300 millones de dólares que transformará el venue de 30 años para 2030."
+      },
+      "zh": {
+        "title": "黑豹队与美国银行延续球场命名权 同步公布13亿美元翻修计划",
+        "summary": "卡罗来纳黑豹队与美国银行同意长期延续自2004年起的球场命名权合作。该协议与一项耗资13亿美元的翻修计划同步公布,翻修将于2030年前为这座已有30年历史的球场带来新的社交露台和娱乐场所。"
+      },
+      "fr": {
+        "title": "Les Panthers et Bank of America prolongent le naming rights du stade avec une rénovation à 1,3 milliard de dollars",
+        "summary": "Les Panthers de la Caroline et Bank of America ont prolongé à long terme leur accord de naming rights pour le stade, en vigueur depuis 2004. L'annonce coïncide avec une rénovation de 1,3 milliard de dollars qui transformera d'ici 2030 ce stade vieux de 30 ans."
+      }
+    }
+  },
+  {
+    "id": "toyota-gazoo-racing-haas-f1-title-sponsor-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2025-12-04T00:00:00Z",
+    "source_name": "Formula1.com",
+    "source_url": "https://www.formula1.com/en/latest/article/toyota-gazoo-racing-to-become-title-sponsors-of-haas-from-2026.7cSSDjuSpWld580YQKVtvh",
+    "i18n": {
+      "en": {
+        "title": "Toyota Gazoo Racing Becomes Haas F1 Team Title Sponsor for 2026",
+        "summary": "Toyota's motorsport division, Toyota Gazoo Racing, will take over as title sponsor of the Haas Formula 1 team starting in the 2026 season, rebranding the American outfit as TGR Haas F1. The deal builds on a technical partnership announced in 2024 and replaces outgoing sponsor Moneygram."
+      },
+      "ja": {
+        "title": "トヨタ・ガズー・レーシング、2026年からF1ハースのタイトルスポンサーに",
+        "summary": "トヨタのモータースポーツ部門「トヨタ・ガズー・レーシング」が、2026年シーズンからF1ハースチームのタイトルスポンサーとなり、チーム名は「TGR Haas F1」に変更される。これは2024年に発表された技術提携を土台にしたもので、これまでのスポンサーだったマネーグラムに代わる。"
+      },
+      "es": {
+        "title": "Toyota Gazoo Racing se convierte en sponsor principal del equipo Haas de F1 para 2026",
+        "summary": "La división de automovilismo de Toyota, Toyota Gazoo Racing, se convertirá en sponsor principal del equipo Haas de Fórmula 1 a partir de la temporada 2026, que pasará a llamarse TGR Haas F1. El acuerdo amplía una alianza técnica anunciada en 2024 y sustituye al anterior patrocinador, Moneygram."
+      },
+      "zh": {
+        "title": "丰田嘉世乐将从2026赛季起成为哈斯F1车队冠名赞助商",
+        "summary": "丰田赛车部门丰田嘉世乐（Toyota Gazoo Racing）将从2026赛季起成为哈斯F1车队的冠名赞助商,车队将更名为TGR Haas F1。该协议建立在2024年公布的技术合作基础上,取代此前的赞助商Moneygram。"
+      },
+      "fr": {
+        "title": "Toyota Gazoo Racing devient sponsor-titre de l'écurie Haas en F1 pour 2026",
+        "summary": "La division sport automobile de Toyota, Toyota Gazoo Racing, deviendra sponsor-titre de l'écurie Haas en Formule 1 dès la saison 2026, qui sera rebaptisée TGR Haas F1. Cet accord prolonge un partenariat technique annoncé en 2024 et remplace l'ancien sponsor Moneygram."
+      }
+    }
+  },
+  {
+    "id": "kkr-arctos-partners-acquisition-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "biz",
+      "team"
+    ],
+    "published_at": "2026-02-05T00:00:00Z",
+    "source_name": "SportBusiness",
+    "source_url": "https://www.sportbusiness.com/news/kkr-swoops-for-arctos-in-1-4bn-deal/",
+    "i18n": {
+      "en": {
+        "title": "KKR to Acquire Sports Investment Firm Arctos in $1.4 Billion Deal",
+        "summary": "Private equity giant KKR has agreed to acquire Arctos Partners, the largest institutional investor in professional sports, in a deal initially valued at $1.4 billion with additional equity payouts possible through 2033. Arctos holds stakes in teams including the Dodgers, Warriors and Bills, and will join a new unit called KKR Solutions."
+      },
+      "ja": {
+        "title": "KKR、スポーツ投資会社アルクトスを14億ドルで買収へ",
+        "summary": "大手プライベートエクイティのKKRは、プロスポーツ分野最大の機関投資家であるアルクトス・パートナーズを、当初14億ドル規模（2033年まで追加の株式支払いの可能性あり）で買収することに合意した。アルクトスはドジャースやウォリアーズ、ビルズなどに出資しており、新設の「KKRソリューションズ」部門に統合される。"
+      },
+      "es": {
+        "title": "KKR adquirirá la firma de inversión deportiva Arctos en un acuerdo de 1.400 millones de dólares",
+        "summary": "La firma de capital privado KKR acordó adquirir Arctos Partners, el mayor inversor institucional en deportes profesionales, en un acuerdo valorado inicialmente en 1.400 millones de dólares, con posibles pagos adicionales en acciones hasta 2033. Arctos posee participaciones en equipos como los Dodgers, los Warriors y los Bills, y se integrará en una nueva unidad llamada KKR Solutions."
+      },
+      "zh": {
+        "title": "KKR将以14亿美元收购体育投资公司Arctos",
+        "summary": "私募股权巨头KKR已同意收购职业体育领域最大的机构投资者Arctos Partners,交易初始估值为14亿美元,未来至2033年还可能有额外股权支付。Arctos持有道奇队、勇士队和比尔斯队等球队股份,未来将并入新设立的KKR Solutions部门。"
+      },
+      "fr": {
+        "title": "KKR va racheter la société d'investissement sportif Arctos pour 1,4 milliard de dollars",
+        "summary": "Le géant du private equity KKR a accepté de racheter Arctos Partners, le plus grand investisseur institutionnel du sport professionnel, dans un accord initialement valorisé à 1,4 milliard de dollars, avec des paiements en actions supplémentaires possibles jusqu'en 2033. Arctos détient des participations dans des équipes comme les Dodgers, les Warriors et les Bills, et rejoindra une nouvelle entité baptisée KKR Solutions."
+      }
+    }
+  },
+  {
+    "id": "invictus-gaming-shanghai-arena-2026",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "tech"
+    ],
+    "published_at": "2026-05-12T00:00:00Z",
+    "source_name": "RFT.gg",
+    "source_url": "https://rft.gg/news/ig-unveils-its-putuo-arena-ahead-of-blg-clash",
+    "i18n": {
+      "en": {
+        "title": "Invictus Gaming Opens $20 Million Privately Funded Esports Arena in Shanghai",
+        "summary": "Chinese esports organization Invictus Gaming has opened a new $20 million home arena in Shanghai's Putuo district, built entirely with private funding over six years. The 10,000-square-metre venue, part of the Inzone Esports Industrial Park, hosted its first League of Legends Pro League match on May 12."
+      },
+      "ja": {
+        "title": "中国のInvictus Gaming、上海に2000万ドルの自己資金アリーナを開設",
+        "summary": "中国のeスポーツ団体Invictus Gaming（iG）は、上海・普陀区に2000万ドルを投じた新本拠地アリーナをオープンした。6年がかりで完全に自己資金で建設された延べ1万平方メートル超の施設で、5月12日にはLPL（リーグ・オブ・レジェンド・プロリーグ）の試合が初めて開催された。"
+      },
+      "es": {
+        "title": "Invictus Gaming abre una arena de esports de 20 millones financiada íntegramente en privado en Shanghái",
+        "summary": "La organización china de esports Invictus Gaming abrió su nueva sede, una arena de 20 millones de dólares en el distrito de Putuo, en Shanghái, construida en seis años con financiación totalmente privada. El recinto, de más de 10.000 metros cuadrados e integrado en el Inzone Esports Industrial Park, acogió el 12 de mayo su primer partido de la LPL de League of Legends."
+      },
+      "zh": {
+        "title": "Invictus Gaming在上海启用耗资2000万美元的全自筹资金电竞场馆",
+        "summary": "中国电竞俱乐部Invictus Gaming（iG）在上海普陀区启用了耗资2000万美元、历时六年完全自筹资金建成的新主场馆。这座超过一万平方米的场馆位于普陀电竞产业园内,5月12日迎来首场LPL英雄联盟职业联赛比赛。"
+      },
+      "fr": {
+        "title": "Invictus Gaming inaugure à Shanghai une arène esport de 20 millions de dollars financée en privé",
+        "summary": "L'organisation chinoise d'esport Invictus Gaming a inauguré sa nouvelle arène à domicile de 20 millions de dollars dans le district de Putuo, à Shanghai, construite en six ans avec un financement entièrement privé. Ce site de plus de 10 000 m², intégré à l'Inzone Esports Industrial Park, a accueilli le 12 mai son premier match de la LPL League of Legends."
+      }
+    }
+  },
+  {
+    "id": "mercedes-f1-microsoft-nubank-sponsorship-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "tech"
+    ],
+    "published_at": "2026-01-22T00:00:00Z",
+    "source_name": "Grand Prix",
+    "source_url": "https://www.grandprix.com/news/microsoft-switches-to-mercedes-for-2026-f1-sponsorship.html",
+    "i18n": {
+      "en": {
+        "title": "Mercedes F1 Signs Multi-Year Microsoft Deal Worth Up to $60 Million a Year",
+        "summary": "Mercedes' Formula 1 team has signed Microsoft as a principal partner in a multi-year deal reportedly worth up to $60 million annually, with the tech giant's branding on the new W17 car and its cloud and AI tools used in team operations. Mercedes also added Brazilian fintech Nubank as a new global sponsor."
+      },
+      "ja": {
+        "title": "メルセデスF1、年間最大6000万ドル規模のマイクロソフトとの複数年契約を締結",
+        "summary": "メルセデスF1チームは、年間最大6000万ドル規模とされる複数年契約でマイクロソフトとのパートナーシップを締結した。新型マシン「W17」にロゴが掲出されるほか、同社のクラウドおよびAI技術がチーム運営に活用される。さらにブラジルのフィンテック企業Nubankも新たなグローバルスポンサーとして加わった。"
+      },
+      "es": {
+        "title": "Mercedes F1 firma un acuerdo plurianual con Microsoft valorado en hasta 60 millones de dólares al año",
+        "summary": "El equipo Mercedes de Fórmula 1 firmó un acuerdo plurianual con Microsoft, que según reportes podría alcanzar los 60 millones de dólares al año, con la marca de la tecnológica en el nuevo monoplaza W17 y el uso de sus herramientas de nube e inteligencia artificial en las operaciones del equipo. Mercedes también incorporó a la fintech brasileña Nubank como nuevo patrocinador global."
+      },
+      "zh": {
+        "title": "梅赛德斯F1与微软签署年价值最高6000万美元的多年合作协议",
+        "summary": "梅赛德斯F1车队与微软签署多年合作协议,据报道年价值最高可达6000万美元,微软品牌将出现在新款W17赛车上,其云计算和人工智能工具也将用于车队运营。梅赛德斯还新增巴西金融科技公司Nubank作为全球赞助商。"
+      },
+      "fr": {
+        "title": "Mercedes F1 signe un accord pluriannuel avec Microsoft pouvant atteindre 60 millions de dollars par an",
+        "summary": "L'écurie Mercedes de Formule 1 a signé un accord pluriannuel avec Microsoft, évalué selon certaines sources jusqu'à 60 millions de dollars par an, avec la marque du géant technologique apposée sur la nouvelle W17 et l'utilisation de ses outils cloud et d'IA dans les opérations de l'équipe. Mercedes a également ajouté la fintech brésilienne Nubank comme nouveau sponsor mondial."
+      }
+    }
+  },
+  {
+    "id": "audi-f1-nexo-crypto-sponsorship-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-01-23T00:00:00Z",
+    "source_name": "The Block",
+    "source_url": "https://www.theblock.co/post/385999/crypto-lender-nexo-signs-sponsorship-audi-f1-team",
+    "i18n": {
+      "en": {
+        "title": "Audi's F1 Team Signs Crypto Lender Nexo as First Digital-Asset Partner",
+        "summary": "The Audi Formula 1 team has signed a four-year sponsorship deal with crypto lender Nexo, marking the German manufacturer's first official digital-asset partner as it enters the grid. The partnership will include fan-facing content, education initiatives and immersive brand experiences."
+      },
+      "ja": {
+        "title": "アウディF1、暗号資産企業Nexoと初のデジタルアセット・パートナー契約",
+        "summary": "アウディのF1チームは、暗号資産融資サービスのNexoと4年間のスポンサー契約を締結した。F1参戦にあたり、同社初の公式デジタルアセット・パートナーとなる。提携にはファン向けコンテンツや教育プログラム、体験型のブランド施策が含まれる。"
+      },
+      "es": {
+        "title": "El equipo de F1 de Audi ficha a la plataforma cripto Nexo como primer socio de activos digitales",
+        "summary": "El equipo de Fórmula 1 de Audi firmó un acuerdo de patrocinio de cuatro años con la plataforma de criptopréstamos Nexo, su primer socio oficial de activos digitales al debutar en la parrilla. La colaboración incluirá contenido para aficionados, iniciativas educativas y experiencias de marca inmersivas."
+      },
+      "zh": {
+        "title": "奥迪F1车队签下加密借贷平台Nexo作为首个数字资产合作伙伴",
+        "summary": "奥迪F1车队与加密借贷平台Nexo签署了为期四年的赞助协议,这是这家德国制造商进入F1赛场后首个官方数字资产合作伙伴。合作内容包括面向车迷的内容、教育项目以及沉浸式品牌体验。"
+      },
+      "fr": {
+        "title": "L'écurie F1 d'Audi signe avec la plateforme crypto Nexo, son premier partenaire d'actifs numériques",
+        "summary": "L'écurie de Formule 1 d'Audi a signé un accord de sponsoring de quatre ans avec la plateforme de prêts en cryptomonnaies Nexo, son premier partenaire officiel d'actifs numériques alors qu'elle fait ses débuts sur la grille. Le partenariat comprendra du contenu pour les fans, des initiatives éducatives et des expériences de marque immersives."
+      }
+    }
+  },
+  {
+    "id": "whoop-ferrari-f1-wearable-partnership-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "tech"
+    ],
+    "published_at": "2026-01-20T00:00:00Z",
+    "source_name": "BlackBook Motorsport",
+    "source_url": "https://www.blackbookmotorsport.com/news/ferrari-f1-whoop-health-fitness-wearable-partner-january-2026/",
+    "i18n": {
+      "en": {
+        "title": "Ferrari Taps Whoop as First-Ever F1 Wearable Health Partner",
+        "summary": "Scuderia Ferrari has signed fitness wearable maker Whoop as its official health and fitness technology partner, marking Whoop's first entry into Formula 1 sponsorship. Starting with the 2026 season, Whoop devices will track sleep, stress and recovery data for drivers and team staff."
+      },
+      "ja": {
+        "title": "フェラーリ、Whoopと提携しF1初のウェアラブル健康パートナーに",
+        "summary": "スクーデリア・フェラーリは、ウェアラブル端末メーカーのWhoopと公式ヘルス・フィットネステクノロジーパートナー契約を締結した。WhoopにとってF1スポンサー契約は初めてとなる。2026年シーズンから、ドライバーやチームスタッフの睡眠・ストレス・回復状況のデータ追跡にWhoopのデバイスが活用される。"
+      },
+      "es": {
+        "title": "Ferrari ficha a Whoop como primer socio de salud con dispositivos vestibles en la F1",
+        "summary": "Scuderia Ferrari firmó con el fabricante de dispositivos vestibles Whoop como su socio oficial de tecnología de salud y fitness, el primer acuerdo de Whoop en la Fórmula 1. A partir de la temporada 2026, los dispositivos de Whoop rastrearán datos de sueño, estrés y recuperación de pilotos y personal del equipo."
+      },
+      "zh": {
+        "title": "法拉利签下Whoop 成为F1历史上首个可穿戴健康合作伙伴",
+        "summary": "法拉利车队与可穿戴设备制造商Whoop签署协议,成为其官方健康与健身科技合作伙伴,这是Whoop首次进入F1赞助领域。从2026赛季开始,Whoop设备将为车手和车队工作人员追踪睡眠、压力和恢复数据。"
+      },
+      "fr": {
+        "title": "Ferrari s'associe à Whoop, premier partenaire santé connecté de l'histoire de la F1",
+        "summary": "La Scuderia Ferrari a signé avec le fabricant d'objets connectés Whoop, qui devient son partenaire officiel de technologie santé et fitness, une première incursion de Whoop dans le sponsoring en Formule 1. Dès la saison 2026, les appareils Whoop suivront les données de sommeil, de stress et de récupération des pilotes et du personnel de l'équipe."
+      }
+    }
+  },
+  {
+    "id": "jerry-jones-cuban-cowboys-stake-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-08-03T00:00:00Z",
+    "source_name": "NBC Sports",
+    "source_url": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-would-be-open-to-selling-a-minority-share-of-cowboys-to-mark-cuban",
+    "i18n": {
+      "en": {
+        "title": "Jerry Jones Open to Selling Cowboys Minority Stake to Mark Cuban",
+        "summary": "Dallas Cowboys owner Jerry Jones said he would be open to selling a minority stake in the team to former Dallas Mavericks owner Mark Cuban, praising Cuban's track record in sports ownership. Cuban's Harbinger Sports Partners is not yet among the private-equity groups the NFL has approved to invest in teams."
+      },
+      "ja": {
+        "title": "カウボーイズのジョーンズ・オーナー、マーク・キューバン氏への株式売却に前向き",
+        "summary": "ダラス・カウボーイズのオーナー、ジェリー・ジョーンズ氏は、元ダラス・マーベリックスのオーナーであるマーク・キューバン氏への少数株式売却に前向きだと語り、キューバン氏のスポーツ球団経営における実績を評価した。キューバン氏が率いるハービンジャー・スポーツ・パートナーズは、NFLが球団投資を承認済みのプライベートエクイティグループにはまだ含まれていない。"
+      },
+      "es": {
+        "title": "Jerry Jones está dispuesto a vender una participación minoritaria de los Cowboys a Mark Cuban",
+        "summary": "El propietario de los Dallas Cowboys, Jerry Jones, dijo que estaría dispuesto a vender una participación minoritaria del equipo al ex propietario de los Dallas Mavericks, Mark Cuban, elogiando su trayectoria como propietario deportivo. El fondo de Cuban, Harbinger Sports Partners, todavía no figura entre los grupos de capital privado aprobados por la NFL para invertir en equipos."
+      },
+      "zh": {
+        "title": "牛仔队老板杰里·琼斯愿将少数股权出售给马克·库班",
+        "summary": "达拉斯牛仔队老板杰里·琼斯表示,他愿意将球队的少数股权出售给达拉斯独行侠队前老板马克·库班,并称赞库班在体育球队经营方面的业绩。库班旗下的Harbinger Sports Partners目前尚未被列入NFL批准可投资球队的私募股权机构名单。"
+      },
+      "fr": {
+        "title": "Jerry Jones prêt à céder une participation minoritaire des Cowboys à Mark Cuban",
+        "summary": "Jerry Jones, propriétaire des Cowboys de Dallas, a déclaré qu'il serait prêt à céder une participation minoritaire de l'équipe à Mark Cuban, ancien propriétaire des Mavericks de Dallas, saluant son bilan en tant que propriétaire dans le sport. Le fonds de Cuban, Harbinger Sports Partners, ne figure pas encore parmi les groupes de private equity approuvés par la NFL pour investir dans les franchises."
+      }
+    }
+  },
+  {
+    "id": "genius-sports-publicis-fanhub-partnership-2025",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "fan",
+      "sponsor",
+      "tech"
+    ],
+    "published_at": "2025-11-25T00:00:00Z",
+    "source_name": "Business Wire",
+    "source_url": "https://www.businesswire.com/news/home/20251125133402/en/Genius-Sports-Partners-with-Publicis-Sports-to-Reimagine-Future-of-Fan-Engagement",
+    "i18n": {
+      "en": {
+        "title": "Genius Sports Partners With Publicis to Expand AI-Driven Fan Engagement",
+        "summary": "Genius Sports has announced a global partnership with advertising group Publicis Sports to grow FANHub, its sports-advertising platform that uses AI to help brands reach verified fans at key moments. The deal aims to deliver messaging tied closely to live in-game action across the two companies' combined networks."
+      },
+      "ja": {
+        "title": "ジーニアス・スポーツ、パブリシスと提携しAI活用のファンエンゲージメントを拡大",
+        "summary": "ジーニアス・スポーツは、広告グループのパブリシス・スポーツとグローバルパートナーシップを締結し、AIを活用してブランドが認証済みファンに重要な瞬間にリーチできるスポーツ広告プラットフォーム「FANHub」の拡大を図ると発表した。両社の提携により、試合中のアクションと連動したメッセージ配信を強化する。"
+      },
+      "es": {
+        "title": "Genius Sports se asocia con Publicis para ampliar la interacción con aficionados mediante IA",
+        "summary": "Genius Sports anunció una alianza global con el grupo publicitario Publicis Sports para expandir FANHub, su plataforma de publicidad deportiva que utiliza inteligencia artificial para ayudar a las marcas a llegar a aficionados verificados en momentos clave. El acuerdo busca ofrecer mensajes estrechamente ligados a la acción del juego en vivo."
+      },
+      "zh": {
+        "title": "Genius Sports与Publicis合作 拓展人工智能驱动的球迷互动",
+        "summary": "Genius Sports宣布与广告集团Publicis Sports建立全球合作伙伴关系,共同拓展其利用人工智能帮助品牌在关键时刻触达认证球迷的体育广告平台FANHub。该合作旨在将广告信息与比赛实时动态紧密结合。"
+      },
+      "fr": {
+        "title": "Genius Sports s'associe à Publicis pour développer l'engagement des fans grâce à l'IA",
+        "summary": "Genius Sports a annoncé un partenariat mondial avec le groupe publicitaire Publicis Sports pour développer FANHub, sa plateforme de publicité sportive qui utilise l'IA pour aider les marques à toucher des fans vérifiés aux moments clés. L'accord vise à diffuser des messages étroitement liés à l'action en direct dans les matchs."
+      }
+    }
+  },
+  {
+    "id": "fifa-dubai-sports-council-awards-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "biz",
+      "sponsor"
+    ],
+    "published_at": "2025-12-29T00:00:00Z",
+    "source_name": "FIFA",
+    "source_url": "https://inside.fifa.com/media-releases/dubai-sports-council-partnership-agreement-new-awards-best-football-annually",
+    "i18n": {
+      "en": {
+        "title": "FIFA and Dubai Sports Council Agree to Launch New Annual Football Awards",
+        "summary": "FIFA and the Dubai Sports Council signed a partnership agreement to launch a new annual awards ceremony honoring the best in world football, starting in 2026. The event, announced at the World Sports Summit in Dubai, will become FIFA's only official annual awards gathering."
+      },
+      "ja": {
+        "title": "FIFAとドバイ・スポーツ・カウンシル、新たな年間サッカーアワードの開催へ合意",
+        "summary": "FIFAとドバイ・スポーツ・カウンシルは、2026年から世界サッカーの最優秀選手らを表彰する新たな年間アワード授賞式を開始するパートナーシップ契約に調印した。ドバイで開催されたワールド・スポーツ・サミットで発表され、これはFIFA唯一の公式年次アワード行事となる。"
+      },
+      "es": {
+        "title": "FIFA y el Consejo de Deportes de Dubái acuerdan lanzar nuevos premios anuales del fútbol",
+        "summary": "FIFA y el Consejo de Deportes de Dubái firmaron un acuerdo de colaboración para lanzar una nueva ceremonia anual de premios que reconocerá lo mejor del fútbol mundial, a partir de 2026. El evento, anunciado en la Cumbre Mundial del Deporte en Dubái, se convertirá en la única gala de premios anual oficial de la FIFA."
+      },
+      "zh": {
+        "title": "国际足联与迪拜体育理事会同意推出全新年度足球颁奖典礼",
+        "summary": "国际足联与迪拜体育理事会签署合作协议,将从2026年起推出全新的年度颁奖典礼,表彰世界足球最佳人物与团队。该活动在迪拜世界体育峰会上公布,将成为国际足联唯一的官方年度颁奖盛会。"
+      },
+      "fr": {
+        "title": "La FIFA et le Conseil des sports de Dubaï s'accordent pour lancer de nouveaux prix annuels du football",
+        "summary": "La FIFA et le Conseil des sports de Dubaï ont signé un accord de partenariat pour lancer une nouvelle cérémonie annuelle de récompenses célébrant les meilleurs du football mondial, à partir de 2026. L'événement, annoncé lors du World Sports Summit à Dubaï, deviendra la seule cérémonie annuelle officielle de récompenses de la FIFA."
+      }
+    }
+  },
+  {
+    "id": "french-alps-2030-ceo-linette-exit-2026",
+    "sport": "olympics",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-02-25T00:00:00Z",
+    "source_name": "Associated Press",
+    "source_url": "https://www.clickorlando.com/sports/2026/02/25/turmoil-hit-2030-french-alps-olympics-lose-ceo-cyril-linette-in-leadership-shake-up/",
+    "i18n": {
+      "en": {
+        "title": "2030 French Alps Winter Olympics Organizers Lose CEO Amid Leadership Turmoil",
+        "summary": "Organizers of the 2030 Winter Olympics in the French Alps confirmed the departure of chief executive Cyril Linette following weeks of internal conflict with organizing committee leader Edgar Grospiron. The exit follows several other resignations, including the chief operating officer and communications director, as the committee seeks what it called renewed governance."
+      },
+      "ja": {
+        "title": "2030年冬季オリンピック（フランス・アルプス）組織委、内部対立の末CEOが退任",
+        "summary": "2030年冬季オリンピック（フランス・アルプス）の組織委員会は、運営トップのエドガー・グロスピロン氏との数週間にわたる対立の末、最高経営責任者（CEO）のシリル・リネット氏の退任を発表した。最高執行責任者や広報責任者の辞任も相次いでおり、委員会は「新たな体制によるガバナンス」を目指すとしている。"
+      },
+      "es": {
+        "title": "Los organizadores de los Juegos de Invierno 2030 en los Alpes franceses pierden a su CEO en medio de turbulencias",
+        "summary": "Los organizadores de los Juegos Olímpicos de Invierno de 2030 en los Alpes franceses confirmaron la salida del director ejecutivo Cyril Linette tras semanas de conflicto interno con Edgar Grospiron, líder del comité organizador. La salida se produce después de varias otras dimisiones, incluidas las del director de operaciones y el director de comunicación, mientras el comité busca lo que calificó de gobernanza renovada."
+      },
+      "zh": {
+        "title": "2030年法国阿尔卑斯冬奥会组委会首席执行官在内部动荡中离职",
+        "summary": "2030年法国阿尔卑斯冬奥会组委会确认首席执行官西里尔·利内特离职,此前他与组委会负责人埃德加·格罗斯皮隆之间的内部矛盾已持续数周。此前已有首席运营官和公关总监等多名高层相继辞职,组委会表示希望借此实现其所称的治理革新。"
+      },
+      "fr": {
+        "title": "Les organisateurs des JO d'hiver 2030 dans les Alpes françaises perdent leur directeur général en pleine tourmente",
+        "summary": "Les organisateurs des Jeux olympiques d'hiver 2030 dans les Alpes françaises ont confirmé le départ du directeur général Cyril Linette, après des semaines de conflit interne avec Edgar Grospiron, à la tête du comité d'organisation. Ce départ s'ajoute à plusieurs autres démissions, dont celles de la directrice des opérations et du directeur de la communication, le comité disant viser une gouvernance renouvelée."
+      }
+    }
   }
 ]
