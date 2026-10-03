@@ -6593,5 +6593,143 @@
         "summary": "La Lawn Tennis Association (LTA) a signé un accord pluriannuel avec l'agence Two Circles, désormais son partenaire des réseaux sociaux jusqu'à fin 2028. Two Circles pilotera la stratégie sociale, la production de contenu et la publicité payante afin de développer l'audience autour des tournois sur gazon et du calendrier tennistique britannique."
       }
     }
+  },
+  {
+    "id": "ntt-docomo-business-seibu-lions-suite-naming-rights-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "tech",
+      "sponsor"
+    ],
+    "published_at": "2026-03-25T00:00:00Z",
+    "source_name": "NTT",
+    "source_url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0325_1.html",
+    "i18n": {
+      "en": {
+        "title": "NTT DOCOMO Business Takes Naming Rights to Seibu Lions' Stadium Suite",
+        "summary": "NTT DOCOMO Business signed a naming-rights deal with the Saitama Seibu Lions for the premium suite at Belluna Dome, renaming it the \"NTT DOCOMO Business Lions Suite\" from the team's March 31 home opener. The two-year agreement builds on NTT's ongoing smart-stadium work at the ballpark, including network and digital signage upgrades."
+      },
+      "ja": {
+        "title": "NTTドコモビジネス、ベルーナドーム「ライオンズスイート」の命名権を取得",
+        "summary": "NTTドコモビジネスは埼玉西武ライオンズとベルーナドームの貴賓室「ライオンズ スイート」のネーミングライツ契約を締結し、3月31日のホーム開幕戦から「NTTドコモビジネス ライオンズ スイート」に名称変更した。契約期間は2年間で、同社が進めるスマートスタジアム化の取り組みの一環となる。"
+      },
+      "es": {
+        "title": "NTT DOCOMO Business adquiere los derechos de nombre de un palco de los Seibu Lions",
+        "summary": "NTT DOCOMO Business firmo un acuerdo de naming rights con los Saitama Seibu Lions para el palco premium del Belluna Dome, que paso a llamarse \"NTT DOCOMO Business Lions Suite\" desde la inauguracion de la temporada el 31 de marzo. El acuerdo de dos anos se suma al trabajo de estadio inteligente que NTT ya desarrolla en el recinto."
+      },
+      "zh": {
+        "title": "NTT DOCOMO Business获贝鲁纳巨蛋“狮子套房”命名权",
+        "summary": "NTT DOCOMO Business与埼玉西武狮签署命名权协议，贝鲁纳巨蛋的贵宾套房自3月31日主场开幕战起更名为“NTT DOCOMO Business狮子套房”。这项为期两年的协议是该公司在球场持续推进智慧球场建设的一部分。"
+      },
+      "fr": {
+        "title": "NTT DOCOMO Business obtient les droits de denomination d'une suite des Seibu Lions",
+        "summary": "NTT DOCOMO Business a signe un accord de naming avec les Saitama Seibu Lions pour la suite premium du Belluna Dome, rebaptisee « NTT DOCOMO Business Lions Suite » des le match d'ouverture a domicile du 31 mars. Cet accord de deux ans s'inscrit dans les travaux de stade intelligent deja menes par NTT dans cette enceinte."
+      }
+    }
+  },
+  {
+    "id": "sportico-nfl-team-valuations-2026-cowboys-record",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-08-12T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/valuations/teams/2026/nfl-team-values-2026-dallas-cowboys-los-angeles-rams-1234941607/",
+    "i18n": {
+      "en": {
+        "title": "Sportico: NFL Teams Hit Record $299 Billion Combined Value, Cowboys Stay No. 1",
+        "summary": "Sportico's 2026 franchise valuations put the NFL's 32 teams at a combined $299 billion, with the average club now worth $9.34 billion, up from $7.13 billion a year earlier. The Dallas Cowboys topped the list for the seventh straight year at $15.5 billion, ahead of the Los Angeles Rams and New York Giants."
+      },
+      "ja": {
+        "title": "Sportico調査:NFL全チームの合計価値が過去最高の299億ドル、首位は7年連続カウボーイズ",
+        "summary": "Sporticoが発表した2026年版チーム評価額によると、NFL32チームの合計価値は過去最高の299億ドルに達し、平均評価額は前年の71.3億ドルから93.4億ドルに上昇した。ダラス・カウボーイズは155億ドルで7年連続の首位となり、ロサンゼルス・ラムズ、ニューヨーク・ジャイアンツが続いた。"
+      },
+      "es": {
+        "title": "Sportico: los equipos de la NFL alcanzan un valor combinado record de 299.000 millones de dolares, los Cowboys siguen en el primer puesto",
+        "summary": "Las valoraciones de franquicias de 2026 de Sportico sitúan a los 32 equipos de la NFL en un valor combinado record de 299.000 millones de dolares, con un promedio de 9.340 millones por club, frente a los 7.130 millones del ano anterior. Los Dallas Cowboys encabezaron la lista por septimo ano consecutivo con 15.500 millones, por delante de Los Angeles Rams y New York Giants."
+      },
+      "zh": {
+        "title": "Sportico：NFL球队总价值创纪录达2990亿美元，牛仔队连续七年居首",
+        "summary": "Sportico发布的2026年球队估值显示，NFL32支球队总价值创纪录达到2990亿美元，平均每队价值从上年的71.3亿美元升至93.4亿美元。达拉斯牛仔队以155亿美元连续第七年位居榜首，领先于洛杉矶公羊队和纽约巨人队。"
+      },
+      "fr": {
+        "title": "Sportico : les franchises NFL atteignent une valeur combinee record de 299 milliards de dollars, les Cowboys restent no 1",
+        "summary": "Les evaluations 2026 de Sportico chiffrent la valeur combinee des 32 franchises de la NFL a un record de 299 milliards de dollars, la valeur moyenne d'un club passant de 7,13 a 9,34 milliards de dollars en un an. Les Cowboys de Dallas conservent la premiere place pour la septieme annee consecutive avec 15,5 milliards de dollars, devant les Rams de Los Angeles et les Giants de New York."
+      }
+    }
+  },
+  {
+    "id": "tottenham-enic-100m-capital-injection-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "biz",
+      "team"
+    ],
+    "published_at": "2026-09-01T00:00:00Z",
+    "source_name": "Tottenham Hotspur",
+    "source_url": "https://www.tottenhamhotspur.com/news/984799/tottenham-hotspur-announces-initial-100m-capital-injection",
+    "i18n": {
+      "en": {
+        "title": "Tottenham's Owners Inject GBP 100 Million to Boost Long-Term Investment",
+        "summary": "Tottenham Hotspur said majority owner ENIC, via the Lewis family trust, is injecting an initial GBP 100 million of new capital into the club. The club framed the funding as support for long-term sporting success, giving the board added financial room for the squad and infrastructure."
+      },
+      "ja": {
+        "title": "トッテナム、長期投資強化で株主が1億ポンドを注入",
+        "summary": "トッテナム・ホットスパーは、大株主ENIC（ルイス家の信託を通じて）がクラブに初回1億ポンドの新規資本を注入すると発表した。クラブはこの資金を長期的な競技力向上を支えるものと位置づけ、選手強化や施設投資に充てる財務的余裕を得るとしている。"
+      },
+      "es": {
+        "title": "Los propietarios del Tottenham inyectan 100 millones de libras para impulsar la inversion a largo plazo",
+        "summary": "El Tottenham Hotspur anuncio que su propietario mayoritario ENIC, a traves del fideicomiso de la familia Lewis, inyectara un primer tramo de 100 millones de libras de nuevo capital en el club. La entidad presento la aportacion como respaldo al exito deportivo a largo plazo, dando al consejo mas margen financiero para la plantilla y las infraestructuras."
+      },
+      "zh": {
+        "title": "托特纳姆大股东注资1亿英镑支持长期发展",
+        "summary": "托特纳姆热刺宣布，大股东ENIC通过刘易斯家族信托向俱乐部注入首笔1亿英镑新资本。俱乐部将此次注资定位为支持长期竞技成功，为管理层在球队建设和基础设施方面提供更多财务空间。"
+      },
+      "fr": {
+        "title": "Les proprietaires de Tottenham injectent 100 millions de livres pour soutenir l'investissement a long terme",
+        "summary": "Tottenham Hotspur a annonce que son actionnaire majoritaire ENIC, via le trust de la famille Lewis, injecte un premier apport de 100 millions de livres de capital frais dans le club. Le club presente ce financement comme un soutien a la reussite sportive sur le long terme, offrant a la direction davantage de marge financiere pour l'effectif et les infrastructures."
+      }
+    }
+  },
+  {
+    "id": "ohio-stadium-wifi7-ai-upgrade-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "tech",
+      "fan"
+    ],
+    "published_at": "2026-07-08T00:00:00Z",
+    "source_name": "Ohio State University",
+    "source_url": "https://it.osu.edu/news/2026/07/08/news-ohio-stadium-embraces-ai-managed-wi-fi-juniper-mist-wi-fi-7-upgrade",
+    "i18n": {
+      "en": {
+        "title": "Ohio Stadium Rolls Out AI-Managed Wi-Fi 7 Network Ahead of Football Season",
+        "summary": "Ohio State's athletics department is replacing Ohio Stadium's seven-year-old wireless network with an AI-managed Wi-Fi 7 system built on Juniper Mist technology. The upgrade is part of a wider set of gameday changes for the 2026 season, including expanded facial-authentication entry and new concession options."
+      },
+      "ja": {
+        "title": "オハイオ・スタジアム、新シーズン前にAI管理型Wi-Fi 7を導入",
+        "summary": "オハイオ州立大学のアスレチック部門は、7年前から使用してきたオハイオ・スタジアムの無線ネットワークを、Juniper Mist技術によるAI管理型Wi-Fi 7システムに置き換える。この改修は2026年シーズンに向けた一連の観戦体験改善策の一つで、顔認証入場の拡大や新しい売店メニューも含まれる。"
+      },
+      "es": {
+        "title": "El Ohio Stadium estrena una red Wi-Fi 7 gestionada por IA antes de la temporada de futbol americano",
+        "summary": "El departamento deportivo de Ohio State esta sustituyendo la red inalambrica de siete anos del Ohio Stadium por un sistema Wi-Fi 7 gestionado por inteligencia artificial basado en tecnologia Juniper Mist. La mejora forma parte de un conjunto mas amplio de cambios para la temporada 2026, incluida la ampliacion del acceso por autenticacion facial y nuevas opciones de restauracion."
+      },
+      "zh": {
+        "title": "俄亥俄体育场在新赛季前部署AI管理的Wi-Fi 7网络",
+        "summary": "俄亥俄州立大学体育部正在用基于Juniper Mist技术、由人工智能管理的Wi-Fi 7系统，取代俄亥俄体育场已使用七年的无线网络。此次升级是2026赛季一系列观赛体验改进举措的一部分，还包括扩大面部识别入场范围及新增餐饮选项。"
+      },
+      "fr": {
+        "title": "Le Ohio Stadium deploie un reseau Wi-Fi 7 pilote par IA avant la saison de football americain",
+        "summary": "Le departement sportif de l'Ohio State remplace le reseau sans fil vieux de sept ans de l'Ohio Stadium par un systeme Wi-Fi 7 pilote par intelligence artificielle, base sur la technologie Juniper Mist. Cette mise a niveau s'inscrit dans une serie de changements plus larges pour la saison 2026, dont un acces elargi par authentification faciale et de nouvelles options de restauration."
+      }
+    }
   }
 ]
