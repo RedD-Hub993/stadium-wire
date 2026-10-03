@@ -6431,5 +6431,404 @@
         "summary": "La NFL a annoncé de nouveaux accords pluriannuels de paris sportifs avec DraftKings et FanDuel, tout en ajoutant Fanatics Betting and Gaming comme nouveau partenaire, en remplacement de Caesars Entertainment à ce poste. Les trois entreprises obtiennent le droit d'utiliser les marques de la NFL dans leurs promotions de paris et seront présentes lors d'événements phares de la ligue comme le Super Bowl et la draft."
       }
     }
+  },
+  {
+    "id": "audi-f1-revolut-title-sponsor-paulaner-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2025-07-14T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/sponsorship/f1-sponsorship-wrap-audi-haas-alpine/",
+    "i18n": {
+      "en": {
+        "title": "Audi's F1 Team Signs Revolut as Title Sponsor, Adds Paulaner Ahead of 2026 Debut",
+        "summary": "Audi's incoming Formula 1 team struck a landmark agreement naming fintech firm Revolut as title sponsor starting with its 2026 championship debut, giving the brand top-line placement across the team. The squad also added Munich brewery Paulaner as an official supplier centered on its non-alcoholic Weissbier, part of a growing commercial roster built ahead of Audi's arrival on the grid."
+      },
+      "ja": {
+        "title": "アウディF1チーム、Revolutとタイトルスポンサー契約、2026年デビューへポーランナーも加入",
+        "summary": "2026年にF1参戦するアウディの新チームは、フィンテック企業Revolutとタイトルスポンサー契約を結び、チーム全体にブランドを前面に掲出することになった。さらにミュンヘンの醸造会社パウラーナーをオフィシャルサプライヤーに迎え、ノンアルコールビール「ヴァイスビア0.0%」を軸にした協業を展開する。アウディは参戦開始に向けてスポンサー陣営の拡充を進めている。"
+      },
+      "es": {
+        "title": "El equipo de F1 de Audi ficha a Revolut como patrocinador principal y suma a Paulaner antes de su debut en 2026",
+        "summary": "El futuro equipo de Fórmula 1 de Audi cerró un acuerdo histórico que convierte a la firma fintech Revolut en patrocinador principal desde su debut en el campeonato de 2026, con presencia destacada en todo el equipo. El conjunto también sumó a la cervecera muniquesa Paulaner como proveedor oficial, centrado en su cerveza de trigo sin alcohol, como parte de la creciente cartera comercial previa a la llegada de Audi a la parrilla."
+      },
+      "zh": {
+        "title": "奥迪F1车队签下Revolut为冠名赞助商，并在2026赛季首秀前引入保拉纳啤酒",
+        "summary": "奥迪即将组建的F1车队达成一项重磅协议，金融科技公司Revolut将自车队2026赛季首秀起成为冠名赞助商，品牌标识将出现在车队各处显著位置。车队还迎来慕尼黑啤酒厂保拉纳作为官方供应商，合作聚焦其无酒精小麦啤酒。这是奥迪在正式参赛前不断扩充商业版图的一部分。"
+      },
+      "fr": {
+        "title": "L'équipe de F1 Audi signe Revolut comme sponsor titre et ajoute Paulaner avant ses débuts en 2026",
+        "summary": "La future écurie de Formule 1 d'Audi a conclu un accord majeur faisant de la société fintech Revolut son sponsor titre dès ses débuts en championnat en 2026, avec une visibilité de premier plan sur toute l'équipe. L'écurie a également recruté la brasserie munichoise Paulaner comme fournisseur officiel, autour de sa bière blanche sans alcool, dans le cadre du développement de son portefeuille commercial avant son arrivée sur la grille."
+      }
+    }
+  },
+  {
+    "id": "red-bull-racing-indeed-f1-sponsor-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-03-13T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/news/f1-sponsorships-red-bull-adds-indeed-cadillac-secures-core-scientific/",
+    "i18n": {
+      "en": {
+        "title": "Indeed Lands First-Ever F1 Deal With Red Bull Racing",
+        "summary": "Job search platform Indeed secured its first Formula 1 sponsorship, partnering with Red Bull Racing ahead of the season's Chinese Grand Prix. The brand's logo appears on the cars and helmets of drivers Max Verstappen and Isack Hadjar, and Indeed is joining the team's F1 Academy talent programme to support career pathways into the sport."
+      },
+      "ja": {
+        "title": "Indeed、レッドブル・レーシングと初のF1スポンサー契約",
+        "summary": "求人検索サービスのIndeedは、中国グランプリを前にレッドブル・レーシングとの提携を発表し、初のF1スポンサー契約を結んだ。マックス・フェルスタッペンとアイザック・ハジャーの両ドライバーのマシンとヘルメットにロゴが掲出されるほか、Indeedはチームの育成プログラム「F1アカデミー」にも参画し、モータースポーツ業界でのキャリア支援を行う。"
+      },
+      "es": {
+        "title": "Indeed cierra su primer acuerdo en la F1 con Red Bull Racing",
+        "summary": "La plataforma de búsqueda de empleo Indeed consiguió su primer patrocinio en la Fórmula 1 al asociarse con Red Bull Racing antes del Gran Premio de China. El logotipo de la marca aparece en los monoplazas y cascos de los pilotos Max Verstappen e Isack Hadjar, y Indeed se suma además al programa de talento F1 Academy del equipo para impulsar el acceso a carreras en el automovilismo."
+      },
+      "zh": {
+        "title": "Indeed与红牛车队达成首个F1赞助协议",
+        "summary": "招聘平台Indeed在中国大奖赛前宣布与红牛车队合作，达成其首个一级方程式赞助协议。品牌标识将出现在车手马克斯·维斯塔潘和艾萨克·哈贾尔的赛车及头盔上，同时Indeed还将加入车队的F1学院人才培养项目，助力更多人进入这项运动的职业领域。"
+      },
+      "fr": {
+        "title": "Indeed décroche son premier contrat en F1 avec Red Bull Racing",
+        "summary": "La plateforme de recherche d'emploi Indeed a obtenu son tout premier partenariat en Formule 1 en s'associant à Red Bull Racing avant le Grand Prix de Chine. Le logo de la marque figure sur les monoplaces et les casques des pilotes Max Verstappen et Isack Hadjar, et Indeed rejoint également le programme de jeunes talents F1 Academy de l'équipe pour favoriser l'accès aux carrières dans la discipline."
+      }
+    }
+  },
+  {
+    "id": "aston-martin-f1-cohere-ai-partner-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "tech"
+    ],
+    "published_at": "2026-03-04T00:00:00Z",
+    "source_name": "Cohere",
+    "source_url": "https://cohere.com/blog/cohere-aston-martin-formula-one-generative-ai-partner",
+    "i18n": {
+      "en": {
+        "title": "Aston Martin F1 Names Cohere as Official Generative AI Partner",
+        "summary": "AI company Cohere became the official Generative AI Partner of the Aston Martin Aramco Formula One team under a new multi-year agreement. Cohere will support the team's performance, engineering and operations functions through its enterprise AI platform, with branding appearing on the car starting at the Australian Grand Prix."
+      },
+      "ja": {
+        "title": "アストンマーティンF1、CohereとAIパートナー契約",
+        "summary": "AI企業Cohereは、アストンマーティン・アラムコ・フォーミュラワン・チームと複数年にわたるオフィシャル生成AIパートナー契約を締結した。Cohereは自社の企業向けAIプラットフォームを通じて、チームのパフォーマンス分析やエンジニアリング、運営業務を支援する。ブランドロゴはオーストラリアGPからマシンに掲出される。"
+      },
+      "es": {
+        "title": "Aston Martin F1 nombra a Cohere su socio oficial de IA generativa",
+        "summary": "La empresa de inteligencia artificial Cohere se convirtió en el socio oficial de IA generativa del equipo Aston Martin Aramco de Fórmula 1 mediante un nuevo acuerdo plurianual. Cohere apoyará las funciones de rendimiento, ingeniería y operaciones del equipo a través de su plataforma de IA empresarial, con su marca presente en el monoplaza desde el Gran Premio de Australia."
+      },
+      "zh": {
+        "title": "阿斯顿马丁F1车队宣布Cohere为官方生成式AI合作伙伴",
+        "summary": "人工智能公司Cohere通过一项新的多年期协议，成为阿斯顿马丁阿美F1车队的官方生成式AI合作伙伴。Cohere将通过其企业级AI平台为车队的赛车表现分析、工程研发及运营管理提供支持，其品牌标识将自澳大利亚大奖赛起出现在赛车上。"
+      },
+      "fr": {
+        "title": "Aston Martin F1 fait de Cohere son partenaire officiel d'IA générative",
+        "summary": "L'entreprise d'intelligence artificielle Cohere est devenue le partenaire officiel d'IA générative de l'écurie Aston Martin Aramco de Formule 1 dans le cadre d'un nouvel accord pluriannuel. Cohere soutiendra les fonctions de performance, d'ingénierie et d'exploitation de l'équipe via sa plateforme d'IA d'entreprise, sa marque apparaissant sur la monoplace dès le Grand Prix d'Australie."
+      }
+    }
+  },
+  {
+    "id": "denver-nuggets-ibotta-jersey-patch-extension-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-04-16T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/news/ibotta-extends-as-nuggets-jersey-patch-partner/",
+    "i18n": {
+      "en": {
+        "title": "Ibotta Extends Jersey Patch Partnership With Denver Nuggets",
+        "summary": "Cash-back shopping app Ibotta extended its partnership with the Denver Nuggets, continuing on as the team's jersey patch sponsor under a new multi-year agreement. The renewal keeps the Ibotta logo on Nuggets uniforms as the company deepens its investment in sports marketing."
+      },
+      "ja": {
+        "title": "Ibotta、デンバー・ナゲッツとのジャージーパッチ契約を延長",
+        "summary": "キャッシュバックアプリのIbottaは、デンバー・ナゲッツとの提携を延長し、複数年契約のもとユニフォームのジャージーパッチスポンサーを継続することになった。これによりナゲッツのユニフォームにIbottaのロゴが引き続き掲出され、同社はスポーツマーケティングへの投資をさらに強化する。"
+      },
+      "es": {
+        "title": "Ibotta renueva su patrocinio del parche de camiseta de los Denver Nuggets",
+        "summary": "La aplicación de reembolsos Ibotta extendió su alianza con los Denver Nuggets y seguirá como patrocinador del parche de la camiseta del equipo bajo un nuevo acuerdo plurianual. La renovación mantiene el logotipo de Ibotta en las camisetas de los Nuggets mientras la empresa profundiza su apuesta por el marketing deportivo."
+      },
+      "zh": {
+        "title": "Ibotta与丹佛掘金续签球衣广告位赞助协议",
+        "summary": "返现购物应用Ibotta与丹佛掘金队续签合作，将继续以新的多年期协议担任球队球衣广告位赞助商。此次续约使Ibotta的标志得以继续出现在掘金队球衣上，也体现出该公司在体育营销领域投入的持续加深。"
+      },
+      "fr": {
+        "title": "Ibotta prolonge son partenariat de marquage de maillot avec les Nuggets de Denver",
+        "summary": "L'application de cashback Ibotta a prolongé son partenariat avec les Nuggets de Denver et continuera d'être le sponsor du patch de maillot de l'équipe dans le cadre d'un nouvel accord pluriannuel. Ce renouvellement maintient le logo d'Ibotta sur les maillots des Nuggets, alors que l'entreprise renforce son investissement dans le marketing sportif."
+      }
+    }
+  },
+  {
+    "id": "missouri-tigers-ambetter-health-jersey-patch-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-08-28T00:00:00Z",
+    "source_name": "Saturday Down South",
+    "source_url": "https://www.saturdaydownsouth.com/news/college-football/mizzou-announces-jersey-patch-partnership-for-2026-season/",
+    "i18n": {
+      "en": {
+        "title": "Missouri Tigers Add Ambetter Health Jersey Patch Starting 2026 Season",
+        "summary": "Missouri announced a jersey patch sponsorship with insurer Ambetter Health that will put the company's logo on Tigers football uniforms beginning with the 2026 season. The patch also extends to other Missouri Olympic sports programs, part of athletic director Laird Veach's push that has more than doubled the department's sponsorship revenue in under three years."
+      },
+      "ja": {
+        "title": "ミズーリ大、2026年シーズンからAmbetter Healthのジャージーパッチを導入",
+        "summary": "ミズーリ大学は、保険会社Ambetter Healthとのジャージーパッチスポンサー契約を発表し、2026年シーズンからフットボールのユニフォームに同社のロゴが掲出される。このパッチは他のオリンピック競技にも拡大される予定で、ロード・ヴィーチ athletic director の方針のもと、3年足らずで athletic department のスポンサー収入は倍増以上となっている。"
+      },
+      "es": {
+        "title": "Missouri Tigers suma el parche de Ambetter Health a partir de la temporada 2026",
+        "summary": "Missouri anunció un patrocinio de parche de camiseta con la aseguradora Ambetter Health que colocará el logotipo de la empresa en los uniformes de fútbol americano de los Tigers desde la temporada 2026. El parche también se extenderá a otros programas olímpicos de la universidad, en el marco del impulso del director deportivo Laird Veach, que ha más que duplicado los ingresos por patrocinio del departamento en menos de tres años."
+      },
+      "zh": {
+        "title": "密苏里老虎队宣布自2026赛季起增加Ambetter Health球衣广告位",
+        "summary": "密苏里大学宣布与保险公司Ambetter Health达成球衣广告位赞助协议，自2026赛季起该公司标志将出现在老虎队橄榄球队服上。此广告位还将扩展至密苏里大学其他奥运项目队伍，这是体育主任Laird Veach推动下的成果，该校体育部门赞助收入在不到三年内实现了翻倍以上增长。"
+      },
+      "fr": {
+        "title": "Les Tigers du Missouri ajoutent le patch Ambetter Health dès la saison 2026",
+        "summary": "Missouri a annoncé un partenariat de patch de maillot avec l'assureur Ambetter Health, dont le logo figurera sur les maillots de football américain des Tigers dès la saison 2026. Ce patch s'étendra aussi à d'autres programmes olympiques de l'université, dans le cadre de la stratégie du directeur sportif Laird Veach, qui a plus que doublé les revenus de sponsoring du département en moins de trois ans."
+      }
+    }
+  },
+  {
+    "id": "memphis-tigers-fedex-department-wide-jersey-patch-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-04-09T00:00:00Z",
+    "source_name": "Audacy (92-9 ESPN)",
+    "source_url": "https://www.audacy.com/929espn/sports/memphis-tigers/memphis-fedex",
+    "i18n": {
+      "en": {
+        "title": "Memphis and FedEx Announce Department-Wide Jersey Patch Sponsorship",
+        "summary": "Memphis Athletics and FedEx announced a department-wide jersey patch sponsorship that will place the shipping giant's logo on uniforms across all 19 of the university's men's and women's varsity programs starting with the 2026-27 season. The deal builds on a multi-year partnership first announced the previous year and ranks among the broadest jersey patch agreements in college sports."
+      },
+      "ja": {
+        "title": "メンフィス大とFedEx、全部門対象のジャージーパッチ契約を発表",
+        "summary": "メンフィス大学アスレチックとFedExは、2026-27シーズンから大学の男女19競技すべてのユニフォームに同社のロゴを掲出する、部門横断型のジャージーパッチスポンサー契約を発表した。この契約は前年に発表された複数年パートナーシップを土台としたもので、大学スポーツ界でも最も広範なジャージーパッチ契約の一つとなる。"
+      },
+      "es": {
+        "title": "Memphis y FedEx anuncian un patrocinio de parche de camiseta para todo el departamento deportivo",
+        "summary": "El departamento de deportes de Memphis y FedEx anunciaron un patrocinio de parche de camiseta que colocará el logotipo de la empresa de paquetería en los uniformes de los 19 programas universitarios masculinos y femeninos a partir de la temporada 2026-27. El acuerdo amplía una alianza plurianual anunciada el año anterior y se sitúa entre los convenios de parche de camiseta más amplios del deporte universitario."
+      },
+      "zh": {
+        "title": "孟菲斯大学与联邦快递宣布全体育部门球衣广告位赞助",
+        "summary": "孟菲斯大学体育部门与联邦快递（FedEx）宣布了一项覆盖全体育部门的球衣广告位赞助协议，自2026-27赛季起，该快递巨头的标志将出现在学校全部19支男女校队的队服上。该协议是在前一年宣布的多年期合作基础上的扩展，是大学体育界覆盖范围最广的球衣广告位协议之一。"
+      },
+      "fr": {
+        "title": "Memphis et FedEx annoncent un partenariat de patch de maillot pour tout le département sportif",
+        "summary": "Le département sportif de Memphis et FedEx ont annoncé un partenariat de patch de maillot à l'échelle du département, qui placera le logo du géant de la livraison sur les maillots des 19 programmes universitaires masculins et féminins dès la saison 2026-27. L'accord s'appuie sur un partenariat pluriannuel annoncé l'année précédente et compte parmi les accords de patch de maillot les plus larges du sport universitaire américain."
+      }
+    }
+  },
+  {
+    "id": "twisted-minds-biofit-americana-foods-ewc-2026",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-07-14T00:00:00Z",
+    "source_name": "Dot Esports",
+    "source_url": "https://dotesports.com/general/news/twisted-minds-esports-sponsorship-deals-ewc-2026",
+    "i18n": {
+      "en": {
+        "title": "Twisted Minds Signs Biofit and Americana Foods Ahead of Esports World Cup 2026",
+        "summary": "Saudi esports organization Twisted Minds signed two new sponsorship deals, with wellness brand Biofit and regional food and beverage company Americana Foods, just before its run at the Esports World Cup 2026. The Americana Foods logo debuted on the sleeve of the team's competition jersey at the tournament."
+      },
+      "ja": {
+        "title": "Twisted Minds、Esports World Cup 2026を前にBiofitとAmericana Foodsと契約",
+        "summary": "サウジアラビアのeスポーツ組織Twisted Mindsは、Esports World Cup 2026への出場を目前に控え、ウェルネスブランドBiofitと地域の食品・飲料大手Americana Foodsとの新たなスポンサー契約を2件締結した。Americana Foodsのロゴは同大会で、チームの競技用ジャージの袖に初めて掲出された。"
+      },
+      "es": {
+        "title": "Twisted Minds ficha a Biofit y Americana Foods antes de la Esports World Cup 2026",
+        "summary": "La organización de esports saudí Twisted Minds firmó dos nuevos acuerdos de patrocinio, con la marca de bienestar Biofit y la compañía regional de alimentos y bebidas Americana Foods, justo antes de su participación en la Esports World Cup 2026. El logotipo de Americana Foods debutó en la manga de la camiseta de competición del equipo durante el torneo."
+      },
+      "zh": {
+        "title": "Twisted Minds在2026年电竞世界杯前签下Biofit和Americana Foods",
+        "summary": "沙特电竞俱乐部Twisted Minds在参加2026年电竞世界杯（EWC）前夕，签下了两份新的赞助协议，合作方分别为健康品牌Biofit和地区知名食品饮料企业Americana Foods。Americana Foods的标志在本届赛事中首次出现在该战队比赛服的袖口位置。"
+      },
+      "fr": {
+        "title": "Twisted Minds signe avec Biofit et Americana Foods avant l'Esports World Cup 2026",
+        "summary": "L'organisation d'esport saoudienne Twisted Minds a signé deux nouveaux contrats de sponsoring, avec la marque de bien-être Biofit et le groupe régional d'alimentation et de boissons Americana Foods, juste avant sa participation à l'Esports World Cup 2026. Le logo d'Americana Foods a fait ses débuts sur la manche du maillot de compétition de l'équipe lors du tournoi."
+      }
+    }
+  },
+  {
+    "id": "montedio-yamagata-new-stadium-construction-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "stadium"
+    ],
+    "published_at": "2026-03-01T00:00:00Z",
+    "source_name": "Soccer King",
+    "source_url": "https://www.soccer-king.jp/news/japan/jl/20260430/2154348.html",
+    "i18n": {
+      "en": {
+        "title": "Construction Begins on Montedio Yamagata's New Soccer-Specific Stadium",
+        "summary": "Construction started on a new soccer-specific stadium for J.League club Montedio Yamagata at the Yamagata prefectural sports park, with Shimizu Construction Group leading the roughly 15.8 billion yen project. The three-story, approximately 15,000-seat venue is designed to meet J.League stadium standards, with an opening targeted for summer 2028."
+      },
+      "ja": {
+        "title": "モンテディオ山形、サッカー専用新スタジアムの建設着工",
+        "summary": "Jリーグのモンテディオ山形は、山形県総合運動公園内でサッカー専用の新スタジアム建設に着工した。総事業費は約158億円で、清水建設グループが施工を担う。地上3階建て、収容人数約1万5000人の施設はJリーグのスタジアム基準を満たす仕様となっており、2028年夏頃の開業を目指す。"
+      },
+      "es": {
+        "title": "Comienza la construcción del nuevo estadio exclusivo para fútbol de Montedio Yamagata",
+        "summary": "Arrancaron las obras de un nuevo estadio exclusivo para fútbol del club de la J.League Montedio Yamagata, en el parque deportivo de la prefectura de Yamagata, con el grupo Shimizu Construction a cargo de un proyecto valorado en unos 15.800 millones de yenes. El recinto, de tres plantas y capacidad para unas 15.000 personas, cumplirá los estándares de estadio de la J.League, con una apertura prevista para el verano de 2028."
+      },
+      "zh": {
+        "title": "蒙特迪约山形队专用足球场正式开工",
+        "summary": "日本J联赛球队蒙特迪约山形的专用足球场在山形县综合运动公园内正式开工建设，项目总投资约158亿日元，由清水建设集团负责施工。这座地上三层、可容纳约1.5万人的球场将符合J联赛球场标准，目标于2028年夏季开业。"
+      },
+      "fr": {
+        "title": "Début des travaux du nouveau stade dédié au football du Montedio Yamagata",
+        "summary": "Les travaux de construction d'un nouveau stade dédié au football pour le club de J.League Montedio Yamagata ont débuté dans le parc sportif de la préfecture de Yamagata, un projet d'environ 15,8 milliards de yens piloté par le groupe Shimizu Construction. L'enceinte de trois étages, d'une capacité d'environ 15 000 places, répondra aux normes de stade de la J.League, avec une ouverture visée pour l'été 2028."
+      }
+    }
+  },
+  {
+    "id": "fc-ryukyu-okumotoyama-stadium-plan-2025",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "stadium"
+    ],
+    "published_at": "2025-12-26T00:00:00Z",
+    "source_name": "Ryukyu Shimpo",
+    "source_url": "https://ryukyushimpo.jp/sports/entry-4905647.html",
+    "i18n": {
+      "en": {
+        "title": "Okinawa Finalizes Plan for J1-Standard Stadium for FC Ryukyu in Naha",
+        "summary": "Okinawa Prefecture finalized a development plan for a J1-standard, soccer-specific stadium for FC Ryukyu inside Naha's Okumotoyama Park, with an initial capacity of about 10,000 and a budget of roughly 26.4 billion yen. The prefecture is targeting an opening within fiscal year 2031, with a future expansion to 20,000 seats planned at an additional cost of about 11.2 billion yen."
+      },
+      "ja": {
+        "title": "沖縄県、FC琉球の新スタジアム整備計画を策定 那覇・奥武山公園内",
+        "summary": "沖縄県は、那覇市の奥武山公園内に建設するFC琉球の新たなサッカー専用スタジアムについて、J1規格・観客席約1万人規模、予算約264億円とする整備計画を策定したと発表した。2031年度内の供用開始を目指しており、将来的には追加で約112億円を投じて2万人規模への増築も計画している。"
+      },
+      "es": {
+        "title": "Okinawa ultima el plan para el nuevo estadio de FC Ryukyu, con estándar de J1, en Naha",
+        "summary": "La prefectura de Okinawa finalizó un plan de desarrollo para un estadio exclusivo de fútbol, con estándar J1, destinado a FC Ryukyu dentro del parque Okumotoyama de Naha, con una capacidad inicial de unas 10.000 personas y un presupuesto de aproximadamente 26.400 millones de yenes. La prefectura apunta a una apertura dentro del año fiscal 2031, con una futura ampliación a 20.000 asientos prevista por un costo adicional de unos 11.200 millones de yenes."
+      },
+      "zh": {
+        "title": "冲绳县敲定FC琉球那霸J1标准球场建设计划",
+        "summary": "冲绳县宣布敲定在那霸市奥武山公园内为FC琉球建设专用足球场的开发计划，该球场将符合J1联赛标准，初期可容纳约1万人，预算约264亿日元。县方目标是在2031财年内投入使用，未来还计划再投入约112亿日元将座位扩容至2万个。"
+      },
+      "fr": {
+        "title": "Okinawa finalise le plan d'un stade aux normes J1 pour le FC Ryukyu à Naha",
+        "summary": "La préfecture d'Okinawa a finalisé un plan de développement pour un stade dédié au football, aux normes J1, destiné au FC Ryukyu dans le parc Okumotoyama de Naha, avec une capacité initiale d'environ 10 000 places et un budget d'environ 26,4 milliards de yens. La préfecture vise une ouverture durant l'exercice fiscal 2031, avec une extension future à 20 000 places prévue pour un coût supplémentaire d'environ 11,2 milliards de yens."
+      }
+    }
+  },
+  {
+    "id": "kumamoto-volters-b-premier-delay-2025",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "biz"
+    ],
+    "published_at": "2025-10-01T00:00:00Z",
+    "source_name": "Kumanichi",
+    "source_url": "https://kumanichi.com/articles/1219242",
+    "i18n": {
+      "en": {
+        "title": "Kumamoto Volters Postpone Bid to Join Japan's Top-Tier B.Premier to 2030",
+        "summary": "The operating company behind B2 club Kumamoto Volters formally postponed its bid to join Japan's new top-tier B.Premier division, pushing the target from 2026 to 2030. The club cited an unresolved plan for the roughly 7,000-seat arena that the league requires for top-division entry, and said it will instead compete in the newly created second-tier B.One division."
+      },
+      "ja": {
+        "title": "熊本ヴォルターズ、Bプレミア参入を2030年に先送り",
+        "summary": "バスケットボールB2の熊本ヴォルターズを運営する会社は、新設の最上位リーグ「Bプレミア」への参入目標を2026年から2030年に先送りすると正式発表した。参入条件となる約7000席規模の新アリーナ整備のめどが立っていないことが理由で、当面は新設される2部相当の「B.One」でプレーする方針を示した。"
+      },
+      "es": {
+        "title": "Kumamoto Volters posponen su ingreso a la B.Premier de Japón hasta 2030",
+        "summary": "La empresa que gestiona al club de la B2 Kumamoto Volters pospuso formalmente su intento de ingresar a la nueva división de máximo nivel B.Premier de Japón, moviendo el objetivo de 2026 a 2030. El club citó la falta de avances en el plan para el recinto de unas 7.000 localidades que exige la liga para el ascenso y señaló que, en su lugar, competirá en la recién creada segunda división B.One."
+      },
+      "zh": {
+        "title": "熊本志工队将加入日本B联赛顶级B.Premier联赛的目标推迟至2030年",
+        "summary": "运营B2级别球队熊本志工队（Kumamoto Volters）的公司正式宣布，将加入日本篮球新设最高级别联赛B.Premier的目标从2026年推迟至2030年。球队表示，联赛要求的约7000座新球馆建设计划尚无明确进展是推迟的原因，球队将转而参加新设立的二级联赛B.One。"
+      },
+      "fr": {
+        "title": "Les Kumamoto Volters reportent à 2030 leur accession à la B.Premier japonaise",
+        "summary": "La société qui gère le club de B2 Kumamoto Volters a officiellement reporté son objectif d'intégrer la nouvelle division d'élite B.Premier du Japon, passant de 2026 à 2030. Le club a invoqué l'absence de plan abouti pour la nouvelle salle d'environ 7 000 places exigée par la ligue pour l'accession, et a indiqué qu'il évoluera à la place dans la nouvelle division de deuxième niveau B.One."
+      }
+    }
+  },
+  {
+    "id": "orix-buffaloes-mercari-cap-sponsor-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2025-12-29T00:00:00Z",
+    "source_name": "Baseball King",
+    "source_url": "https://baseballking.jp/ns/685388/",
+    "i18n": {
+      "en": {
+        "title": "Orix Buffaloes Renew Cap-Advertising Sponsorship With Mercari for 2026",
+        "summary": "NPB's Orix Buffaloes renewed a cap-advertising sponsorship with online marketplace operator Mercari covering the 2026 season, continuing to put the Mercari logo on caps worn by players, the manager and coaching staff. Mercari also sponsors standalone Buffaloes home games as part of its broader marketing tie-up with the club."
+      },
+      "ja": {
+        "title": "オリックス・バファローズ、メルカリとのキャップ広告契約を2026年シーズンも更新",
+        "summary": "NPBのオリックス・バファローズは、フリマアプリ運営のメルカリとのキャップ広告スポンサー契約を2026年シーズンも継続すると発表した。昨シーズンに続き、選手・監督・コーチが着用するキャップに「メルカリ」のロゴが掲出される。メルカリは単独の主催試合にもスポンサーとして関わるなど、球団との連携を広げている。"
+      },
+      "es": {
+        "title": "Orix Buffaloes renuevan el patrocinio publicitario de la gorra con Mercari para 2026",
+        "summary": "Los Orix Buffaloes de la NPB renovaron el patrocinio publicitario de la gorra con el operador de mercado en línea Mercari para la temporada 2026, manteniendo el logotipo de Mercari en las gorras que usan jugadores, el mánager y el cuerpo técnico. Mercari también patrocina partidos individuales como local del equipo, como parte de una alianza de marketing cada vez más amplia con el club."
+      },
+      "zh": {
+        "title": "欧力士猛牛队与煤炉续签2026赛季帽子广告赞助协议",
+        "summary": "日本职棒NPB球队欧力士猛牛队宣布与二手交易平台煤炉（Mercari）续签帽子广告赞助协议，覆盖2026赛季，球员、主教练及教练组所戴球帽上将继续印有煤炉的标志。煤炉还赞助球队部分单场主场比赛，双方营销合作持续扩大。"
+      },
+      "fr": {
+        "title": "Les Orix Buffaloes renouvellent leur partenariat publicitaire de casquette avec Mercari pour 2026",
+        "summary": "Les Orix Buffaloes de la NPB ont renouvelé leur accord de publicité sur casquette avec l'opérateur de marché en ligne Mercari pour la saison 2026, maintenant le logo de Mercari sur les casquettes portées par les joueurs, le manager et le staff technique. Mercari parraine également certains matchs à domicile du club dans le cadre d'un partenariat marketing de plus en plus large."
+      }
+    }
+  },
+  {
+    "id": "jfa-dentsu-broadcast-rights-2027-2030",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-03-24T00:00:00Z",
+    "source_name": "Japan Football Association",
+    "source_url": "https://www.jfa.jp/news/00036161/",
+    "i18n": {
+      "en": {
+        "title": "JFA and Dentsu Reach Basic Agreement on Japan National Team Broadcast Rights Through 2030",
+        "summary": "The Japan Football Association and advertising giant Dentsu reached a basic agreement on broadcast and streaming rights for Japan national team matches covering 2027 through 2030, extending a partnership that spans a quarter century. The four-year deal covers SAMURAI BLUE, Nadeshiko Japan, and Japan's U-23, futsal and beach soccer national teams, with a stated aim of securing terrestrial broadcasts for home matches."
+      },
+      "ja": {
+        "title": "JFAと電通、サッカー日本代表の放送権で2030年までの基本合意",
+        "summary": "日本サッカー協会（JFA）と電通は、2027年から2030年までのサッカー日本代表戦の放送・配信権について基本合意に達したと発表した。四半世紀にわたる両者の関係を更新する4年間の契約で、SAMURAI BLUE、なでしこジャパン、U-23日本代表、フットサル日本代表、ビーチサッカー日本代表の試合が対象となり、国内開催試合での地上波放送確保を目指すとしている。"
+      },
+      "es": {
+        "title": "La JFA y Dentsu alcanzan un acuerdo básico sobre los derechos de transmisión de la selección japonesa hasta 2030",
+        "summary": "La Asociación de Fútbol de Japón (JFA) y el gigante publicitario Dentsu llegaron a un acuerdo básico sobre los derechos de transmisión y streaming de los partidos de la selección japonesa para el periodo 2027-2030, prolongando una colaboración de un cuarto de siglo. El acuerdo de cuatro años abarca a la SAMURAI BLUE, la Nadeshiko Japan y las selecciones sub-23, de futsal y de fútbol playa, con el objetivo declarado de asegurar la emisión en abierto de los partidos de local."
+      },
+      "zh": {
+        "title": "日本足协与电通就2030年前日本国家队转播权达成基本协议",
+        "summary": "日本足球协会（JFA）与广告巨头电通就2027年至2030年期间日本国家队比赛的电视转播及网络播出权达成基本协议，延续了双方长达四分之一世纪的合作关系。这份为期四年的协议涵盖日本男足SAMURAI BLUE、女足Nadeshiko Japan，以及U-23、室内五人制和沙滩足球国家队，目标是确保主场比赛能实现地面电视转播。"
+      },
+      "fr": {
+        "title": "La JFA et Dentsu parviennent à un accord de principe sur les droits de diffusion de l'équipe du Japon jusqu'en 2030",
+        "summary": "La Fédération japonaise de football (JFA) et le géant de la publicité Dentsu sont parvenus à un accord de principe sur les droits de diffusion et de streaming des matchs de l'équipe nationale japonaise pour la période 2027-2030, prolongeant un partenariat vieux d'un quart de siècle. Cet accord de quatre ans couvre les SAMURAI BLUE, les Nadeshiko Japan, ainsi que les sélections nationales U-23, de futsal et de beach soccer, avec pour objectif affiché de garantir une diffusion en clair des matchs à domicile."
+      }
+    }
   }
 ]
