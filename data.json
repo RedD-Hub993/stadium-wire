@@ -6598,5 +6598,405 @@
         "summary": "CW Network et ESPN se sont accordés pour faire de l'application ESPN la destination de streaming exclusive des événements sportifs en direct de CW Sports, un dispositif dont le lancement est prévu à l'été 2026. L'accord étend la portée d'ESPN sur le catalogue sportif de CW tout en offrant aux événements de CW Sports une présence accrue en streaming direct au consommateur."
       }
     }
+  },
+  {
+    "id": "us-bank-49ers-jersey-patch-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-09-29T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/sponsorship/us-bank-extends-long-running-49ers-sponsorship-adds-practice-jersey-patch/",
+    "i18n": {
+      "en": {
+        "title": "US Bank Extends 49ers Sponsorship, Adds Practice Jersey Patch",
+        "summary": "US Bank has extended its long-standing sponsorship of the San Francisco 49ers and added a new patch on the team's practice jerseys as part of the renewed partnership. The deal deepens the bank's visibility around the franchise ahead of the 2026 NFL season."
+      },
+      "ja": {
+        "title": "USバンク、フォーティナイナーズとのスポンサー契約を更新し練習用ジャージにパッチ追加",
+        "summary": "USバンクはサンフランシスコ・フォーティナイナーズとの長年のスポンサー契約を更新し、新たに練習用ジャージへのパッチ掲出を追加した。今回の契約拡大により、2026年NFLシーズンを前に同行のチーム周辺での露出が一段と強化される。"
+      },
+      "es": {
+        "title": "US Bank extiende su patrocinio con los 49ers y suma un parche en las camisetas de entrenamiento",
+        "summary": "US Bank extendió su patrocinio de larga data con los San Francisco 49ers y añadió un nuevo parche en las camisetas de entrenamiento del equipo como parte del acuerdo renovado. El convenio amplía la visibilidad del banco en torno a la franquicia antes de la temporada 2026 de la NFL."
+      },
+      "zh": {
+        "title": "美国合众银行续约49人队赞助合作,新增训练服广告贴标",
+        "summary": "美国合众银行延长了与旧金山49人队的长期赞助合作,并在续约中新增了球队训练服上的广告贴标。该协议在2026赛季NFL开打前进一步提升了该银行在球队周边的曝光度。"
+      },
+      "fr": {
+        "title": "US Bank prolonge son partenariat avec les 49ers et ajoute un patch sur les maillots d'entraînement",
+        "summary": "US Bank a prolongé son partenariat de longue date avec les San Francisco 49ers et a ajouté un nouveau patch sur les maillots d'entraînement de l'équipe dans le cadre de cet accord renouvelé. Ce contrat élargi renforce la visibilité de la banque autour de la franchise avant la saison NFL 2026."
+      }
+    }
+  },
+  {
+    "id": "buccaneers-pepsico-replaces-coca-cola-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-09-30T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/sponsorship/buccaneers-swap-coca-cola-for-pepsico-after-50-years/",
+    "i18n": {
+      "en": {
+        "title": "Buccaneers Swap Coca-Cola for PepsiCo After 50 Years",
+        "summary": "The Tampa Bay Buccaneers ended a five-decade relationship with Coca-Cola, naming PepsiCo as the team's new official beverage partner. The switch gives PepsiCo pouring rights and marketing presence at Raymond James Stadium starting with the upcoming season."
+      },
+      "ja": {
+        "title": "バッカニアーズ、50年続いたコカ・コーラとの関係を終えペプシコへ切り替え",
+        "summary": "タンパベイ・バッカニアーズは50年続いたコカ・コーラとの関係を終了し、ペプシコを新たな公式飲料パートナーに起用した。この交代により、来シーズンからレイモンド・ジェームズ・スタジアムでのペプシコの独占販売権とマーケティング露出が確保される。"
+      },
+      "es": {
+        "title": "Los Buccaneers cambian a Coca-Cola por PepsiCo tras 50 años",
+        "summary": "Los Tampa Bay Buccaneers pusieron fin a una relación de cinco décadas con Coca-Cola y nombraron a PepsiCo como su nuevo socio oficial de bebidas. El cambio otorga a PepsiCo los derechos de venta y presencia de marketing en el Raymond James Stadium a partir de la próxima temporada."
+      },
+      "zh": {
+        "title": "海盗队结束与可口可乐50年合作,转投百事可乐",
+        "summary": "坦帕湾海盗队结束了与可口可乐长达50年的合作关系,转而宣布百事可乐成为球队新的官方饮料合作伙伴。此次更换使百事可乐自下赛季起获得雷蒙德·詹姆斯体育场的独家销售权及营销曝光。"
+      },
+      "fr": {
+        "title": "Les Buccaneers remplacent Coca-Cola par PepsiCo après 50 ans",
+        "summary": "Les Tampa Bay Buccaneers ont mis fin à une relation de cinquante ans avec Coca-Cola en désignant PepsiCo comme nouveau partenaire officiel des boissons de l'équipe. Ce changement confère à PepsiCo les droits de vente exclusifs et une présence marketing au Raymond James Stadium dès la saison prochaine."
+      }
+    }
+  },
+  {
+    "id": "bofa-portland-timbers-sponsorship-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-18T00:00:00Z",
+    "source_name": "SportBusiness",
+    "source_url": "https://sponsorship.sportbusiness.com/news/bofas-football-presence-grows-with-timbers-deal/",
+    "i18n": {
+      "en": {
+        "title": "BofA's Soccer Presence Grows With Timbers Sponsorship Deal",
+        "summary": "Bank of America expanded its soccer footprint by signing a new sponsorship agreement with the Portland Timbers of MLS. The partnership adds the bank's branding to the club's matchday presence and continues its broader push into American soccer sponsorship."
+      },
+      "ja": {
+        "title": "バンク・オブ・アメリカ、ティンバーズと新スポンサー契約でサッカー分野を拡大",
+        "summary": "バンク・オブ・アメリカは、MLSのポートランド・ティンバーズと新たなスポンサー契約を結び、サッカー分野での展開を拡大した。この提携により、同行のブランドが試合日の会場演出に加わり、米国サッカーへのスポンサー展開がさらに広がる。"
+      },
+      "es": {
+        "title": "BofA amplía su presencia en el fútbol con un acuerdo de patrocinio con los Timbers",
+        "summary": "Bank of America amplió su presencia en el fútbol al firmar un nuevo acuerdo de patrocinio con el Portland Timbers de la MLS. La asociación suma la marca del banco a la experiencia de los días de partido del club y refuerza su apuesta más amplia por el patrocinio del fútbol estadounidense."
+      },
+      "zh": {
+        "title": "美国银行与伐木者队达成赞助协议,扩大足球领域布局",
+        "summary": "美国银行与大联盟(MLS)球队波特兰伐木者签署新的赞助协议,进一步扩大其在足球领域的布局。此次合作将该银行的品牌植入俱乐部比赛日现场呈现,延续其在美国足球赞助领域的扩张步伐。"
+      },
+      "fr": {
+        "title": "La présence de BofA dans le football grandit avec un accord de parrainage avec les Timbers",
+        "summary": "Bank of America a élargi sa présence dans le football en signant un nouvel accord de parrainage avec les Portland Timbers de la MLS. Ce partenariat intègre la marque de la banque à l'expérience des jours de match du club et poursuit sa stratégie d'expansion dans le parrainage du football américain."
+      }
+    }
+  },
+  {
+    "id": "us-soccer-henkel-brands-partnership-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-22T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/news/us-soccer-agrees-wide-ranging-henkel-brands-partnership",
+    "i18n": {
+      "en": {
+        "title": "US Soccer Agrees Wide-Ranging Henkel Brands Partnership",
+        "summary": "The U.S. Soccer Federation struck a wide-ranging partnership with consumer goods company Henkel, covering several of its household and personal-care brands. The multi-brand deal gives Henkel marketing rights across US Soccer's national team properties."
+      },
+      "ja": {
+        "title": "米国サッカー連盟、ヘンケル複数ブランドと幅広い提携契約",
+        "summary": "米国サッカー連盟は、家庭用品・パーソナルケア製品を展開する消費財大手ヘンケルと、複数ブランドにまたがる幅広い提携を結んだ。このマルチブランド契約により、ヘンケルは米国代表チームに関連するマーケティング権を獲得する。"
+      },
+      "es": {
+        "title": "US Soccer firma una alianza de amplio alcance con varias marcas de Henkel",
+        "summary": "La Federación de Fútbol de Estados Unidos firmó una alianza de amplio alcance con la empresa de bienes de consumo Henkel, que abarca varias de sus marcas de hogar y cuidado personal. El acuerdo multimarca otorga a Henkel derechos de marketing sobre las propiedades de las selecciones nacionales de US Soccer."
+      },
+      "zh": {
+        "title": "美国足协与汉高多品牌达成广泛合作",
+        "summary": "美国足球协会与消费品公司汉高达成一项涵盖多个家居及个人护理品牌的广泛合作协议。这项多品牌协议使汉高获得美国足球国家队相关资产的营销权利。"
+      },
+      "fr": {
+        "title": "US Soccer conclut un partenariat de grande envergure avec plusieurs marques Henkel",
+        "summary": "La Fédération américaine de football a conclu un partenariat de grande envergure avec le groupe de biens de consommation Henkel, couvrant plusieurs de ses marques d'entretien ménager et de soins personnels. Cet accord multimarque confère à Henkel des droits marketing sur les actifs des équipes nationales de US Soccer."
+      }
+    }
+  },
+  {
+    "id": "jameson-mls-sponsorship-deal-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-16T00:00:00Z",
+    "source_name": "SportBusiness",
+    "source_url": "https://sponsorship.sportbusiness.com/news/jameson-bets-on-us-football-with-mls-deal/",
+    "i18n": {
+      "en": {
+        "title": "Jameson Bets on US Soccer With New MLS Sponsorship",
+        "summary": "Irish whiskey brand Jameson signed a new sponsorship deal with Major League Soccer, expanding its push into the US soccer market. The partnership gives Jameson marketing and activation rights tied to MLS matches and league programming."
+      },
+      "ja": {
+        "title": "ジェムソン、MLSと新スポンサー契約を結び米国サッカー市場に本格参入",
+        "summary": "アイリッシュウイスキーブランドのジェムソンは、メジャーリーグサッカー(MLS)と新たなスポンサー契約を締結し、米国サッカー市場への展開を強化した。この提携により、ジェムソンはMLSの試合やリーグ関連企画に紐づくマーケティング・アクティベーション権を獲得する。"
+      },
+      "es": {
+        "title": "Jameson apuesta por el fútbol de EE. UU. con un nuevo patrocinio en la MLS",
+        "summary": "La marca de whisky irlandés Jameson firmó un nuevo acuerdo de patrocinio con la Major League Soccer, ampliando su apuesta por el mercado del fútbol estadounidense. La alianza otorga a Jameson derechos de marketing y activación vinculados a los partidos y la programación de la liga."
+      },
+      "zh": {
+        "title": "尊美醇签约MLS新赞助协议,加码美国足球市场",
+        "summary": "爱尔兰威士忌品牌尊美醇与美国职业足球大联盟(MLS)签署新的赞助协议,进一步加码美国足球市场。该合作使尊美醇获得与联盟赛事及相关活动挂钩的营销和落地权益。"
+      },
+      "fr": {
+        "title": "Jameson mise sur le football américain avec un nouveau parrainage MLS",
+        "summary": "La marque de whisky irlandais Jameson a signé un nouvel accord de parrainage avec la Major League Soccer, renforçant sa percée sur le marché du football américain. Ce partenariat confère à Jameson des droits marketing et d'activation liés aux matchs et à la programmation de la ligue."
+      }
+    }
+  },
+  {
+    "id": "nba-exxonmobil-mobil1-motor-oil-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-07T00:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/article/the-nba-partners-with-exxonmobil-to-become-official-motor-oil/",
+    "i18n": {
+      "en": {
+        "title": "NBA Partners With ExxonMobil's Mobil 1 as Official Motor Oil",
+        "summary": "The NBA named ExxonMobil's Mobil 1 brand as its official motor oil, adding a new category sponsor to the league's broad partner roster. The deal gives Mobil 1 marketing rights across NBA media and events."
+      },
+      "ja": {
+        "title": "NBA、エクソンモービル「モービル1」を公式モーターオイルに認定",
+        "summary": "NBAはエクソンモービルの「モービル1」ブランドを公式モーターオイルに認定し、リーグの幅広いパートナー陣に新たなカテゴリースポンサーを加えた。この契約により、モービル1はNBAのメディアやイベントにおけるマーケティング権を獲得する。"
+      },
+      "es": {
+        "title": "La NBA se asocia con Mobil 1 de ExxonMobil como aceite de motor oficial",
+        "summary": "La NBA nombró a la marca Mobil 1 de ExxonMobil como su aceite de motor oficial, sumando un nuevo patrocinador de categoría a su amplia cartera de socios. El acuerdo otorga a Mobil 1 derechos de marketing en los medios y eventos de la liga."
+      },
+      "zh": {
+        "title": "NBA与埃克森美孚美孚1号达成官方机油合作",
+        "summary": "NBA宣布埃克森美孚旗下品牌美孚1号成为联盟官方机油,为其庞大的合作伙伴阵容新增一个品类赞助商。该协议使美孚1号获得在NBA媒体平台及赛事活动中的营销权利。"
+      },
+      "fr": {
+        "title": "La NBA s'associe à Mobil 1 d'ExxonMobil comme huile moteur officielle",
+        "summary": "La NBA a désigné la marque Mobil 1 d'ExxonMobil comme son huile moteur officielle, ajoutant un nouveau sponsor de catégorie à son large portefeuille de partenaires. L'accord confère à Mobil 1 des droits marketing sur les médias et événements de la ligue."
+      }
+    }
+  },
+  {
+    "id": "nba-gatorade-eight-year-extension-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-24T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/news/nba-and-gatorade-add-eight-more-years-to-four-decade-partnership/",
+    "i18n": {
+      "en": {
+        "title": "NBA and Gatorade Add Eight More Years to Four-Decade Partnership",
+        "summary": "The NBA and Gatorade extended their sponsorship partnership by eight more years, continuing a relationship that stretches back roughly four decades. The renewed deal keeps Gatorade as the league's official sports drink across games and training environments."
+      },
+      "ja": {
+        "title": "NBAとゲータレード、40年続く提携をさらに8年延長",
+        "summary": "NBAとゲータレードは、約40年続くスポンサー関係をさらに8年延長することで合意した。今回の契約更新により、ゲータレードは試合や練習環境におけるNBA公式スポーツドリンクとしての地位を継続する。"
+      },
+      "es": {
+        "title": "La NBA y Gatorade extienden ocho años más su alianza de cuatro décadas",
+        "summary": "La NBA y Gatorade extendieron su alianza de patrocinio por ocho años más, prolongando una relación que se remonta a casi cuatro décadas. El acuerdo renovado mantiene a Gatorade como la bebida deportiva oficial de la liga en partidos y entornos de entrenamiento."
+      },
+      "zh": {
+        "title": "NBA与佳得乐近40年合作再延长8年",
+        "summary": "NBA与佳得乐将双方长达近四十年的赞助合作关系再延长八年。此次续约使佳得乐继续保持NBA官方运动饮料的地位,覆盖比赛及训练场景。"
+      },
+      "fr": {
+        "title": "La NBA et Gatorade prolongent de huit ans leur partenariat de quatre décennies",
+        "summary": "La NBA et Gatorade ont prolongé leur partenariat de parrainage de huit années supplémentaires, poursuivant une relation qui remonte à près de quatre décennies. Cet accord renouvelé maintient Gatorade comme boisson sportive officielle de la ligue, tant lors des matchs que des entraînements."
+      }
+    }
+  },
+  {
+    "id": "afl-record-media-rights-deal-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-09-03T00:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/article/afl-strikes-australias-largest-sports-media-deal-at-3-05b/",
+    "i18n": {
+      "en": {
+        "title": "AFL Strikes Australia's Largest-Ever Sports Media Deal at AU$3.05B",
+        "summary": "The Australian Football League agreed to a AU$3.05 billion broadcast rights deal with Seven, Foxtel and Telstra running from 2025 through 2031, the largest media-rights agreement in Australian sports history. The deal secures the league's long-term broadcast revenue across free-to-air, pay television and streaming."
+      },
+      "ja": {
+        "title": "AFL、オーストラリア史上最大のメディア権契約を約30.5億豪ドルで締結",
+        "summary": "オーストラリアンフットボールリーグ(AFL)は、Seven、Foxtel、Telstraとの間で2025年から2031年までの放映権契約を約30.5億豪ドルで締結し、オーストラリアスポーツ史上最大のメディア権契約となった。この契約により、地上波、有料テレビ、ストリーミングにわたるリーグの長期的な放映権収入が確保される。"
+      },
+      "es": {
+        "title": "La AFL firma el mayor acuerdo mediático del deporte australiano por 3.050 millones de dólares australianos",
+        "summary": "La Australian Football League acordó un contrato de derechos de transmisión por 3.050 millones de dólares australianos con Seven, Foxtel y Telstra, vigente de 2025 a 2031, el mayor acuerdo de derechos mediáticos en la historia del deporte australiano. El pacto asegura los ingresos de transmisión a largo plazo de la liga en televisión abierta, de pago y streaming."
+      },
+      "zh": {
+        "title": "澳式足球联盟签下澳大利亚体育史上最大转播协议,金额达30.5亿澳元",
+        "summary": "澳大利亚足球联盟(AFL)与Seven、Foxtel及Telstra达成一项价值30.5亿澳元的转播权协议,期限为2025年至2031年,成为澳大利亚体育史上规模最大的媒体版权交易。该协议为联盟在免费电视、付费电视及流媒体平台上的长期转播收入提供保障。"
+      },
+      "fr": {
+        "title": "L'AFL signe le plus gros contrat média du sport australien, à 3,05 milliards de dollars australiens",
+        "summary": "L'Australian Football League a conclu un accord de droits de diffusion de 3,05 milliards de dollars australiens avec Seven, Foxtel et Telstra, courant de 2025 à 2031, le plus important contrat de droits médiatiques de l'histoire du sport australien. Cet accord garantit les revenus de diffusion à long terme de la ligue sur la télévision gratuite, le câble payant et le streaming."
+      }
+    }
+  },
+  {
+    "id": "real-salt-lake-america-first-naming-rights-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-09-02T00:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/article/real-salt-lake-inks-100m-stadium-naming-rights-deal/",
+    "i18n": {
+      "en": {
+        "title": "Real Salt Lake Inks $100M Stadium Naming Rights Deal",
+        "summary": "Real Salt Lake signed a $100 million naming-rights agreement with America First Credit Union for its MLS stadium. The long-term deal renames the venue and gives the credit union prominent branding across the club's home matches."
+      },
+      "ja": {
+        "title": "レアル・ソルトレイク、スタジアム命名権で1億ドル規模の契約",
+        "summary": "レアル・ソルトレイクは、所属するMLSスタジアムの命名権について、アメリカ・ファースト・クレジット・ユニオンと1億ドル規模の長期契約を結んだ。この契約によりスタジアム名称が変更され、同信用組合はホームゲームにおいて大きなブランド露出を得る。"
+      },
+      "es": {
+        "title": "Real Salt Lake firma un acuerdo de naming rights de 100 millones de dólares para su estadio",
+        "summary": "Real Salt Lake firmó un acuerdo de naming rights por 100 millones de dólares con America First Credit Union para su estadio de la MLS. El pacto a largo plazo renombra el recinto y otorga a la cooperativa de crédito una presencia de marca destacada en los partidos de local del club."
+      },
+      "zh": {
+        "title": "大盐湖真实队签下1亿美元体育场命名权协议",
+        "summary": "大盐湖真实队与美国第一信用合作社就其MLS主场体育场签署了一项价值1亿美元的命名权协议。这项长期协议将更改场馆名称,并使该信用合作社在球队主场比赛中获得突出的品牌曝光。"
+      },
+      "fr": {
+        "title": "Le Real Salt Lake signe un accord de naming de 100 millions de dollars pour son stade",
+        "summary": "Le Real Salt Lake a signé un accord de naming de 100 millions de dollars avec America First Credit Union pour son stade de MLS. Cet accord de longue durée renomme l'enceinte et offre à la coopérative de crédit une visibilité de marque importante lors des matchs à domicile du club."
+      }
+    }
+  },
+  {
+    "id": "big-ten-media-rights-deal-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-09-01T00:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/article/big-ten-media-rights/",
+    "i18n": {
+      "en": {
+        "title": "Big Ten Finalizes Major Media Rights Agreement",
+        "summary": "The Big Ten Conference finalized a major media-rights agreement covering its football and basketball programming across multiple broadcast and streaming partners. The deal reflects the escalating value of college sports media rights amid conference realignment."
+      },
+      "ja": {
+        "title": "ビッグテン、大型メディア権契約を正式締結",
+        "summary": "ビッグテン・カンファレンスは、フットボールとバスケットボールの放映権を複数の放送・配信パートナーに跨って提供する大型メディア権契約を正式に締結した。この契約は、カンファレンス再編が進む中で大学スポーツのメディア権価値が高まっていることを反映している。"
+      },
+      "es": {
+        "title": "La Big Ten finaliza un importante acuerdo de derechos mediáticos",
+        "summary": "La Big Ten Conference finalizó un importante acuerdo de derechos mediáticos que cubre su programación de fútbol americano y baloncesto con varios socios de transmisión y streaming. El pacto refleja el creciente valor de los derechos mediáticos del deporte universitario en medio de la reestructuración de conferencias."
+      },
+      "zh": {
+        "title": "大十联盟敲定重要媒体版权协议",
+        "summary": "美国大十联盟(Big Ten)敲定了一项重要的媒体版权协议,覆盖其美式橄榄球和篮球赛事,涉及多家转播及流媒体合作伙伴。该协议反映出在大学体育联盟重组背景下,大学体育媒体版权价值不断攀升的趋势。"
+      },
+      "fr": {
+        "title": "La Big Ten finalise un important accord de droits médiatiques",
+        "summary": "La Big Ten Conference a finalisé un important accord de droits médiatiques couvrant sa programmation de football américain et de basketball auprès de plusieurs partenaires de diffusion et de streaming. Cet accord traduit la valeur croissante des droits médiatiques du sport universitaire dans un contexte de recomposition des conférences."
+      }
+    }
+  },
+  {
+    "id": "inter-miami-nu-stadium-naming-rights-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-09-10T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/sponsorship/inter-miami-lands-stadium-naming-rights-deal-with-brazilian-fintech-nu/",
+    "i18n": {
+      "en": {
+        "title": "Inter Miami Lands Stadium Naming Rights Deal With Brazilian Fintech Nu",
+        "summary": "Inter Miami secured a naming-rights partnership with Brazilian fintech company Nu for its new soccer-specific stadium, branding the venue \"Nu Stadium.\" The agreement gives the digital bank prominent exposure as the club prepares to open the facility."
+      },
+      "ja": {
+        "title": "インテル・マイアミ、ブラジルのフィンテック企業Nuとスタジアム命名権で提携",
+        "summary": "インテル・マイアミは、新設予定のサッカー専用スタジアムの命名権について、ブラジルのフィンテック企業Nuと提携し、会場名を「Nuスタジアム」とすることで合意した。この契約により、クラブが施設開業を進める中、同デジタルバンクは大きな露出機会を得る。"
+      },
+      "es": {
+        "title": "Inter Miami cierra un acuerdo de naming rights con la fintech brasileña Nu",
+        "summary": "Inter Miami cerró un acuerdo de naming rights con la fintech brasileña Nu para su nuevo estadio específico de fútbol, que llevará el nombre de \"Nu Stadium\". El convenio otorga al banco digital una exposición destacada mientras el club se prepara para inaugurar el recinto."
+      },
+      "zh": {
+        "title": "迈阿密国际与巴西金融科技公司Nu达成体育场命名权合作",
+        "summary": "迈阿密国际队与巴西金融科技公司Nu达成命名权合作,将其新建的专属足球场命名为“Nu体育场”。随着俱乐部筹备启用该场馆,这项协议为这家数字银行带来了显著的品牌曝光机会。"
+      },
+      "fr": {
+        "title": "L'Inter Miami conclut un accord de naming avec la fintech brésilienne Nu",
+        "summary": "L'Inter Miami a conclu un partenariat de naming avec l'entreprise fintech brésilienne Nu pour son nouveau stade dédié au football, baptisé « Nu Stadium ». Cet accord offre à la banque numérique une visibilité importante alors que le club se prépare à inaugurer l'enceinte."
+      }
+    }
+  },
+  {
+    "id": "kagoshima-united-snbl-top-partner-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-08-05T00:00:00Z",
+    "source_name": "SNBL",
+    "source_url": "https://en.snbl.com/news/unitedfc-officialpartner2026/",
+    "i18n": {
+      "en": {
+        "title": "Kagoshima United FC Names SNBL Official Top Partner for 2026",
+        "summary": "J.League club Kagoshima United FC named pharmaceutical and health-science company SNBL as its Official Top Partner for the 2026 season. The continued partnership gives SNBL prominent branding across the club's matches and promotional activities."
+      },
+      "ja": {
+        "title": "鹿児島ユナイテッドFC、SNBLを2026年シーズンのオフィシャルトップパートナーに起用",
+        "summary": "Jリーグ所属の鹿児島ユナイテッドFCは、医薬品・ヘルスサイエンス企業のSNBLを2026年シーズンのオフィシャルトップパートナーとして契約した。この継続的な提携により、SNBLはクラブの試合や広報活動において大きなブランド露出を得る。"
+      },
+      "es": {
+        "title": "Kagoshima United FC designa a SNBL como Official Top Partner para 2026",
+        "summary": "El club de la J.League Kagoshima United FC designó a la empresa farmacéutica y de ciencias de la salud SNBL como su Official Top Partner para la temporada 2026. La continuidad de la alianza otorga a SNBL una destacada presencia de marca en los partidos y actividades promocionales del club."
+      },
+      "zh": {
+        "title": "鹿儿岛联足球俱乐部任命SNBL为2026赛季官方最高级合作伙伴",
+        "summary": "J联赛球队鹿儿岛联足球俱乐部宣布制药与健康科学企业SNBL为其2026赛季官方最高级合作伙伴。双方持续的合作关系使SNBL在俱乐部比赛及宣传活动中获得突出的品牌曝光。"
+      },
+      "fr": {
+        "title": "Kagoshima United FC nomme SNBL Official Top Partner pour 2026",
+        "summary": "Le club de J.League Kagoshima United FC a désigné l'entreprise pharmaceutique et de sciences de la santé SNBL comme son Official Top Partner pour la saison 2026. Ce partenariat reconduit offre à SNBL une visibilité de marque importante lors des matchs et des activités promotionnelles du club."
+      }
+    }
   }
 ]
