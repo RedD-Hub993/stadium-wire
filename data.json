@@ -7133,5 +7133,313 @@
         "summary": "Le club de basket-ball japonais Shiga Lakes a annoncé un partenariat principal avec le fabricant de systèmes de manutention Daifuku, à l'approche de sa première saison dans la B.LEAGUE PREMIER nouvellement restructurée. L'accord place le logo de Daifuku sur le maillot de l'équipe et comprend un match événement contre les Ryukyu Golden Kings les 3 et 4 octobre, ainsi que des initiatives communautaires communes comme une marche de nettoyage autour du lac Biwa et un programme élargi de billets gratuits pour les étudiants. Daifuku, qui conçoit des systèmes logistiques et de manutention aéroportuaire, exploite son plus grand site de production dans la préfecture de Shiga."
       }
     }
+  },
+  {
+    "id": "mavericks-chase-jersey-patch",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "team",
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-07-08T00:00:00Z",
+    "source_name": "Chase Media",
+    "source_url": "https://media.chase.com/news/jpmc-mavericks-strategic-partnership",
+    "i18n": {
+      "en": {
+        "title": "Dallas Mavericks Name Chase as First-Ever Jersey Patch and Banking Partner",
+        "summary": "The Dallas Mavericks unveiled JPMorganChase as the franchise's official jersey patch and banking partner in a multi-year agreement, marking Chase's debut jersey patch deal with an NBA club. Beyond the on-jersey branding, the partnership covers a dedicated cardholder entrance and preferred seating at American Airlines Center, plus funding for new community basketball courts across North Texas."
+      },
+      "ja": {
+        "title": "ダラス・マーベリックス、チェイスと初のジャージパッチ兼銀行パートナー契約",
+        "summary": "NBAのダラス・マーベリックスは、JPモルガン・チェイスを球団史上初のジャージパッチおよび銀行パートナーとする複数年契約を発表した。チェイスにとってもNBA球団との初のパッチ契約となる。契約にはアメリカン航空センターでの専用カード会員入口や優先席の提供、北テキサス地域での新設バスケットボールコート整備への支援も含まれる。"
+      },
+      "es": {
+        "title": "Los Mavericks de Dallas nombran a Chase su primer socio de parche en la camiseta y banca",
+        "summary": "Los Mavericks de Dallas presentaron a JPMorganChase como su socio oficial de parche en la camiseta y de banca en un acuerdo multianual, el primer contrato de este tipo para Chase con un equipo de la NBA. El convenio incluye una entrada exclusiva para titulares de tarjetas y asientos preferentes en el American Airlines Center, además de financiamiento para nuevas canchas comunitarias en el norte de Texas."
+      },
+      "zh": {
+        "title": "达拉斯独行侠队官宣大通银行为首位球衣广告与银行合作伙伴",
+        "summary": "NBA达拉斯独行侠队宣布与摩根大通旗下大通银行达成多年合作协议,使其成为球队历史上首位球衣广告合作伙伴,这也是大通银行首次与NBA球队签订此类协议。合作内容还包括在美国航空中心设立专属持卡人入口与优先座位,并资助在北德克萨斯地区新建社区篮球场。"
+      },
+      "fr": {
+        "title": "Les Mavericks de Dallas nomment Chase premier partenaire de maillot et bancaire",
+        "summary": "Les Mavericks de Dallas ont dévoilé JPMorganChase comme partenaire officiel de maillot et partenaire bancaire dans un accord pluriannuel, le premier contrat de ce type pour Chase avec une équipe NBA. Le partenariat comprend une entrée réservée aux détenteurs de carte et des places prioritaires à l'American Airlines Center, ainsi qu'un financement pour de nouveaux terrains de basket communautaires dans le nord du Texas."
+      }
+    }
+  },
+  {
+    "id": "georgia-tech-veritiv-jersey-patch",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "team",
+      "sponsor"
+    ],
+    "published_at": "2026-08-27T00:00:00Z",
+    "source_name": "WSB-TV",
+    "source_url": "https://www.wsbtv.com/news/local/georgia-tech-announces-first-football-jersey-patch-sponsor/SG2EWB3JCJC2LFNTDQUA63RLF4/",
+    "i18n": {
+      "en": {
+        "title": "Georgia Tech Lands First-Ever Football Jersey Patch Sponsor in Atlanta's Veritiv",
+        "summary": "Georgia Tech signed Atlanta-based packaging and logistics firm Veritiv as the Yellow Jackets football program's first jersey patch sponsor, with the branding debuting at the season opener against Colorado. The deal reflects a broader wave of ACC and Power Four programs adding patch inventory to diversify athletic department revenue."
+      },
+      "ja": {
+        "title": "ジョージア工科大学、米物流企業ベリティブと初のジャージパッチ契約",
+        "summary": "ジョージア工科大学のアメリカンフットボールチーム「イエロージャケッツ」は、アトランタを拠点とする包装・物流企業ベリティブと球団史上初のジャージパッチ契約を締結した。新ロゴは開幕戦となるコロラド大学戦で初披露された。ACCやパワーフォー所属校の間で広がる、収益多様化を狙ったパッチ導入の流れを反映している。"
+      },
+      "es": {
+        "title": "Georgia Tech firma su primer patrocinador de parche en la camiseta con Veritiv, de Atlanta",
+        "summary": "Georgia Tech incorporó a la empresa atlantina de embalaje y logística Veritiv como el primer patrocinador de parche en la camiseta del programa de fútbol americano de los Yellow Jackets, con el estreno del logo en el partido inaugural contra Colorado. El acuerdo refleja una tendencia más amplia entre programas de la ACC y la Power Four de sumar parches para diversificar ingresos deportivos."
+      },
+      "zh": {
+        "title": "佐治亚理工大学与亚特兰大物流企业Veritiv签订首个橄榄球队服广告合约",
+        "summary": "佐治亚理工大学美式橄榄球队“黄蜂”与总部位于亚特兰大的包装物流企业Veritiv签订了球队历史上首个队服广告合作协议,新标识已在对阵科罗拉多大学的开幕战中首次亮相。该协议反映出ACC联盟及“四大”院校普遍增设队服广告位以拓宽体育部门收入来源的趋势。"
+      },
+      "fr": {
+        "title": "Georgia Tech décroche son premier sponsor de maillot en football américain avec Veritiv",
+        "summary": "Georgia Tech a signé avec l'entreprise d'emballage et de logistique atlantaine Veritiv pour devenir le premier sponsor de maillot du programme de football américain des Yellow Jackets, le logo faisant ses débuts lors du match d'ouverture contre le Colorado. Cet accord illustre une tendance plus large chez les programmes de l'ACC et de la Power Four à ajouter des parrainages de maillot pour diversifier leurs revenus."
+      }
+    }
+  },
+  {
+    "id": "wisconsin-badgers-culvers-jersey-patch",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "team",
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-06-30T00:00:00Z",
+    "source_name": "WMTV15 News",
+    "source_url": "https://www.wmtv15news.com/2026/06/30/match-made-wisconsin-culvers-jersey-patch-announced-select-badgers-mens-teams/",
+    "i18n": {
+      "en": {
+        "title": "Wisconsin Badgers Add Culver's as First Multisport Jersey Patch Partner",
+        "summary": "University of Wisconsin athletics announced that Wisconsin-based burger chain Culver's will become the Badgers' first-ever jersey patch sponsor, with the logo appearing across football, men's basketball and men's hockey uniforms starting in the 2026-27 academic year. The patch made its on-field debut when football opened the season against Notre Dame at Lambeau Field."
+      },
+      "ja": {
+        "title": "ウィスコンシン大学バジャーズ、カルバーズと初の複数スポーツ共通ジャージパッチ契約",
+        "summary": "ウィスコンシン大学は、同州発祥のハンバーガーチェーン「カルバーズ」が球団史上初のジャージパッチスポンサーになると発表した。ロゴは2026-27学年度からアメリカンフットボール、男子バスケットボール、男子アイスホッケーのユニフォームに表示される。パッチはノートルダム大学戦(ランボーフィールド)で初めて披露された。"
+      },
+      "es": {
+        "title": "Los Badgers de Wisconsin incorporan a Culver's como primer socio de parche multideporte",
+        "summary": "El departamento deportivo de la Universidad de Wisconsin anunció que la cadena de hamburguesas Culver's, originaria del estado, se convertirá en el primer patrocinador de parche en la camiseta de los Badgers, con el logo apareciendo en los uniformes de fútbol americano, baloncesto masculino y hockey sobre hielo masculino a partir del curso 2026-27. El parche debutó en el partido inaugural contra Notre Dame en Lambeau Field."
+      },
+      "zh": {
+        "title": "威斯康星大学獾队与Culver's签订首个跨项目队服广告合约",
+        "summary": "威斯康星大学体育部宣布,发源于该州的汉堡连锁品牌Culver's将成为獾队历史上首个队服广告合作伙伴,标识将从2026-27学年起出现在美式橄榄球、男子篮球及男子冰球队服上。该广告标识已在兰博球场对阵圣母大学的开幕战中首次亮相。"
+      },
+      "fr": {
+        "title": "Les Badgers du Wisconsin ajoutent Culver's comme premier partenaire de maillot multisport",
+        "summary": "Le département sportif de l'Université du Wisconsin a annoncé que la chaîne de hamburgers Culver's, originaire de l'État, deviendra le premier sponsor de maillot des Badgers, le logo apparaissant sur les tenues de football américain, de basketball masculin et de hockey sur glace masculin dès l'année universitaire 2026-27. Le patch a fait ses débuts lors du match d'ouverture contre Notre Dame à Lambeau Field."
+      }
+    }
+  },
+  {
+    "id": "missouri-ambetter-health-jersey-patch",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "team",
+      "sponsor"
+    ],
+    "published_at": "2026-08-28T00:00:00Z",
+    "source_name": "Saturday Down South",
+    "source_url": "https://www.saturdaydownsouth.com/news/college-football/mizzou-announces-jersey-patch-partnership-for-2026-season",
+    "i18n": {
+      "en": {
+        "title": "Missouri Tigers Add Ambetter Health Jersey Patch in Record Sponsorship Push",
+        "summary": "Missouri Athletics announced a new partnership with St. Louis-based insurer Ambetter Health that places the company's logo on football jerseys beginning with the 2026 season, part of what the department called record-setting sponsorship growth. The Ambetter branding is also set to extend to several of Missouri's Olympic sports programs."
+      },
+      "ja": {
+        "title": "ミズーリ大学タイガース、アムベターヘルスとジャージパッチ契約で過去最高のスポンサー収入へ",
+        "summary": "ミズーリ大学アスレチック局は、セントルイスを拠点とする医療保険会社アムベターヘルスとの新たな提携を発表し、2026年シーズンからアメリカンフットボールのユニフォームに同社ロゴを表示する。大学側はこれを「記録的なスポンサー収入拡大」の一環と位置づけており、ロゴ表示は他のオリンピック系競技部門にも広がる予定。"
+      },
+      "es": {
+        "title": "Los Tigers de Missouri suman el parche de Ambetter Health en un impulso récord de patrocinios",
+        "summary": "El departamento deportivo de Missouri anunció una nueva alianza con la aseguradora Ambetter Health, con sede en San Luis, que colocará el logo de la empresa en las camisetas de fútbol americano a partir de la temporada 2026. Missouri calificó el acuerdo como parte de un crecimiento récord en patrocinios, y la marca también se extenderá a varios de sus programas de deportes olímpicos."
+      },
+      "zh": {
+        "title": "密苏里大学老虎队增设Ambetter Health队服广告,赞助收入创纪录",
+        "summary": "密苏里大学体育部宣布与总部位于圣路易斯的医疗保险公司Ambetter Health建立新合作,自2026赛季起该公司标识将出现在美式橄榄球队服上。校方将此称为赞助收入创纪录增长的一部分,相关标识还将扩展至该校多个奥运项目运动队。"
+      },
+      "fr": {
+        "title": "Les Tigers du Missouri ajoutent le patch Ambetter Health dans une poussée record de parrainages",
+        "summary": "Le département sportif du Missouri a annoncé un nouveau partenariat avec l'assureur Ambetter Health, basé à Saint-Louis, qui placera le logo de l'entreprise sur les maillots de football américain dès la saison 2026. L'université a qualifié cet accord de croissance record des parrainages, la marque devant également s'étendre à plusieurs de ses programmes de sports olympiques."
+      }
+    }
+  },
+  {
+    "id": "hawaii-football-hawaiian-airlines-patch",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "team",
+      "sponsor"
+    ],
+    "published_at": "2026-08-25T00:00:00Z",
+    "source_name": "Aloha State Daily",
+    "source_url": "https://alohastatedaily.com/2026/08/25/hawaiian-airlines-named-new-jersey-patch-sponsor-for-hawaii-football-team/",
+    "i18n": {
+      "en": {
+        "title": "Hawaiian Airlines Becomes Jersey Patch Sponsor for University of Hawaii Football",
+        "summary": "The University of Hawaii football program named Hawaiian Airlines as its newest jersey patch sponsor, adding the carrier's logo to Rainbow Warriors uniforms. The deal continues a long-standing relationship between the airline and the university's athletic programs."
+      },
+      "ja": {
+        "title": "ハワイ航空、ハワイ大学フットボールチームのジャージパッチスポンサーに",
+        "summary": "ハワイ大学のアメリカンフットボールチームは、ハワイ航空を新たなジャージパッチスポンサーとして発表し、同社ロゴを「レインボー・ウォリアーズ」のユニフォームに追加する。今回の契約は、同航空会社と大学スポーツ部門との長年にわたる関係継続の一環となる。"
+      },
+      "es": {
+        "title": "Hawaiian Airlines se convierte en patrocinador de parche del fútbol americano de la Universidad de Hawái",
+        "summary": "El programa de fútbol americano de la Universidad de Hawái nombró a Hawaiian Airlines como su más reciente patrocinador de parche en la camiseta, añadiendo el logo de la aerolínea a los uniformes de los Rainbow Warriors. El acuerdo da continuidad a una relación de larga data entre la aerolínea y los programas deportivos de la universidad."
+      },
+      "zh": {
+        "title": "夏威夷航空成为夏威夷大学美式橄榄球队队服广告赞助商",
+        "summary": "夏威夷大学美式橄榄球队宣布夏威夷航空为其最新队服广告赞助商,航空公司标识将出现在“彩虹勇士”队服上。此次合作延续了该航空公司与学校体育项目之间的长期合作关系。"
+      },
+      "fr": {
+        "title": "Hawaiian Airlines devient sponsor de maillot de l'équipe de football américain de l'Université d'Hawaï",
+        "summary": "Le programme de football américain de l'Université d'Hawaï a nommé Hawaiian Airlines comme son nouveau sponsor de maillot, ajoutant le logo de la compagnie aérienne aux tenues des Rainbow Warriors. Cet accord prolonge une relation de longue date entre la compagnie aérienne et les programmes sportifs de l'université."
+      }
+    }
+  },
+  {
+    "id": "mercedes-f1-microsoft-sponsorship",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "tech"
+    ],
+    "published_at": "2026-01-22T00:00:00Z",
+    "source_name": "BlackBook Motorsport",
+    "source_url": "https://www.blackbookmotorsport.com/news/mercedes-f1-microsoft-ai-tech-sponsorship-january-2026/",
+    "i18n": {
+      "en": {
+        "title": "Mercedes F1 Unveils Microsoft Deal Worth Up to $60M a Year Alongside W17 Reveal",
+        "summary": "Mercedes-AMG Petronas revealed a new Microsoft partnership reported to be worth as much as $60 million annually as the team showed off images of its 2026 car, the W17. Microsoft Azure's cloud and AI tools are expected to speed up Mercedes' data analysis and let the team test new components without relying solely on on-site infrastructure."
+      },
+      "ja": {
+        "title": "メルセデスF1、新型車W17発表とともにマイクロソフトとの大型契約を発表",
+        "summary": "メルセデスAMGペトロナスは、2026年型マシン「W17」の画像公開と合わせ、年間最大6000万ドル規模と報じられるマイクロソフトとの新たなパートナーシップを発表した。マイクロソフトのAzureクラウドおよびAI技術により、チームのデータ分析を高速化し、オンプレミス設備に頼らずに新パーツのテストを行えるようになる見込み。"
+      },
+      "es": {
+        "title": "Mercedes F1 presenta un acuerdo con Microsoft valorado en hasta 60 millones de dólares anuales junto al lanzamiento del W17",
+        "summary": "Mercedes-AMG Petronas reveló una nueva asociación con Microsoft que, según reportes, podría alcanzar los 60 millones de dólares al año, coincidiendo con la presentación de imágenes de su monoplaza 2026, el W17. Las herramientas de nube e inteligencia artificial de Microsoft Azure permitirían acelerar el análisis de datos del equipo y probar nuevos componentes sin depender únicamente de infraestructura local."
+      },
+      "zh": {
+        "title": "梅赛德斯F1车队公布W17新车同时官宣微软大额赞助协议",
+        "summary": "梅赛德斯-AMG彼得罗纳斯车队在公布2026赛季新车W17图片的同时,宣布与微软达成据报道价值高达每年6000万美元的新合作。微软Azure云服务与人工智能工具预计将加快车队的数据分析速度,并使车队能够测试新部件而不必完全依赖现场基础设施。"
+      },
+      "fr": {
+        "title": "Mercedes F1 dévoile un accord avec Microsoft pouvant atteindre 60 millions de dollars par an avec la présentation de la W17",
+        "summary": "Mercedes-AMG Petronas a révélé un nouveau partenariat avec Microsoft, évalué selon certaines informations à environ 60 millions de dollars par an, en même temps que la présentation d'images de sa monoplace 2026, la W17. Les outils cloud et d'intelligence artificielle de Microsoft Azure devraient accélérer l'analyse de données de l'équipe et lui permettre de tester de nouveaux composants sans dépendre uniquement de l'infrastructure sur site."
+      }
+    }
+  },
+  {
+    "id": "pepsico-mercedes-f1-partnership",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2025-12-02T00:00:00Z",
+    "source_name": "PepsiCo Newsroom",
+    "source_url": "https://www.pepsico.com/newsroom/press-releases/2025/pepsico-announces-landmark-global-partnership-with-mercedes-amg-petronas-f1-team-for-2026",
+    "i18n": {
+      "en": {
+        "title": "PepsiCo Returns to F1 as Mercedes Team Partner With Gatorade, Sting and Doritos",
+        "summary": "PepsiCo announced a multi-year global partnership with the Mercedes-AMG Petronas F1 team starting in 2026, bringing three of its brands — Gatorade, Sting and Doritos — on board as team partners. It marks PepsiCo's first Formula 1 team sponsorship since its 7UP brand backed Jordan Grand Prix in 1991, and includes plans for fan activations and input from Gatorade's Sports Science Institute."
+      },
+      "ja": {
+        "title": "ペプシコ、ゲータレード・スティング・ドリトスでメルセデスF1チームへ復帰",
+        "summary": "ペプシコは2026年シーズンから、メルセデスAMGペトロナスF1チームとの複数年にわたるグローバルパートナーシップを発表し、傘下のゲータレード、スティング、ドリトスの3ブランドをチームパートナーとして起用する。1991年に7UPブランドがジョーダン・グランプリを支援して以来、ペプシコにとって初のF1チームスポンサー契約となり、ファン向けイベントやゲータレード・スポーツサイエンス研究所の知見を活用する計画も含まれる。"
+      },
+      "es": {
+        "title": "PepsiCo regresa a la F1 como socio de Mercedes con Gatorade, Sting y Doritos",
+        "summary": "PepsiCo anunció una alianza global multianual con el equipo Mercedes-AMG Petronas de F1 a partir de 2026, incorporando tres de sus marcas —Gatorade, Sting y Doritos— como socios del equipo. Se trata del primer patrocinio de un equipo de Fórmula 1 para PepsiCo desde que su marca 7UP respaldó a Jordan Grand Prix en 1991, e incluye planes de activaciones para aficionados y aportes del Instituto de Ciencias del Deporte de Gatorade."
+      },
+      "zh": {
+        "title": "百事公司携佳得乐、Sting及多力多滋重返F1赞助梅赛德斯车队",
+        "summary": "百事公司宣布将从2026赛季起与梅赛德斯-AMG彼得罗纳斯F1车队达成多年全球合作,旗下佳得乐、Sting及多力多滋三大品牌将作为车队合作伙伴加入。这是百事公司自1991年7UP品牌赞助乔丹大奖赛车队以来首次赞助F1车队,合作还计划开展车迷互动活动并引入佳得乐运动科学研究所的相关资源。"
+      },
+      "fr": {
+        "title": "PepsiCo revient en F1 comme partenaire de Mercedes avec Gatorade, Sting et Doritos",
+        "summary": "PepsiCo a annoncé un partenariat mondial pluriannuel avec l'écurie Mercedes-AMG Petronas de F1 à partir de 2026, intégrant trois de ses marques — Gatorade, Sting et Doritos — en tant que partenaires de l'équipe. Il s'agit du premier parrainage d'une écurie de Formule 1 pour PepsiCo depuis que sa marque 7UP soutenait Jordan Grand Prix en 1991, avec des activations pour les fans et l'apport de l'Institut des sciences du sport de Gatorade prévus."
+      }
+    }
+  },
+  {
+    "id": "kashima-antlers-mercari-stadium",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2025-06-19T00:00:00Z",
+    "source_name": "Goal.com Japan",
+    "source_url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/2025-0619-kahima-mercari-change-jp/blt351af451f46567a1",
+    "i18n": {
+      "en": {
+        "title": "Kashima Antlers' Home Ground Renamed Mercari Stadium",
+        "summary": "Ibaraki Prefecture's Kashima Soccer Stadium, home of J.League club Kashima Antlers, was renamed Mercari Stadium under a three-year naming-rights deal running from July 2025 through June 2028, with the roughly ¥150 million annual fee split between the prefecture and Mercari. Mercari has been Antlers' parent company since 2019 and has backed regional economic initiatives tied to the club."
+      },
+      "ja": {
+        "title": "鹿島アントラーズのホームスタジアム、「メルカリスタジアム」に改称",
+        "summary": "Jリーグ・鹿島アントラーズのホームスタジアムである茨城県立カシマサッカースタジアムが、2025年7月から2028年6月までの3年間の命名権契約により「メルカリスタジアム」に改称された。年間約1.5億円の契約金は県とメルカリが折半する形となる。メルカリは2019年からアントラーズの親会社を務め、鹿行地域の経済活性化にも取り組んでいる。"
+      },
+      "es": {
+        "title": "El estadio del Kashima Antlers pasa a llamarse Mercari Stadium",
+        "summary": "El Estadio de Fútbol de Kashima, en la prefectura de Ibaraki y sede del club de la J.League Kashima Antlers, fue rebautizado como Mercari Stadium mediante un acuerdo de derechos de denominación de tres años, vigente de julio de 2025 a junio de 2028, con una tarifa anual de unos 150 millones de yenes compartida entre la prefectura y Mercari. Mercari es la empresa matriz del Antlers desde 2019 y ha respaldado iniciativas económicas regionales vinculadas al club."
+      },
+      "zh": {
+        "title": "鹿岛鹿角主场更名为“Mercari球场”",
+        "summary": "日本J联赛球队鹿岛鹿角的主场——茨城县立鹿岛足球场,通过一项为期三年(2025年7月至2028年6月)的命名权协议更名为“Mercari球场”,每年约1.5亿日元的费用由茨城县与Mercari公司平摊。Mercari自2019年起即为鹿岛鹿角的母公司,并持续支持与球队相关的地区经济振兴项目。"
+      },
+      "fr": {
+        "title": "Le stade des Kashima Antlers rebaptisé Mercari Stadium",
+        "summary": "Le stade de football de Kashima, dans la préfecture d'Ibaraki et domicile du club de J.League Kashima Antlers, a été rebaptisé Mercari Stadium dans le cadre d'un contrat de naming de trois ans, de juillet 2025 à juin 2028, pour une redevance annuelle d'environ 150 millions de yens partagée entre la préfecture et Mercari. Mercari est la société mère des Antlers depuis 2019 et soutient des initiatives économiques régionales liées au club."
+      }
+    }
+  },
+  {
+    "id": "kawasaki-arena-city-project-rename",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "tech",
+      "biz"
+    ],
+    "published_at": "2026-01-29T00:00:00Z",
+    "source_name": "Tetsudo-Ch",
+    "source_url": "https://tetsudo-ch.com/13022054.html",
+    "i18n": {
+      "en": {
+        "title": "DeNA and Keikyu Rename Kawasaki Arena Project, Set 2030 Opening for B.League Future Home",
+        "summary": "DeNA and Keikyu Corporation renamed their planned roughly 10,000-seat arena development next to Keikyu Kawasaki Station the 'Kawasaki Arena-City Project' and confirmed an opening target of October 2030. B.League club Kawasaki Brave Thunders, a DeNA subsidiary, is slated to make the arena its new home once it opens, with a rooftop park billed as a world first for a venue of its size."
+      },
+      "ja": {
+        "title": "DeNAと京急、川崎のアリーナ構想を「Kawasaki Arena-City Project」に改称し2030年開業へ",
+        "summary": "DeNAと京浜急行電鉄は、京急川崎駅前で計画していた約1万人収容規模のアリーナ開発事業を「Kawasaki Arena-City Project」と改称し、開業目標を2030年10月と発表した。DeNA傘下のBリーグ「川崎ブレイブサンダース」は開業後に新たな本拠地とする予定で、この規模のアリーナとしては世界初となる屋上公園の整備も計画されている。"
+      },
+      "es": {
+        "title": "DeNA y Keikyu rebautizan el proyecto de arena de Kawasaki y fijan su apertura para 2030 como futura sede de la B.League",
+        "summary": "DeNA y Keikyu Corporation rebautizaron su proyecto de desarrollo de una arena de unos 10.000 asientos junto a la estación de Keikyu Kawasaki como 'Kawasaki Arena-City Project' y confirmaron como meta de apertura octubre de 2030. El club de la B.League Kawasaki Brave Thunders, subsidiaria de DeNA, tiene previsto convertirla en su nueva sede una vez inaugurada, con un parque en la azotea presentado como una primicia mundial para un recinto de ese tamaño."
+      },
+      "zh": {
+        "title": "DeNA与京急将川崎体育馆项目更名,目标2030年开业成为B联赛未来主场",
+        "summary": "DeNA与京滨急行电铁将其在京急川崎站旁规划的约1万座席体育馆开发项目更名为“Kawasaki Arena-City Project”,并确认开业目标为2030年10月。DeNA旗下的B联赛球队川崎braveThunders计划在体育馆开业后将其作为新主场,馆内还将设置号称同等规模场馆中全球首个的屋顶公园。"
+      },
+      "fr": {
+        "title": "DeNA et Keikyu renomment le projet d'arena de Kawasaki, ouverture prévue en 2030 pour la future salle de B.League",
+        "summary": "DeNA et Keikyu Corporation ont renommé leur projet de salle d'environ 10 000 places près de la gare de Keikyu Kawasaki « Kawasaki Arena-City Project » et confirmé un objectif d'ouverture en octobre 2030. Le club de B.League Kawasaki Brave Thunders, filiale de DeNA, doit en faire son nouveau domicile à l'ouverture, avec un parc sur le toit présenté comme une première mondiale pour une salle de cette taille."
+      }
+    }
   }
 ]
