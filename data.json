@@ -7168,5 +7168,278 @@
         "summary": "La J.League a confirmé que Yamazaki Biscuits Co. restera sponsor-titre de sa coupe de ligue pour la saison 2026/27, une 34e édition consécutive soutenue par le fabricant de biscuits depuis les débuts de la compétition en 1992. Le tournoi sera renommé « J.League Yamazaki Biscuits Levain Cup », avec un nouveau logo inspiré de l'emballage de sa gamme de snacks Levain."
       }
     }
+  },
+  {
+    "id": "padres-sale-feliciano-jones-3-9b-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-08-17T00:00:00Z",
+    "source_name": "ESPN",
+    "source_url": "https://africa.espn.com/mlb/story/_/id/49640765/mlb-unanimously-approves-sale-san-diego-padres",
+    "i18n": {
+      "en": {
+        "title": "MLB Owners Approve $3.9 Billion Sale of Padres to Feliciano and Jones",
+        "summary": "Major League Baseball's owners unanimously approved the sale of the San Diego Padres to an investor group led by private equity billionaire Jose Feliciano and his wife, entrepreneur Kwanza Jones, at a record franchise valuation of $3.9 billion. The buyers reached their agreement in May with the family of late owner Peter Seidler, and the transaction is expected to close in the coming weeks with existing front-office leadership staying in place."
+      },
+      "ja": {
+        "title": "MLBがパドレス売却を承認、フェリシアーノ氏夫妻への39億ドル買収が決定",
+        "summary": "MLBの球団所有者たちは、サンディエゴ・パドレスをプライベートエクイティの大富豪ホセ・フェリシアーノ氏と妻のクワンザ・ジョーンズ氏が率いる投資グループに売却することを全会一致で承認した。球団史上最高額となる39億ドルの評価額での買収で、故シードラー氏の遺族との合意は5月に成立しており、現経営陣は当面残留する見通し。"
+      },
+      "es": {
+        "title": "MLB aprueba la venta de los Padres a Feliciano y Jones por 3.900 millones de dólares",
+        "summary": "Los propietarios de las Grandes Ligas de Béisbol aprobaron por unanimidad la venta de los San Diego Padres a un grupo inversor liderado por el multimillonario José Feliciano y su esposa, la empresaria Kwanza Jones, en una valoración récord de 3.900 millones de dólares. El acuerdo con la familia del fallecido propietario Peter Seidler se alcanzó en mayo y se espera que la transacción se cierre en las próximas semanas."
+      },
+      "zh": {
+        "title": "MLB批准以39亿美元将教士队出售给费利西亚诺夫妇",
+        "summary": "美国职业棒球大联盟球队老板一致批准将圣地亚哥教士队出售给由私募股权亿万富翁何塞·费利西亚诺及其妻子、企业家关扎·琼斯领导的投资集团，创下该队史上最高39亿美元的估值。该交易与已故老板彼得·塞德勒的家族于5月达成协议，预计将在未来几周内完成交割。"
+      },
+      "fr": {
+        "title": "La MLB approuve la vente des Padres à Feliciano et Jones pour 3,9 milliards de dollars",
+        "summary": "Les propriétaires de la Ligue majeure de baseball ont approuvé à l'unanimité la vente des San Diego Padres à un groupe d'investisseurs dirigé par le milliardaire du capital-investissement José Feliciano et son épouse, l'entrepreneuse Kwanza Jones, pour une valorisation record de 3,9 milliards de dollars. L'accord avec la famille du défunt propriétaire Peter Seidler avait été conclu en mai, et la transaction devrait être finalisée dans les prochaines semaines."
+      }
+    }
+  },
+  {
+    "id": "seahawks-sale-khosla-family-9-6b-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-08-27T00:00:00Z",
+    "source_name": "Associated Press",
+    "source_url": "https://www.hawaiitribune-herald.com/2026/08/27/sports/nfl-owners-approve-seahawks-sale-to-kohsla-group-for-record-9-6-billion/",
+    "i18n": {
+      "en": {
+        "title": "NFL Owners Approve Record $9.6 Billion Sale of Seahawks to Khosla Family",
+        "summary": "NFL owners unanimously approved the sale of the Seattle Seahawks to a group led by Neeru and Vinod Khosla at a league-record valuation of roughly $9.6 billion. The team had been owned by the estate of the late Paul Allen since 2018, and Allen's will required it be sold with proceeds distributed to charity; the Khosla family agreed to terms in July after a lengthy sale process."
+      },
+      "ja": {
+        "title": "NFL、シーホークス売却を承認 コスラ家に96億ドルで記録的買収",
+        "summary": "NFLの各球団所有者は、シアトル・シーホークスをニール・コスラ氏とヴィノド・コスラ氏が率いるグループに売却することを全会一致で承認した。評価額は約96億ドルで同リーグ史上最高額となる。同チームは2018年の死去以来故ポール・アレン氏の遺産財団が保有しており、遺言に従い売却益は慈善団体に分配される予定で、コスラ家とは7月に合意に至っていた。"
+      },
+      "es": {
+        "title": "La NFL aprueba la venta récord de los Seahawks a la familia Khosla por 9.600 millones de dólares",
+        "summary": "Los propietarios de la NFL aprobaron por unanimidad la venta de los Seattle Seahawks a un grupo liderado por Neeru y Vinod Khosla, con una valoración récord para la liga de unos 9.600 millones de dólares. El equipo pertenecía al patrimonio del fallecido Paul Allen desde 2018, y su testamento exigía que fuera vendido con las ganancias destinadas a obras de caridad; la familia Khosla llegó a un acuerdo en julio tras un largo proceso de venta."
+      },
+      "zh": {
+        "title": "NFL批准海鹰队以96亿美元创纪录价格出售给科斯拉家族",
+        "summary": "NFL球队老板一致批准将西雅图海鹰队出售给由尼鲁·科斯拉和维诺德·科斯拉领导的团队，估值约96亿美元，创下联盟历史纪录。该队自2018年已故老板保罗·艾伦去世后一直由其遗产基金持有，根据遗嘱要求出售所得将捐给慈善机构；科斯拉家族于7月就交易条款达成一致。"
+      },
+      "fr": {
+        "title": "La NFL approuve la vente record des Seahawks à la famille Khosla pour 9,6 milliards de dollars",
+        "summary": "Les propriétaires de la NFL ont approuvé à l'unanimité la vente des Seattle Seahawks à un groupe dirigé par Neeru et Vinod Khosla, pour une valorisation record de la ligue d'environ 9,6 milliards de dollars. L'équipe appartenait à la succession du défunt Paul Allen depuis 2018, son testament exigeant qu'elle soit vendue et les gains reversés à des associations caritatives; la famille Khosla s'est entendue sur les conditions en juillet après un long processus de vente."
+      }
+    }
+  },
+  {
+    "id": "liverpool-1892-holdings-bezos-stake-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-08-19T00:00:00Z",
+    "source_name": "New Straits Times",
+    "source_url": "https://www.nst.com.my/sports/football/2026/08/1514142/bezos-consortium-bought-nearly-40-cent-liverpool-report",
+    "i18n": {
+      "en": {
+        "title": "Bezos-Backed Consortium Reportedly Buys Nearly 40% of Liverpool from FSG",
+        "summary": "A consortium called 1892 Holdings, led by businessman Amit Bhatia and including Amazon founder Jeff Bezos and Facebook co-founder Eduardo Saverin, has reportedly acquired close to 40% of Liverpool FC from Fenway Sports Group. Initial reports described the stake as roughly a third of the club, but later reporting put the figure closer to 38%, with the consortium also holding an option to pursue a controlling stake within 12 months."
+      },
+      "ja": {
+        "title": "ベゾス氏らの投資連合、リヴァプールの株式約4割をFSGから取得と報道",
+        "summary": "実業家アミット・バティア氏が率い、アマゾン創業者ジェフ・ベゾス氏やフェイスブック共同創業者エドゥアルド・サベリン氏らが参加する投資連合「1892ホールディングス」が、フェンウェイ・スポーツ・グループからリヴァプールFCの株式の約4割を取得したと報じられた。当初は約3分の1との報道もあったが、その後38%に近いとの報道に修正され、同連合は12カ月以内に経営権を取得する選択権も保持しているという。"
+      },
+      "es": {
+        "title": "Un consorcio respaldado por Bezos compraría casi el 40% del Liverpool a FSG, según reportes",
+        "summary": "Un consorcio denominado 1892 Holdings, liderado por el empresario Amit Bhatia e integrado también por el fundador de Amazon Jeff Bezos y el cofundador de Facebook Eduardo Saverin, habría adquirido cerca del 40% del Liverpool FC de manos de Fenway Sports Group. Los primeros informes hablaban de una participación de alrededor de un tercio del club, pero reportes posteriores sitúan la cifra más cerca del 38%, y el consorcio mantendría además una opción para buscar una participación mayoritaria en los próximos 12 meses."
+      },
+      "zh": {
+        "title": "据报道，贝索斯支持的财团从FSG手中收购利物浦近40%股份",
+        "summary": "据报道，由商人阿米特·巴蒂亚牵头、亚马逊创始人杰夫·贝索斯和Facebook联合创始人爱德华多·萨维林参与的\"1892控股\"财团，已从芬威体育集团手中收购了利物浦足球俱乐部近40%的股份。最初报道称该股份约占俱乐部三分之一，但后续报道显示比例更接近38%，该财团还拥有在12个月内寻求控股权的选择权。"
+      },
+      "fr": {
+        "title": "Un consortium soutenu par Bezos aurait acquis près de 40% de Liverpool auprès de FSG",
+        "summary": "Un consortium baptisé 1892 Holdings, dirigé par l'homme d'affaires Amit Bhatia et comprenant également le fondateur d'Amazon Jeff Bezos et le cofondateur de Facebook Eduardo Saverin, aurait acquis près de 40% du Liverpool FC auprès de Fenway Sports Group. Les premières informations évoquaient une participation d'environ un tiers du club, mais des rapports ultérieurs situent le chiffre plus près de 38%, le consortium disposant également d'une option pour viser une participation majoritaire dans les 12 mois."
+      }
+    }
+  },
+  {
+    "id": "l1ve-atp-media-immersive-rights-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "tech",
+      "biz",
+      "fan"
+    ],
+    "published_at": "2026-09-14T00:00:00Z",
+    "source_name": "Business Wire",
+    "source_url": "https://secure.businesswire.com/news/home/20260914483868/en/ATP-Media-L1VE-Agree-Landmark-Immersive-Rights-Partnership",
+    "i18n": {
+      "en": {
+        "title": "ATP Media and L1VE Sign Multi-Year Immersive Rights Deal for Tennis",
+        "summary": "ATP Media, the tour's broadcast arm, named immersive technology company L1VE its Official Immersive Partner under a three-year global agreement running through 2028, covering Masters 1000 events, the Nitto ATP Finals and ATP 500/250 tournaments. The partnership launches at the Rolex Shanghai Masters in October, with L1VE capturing matches in stereoscopic 360-degree formats from courtside positions and selling fan access as single-day or tournament passes rather than a subscription."
+      },
+      "ja": {
+        "title": "ATPメディアとL1VE、テニスの複数年イマーシブ映像権契約を締結",
+        "summary": "ATPツアーの放映部門ATPメディアは、イマーシブ映像技術企業L1VEを公式イマーシブパートナーとして指名し、2028年まで続く3年間の国際契約を結んだ。対象にはマスターズ1000やNittoATPファイナルズ、ATP500/250の各大会が含まれ、10月のロレックス上海マスターズで提供を開始、コート脇からの360度立体映像をチケット制（1日券または大会通し券）で販売する。"
+      },
+      "es": {
+        "title": "ATP Media y L1VE firman un acuerdo multianual de derechos inmersivos para el tenis",
+        "summary": "ATP Media, el brazo de retransmisión del circuito, nombró a la empresa de tecnología inmersiva L1VE su Socio Inmersivo Oficial mediante un acuerdo global de tres años vigente hasta 2028, que abarca los torneos Masters 1000, las Nitto ATP Finals y los eventos ATP 500/250. La asociación se estrena en el Rolex Shanghai Masters de octubre, con L1VE captando los partidos en formato estereoscópico de 360 grados desde posiciones junto a la pista y vendiendo el acceso como entradas de un día o de torneo completo en lugar de una suscripción."
+      },
+      "zh": {
+        "title": "ATP Media与L1VE签署多年沉浸式版权协议",
+        "summary": "ATP巡回赛转播部门ATP Media宣布沉浸式技术公司L1VE成为其官方沉浸式合作伙伴，双方签署为期三年、至2028年的全球协议，覆盖大师赛1000、年终总决赛及ATP 500/250赛事。该合作将于10月的上海网球大师赛首次启用，L1VE将从场边机位以360度立体格式拍摄比赛，并以单日票或赛事通票而非订阅制方式向球迷开放。"
+      },
+      "fr": {
+        "title": "ATP Media et L1VE signent un accord pluriannuel de droits immersifs pour le tennis",
+        "summary": "ATP Media, le bras diffusion du circuit, a désigné l'entreprise de technologie immersive L1VE comme son Partenaire Immersif Officiel dans le cadre d'un accord mondial de trois ans courant jusqu'en 2028, couvrant les tournois Masters 1000, les Nitto ATP Finals et les épreuves ATP 500/250. Le partenariat débute au Rolex Shanghai Masters en octobre, L1VE filmant les matchs en 360 degrés stéréoscopiques depuis des positions au bord du court et vendant l'accès sous forme de billets à la journée ou pour tout le tournoi plutôt que par abonnement."
+      }
+    }
+  },
+  {
+    "id": "zozo-marine-stadium-naming-rights-renewal-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-06-30T00:00:00Z",
+    "source_name": "Kumanichi",
+    "source_url": "https://kumanichi.com/articles/2008519",
+    "i18n": {
+      "en": {
+        "title": "Chiba City Renews ZOZO Marine Stadium Naming Rights Through 2033",
+        "summary": "Chiba City agreed to renew its naming-rights contract with apparel retailer ZOZO, keeping the home of the Chiba Lotte Marines as ZOZO Marine Stadium for a new seven-year term from December 2026 through November 2033. The annual fee rises to about 400 million yen, reflecting the venue's growing use for concerts and other large events in addition to professional baseball, even as the city advances plans for a new ballpark near Makuhari Messe by 2034."
+      },
+      "ja": {
+        "title": "千葉市、ZOZOマリンスタジアムの命名権契約を2033年まで更新",
+        "summary": "千葉市はアパレル大手ZOZOとの命名権契約を更新することで合意し、千葉ロッテマリーンズの本拠地は2026年12月から2033年11月までの新たな7年契約でも「ZOZOマリンスタジアム」の名称を継続する。年間契約金は約4億円に増額され、プロ野球に加えコンサートなど大型イベントでの利用拡大がスタジアムの価値向上につながったとされる。市は老朽化を受け、幕張メッセ駐車地に2034年開設予定の新球場移転計画も進めている。"
+      },
+      "es": {
+        "title": "La ciudad de Chiba renueva los derechos de nombre del ZOZO Marine Stadium hasta 2033",
+        "summary": "La ciudad de Chiba acordó renovar su contrato de derechos de nombre con la cadena de ropa ZOZO, de modo que el estadio de los Chiba Lotte Marines seguirá llamándose ZOZO Marine Stadium durante un nuevo periodo de siete años, de diciembre de 2026 a noviembre de 2033. La cuota anual sube a unos 400 millones de yenes, reflejo del creciente uso del recinto para conciertos y otros grandes eventos además del béisbol profesional, mientras la ciudad avanza en sus planes para un nuevo estadio cerca de Makuhari Messe de cara a 2034."
+      },
+      "zh": {
+        "title": "千叶市将ZOZO海洋体育场命名权续约至2033年",
+        "summary": "千叶市同意与服装零售商ZOZO续签场馆命名权合同，千叶罗德海洋队主场将在2026年12月至2033年11月的新七年合同期内继续使用\"ZOZO海洋体育场\"名称。年度授权费用上调至约4亿日元，原因是该场馆除职业棒球外，用于演唱会等大型活动的比例不断增加；与此同时，千叶市仍在推进在幕张展览馆附近新建球场、预计2034年启用的计划。"
+      },
+      "fr": {
+        "title": "La ville de Chiba renouvelle les droits de dénomination du ZOZO Marine Stadium jusqu'en 2033",
+        "summary": "La ville de Chiba a accepté de renouveler son contrat de naming avec le distributeur de vêtements ZOZO, le stade des Chiba Lotte Marines conservant le nom de ZOZO Marine Stadium pour un nouveau bail de sept ans allant de décembre 2026 à novembre 2033. La redevance annuelle passe à environ 400 millions de yens, reflet de l'usage croissant du site pour des concerts et d'autres grands événements en plus du baseball professionnel, alors que la ville poursuit son projet de nouveau stade près de Makuhari Messe à l'horizon 2034."
+      }
+    }
+  },
+  {
+    "id": "disney-espn-formula-e-media-rights-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-08-11T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/media/disney-lands-formula-e-streaming-rights-in-us-international-markets/",
+    "i18n": {
+      "en": {
+        "title": "Formula E Signs Multi-Year Streaming Deal With Disney+ and ESPN",
+        "summary": "Formula E struck a multi-year agreement making Disney+ and ESPN+ the series' home in the United States and Disney+ the broadcaster across more than 140 international markets, replacing outgoing US rightsholder CBS. Coverage will include every practice, qualifying and race session plus preview and review shows, beginning with the 2026-27 season, which also introduces the new, more powerful Gen4 car."
+      },
+      "ja": {
+        "title": "フォーミュラE、ディズニー+とESPNと複数年ストリーミング契約を締結",
+        "summary": "フォーミュラEは米国での放映権を保有していたCBSに代わり、ディズニー+とESPN+を米国内の新たな放映パートナーとする複数年契約を締結し、ディズニー+は140以上の国・地域でも配信を担う。中継には全セッションの練習走行や予選、決勝に加え事前・事後番組も含まれ、より高出力の新型車両「Gen4」が導入される2026-27シーズンから開始される。"
+      },
+      "es": {
+        "title": "La Fórmula E firma un acuerdo de streaming plurianual con Disney+ y ESPN",
+        "summary": "La Fórmula E cerró un acuerdo plurianual que convierte a Disney+ y ESPN+ en la nueva casa de la serie en Estados Unidos, sustituyendo a CBS, mientras que Disney+ emitirá la competición en más de 140 mercados internacionales. La cobertura incluirá cada sesión de entrenamientos, clasificación y carrera, además de programas previos y posteriores, a partir de la temporada 2026-27, que también introduce el nuevo y más potente monoplaza Gen4."
+      },
+      "zh": {
+        "title": "Formula E与迪士尼+、ESPN签署多年流媒体转播协议",
+        "summary": "Formula E电动方程式锦标赛与迪士尼+和ESPN+签署多年协议，取代原美国转播商CBS，迪士尼+还将在140多个国际市场播出该赛事。转播内容将涵盖每场练习赛、排位赛和正赛，以及赛前赛后节目，协议将从引入更强动力新款Gen4赛车的2026-27赛季开始执行。"
+      },
+      "fr": {
+        "title": "La Formule E signe un accord de diffusion pluriannuel avec Disney+ et ESPN",
+        "summary": "La Formule E a conclu un accord pluriannuel faisant de Disney+ et ESPN+ les nouveaux diffuseurs de la série aux États-Unis, en remplacement de CBS, tandis que Disney+ diffusera la compétition dans plus de 140 marchés internationaux. La couverture comprendra chaque séance d'essais, de qualifications et de course, ainsi que des émissions d'avant et d'après course, à partir de la saison 2026-27, qui introduit également la nouvelle monoplace Gen4, plus puissante."
+      }
+    }
+  },
+  {
+    "id": "hcltech-metlife-stadium-ai-partner-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "tech",
+      "stadium"
+    ],
+    "published_at": "2026-04-30T00:00:00Z",
+    "source_name": "HCLTech",
+    "source_url": "https://www.hcltech.com/press-releases/hcltech-expands-cornerstone-partnership-metlife-stadium-new-york-jets-and-new-york",
+    "i18n": {
+      "en": {
+        "title": "HCLTech Named Official AI Partner of MetLife Stadium, Jets and Giants",
+        "summary": "Technology firm HCLTech expanded its longstanding \"Cornerstone Partnership\" with MetLife Stadium, adding a new designation as Official AI Partner to the venue, the New York Jets and the New York Giants. Building on its role as digital transformation partner since 2022, HCLTech will now apply AI-driven tools to crowd management, service coordination and other stadium operations aimed at smarter and safer event days."
+      },
+      "ja": {
+        "title": "HCLTech、メットライフ・スタジアムとジェッツ・ジャイアンツの公式AIパートナーに",
+        "summary": "技術企業HCLTechは、メットライフ・スタジアムとの長期的な「コーナーストーン・パートナーシップ」を拡大し、同スタジアムおよびNFLのニューヨーク・ジェッツ、ニューヨーク・ジャイアンツの公式AIパートナーという新たな肩書を得た。2022年からデジタル変革パートナーを務めてきた同社は、今後は人流管理やサービス調整などスタジアム運営全般にAI主導の仕組みを導入し、より安全でスマートな試合運営を支援する。"
+      },
+      "es": {
+        "title": "HCLTech, nombrado Socio Oficial de IA del MetLife Stadium, los Jets y los Giants",
+        "summary": "La firma tecnológica HCLTech amplió su histórica \"Alianza Cornerstone\" con el MetLife Stadium, sumando una nueva designación como Socio Oficial de Inteligencia Artificial del recinto, los New York Jets y los New York Giants. Tras ejercer como socio de transformación digital desde 2022, la compañía aplicará ahora herramientas basadas en IA a la gestión de multitudes, la coordinación de servicios y otras operaciones del estadio para días de evento más inteligentes y seguros."
+      },
+      "zh": {
+        "title": "HCLTech被任命为大都会人寿体育场、喷气机队及巨人队官方AI合作伙伴",
+        "summary": "科技公司HCLTech扩大了与大都会人寿体育场长期的\"基石合作伙伴\"关系，新增担任该场馆及NFL纽约喷气机队、纽约巨人队的官方人工智能合作伙伴。该公司自2022年起担任数字化转型合作伙伴，此后将把AI驱动工具应用于人群管理、服务协调等体育场运营环节，以实现更智能、更安全的赛事日。"
+      },
+      "fr": {
+        "title": "HCLTech nommé partenaire officiel IA du MetLife Stadium, des Jets et des Giants",
+        "summary": "L'entreprise technologique HCLTech a élargi son partenariat de longue date « Cornerstone » avec le MetLife Stadium, en obtenant une nouvelle désignation de partenaire officiel en intelligence artificielle du stade, des New York Jets et des New York Giants. Partenaire de transformation numérique depuis 2022, la société appliquera désormais des outils pilotés par l'IA à la gestion des foules, à la coordination des services et à d'autres opérations du stade pour des jours de match plus intelligents et plus sûrs."
+      }
+    }
+  },
+  {
+    "id": "jleague-macau-australia-broadcast-2026-27",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "biz",
+      "fan"
+    ],
+    "published_at": "2026-08-03T00:00:00Z",
+    "source_name": "J.League",
+    "source_url": "https://www.jleague.jp/corporate/pressrelease/article/16031",
+    "i18n": {
+      "en": {
+        "title": "J.League Adds Macau and Australia to Overseas Broadcast Lineup",
+        "summary": "Japan's J.League announced new overseas broadcast deals for the 2026-27 season with Macau's M Plus sports platform and Australian streaming service Stan, each airing up to four J1 League matches per matchday. The agreements extend the league's international footprint, which already includes broadcast partners in China and Hong Kong, as part of its push to grow audiences for Japanese club soccer abroad."
+      },
+      "ja": {
+        "title": "Jリーグ、海外放映にマカオとオーストラリアを新たに追加",
+        "summary": "Jリーグは2026-27シーズンの海外向け放映について、マカオの総合スポーツメディアM Plusとオーストラリアの動画配信サービスSTANと新たに契約したと発表した。両社とも明治安田J1リーグを毎節最大4試合放映し、既に放映契約を持つ中国や香港と合わせて海外での視聴機会拡大を進める取り組みの一環となる。"
+      },
+      "es": {
+        "title": "La J.League suma Macao y Australia a su cobertura televisiva internacional",
+        "summary": "La J.League de Japón anunció nuevos acuerdos de retransmisión en el extranjero para la temporada 2026-27 con la plataforma deportiva M Plus de Macao y el servicio de streaming australiano Stan, que emitirán hasta cuatro partidos de la J1 League por jornada cada uno. Los acuerdos amplían la presencia internacional de la liga, que ya cuenta con socios de retransmisión en China y Hong Kong, como parte de su esfuerzo por ampliar audiencias para el fútbol de clubes japonés en el extranjero."
+      },
+      "zh": {
+        "title": "J联赛新增澳门与澳大利亚海外转播合作",
+        "summary": "日本J联赛宣布2026-27赛季新增与澳门综合体育媒体平台M Plus及澳大利亚流媒体服务Stan的海外转播合作，两者每个比赛日均将播出最多四场J1联赛赛事。此举进一步扩大该联赛的海外覆盖版图，此前已与中国和香港的转播伙伴达成合作，是其拓展日本俱乐部足球海外观众群的举措之一。"
+      },
+      "fr": {
+        "title": "La J.League ajoute Macao et l'Australie à sa diffusion internationale",
+        "summary": "La J.League japonaise a annoncé de nouveaux accords de diffusion à l'étranger pour la saison 2026-27 avec la plateforme sportive M Plus de Macao et le service de streaming australien Stan, chacun diffusant jusqu'à quatre matchs de J1 League par journée. Ces accords élargissent l'empreinte internationale du championnat, qui compte déjà des partenaires de diffusion en Chine et à Hong Kong, dans le cadre de ses efforts pour développer son audience à l'étranger pour le football de clubs japonais."
+      }
+    }
   }
 ]
