@@ -6898,5 +6898,275 @@
         "summary": "Les Athletics de Las Vegas ont annoncé que la marque de casino du centre-ville, Circa Resort & Casino, devient le tout premier partenaire fondateur du club, Circa Sports devenant la plateforme de paris sportifs officielle de l'équipe. Dans le cadre de cet accord, le nouveau stade en construction sur le Strip de Las Vegas, dont l'ouverture est prévue pour la saison 2028, comprendra une loge baptisée Circa Dugout Box."
       }
     }
+  },
+  {
+    "id": "cowboys-sportico-2026-nfl-valuations-top",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-08-12T00:00:00Z",
+    "source_name": "Bleacher Report",
+    "source_url": "https://bleacherreport.com/articles/25470424-cowboys-rams-giants-top-sporticos-full-list-2026-nfl-franchise-valuations",
+    "i18n": {
+      "en": {
+        "title": "Cowboys Lead Sportico's 2026 NFL Valuations for Seventh Straight Year",
+        "summary": "Sportico's newest franchise valuations put the Dallas Cowboys atop the NFL at $15.5 billion, a 21% jump from a year earlier and the club's seventh consecutive year at number one. The Rams ($12.7B) and Giants ($12B) round out the top three, with nine teams now valued above $10 billion and the league average climbing to $9.34 billion."
+      },
+      "ja": {
+        "title": "スポルティコ2026年NFL球団価値評価、カウボーイズが7年連続首位",
+        "summary": "スポルティコの最新球団価値評価で、ダラス・カウボーイズが前年比21%増の155億ドルでNFL球団トップの座を7年連続で維持した。2位はラムズ(127億ドル)、3位はジャイアンツ(120億ドル)で、100億ドルを超える球団は9チームに達し、リーグ平均も93.4億ドルまで上昇した。"
+      },
+      "es": {
+        "title": "Los Cowboys lideran las valoraciones de la NFL de Sportico por séptimo año consecutivo",
+        "summary": "La nueva valoración de franquicias de Sportico sitúa a los Dallas Cowboys como el equipo más valioso de la NFL con 15.500 millones de dólares, un 21% más que el año anterior y su séptimo año consecutivo en el primer puesto. Los Rams (12.700M) y los Giants (12.000M) completan el podio, mientras que nueve equipos superan ya los 10.000 millones y el promedio de la liga sube a 9.340 millones."
+      },
+      "zh": {
+        "title": "体育商业媒体Sportico：牛仔队连续七年位列NFL估值榜首",
+        "summary": "Sportico最新的球队估值显示，达拉斯牛仔队以155亿美元的估值继续领跑NFL，较上年增长21%，并连续第七年排名第一。公羊队(127亿)和巨人队(120亿)分列二三位,目前已有九支球队估值超过100亿美元，联盟平均估值升至93.4亿美元。"
+      },
+      "fr": {
+        "title": "Les Cowboys en tête des valorisations NFL de Sportico pour la septième année consécutive",
+        "summary": "Les dernières valorisations de franchises publiées par Sportico placent les Dallas Cowboys au sommet de la NFL avec 15,5 milliards de dollars, en hausse de 21 % sur un an, une septième année consécutive à la première place. Les Rams (12,7 Md$) et les Giants (12 Md$) complètent le podium, alors que neuf équipes dépassent désormais les 10 milliards et que la moyenne de la ligue atteint 9,34 milliards."
+      }
+    }
+  },
+  {
+    "id": "timbers-bank-of-america-jersey-sponsor-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2025-12-09T00:00:00Z",
+    "source_name": "MLSsoccer.com",
+    "source_url": "https://www.mlssoccer.com/news/portland-timbers-add-bank-of-america-as-jersey-sponsor",
+    "i18n": {
+      "en": {
+        "title": "Portland Timbers Add Bank of America as Front-of-Jersey Sponsor",
+        "summary": "The Portland Timbers unveiled Bank of America as their new front-of-jersey partner in a multi-year agreement, the bank's first-ever presence on a professional sports jersey. Longtime sponsor Tillamook will move from the front to a sleeve patch under the new kit arrangement starting in 2026."
+      },
+      "ja": {
+        "title": "ポートランド・ティンバーズ、バンク・オブ・アメリカと胸スポンサー契約",
+        "summary": "MLSのポートランド・ティンバーズは、複数年契約でバンク・オブ・アメリカを新たな胸スポンサーとして発表した。同行にとってプロスポーツのユニフォームに名前が入るのは初めてで、これまで胸部を飾っていたティラムークは2026年からの新ユニフォームで袖スポンサーに移行する。"
+      },
+      "es": {
+        "title": "Portland Timbers ficha a Bank of America como nuevo patrocinador principal de camiseta",
+        "summary": "El Portland Timbers de la MLS presentó a Bank of America como su nuevo patrocinador principal en el frente de la camiseta, mediante un acuerdo multianual que marca la primera vez que el banco aparece en una camiseta deportiva profesional. El antiguo patrocinador Tillamook pasará del frente a la manga en la nueva equipación a partir de 2026."
+      },
+      "zh": {
+        "title": "波特兰伐木者队签下美国银行作为新球衣胸前赞助商",
+        "summary": "美职联球队波特兰伐木者宣布与美国银行达成多年协议，由其担任新的球衣胸前赞助商，这是该银行首次出现在职业体育球衣上。原胸前赞助商Tillamook将在2026年推出的新球衣上转至袖标位置。"
+      },
+      "fr": {
+        "title": "Les Portland Timbers dévoilent Bank of America comme sponsor principal du maillot",
+        "summary": "Le club de MLS Portland Timbers a présenté Bank of America comme nouveau sponsor principal au cœur du maillot, dans le cadre d'un accord pluriannuel marquant la première apparition de la banque sur un maillot sportif professionnel. L'ancien partenaire Tillamook passera du devant à la manche sur le nouveau maillot à partir de 2026."
+      }
+    }
+  },
+  {
+    "id": "unlv-acesso-biologics-jersey-patch-first-2025",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2025-12-08T00:00:00Z",
+    "source_name": "Athletic Business",
+    "source_url": "https://www.athleticbusiness.com/operations/marketing/article/15773652/unlv-announces-groundbreaking-jersey-patch-sponsorship",
+    "i18n": {
+      "en": {
+        "title": "UNLV Signs First Multi-Sport Corporate Jersey Patch Deal in College Sports",
+        "summary": "UNLV Athletics struck a five-year, $11 million agreement with Las Vegas-based Acesso Biologics that places the company's logo on jerseys across football, men's and women's basketball and baseball, a first for a multi-sport corporate patch in the NCAA. The deal is positioned to take full effect once the NCAA votes on a broader corporate-patch rule expected in January 2026."
+      },
+      "ja": {
+        "title": "UNLV、大学スポーツ初の複数種目企業ジャージパッチ契約を締結",
+        "summary": "ネバダ大学ラスベガス校(UNLV)の athletics部門は、ラスベガスを拠点とするアセソ・バイオロジクスと5年・1100万ドルの契約を結び、フットボールや男女バスケットボール、野球のジャージに同社ロゴを掲出することになった。NCAAで複数種目の企業パッチが認められる広範なルールが2026年1月に投票される見通しで、この契約はその採択を見据えたものとなる。"
+      },
+      "es": {
+        "title": "UNLV firma el primer acuerdo multideportivo de parche corporativo en el deporte universitario",
+        "summary": "El departamento de atletismo de UNLV cerró un acuerdo de cinco años y 11 millones de dólares con la empresa de Las Vegas Acesso Biologics, que colocará su logo en las camisetas de fútbol americano, baloncesto masculino y femenino y béisbol, una primicia multideportiva en la NCAA. El acuerdo entraría en pleno vigor tras la votación de la NCAA sobre una norma más amplia de parches corporativos prevista para enero de 2026."
+      },
+      "zh": {
+        "title": "内华达大学拉斯维加斯分校签下NCAA首个多项目企业球衣广告合约",
+        "summary": "UNLV体育部与总部位于拉斯维加斯的Acesso Biologics公司签订为期五年、价值1100万美元的协议，将其标志印在橄榄球、男女篮球及棒球球衣上，成为NCAA首个跨多项目的企业广告贴标合约。该协议预计将在NCAA于2026年1月就更广泛的企业贴标规则进行表决后全面生效。"
+      },
+      "fr": {
+        "title": "UNLV signe le premier contrat multisport de patch publicitaire du sport universitaire",
+        "summary": "Le département sportif d'UNLV a conclu un accord de cinq ans, d'une valeur de 11 millions de dollars, avec l'entreprise de Las Vegas Acesso Biologics, dont le logo figurera sur les maillots de football américain, de basketball masculin et féminin et de baseball, une première multisport dans la NCAA. L'accord doit entrer pleinement en vigueur après le vote de la NCAA sur une règle plus large relative aux patchs d'entreprise, attendu en janvier 2026."
+      }
+    }
+  },
+  {
+    "id": "tim-hortons-nhl-heritage-classic-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2025-12-06T00:00:00Z",
+    "source_name": "NHL.com",
+    "source_url": "https://www.nhl.com/jets/news/release-tim-hortons-nhl-heritage-classictm-returns-to-winnipeg-in-october-2026",
+    "i18n": {
+      "en": {
+        "title": "Tim Hortons Returns as Title Sponsor for 2026 NHL Heritage Classic",
+        "summary": "The NHL confirmed Tim Hortons will again put its name on the Heritage Classic, the league's outdoor regular-season game, as the Winnipeg Jets host the Montreal Canadiens at Princess Auto Stadium on October 25, 2026. It is the seventh time the Canadian coffee-and-donut chain has backed the marquee outdoor event."
+      },
+      "ja": {
+        "title": "ティム・ホートンズ、NHL野外戦『ヘリテージ・クラシック』の2026年版も冠スポンサーに",
+        "summary": "NHLは、リーグの屋外レギュラーシーズン戦『ヘリテージ・クラシック』の名称に再びティム・ホートンズの名を冠することを発表した。2026年10月25日にウィニペグ・ジェッツがプリンセス・オート・スタジアムでモントリオール・カナディアンズを迎える試合で、同チェーンが看板イベントを後援するのは7回目となる。"
+      },
+      "es": {
+        "title": "Tim Hortons vuelve como patrocinador principal del Heritage Classic 2026 de la NHL",
+        "summary": "La NHL confirmó que Tim Hortons volverá a dar su nombre al Heritage Classic, el partido al aire libre de temporada regular de la liga, cuando los Winnipeg Jets reciban a los Montreal Canadiens en el Princess Auto Stadium el 25 de octubre de 2026. Es la séptima vez que la cadena canadiense de café y donas respalda este evento insignia al aire libre."
+      },
+      "zh": {
+        "title": "Tim Hortons再度冠名2026年NHL户外经典赛",
+        "summary": "NHL确认Tim Hortons将再次为联盟的户外常规赛「传统经典赛」冠名，温尼伯喷气机队将于2026年10月25日在Princess Auto体育场主场迎战蒙特利尔加拿大人队。这是这家加拿大咖啡甜品连锁品牌第七次赞助这项标志性户外赛事。"
+      },
+      "fr": {
+        "title": "Tim Hortons revient comme sponsor-titre de la Classique Héritage 2026 de la LNH",
+        "summary": "La LNH a confirmé que Tim Hortons donnera à nouveau son nom à la Classique Héritage, le match de saison régulière disputé en extérieur, alors que les Jets de Winnipeg accueilleront le Canadien de Montréal au Princess Auto Stadium le 25 octobre 2026. Il s'agit de la septième fois que la chaîne canadienne de café et beignets soutient cet événement phare en plein air."
+      }
+    }
+  },
+  {
+    "id": "ntt-indycar-title-sponsor-extension-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "tech"
+    ],
+    "published_at": "2026-05-22T00:00:00Z",
+    "source_name": "ESPN",
+    "source_url": "https://africa.espn.com/racing/story/_/id/48844371/indycar-agrees-multiyear-extension-ntt-title-sponsor",
+    "i18n": {
+      "en": {
+        "title": "IndyCar Agrees to Multiyear Extension With NTT as Series Title Sponsor",
+        "summary": "IndyCar and Japanese telecom giant NTT reached a multiyear extension keeping NTT as the series' title sponsor, a role it has held since 2019, with the announcement timed to the sold-out Indianapolis 500 weekend. Beyond the naming rights, NTT and NTT Data will expand their role to supply AI and data tools for IndyCar and parent company Penske Entertainment."
+      },
+      "ja": {
+        "title": "インディカー、NTTとのタイトルスポンサー契約を複数年延長",
+        "summary": "インディカー・シリーズは、2019年からタイトルスポンサーを務める日本の通信大手NTTとの契約を複数年延長することで合意した。発表は満員となったインディ500開催週末に行われ、NTTおよびNTTデータはインディカーと親会社ペンスキー・エンターテインメントにAIやデータ解析ツールを提供する役割も拡大する。"
+      },
+      "es": {
+        "title": "IndyCar acuerda extender por varios años el patrocinio principal de NTT",
+        "summary": "IndyCar y el gigante japonés de telecomunicaciones NTT alcanzaron una extensión multianual que mantiene a NTT como patrocinador principal de la serie, un rol que ocupa desde 2019, con el anuncio coincidiendo con el fin de semana a sala llena de las 500 Millas de Indianápolis. Además de los derechos de nombre, NTT y NTT Data ampliarán su papel para proveer herramientas de inteligencia artificial y datos a IndyCar y a su matriz, Penske Entertainment."
+      },
+      "zh": {
+        "title": "IndyCar与NTT续签多年冠名赞助协议",
+        "summary": "IndyCar系列赛与日本电信巨头NTT达成多年续约，NTT自2019年起担任该系列赛冠名赞助商的身份得以延续，消息宣布正值一票难求的印第安纳波利斯500周末。除冠名权外，NTT及NTT Data还将扩大角色，为IndyCar及其母公司Penske Entertainment提供人工智能与数据分析工具。"
+      },
+      "fr": {
+        "title": "IndyCar prolonge pour plusieurs années son accord de titre avec NTT",
+        "summary": "IndyCar et le géant japonais des télécommunications NTT ont conclu une prolongation pluriannuelle maintenant NTT comme sponsor-titre de la série, un rôle qu'il occupe depuis 2019, l'annonce coïncidant avec le week-end à guichets fermés des 500 miles d'Indianapolis. Au-delà des droits de nom, NTT et NTT Data élargiront leur rôle en fournissant des outils d'IA et d'analyse de données à IndyCar et à sa société mère, Penske Entertainment."
+      }
+    }
+  },
+  {
+    "id": "whoop-scuderia-ferrari-hp-wearable-partner-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "tech"
+    ],
+    "published_at": "2026-01-19T00:00:00Z",
+    "source_name": "Business Wire",
+    "source_url": "https://www.whoop.com/us/en/press-center/WHOOP-becomes-official-health-and-fitness-wearable-partner-and-team-partner-of-scuderia-ferrari-HP/",
+    "i18n": {
+      "en": {
+        "title": "WHOOP Becomes Official Wearable and Team Partner of Scuderia Ferrari HP",
+        "summary": "Fitness wearable maker WHOOP signed on as the official health and fitness wearable partner and team partner of Scuderia Ferrari HP starting with the 2026 Formula 1 season. The WHOOP logo will appear on the team's cars and drivers as the brand pushes further into motorsport sponsorship."
+      },
+      "ja": {
+        "title": "WHOOP、スクーデリア・フェラーリHPの公式ウェアラブル&チームパートナーに",
+        "summary": "フィットネス・ウェアラブル機器メーカーのWHOOPは、2026年F1シーズンからスクーデリア・フェラーリHPの公式健康・フィットネスウェアラブルパートナー兼チームパートナーとなる契約を発表した。同社のロゴはチームのマシンやドライバーに掲出され、モータースポーツ分野でのスポンサー展開を一段と強化する。"
+      },
+      "es": {
+        "title": "WHOOP se convierte en socio oficial de dispositivos portátiles y de equipo de Scuderia Ferrari HP",
+        "summary": "El fabricante de dispositivos portátiles de fitness WHOOP firmó como socio oficial de salud y fitness portátil y socio de equipo de Scuderia Ferrari HP a partir de la temporada 2026 de Fórmula 1. El logo de WHOOP aparecerá en los monoplazas y en los pilotos del equipo, en un nuevo paso de la marca hacia el patrocinio del motorsport."
+      },
+      "zh": {
+        "title": "WHOOP成为法拉利HP车队官方可穿戴设备及车队合作伙伴",
+        "summary": "健身可穿戴设备制造商WHOOP宣布自2026赛季起成为法拉利HP车队官方健康与健身可穿戴设备合作伙伴及车队合作伙伴。WHOOP的标志将出现在车队赛车和车手身上，标志着该品牌在赛车运动赞助领域的进一步扩张。"
+      },
+      "fr": {
+        "title": "WHOOP devient partenaire officiel des objets connectés et partenaire d'équipe de la Scuderia Ferrari HP",
+        "summary": "Le fabricant d'objets connectés de fitness WHOOP a signé en tant que partenaire officiel santé et fitness et partenaire d'équipe de la Scuderia Ferrari HP à partir de la saison 2026 de Formule 1. Le logo WHOOP figurera sur les monoplaces et les pilotes de l'équipe, la marque poursuivant son expansion dans le parrainage du sport automobile."
+      }
+    }
+  },
+  {
+    "id": "jleague-regional-partner-category-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-07-01T00:00:00Z",
+    "source_name": "J.League",
+    "source_url": "https://www.jleague.jp/corporate/en/news/article/47",
+    "i18n": {
+      "en": {
+        "title": "J.League Launches New 'Regional Partner' Sponsorship Category",
+        "summary": "J.League established a new 'J.League Regional Partner' tier under its official partner structure starting in July 2026, aimed at building commercial ties abroad as part of its 'Next 10 Years' growth strategy. The category is designed to let regionally focused companies support the league's push to expand its brand and partnerships across Asia and beyond."
+      },
+      "ja": {
+        "title": "Jリーグ、新スポンサー区分『リージョナルパートナー』を新設",
+        "summary": "Jリーグは2026年7月から、公式パートナー制度の下に新たな区分『Jリーグ リージョナルパートナー』を新設した。『Next 10 Years』の成長戦略の一環として、海外での商業的な結びつきを強化することを目的とし、地域に根ざした企業がアジアをはじめとする国際展開を後押しできるようにする仕組みとなっている。"
+      },
+      "es": {
+        "title": "La J.League crea una nueva categoría de patrocinio 'Socio Regional'",
+        "summary": "La J.League estableció desde julio de 2026 una nueva categoría, 'J.League Regional Partner', dentro de su estructura de socios oficiales, con el objetivo de forjar vínculos comerciales en el extranjero como parte de su estrategia de crecimiento 'Next 10 Years'. La categoría está pensada para que empresas con enfoque regional respalden la expansión de la marca y las alianzas de la liga en Asia y más allá."
+      },
+      "zh": {
+        "title": "J联赛推出新的赞助类别「区域合作伙伴」",
+        "summary": "J联赛从2026年7月起在官方合作伙伴体系下新设「J联赛区域合作伙伴」类别，作为其「未来十年」增长战略的一部分，旨在加强与海外的商业联系。该类别旨在让具有区域影响力的企业支持联赛在亚洲及其他地区拓展品牌与合作关系。"
+      },
+      "fr": {
+        "title": "La J.League lance une nouvelle catégorie de sponsoring « Partenaire régional »",
+        "summary": "La J.League a créé, à partir de juillet 2026, une nouvelle catégorie « J.League Regional Partner » au sein de sa structure de partenaires officiels, dans le but de tisser des liens commerciaux à l'étranger dans le cadre de sa stratégie de croissance « Next 10 Years ». Cette catégorie doit permettre à des entreprises à vocation régionale de soutenir l'expansion de la marque et des partenariats de la ligue en Asie et au-delà."
+      }
+    }
+  },
+  {
+    "id": "jleague-yamazaki-biscuits-levain-cup-2026-27",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-06-22T00:00:00Z",
+    "source_name": "J.League",
+    "source_url": "https://www.jleague.jp/news/article/34250/",
+    "i18n": {
+      "en": {
+        "title": "J.League Renews Yamazaki Biscuits as League Cup Title Partner, Renames Tournament",
+        "summary": "J.League confirmed Yamazaki Biscuits Co. will continue as title partner of its league cup for the 2026/27 season, the 34th consecutive edition the confectionery maker has backed since the competition's 1992 debut. The tournament will be renamed the 'J.League Yamazaki Biscuits Levain Cup' with a refreshed logo inspired by the packaging of its Levain snack line."
+      },
+      "ja": {
+        "title": "Jリーグ、リーグカップのタイトルパートナーにヤマザキビスケットが継続、大会名称を変更",
+        "summary": "Jリーグは、2026/27シーズンのリーグカップ戦のタイトルパートナーとしてヤマザキビスケット株式会社との契約継続を発表した。1992年の第1回大会から数えて34回連続の契約となり、大会名称は『Jリーグ ヤマザキビスケット ルヴァンカップ』に変更され、同社の『ルヴァン』シリーズのパッケージを意識した新ロゴも導入される。"
+      },
+      "es": {
+        "title": "La J.League renueva a Yamazaki Biscuits como patrocinador de su copa de liga y renombra el torneo",
+        "summary": "La J.League confirmó que Yamazaki Biscuits Co. continuará como patrocinador principal de su copa de liga para la temporada 2026/27, la 34ª edición consecutiva respaldada por el fabricante de galletas desde el debut del torneo en 1992. La competición pasará a llamarse 'J.League Yamazaki Biscuits Levain Cup', con un logo renovado inspirado en el empaque de su línea de snacks Levain."
+      },
+      "zh": {
+        "title": "J联赛续签山崎饼干为联赛杯冠名赞助商并更改赛事名称",
+        "summary": "J联赛宣布山崎饼干株式会社将继续担任2026/27赛季联赛杯的冠名赞助商，这是该饼干制造商自1992年赛事创立以来连续第34次赞助。该赛事将更名为「J联赛山崎饼干勒旺杯」，并采用灵感源自其Levain零食系列包装的全新标志。"
+      },
+      "fr": {
+        "title": "La J.League renouvelle Yamazaki Biscuits comme sponsor-titre de sa coupe de ligue et renomme le tournoi",
+        "summary": "La J.League a confirmé que Yamazaki Biscuits Co. restera sponsor-titre de sa coupe de ligue pour la saison 2026/27, une 34e édition consécutive soutenue par le fabricant de biscuits depuis les débuts de la compétition en 1992. Le tournoi sera renommé « J.League Yamazaki Biscuits Levain Cup », avec un nouveau logo inspiré de l'emballage de sa gamme de snacks Levain."
+      }
+    }
   }
 ]
