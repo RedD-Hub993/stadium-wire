@@ -6899,5 +6899,348 @@
         "summary": "La marque de coiffage Success de Kao Corporation est devenue sponsor officiel de la série du championnat japonais SUPER GT pour la saison 2026, apposant son logo sur les autocollants de poids-handicap utilisés sur toute la grille. Cette campagne, que Kao présente comme destinée à encourager tous ceux qui poursuivent leur propre « succès », est mise en avant lors de manches comme celle de Suzuka."
       }
     }
+  },
+  {
+    "id": "valencia-nou-mestalla-maxamaze-founding-partner",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "tech",
+      "sponsor"
+    ],
+    "published_at": "2025-11-06T00:00:00Z",
+    "source_name": "Valencia CF",
+    "source_url": "https://www.valenciacf.com/maxamaze-become-founding-partner-of-nou-mestalla-to-create-immersive-and-spectacular-fan-experience",
+    "i18n": {
+      "en": {
+        "title": "MaxAmaze becomes founding tech partner of Valencia's new Nou Mestalla",
+        "summary": "Valencia CF named Belgian immersive-technology firm MaxAmaze as a founding partner of its new Nou Mestalla stadium, set to open in summer 2027. MaxAmaze will build an integrated audiovisual system including roughly 300 LED projectors and more than 500 square meters of 360-degree perimeter LED panels around the pitch, plus two large screens behind each goal, to create an immersive fan experience."
+      },
+      "ja": {
+        "title": "MaxAmaze、バレンシアの新スタジアム「ノウ・メスタージャ」のファウンディングパートナーに",
+        "summary": "バレンシアCFは、2027年夏に開業予定の新スタジアム「ノウ・メスタージャ」のファウンディングパートナーとして、ベルギーの体験型技術企業MaxAmazeを選定した。MaxAmazeは約300台のLEDプロジェクターと、ピッチを囲む500平方メートル超の360度LEDパネル、両ゴール裏の大型スクリーン2面を含む統合映像システムを構築し、臨場感あるファン体験を提供する。"
+      },
+      "es": {
+        "title": "MaxAmaze, socio fundador tecnológico del nuevo Nou Mestalla del Valencia",
+        "summary": "Valencia CF ha nombrado a la empresa belga de tecnología inmersiva MaxAmaze como socio fundador de su nuevo estadio Nou Mestalla, cuya apertura está prevista para el verano de 2027. MaxAmaze instalará un sistema audiovisual integrado con unos 300 proyectores LED y más de 500 metros cuadrados de paneles LED perimetrales de 360 grados alrededor del campo, además de dos grandes pantallas detrás de cada portería, para crear una experiencia inmersiva para los aficionados."
+      },
+      "zh": {
+        "title": "MaxAmaze成为瓦伦西亚新球场诺乌梅斯塔亚的创始技术合作伙伴",
+        "summary": "瓦伦西亚足球俱乐部宣布比利时沉浸式技术公司MaxAmaze成为新主场诺乌梅斯塔亚球场的创始合作伙伴，该球场预计于2027年夏季启用。MaxAmaze将打造一套综合视听系统，包括约300台LED投影设备、环绕球场逾500平方米的360度LED环屏，以及两个龙门后方的大型屏幕，为球迷带来沉浸式观赛体验。"
+      },
+      "fr": {
+        "title": "MaxAmaze, partenaire technologique fondateur du nouveau Nou Mestalla de Valence",
+        "summary": "Le Valencia CF a désigné l'entreprise belge de technologie immersive MaxAmaze comme partenaire fondateur de son nouveau stade, le Nou Mestalla, dont l'ouverture est prévue à l'été 2027. MaxAmaze installera un système audiovisuel intégré comprenant environ 300 projecteurs LED, plus de 500 mètres carrés d'écrans LED périphériques à 360 degrés autour du terrain, ainsi que deux grands écrans derrière chaque but, pour offrir une expérience immersive aux supporters."
+      }
+    }
+  },
+  {
+    "id": "spire-healthcare-team-gb-la28-partner",
+    "sport": "olympics",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-07-15T00:00:00Z",
+    "source_name": "Team GB",
+    "source_url": "https://www.teamgb.com/article/spire-healthcare-team-gb-healthcare-services-partner/3plM8RqnqpJH90CV6mP11j",
+    "i18n": {
+      "en": {
+        "title": "Spire Healthcare named exclusive Team GB healthcare partner through LA28",
+        "summary": "Spire Healthcare has been named the exclusive Official Healthcare Services Partner of Team GB through the Los Angeles 2028 Olympics. The UK private hospital group, which operates 38 hospitals and more than 60 clinics, will support British athletes and run a multi-channel marketing campaign encouraging healthier, more active lifestyles nationwide."
+      },
+      "ja": {
+        "title": "スパイア・ヘルスケア、ロス28まで英チームGBの公式ヘルスケアパートナーに",
+        "summary": "スパイア・ヘルスケアが、ロサンゼルス2028オリンピックまでの期間、英国代表「チームGB」の公式ヘルスケアサービスパートナーに独占契約で就任した。38の病院と60以上のクリニックを運営する同社は英国代表選手を支援するとともに、テレビやデジタルなど複数チャネルを通じて国民の健康的で活動的な生活を促すマーケティング活動を展開する。"
+      },
+      "es": {
+        "title": "Spire Healthcare, socio sanitario exclusivo del Team GB hasta LA28",
+        "summary": "Spire Healthcare ha sido nombrada socio exclusivo de servicios sanitarios oficial del Team GB hasta los Juegos Olímpicos de Los Ángeles 2028. El grupo hospitalario privado británico, que opera 38 hospitales y más de 60 clínicas, apoyará a los deportistas británicos y llevará a cabo una campaña de marketing multicanal para fomentar estilos de vida más saludables y activos en todo el país."
+      },
+      "zh": {
+        "title": "Spire Healthcare成为英国队截至洛杉矶奥运的独家医疗合作伙伴",
+        "summary": "英国私立医疗集团Spire Healthcare已成为英国代表队\"Team GB\"截至2028年洛杉矶奥运会期间的独家官方医疗服务合作伙伴。该集团运营着38家医院及60多家诊所，将为英国运动员提供支持，并开展覆盖电视、数字媒体等多渠道的营销活动，倡导全民更健康、更积极的生活方式。"
+      },
+      "fr": {
+        "title": "Spire Healthcare, partenaire santé exclusif de Team GB jusqu'à LA28",
+        "summary": "Spire Healthcare a été nommé partenaire officiel exclusif des services de santé de Team GB jusqu'aux Jeux olympiques de Los Angeles 2028. Ce groupe hospitalier privé britannique, qui exploite 38 hôpitaux et plus de 60 cliniques, soutiendra les athlètes britanniques et mènera une campagne marketing multicanale pour encourager des modes de vie plus sains et actifs à travers le pays."
+      }
+    }
+  },
+  {
+    "id": "cosm-monster-energy-venue-sponsor",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "tech",
+      "fan"
+    ],
+    "published_at": "2026-01-22T00:00:00Z",
+    "source_name": "BevNET",
+    "source_url": "https://bevnet.com/pr/2026/01/22/cosm-and-monster-energy-announce-multiyear-sponsorship-to-fuel-fan-experience-across-all-cosm-venues",
+    "i18n": {
+      "en": {
+        "title": "Cosm names Monster Energy its first-ever venue sponsor",
+        "summary": "Immersive \"shared reality\" venue operator Cosm signed a multi-year deal naming Monster Energy its first-ever venue sponsor, branding the drink maker the \"Official Energy Drink Partner\" across all Cosm locations. In June 2026 the pair debuted what they called the first full-dome immersive advertisement, filling Cosm's 87-foot LED dome with Monster Energy branding during a live UFC broadcast at its Los Angeles, Dallas and Atlanta venues."
+      },
+      "ja": {
+        "title": "Cosm、モンスターエナジーを初の会場スポンサーに",
+        "summary": "臨場感型「シェアード・リアリティ」会場を運営するCosmは、モンスターエナジーと複数年契約を結び、全Cosm拠点における初の会場スポンサー「オフィシャル・エナジードリンク・パートナー」に任命した。2026年6月には両社が「初のフルドーム型臨場感広告」と呼ぶ企画を実施し、ロサンゼルス、ダラス、アトランタの各拠点でUFCの生中継中に直径87フィートのLEDドーム全体にモンスターエナジーのブランディングを映し出した。"
+      },
+      "es": {
+        "title": "Cosm nombra a Monster Energy su primer patrocinador de sede",
+        "summary": "El operador de espacios inmersivos de \"realidad compartida\" Cosm firmó un acuerdo plurianual que convierte a Monster Energy en su primer patrocinador de sede, nombrándolo \"Socio Oficial de Bebidas Energéticas\" en todas sus sedes. En junio de 2026, ambas empresas presentaron lo que llamaron el primer anuncio inmersivo de cúpula completa, cubriendo la cúpula LED de 27 metros de Cosm con la marca Monster Energy durante una transmisión en vivo de UFC en sus sedes de Los Ángeles, Dallas y Atlanta."
+      },
+      "zh": {
+        "title": "Cosm将魔爪能量饮料列为首位场馆赞助商",
+        "summary": "沉浸式\"共享现实\"场馆运营商Cosm与魔爪能量饮料签订多年合作协议，使其成为Cosm旗下所有场馆的首位场馆赞助商，获得\"官方能量饮料合作伙伴\"称号。2026年6月，双方推出所谓\"首个全穹顶沉浸式广告\"，在洛杉矶、达拉斯和亚特兰大三地场馆的UFC直播期间，将直径87英尺的LED穹顶整体呈现魔爪能量饮料品牌画面。"
+      },
+      "fr": {
+        "title": "Cosm fait de Monster Energy son premier sponsor de salle",
+        "summary": "L'exploitant de lieux immersifs en « réalité partagée » Cosm a signé un accord pluriannuel faisant de Monster Energy son premier sponsor de salle, le désignant « partenaire officiel des boissons énergisantes » dans tous ses sites. En juin 2026, les deux entreprises ont lancé ce qu'elles ont présenté comme la première publicité immersive en dôme complet, recouvrant le dôme LED de 27 mètres de Cosm de la marque Monster Energy lors d'une diffusion en direct de l'UFC dans ses sites de Los Angeles, Dallas et Atlanta."
+      }
+    }
+  },
+  {
+    "id": "fifa-dubai-sports-council-annual-awards",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2025-12-29T00:00:00Z",
+    "source_name": "FIFA",
+    "source_url": "https://inside.fifa.com/organisation/media-releases/dubai-sports-council-partnership-agreement-new-awards-best-football-annually",
+    "i18n": {
+      "en": {
+        "title": "FIFA and Dubai Sports Council to stage new annual football awards",
+        "summary": "FIFA and the Dubai Sports Council signed a memorandum of understanding making Dubai the host city for a new annual FIFA awards ceremony celebrating the best in football, starting in December 2026. The agreement, signed at the World Sports Summit in Dubai, replaces FIFA's previous \"Best\" awards format with a Dubai-hosted event recognizing top players, teams and achievements from the preceding year."
+      },
+      "ja": {
+        "title": "FIFAとドバイ・スポーツ・カウンシル、新たな年次サッカー表彰式を開催へ",
+        "summary": "FIFAとドバイ・スポーツ・カウンシルは覚書を締結し、2026年12月から始まる新たな年次表彰式「FIFAアワード」の開催地にドバイを定めた。ドバイで開催された「ワールド・スポーツ・サミット」で署名されたこの合意により、従来の「ベストFIFAフットボールアワード」形式に代わり、前年の優秀選手・チーム・業績を表彰する新形式のイベントがドバイで開催される。"
+      },
+      "es": {
+        "title": "la FIFA y el Consejo de Deportes de Dubái celebrarán nuevos premios anuales de fútbol",
+        "summary": "La FIFA y el Consejo de Deportes de Dubái firmaron un memorando de entendimiento por el que Dubái se convierte en la ciudad anfitriona de una nueva ceremonia anual de premios de la FIFA que reconocerá lo mejor del fútbol, a partir de diciembre de 2026. El acuerdo, firmado en la Cumbre Mundial del Deporte en Dubái, sustituye el anterior formato de premios \"Best\" de la FIFA por un evento celebrado en Dubái que distingue a los mejores jugadores, equipos y logros del año anterior."
+      },
+      "zh": {
+        "title": "国际足联与迪拜体育理事会将举办新的年度足球颁奖典礼",
+        "summary": "国际足联与迪拜体育理事会签署合作备忘录，确定迪拜将成为新设年度足球颁奖典礼的主办城市，表彰足坛年度最佳，首届将于2026年12月举行。该协议在迪拜举行的\"世界体育峰会\"上签署，取代此前的\"国际足联最佳奖\"形式，改为在迪拜举办表彰上一年度最佳球员、球队及成就的新活动。"
+      },
+      "fr": {
+        "title": "La FIFA et le Conseil des sports de Dubaï organiseront de nouveaux prix annuels du football",
+        "summary": "La FIFA et le Conseil des sports de Dubaï ont signé un protocole d'accord faisant de Dubaï la ville hôte d'une nouvelle cérémonie annuelle de remise de prix de la FIFA récompensant les meilleurs du football, à partir de décembre 2026. Cet accord, signé lors du Sommet mondial du sport à Dubaï, remplace l'ancien format des prix « Best » de la FIFA par un événement organisé à Dubaï distinguant les meilleurs joueurs, équipes et performances de l'année précédente."
+      }
+    }
+  },
+  {
+    "id": "french-alps-2030-ceo-linette-resigns",
+    "sport": "olympics",
+    "region": "global",
+    "topics": [
+      "biz",
+      "team"
+    ],
+    "published_at": "2026-02-25T00:00:00Z",
+    "source_name": "Associated Press",
+    "source_url": "https://www.smdailyjournal.com/sports/turmoil-hit-2030-french-alps-olympics-lose-ceo-cyril-linette-in-leadership-shake-up/article_a3cec4d3-696b-59e0-9944-a25e3f801b5b.html",
+    "i18n": {
+      "en": {
+        "title": "French Alps 2030 Olympic organizers lose CEO Cyril Linette",
+        "summary": "Cyril Linette has resigned as chief executive of the organizing committee for the 2030 Winter Olympics in the French Alps, following a reported clash with committee president Edgar Grospiron over the Games' direction. Linette, appointed to the role last year, is the fourth senior executive to leave the organizing committee in two months amid concerns over the Games' tight budget and construction timeline."
+      },
+      "ja": {
+        "title": "仏アルプス2030冬季大会、リネットCEOが辞任",
+        "summary": "フランス・アルプスで開催予定の2030年冬季オリンピック組織委員会のシリル・リネットCEOが辞任した。大会の方向性をめぐりエドガー・グロスピロン委員長との対立が報じられていた。昨年就任したリネット氏は、予算の厳しさや施設整備の時間的制約への懸念が広がる中、過去2か月で組織委員会を去った4人目の幹部となった。"
+      },
+      "es": {
+        "title": "Los organizadores de los Alpes franceses 2030 pierden a su director ejecutivo Cyril Linette",
+        "summary": "Cyril Linette ha dimitido como director ejecutivo del comité organizador de los Juegos Olímpicos de Invierno de 2030 en los Alpes franceses, tras un enfrentamiento reportado con el presidente del comité, Edgar Grospiron, sobre la dirección de los Juegos. Linette, nombrado para el cargo el año pasado, es el cuarto alto directivo que abandona el comité organizador en dos meses, en medio de preocupaciones por el ajustado presupuesto y el calendario de construcción de los Juegos."
+      },
+      "zh": {
+        "title": "法国阿尔卑斯2030冬奥会组委会首席执行官利内特辞职",
+        "summary": "法国阿尔卑斯2030年冬奥会组织委员会首席执行官西里尔·利内特已辞职，此前有报道称他与委员会主席埃德加·格罗斯皮隆在赛事方向上存在矛盾。利内特于去年获任该职位，是两个月内第四位离开组委会的高层人士，外界对赛事预算紧张及场馆建设时间表的担忧持续升温。"
+      },
+      "fr": {
+        "title": "Les organisateurs des Alpes françaises 2030 perdent leur directeur général Cyril Linette",
+        "summary": "Cyril Linette a démissionné de son poste de directeur général du comité d'organisation des Jeux olympiques d'hiver 2030 dans les Alpes françaises, après un désaccord rapporté avec le président du comité, Edgar Grospiron, sur l'orientation des Jeux. Linette, nommé à ce poste l'année dernière, est le quatrième cadre dirigeant à quitter le comité d'organisation en deux mois, dans un contexte d'inquiétudes sur le budget serré et le calendrier de construction des Jeux."
+      }
+    }
+  },
+  {
+    "id": "nascar-freeway-insurance-premier-partner",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2025-10-31T00:00:00Z",
+    "source_name": "NASCAR.com",
+    "source_url": "https://www.nascar.com/news-media/2025/10/31/freeway-insurance-joins-nascar-as-premier-partner-in-cup-series/",
+    "i18n": {
+      "en": {
+        "title": "Freeway Insurance becomes NASCAR's fourth Premier Partner",
+        "summary": "Freeway Insurance signed a multi-year deal to become NASCAR's fourth Premier Partner, joining Coca-Cola, Busch Light and Xfinity in the series' top sponsorship tier starting with the 2026 season. The deal also makes Freeway Insurance the entitlement sponsor of the fall NASCAR Cup Series Playoff race at Phoenix Raceway, which will be renamed the Freeway Insurance 500."
+      },
+      "ja": {
+        "title": "フリーウェイ・インシュランス、NASCAR第4のプレミアパートナーに",
+        "summary": "フリーウェイ・インシュランスは複数年契約を締結し、2026年シーズンからコカ・コーラ、バッシュ・ライト、エクスフィニティに続くNASCAR第4のプレミアパートナーとなった。この契約により、同社はNASCARカップシリーズのプレーオフ秋季レース（フェニックス・レースウェイ）のネーミングライツも獲得し、レース名は「フリーウェイ・インシュランス500」に改称される。"
+      },
+      "es": {
+        "title": "Freeway Insurance se convierte en el cuarto Socio Premier de NASCAR",
+        "summary": "Freeway Insurance firmó un acuerdo plurianual para convertirse en el cuarto Socio Premier de NASCAR, uniéndose a Coca-Cola, Busch Light y Xfinity en el nivel más alto de patrocinio de la serie a partir de la temporada 2026. El acuerdo también convierte a Freeway Insurance en el patrocinador titular de la carrera de los playoffs de otoño de la NASCAR Cup Series en Phoenix Raceway, que pasará a llamarse Freeway Insurance 500."
+      },
+      "zh": {
+        "title": "Freeway Insurance成为NASCAR第四家顶级合作伙伴",
+        "summary": "Freeway Insurance签署多年协议，成为NASCAR第四家\"顶级合作伙伴\"，与可口可乐、Busch Light及Xfinity一同跻身该系列赛最高级别赞助梯队，合作自2026赛季起生效。该协议还使Freeway Insurance获得凯普系列赛秋季季后赛（凤凰城赛道站）的冠名权，该站比赛将改名为\"Freeway Insurance 500\"。"
+      },
+      "fr": {
+        "title": "Freeway Insurance devient le quatrième partenaire Premier de NASCAR",
+        "summary": "Freeway Insurance a signé un accord pluriannuel pour devenir le quatrième partenaire « Premier » de NASCAR, rejoignant Coca-Cola, Busch Light et Xfinity au plus haut niveau de parrainage de la série à partir de la saison 2026. Cet accord fait également de Freeway Insurance le sponsor titulaire de la course des playoffs d'automne de la NASCAR Cup Series à Phoenix Raceway, qui sera rebaptisée Freeway Insurance 500."
+      }
+    }
+  },
+  {
+    "id": "miami-open-2026-sponsor-portfolio",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-02-25T00:00:00Z",
+    "source_name": "Miami Open",
+    "source_url": "https://www.miamiopen.com/?p=1792261",
+    "i18n": {
+      "en": {
+        "title": "Miami Open expands 2026 sponsor portfolio with Pirelli, Thorne and more",
+        "summary": "The Miami Open announced a wave of new partners for its 2026 edition, running March 15-29 at Hard Rock Stadium, including tire maker Pirelli, wellness brand Thorne, Brazilian tech firm CRMBonus, Purina Pro Plan, eyewear label Oliver Peoples, travel agency MundoTenis Tours and Vanda Pharmaceuticals. Pirelli will track serve speeds with on-court visibility and digital fan-engagement activations, while Thorne becomes the tournament's exclusive vitamins and supplements partner."
+      },
+      "ja": {
+        "title": "マイアミ・オープン、2026年大会でピレリ・ソーンなど新パートナーを発表",
+        "summary": "マイアミ・オープンは、2026年大会（3月15〜29日、ハードロック・スタジアム開催）に向けた新パートナー群を発表した。タイヤメーカーのピレリ、ウェルネスブランドのソーン、ブラジルのテック企業CRMBonus、ピュリナ・プロプラン、アイウェアブランドのオリバーピープルズ、旅行会社MundoTenis Tours、バンダ・ファーマシューティカルズなどが含まれる。ピレリはコート上でサーブスピードを計測・表示するほか、デジタルを使ったファン向け施策を展開し、ソーンは大会唯一のビタミン・サプリメントパートナーとなる。"
+      },
+      "es": {
+        "title": "El Miami Open amplía su cartera de patrocinadores 2026 con Pirelli, Thorne y más",
+        "summary": "El Miami Open anunció una serie de nuevos socios para su edición de 2026, que se celebrará del 15 al 29 de marzo en el Hard Rock Stadium, entre ellos el fabricante de neumáticos Pirelli, la marca de bienestar Thorne, la empresa tecnológica brasileña CRMBonus, Purina Pro Plan, la marca de gafas Oliver Peoples, la agencia de viajes MundoTenis Tours y Vanda Pharmaceuticals. Pirelli medirá la velocidad de los saques con visibilidad en pista y activaciones digitales para los aficionados, mientras que Thorne se convierte en el socio exclusivo de vitaminas y suplementos del torneo."
+      },
+      "zh": {
+        "title": "迈阿密公开赛公布2026年新一批赞助商：倍耐力、Thorne等",
+        "summary": "迈阿密公开赛公布了2026年赛事（3月15日至29日，于硬石体育场举行）的一批新合作伙伴，包括轮胎制造商倍耐力、健康品牌Thorne、巴西科技公司CRMBonus、Purina Pro Plan、眼镜品牌Oliver Peoples、旅行社MundoTenis Tours以及Vanda Pharmaceuticals。倍耐力将在场边展示发球速度数据并开展数字化球迷互动活动，Thorne则成为赛事唯一的维生素与营养补充剂合作伙伴。"
+      },
+      "fr": {
+        "title": "L'Open de Miami étoffe son portefeuille de sponsors 2026 avec Pirelli, Thorne et d'autres",
+        "summary": "L'Open de Miami a annoncé une série de nouveaux partenaires pour son édition 2026, qui se déroulera du 15 au 29 mars au Hard Rock Stadium, dont le fabricant de pneus Pirelli, la marque de bien-être Thorne, l'entreprise technologique brésilienne CRMBonus, Purina Pro Plan, la marque de lunettes Oliver Peoples, l'agence de voyages MundoTenis Tours et Vanda Pharmaceuticals. Pirelli affichera la vitesse des services sur le court et mènera des activations numériques destinées aux supporters, tandis que Thorne devient le partenaire exclusif de vitamines et compléments du tournoi."
+      }
+    }
+  },
+  {
+    "id": "shanghai-fiba-3x3-womens-series-host-2028",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "biz",
+      "fan"
+    ],
+    "published_at": "2025-06-13T00:00:00Z",
+    "source_name": "FIBA",
+    "source_url": "https://www.fiba.basketball/en/news/Seven-teams-already-qualify-for-fiba-3x3-womens-series-project-redwings-shanghai-final-2026",
+    "i18n": {
+      "en": {
+        "title": "Shanghai secures FIBA 3x3 Women's Series Final through 2028",
+        "summary": "FIBA and Project Redwings Sports Management signed an agreement securing Shanghai's Xuhui district as host of the FIBA 3x3 Women's Series Final for four consecutive years, from 2025 through 2028. The finals are staged at the West Bund area, with the arrangement giving the Chinese city a multi-year anchor event in the growing women's 3x3 basketball calendar."
+      },
+      "ja": {
+        "title": "上海、FIBA 3x3女子シリーズ決勝の開催権を2028年まで確保",
+        "summary": "FIBA（国際バスケットボール連盟）とプロジェクト・レッドウィングス・スポーツ・マネジメントは、上海市徐匯区を2025年から2028年まで4年連続でFIBA 3x3女子シリーズ決勝の開催地とする契約を締結した。決勝戦は西岸（ウェストバンド）エリアで開催され、これにより上海は拡大を続ける女子3x3バスケットボールカレンダーにおいて複数年にわたる中核イベントを確保した。"
+      },
+      "es": {
+        "title": "Shanghái asegura la Final de la Serie Femenina de 3x3 de la FIBA hasta 2028",
+        "summary": "FIBA y Project Redwings Sports Management firmaron un acuerdo que asegura que el distrito de Xuhui, en Shanghái, sea la sede de la Final de la Serie Femenina de 3x3 de la FIBA durante cuatro ediciones consecutivas, de 2025 a 2028. Las finales se disputan en la zona de West Bund, lo que otorga a la ciudad china un evento ancla de varios años en el creciente calendario del baloncesto femenino 3x3."
+      },
+      "zh": {
+        "title": "上海锁定FIBA三人篮球女子系列赛总决赛至2028年",
+        "summary": "国际篮联（FIBA）与Project Redwings体育管理公司签署协议，确定上海市徐汇区将连续四届（2025年至2028年）主办FIBA三人篮球女子系列赛总决赛。总决赛在西岸地区举行，使这座中国城市在不断壮大的女子三人篮球赛事日程中拥有了一项多年期的锚点赛事。"
+      },
+      "fr": {
+        "title": "Shanghai s'assure la finale de la FIBA 3x3 Women's Series jusqu'en 2028",
+        "summary": "La FIBA et Project Redwings Sports Management ont signé un accord faisant du district de Xuhui, à Shanghai, l'hôte de la finale de la FIBA 3x3 Women's Series pendant quatre éditions consécutives, de 2025 à 2028. Les finales se déroulent dans le quartier de West Bund, offrant à la ville chinoise un événement phare pluriannuel dans le calendrier en plein essor du basket-ball féminin 3x3."
+      }
+    }
+  },
+  {
+    "id": "jleague-mufg-top-partner-platinum-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-03-12T00:00:00Z",
+    "source_name": "J.League",
+    "source_url": "https://www.jleague.jp/corporate/pressrelease/article/15895",
+    "i18n": {
+      "en": {
+        "title": "MUFG Bank deepens J.League ties with new Top and Platinum Partner deals",
+        "summary": "MUFG Bank signed a new J.League Top Partner agreement alongside an all-star-level \"Platinum Partner\" deal, deepening its sponsorship of Japan's top soccer division starting in April 2026. The partnership will fund regional collaboration projects with J.League clubs and joint financial-digital-transformation initiatives between the bank and the league."
+      },
+      "ja": {
+        "title": "三菱UFJ銀行、Jリーグとのトップ・プラチナ契約で提携強化",
+        "summary": "三菱UFJ銀行はJリーグとの新たなトップパートナー契約に加え、オールスター級の「プラチナパートナー」契約を締結し、2026年4月からJリーグへのスポンサーシップを強化する。この提携により、Jクラブとの地域連携プロジェクトや、同行とJリーグによる金融DX（デジタル変革）に関する共同の取り組みへの資金提供が行われる。"
+      },
+      "es": {
+        "title": "MUFG Bank refuerza sus lazos con la J.League con nuevos acuerdos Top y Platinum Partner",
+        "summary": "MUFG Bank firmó un nuevo acuerdo como Top Partner de la J.League, además de un contrato de nivel \"Platinum Partner\" (asociado a eventos All-Star), profundizando su patrocinio de la máxima división del fútbol japonés a partir de abril de 2026. La asociación financiará proyectos de colaboración regional con los clubes de la J.League y iniciativas conjuntas de transformación digital financiera entre el banco y la liga."
+      },
+      "zh": {
+        "title": "三菱UFJ银行通过新的顶级与白金合作伙伴协议深化与J联赛关系",
+        "summary": "三菱UFJ银行与J联赛签署新的\"顶级合作伙伴\"协议，并额外签下全明星级别的\"白金合作伙伴\"协议，自2026年4月起进一步深化对日本顶级足球联赛的赞助。此次合作将为J联赛俱乐部的地区合作项目提供资金支持，并推动该银行与联赛之间的金融数字化转型联合举措。"
+      },
+      "fr": {
+        "title": "MUFG Bank renforce ses liens avec la J.League via de nouveaux accords Top et Platinum Partner",
+        "summary": "La MUFG Bank a signé un nouvel accord de Top Partner avec la J.League, assorti d'un contrat de niveau « Platinum Partner » lié aux événements All-Star, renforçant son parrainage de la première division du football japonais à partir d'avril 2026. Ce partenariat financera des projets de collaboration régionale avec les clubs de J.League ainsi que des initiatives conjointes de transformation numérique financière entre la banque et la ligue."
+      }
+    }
+  },
+  {
+    "id": "nissan-stadium-yokohama-naming-renewal-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2025-11-17T00:00:00Z",
+    "source_name": "FRIDAY (Jprime)",
+    "source_url": "https://www.jprime.jp/articles/-/39303",
+    "i18n": {
+      "en": {
+        "title": "Yokohama and Nissan finalize reduced Nissan Stadium naming-rights renewal",
+        "summary": "The city of Yokohama and Nissan Motor finalized a reduced naming-rights renewal for Nissan Stadium, home of J.League club Yokohama F. Marinos, covering a five-year term from March 2026 to February 2031 worth roughly 650 million yen. The new fee marks a sharp cut from the previous deal, reflecting Nissan's financial difficulties and reported considerations about its stake in the Marinos."
+      },
+      "ja": {
+        "title": "横浜市と日産、日産スタジアムの命名権を減額更新",
+        "summary": "横浜市と日産自動車は、Jリーグ・横浜F・マリノスの本拠地「日産スタジアム」の命名権契約を、2026年3月から2031年2月までの5年間、総額約6億5000万円で更新することで合意した。新たな契約金額は従来の契約から大幅に減額されており、日産の業績不振やマリノス株式保有についての見直し報道を反映した内容となっている。"
+      },
+      "es": {
+        "title": "Yokohama y Nissan finalizan una renovación reducida de los derechos de denominación del Estadio Nissan",
+        "summary": "La ciudad de Yokohama y Nissan Motor finalizaron la renovación de los derechos de denominación del Estadio Nissan, sede del club de la J.League Yokohama F. Marinos, por un periodo de cinco años desde marzo de 2026 hasta febrero de 2031, con un valor de aproximadamente 650 millones de yenes. La nueva cifra representa un fuerte recorte respecto al acuerdo anterior, lo que refleja las dificultades financieras de Nissan y los informes sobre una posible revisión de su participación en el Marinos."
+      },
+      "zh": {
+        "title": "横滨市与日产就日产体育场冠名权缩水续约",
+        "summary": "横滨市与日产汽车就\"日产体育场\"（J联赛球队横滨水手主场）的冠名权续约达成协议，新协议为期五年（2026年3月至2031年2月），总金额约6.5亿日元。新费用较此前合同大幅削减，反映出日产当前的财务困境，也与有关其考虑调整所持水手队股份的报道相呼应。"
+      },
+      "fr": {
+        "title": "Yokohama et Nissan finalisent un renouvellement réduit des droits de dénomination du Nissan Stadium",
+        "summary": "La ville de Yokohama et Nissan Motor ont finalisé le renouvellement des droits de dénomination du Nissan Stadium, domicile du club de J.League Yokohama F. Marinos, pour une durée de cinq ans de mars 2026 à février 2031, pour un montant d'environ 650 millions de yens. Ce nouveau montant marque une forte baisse par rapport à l'accord précédent, reflétant les difficultés financières de Nissan et des informations selon lesquelles le constructeur envisagerait de revoir sa participation dans le Marinos."
+      }
+    }
   }
 ]
