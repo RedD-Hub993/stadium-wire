@@ -6593,5 +6593,209 @@
         "summary": "Le diffuseur australien Nine a conclu un accord historique de sept ans pour devenir le diffuseur exclusif de l'athlétisme australien, reprenant la couverture détenue auparavant par la chaîne rivale Seven. L'annonce a été faite pendant la diffusion par Nine de la finale de la NRL, illustrant la volonté du diffuseur d'étoffer son portefeuille de sports en direct."
       }
     }
+  },
+  {
+    "id": "hawks-manageengine-it-partnership-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "tech",
+      "stadium"
+    ],
+    "published_at": "2026-01-13T00:00:00Z",
+    "source_name": "Business Wire",
+    "source_url": "https://www.businesswire.com/news/home/20260113851467/en",
+    "i18n": {
+      "en": {
+        "title": "Hawks Name ManageEngine Strategic Technology Partner for State Farm Arena IT Overhaul",
+        "summary": "The Atlanta Hawks have named ManageEngine, a Zoho Corp. division, as a strategic technology partner to overhaul IT operations at State Farm Arena. The deal covers automated patching, endpoint monitoring and network oversight across an environment spanning three facilities and more than 1,000 endpoints. The team says the upgrade is meant to improve reliability for broadcast, ticketing and other systems that support the fan experience."
+      },
+      "ja": {
+        "title": "ホークス、ステートファーム・アリーナのIT刷新でManageEngineと戦略的提携",
+        "summary": "アトランタ・ホークスは、Zoho傘下のManageEngineを戦略的テクノロジーパートナーに選び、ホームアリーナであるステートファーム・アリーナのIT運用を刷新すると発表した。契約には、3つの施設と1000台以上のエンドポイントにまたがる環境でのパッチ適用の自動化、端末監視、ネットワーク管理が含まれる。球団は、放送やチケット販売などファン体験を支えるシステムの信頼性向上を目指すとしている。"
+      },
+      "es": {
+        "title": "Los Hawks eligen a ManageEngine como socio tecnológico para renovar la TI del State Farm Arena",
+        "summary": "Los Atlanta Hawks designaron a ManageEngine, una división de Zoho Corp., como socio tecnológico estratégico para renovar las operaciones de TI en el State Farm Arena. El acuerdo abarca la automatización de parches, el monitoreo de terminales y la gestión de red en un entorno que cubre tres instalaciones y más de 1,000 dispositivos conectados. El equipo señala que la mejora busca reforzar la fiabilidad de los sistemas de transmisión, venta de entradas y otros servicios orientados a los aficionados."
+      },
+      "zh": {
+        "title": "老鹰队选定ManageEngine为战略技术伙伴 升级州农球馆IT系统",
+        "summary": "亚特兰大老鹰队宣布,将卓豪(Zoho)旗下的ManageEngine选定为战略技术合作伙伴,以全面升级主场州农球馆的IT运营体系。该协议涵盖跨越三处设施、逾千台终端设备的自动化补丁管理、终端监控和网络监管。球队表示,此次升级旨在提升支撑转播、票务等球迷体验相关系统的可靠性。"
+      },
+      "fr": {
+        "title": "Les Hawks choisissent ManageEngine comme partenaire technologique pour refondre l'informatique de la State Farm Arena",
+        "summary": "Les Hawks d'Atlanta ont choisi ManageEngine, filiale de Zoho Corp., comme partenaire technologique stratégique pour refondre la gestion informatique de la State Farm Arena. L'accord porte sur l'automatisation des correctifs, la surveillance des terminaux et la gestion du réseau sur un environnement couvrant trois installations et plus de 1 000 points de terminaison. Le club indique que cette modernisation vise à renforcer la fiabilité des systèmes de diffusion, de billetterie et d'autres services liés à l'expérience des supporters."
+      }
+    }
+  },
+  {
+    "id": "ruckus-networks-haas-f1-networking-partner-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "tech",
+      "sponsor"
+    ],
+    "published_at": "2026-01-21T00:00:00Z",
+    "source_name": "Business Wire",
+    "source_url": "https://www.businesswire.com/news/home/20260121228711/en/RUCKUS-Networks-Announces-Official-Partnership-with-TGR-Haas-F1-Team/",
+    "i18n": {
+      "en": {
+        "title": "RUCKUS Networks Becomes Official Networking Partner of TGR Haas F1 Team",
+        "summary": "RUCKUS Networks has become the official networking partner of the TGR Haas Formula 1 team, supplying connectivity across the squad's Kannapolis, Banbury and Maranello bases. The agreement also covers race-weekend network operations and Wi-Fi for guests in the team's paddock hospitality suite. RUCKUS branding will appear on the car, driver suits and team garage through the season."
+      },
+      "ja": {
+        "title": "RUCKUS Networks、TGRハースF1チームの公式ネットワーキングパートナーに",
+        "summary": "米通信機器大手RUCKUS Networksは、F1チーム「TGRハースF1」の公式ネットワーキングパートナーとなり、カンナポリス、バンバリー、マラネロの各拠点に通信インフラを提供することが決まった。契約には、レースウィークエンド中のネットワーク運用や、パドック内のホスピタリティースイートを訪れるゲスト向けWi-Fiサービスも含まれる。シーズンを通じてRUCKUSのロゴはマシンやドライバーのレーシングスーツ、チームガレージに表示される。"
+      },
+      "es": {
+        "title": "RUCKUS Networks se convierte en socio oficial de redes del equipo de F1 TGR Haas",
+        "summary": "RUCKUS Networks se convirtió en el socio oficial de redes del equipo de Fórmula 1 TGR Haas, encargándose de la conectividad en sus bases de Kannapolis, Banbury y Maranello. El acuerdo también incluye las operaciones de red durante los fines de semana de carrera y el Wi-Fi para los invitados en la suite de hospitalidad del equipo en el paddock. El logotipo de RUCKUS aparecerá en el monoplaza, los monos de los pilotos y el garaje del equipo durante toda la temporada."
+      },
+      "zh": {
+        "title": "RUCKUS Networks成为TGR哈斯F1车队官方网络合作伙伴",
+        "summary": "网络设备商RUCKUS Networks成为F1 TGR哈斯车队的官方网络合作伙伴,将为车队位于坎纳波利斯、班伯里和马拉内罗的三处基地提供连接服务。协议还包括比赛周末的网络运营保障,以及为车队维修区贵宾招待室访客提供Wi-Fi服务。整个赛季,RUCKUS标识将出现在赛车、车手赛车服及车队车库上。"
+      },
+      "fr": {
+        "title": "RUCKUS Networks devient le partenaire réseau officiel de l'écurie TGR Haas F1",
+        "summary": "RUCKUS Networks est devenu le partenaire réseau officiel de l'écurie de Formule 1 TGR Haas, assurant la connectivité de ses sites de Kannapolis, Banbury et Maranello. L'accord couvre également la gestion du réseau pendant les week-ends de course et le Wi-Fi pour les invités du salon d'hospitalité de l'équipe dans le paddock. Le logo RUCKUS figurera sur la monoplace, les combinaisons des pilotes et le garage de l'équipe tout au long de la saison."
+      }
+    }
+  },
+  {
+    "id": "feyenoord-stadion-feijenoord-de-kuip-ownership-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "biz"
+    ],
+    "published_at": "2026-06-11T00:00:00Z",
+    "source_name": "Feyenoord.com",
+    "source_url": "https://www.feyenoord.com/en/news/we-will-soon-be-one-110626",
+    "i18n": {
+      "en": {
+        "title": "Feyenoord Takes Ownership of De Kuip Stadium After Shareholder Vote",
+        "summary": "Feyenoord Rotterdam has taken ownership of its De Kuip stadium after shareholders approved a deal merging the club with Stadion Feijenoord N.V., the entity that previously held the venue separately. The club acquired roughly 95% of Stadion Feijenoord through a new share issue worth about 3.7 million euros. Feyenoord has also committed 3-5 million euros annually, capped at 41.5 million over a decade, toward renovating the aging stadium."
+      },
+      "ja": {
+        "title": "フェイエノールト、株主承認で本拠地デ・カイプの所有権を取得",
+        "summary": "フェイエノールト・ロッテルダムは、スタジアム運営会社「スタディオン・フェイエノールト社」との統合案を株主が承認したことを受け、本拠地デ・カイプの所有権を取得した。クラブは新株発行により約370万ユーロを投じてスタディオン・フェイエノールト社の株式の約95%を獲得した。さらにフェイエノールトは、老朽化したスタジアムの改修に向け、今後10年間で年間300万〜500万ユーロ、上限4150万ユーロを投じることを約束している。"
+      },
+      "es": {
+        "title": "El Feyenoord asume la propiedad del estadio De Kuip tras la votación de los accionistas",
+        "summary": "El Feyenoord de Róterdam se hizo con la propiedad de su estadio De Kuip después de que los accionistas aprobaran la fusión del club con Stadion Feijenoord N.V., la entidad que hasta entonces controlaba el recinto por separado. El club adquirió aproximadamente el 95% de Stadion Feijenoord mediante una nueva emisión de acciones valorada en unos 3,7 millones de euros. El Feyenoord también se comprometió a destinar entre 3 y 5 millones de euros anuales, con un tope de 41,5 millones en una década, para renovar el envejecido estadio."
+      },
+      "zh": {
+        "title": "股东投票通过后 费耶诺德获得德凯普球场所有权",
+        "summary": "荷兰费耶诺德俱乐部股东批准了与此前独立持有主场德凯普球场的Stadion Feijenoord公司合并的方案,费耶诺德因此获得该球场的所有权。俱乐部通过新股发行,以约370万欧元的代价获得Stadion Feijenoord约95%的股权。费耶诺德还承诺未来十年每年投入300万至500万欧元、总额上限4150万欧元用于翻新这座老旧球场。"
+      },
+      "fr": {
+        "title": "Le Feyenoord devient propriétaire du stade De Kuip après le vote des actionnaires",
+        "summary": "Le Feyenoord Rotterdam a pris possession de son stade De Kuip après que les actionnaires ont approuvé la fusion du club avec Stadion Feijenoord N.V., l'entité qui détenait jusque-là séparément l'enceinte. Le club a acquis environ 95 % de Stadion Feijenoord via une nouvelle émission d'actions d'environ 3,7 millions d'euros. Le Feyenoord s'est également engagé à consacrer 3 à 5 millions d'euros par an, plafonnés à 41,5 millions sur dix ans, à la rénovation du stade vieillissant."
+      }
+    }
+  },
+  {
+    "id": "staveley-consortium-west-ham-gold-family-stake-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-08T00:00:00Z",
+    "source_name": "City A.M.",
+    "source_url": "https://www.cityam.com/?p=2447517",
+    "i18n": {
+      "en": {
+        "title": "Staveley-Led Consortium Agrees to Buy Gold Family's West Ham Stake",
+        "summary": "A consortium led by financier Amanda Staveley, who previously backed the Saudi-funded takeover of Newcastle United, has agreed to buy the roughly 25% stake in West Ham United held by the Gold family trust. The deal, reached after weeks of talks complicated by other shareholders' pre-emption rights, reportedly values the Premier League club at up to 600 million pounds. It still requires other investors to waive their right of first refusal before it can close."
+      },
+      "ja": {
+        "title": "スタヴリー氏率いるコンソーシアム、ウェストハムのゴールド家株式買収に合意",
+        "summary": "かつてサウジアラビア資金によるニューカッスル・ユナイテッド買収を支援した投資家アマンダ・スタヴリー氏率いるコンソーシアムが、ウェストハム・ユナイテッドの株式約25%を保有するゴールド家の信託からその株式を買収することに合意した。他の株主が持つ優先購買権が絡み数週間に及んだ交渉の末まとまった今回の契約は、同プレミアリーグクラブを最大6億ポンドと評価しているとされる。取引成立には他の投資家が優先購買権を放棄する必要が残っている。"
+      },
+      "es": {
+        "title": "Un consorcio liderado por Staveley acuerda comprar la participación de la familia Gold en el West Ham",
+        "summary": "Un consorcio liderado por la financiera Amanda Staveley, quien respaldó anteriormente la adquisición del Newcastle United financiada por Arabia Saudí, acordó comprar la participación de alrededor del 25% en el West Ham United que posee el fideicomiso de la familia Gold. El acuerdo, alcanzado tras semanas de negociaciones complicadas por los derechos de preferencia de otros accionistas, valoraría al club de la Premier League en hasta 600 millones de libras. Aún debe esperar a que otros inversores renuncien a su derecho de tanteo para poder cerrarse."
+      },
+      "zh": {
+        "title": "斯塔夫利领导的财团同意收购戈尔德家族所持西汉姆联股份",
+        "summary": "曾支持沙特资金收购纽卡斯尔联队的金融家阿曼达·斯塔夫利领导的财团,已同意收购戈尔德家族信托持有的西汉姆联队约25%股份。这笔因其他股东优先购买权而历经数周谈判才达成的交易,据悉将这家英超俱乐部估值高达6亿英镑。交易仍需其他投资者放弃优先购买权方可完成。"
+      },
+      "fr": {
+        "title": "Un consortium mené par Staveley accepte de racheter la participation de la famille Gold à West Ham",
+        "summary": "Un consortium dirigé par la financière Amanda Staveley, qui avait auparavant soutenu le rachat de Newcastle United financé par l'Arabie saoudite, a accepté d'acquérir la participation d'environ 25 % détenue par le trust de la famille Gold dans West Ham United. Cet accord, conclu après des semaines de négociations compliquées par le droit de préemption d'autres actionnaires, valoriserait le club de Premier League à hauteur de 600 millions de livres sterling. Sa conclusion reste toutefois subordonnée à la renonciation des autres investisseurs à ce droit de préemption."
+      }
+    }
+  },
+  {
+    "id": "uniqlo-field-dodger-stadium-naming-partnership-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "stadium"
+    ],
+    "published_at": "2026-03-26T00:00:00Z",
+    "source_name": "MLB.com",
+    "source_url": "https://www.mlb.com/amp/news/dodger-stadium-announces-partnership-with-uniqlo.html",
+    "i18n": {
+      "en": {
+        "title": "Uniqlo Becomes First-Ever Field Sponsor at Dodger Stadium",
+        "summary": "Japanese apparel retailer Uniqlo has become the first-ever field sponsor at Dodger Stadium, with the playing surface now formally called \"Uniqlo Field at Dodger Stadium.\" The arena's overall name stays the same, but Uniqlo branding appears above the center-field batter's eye, beneath the press box facade and along the baselines. The partnership, Uniqlo's first major U.S. sports sponsorship, grants the brand top-tier marketing rights with the club."
+      },
+      "ja": {
+        "title": "ユニクロ、ドジャースタジアム史上初のフィールドスポンサーに",
+        "summary": "日本のアパレル企業ユニクロが、ドジャースタジアムの初代フィールドスポンサーとなり、グラウンドは正式に「ユニクロ・フィールド・アット・ドジャースタジアム」と呼ばれることになった。球場全体の名称は変わらないが、ユニクロのロゴは中堅後方のバッターズアイ上部や記者席下のファサード、ベースライン沿いなどに表示される。この提携は米国スポーツ界におけるユニクロ初の大型スポンサー契約で、同ブランドに球団との最上位マーケティング権が与えられる。"
+      },
+      "es": {
+        "title": "Uniqlo se convierte en la primera patrocinadora del terreno de juego del Dodger Stadium",
+        "summary": "La cadena japonesa de ropa Uniqlo se convirtió en la primera patrocinadora del terreno de juego del Dodger Stadium, que ahora se denomina oficialmente \"Uniqlo Field at Dodger Stadium\". El nombre general del estadio no cambia, pero el logotipo de Uniqlo aparece sobre el fondo de bateo en el jardín central, bajo la fachada del palco de prensa y a lo largo de las líneas de base. La asociación, el primer gran patrocinio deportivo de Uniqlo en Estados Unidos, otorga a la marca derechos de mercadotecnia de primer nivel con el club."
+      },
+      "zh": {
+        "title": "优衣库成为道奇体育场史上首位场地冠名赞助商",
+        "summary": "日本服装零售商优衣库成为道奇体育场史上首位场地冠名赞助商,球场场地正式更名为\"道奇体育场优衣库球场\"。体育场整体名称保持不变,但优衣库标识将出现在中外野击球眼上方、记者席立面下方以及两条边线沿线。这是优衣库在美国体育界首个大型赞助项目,该协议授予品牌与球队合作的最高级营销权益。"
+      },
+      "fr": {
+        "title": "Uniqlo devient le premier sponsor du terrain du Dodger Stadium",
+        "summary": "L'enseigne japonaise de prêt-à-porter Uniqlo est devenue le premier sponsor du terrain du Dodger Stadium, désormais officiellement baptisé « Uniqlo Field at Dodger Stadium ». Le nom global du stade reste inchangé, mais la marque Uniqlo apparaît au-dessus du fond de champ centre, sous la façade de la tribune de presse et le long des lignes de base. Ce partenariat, le premier grand contrat sportif d'Uniqlo aux États-Unis, confère à la marque des droits marketing de premier rang avec le club."
+      }
+    }
+  },
+  {
+    "id": "fedex-memphis-athletics-jersey-patch-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-04-09T00:00:00Z",
+    "source_name": "University of Memphis Athletics",
+    "source_url": "https://gotigersgo.com/news/2026/4/9/general-fedex-and-memphis-athletics-announce-department-wide-jersey-patch-sponsorship",
+    "i18n": {
+      "en": {
+        "title": "FedEx and Memphis Athletics Announce Department-Wide Jersey Patch Sponsorship",
+        "summary": "FedEx and the University of Memphis have agreed to one of the first department-wide jersey patch sponsorships in college sports, placing the FedEx logo on uniforms across all 19 men's and women's Tigers programs. The deal takes effect with the 2026-27 athletic season. Memphis, headquarters city of the shipping giant, said the partnership reflects FedEx's long-standing local ties to the university."
+      },
+      "ja": {
+        "title": "フェデックスとメンフィス大、全19競技対象のユニフォームパッチ契約を発表",
+        "summary": "フェデックスとメンフィス大学は、大学スポーツ界では珍しい全学部対象のユニフォームパッチ・スポンサー契約の一つに合意し、男女19競技すべてのタイガースのユニフォームにフェデックスのロゴが入ることになった。契約は2026-27年シーズンから適用される。フェデックスの本社があるメンフィス市で結ばれた今回の提携は、同社と大学との長年の地元での結びつきを反映したものだとされている。"
+      },
+      "es": {
+        "title": "FedEx y Memphis Athletics anuncian un patrocinio de parche en el uniforme para todo el departamento",
+        "summary": "FedEx y la Universidad de Memphis acordaron uno de los primeros patrocinios de parche en el uniforme a nivel de todo un departamento deportivo universitario, colocando el logotipo de FedEx en los uniformes de los 19 programas masculinos y femeninos de los Tigers. El acuerdo entra en vigor con la temporada 2026-27. Memphis, ciudad sede de la empresa de mensajería, señaló que la asociación refleja los vínculos locales de larga data entre FedEx y la universidad."
+      },
+      "zh": {
+        "title": "联邦快递与孟菲斯大学宣布全体育部门球衣广告赞助",
+        "summary": "联邦快递与孟菲斯大学达成大学体育界少有的覆盖整个体育部门的球衣广告赞助协议之一,联邦快递标识将出现在老虎队男女19个项目的队服上。该协议将从2026-27赛季起生效。联邦快递总部所在地孟菲斯大学表示,此次合作体现了公司与学校长期以来的本地联系。"
+      },
+      "fr": {
+        "title": "FedEx et l'athlétisme de Memphis annoncent un parrainage de patch à l'échelle du département",
+        "summary": "FedEx et l'Université de Memphis ont conclu l'un des premiers partenariats de patch d'uniforme couvrant l'ensemble d'un département sportif universitaire, le logo FedEx apparaissant sur les maillots des 19 programmes masculins et féminins des Tigers. L'accord entre en vigueur dès la saison 2026-27. Memphis, ville siège du géant de la livraison, a indiqué que ce partenariat reflète les liens locaux de longue date entre FedEx et l'université."
+      }
+    }
   }
 ]
