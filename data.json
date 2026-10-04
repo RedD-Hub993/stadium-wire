@@ -1,106 +1,5 @@
 [
   {
-    "id": "jleague-macau-australia-broadcast-2026-27",
-    "sport": "soccer",
-    "region": "japan",
-    "topics": [
-      "biz",
-      "fan"
-    ],
-    "published_at": "2026-08-03T00:00:00Z",
-    "source_name": "J.League",
-    "source_url": "https://www.jleague.jp/corporate/pressrelease/article/16031",
-    "i18n": {
-      "en": {
-        "title": "J.League Adds Macau and Australia to Overseas Broadcast Lineup",
-        "summary": "Japan's J.League announced new overseas broadcast deals for the 2026-27 season with Macau's M Plus sports platform and Australian streaming service Stan, each airing up to four J1 League matches per matchday. The agreements extend the league's international footprint, which already includes broadcast partners in China and Hong Kong, as part of its push to grow audiences for Japanese club soccer abroad."
-      },
-      "ja": {
-        "title": "Jリーグ、海外放映にマカオとオーストラリアを新たに追加",
-        "summary": "Jリーグは2026-27シーズンの海外向け放映について、マカオの総合スポーツメディアM Plusとオーストラリアの動画配信サービスSTANと新たに契約したと発表した。両社とも明治安田J1リーグを毎節最大4試合放映し、既に放映契約を持つ中国や香港と合わせて海外での視聴機会拡大を進める取り組みの一環となる。"
-      },
-      "es": {
-        "title": "La J.League suma Macao y Australia a su cobertura televisiva internacional",
-        "summary": "La J.League de Japón anunció nuevos acuerdos de retransmisión en el extranjero para la temporada 2026-27 con la plataforma deportiva M Plus de Macao y el servicio de streaming australiano Stan, que emitirán hasta cuatro partidos de la J1 League por jornada cada uno. Los acuerdos amplían la presencia internacional de la liga, que ya cuenta con socios de retransmisión en China y Hong Kong, como parte de su esfuerzo por ampliar audiencias para el fútbol de clubes japonés en el extranjero."
-      },
-      "zh": {
-        "title": "J联赛新增澳门与澳大利亚海外转播合作",
-        "summary": "日本J联赛宣布2026-27赛季新增与澳门综合体育媒体平台M Plus及澳大利亚流媒体服务Stan的海外转播合作，两者每个比赛日均将播出最多四场J1联赛赛事。此举进一步扩大该联赛的海外覆盖版图，此前已与中国和香港的转播伙伴达成合作，是其拓展日本俱乐部足球海外观众群的举措之一。"
-      },
-      "fr": {
-        "title": "La J.League ajoute Macao et l'Australie à sa diffusion internationale",
-        "summary": "La J.League japonaise a annoncé de nouveaux accords de diffusion à l'étranger pour la saison 2026-27 avec la plateforme sportive M Plus de Macao et le service de streaming australien Stan, chacun diffusant jusqu'à quatre matchs de J1 League par journée. Ces accords élargissent l'empreinte internationale du championnat, qui compte déjà des partenaires de diffusion en Chine et à Hong Kong, dans le cadre de ses efforts pour développer son audience à l'étranger pour le football de clubs japonais."
-      }
-    }
-  },
-  {
-    "id": "his-bleague-glocal-partner-btabi-tours-2026",
-    "sport": "basketball",
-    "region": "japan",
-    "topics": [
-      "sponsor",
-      "fan"
-    ],
-    "published_at": "2026-08-31T00:00:00Z",
-    "source_name": "B.LEAGUE",
-    "source_url": "https://www.bleague.jp/media_news/detail/id=620725",
-    "i18n": {
-      "en": {
-        "title": "B.League Signs Travel Agency HIS as 'Glocal Partner' for Fan Tours",
-        "summary": "Japan's B.League signed travel agency HIS as its exclusive 'Glocal Partner,' giving the company rights to create and sell official fan tours branded 'B.Tabi' for all 55 clubs. Sales began September 18, offering away-game packages and tours to the 2027 All-Star Game in Aichi-Nagoya that include player meet-and-greet experiences."
-      },
-      "ja": {
-        "title": "Bリーグ、HISと『グローカル・パートナー』契約を締結しファン向けツアーを展開",
-        "summary": "日本のBリーグは旅行会社HISと独占的な『グローカル・パートナー』契約を締結し、全55クラブを対象とした公式観戦ツアー「B.旅」の企画・販売権を付与した。9月18日から販売が始まり、アウェー観戦パッケージや2027年愛知・名古屋オールスターゲームへの選手交流イベント付きツアーなどが提供される。"
-      },
-      "es": {
-        "title": "La B.League ficha a la agencia de viajes HIS como 'Socio Glocal' para giras de aficionados",
-        "summary": "La B.League de Japón firmó con la agencia de viajes HIS un contrato exclusivo como 'Socio Glocal', otorgándole los derechos para crear y vender los tours oficiales de aficionados 'B.Tabi' para los 55 clubes. Las ventas comenzaron el 18 de septiembre e incluyen paquetes para partidos de visitante y viajes al Juego de Estrellas 2027 en Aichi-Nagoya con encuentros con jugadores."
-      },
-      "zh": {
-        "title": "B联赛与旅行社HIS签署“全球本土化合作伙伴”协议推出球迷旅游团",
-        "summary": "日本B联赛与旅行社HIS签署独家“全球本土化合作伙伴”协议，授予其为全部55支俱乐部策划和销售官方球迷观赛团“B.旅”的权利。销售已于9月18日启动，产品包括客场观赛套餐及2027年爱知・名古屋全明星赛球员见面会旅行团。"
-      },
-      "fr": {
-        "title": "La B.League s'associe à l'agence de voyages HIS pour des circuits de supporters",
-        "summary": "La B.League japonaise a signé un contrat exclusif de 'partenaire glocal' avec l'agence de voyages HIS, lui accordant les droits de créer et vendre les circuits officiels de supporters « B.Tabi » pour les 55 clubs. Les ventes ont débuté le 18 septembre, avec des forfaits pour les matchs à l'extérieur et des voyages pour le match des étoiles 2027 à Aichi-Nagoya incluant des rencontres avec les joueurs."
-      }
-    }
-  },
-  {
-    "id": "npb-pitchcom-signal-device-adoption-2027",
-    "sport": "baseball",
-    "region": "japan",
-    "topics": [
-      "tech"
-    ],
-    "published_at": "2026-08-31T00:00:00Z",
-    "source_name": "Nikkei",
-    "source_url": "https://www.nikkei.com/article/DGXZQOKC318W90R30C26A8000000/",
-    "i18n": {
-      "en": {
-        "title": "NPB to Introduce Pitchcom Signal-Calling Devices Next Season",
-        "summary": "Nippon Professional Baseball has decided to allow electronic sign-calling device Pitchcom in its top division starting next season, according to Nikkei. Use will reportedly be optional rather than mandatory, aimed at speeding up pitcher-catcher communication and reducing sign-stealing concerns, following the device's earlier adoption in MLB and at the World Baseball Classic."
-      },
-      "ja": {
-        "title": "NPB、来季からサイン伝達機器「ピッチコム」を1軍に導入へ",
-        "summary": "日本野球機構（NPB）は来季から1軍公式戦でサイン伝達機器「ピッチコム」の使用を認める方針を固めたと日本経済新聞が報じた。使用は義務ではなく任意となる見通しで、投手と捕手の意思疎通を円滑にし、サイン盗み対策にもつながるとされる。同機器は既に米大リーグやWBCで導入されている。"
-      },
-      "es": {
-        "title": "NPB introducirá los dispositivos de señales Pitchcom la próxima temporada",
-        "summary": "El béisbol profesional japonés (NPB) decidió permitir el dispositivo electrónico de señales Pitchcom en su máxima división a partir de la próxima temporada, según Nikkei. Su uso sería opcional, no obligatorio, con el objetivo de agilizar la comunicación entre lanzador y receptor y reducir el robo de señas, tras su adopción previa en la MLB y en el Clásico Mundial de Béisbol."
-      },
-      "zh": {
-        "title": "日本职棒NPB将于下赛季引入Pitchcom暗号传输装置",
-        "summary": "据日本经济新闻报道，日本职业棒球机构（NPB）已决定从下赛季起在一军正式比赛中允许使用电子暗号传输装置Pitchcom。据悉该装置采用自愿而非强制使用，旨在加快投手与捕手之间的沟通并减少盗取暗号的顾虑，此前该设备已在美国职棒大联盟及世界棒球经典赛中启用。"
-      },
-      "fr": {
-        "title": "La NPB va introduire les dispositifs de signaux Pitchcom la saison prochaine",
-        "summary": "Le baseball professionnel japonais (NPB) a décidé d'autoriser le dispositif électronique de signaux Pitchcom dans sa division supérieure dès la saison prochaine, selon Nikkei. Son usage serait facultatif plutôt qu'obligatoire, dans le but d'accélérer la communication entre lanceur et receveur et de limiter le vol de signes, après son adoption antérieure en MLB et lors du Classique mondial de baseball."
-      }
-    }
-  },
-  {
     "id": "his-bleague-glocal-partner-btabi-2026",
     "sport": "basketball",
     "region": "japan",
@@ -1078,6 +977,752 @@
     }
   },
   {
+    "id": "bleague-b-kakushin-structural-reform-2026-27",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "biz",
+      "team"
+    ],
+    "published_at": "2026-09-21T00:00:00Z",
+    "source_name": "Chukei News",
+    "source_url": "https://www.chukei-news.co.jp/news/2026/09/21/OK0002609210b01_01/",
+    "i18n": {
+      "en": {
+        "title": "B.League Launches 'B.Kakushin' Reform Overhauling Division Structure",
+        "summary": "Japan's B.League began its 2026-27 season under a sweeping reform dubbed 'B.Kakushin,' restructuring into a 26-team B.Premier and a five-region, 25-team B.One tier. Promotion decisions now weigh clubs' business fundamentals, including attendance and revenue over the prior three years, as part of a plan targeting roughly 80 billion yen in league-wide business scale."
+      },
+      "ja": {
+        "title": "Bリーグ、部門構成を刷新する「B.革新」始動",
+        "summary": "日本のBリーグは、2026-27シーズンから「B.革新」と呼ばれる大規模な制度改革に踏み出し、26クラブによるBプレミアと5地区25クラブのBワンという新体制に移行した。昇格判断には直近3年間の入場者数や売上高などクラブの経営基盤が重視され、事業規模800億円を目標とする中期経営計画の一環となっている。"
+      },
+      "es": {
+        "title": "La B.League lanza la reforma 'B.Kakushin' que renueva su estructura de divisiones",
+        "summary": "La B.League japonesa inició la temporada 2026-27 bajo una amplia reforma llamada 'B.Kakushin', reorganizándose en una B.Premier de 26 clubes y una B.One de 25 clubes divididos en cinco regiones. Las decisiones de ascenso ahora ponderan los fundamentos comerciales de los clubes, incluidos asistencia e ingresos de los últimos tres años, como parte de un plan que apunta a unos 80.000 millones de yenes de escala de negocio de la liga."
+      },
+      "zh": {
+        "title": "日本B联赛启动“B.革新”改革，重塑分级体系",
+        "summary": "日本B联赛在2026-27赛季启动名为“B.革新”的大规模制度改革，重组为26支球队组成的B.Premier和按五个地区划分、共25支球队的B.One。升级评审现在更看重俱乐部近三年的入场人数、营收等经营基础，这是联赛冲击约800亿日元事业规模中期目标的一部分。"
+      },
+      "fr": {
+        "title": "La B.League lance la réforme « B.Kakushin » qui refond sa structure de divisions",
+        "summary": "La B.League japonaise a entamé la saison 2026-27 sous une vaste réforme baptisée « B.Kakushin », se réorganisant en une B.Premier de 26 clubs et une B.One de 25 clubs répartis en cinq régions. Les décisions de promotion tiennent désormais compte des fondamentaux économiques des clubs, dont la fréquentation et les revenus des trois dernières années, dans le cadre d'un plan visant environ 80 milliards de yens de chiffre d'affaires pour la ligue."
+      }
+    }
+  },
+  {
+    "id": "japan-league-routeinn-bc-league-partnership-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "biz",
+      "team"
+    ],
+    "published_at": "2026-09-21T00:00:00Z",
+    "source_name": "PR TIMES",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000074.000149949.html",
+    "i18n": {
+      "en": {
+        "title": "Japan League and Route Inn BC League Renew Player-Development Partnership for Third Year",
+        "summary": "Japan League and Route Inn BC League, an independent Japanese baseball circuit, extended their business partnership for a third consecutive year to give off-season players more competitive game time. Selected Route Inn BC League players will join the Japan Winter League 2026 event in Okinawa, running from November 21 to December 17, to sharpen their skills ahead of next season."
+      },
+      "ja": {
+        "title": "ジャパンリーグとルートインBCリーグ、選手育成での業務提携を3年連続で更新",
+        "summary": "独立系プロ野球リーグを運営するジャパンリーグとルートインBCリーグは、オフシーズンの選手に実戦機会を提供する業務提携を3年連続で締結した。ルートインBCリーグの選抜選手は、11月21日から12月17日まで沖縄で開催される「ジャパン・ウィンター・リーグ2026」に参加し、来季に向けて実戦経験を積む。"
+      },
+      "es": {
+        "title": "Japan League y Route Inn BC League renuevan por tercer año su alianza de desarrollo de jugadores",
+        "summary": "Japan League y Route Inn BC League, un circuito independiente de béisbol japonés, extendieron su alianza comercial por tercer año consecutivo para dar a los jugadores más partidos competitivos en la temporada baja. Jugadores seleccionados de Route Inn BC League participarán en la Japan Winter League 2026, en Okinawa, del 21 de noviembre al 17 de diciembre, para perfeccionar su nivel antes de la próxima temporada."
+      },
+      "zh": {
+        "title": "Japan League与Route Inn BC League续签第三年球员培养合作",
+        "summary": "日本独立棒球联盟Route Inn BC League与Japan League续签第三年业务合作，旨在为休赛期球员提供更多实战比赛机会。经选拔的Route Inn BC League球员将参加11月21日至12月17日在冲绳举行的“Japan Winter League 2026”，以在新赛季前提升竞技水平。"
+      },
+      "fr": {
+        "title": "Japan League et Route Inn BC League renouvellent pour la troisième année leur partenariat de développement des joueurs",
+        "summary": "Japan League et Route Inn BC League, un circuit indépendant de baseball japonais, ont prolongé pour la troisième année consécutive leur partenariat afin d'offrir plus de matchs compétitifs aux joueurs pendant l'intersaison. Des joueurs sélectionnés de Route Inn BC League participeront à la Japan Winter League 2026, à Okinawa, du 21 novembre au 17 décembre, pour progresser avant la saison prochaine."
+      }
+    }
+  },
+  {
+    "id": "bleague-kakushin-2026-27-season-launch",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-09-22T00:00:00Z",
+    "source_name": "B.LEAGUE",
+    "source_url": "https://www.bleague.jp/new-bleague/",
+    "i18n": {
+      "en": {
+        "title": "Japan's B.League Launches Overhauled 'B.Kakushin' Structure for 2026-27",
+        "summary": "B.League kicked off its 2026-27 season under a reform package dubbed 'B.Kakushin,' which raises club licensing standards, moves to an expansion-style model without promotion or relegation based on results, and introduces a salary cap. The league says the changes are meant to strengthen club finances and support long-term regional growth."
+      },
+      "ja": {
+        "title": "Bリーグ、2026-27シーズンから新体制「B.革新」がスタート",
+        "summary": "Bリーグは「B.革新」と銘打った改革のもとで2026-27シーズンを開幕させた。クラブライセンス基準の引き上げ、競技成績による昇降格を廃止したエクスパンション型リーグへの移行、サラリーキャップ導入が柱となる。リーグ側はこれらの改革によりクラブ経営の強化と持続的な地域創生を図るとしている。"
+      },
+      "es": {
+        "title": "La B.League japonesa estrena su estructura reformada 'B.Kakushin' para 2026-27",
+        "summary": "La B.League inició su temporada 2026-27 bajo un paquete de reformas denominado 'B.Kakushin', que eleva los estándares de licencia de los clubes, adopta un modelo de expansión sin ascensos ni descensos por resultados deportivos e introduce un tope salarial. La liga afirma que los cambios buscan fortalecer las finanzas de los clubes y apoyar el crecimiento regional a largo plazo."
+      },
+      "zh": {
+        "title": "日本B联赛2026-27赛季启动“B.革新”改革新体制",
+        "summary": "日本职业篮球B联赛在名为“B.革新”的改革方案下开启2026-27赛季，改革内容包括提高俱乐部准入标准、转向不再依据战绩升降级的扩张型联盟模式，并引入薪资帽制度。联盟方面表示，这些变革旨在强化俱乐部财务状况并支持地区的持续发展。"
+      },
+      "fr": {
+        "title": "La B.League japonaise lance sa nouvelle structure réformée « B.Kakushin » pour 2026-27",
+        "summary": "La B.League a entamé sa saison 2026-27 sous un plan de réforme baptisé « B.Kakushin », qui relève les normes de licence des clubs, adopte un modèle d'expansion sans montée ni descente basée sur les résultats, et instaure un plafond salarial. La ligue indique que ces changements visent à renforcer les finances des clubs et à soutenir une croissance régionale durable."
+      }
+    }
+  },
+  {
+    "id": "bleague-2026-27-season-uniqlo-tomica-licca-fan-collab",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "fan",
+      "sponsor"
+    ],
+    "published_at": "2026-09-22T00:00:00Z",
+    "source_name": "MSN Japan",
+    "source_url": "https://www.msn.com/ja-jp/news/other/%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD%E3%82%84%E3%83%88%E3%83%9F%E3%82%AB-%E3%83%AA%E3%82%AB%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E3%82%82%E3%82%B3%E3%83%A9%E3%83%9C-922%E9%96%8B%E5%B9%95%E3%81%AEb%E3%83%AA%E3%83%BC%E3%82%B0-2026-27%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B3-%E3%81%8C%E3%83%95%E3%82%A1%E3%83%B3%E5%B1%A4%E3%82%92%E5%BA%83%E3%81%92%E3%82%8B/ar-AA2cEXy3",
+    "i18n": {
+      "en": {
+        "title": "B.League Taps Uniqlo, Tomica and Licca-chan for 2026-27 Season Fan Outreach",
+        "summary": "As Japan's B.League tipped off its 2026-27 season on September 22, the league unveiled fan-facing collaborations with apparel brand Uniqlo and toy brands Tomica and Licca-chan aimed at attracting younger and family audiences. The cross-industry tie-ins are part of a broader push to widen B.League's fan base beyond core basketball followers."
+      },
+      "ja": {
+        "title": "Bリーグ、2026-27シーズン開幕でユニクロ・トミカ・リカちゃんとファン層拡大へコラボ",
+        "summary": "日本のBリーグは9月22日に2026-27シーズンを開幕し、ユニクロやトミカ、リカちゃんといった玩具ブランドとのコラボレーションを発表した。バスケットボールの既存ファンにとどまらない、若年層やファミリー層への訴求を狙った異業種連携の一環である。"
+      },
+      "es": {
+        "title": "La B.League colabora con Uniqlo, Tomica y Licca-chan para ampliar su afición en la temporada 2026-27",
+        "summary": "Con el inicio de la temporada 2026-27 de la B.League japonesa el 22 de septiembre, la liga presentó colaboraciones orientadas a los aficionados con la marca de ropa Uniqlo y las marcas de juguetes Tomica y Licca-chan, buscando atraer a públicos más jóvenes y familiares. Estas alianzas intersectoriales forman parte de un esfuerzo más amplio por ampliar la base de seguidores de la liga."
+      },
+      "zh": {
+        "title": "B联赛携手优衣库、多美卡与莉卡娃娃拓展2026-27赛季粉丝群体",
+        "summary": "日本B联赛于9月22日拉开2026-27赛季序幕，联赛同时公布了与服饰品牌优衣库及玩具品牌多美卡（Tomica）、莉卡娃娃（Licca-chan）的跨界合作。此举意在吸引核心篮球迷之外的更年轻及家庭观众，是联赛拓展粉丝基础战略的一部分。"
+      },
+      "fr": {
+        "title": "La B.League s'associe à Uniqlo, Tomica et Licca-chan pour élargir son public lors de la saison 2026-27",
+        "summary": "À l'occasion du coup d'envoi de sa saison 2026-27 le 22 septembre, la ligue japonaise de basketball B.League a dévoilé des collaborations tournées vers les supporters avec la marque de vêtements Uniqlo et les marques de jouets Tomica et Licca-chan. Ces partenariats intersectoriels visent à attirer un public plus jeune et familial au-delà des seuls passionnés de basketball."
+      }
+    }
+  },
+  {
+    "id": "toyota-team-japan-gold-partner-2026",
+    "sport": "olympics",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-09-22T00:00:00Z",
+    "source_name": "Ministry of Sport",
+    "source_url": "https://ministryofsport.com/toyota-deepens-olympic-commitment-by-signing-team-japan-partnership-agreement-as-gold-partner/",
+    "i18n": {
+      "en": {
+        "title": "Toyota Signs On as Gold Partner in Expanded Team Japan Olympic Deal",
+        "summary": "Toyota Motor Corporation has formalized a new Team Japan partnership agreement with the Japanese Olympic Committee and Japanese Paralympic Committee, taking on Gold Partner status. The deal is designed to provide financial and operational support so Japanese athletes can focus on training and competition without added distractions."
+      },
+      "ja": {
+        "title": "トヨタ、日本オリンピック委員会と「ゴールドパートナー」契約を締結",
+        "summary": "トヨタ自動車は日本オリンピック委員会（JOC）および日本パラリンピック委員会（JPC）と新たな「TEAM JAPAN」パートナーシップ契約を結び、ゴールドパートナーとしての立場を強化した。この契約は、日本代表選手が練習や競技に集中できるよう、資金面・運営面での支援体制を整えることを狙いとしている。"
+      },
+      "es": {
+        "title": "Toyota se convierte en Socio Oro en un acuerdo ampliado con el Equipo Japón olímpico",
+        "summary": "Toyota Motor Corporation formalizó un nuevo acuerdo de asociación con el Comité Olímpico Japonés y el Comité Paralímpico Japonés, asumiendo el estatus de Socio Oro. El convenio busca ofrecer respaldo financiero y operativo para que los atletas japoneses puedan concentrarse en su entrenamiento y competición sin distracciones adicionales."
+      },
+      "zh": {
+        "title": "丰田签约成为日本奥委会“金牌合作伙伴”，深化体育支持",
+        "summary": "丰田汽车与日本奥林匹克委员会及日本残奥委员会正式签署新的“Team Japan”合作协议，晋升为金牌合作伙伴。该协议旨在为日本运动员提供资金与运营方面的支持，使其能够心无旁骛地专注于训练与比赛。"
+      },
+      "fr": {
+        "title": "Toyota devient Partenaire Or dans un accord élargi avec l'Équipe Japon olympique",
+        "summary": "Toyota Motor Corporation a officialisé un nouvel accord de partenariat avec le Comité olympique japonais et le Comité paralympique japonais, obtenant le statut de Partenaire Or. L'accord vise à apporter un soutien financier et opérationnel afin que les athlètes japonais puissent se concentrer sur l'entraînement et la compétition sans distraction supplémentaire."
+      }
+    }
+  },
+  {
+    "id": "bleague-b-innovation-three-tier-restructure-2026",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "biz",
+      "team"
+    ],
+    "published_at": "2026-09-22T00:00:00Z",
+    "source_name": "B.LEAGUE",
+    "source_url": "https://www.newscoda.com/articles/bleague-business-reform-relegation-abolition-2026/",
+    "i18n": {
+      "en": {
+        "title": "B.LEAGUE Launches 'B.Innovation' Reform, Splitting Into Three Tiers by Club Finances",
+        "summary": "Japan's B.LEAGUE opened its 2026-27 season by scrapping its old two-division format in favor of a three-tier structure under a reform branded 'B.Innovation,' sorting its 55 clubs into B.Premier, B.One and B.Next based largely on revenue and attendance rather than only on-court results. The league says the overhaul is meant to push clubs toward stronger business operations as the season kicked off with Alvark Tokyo hosting the Ryukyu Golden Kings."
+      },
+      "ja": {
+        "title": "Bリーグ、経営指標で3階層に再編する「B.革新」始動",
+        "summary": "日本のBリーグは2026-27シーズン開幕にあわせ、従来の2部制を廃止し、「B.革新」と銘打った改革のもとでB.プレミア、B.ワン、B.ネクストの3階層制へ移行した。加盟55クラブは勝敗だけでなく収益や観客動員などの経営指標を基に区分され、リーグ側はクラブ経営の強化を促す狙いがあるとしており、開幕戦はアルバルク東京がホームに琉球ゴールデンキングスを迎えて行われた。"
+      },
+      "es": {
+        "title": "La B.LEAGUE lanza la reforma 'B.Innovation' y se divide en tres niveles según las finanzas de los clubes",
+        "summary": "La B.LEAGUE japonesa inició su temporada 2026-27 eliminando su antiguo formato de dos divisiones a favor de una estructura de tres niveles bajo una reforma llamada 'B.Innovation', que clasifica a sus 55 clubes en B.Premier, B.One y B.Next en función sobre todo de los ingresos y la asistencia de público, y no solo de los resultados deportivos. La liga afirma que el cambio busca impulsar una gestión empresarial más sólida en los clubes, y la temporada arrancó con el Alvark Tokyo recibiendo a los Ryukyu Golden Kings."
+      },
+      "zh": {
+        "title": "日本B联赛启动“B.革新”改革，按财务状况划分为三个等级",
+        "summary": "日本B联赛在2026-27赛季开幕之际，取消原有的两级联赛体制，转而实施名为“B.革新”的改革，将三个等级——B.Premier、B.One和B.Next，依据营收和上座人数等经营指标而非仅凭战绩对55家俱乐部进行重新分级。联赛方面表示，此举旨在推动各俱乐部加强经营管理，开幕战由阿尔瓦克东京主场迎战琉球黄金国王队。"
+      },
+      "fr": {
+        "title": "La B.LEAGUE lance la réforme « B.Innovation » et se scinde en trois niveaux selon les finances des clubs",
+        "summary": "La ligue japonaise B.LEAGUE a entamé sa saison 2026-27 en abandonnant son ancien format à deux divisions au profit d'une structure à trois niveaux dans le cadre d'une réforme baptisée « B.Innovation », répartissant ses 55 clubs en B.Premier, B.One et B.Next principalement selon les revenus et l'affluence plutôt que les seuls résultats sportifs. La ligue affirme que cette refonte vise à pousser les clubs vers une gestion plus solide, la saison ayant débuté avec l'Alvark Tokyo recevant les Ryukyu Golden Kings."
+      }
+    }
+  },
+  {
+    "id": "bleague-premier-restructure-launch-2026-27",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-22T00:00:00Z",
+    "source_name": "Spin.ph",
+    "source_url": "https://www.spin.ph/basketball/japan-b-league/b-league-sets-eye-on-new-adjustment-ahead-of-11th-season-a6035-20260723",
+    "i18n": {
+      "en": {
+        "title": "Japan's B.LEAGUE Launches Revamped Top Tier 'B.PREMIER' Built on Business Scale",
+        "summary": "Japan's B.LEAGUE kicked off its restructured 2026-27 season on September 22 with a new three-tier system — B.PREMIER, B.ONE and B.NEXT — that groups clubs by revenue, attendance and arena size rather than by win-loss record. The 26 B.PREMIER clubs must meet arena-capacity and other business benchmarks, part of the league's 'B.Kakushin' reform aimed at strengthening club management and competitiveness."
+      },
+      "ja": {
+        "title": "Bリーグ、事業規模で区分する新トップディビジョン「B.PREMIER」始動",
+        "summary": "日本のBリーグは9月22日、勝敗ではなく収益・観客動員・アリーナ規模などの事業基準でクラブを区分する新体制の2026-27シーズンを開幕させ、「B.PREMIER」「B.ONE」「B.NEXT」の3部制をスタートさせた。トップディビジョンのB.PREMIERには26クラブが参入し、アリーナ収容人数などの基準を満たす必要があり、クラブ経営の強化と競争力向上を狙う「B.革新」改革の第一歩となる。"
+      },
+      "es": {
+        "title": "La B.LEAGUE de Japón lanza su nueva división principal 'B.PREMIER' basada en el tamaño del negocio de los clubes",
+        "summary": "La B.LEAGUE japonesa inició el 22 de septiembre la temporada 2026-27 bajo un sistema reestructurado de tres divisiones —B.PREMIER, B.ONE y B.NEXT— que clasifica a los clubes según ingresos, asistencia y tamaño del recinto, en lugar de su rendimiento deportivo. Los 26 clubes de la división B.PREMIER deben cumplir requisitos de capacidad de pabellón y otros criterios de negocio, como parte de la reforma 'B.Kakushin', orientada a fortalecer la gestión y la competitividad de los clubes."
+      },
+      "zh": {
+        "title": "日本B联赛启动以经营规模划分的全新顶级联赛\"B.PREMIER\"",
+        "summary": "日本B联赛于9月22日开启重组后的2026-27赛季，实行\"B.PREMIER\"\"B.ONE\"\"B.NEXT\"三级新体制，依据营收、观众人数及场馆规模而非比赛成绩对俱乐部进行分级。顶级联赛B.PREMIER共有26支俱乐部参与，须满足场馆容量等经营标准，这是旨在强化俱乐部经营与竞争力的\"B.革新\"改革的第一步。"
+      },
+      "fr": {
+        "title": "La B.LEAGUE japonaise lance sa nouvelle division d'élite « B.PREMIER », fondée sur la taille économique des clubs",
+        "summary": "La B.LEAGUE japonaise a lancé le 22 septembre sa saison 2026-27 réorganisée en trois divisions — B.PREMIER, B.ONE et B.NEXT — qui classent les clubs selon leurs revenus, leur fréquentation et la taille de leur salle plutôt que selon leurs résultats sportifs. Les 26 clubs de la division B.PREMIER doivent respecter des critères de capacité d'arène et d'autres exigences économiques, dans le cadre de la réforme « B.Kakushin » visant à renforcer la gestion et la compétitivité des clubs."
+      }
+    }
+  },
+  {
+    "id": "alvark-tokyo-sunrockers-shibuya-toyota-arena-2026",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "team"
+    ],
+    "published_at": "2026-09-24T00:00:00Z",
+    "source_name": "B.LEAGUE",
+    "source_url": "https://www.bleague.jp/media_news/detail/id=437930",
+    "i18n": {
+      "en": {
+        "title": "Alvark Tokyo and Sunrockers Shibuya to Share New Toyota Arena Tokyo From 2026-27 Season",
+        "summary": "B.League clubs Alvark Tokyo and Sunrockers Shibuya have agreed to jointly use the newly built Toyota Arena Tokyo in Koto Ward as their home venue starting in the 2026-27 season. The roughly 10,000-seat arena's opening prompts Sunrockers Shibuya to relocate its hometown and plan a club name change."
+      },
+      "ja": {
+        "title": "アルバルク東京とサンロッカーズ渋谷、2026-27シーズンより新拠点「TOYOTA ARENA TOKYO」を共同使用へ",
+        "summary": "Bリーグのアルバルク東京とサンロッカーズ渋谷は、江東区に新設される「TOYOTA ARENA TOKYO」を2026-27シーズンからホームアリーナとして共同使用することで合意した。収容人数約1万人規模のこの新アリーナの開業に伴い、サンロッカーズ渋谷はホームタウンの移転とクラブ名変更を予定している。"
+      },
+      "es": {
+        "title": "Alvark Tokyo y Sunrockers Shibuya compartirán el nuevo Toyota Arena Tokyo desde la temporada 2026-27",
+        "summary": "Los clubes de la B.League Alvark Tokyo y Sunrockers Shibuya acordaron usar conjuntamente el recién construido Toyota Arena Tokyo, en el distrito de Koto, como su sede a partir de la temporada 2026-27. La apertura de este recinto de unos 10.000 asientos lleva a Sunrockers Shibuya a trasladar su ciudad natal y planear un cambio de nombre."
+      },
+      "zh": {
+        "title": "阿尔瓦克东京与太阳摇滚者涩谷将从2026-27赛季起共用新建的丰田东京竞技场",
+        "summary": "B联赛球队阿尔瓦克东京与太阳摇滚者涩谷已同意从2026-27赛季起共同使用位于江东区新建的丰田东京竞技场作为主场。这座可容纳约一万人的新场馆启用后，太阳摇滚者涩谷将迁移主场城市并计划更改队名。"
+      },
+      "fr": {
+        "title": "Alvark Tokyo et Sunrockers Shibuya partageront la nouvelle Toyota Arena Tokyo dès la saison 2026-27",
+        "summary": "Les clubs de B.League Alvark Tokyo et Sunrockers Shibuya ont convenu d'utiliser conjointement la nouvelle Toyota Arena Tokyo, construite dans l'arrondissement de Koto, comme domicile à partir de la saison 2026-27. L'ouverture de cette enceinte d'environ 10 000 places pousse Sunrockers Shibuya à déménager sa ville d'attache et à envisager un changement de nom."
+      }
+    }
+  },
+  {
+    "id": "nippon-ham-fighters-eniwa-farm-complex",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "team"
+    ],
+    "published_at": "2026-09-25T00:00:00Z",
+    "source_name": "Hokkaido Nippon-Ham Fighters",
+    "source_url": "https://www.fighters.co.jp/news/detail/202600950240.html",
+    "i18n": {
+      "en": {
+        "title": "Nippon-Ham Fighters Agree to Build New Farm Team Complex in Eniwa",
+        "summary": "The Hokkaido Nippon-Ham Fighters signed a basic agreement with the city of Eniwa to construct a new farm-team facility complex, including a stadium, practice grounds, indoor training center and player dormitory. The project is part of a larger mixed-use development in the area that will also include housing and retail space."
+      },
+      "ja": {
+        "title": "日本ハムファイターズ、恵庭市とファーム施設整備で基本合意",
+        "summary": "北海道日本ハムファイターズは、北海道恵庭市との間で、新たなファーム施設群の整備に関する基本合意を締結した。計画には本拠となる球場のほか、サブグラウンド、屋内練習場、選手寮などが含まれ、住宅や商業施設を含む地域の複合開発計画の一環として進められる。"
+      },
+      "es": {
+        "title": "Los Nippon-Ham Fighters acuerdan construir un nuevo complejo para su equipo filial en Eniwa",
+        "summary": "Los Hokkaido Nippon-Ham Fighters firmaron un acuerdo básico con la ciudad de Eniwa para construir un nuevo complejo de instalaciones para su equipo filial, que incluirá un estadio, campos de entrenamiento, un centro de entrenamiento cubierto y una residencia para jugadores. El proyecto forma parte de un desarrollo urbano de uso mixto más amplio que también incluirá viviendas y comercios."
+      },
+      "zh": {
+        "title": "日本火腿斗士队与惠庭市就新建二军基地达成基本协议",
+        "summary": "北海道日本火腿斗士队与惠庭市签署基本协议，将在当地建设新的二军训练基地，包括主球场、副球场、室内训练设施及球员宿舍等设施。该项目是当地一项包含住宅与商业设施的更大规模综合开发计划的一部分。"
+      },
+      "fr": {
+        "title": "Les Nippon-Ham Fighters s'accordent avec la ville d'Eniwa pour un nouveau complexe d'équipe réserve",
+        "summary": "Les Hokkaido Nippon-Ham Fighters ont signé un accord de principe avec la ville d'Eniwa pour construire un nouveau complexe destiné à leur équipe réserve, comprenant un stade, des terrains d'entraînement, un centre d'entraînement couvert et un dortoir pour les joueurs. Le projet s'inscrit dans un développement urbain mixte plus vaste incluant aussi logements et commerces."
+      }
+    }
+  },
+  {
+    "id": "softbank-hawks-showa-kensetsu-uniform-sponsor-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-25T00:00:00Z",
+    "source_name": "Fukuoka SoftBank Hawks",
+    "source_url": "https://www.softbankhawks.co.jp/news/detail/202600925999.html",
+    "i18n": {
+      "en": {
+        "title": "SoftBank Hawks Renew Uniform Sponsorship With Showa Kensetsu for 16th Straight Season",
+        "summary": "The Fukuoka SoftBank Hawks announced a renewed 2026-season uniform sponsorship agreement with construction company Showa Kensetsu, covering the right-hip patch on the team's playing uniform. The partnership between the two organizations extends an arrangement running continuously since 2011, now in its 16th season."
+      },
+      "ja": {
+        "title": "ソフトバンクホークス、昭和建設とユニフォームスポンサー契約を16年連続で更新",
+        "summary": "福岡ソフトバンクホークスは、建設会社の昭和建設とのユニフォームスポンサー（右腰）契約を2026年シーズンも更新したと発表した。両社の契約は2011年シーズンから継続しており、今季で16シーズン目となる。"
+      },
+      "es": {
+        "title": "Los SoftBank Hawks renuevan el patrocinio del uniforme con Showa Kensetsu por 16ª temporada consecutiva",
+        "summary": "Los Fukuoka SoftBank Hawks anunciaron la renovación del acuerdo de patrocinio del uniforme para la temporada 2026 con la constructora Showa Kensetsu, que cubre el parche en la cadera derecha del uniforme de juego. La asociación entre ambas organizaciones se mantiene de forma ininterrumpida desde 2011 y alcanza ya su 16ª temporada."
+      },
+      "zh": {
+        "title": "软银鹰队与昭和建设续签球衣赞助协议，合作连续进入第16个赛季",
+        "summary": "福冈软银鹰队宣布与建筑公司昭和建设续签2026赛季球衣赞助协议，赞助位置为比赛球衣右侧腰部广告位。双方合作自2011赛季起从未间断，本赛季已是第16个赛季。"
+      },
+      "fr": {
+        "title": "Les SoftBank Hawks renouvellent leur partenariat de sponsoring maillot avec Showa Kensetsu pour une 16e saison consécutive",
+        "summary": "Les Fukuoka SoftBank Hawks ont annoncé le renouvellement, pour la saison 2026, de leur accord de sponsoring maillot avec l'entreprise de construction Showa Kensetsu, portant sur le patch situé à la hanche droite du maillot de match. Ce partenariat entre les deux organisations se poursuit sans interruption depuis 2011 et en est désormais à sa 16e saison."
+      }
+    }
+  },
+  {
+    "id": "jleague-ntt-sustaina-cup-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "fan",
+      "sponsor"
+    ],
+    "published_at": "2026-09-25T00:00:00Z",
+    "source_name": "J.League",
+    "source_url": "https://www.jleague.jp/news/article/34978/",
+    "i18n": {
+      "en": {
+        "title": "J.League and NTT Group Set Fan Climate-Action Campaign \"Sustaina Cup 2026\"",
+        "summary": "J.League and NTT Group announced the \"Sustaina Cup 2026,\" a fan-participation event running October 6 to November 9 across all 60 J.League clubs. Supporters earn points toward their club's ranking by completing photo and quiz challenges tied to everyday climate-friendly habits, accessed through the official event site or the Club J.LEAGUE app, with top-ranked clubs receiving activity-support funding."
+      },
+      "ja": {
+        "title": "Jリーグ、NTTグループとファン参加型環境企画「サステナカップ2026」を開催",
+        "summary": "JリーグとNTTグループは、J1からJ3までの全60クラブを対象にしたファン参加型イベント「サステナカップ2026」を10月6日から11月9日にかけて開催すると発表した。サポーターは日常の気候行動に関するフォトクエストやクイズに参加してポイントを獲得し、応援クラブの順位に反映させる仕組みで、上位クラブには活動支援金が贈られる。"
+      },
+      "es": {
+        "title": "La J.League y NTT Group lanzan la campaña climática para aficionados \"Sustaina Cup 2026\"",
+        "summary": "La J.League y NTT Group anunciaron la \"Sustaina Cup 2026\", un evento participativo para aficionados que se celebrará del 6 de octubre al 9 de noviembre entre los 60 clubes de la liga. Los seguidores suman puntos para la clasificación de su club completando retos fotográficos y cuestionarios sobre hábitos cotidianos respetuosos con el clima, y los clubes mejor clasificados recibirán fondos de apoyo a sus actividades."
+      },
+      "zh": {
+        "title": "J联赛与NTT集团推出球迷气候行动活动「Sustaina Cup 2026」",
+        "summary": "J联赛与NTT集团宣布将于10月6日至11月9日举办面向全部60家俱乐部的球迷参与活动「Sustaina Cup 2026」。球迷通过完成与日常环保行为相关的拍照任务和问答挑战为所支持俱乐部积累排名积分,排名靠前的俱乐部将获得活动支持资金。"
+      },
+      "fr": {
+        "title": "La J.League et NTT Group lancent la campagne climatique pour supporters « Sustaina Cup 2026 »",
+        "summary": "La J.League et le groupe NTT ont annoncé la « Sustaina Cup 2026 », un événement participatif pour les supporters qui se tiendra du 6 octobre au 9 novembre auprès des 60 clubs du championnat. Les fans accumulent des points pour le classement de leur club en relevant des défis photo et des quiz liés à des gestes quotidiens favorables au climat, les clubs les mieux classés recevant un soutien financier pour leurs activités."
+      }
+    }
+  },
+  {
+    "id": "chiba-jets-storyhub-ai-editorial-partner-2026",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "tech",
+      "biz"
+    ],
+    "published_at": "2026-09-28T00:00:00Z",
+    "source_name": "PR Times",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000058.000133529.html",
+    "i18n": {
+      "en": {
+        "title": "B.League's Chiba Jets Sign AI Editorial-Assistant Supplier StoryHub",
+        "summary": "B.League club Chiba Jets Funabashi has signed an official supplier agreement with StoryHub for the 2026-27 season. StoryHub will give the club's small public-relations staff access to its all-in-one AI editorial assistant to help with article planning, interview-audio transcription, document processing, and image curation."
+      },
+      "ja": {
+        "title": "Bリーグ千葉ジェッツ、AI編集アシスタントのストーリーハブとサプライヤー契約",
+        "summary": "Bリーグの千葉ジェッツふなばしは、2026-27シーズンに向けてストーリーハブとオフィシャルサプライヤー契約を締結した。少人数の広報チームが記事の企画やインタビュー音声の文字起こし、資料の処理、画像選定などにAI編集アシスタントを活用できるようになる。"
+      },
+      "es": {
+        "title": "Chiba Jets de la B.League ficha a StoryHub como proveedor de asistente editorial con IA",
+        "summary": "El club de la B.League Chiba Jets Funabashi ha firmado un acuerdo oficial de proveedor con StoryHub para la temporada 2026-27. StoryHub dará a la reducida plantilla de comunicación del club acceso a su asistente editorial de inteligencia artificial para ayudar con la planificación de artículos, la transcripción de entrevistas, el procesamiento de documentos y la selección de imágenes."
+      },
+      "zh": {
+        "title": "B联赛千叶喷气机队签约AI编辑助手供应商StoryHub",
+        "summary": "B联赛球队千叶喷气机队(船桥)与StoryHub签署2026-27赛季官方供应商协议。StoryHub将为该队规模较小的公关团队提供一体化AI编辑助手,协助文章策划、采访录音转写、文档处理及图片筛选等工作。"
+      },
+      "fr": {
+        "title": "Les Chiba Jets de la B.League signent avec le fournisseur d'assistant éditorial IA StoryHub",
+        "summary": "Le club de B.League Chiba Jets Funabashi a signé un accord de fournisseur officiel avec StoryHub pour la saison 2026-27. StoryHub donnera à la petite équipe de communication du club l'accès à son assistant éditorial IA tout-en-un pour l'aider dans la planification d'articles, la transcription d'interviews audio, le traitement de documents et la sélection d'images."
+      }
+    }
+  },
+  {
+    "id": "kawasaki-brave-thunders-gion-sponsor-2026",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "stadium"
+    ],
+    "published_at": "2026-09-30T00:00:00Z",
+    "source_name": "Logi Today",
+    "source_url": "https://www.logi-today.com/856818",
+    "i18n": {
+      "en": {
+        "title": "B.League's Kawasaki Brave Thunders Sign Sponsorship With Logistics Firm Gion",
+        "summary": "Environmental and CSR-focused logistics company Gion signed an official sponsorship agreement with B.League club Kawasaki Brave Thunders. Gion's logo will appear on the center-hung scoreboard at the team's home venue, Todoroki Arena by Tokyu Dress."
+      },
+      "ja": {
+        "title": "Bリーグ川崎ブレイブサンダース、物流企業ギオンとスポンサー契約を締結",
+        "summary": "環境・CSR活動に力を入れる物流企業ギオンは、Bリーグの川崎ブレイブサンダースと公式スポンサー契約を締結した。ギオンのロゴは、チームのホームアリーナである「とどろきアリーナ by Tokyu Dress」のセンターハングスコアボードに掲出される。"
+      },
+      "es": {
+        "title": "El Kawasaki Brave Thunders de la B.League firma un patrocinio con la empresa logística Gion",
+        "summary": "La empresa logística Gion, enfocada en sostenibilidad y responsabilidad social, firmó un acuerdo de patrocinio oficial con el club de la B.League Kawasaki Brave Thunders. El logotipo de Gion aparecerá en el marcador central suspendido de la sede local del equipo, el Todoroki Arena by Tokyu Dress."
+      },
+      "zh": {
+        "title": "B联赛川崎勇者雷霆与物流企业Gion签署赞助协议",
+        "summary": "专注于环保和企业社会责任的物流公司Gion与日本B联赛球队川崎勇者雷霆签署了官方赞助协议。Gion的标识将出现在球队主场“Todoroki Arena by Tokyu Dress”的中央悬挂记分屏上。"
+      },
+      "fr": {
+        "title": "Le club de B.League Kawasaki Brave Thunders signe un partenariat avec l'entreprise logistique Gion",
+        "summary": "L'entreprise de logistique Gion, engagée dans des démarches environnementales et de RSE, a signé un accord de sponsoring officiel avec le club de B.League Kawasaki Brave Thunders. Le logo de Gion apparaîtra sur le tableau d'affichage central suspendu de la salle du club, la Todoroki Arena by Tokyu Dress."
+      }
+    }
+  },
+  {
+    "id": "asc-hokkaido-funding-round-jleague-bid-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-10-01T00:00:00Z",
+    "source_name": "PR TIMES",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000006.000168531.html",
+    "i18n": {
+      "en": {
+        "title": "J.League Hopeful ASC Hokkaido Raises ¥60 Million From Regional Investor Group",
+        "summary": "ASC Hokkaido, a semi-professional club based in Tomakomai and Atsuma chasing a future J.League berth, raised roughly ¥60 million through a third-party allotment of non-voting preferred shares bought by regional companies, sponsors and other backers. The club says the move shifts it away from reliance on a single individual owner toward broader organizational management while founders retain full voting control."
+      },
+      "ja": {
+        "title": "Jリーグ入りを目指すASC北海道、地域投資家団から6000万円を調達",
+        "summary": "苫小牧・厚真を拠点に将来のJリーグ参入を目指す社会人クラブ「ASC北海道」は、地域企業やスポンサー、支援者らを引受先とする無議決権種類株式の第三者割当増資により約6000万円を調達した。創業者が議決権を維持しつつ、個人依存の経営から組織的な経営体制へ移行する狙いがあるという。"
+      },
+      "es": {
+        "title": "ASC Hokkaido, aspirante a la J.League, recauda 60 millones de yenes de un grupo de inversores regionales",
+        "summary": "ASC Hokkaido, un club semiprofesional con sede en Tomakomai y Atsuma que aspira a ingresar en el futuro a la J.League, recaudó alrededor de 60 millones de yenes mediante una colocación privada de acciones preferentes sin derecho a voto adquiridas por empresas regionales, patrocinadores y otros respaldos. El club afirma que el movimiento lo aleja de depender de un único propietario hacia una gestión organizacional más amplia, mientras los fundadores conservan el control total del voto."
+      },
+      "zh": {
+        "title": "志在晋级日职联的ASC北海道从地区投资者团体筹集6000万日元",
+        "summary": "总部位于苫小牧和厚真、志在未来晋级日本职业足球联赛（J联赛）的半职业俱乐部ASC北海道，通过向地区企业、赞助商及其他支持者定向增发无表决权优先股，筹集了约6000万日元资金。俱乐部表示，此举旨在摆脱对单一个人所有者的依赖，转向更广泛的组织化经营，同时创始人仍保留全部表决权。"
+      },
+      "fr": {
+        "title": "ASC Hokkaido, aspirant à la J.League, lève 60 millions de yens auprès d'un groupe d'investisseurs régionaux",
+        "summary": "ASC Hokkaido, un club semi-professionnel basé à Tomakomai et Atsuma qui vise à terme une place en J.League, a levé environ 60 millions de yens via un placement privé d'actions préférentielles sans droit de vote auprès d'entreprises régionales, de sponsors et d'autres soutiens. Le club indique que cette opération l'éloigne de la dépendance à un propriétaire unique au profit d'une gestion organisationnelle plus large, les fondateurs conservant l'intégralité du contrôle des votes."
+      }
+    }
+  },
+  {
+    "id": "chiba-jets-komainu-craft-beer-2026",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-10-01T00:00:00Z",
+    "source_name": "Impress Watch",
+    "source_url": "https://gourmet.watch.impress.co.jp/docs/news/2054751.html",
+    "i18n": {
+      "en": {
+        "title": "Chiba Jets Launch Player-Produced Craft Beers With Sponsor Komainu",
+        "summary": "B.League club Chiba Jets Funabashi has teamed up with official sponsor Komainu, a craft brewery in Kashiwa, to release two beers produced by players Takuma Sato and Raita Akaho. The beers will be sold via subscription and at home games on October 16 and 23, with fan voting on sales determining entry into a special meet-up event for subscribers."
+      },
+      "ja": {
+        "title": "千葉ジェッツ、スポンサーのこまいぬと選手プロデュースのクラフトビールを発売",
+        "summary": "Bリーグ・千葉ジェッツふなばしは、柏市のクラフトブルワリー「こまいぬ」と共同で、佐藤卓磨選手と赤穗雷太選手がプロデュースした2種類のビールを発売すると発表した。ビールは定期購入（サブスクリプション）のほか、10月16日と23日のホームゲームでも販売され、売上を競う企画で定期購入者の中から抽選で交流会イベントへの招待者が選ばれる。"
+      },
+      "es": {
+        "title": "Chiba Jets lanza cervezas artesanales producidas por jugadores con su patrocinador Komainu",
+        "summary": "El club de la B.League Chiba Jets Funabashi se asoció con su patrocinador oficial Komainu, una cervecería artesanal de Kashiwa, para lanzar dos cervezas producidas por los jugadores Takuma Sato y Raita Akaho. Las cervezas se venderán por suscripción y en los partidos en casa del 16 y 23 de octubre, y la votación de ventas de los aficionados determinará la entrada a un evento especial de encuentro para suscriptores."
+      },
+      "zh": {
+        "title": "千叶喷气机队与赞助商Komainu联合推出球员打造的精酿啤酒",
+        "summary": "B联赛俱乐部千叶喷气机船桥队与官方赞助商、柏市精酿啤酒厂Komainu合作，推出由球员佐藤卓磨和赤穗雷太共同打造的两款啤酒。这两款啤酒将通过订阅方式销售，并在10月16日及23日的主场比赛中出售，销量较高的一款将决定订阅用户抽签参加特别交流活动的资格。"
+      },
+      "fr": {
+        "title": "Les Chiba Jets lancent des bières artisanales conçues par leurs joueurs avec le sponsor Komainu",
+        "summary": "Le club de B.League Chiba Jets Funabashi s'est associé à son sponsor officiel Komainu, une brasserie artisanale de Kashiwa, pour lancer deux bières conçues par les joueurs Takuma Sato et Raita Akaho. Les bières seront vendues par abonnement et lors des matchs à domicile des 16 et 23 octobre, le vote des ventes des supporters déterminant l'accès à un événement de rencontre réservé aux abonnés."
+      }
+    }
+  },
+  {
+    "id": "jcb-samurai-japan-diamond-partner-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-10-01T00:00:00Z",
+    "source_name": "Baseball King",
+    "source_url": "https://baseballking.jp/ns/708611/",
+    "i18n": {
+      "en": {
+        "title": "JCB Named New Diamond Partner of Japan's Samurai Japan National Team",
+        "summary": "Credit card company JCB has been named the new \"Diamond Partner\" of Samurai Japan, the Japanese national baseball team, with its logo set to appear on the team's uniform sleeve. JCB said it was drawn to the partnership by a shared identity as a brand born in Japan that aims to compete globally. The company has a long history of baseball-related sponsorship dating back to 1990."
+      },
+      "ja": {
+        "title": "JCB、野球日本代表「侍ジャパン」の新たなダイヤモンドパートナーに就任",
+        "summary": "クレジットカード会社のJCBが、野球日本代表「侍ジャパン」の新たな「ダイヤモンドパートナー」に就任し、同社のロゴがユニホームの袖に掲出されることになった。JCBは、日本発でありながら世界に挑戦するという共通点に共感し、侍ジャパンとの協賛を決めたとしている。同社は1990年以来、長年にわたり野球関連の協賛活動を続けてきた。"
+      },
+      "es": {
+        "title": "JCB, nombrada nueva Diamond Partner de la selección japonesa Samurai Japan",
+        "summary": "La empresa de tarjetas de crédito JCB ha sido nombrada nueva \"Diamond Partner\" de Samurai Japan, la selección nacional de béisbol de Japón, y su logotipo aparecerá en la manga del uniforme del equipo. JCB señaló que decidió asociarse con Samurai Japan por compartir una identidad de marca nacida en Japón que busca competir a nivel mundial. La compañía cuenta con una larga trayectoria de patrocinio relacionado con el béisbol que se remonta a 1990."
+      },
+      "zh": {
+        "title": "JCB成为日本棒球国家队“武士日本”新晋钻石合作伙伴",
+        "summary": "信用卡公司JCB已成为日本棒球国家队“武士日本”的新晋“钻石合作伙伴”，其品牌标志将出现在球队球衣袖口上。JCB表示，之所以选择与武士日本合作，是因为双方都拥有“诞生于日本、志在挑战世界”的共同身份认同。该公司自1990年起便长期开展与棒球相关的赞助活动。"
+      },
+      "fr": {
+        "title": "JCB devient le nouveau Diamond Partner de la sélection japonaise Samurai Japan",
+        "summary": "L'émetteur de cartes de crédit JCB est devenu le nouveau « Diamond Partner » de Samurai Japan, l'équipe nationale japonaise de baseball, et son logo figurera désormais sur la manche du maillot de l'équipe. JCB explique avoir choisi ce partenariat en raison d'une identité commune : une marque née au Japon qui ambitionne de rivaliser à l'échelle mondiale. L'entreprise entretient de longue date des liens de sponsoring avec le baseball, remontant à 1990."
+      }
+    }
+  },
+  {
+    "id": "jba-dentsu-partnership-2026",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "biz",
+      "sponsor"
+    ],
+    "published_at": "2026-10-01T00:00:00Z",
+    "source_name": "Daily Sports",
+    "source_url": "https://www.daily.co.jp/general/2026/10/01/0020880393.shtml",
+    "i18n": {
+      "en": {
+        "title": "Japan Basketball Association Partners With Dentsu to Grow Basketball Business",
+        "summary": "The Japan Basketball Association (JBA) announced a new partnership with advertising giant Dentsu aimed at expanding basketball's commercial footprint nationwide. The agreement centers on marketing support for JBA's 'ONE Basketball' initiative and a roadmap for developing the next generation of players, as the federation looks to broaden sponsorship and fan engagement beyond the professional B.League."
+      },
+      "ja": {
+        "title": "日本バスケットボール協会、電通とパートナーシップ契約を締結",
+        "summary": "日本バスケットボール協会(JBA)は、広告大手の電通と新たなパートナーシップ契約を結んだと発表した。協会が進める「ワンバスケットボール」構想のマーケティング支援と、次世代選手育成に向けた取り組みが契約の中心となっている。プロリーグのBリーグだけでなく、バスケットボール界全体でスポンサーシップとファン層の拡大を目指す動きの一環となる。"
+      },
+      "es": {
+        "title": "La Federación Japonesa de Baloncesto se asocia con Dentsu para impulsar el negocio del baloncesto",
+        "summary": "La Federación Japonesa de Baloncesto (JBA) anunció una nueva asociación con el gigante publicitario Dentsu con el objetivo de ampliar la presencia comercial del baloncesto en todo el país. El acuerdo se centra en apoyo de marketing para la iniciativa 'ONE Basketball' de la JBA y en una hoja de ruta para desarrollar a la próxima generación de jugadores, en un esfuerzo por ampliar el patrocinio y el compromiso de los aficionados más allá de la liga profesional B.League."
+      },
+      "zh": {
+        "title": "日本篮球协会与电通达成合作伙伴关系,推动篮球产业发展",
+        "summary": "日本篮球协会(JBA)宣布与广告巨头电通建立新的合作伙伴关系,旨在扩大篮球运动在全国范围内的商业影响力。协议内容主要围绕为JBA的“ONE Basketball”计划提供营销支持,以及制定培养新一代球员的路线图,协会希望借此在职业B联赛之外进一步拓展赞助与球迷参与度。"
+      },
+      "fr": {
+        "title": "La Fédération japonaise de basketball s'associe à Dentsu pour développer l'activité du basketball",
+        "summary": "La Fédération japonaise de basketball (JBA) a annoncé un nouveau partenariat avec le géant de la publicité Dentsu, visant à développer la présence commerciale du basketball à l'échelle nationale. L'accord porte principalement sur un soutien marketing à l'initiative « ONE Basketball » de la JBA et sur une feuille de route pour former la prochaine génération de joueurs, la fédération cherchant à élargir le parrainage et l'engagement des fans au-delà de la ligue professionnelle B.League."
+      }
+    }
+  },
+  {
+    "id": "npb-taisho-pharmaceutical-draft-sponsor-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-10-01T00:00:00Z",
+    "source_name": "NPB (via Digital PR Platform)",
+    "source_url": "https://digitalpr.jp/r/90569",
+    "i18n": {
+      "en": {
+        "title": "NPB Names Taisho Pharmaceutical Special Sponsor of 2026 Draft for 14th Straight Year",
+        "summary": "Nippon Professional Baseball confirmed Taisho Pharmaceutical as special sponsor of the 2026 NPB Draft Conference, officially titled the \"Draft Conference supported by Lipovitan D.\" It marks the pharmaceutical company's 14th consecutive year backing the event, which is scheduled for October 22, 2026."
+      },
+      "ja": {
+        "title": "NPB、2026年度ドラフト会議の特別協賛に大正製薬 14年連続",
+        "summary": "日本野球機構(NPB)は、2026年のプロ野球ドラフト会議の特別協賛企業として大正製薬を発表した。正式名称は「リポビタンD ドラフト会議」で、同社によるこのイベントへの協賛は14年連続となる。会議は2026年10月22日に開催される予定。"
+      },
+      "es": {
+        "title": "NPB designa a Taisho Pharmaceutical como patrocinador especial del Draft 2026 por 14º año consecutivo",
+        "summary": "Nippon Professional Baseball confirmó a Taisho Pharmaceutical como patrocinador especial de la Conferencia del Draft de la NPB 2026, cuyo nombre oficial es \"Draft Conference supported by Lipovitan D\". Se trata del 14º año consecutivo en que la farmacéutica respalda este evento, programado para el 22 de octubre de 2026."
+      },
+      "zh": {
+        "title": "日本职棒NPB公布大正制药连续第14年成为2026年选秀会特别赞助商",
+        "summary": "日本职业棒球组织（NPB）确认大正制药将担任2026年NPB选秀会的特别赞助商，该活动正式名称为“Lipovitan D选秀会”。这是该制药公司连续第14年支持此项活动，选秀会定于2026年10月22日举行。"
+      },
+      "fr": {
+        "title": "La NPB nomme Taisho Pharmaceutical sponsor spécial de la Draft 2026 pour la 14e année consécutive",
+        "summary": "La Nippon Professional Baseball a confirmé Taisho Pharmaceutical comme sponsor spécial de la Conférence de Draft NPB 2026, officiellement baptisée « Draft Conference supported by Lipovitan D ». Il s'agit de la 14e année consécutive où le laboratoire pharmaceutique soutient cet événement, prévu le 22 octobre 2026."
+      }
+    }
+  },
+  {
+    "id": "bleague-hisense-official-sponsor-2026",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-10-01T18:00:00Z",
+    "source_name": "GetNavi",
+    "source_url": "https://getnavi.jp/appliances/1109666/",
+    "i18n": {
+      "en": {
+        "title": "Hisense Japan Named Official B.League Sponsor for 2026-27 Season",
+        "summary": "Hisense Japan has signed on as an official sponsor of the B.League starting with the 2026-27 season. The electronics maker said the partnership is intended to create new value for fans and enhance the in-arena viewing experience."
+      },
+      "ja": {
+        "title": "ハイセンスジャパン、2026-27シーズンからBリーグ公式スポンサーに",
+        "summary": "ハイセンスジャパンは2026-27シーズンよりBリーグの公式スポンサーに就任したと発表した。同社は今回の提携についてファンに新たな価値を提供し、会場での観戦体験を向上させることを目指すとしている。"
+      },
+      "es": {
+        "title": "Hisense Japan, nuevo patrocinador oficial de la B.League para la temporada 2026-27",
+        "summary": "Hisense Japan se ha convertido en patrocinador oficial de la B.League a partir de la temporada 2026-27. El fabricante de electrónica señaló que la alianza busca generar nuevo valor para los aficionados y mejorar la experiencia de los espectadores en el pabellón."
+      },
+      "zh": {
+        "title": "海信日本成为B联赛2026-27赛季官方赞助商",
+        "summary": "海信日本宣布自2026-27赛季起成为B联赛官方赞助商。该电子制造商表示，此次合作旨在为球迷创造新的价值，并提升现场观赛体验。"
+      },
+      "fr": {
+        "title": "Hisense Japan devient sponsor officiel de la B.League pour la saison 2026-27",
+        "summary": "Hisense Japan est devenu sponsor officiel de la B.League à partir de la saison 2026-27. Le fabricant d'électronique a indiqué que ce partenariat vise à créer une nouvelle valeur pour les supporters et à améliorer l'expérience des spectateurs en salle."
+      }
+    }
+  },
+  {
+    "id": "jleague-denies-sponsor-club-naming-report-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-10-02T06:00:00Z",
+    "source_name": "J.League",
+    "source_url": "https://www.jleague.jp/news/article/7381/",
+    "i18n": {
+      "en": {
+        "title": "J.League Denies Report It Would Allow Sponsor Names in Club Names",
+        "summary": "Japan's J.League has publicly denied media reports suggesting the league would allow sponsor company names to be incorporated directly into club names, calling such reports inaccurate. The league's official statement clarified that no rule change permitting sponsor-branded club names is currently under consideration. The clarification comes amid broader discussion in Japanese soccer about club commercialization and sponsorship structures."
+      },
+      "ja": {
+        "title": "Jリーグ、スポンサー名をクラブ名に組み込む方針を否定",
+        "summary": "Jリーグは、スポンサー企業名をクラブ名に直接組み込むことを認める方針であるとする一部報道について、事実と異なるとして公式に否定した。リーグの公式発表では、スポンサー名を冠したクラブ名を認めるルール変更は現時点で検討されていないと明確にされている。この見解表明は、日本サッカー界におけるクラブの商業化やスポンサー構造を巡る議論が広がる中で出されたものである。"
+      },
+      "es": {
+        "title": "La J.League desmiente que vaya a permitir nombres de patrocinadores en los clubes",
+        "summary": "La J.League de Japón desmintió públicamente informes mediáticos que sugerían que la liga permitiría incorporar nombres de empresas patrocinadoras directamente en los nombres de los clubes, calificando dichos informes de inexactos. El comunicado oficial de la liga aclaró que actualmente no se está considerando ningún cambio de normativa que permita nombres de clubes con marca de patrocinador. La aclaración se produce en medio de un debate más amplio en el fútbol japonés sobre la comercialización de los clubes y las estructuras de patrocinio."
+      },
+      "zh": {
+        "title": "J联赛否认将允许赞助商名称并入俱乐部名称的报道",
+        "summary": "日本J联赛公开否认了有关联赛将允许赞助企业名称直接并入俱乐部名称的媒体报道,称相关报道不准确。联赛官方声明澄清称,目前并未在考虑允许以赞助商命名俱乐部的规则变更。此次澄清正值日本足球界围绕俱乐部商业化与赞助体系展开更广泛讨论之际。"
+      },
+      "fr": {
+        "title": "La J.League dément vouloir autoriser le nom d'un sponsor dans celui des clubs",
+        "summary": "La J.League japonaise a officiellement démenti des informations relayées par certains médias selon lesquelles la ligue autoriserait l'intégration directe du nom d'un sponsor dans le nom des clubs, qualifiant ces informations d'inexactes. Le communiqué officiel de la ligue a précisé qu'aucun changement de règlement permettant des noms de clubs associés à un sponsor n'est actuellement envisagé. Cette clarification intervient dans un contexte de débat plus large dans le football japonais autour de la commercialisation des clubs et des structures de sponsoring."
+      }
+    }
+  },
+  {
+    "id": "toyota-tops-jleague-shirt-sponsor-ranking-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-10-02T06:00:00Z",
+    "source_name": "Football Channel",
+    "source_url": "https://www.footballchannel.jp/?p=710751",
+    "i18n": {
+      "en": {
+        "title": "Toyota Tops Ranking of J.League Shirt Sponsors by Parent-Company Revenue",
+        "summary": "A ranking of J.League clubs' main shirt sponsors by the parent company's annual revenue places Toyota Motor, which backs Nagoya Grampus, at the top of the list. The analysis, compiled by Football Channel, highlights how major Japanese manufacturers continue to anchor top-flight soccer sponsorships in Japan. The ranking illustrates the scale of corporate backing behind some J.League clubs relative to others in the league."
+      },
+      "ja": {
+        "title": "Jリーグ胸スポンサー、親会社売上高ランキングでトヨタが首位",
+        "summary": "Jリーグ各クラブのメインスポンサー企業を、親会社の年間売上高で比較したランキングで、名古屋グランパスを支援するトヨタ自動車が首位となった。このランキングはフットボールチャンネルがまとめたもので、日本の大手製造業各社がトップリーグのサッカースポンサーを引き続き支えている実態を浮き彫りにしている。この結果は、Jリーグ内でもクラブごとに企業からの支援規模に大きな差があることを示している。"
+      },
+      "es": {
+        "title": "Toyota lidera el ranking de patrocinadores de camiseta de la J.League por ingresos de la matriz",
+        "summary": "Un ranking de los principales patrocinadores de camiseta de los clubes de la J.League, ordenado según los ingresos anuales de la empresa matriz, sitúa a Toyota Motor, que respalda al Nagoya Grampus, en el primer puesto. El análisis, elaborado por Football Channel, destaca cómo los grandes fabricantes japoneses siguen siendo el pilar de los patrocinios en la máxima categoría del fútbol japonés. El ranking muestra la diferencia de escala en el respaldo corporativo entre distintos clubes de la liga."
+      },
+      "zh": {
+        "title": "按母公司营收排名 丰田位居J联赛球衣赞助商榜首",
+        "summary": "一项按母公司年营收对J联赛各俱乐部主要球衣赞助商进行排名的分析显示,支持名古屋鲸八(Nagoya Grampus)的丰田汽车位居榜首。这份由Football Channel整理的分析凸显了日本大型制造企业持续支撑顶级联赛足球赞助的格局。该排名也反映出J联赛内部各俱乐部获得企业支持规模存在明显差距。"
+      },
+      "fr": {
+        "title": "Toyota en tête du classement des sponsors maillot de J.League par chiffre d'affaires de la maison mère",
+        "summary": "Un classement des principaux sponsors maillot des clubs de J.League, établi selon le chiffre d'affaires annuel de la maison mère, place Toyota Motor, sponsor du Nagoya Grampus, en tête de liste. Cette analyse, réalisée par Football Channel, met en lumière le rôle central que continuent de jouer les grands industriels japonais dans le sponsoring du football de haut niveau au Japon. Ce classement illustre l'écart d'ampleur du soutien des entreprises selon les clubs de la ligue."
+      }
+    }
+  },
+  {
+    "id": "att-cowboys-stadium-tech-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "tech",
+      "fan",
+      "stadium"
+    ],
+    "published_at": "2026-09-18T00:00:00Z",
+    "source_name": "AT&T",
+    "source_url": "https://about.att.com/story/2026/dallas-cowboys-partnership.html",
+    "i18n": {
+      "en": {
+        "title": "AT&T Debuts AI-Powered Fan Technology at AT&T Stadium for 2026 Season",
+        "summary": "AT&T has rolled out a new round of connected-stadium technology at AT&T Stadium for the Dallas Cowboys' 2026 season, built on its fiber network. The upgrades include AI-powered in-game moments, smarter in-venue navigation, and more immersive video and mixed-reality features for fans attending games."
+      },
+      "ja": {
+        "title": "AT&T、2026シーズンのAT&Tスタジアムに向けAI活用のファン向け新技術を導入",
+        "summary": "AT&Tは、ダラス・カウボーイズの2026シーズンに合わせ、自社の光回線網を基盤としたコネクテッド・スタジアム技術をAT&Tスタジアムに新たに導入した。アップグレード内容には、AIを活用した試合中のハイライト機能、スタジアム内でのより分かりやすい案内、観戦者向けの臨場感ある映像や複合現実(MR)機能の強化が含まれる。"
+      },
+      "es": {
+        "title": "AT&T estrena tecnología para aficionados impulsada por IA en el AT&T Stadium para la temporada 2026",
+        "summary": "AT&T ha desplegado una nueva generación de tecnología de estadio conectado en el AT&T Stadium para la temporada 2026 de los Dallas Cowboys, basada en su red de fibra. Las mejoras incluyen momentos de juego potenciados por IA, una navegación más inteligente dentro del recinto y funciones de video inmersivo y realidad mixta para los aficionados."
+      },
+      "zh": {
+        "title": "AT&T为2026赛季AT&T体育场推出人工智能驱动的球迷新技术",
+        "summary": "AT&T为达拉斯牛仔队2026赛季在AT&T体育场推出新一轮基于其光纤网络的智能场馆技术。此次升级包括人工智能驱动的比赛精彩时刻呈现、更智能的场馆内导航，以及为现场球迷打造的沉浸式视频和混合现实功能。"
+      },
+      "fr": {
+        "title": "AT&T lance une technologie pour les supporters pilotée par l'IA à l'AT&T Stadium pour la saison 2026",
+        "summary": "AT&T a déployé une nouvelle génération de technologie de stade connecté à l'AT&T Stadium pour la saison 2026 des Dallas Cowboys, basée sur son réseau fibre. Les améliorations incluent des moments de jeu propulsés par l'IA, une navigation plus intelligente dans l'enceinte et des fonctions vidéo immersives et de réalité mixte pour les supporters."
+      }
+    }
+  },
+  {
     "id": "warriors-iren-jersey-patch-record-2026",
     "sport": "basketball",
     "region": "global",
@@ -1414,74 +2059,6 @@
       "fr": {
         "title": "Galatasaray vise plus de 100 millions d'euros de revenus annuels de sponsoring",
         "summary": "Galatasaray a généré environ 85 à 90 millions d'euros de revenus de sponsoring lors de la saison 2025-26 et cherche désormais à dépasser les 100 millions d'euros à court terme. Le champion turc a étendu son portefeuille commercial à travers des accords de maillot, de stade et d'équipementier dans le cadre de cette croissance."
-      }
-    }
-  },
-  {
-    "id": "bleague-b-kakushin-structural-reform-2026-27",
-    "sport": "basketball",
-    "region": "japan",
-    "topics": [
-      "biz",
-      "team"
-    ],
-    "published_at": "2026-09-21T00:00:00Z",
-    "source_name": "Chukei News",
-    "source_url": "https://www.chukei-news.co.jp/news/2026/09/21/OK0002609210b01_01/",
-    "i18n": {
-      "en": {
-        "title": "B.League Launches 'B.Kakushin' Reform Overhauling Division Structure",
-        "summary": "Japan's B.League began its 2026-27 season under a sweeping reform dubbed 'B.Kakushin,' restructuring into a 26-team B.Premier and a five-region, 25-team B.One tier. Promotion decisions now weigh clubs' business fundamentals, including attendance and revenue over the prior three years, as part of a plan targeting roughly 80 billion yen in league-wide business scale."
-      },
-      "ja": {
-        "title": "Bリーグ、部門構成を刷新する「B.革新」始動",
-        "summary": "日本のBリーグは、2026-27シーズンから「B.革新」と呼ばれる大規模な制度改革に踏み出し、26クラブによるBプレミアと5地区25クラブのBワンという新体制に移行した。昇格判断には直近3年間の入場者数や売上高などクラブの経営基盤が重視され、事業規模800億円を目標とする中期経営計画の一環となっている。"
-      },
-      "es": {
-        "title": "La B.League lanza la reforma 'B.Kakushin' que renueva su estructura de divisiones",
-        "summary": "La B.League japonesa inició la temporada 2026-27 bajo una amplia reforma llamada 'B.Kakushin', reorganizándose en una B.Premier de 26 clubes y una B.One de 25 clubes divididos en cinco regiones. Las decisiones de ascenso ahora ponderan los fundamentos comerciales de los clubes, incluidos asistencia e ingresos de los últimos tres años, como parte de un plan que apunta a unos 80.000 millones de yenes de escala de negocio de la liga."
-      },
-      "zh": {
-        "title": "日本B联赛启动“B.革新”改革，重塑分级体系",
-        "summary": "日本B联赛在2026-27赛季启动名为“B.革新”的大规模制度改革，重组为26支球队组成的B.Premier和按五个地区划分、共25支球队的B.One。升级评审现在更看重俱乐部近三年的入场人数、营收等经营基础，这是联赛冲击约800亿日元事业规模中期目标的一部分。"
-      },
-      "fr": {
-        "title": "La B.League lance la réforme « B.Kakushin » qui refond sa structure de divisions",
-        "summary": "La B.League japonaise a entamé la saison 2026-27 sous une vaste réforme baptisée « B.Kakushin », se réorganisant en une B.Premier de 26 clubs et une B.One de 25 clubs répartis en cinq régions. Les décisions de promotion tiennent désormais compte des fondamentaux économiques des clubs, dont la fréquentation et les revenus des trois dernières années, dans le cadre d'un plan visant environ 80 milliards de yens de chiffre d'affaires pour la ligue."
-      }
-    }
-  },
-  {
-    "id": "japan-league-routeinn-bc-league-partnership-2026",
-    "sport": "baseball",
-    "region": "japan",
-    "topics": [
-      "biz",
-      "team"
-    ],
-    "published_at": "2026-09-21T00:00:00Z",
-    "source_name": "PR TIMES",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000074.000149949.html",
-    "i18n": {
-      "en": {
-        "title": "Japan League and Route Inn BC League Renew Player-Development Partnership for Third Year",
-        "summary": "Japan League and Route Inn BC League, an independent Japanese baseball circuit, extended their business partnership for a third consecutive year to give off-season players more competitive game time. Selected Route Inn BC League players will join the Japan Winter League 2026 event in Okinawa, running from November 21 to December 17, to sharpen their skills ahead of next season."
-      },
-      "ja": {
-        "title": "ジャパンリーグとルートインBCリーグ、選手育成での業務提携を3年連続で更新",
-        "summary": "独立系プロ野球リーグを運営するジャパンリーグとルートインBCリーグは、オフシーズンの選手に実戦機会を提供する業務提携を3年連続で締結した。ルートインBCリーグの選抜選手は、11月21日から12月17日まで沖縄で開催される「ジャパン・ウィンター・リーグ2026」に参加し、来季に向けて実戦経験を積む。"
-      },
-      "es": {
-        "title": "Japan League y Route Inn BC League renuevan por tercer año su alianza de desarrollo de jugadores",
-        "summary": "Japan League y Route Inn BC League, un circuito independiente de béisbol japonés, extendieron su alianza comercial por tercer año consecutivo para dar a los jugadores más partidos competitivos en la temporada baja. Jugadores seleccionados de Route Inn BC League participarán en la Japan Winter League 2026, en Okinawa, del 21 de noviembre al 17 de diciembre, para perfeccionar su nivel antes de la próxima temporada."
-      },
-      "zh": {
-        "title": "Japan League与Route Inn BC League续签第三年球员培养合作",
-        "summary": "日本独立棒球联盟Route Inn BC League与Japan League续签第三年业务合作，旨在为休赛期球员提供更多实战比赛机会。经选拔的Route Inn BC League球员将参加11月21日至12月17日在冲绳举行的“Japan Winter League 2026”，以在新赛季前提升竞技水平。"
-      },
-      "fr": {
-        "title": "Japan League et Route Inn BC League renouvellent pour la troisième année leur partenariat de développement des joueurs",
-        "summary": "Japan League et Route Inn BC League, un circuit indépendant de baseball japonais, ont prolongé pour la troisième année consécutive leur partenariat afin d'offrir plus de matchs compétitifs aux joueurs pendant l'intersaison. Des joueurs sélectionnés de Route Inn BC League participeront à la Japan Winter League 2026, à Okinawa, du 21 novembre au 17 décembre, pour progresser avant la saison prochaine."
       }
     }
   },
@@ -1826,175 +2403,6 @@
       "fr": {
         "title": "Rochester, dans le Minnesota, approuve un accord de naming pour son nouveau complexe sportif",
         "summary": "Le conseil municipal de Rochester a approuvé un accord de droits de dénomination avec Altra Federal Credit Union pour le nouveau complexe sportif extérieur multisports de la ville, qui sera baptisé Altra Sportsplex. L'accord prévoit une redevance annuelle débutant à environ 210 000 dollars, augmentant de 3 % chaque année à partir de la troisième."
-      }
-    }
-  },
-  {
-    "id": "bleague-kakushin-2026-27-season-launch",
-    "sport": "basketball",
-    "region": "japan",
-    "topics": [
-      "biz"
-    ],
-    "published_at": "2026-09-22T00:00:00Z",
-    "source_name": "B.LEAGUE",
-    "source_url": "https://www.bleague.jp/new-bleague/",
-    "i18n": {
-      "en": {
-        "title": "Japan's B.League Launches Overhauled 'B.Kakushin' Structure for 2026-27",
-        "summary": "B.League kicked off its 2026-27 season under a reform package dubbed 'B.Kakushin,' which raises club licensing standards, moves to an expansion-style model without promotion or relegation based on results, and introduces a salary cap. The league says the changes are meant to strengthen club finances and support long-term regional growth."
-      },
-      "ja": {
-        "title": "Bリーグ、2026-27シーズンから新体制「B.革新」がスタート",
-        "summary": "Bリーグは「B.革新」と銘打った改革のもとで2026-27シーズンを開幕させた。クラブライセンス基準の引き上げ、競技成績による昇降格を廃止したエクスパンション型リーグへの移行、サラリーキャップ導入が柱となる。リーグ側はこれらの改革によりクラブ経営の強化と持続的な地域創生を図るとしている。"
-      },
-      "es": {
-        "title": "La B.League japonesa estrena su estructura reformada 'B.Kakushin' para 2026-27",
-        "summary": "La B.League inició su temporada 2026-27 bajo un paquete de reformas denominado 'B.Kakushin', que eleva los estándares de licencia de los clubes, adopta un modelo de expansión sin ascensos ni descensos por resultados deportivos e introduce un tope salarial. La liga afirma que los cambios buscan fortalecer las finanzas de los clubes y apoyar el crecimiento regional a largo plazo."
-      },
-      "zh": {
-        "title": "日本B联赛2026-27赛季启动“B.革新”改革新体制",
-        "summary": "日本职业篮球B联赛在名为“B.革新”的改革方案下开启2026-27赛季，改革内容包括提高俱乐部准入标准、转向不再依据战绩升降级的扩张型联盟模式，并引入薪资帽制度。联盟方面表示，这些变革旨在强化俱乐部财务状况并支持地区的持续发展。"
-      },
-      "fr": {
-        "title": "La B.League japonaise lance sa nouvelle structure réformée « B.Kakushin » pour 2026-27",
-        "summary": "La B.League a entamé sa saison 2026-27 sous un plan de réforme baptisé « B.Kakushin », qui relève les normes de licence des clubs, adopte un modèle d'expansion sans montée ni descente basée sur les résultats, et instaure un plafond salarial. La ligue indique que ces changements visent à renforcer les finances des clubs et à soutenir une croissance régionale durable."
-      }
-    }
-  },
-  {
-    "id": "bleague-2026-27-season-uniqlo-tomica-licca-fan-collab",
-    "sport": "basketball",
-    "region": "japan",
-    "topics": [
-      "fan",
-      "sponsor"
-    ],
-    "published_at": "2026-09-22T00:00:00Z",
-    "source_name": "MSN Japan",
-    "source_url": "https://www.msn.com/ja-jp/news/other/%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD%E3%82%84%E3%83%88%E3%83%9F%E3%82%AB-%E3%83%AA%E3%82%AB%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E3%82%82%E3%82%B3%E3%83%A9%E3%83%9C-922%E9%96%8B%E5%B9%95%E3%81%AEb%E3%83%AA%E3%83%BC%E3%82%B0-2026-27%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B3-%E3%81%8C%E3%83%95%E3%82%A1%E3%83%B3%E5%B1%A4%E3%82%92%E5%BA%83%E3%81%92%E3%82%8B/ar-AA2cEXy3",
-    "i18n": {
-      "en": {
-        "title": "B.League Taps Uniqlo, Tomica and Licca-chan for 2026-27 Season Fan Outreach",
-        "summary": "As Japan's B.League tipped off its 2026-27 season on September 22, the league unveiled fan-facing collaborations with apparel brand Uniqlo and toy brands Tomica and Licca-chan aimed at attracting younger and family audiences. The cross-industry tie-ins are part of a broader push to widen B.League's fan base beyond core basketball followers."
-      },
-      "ja": {
-        "title": "Bリーグ、2026-27シーズン開幕でユニクロ・トミカ・リカちゃんとファン層拡大へコラボ",
-        "summary": "日本のBリーグは9月22日に2026-27シーズンを開幕し、ユニクロやトミカ、リカちゃんといった玩具ブランドとのコラボレーションを発表した。バスケットボールの既存ファンにとどまらない、若年層やファミリー層への訴求を狙った異業種連携の一環である。"
-      },
-      "es": {
-        "title": "La B.League colabora con Uniqlo, Tomica y Licca-chan para ampliar su afición en la temporada 2026-27",
-        "summary": "Con el inicio de la temporada 2026-27 de la B.League japonesa el 22 de septiembre, la liga presentó colaboraciones orientadas a los aficionados con la marca de ropa Uniqlo y las marcas de juguetes Tomica y Licca-chan, buscando atraer a públicos más jóvenes y familiares. Estas alianzas intersectoriales forman parte de un esfuerzo más amplio por ampliar la base de seguidores de la liga."
-      },
-      "zh": {
-        "title": "B联赛携手优衣库、多美卡与莉卡娃娃拓展2026-27赛季粉丝群体",
-        "summary": "日本B联赛于9月22日拉开2026-27赛季序幕，联赛同时公布了与服饰品牌优衣库及玩具品牌多美卡（Tomica）、莉卡娃娃（Licca-chan）的跨界合作。此举意在吸引核心篮球迷之外的更年轻及家庭观众，是联赛拓展粉丝基础战略的一部分。"
-      },
-      "fr": {
-        "title": "La B.League s'associe à Uniqlo, Tomica et Licca-chan pour élargir son public lors de la saison 2026-27",
-        "summary": "À l'occasion du coup d'envoi de sa saison 2026-27 le 22 septembre, la ligue japonaise de basketball B.League a dévoilé des collaborations tournées vers les supporters avec la marque de vêtements Uniqlo et les marques de jouets Tomica et Licca-chan. Ces partenariats intersectoriels visent à attirer un public plus jeune et familial au-delà des seuls passionnés de basketball."
-      }
-    }
-  },
-  {
-    "id": "toyota-team-japan-gold-partner-2026",
-    "sport": "olympics",
-    "region": "japan",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-09-22T00:00:00Z",
-    "source_name": "Ministry of Sport",
-    "source_url": "https://ministryofsport.com/toyota-deepens-olympic-commitment-by-signing-team-japan-partnership-agreement-as-gold-partner/",
-    "i18n": {
-      "en": {
-        "title": "Toyota Signs On as Gold Partner in Expanded Team Japan Olympic Deal",
-        "summary": "Toyota Motor Corporation has formalized a new Team Japan partnership agreement with the Japanese Olympic Committee and Japanese Paralympic Committee, taking on Gold Partner status. The deal is designed to provide financial and operational support so Japanese athletes can focus on training and competition without added distractions."
-      },
-      "ja": {
-        "title": "トヨタ、日本オリンピック委員会と「ゴールドパートナー」契約を締結",
-        "summary": "トヨタ自動車は日本オリンピック委員会（JOC）および日本パラリンピック委員会（JPC）と新たな「TEAM JAPAN」パートナーシップ契約を結び、ゴールドパートナーとしての立場を強化した。この契約は、日本代表選手が練習や競技に集中できるよう、資金面・運営面での支援体制を整えることを狙いとしている。"
-      },
-      "es": {
-        "title": "Toyota se convierte en Socio Oro en un acuerdo ampliado con el Equipo Japón olímpico",
-        "summary": "Toyota Motor Corporation formalizó un nuevo acuerdo de asociación con el Comité Olímpico Japonés y el Comité Paralímpico Japonés, asumiendo el estatus de Socio Oro. El convenio busca ofrecer respaldo financiero y operativo para que los atletas japoneses puedan concentrarse en su entrenamiento y competición sin distracciones adicionales."
-      },
-      "zh": {
-        "title": "丰田签约成为日本奥委会“金牌合作伙伴”，深化体育支持",
-        "summary": "丰田汽车与日本奥林匹克委员会及日本残奥委员会正式签署新的“Team Japan”合作协议，晋升为金牌合作伙伴。该协议旨在为日本运动员提供资金与运营方面的支持，使其能够心无旁骛地专注于训练与比赛。"
-      },
-      "fr": {
-        "title": "Toyota devient Partenaire Or dans un accord élargi avec l'Équipe Japon olympique",
-        "summary": "Toyota Motor Corporation a officialisé un nouvel accord de partenariat avec le Comité olympique japonais et le Comité paralympique japonais, obtenant le statut de Partenaire Or. L'accord vise à apporter un soutien financier et opérationnel afin que les athlètes japonais puissent se concentrer sur l'entraînement et la compétition sans distraction supplémentaire."
-      }
-    }
-  },
-  {
-    "id": "bleague-b-innovation-three-tier-restructure-2026",
-    "sport": "basketball",
-    "region": "japan",
-    "topics": [
-      "biz",
-      "team"
-    ],
-    "published_at": "2026-09-22T00:00:00Z",
-    "source_name": "B.LEAGUE",
-    "source_url": "https://www.newscoda.com/articles/bleague-business-reform-relegation-abolition-2026/",
-    "i18n": {
-      "en": {
-        "title": "B.LEAGUE Launches 'B.Innovation' Reform, Splitting Into Three Tiers by Club Finances",
-        "summary": "Japan's B.LEAGUE opened its 2026-27 season by scrapping its old two-division format in favor of a three-tier structure under a reform branded 'B.Innovation,' sorting its 55 clubs into B.Premier, B.One and B.Next based largely on revenue and attendance rather than only on-court results. The league says the overhaul is meant to push clubs toward stronger business operations as the season kicked off with Alvark Tokyo hosting the Ryukyu Golden Kings."
-      },
-      "ja": {
-        "title": "Bリーグ、経営指標で3階層に再編する「B.革新」始動",
-        "summary": "日本のBリーグは2026-27シーズン開幕にあわせ、従来の2部制を廃止し、「B.革新」と銘打った改革のもとでB.プレミア、B.ワン、B.ネクストの3階層制へ移行した。加盟55クラブは勝敗だけでなく収益や観客動員などの経営指標を基に区分され、リーグ側はクラブ経営の強化を促す狙いがあるとしており、開幕戦はアルバルク東京がホームに琉球ゴールデンキングスを迎えて行われた。"
-      },
-      "es": {
-        "title": "La B.LEAGUE lanza la reforma 'B.Innovation' y se divide en tres niveles según las finanzas de los clubes",
-        "summary": "La B.LEAGUE japonesa inició su temporada 2026-27 eliminando su antiguo formato de dos divisiones a favor de una estructura de tres niveles bajo una reforma llamada 'B.Innovation', que clasifica a sus 55 clubes en B.Premier, B.One y B.Next en función sobre todo de los ingresos y la asistencia de público, y no solo de los resultados deportivos. La liga afirma que el cambio busca impulsar una gestión empresarial más sólida en los clubes, y la temporada arrancó con el Alvark Tokyo recibiendo a los Ryukyu Golden Kings."
-      },
-      "zh": {
-        "title": "日本B联赛启动“B.革新”改革，按财务状况划分为三个等级",
-        "summary": "日本B联赛在2026-27赛季开幕之际，取消原有的两级联赛体制，转而实施名为“B.革新”的改革，将三个等级——B.Premier、B.One和B.Next，依据营收和上座人数等经营指标而非仅凭战绩对55家俱乐部进行重新分级。联赛方面表示，此举旨在推动各俱乐部加强经营管理，开幕战由阿尔瓦克东京主场迎战琉球黄金国王队。"
-      },
-      "fr": {
-        "title": "La B.LEAGUE lance la réforme « B.Innovation » et se scinde en trois niveaux selon les finances des clubs",
-        "summary": "La ligue japonaise B.LEAGUE a entamé sa saison 2026-27 en abandonnant son ancien format à deux divisions au profit d'une structure à trois niveaux dans le cadre d'une réforme baptisée « B.Innovation », répartissant ses 55 clubs en B.Premier, B.One et B.Next principalement selon les revenus et l'affluence plutôt que les seuls résultats sportifs. La ligue affirme que cette refonte vise à pousser les clubs vers une gestion plus solide, la saison ayant débuté avec l'Alvark Tokyo recevant les Ryukyu Golden Kings."
-      }
-    }
-  },
-  {
-    "id": "bleague-premier-restructure-launch-2026-27",
-    "sport": "basketball",
-    "region": "japan",
-    "topics": [
-      "team",
-      "biz"
-    ],
-    "published_at": "2026-09-22T00:00:00Z",
-    "source_name": "Spin.ph",
-    "source_url": "https://www.spin.ph/basketball/japan-b-league/b-league-sets-eye-on-new-adjustment-ahead-of-11th-season-a6035-20260723",
-    "i18n": {
-      "en": {
-        "title": "Japan's B.LEAGUE Launches Revamped Top Tier 'B.PREMIER' Built on Business Scale",
-        "summary": "Japan's B.LEAGUE kicked off its restructured 2026-27 season on September 22 with a new three-tier system — B.PREMIER, B.ONE and B.NEXT — that groups clubs by revenue, attendance and arena size rather than by win-loss record. The 26 B.PREMIER clubs must meet arena-capacity and other business benchmarks, part of the league's 'B.Kakushin' reform aimed at strengthening club management and competitiveness."
-      },
-      "ja": {
-        "title": "Bリーグ、事業規模で区分する新トップディビジョン「B.PREMIER」始動",
-        "summary": "日本のBリーグは9月22日、勝敗ではなく収益・観客動員・アリーナ規模などの事業基準でクラブを区分する新体制の2026-27シーズンを開幕させ、「B.PREMIER」「B.ONE」「B.NEXT」の3部制をスタートさせた。トップディビジョンのB.PREMIERには26クラブが参入し、アリーナ収容人数などの基準を満たす必要があり、クラブ経営の強化と競争力向上を狙う「B.革新」改革の第一歩となる。"
-      },
-      "es": {
-        "title": "La B.LEAGUE de Japón lanza su nueva división principal 'B.PREMIER' basada en el tamaño del negocio de los clubes",
-        "summary": "La B.LEAGUE japonesa inició el 22 de septiembre la temporada 2026-27 bajo un sistema reestructurado de tres divisiones —B.PREMIER, B.ONE y B.NEXT— que clasifica a los clubes según ingresos, asistencia y tamaño del recinto, en lugar de su rendimiento deportivo. Los 26 clubes de la división B.PREMIER deben cumplir requisitos de capacidad de pabellón y otros criterios de negocio, como parte de la reforma 'B.Kakushin', orientada a fortalecer la gestión y la competitividad de los clubes."
-      },
-      "zh": {
-        "title": "日本B联赛启动以经营规模划分的全新顶级联赛\"B.PREMIER\"",
-        "summary": "日本B联赛于9月22日开启重组后的2026-27赛季，实行\"B.PREMIER\"\"B.ONE\"\"B.NEXT\"三级新体制，依据营收、观众人数及场馆规模而非比赛成绩对俱乐部进行分级。顶级联赛B.PREMIER共有26支俱乐部参与，须满足场馆容量等经营标准，这是旨在强化俱乐部经营与竞争力的\"B.革新\"改革的第一步。"
-      },
-      "fr": {
-        "title": "La B.LEAGUE japonaise lance sa nouvelle division d'élite « B.PREMIER », fondée sur la taille économique des clubs",
-        "summary": "La B.LEAGUE japonaise a lancé le 22 septembre sa saison 2026-27 réorganisée en trois divisions — B.PREMIER, B.ONE et B.NEXT — qui classent les clubs selon leurs revenus, leur fréquentation et la taille de leur salle plutôt que selon leurs résultats sportifs. Les 26 clubs de la division B.PREMIER doivent respecter des critères de capacité d'arène et d'autres exigences économiques, dans le cadre de la réforme « B.Kakushin » visant à renforcer la gestion et la compétitivité des clubs."
       }
     }
   },
@@ -2778,40 +3186,6 @@
     }
   },
   {
-    "id": "alvark-tokyo-sunrockers-shibuya-toyota-arena-2026",
-    "sport": "basketball",
-    "region": "japan",
-    "topics": [
-      "stadium",
-      "team"
-    ],
-    "published_at": "2026-09-24T00:00:00Z",
-    "source_name": "B.LEAGUE",
-    "source_url": "https://www.bleague.jp/media_news/detail/id=437930",
-    "i18n": {
-      "en": {
-        "title": "Alvark Tokyo and Sunrockers Shibuya to Share New Toyota Arena Tokyo From 2026-27 Season",
-        "summary": "B.League clubs Alvark Tokyo and Sunrockers Shibuya have agreed to jointly use the newly built Toyota Arena Tokyo in Koto Ward as their home venue starting in the 2026-27 season. The roughly 10,000-seat arena's opening prompts Sunrockers Shibuya to relocate its hometown and plan a club name change."
-      },
-      "ja": {
-        "title": "アルバルク東京とサンロッカーズ渋谷、2026-27シーズンより新拠点「TOYOTA ARENA TOKYO」を共同使用へ",
-        "summary": "Bリーグのアルバルク東京とサンロッカーズ渋谷は、江東区に新設される「TOYOTA ARENA TOKYO」を2026-27シーズンからホームアリーナとして共同使用することで合意した。収容人数約1万人規模のこの新アリーナの開業に伴い、サンロッカーズ渋谷はホームタウンの移転とクラブ名変更を予定している。"
-      },
-      "es": {
-        "title": "Alvark Tokyo y Sunrockers Shibuya compartirán el nuevo Toyota Arena Tokyo desde la temporada 2026-27",
-        "summary": "Los clubes de la B.League Alvark Tokyo y Sunrockers Shibuya acordaron usar conjuntamente el recién construido Toyota Arena Tokyo, en el distrito de Koto, como su sede a partir de la temporada 2026-27. La apertura de este recinto de unos 10.000 asientos lleva a Sunrockers Shibuya a trasladar su ciudad natal y planear un cambio de nombre."
-      },
-      "zh": {
-        "title": "阿尔瓦克东京与太阳摇滚者涩谷将从2026-27赛季起共用新建的丰田东京竞技场",
-        "summary": "B联赛球队阿尔瓦克东京与太阳摇滚者涩谷已同意从2026-27赛季起共同使用位于江东区新建的丰田东京竞技场作为主场。这座可容纳约一万人的新场馆启用后，太阳摇滚者涩谷将迁移主场城市并计划更改队名。"
-      },
-      "fr": {
-        "title": "Alvark Tokyo et Sunrockers Shibuya partageront la nouvelle Toyota Arena Tokyo dès la saison 2026-27",
-        "summary": "Les clubs de B.League Alvark Tokyo et Sunrockers Shibuya ont convenu d'utiliser conjointement la nouvelle Toyota Arena Tokyo, construite dans l'arrondissement de Koto, comme domicile à partir de la saison 2026-27. L'ouverture de cette enceinte d'environ 10 000 places pousse Sunrockers Shibuya à déménager sa ville d'attache et à envisager un changement de nom."
-      }
-    }
-  },
-  {
     "id": "caci-americas-vetdogs-capitals-blocked-shots-2026",
     "sport": "general",
     "region": "global",
@@ -3381,73 +3755,6 @@
       "fr": {
         "title": "La NBA et Gatorade prolongent de huit ans leur partenariat de quatre décennies",
         "summary": "La NBA et Gatorade ont prolongé leur partenariat de parrainage de huit années supplémentaires, poursuivant une relation qui remonte à près de quatre décennies. Cet accord renouvelé maintient Gatorade comme boisson sportive officielle de la ligue, tant lors des matchs que des entraînements."
-      }
-    }
-  },
-  {
-    "id": "nippon-ham-fighters-eniwa-farm-complex",
-    "sport": "baseball",
-    "region": "japan",
-    "topics": [
-      "stadium",
-      "team"
-    ],
-    "published_at": "2026-09-25T00:00:00Z",
-    "source_name": "Hokkaido Nippon-Ham Fighters",
-    "source_url": "https://www.fighters.co.jp/news/detail/202600950240.html",
-    "i18n": {
-      "en": {
-        "title": "Nippon-Ham Fighters Agree to Build New Farm Team Complex in Eniwa",
-        "summary": "The Hokkaido Nippon-Ham Fighters signed a basic agreement with the city of Eniwa to construct a new farm-team facility complex, including a stadium, practice grounds, indoor training center and player dormitory. The project is part of a larger mixed-use development in the area that will also include housing and retail space."
-      },
-      "ja": {
-        "title": "日本ハムファイターズ、恵庭市とファーム施設整備で基本合意",
-        "summary": "北海道日本ハムファイターズは、北海道恵庭市との間で、新たなファーム施設群の整備に関する基本合意を締結した。計画には本拠となる球場のほか、サブグラウンド、屋内練習場、選手寮などが含まれ、住宅や商業施設を含む地域の複合開発計画の一環として進められる。"
-      },
-      "es": {
-        "title": "Los Nippon-Ham Fighters acuerdan construir un nuevo complejo para su equipo filial en Eniwa",
-        "summary": "Los Hokkaido Nippon-Ham Fighters firmaron un acuerdo básico con la ciudad de Eniwa para construir un nuevo complejo de instalaciones para su equipo filial, que incluirá un estadio, campos de entrenamiento, un centro de entrenamiento cubierto y una residencia para jugadores. El proyecto forma parte de un desarrollo urbano de uso mixto más amplio que también incluirá viviendas y comercios."
-      },
-      "zh": {
-        "title": "日本火腿斗士队与惠庭市就新建二军基地达成基本协议",
-        "summary": "北海道日本火腿斗士队与惠庭市签署基本协议，将在当地建设新的二军训练基地，包括主球场、副球场、室内训练设施及球员宿舍等设施。该项目是当地一项包含住宅与商业设施的更大规模综合开发计划的一部分。"
-      },
-      "fr": {
-        "title": "Les Nippon-Ham Fighters s'accordent avec la ville d'Eniwa pour un nouveau complexe d'équipe réserve",
-        "summary": "Les Hokkaido Nippon-Ham Fighters ont signé un accord de principe avec la ville d'Eniwa pour construire un nouveau complexe destiné à leur équipe réserve, comprenant un stade, des terrains d'entraînement, un centre d'entraînement couvert et un dortoir pour les joueurs. Le projet s'inscrit dans un développement urbain mixte plus vaste incluant aussi logements et commerces."
-      }
-    }
-  },
-  {
-    "id": "softbank-hawks-showa-kensetsu-uniform-sponsor-2026",
-    "sport": "baseball",
-    "region": "japan",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-09-25T00:00:00Z",
-    "source_name": "Fukuoka SoftBank Hawks",
-    "source_url": "https://www.softbankhawks.co.jp/news/detail/202600925999.html",
-    "i18n": {
-      "en": {
-        "title": "SoftBank Hawks Renew Uniform Sponsorship With Showa Kensetsu for 16th Straight Season",
-        "summary": "The Fukuoka SoftBank Hawks announced a renewed 2026-season uniform sponsorship agreement with construction company Showa Kensetsu, covering the right-hip patch on the team's playing uniform. The partnership between the two organizations extends an arrangement running continuously since 2011, now in its 16th season."
-      },
-      "ja": {
-        "title": "ソフトバンクホークス、昭和建設とユニフォームスポンサー契約を16年連続で更新",
-        "summary": "福岡ソフトバンクホークスは、建設会社の昭和建設とのユニフォームスポンサー（右腰）契約を2026年シーズンも更新したと発表した。両社の契約は2011年シーズンから継続しており、今季で16シーズン目となる。"
-      },
-      "es": {
-        "title": "Los SoftBank Hawks renuevan el patrocinio del uniforme con Showa Kensetsu por 16ª temporada consecutiva",
-        "summary": "Los Fukuoka SoftBank Hawks anunciaron la renovación del acuerdo de patrocinio del uniforme para la temporada 2026 con la constructora Showa Kensetsu, que cubre el parche en la cadera derecha del uniforme de juego. La asociación entre ambas organizaciones se mantiene de forma ininterrumpida desde 2011 y alcanza ya su 16ª temporada."
-      },
-      "zh": {
-        "title": "软银鹰队与昭和建设续签球衣赞助协议，合作连续进入第16个赛季",
-        "summary": "福冈软银鹰队宣布与建筑公司昭和建设续签2026赛季球衣赞助协议，赞助位置为比赛球衣右侧腰部广告位。双方合作自2011赛季起从未间断，本赛季已是第16个赛季。"
-      },
-      "fr": {
-        "title": "Les SoftBank Hawks renouvellent leur partenariat de sponsoring maillot avec Showa Kensetsu pour une 16e saison consécutive",
-        "summary": "Les Fukuoka SoftBank Hawks ont annoncé le renouvellement, pour la saison 2026, de leur accord de sponsoring maillot avec l'entreprise de construction Showa Kensetsu, portant sur le patch situé à la hanche droite du maillot de match. Ce partenariat entre les deux organisations se poursuit sans interruption depuis 2011 et en est désormais à sa 16e saison."
       }
     }
   },
@@ -4228,41 +4535,6 @@
     }
   },
   {
-    "id": "chiba-jets-storyhub-ai-editorial-partner-2026",
-    "sport": "basketball",
-    "region": "japan",
-    "topics": [
-      "sponsor",
-      "tech",
-      "biz"
-    ],
-    "published_at": "2026-09-28T00:00:00Z",
-    "source_name": "PR Times",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000058.000133529.html",
-    "i18n": {
-      "en": {
-        "title": "B.League's Chiba Jets Sign AI Editorial-Assistant Supplier StoryHub",
-        "summary": "B.League club Chiba Jets Funabashi has signed an official supplier agreement with StoryHub for the 2026-27 season. StoryHub will give the club's small public-relations staff access to its all-in-one AI editorial assistant to help with article planning, interview-audio transcription, document processing, and image curation."
-      },
-      "ja": {
-        "title": "Bリーグ千葉ジェッツ、AI編集アシスタントのストーリーハブとサプライヤー契約",
-        "summary": "Bリーグの千葉ジェッツふなばしは、2026-27シーズンに向けてストーリーハブとオフィシャルサプライヤー契約を締結した。少人数の広報チームが記事の企画やインタビュー音声の文字起こし、資料の処理、画像選定などにAI編集アシスタントを活用できるようになる。"
-      },
-      "es": {
-        "title": "Chiba Jets de la B.League ficha a StoryHub como proveedor de asistente editorial con IA",
-        "summary": "El club de la B.League Chiba Jets Funabashi ha firmado un acuerdo oficial de proveedor con StoryHub para la temporada 2026-27. StoryHub dará a la reducida plantilla de comunicación del club acceso a su asistente editorial de inteligencia artificial para ayudar con la planificación de artículos, la transcripción de entrevistas, el procesamiento de documentos y la selección de imágenes."
-      },
-      "zh": {
-        "title": "B联赛千叶喷气机队签约AI编辑助手供应商StoryHub",
-        "summary": "B联赛球队千叶喷气机队(船桥)与StoryHub签署2026-27赛季官方供应商协议。StoryHub将为该队规模较小的公关团队提供一体化AI编辑助手,协助文章策划、采访录音转写、文档处理及图片筛选等工作。"
-      },
-      "fr": {
-        "title": "Les Chiba Jets de la B.League signent avec le fournisseur d'assistant éditorial IA StoryHub",
-        "summary": "Le club de B.League Chiba Jets Funabashi a signé un accord de fournisseur officiel avec StoryHub pour la saison 2026-27. StoryHub donnera à la petite équipe de communication du club l'accès à son assistant éditorial IA tout-en-un pour l'aider dans la planification d'articles, la transcription d'interviews audio, le traitement de documents et la sélection d'images."
-      }
-    }
-  },
-  {
     "id": "sixers-bloom-energy-jersey-patch-2026",
     "sport": "basketball",
     "region": "global",
@@ -4905,40 +5177,6 @@
     }
   },
   {
-    "id": "kawasaki-brave-thunders-gion-sponsor-2026",
-    "sport": "basketball",
-    "region": "japan",
-    "topics": [
-      "sponsor",
-      "stadium"
-    ],
-    "published_at": "2026-09-30T00:00:00Z",
-    "source_name": "Logi Today",
-    "source_url": "https://www.logi-today.com/856818",
-    "i18n": {
-      "en": {
-        "title": "B.League's Kawasaki Brave Thunders Sign Sponsorship With Logistics Firm Gion",
-        "summary": "Environmental and CSR-focused logistics company Gion signed an official sponsorship agreement with B.League club Kawasaki Brave Thunders. Gion's logo will appear on the center-hung scoreboard at the team's home venue, Todoroki Arena by Tokyu Dress."
-      },
-      "ja": {
-        "title": "Bリーグ川崎ブレイブサンダース、物流企業ギオンとスポンサー契約を締結",
-        "summary": "環境・CSR活動に力を入れる物流企業ギオンは、Bリーグの川崎ブレイブサンダースと公式スポンサー契約を締結した。ギオンのロゴは、チームのホームアリーナである「とどろきアリーナ by Tokyu Dress」のセンターハングスコアボードに掲出される。"
-      },
-      "es": {
-        "title": "El Kawasaki Brave Thunders de la B.League firma un patrocinio con la empresa logística Gion",
-        "summary": "La empresa logística Gion, enfocada en sostenibilidad y responsabilidad social, firmó un acuerdo de patrocinio oficial con el club de la B.League Kawasaki Brave Thunders. El logotipo de Gion aparecerá en el marcador central suspendido de la sede local del equipo, el Todoroki Arena by Tokyu Dress."
-      },
-      "zh": {
-        "title": "B联赛川崎勇者雷霆与物流企业Gion签署赞助协议",
-        "summary": "专注于环保和企业社会责任的物流公司Gion与日本B联赛球队川崎勇者雷霆签署了官方赞助协议。Gion的标识将出现在球队主场“Todoroki Arena by Tokyu Dress”的中央悬挂记分屏上。"
-      },
-      "fr": {
-        "title": "Le club de B.League Kawasaki Brave Thunders signe un partenariat avec l'entreprise logistique Gion",
-        "summary": "L'entreprise de logistique Gion, engagée dans des démarches environnementales et de RSE, a signé un accord de sponsoring officiel avec le club de B.League Kawasaki Brave Thunders. Le logo de Gion apparaîtra sur le tableau d'affichage central suspendu de la salle du club, la Todoroki Arena by Tokyu Dress."
-      }
-    }
-  },
-  {
     "id": "buccaneers-pepsico-replaces-coca-cola-2026",
     "sport": "football",
     "region": "global",
@@ -5041,171 +5279,35 @@
     }
   },
   {
-    "id": "asc-hokkaido-funding-round-jleague-bid-2026",
-    "sport": "soccer",
-    "region": "japan",
-    "topics": [
-      "team",
-      "biz"
-    ],
-    "published_at": "2026-10-01T00:00:00Z",
-    "source_name": "PR TIMES",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000006.000168531.html",
-    "i18n": {
-      "en": {
-        "title": "J.League Hopeful ASC Hokkaido Raises ¥60 Million From Regional Investor Group",
-        "summary": "ASC Hokkaido, a semi-professional club based in Tomakomai and Atsuma chasing a future J.League berth, raised roughly ¥60 million through a third-party allotment of non-voting preferred shares bought by regional companies, sponsors and other backers. The club says the move shifts it away from reliance on a single individual owner toward broader organizational management while founders retain full voting control."
-      },
-      "ja": {
-        "title": "Jリーグ入りを目指すASC北海道、地域投資家団から6000万円を調達",
-        "summary": "苫小牧・厚真を拠点に将来のJリーグ参入を目指す社会人クラブ「ASC北海道」は、地域企業やスポンサー、支援者らを引受先とする無議決権種類株式の第三者割当増資により約6000万円を調達した。創業者が議決権を維持しつつ、個人依存の経営から組織的な経営体制へ移行する狙いがあるという。"
-      },
-      "es": {
-        "title": "ASC Hokkaido, aspirante a la J.League, recauda 60 millones de yenes de un grupo de inversores regionales",
-        "summary": "ASC Hokkaido, un club semiprofesional con sede en Tomakomai y Atsuma que aspira a ingresar en el futuro a la J.League, recaudó alrededor de 60 millones de yenes mediante una colocación privada de acciones preferentes sin derecho a voto adquiridas por empresas regionales, patrocinadores y otros respaldos. El club afirma que el movimiento lo aleja de depender de un único propietario hacia una gestión organizacional más amplia, mientras los fundadores conservan el control total del voto."
-      },
-      "zh": {
-        "title": "志在晋级日职联的ASC北海道从地区投资者团体筹集6000万日元",
-        "summary": "总部位于苫小牧和厚真、志在未来晋级日本职业足球联赛（J联赛）的半职业俱乐部ASC北海道，通过向地区企业、赞助商及其他支持者定向增发无表决权优先股，筹集了约6000万日元资金。俱乐部表示，此举旨在摆脱对单一个人所有者的依赖，转向更广泛的组织化经营，同时创始人仍保留全部表决权。"
-      },
-      "fr": {
-        "title": "ASC Hokkaido, aspirant à la J.League, lève 60 millions de yens auprès d'un groupe d'investisseurs régionaux",
-        "summary": "ASC Hokkaido, un club semi-professionnel basé à Tomakomai et Atsuma qui vise à terme une place en J.League, a levé environ 60 millions de yens via un placement privé d'actions préférentielles sans droit de vote auprès d'entreprises régionales, de sponsors et d'autres soutiens. Le club indique que cette opération l'éloigne de la dépendance à un propriétaire unique au profit d'une gestion organisationnelle plus large, les fondateurs conservant l'intégralité du contrôle des votes."
-      }
-    }
-  },
-  {
-    "id": "chiba-jets-komainu-craft-beer-2026",
-    "sport": "basketball",
-    "region": "japan",
-    "topics": [
-      "sponsor",
-      "fan"
-    ],
-    "published_at": "2026-10-01T00:00:00Z",
-    "source_name": "Impress Watch",
-    "source_url": "https://gourmet.watch.impress.co.jp/docs/news/2054751.html",
-    "i18n": {
-      "en": {
-        "title": "Chiba Jets Launch Player-Produced Craft Beers With Sponsor Komainu",
-        "summary": "B.League club Chiba Jets Funabashi has teamed up with official sponsor Komainu, a craft brewery in Kashiwa, to release two beers produced by players Takuma Sato and Raita Akaho. The beers will be sold via subscription and at home games on October 16 and 23, with fan voting on sales determining entry into a special meet-up event for subscribers."
-      },
-      "ja": {
-        "title": "千葉ジェッツ、スポンサーのこまいぬと選手プロデュースのクラフトビールを発売",
-        "summary": "Bリーグ・千葉ジェッツふなばしは、柏市のクラフトブルワリー「こまいぬ」と共同で、佐藤卓磨選手と赤穗雷太選手がプロデュースした2種類のビールを発売すると発表した。ビールは定期購入（サブスクリプション）のほか、10月16日と23日のホームゲームでも販売され、売上を競う企画で定期購入者の中から抽選で交流会イベントへの招待者が選ばれる。"
-      },
-      "es": {
-        "title": "Chiba Jets lanza cervezas artesanales producidas por jugadores con su patrocinador Komainu",
-        "summary": "El club de la B.League Chiba Jets Funabashi se asoció con su patrocinador oficial Komainu, una cervecería artesanal de Kashiwa, para lanzar dos cervezas producidas por los jugadores Takuma Sato y Raita Akaho. Las cervezas se venderán por suscripción y en los partidos en casa del 16 y 23 de octubre, y la votación de ventas de los aficionados determinará la entrada a un evento especial de encuentro para suscriptores."
-      },
-      "zh": {
-        "title": "千叶喷气机队与赞助商Komainu联合推出球员打造的精酿啤酒",
-        "summary": "B联赛俱乐部千叶喷气机船桥队与官方赞助商、柏市精酿啤酒厂Komainu合作，推出由球员佐藤卓磨和赤穗雷太共同打造的两款啤酒。这两款啤酒将通过订阅方式销售，并在10月16日及23日的主场比赛中出售，销量较高的一款将决定订阅用户抽签参加特别交流活动的资格。"
-      },
-      "fr": {
-        "title": "Les Chiba Jets lancent des bières artisanales conçues par leurs joueurs avec le sponsor Komainu",
-        "summary": "Le club de B.League Chiba Jets Funabashi s'est associé à son sponsor officiel Komainu, une brasserie artisanale de Kashiwa, pour lancer deux bières conçues par les joueurs Takuma Sato et Raita Akaho. Les bières seront vendues par abonnement et lors des matchs à domicile des 16 et 23 octobre, le vote des ventes des supporters déterminant l'accès à un événement de rencontre réservé aux abonnés."
-      }
-    }
-  },
-  {
-    "id": "jcb-samurai-japan-diamond-partner-2026",
-    "sport": "baseball",
-    "region": "japan",
+    "id": "aj-foyt-racing-hendricks-holding-indycar-extension-2026",
+    "sport": "motorsports",
+    "region": "global",
     "topics": [
       "sponsor"
     ],
-    "published_at": "2026-10-01T00:00:00Z",
-    "source_name": "Baseball King",
-    "source_url": "https://baseballking.jp/ns/708611/",
+    "published_at": "2026-09-30T00:00:00Z",
+    "source_name": "INDYCAR.com",
+    "source_url": "https://www.indycar.com/news/2026/09/09-30-indycar-notebook",
     "i18n": {
       "en": {
-        "title": "JCB Named New Diamond Partner of Japan's Samurai Japan National Team",
-        "summary": "Credit card company JCB has been named the new \"Diamond Partner\" of Samurai Japan, the Japanese national baseball team, with its logo set to appear on the team's uniform sleeve. JCB said it was drawn to the partnership by a shared identity as a brand born in Japan that aims to compete globally. The company has a long history of baseball-related sponsorship dating back to 1990."
+        "title": "AJ Foyt Racing Extends Deal With Hendricks Holding Company, Expands to Full IndyCar Season",
+        "summary": "AJ Foyt Racing announced a multiyear extension with Hendricks Holding Company, the Wisconsin-based investment firm behind longtime sponsor ABC Supply, continuing support for the No. 14 \"Homes For Our Troops\" Chevrolet. For 2026, the partnership expands across the full NTT IndyCar season and adds Hendricks Commercial Properties and Geronimo Hospitality Group as new marketing partners, continuing a relationship with ABC Supply that dates back to 2005."
       },
       "ja": {
-        "title": "JCB、野球日本代表「侍ジャパン」の新たなダイヤモンドパートナーに就任",
-        "summary": "クレジットカード会社のJCBが、野球日本代表「侍ジャパン」の新たな「ダイヤモンドパートナー」に就任し、同社のロゴがユニホームの袖に掲出されることになった。JCBは、日本発でありながら世界に挑戦するという共通点に共感し、侍ジャパンとの協賛を決めたとしている。同社は1990年以来、長年にわたり野球関連の協賛活動を続けてきた。"
+        "title": "AJフォイト・レーシング、ヘンドリックス・ホールディングとの契約を延長 IndyCar全戦協賛に拡大",
+        "summary": "AJフォイト・レーシングは、長年のスポンサーであるABCサプライの親会社でウィスコンシン州の投資会社ヘンドリックス・ホールディングとの複数年契約延長を発表し、「ホームズ・フォー・アワー・トゥループス」カラーの14号車への支援を継続する。2026年シーズンからはNTT IndyCarシリーズ全戦での協賛に拡大され、ヘンドリックス・コマーシャル・プロパティーズとジェロニモ・ホスピタリティ・グループが新たにマーケティングパートナーとして加わる。ABCサプライとの関係は2005年から続いている。"
       },
       "es": {
-        "title": "JCB, nombrada nueva Diamond Partner de la selección japonesa Samurai Japan",
-        "summary": "La empresa de tarjetas de crédito JCB ha sido nombrada nueva \"Diamond Partner\" de Samurai Japan, la selección nacional de béisbol de Japón, y su logotipo aparecerá en la manga del uniforme del equipo. JCB señaló que decidió asociarse con Samurai Japan por compartir una identidad de marca nacida en Japón que busca competir a nivel mundial. La compañía cuenta con una larga trayectoria de patrocinio relacionado con el béisbol que se remonta a 1990."
+        "title": "AJ Foyt Racing amplía su acuerdo con Hendricks Holding Company a toda la temporada de IndyCar",
+        "summary": "AJ Foyt Racing anunció una extensión plurianual con Hendricks Holding Company, la firma de inversión de Wisconsin detrás de su patrocinador histórico ABC Supply, que continuará respaldando al Chevrolet N.º 14 \"Homes For Our Troops\". Para 2026, la alianza se extiende a toda la temporada de la IndyCar Series de NTT y suma a Hendricks Commercial Properties y Geronimo Hospitality Group como nuevos socios de marketing, prolongando una relación con ABC Supply que se remonta a 2005."
       },
       "zh": {
-        "title": "JCB成为日本棒球国家队“武士日本”新晋钻石合作伙伴",
-        "summary": "信用卡公司JCB已成为日本棒球国家队“武士日本”的新晋“钻石合作伙伴”，其品牌标志将出现在球队球衣袖口上。JCB表示，之所以选择与武士日本合作，是因为双方都拥有“诞生于日本、志在挑战世界”的共同身份认同。该公司自1990年起便长期开展与棒球相关的赞助活动。"
+        "title": "AJ Foyt赛车队与Hendricks Holding续约 赞助范围扩大至IndyCar全赛季",
+        "summary": "AJ Foyt赛车队宣布与总部位于威斯康星州的投资公司Hendricks Holding(长期赞助商ABC Supply的母公司)达成多年续约协议,继续支持涂有「Homes For Our Troops」涂装的14号雪佛兰赛车。2026赛季起,该合作将扩展至NTT IndyCar系列赛全赛季,并新增Hendricks Commercial Properties与Geronimo Hospitality Group作为营销合作伙伴,延续了与ABC Supply自2005年以来的合作关系。"
       },
       "fr": {
-        "title": "JCB devient le nouveau Diamond Partner de la sélection japonaise Samurai Japan",
-        "summary": "L'émetteur de cartes de crédit JCB est devenu le nouveau « Diamond Partner » de Samurai Japan, l'équipe nationale japonaise de baseball, et son logo figurera désormais sur la manche du maillot de l'équipe. JCB explique avoir choisi ce partenariat en raison d'une identité commune : une marque née au Japon qui ambitionne de rivaliser à l'échelle mondiale. L'entreprise entretient de longue date des liens de sponsoring avec le baseball, remontant à 1990."
-      }
-    }
-  },
-  {
-    "id": "jba-dentsu-partnership-2026",
-    "sport": "basketball",
-    "region": "japan",
-    "topics": [
-      "biz",
-      "sponsor"
-    ],
-    "published_at": "2026-10-01T00:00:00Z",
-    "source_name": "Daily Sports",
-    "source_url": "https://www.daily.co.jp/general/2026/10/01/0020880393.shtml",
-    "i18n": {
-      "en": {
-        "title": "Japan Basketball Association Partners With Dentsu to Grow Basketball Business",
-        "summary": "The Japan Basketball Association (JBA) announced a new partnership with advertising giant Dentsu aimed at expanding basketball's commercial footprint nationwide. The agreement centers on marketing support for JBA's 'ONE Basketball' initiative and a roadmap for developing the next generation of players, as the federation looks to broaden sponsorship and fan engagement beyond the professional B.League."
-      },
-      "ja": {
-        "title": "日本バスケットボール協会、電通とパートナーシップ契約を締結",
-        "summary": "日本バスケットボール協会(JBA)は、広告大手の電通と新たなパートナーシップ契約を結んだと発表した。協会が進める「ワンバスケットボール」構想のマーケティング支援と、次世代選手育成に向けた取り組みが契約の中心となっている。プロリーグのBリーグだけでなく、バスケットボール界全体でスポンサーシップとファン層の拡大を目指す動きの一環となる。"
-      },
-      "es": {
-        "title": "La Federación Japonesa de Baloncesto se asocia con Dentsu para impulsar el negocio del baloncesto",
-        "summary": "La Federación Japonesa de Baloncesto (JBA) anunció una nueva asociación con el gigante publicitario Dentsu con el objetivo de ampliar la presencia comercial del baloncesto en todo el país. El acuerdo se centra en apoyo de marketing para la iniciativa 'ONE Basketball' de la JBA y en una hoja de ruta para desarrollar a la próxima generación de jugadores, en un esfuerzo por ampliar el patrocinio y el compromiso de los aficionados más allá de la liga profesional B.League."
-      },
-      "zh": {
-        "title": "日本篮球协会与电通达成合作伙伴关系,推动篮球产业发展",
-        "summary": "日本篮球协会(JBA)宣布与广告巨头电通建立新的合作伙伴关系,旨在扩大篮球运动在全国范围内的商业影响力。协议内容主要围绕为JBA的“ONE Basketball”计划提供营销支持,以及制定培养新一代球员的路线图,协会希望借此在职业B联赛之外进一步拓展赞助与球迷参与度。"
-      },
-      "fr": {
-        "title": "La Fédération japonaise de basketball s'associe à Dentsu pour développer l'activité du basketball",
-        "summary": "La Fédération japonaise de basketball (JBA) a annoncé un nouveau partenariat avec le géant de la publicité Dentsu, visant à développer la présence commerciale du basketball à l'échelle nationale. L'accord porte principalement sur un soutien marketing à l'initiative « ONE Basketball » de la JBA et sur une feuille de route pour former la prochaine génération de joueurs, la fédération cherchant à élargir le parrainage et l'engagement des fans au-delà de la ligue professionnelle B.League."
-      }
-    }
-  },
-  {
-    "id": "npb-taisho-pharmaceutical-draft-sponsor-2026",
-    "sport": "baseball",
-    "region": "japan",
-    "topics": [
-      "sponsor",
-      "fan"
-    ],
-    "published_at": "2026-10-01T00:00:00Z",
-    "source_name": "NPB (via Digital PR Platform)",
-    "source_url": "https://digitalpr.jp/r/90569",
-    "i18n": {
-      "en": {
-        "title": "NPB Names Taisho Pharmaceutical Special Sponsor of 2026 Draft for 14th Straight Year",
-        "summary": "Nippon Professional Baseball confirmed Taisho Pharmaceutical as special sponsor of the 2026 NPB Draft Conference, officially titled the \"Draft Conference supported by Lipovitan D.\" It marks the pharmaceutical company's 14th consecutive year backing the event, which is scheduled for October 22, 2026."
-      },
-      "ja": {
-        "title": "NPB、2026年度ドラフト会議の特別協賛に大正製薬 14年連続",
-        "summary": "日本野球機構(NPB)は、2026年のプロ野球ドラフト会議の特別協賛企業として大正製薬を発表した。正式名称は「リポビタンD ドラフト会議」で、同社によるこのイベントへの協賛は14年連続となる。会議は2026年10月22日に開催される予定。"
-      },
-      "es": {
-        "title": "NPB designa a Taisho Pharmaceutical como patrocinador especial del Draft 2026 por 14º año consecutivo",
-        "summary": "Nippon Professional Baseball confirmó a Taisho Pharmaceutical como patrocinador especial de la Conferencia del Draft de la NPB 2026, cuyo nombre oficial es \"Draft Conference supported by Lipovitan D\". Se trata del 14º año consecutivo en que la farmacéutica respalda este evento, programado para el 22 de octubre de 2026."
-      },
-      "zh": {
-        "title": "日本职棒NPB公布大正制药连续第14年成为2026年选秀会特别赞助商",
-        "summary": "日本职业棒球组织（NPB）确认大正制药将担任2026年NPB选秀会的特别赞助商，该活动正式名称为“Lipovitan D选秀会”。这是该制药公司连续第14年支持此项活动，选秀会定于2026年10月22日举行。"
-      },
-      "fr": {
-        "title": "La NPB nomme Taisho Pharmaceutical sponsor spécial de la Draft 2026 pour la 14e année consécutive",
-        "summary": "La Nippon Professional Baseball a confirmé Taisho Pharmaceutical comme sponsor spécial de la Conférence de Draft NPB 2026, officiellement baptisée « Draft Conference supported by Lipovitan D ». Il s'agit de la 14e année consécutive où le laboratoire pharmaceutique soutient cet événement, prévu le 22 octobre 2026."
+        "title": "AJ Foyt Racing prolonge son accord avec Hendricks Holding Company et l'étend à toute la saison IndyCar",
+        "summary": "AJ Foyt Racing a annoncé une prolongation pluriannuelle avec Hendricks Holding Company, la société d'investissement du Wisconsin à l'origine de son sponsor historique ABC Supply, qui continuera de soutenir la Chevrolet n°14 « Homes For Our Troops ». Pour 2026, le partenariat s'étend à l'ensemble de la saison NTT IndyCar Series et ajoute Hendricks Commercial Properties et Geronimo Hospitality Group comme nouveaux partenaires marketing, prolongeant une relation avec ABC Supply qui remonte à 2005."
       }
     }
   },
@@ -5749,40 +5851,6 @@
     }
   },
   {
-    "id": "bleague-hisense-official-sponsor-2026",
-    "sport": "basketball",
-    "region": "japan",
-    "topics": [
-      "sponsor",
-      "fan"
-    ],
-    "published_at": "2026-10-01T18:00:00Z",
-    "source_name": "GetNavi",
-    "source_url": "https://getnavi.jp/appliances/1109666/",
-    "i18n": {
-      "en": {
-        "title": "Hisense Japan Named Official B.League Sponsor for 2026-27 Season",
-        "summary": "Hisense Japan has signed on as an official sponsor of the B.League starting with the 2026-27 season. The electronics maker said the partnership is intended to create new value for fans and enhance the in-arena viewing experience."
-      },
-      "ja": {
-        "title": "ハイセンスジャパン、2026-27シーズンからBリーグ公式スポンサーに",
-        "summary": "ハイセンスジャパンは2026-27シーズンよりBリーグの公式スポンサーに就任したと発表した。同社は今回の提携についてファンに新たな価値を提供し、会場での観戦体験を向上させることを目指すとしている。"
-      },
-      "es": {
-        "title": "Hisense Japan, nuevo patrocinador oficial de la B.League para la temporada 2026-27",
-        "summary": "Hisense Japan se ha convertido en patrocinador oficial de la B.League a partir de la temporada 2026-27. El fabricante de electrónica señaló que la alianza busca generar nuevo valor para los aficionados y mejorar la experiencia de los espectadores en el pabellón."
-      },
-      "zh": {
-        "title": "海信日本成为B联赛2026-27赛季官方赞助商",
-        "summary": "海信日本宣布自2026-27赛季起成为B联赛官方赞助商。该电子制造商表示，此次合作旨在为球迷创造新的价值，并提升现场观赛体验。"
-      },
-      "fr": {
-        "title": "Hisense Japan devient sponsor officiel de la B.League pour la saison 2026-27",
-        "summary": "Hisense Japan est devenu sponsor officiel de la B.League à partir de la saison 2026-27. Le fabricant d'électronique a indiqué que ce partenariat vise à créer une nouvelle valeur pour les supporters et à améliorer l'expérience des spectateurs en salle."
-      }
-    }
-  },
-  {
     "id": "randstad-milan-cortina-2026-sponsor",
     "sport": "olympics",
     "region": "global",
@@ -6016,73 +6084,6 @@
       "fr": {
         "title": "AB InBev proche d'un accord pour succéder à Heineken comme partenaire bière de l'UEFA",
         "summary": "Anheuser-Busch InBev négocie en exclusivité pour reprendre le parrainage bière de l'UEFA sur la Ligue des champions, l'Europa League et la Conference League, une fois l'accord de près de trente ans avec Heineken arrivé à échéance en 2027. Le futur contrat de six saisons avec la coentreprise commerciale UC3 serait proche de 200 millions d'euros par an, bien au-delà des conditions actuelles de Heineken."
-      }
-    }
-  },
-  {
-    "id": "jleague-denies-sponsor-club-naming-report-2026",
-    "sport": "soccer",
-    "region": "japan",
-    "topics": [
-      "biz"
-    ],
-    "published_at": "2026-10-02T06:00:00Z",
-    "source_name": "J.League",
-    "source_url": "https://www.jleague.jp/news/article/7381/",
-    "i18n": {
-      "en": {
-        "title": "J.League Denies Report It Would Allow Sponsor Names in Club Names",
-        "summary": "Japan's J.League has publicly denied media reports suggesting the league would allow sponsor company names to be incorporated directly into club names, calling such reports inaccurate. The league's official statement clarified that no rule change permitting sponsor-branded club names is currently under consideration. The clarification comes amid broader discussion in Japanese soccer about club commercialization and sponsorship structures."
-      },
-      "ja": {
-        "title": "Jリーグ、スポンサー名をクラブ名に組み込む方針を否定",
-        "summary": "Jリーグは、スポンサー企業名をクラブ名に直接組み込むことを認める方針であるとする一部報道について、事実と異なるとして公式に否定した。リーグの公式発表では、スポンサー名を冠したクラブ名を認めるルール変更は現時点で検討されていないと明確にされている。この見解表明は、日本サッカー界におけるクラブの商業化やスポンサー構造を巡る議論が広がる中で出されたものである。"
-      },
-      "es": {
-        "title": "La J.League desmiente que vaya a permitir nombres de patrocinadores en los clubes",
-        "summary": "La J.League de Japón desmintió públicamente informes mediáticos que sugerían que la liga permitiría incorporar nombres de empresas patrocinadoras directamente en los nombres de los clubes, calificando dichos informes de inexactos. El comunicado oficial de la liga aclaró que actualmente no se está considerando ningún cambio de normativa que permita nombres de clubes con marca de patrocinador. La aclaración se produce en medio de un debate más amplio en el fútbol japonés sobre la comercialización de los clubes y las estructuras de patrocinio."
-      },
-      "zh": {
-        "title": "J联赛否认将允许赞助商名称并入俱乐部名称的报道",
-        "summary": "日本J联赛公开否认了有关联赛将允许赞助企业名称直接并入俱乐部名称的媒体报道,称相关报道不准确。联赛官方声明澄清称,目前并未在考虑允许以赞助商命名俱乐部的规则变更。此次澄清正值日本足球界围绕俱乐部商业化与赞助体系展开更广泛讨论之际。"
-      },
-      "fr": {
-        "title": "La J.League dément vouloir autoriser le nom d'un sponsor dans celui des clubs",
-        "summary": "La J.League japonaise a officiellement démenti des informations relayées par certains médias selon lesquelles la ligue autoriserait l'intégration directe du nom d'un sponsor dans le nom des clubs, qualifiant ces informations d'inexactes. Le communiqué officiel de la ligue a précisé qu'aucun changement de règlement permettant des noms de clubs associés à un sponsor n'est actuellement envisagé. Cette clarification intervient dans un contexte de débat plus large dans le football japonais autour de la commercialisation des clubs et des structures de sponsoring."
-      }
-    }
-  },
-  {
-    "id": "toyota-tops-jleague-shirt-sponsor-ranking-2026",
-    "sport": "soccer",
-    "region": "japan",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-10-02T06:00:00Z",
-    "source_name": "Football Channel",
-    "source_url": "https://www.footballchannel.jp/?p=710751",
-    "i18n": {
-      "en": {
-        "title": "Toyota Tops Ranking of J.League Shirt Sponsors by Parent-Company Revenue",
-        "summary": "A ranking of J.League clubs' main shirt sponsors by the parent company's annual revenue places Toyota Motor, which backs Nagoya Grampus, at the top of the list. The analysis, compiled by Football Channel, highlights how major Japanese manufacturers continue to anchor top-flight soccer sponsorships in Japan. The ranking illustrates the scale of corporate backing behind some J.League clubs relative to others in the league."
-      },
-      "ja": {
-        "title": "Jリーグ胸スポンサー、親会社売上高ランキングでトヨタが首位",
-        "summary": "Jリーグ各クラブのメインスポンサー企業を、親会社の年間売上高で比較したランキングで、名古屋グランパスを支援するトヨタ自動車が首位となった。このランキングはフットボールチャンネルがまとめたもので、日本の大手製造業各社がトップリーグのサッカースポンサーを引き続き支えている実態を浮き彫りにしている。この結果は、Jリーグ内でもクラブごとに企業からの支援規模に大きな差があることを示している。"
-      },
-      "es": {
-        "title": "Toyota lidera el ranking de patrocinadores de camiseta de la J.League por ingresos de la matriz",
-        "summary": "Un ranking de los principales patrocinadores de camiseta de los clubes de la J.League, ordenado según los ingresos anuales de la empresa matriz, sitúa a Toyota Motor, que respalda al Nagoya Grampus, en el primer puesto. El análisis, elaborado por Football Channel, destaca cómo los grandes fabricantes japoneses siguen siendo el pilar de los patrocinios en la máxima categoría del fútbol japonés. El ranking muestra la diferencia de escala en el respaldo corporativo entre distintos clubes de la liga."
-      },
-      "zh": {
-        "title": "按母公司营收排名 丰田位居J联赛球衣赞助商榜首",
-        "summary": "一项按母公司年营收对J联赛各俱乐部主要球衣赞助商进行排名的分析显示,支持名古屋鲸八(Nagoya Grampus)的丰田汽车位居榜首。这份由Football Channel整理的分析凸显了日本大型制造企业持续支撑顶级联赛足球赞助的格局。该排名也反映出J联赛内部各俱乐部获得企业支持规模存在明显差距。"
-      },
-      "fr": {
-        "title": "Toyota en tête du classement des sponsors maillot de J.League par chiffre d'affaires de la maison mère",
-        "summary": "Un classement des principaux sponsors maillot des clubs de J.League, établi selon le chiffre d'affaires annuel de la maison mère, place Toyota Motor, sponsor du Nagoya Grampus, en tête de liste. Cette analyse, réalisée par Football Channel, met en lumière le rôle central que continuent de jouer les grands industriels japonais dans le sponsoring du football de haut niveau au Japon. Ce classement illustre l'écart d'ampleur du soutien des entreprises selon les clubs de la ligue."
       }
     }
   },
@@ -6422,1023 +6423,6 @@
       "fr": {
         "title": "Nine signe un accord de sept ans pour diffuser l'athlétisme australien",
         "summary": "Le diffuseur australien Nine a conclu un accord historique de sept ans pour devenir le diffuseur exclusif de l'athlétisme australien, reprenant la couverture détenue auparavant par la chaîne rivale Seven. L'annonce a été faite pendant la diffusion par Nine de la finale de la NRL, illustrant la volonté du diffuseur d'étoffer son portefeuille de sports en direct."
-      }
-    }
-  },
-  {
-    "id": "jleague-ntt-sustaina-cup-2026",
-    "sport": "soccer",
-    "region": "japan",
-    "topics": [
-      "fan",
-      "sponsor"
-    ],
-    "published_at": "2026-09-25T00:00:00Z",
-    "source_name": "J.League",
-    "source_url": "https://www.jleague.jp/news/article/34978/",
-    "i18n": {
-      "en": {
-        "title": "J.League and NTT Group Set Fan Climate-Action Campaign \"Sustaina Cup 2026\"",
-        "summary": "J.League and NTT Group announced the \"Sustaina Cup 2026,\" a fan-participation event running October 6 to November 9 across all 60 J.League clubs. Supporters earn points toward their club's ranking by completing photo and quiz challenges tied to everyday climate-friendly habits, accessed through the official event site or the Club J.LEAGUE app, with top-ranked clubs receiving activity-support funding."
-      },
-      "ja": {
-        "title": "Jリーグ、NTTグループとファン参加型環境企画「サステナカップ2026」を開催",
-        "summary": "JリーグとNTTグループは、J1からJ3までの全60クラブを対象にしたファン参加型イベント「サステナカップ2026」を10月6日から11月9日にかけて開催すると発表した。サポーターは日常の気候行動に関するフォトクエストやクイズに参加してポイントを獲得し、応援クラブの順位に反映させる仕組みで、上位クラブには活動支援金が贈られる。"
-      },
-      "es": {
-        "title": "La J.League y NTT Group lanzan la campaña climática para aficionados \"Sustaina Cup 2026\"",
-        "summary": "La J.League y NTT Group anunciaron la \"Sustaina Cup 2026\", un evento participativo para aficionados que se celebrará del 6 de octubre al 9 de noviembre entre los 60 clubes de la liga. Los seguidores suman puntos para la clasificación de su club completando retos fotográficos y cuestionarios sobre hábitos cotidianos respetuosos con el clima, y los clubes mejor clasificados recibirán fondos de apoyo a sus actividades."
-      },
-      "zh": {
-        "title": "J联赛与NTT集团推出球迷气候行动活动「Sustaina Cup 2026」",
-        "summary": "J联赛与NTT集团宣布将于10月6日至11月9日举办面向全部60家俱乐部的球迷参与活动「Sustaina Cup 2026」。球迷通过完成与日常环保行为相关的拍照任务和问答挑战为所支持俱乐部积累排名积分,排名靠前的俱乐部将获得活动支持资金。"
-      },
-      "fr": {
-        "title": "La J.League et NTT Group lancent la campagne climatique pour supporters « Sustaina Cup 2026 »",
-        "summary": "La J.League et le groupe NTT ont annoncé la « Sustaina Cup 2026 », un événement participatif pour les supporters qui se tiendra du 6 octobre au 9 novembre auprès des 60 clubs du championnat. Les fans accumulent des points pour le classement de leur club en relevant des défis photo et des quiz liés à des gestes quotidiens favorables au climat, les clubs les mieux classés recevant un soutien financier pour leurs activités."
-      }
-    }
-  },
-  {
-    "id": "real-salt-lake-america-first-field-naming-rights-2026",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "stadium",
-      "sponsor"
-    ],
-    "published_at": "2026-09-02T00:00:00Z",
-    "source_name": "Front Office Sports",
-    "source_url": "https://frontofficesports.com/article/real-salt-lake-inks-100m-stadium-naming-rights-deal/",
-    "i18n": {
-      "en": {
-        "title": "Real Salt Lake Renames Stadium \"America First Field\" in Deal Worth Nearly $100M",
-        "summary": "Real Salt Lake agreed to a long-term naming-rights deal with Utah-based America First Credit Union worth close to $100 million over at least 15 years, renaming its Sandy, Utah venue from Rio Tinto Stadium to America First Field. The credit union, an RSL partner since 2005, will receive branding and activation space throughout the stadium, replacing mining company Rio Tinto, which had paid roughly $2 million annually for the naming rights."
-      },
-      "ja": {
-        "title": "リアル・ソルトレイク、スタジアム命名権で「アメリカ・ファースト・フィールド」に改称 総額約1億ドル",
-        "summary": "MLSのリアル・ソルトレイクは、ユタ州の信用組合アメリカ・ファーストと少なくとも15年間・総額約1億ドル規模の命名権契約を結び、本拠地「リオ・ティント・スタジアム」を「アメリカ・ファースト・フィールド」に改称すると発表した。2005年からクラブのパートナーである同信用組合がスタジアム内の広告・活用権を得る一方、年間約200万ドルを支払っていた鉱業大手リオ・ティントは命名権を失うことになる。"
-      },
-      "es": {
-        "title": "Real Salt Lake renombra su estadio \"America First Field\" en un acuerdo cercano a los 100 millones de dólares",
-        "summary": "Real Salt Lake firmó un acuerdo de patrocinio a largo plazo con la cooperativa de crédito America First, de Utah, valorado en casi 100 millones de dólares durante al menos 15 años, por el que su estadio en Sandy pasará de llamarse Rio Tinto Stadium a America First Field. La entidad, socia del club desde 2005, obtendrá espacios de marca en todo el recinto, sustituyendo a la minera Rio Tinto, que pagaba unos 2 millones de dólares anuales por los derechos de denominación."
-      },
-      "zh": {
-        "title": "皇家盐湖城俱乐部主场更名为「America First Field」 协议总额近1亿美元",
-        "summary": "美国职业足球大联盟球队皇家盐湖城与犹他州信用合作社America First签订长期冠名权协议,协议期至少15年、总额近1亿美元,球队主场将由「里奥廷托体育场」更名为「America First Field」。这家自2005年起便是球队合作伙伴的信用合作社将获得场馆内的品牌展示权,取代此前每年支付约200万美元冠名费的矿业巨头力拓集团。"
-      },
-      "fr": {
-        "title": "Real Salt Lake renomme son stade « America First Field » dans un accord proche de 100 millions de dollars",
-        "summary": "Le club de MLS Real Salt Lake a conclu un accord de naming à long terme avec la coopérative de crédit America First, basée dans l'Utah, d'une valeur proche de 100 millions de dollars sur au moins 15 ans, renommant son stade de Sandy, jusqu'alors Rio Tinto Stadium, en America First Field. Partenaire du club depuis 2005, la coopérative obtiendra des espaces de visibilité dans toute l'enceinte, succédant au groupe minier Rio Tinto, qui versait environ 2 millions de dollars par an pour ces droits de dénomination."
-      }
-    }
-  },
-  {
-    "id": "inter-miami-nu-stadium-naming-rights-2026",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "stadium",
-      "sponsor"
-    ],
-    "published_at": "2026-03-04T00:00:00Z",
-    "source_name": "Sportico",
-    "source_url": "https://www.sportico.com/business/sponsorship/2026/nu-bank-inter-miami-mls-stadium-naming-rights-1234886243/",
-    "i18n": {
-      "en": {
-        "title": "Inter Miami's New Home Will Be Called \"Nu Stadium\" Under Deal With Brazilian Fintech",
-        "summary": "Inter Miami announced a multiyear naming-rights agreement with Brazilian digital bank Nu for its new 26,700-seat venue, which will open in April as Nu Stadium. Beyond the naming rights, the deal gives Nu a premium hospitality lounge inside the stadium, branding in the adjacent Miami Freedom Park development, and a lower back-of-jersey sponsorship slot on Inter Miami's kits starting in August."
-      },
-      "ja": {
-        "title": "インテル・マイアミの新スタジアム、ブラジルのフィンテック企業との契約で「Nuスタジアム」に",
-        "summary": "インテル・マイアミは、ブラジルのデジタル銀行Nuと新設する収容2万6700人のスタジアムに関する複数年の命名権契約を発表し、4月開場予定の新拠点は「Nuスタジアム」と名付けられる。契約には命名権に加え、スタジアム内のプレミアムラウンジ利用権、隣接するマイアミ・フリーダム・パーク開発エリアでの広告権、さらに8月からユニフォーム背面下部へのスポンサー表示権も含まれる。"
-      },
-      "es": {
-        "title": "El nuevo estadio del Inter Miami se llamará \"Nu Stadium\" tras un acuerdo con la fintech brasileña",
-        "summary": "Inter Miami anunció un acuerdo de naming plurianual con el banco digital brasileño Nu para su nuevo estadio de 26.700 asientos, que abrirá en abril bajo el nombre de Nu Stadium. Además de los derechos de denominación, el pacto otorga a Nu un salón de hospitalidad premium dentro del recinto, presencia publicitaria en el desarrollo adyacente Miami Freedom Park y un espacio de patrocinio en la parte inferior de la espalda de la camiseta a partir de agosto."
-      },
-      "zh": {
-        "title": "迈阿密国际新主场将命名为「Nu Stadium」 与巴西金融科技公司达成协议",
-        "summary": "迈阿密国际宣布与巴西数字银行Nu就其新建的26700座球场签订多年冠名权协议,这座将于4月启用的新主场将被命名为「Nu Stadium」。除冠名权外,协议还包括球场内高端接待包厢的使用权、毗邻的迈阿密自由公园开发区的品牌展示权,以及从8月起球衣背部下方的赞助广告位。"
-      },
-      "fr": {
-        "title": "Le nouveau stade de l'Inter Miami s'appellera « Nu Stadium » dans le cadre d'un accord avec une fintech brésilienne",
-        "summary": "L'Inter Miami a annoncé un accord de naming pluriannuel avec la banque numérique brésilienne Nu pour son nouveau stade de 26 700 places, qui ouvrira en avril sous le nom de Nu Stadium. Au-delà des droits de dénomination, l'accord accorde à Nu un salon d'hospitalité premium au sein de l'enceinte, une visibilité dans le projet adjacent Miami Freedom Park, ainsi qu'un espace de sponsoring au bas du dos des maillots à partir du mois d'août."
-      }
-    }
-  },
-  {
-    "id": "wwe-nxt-cw-media-rights-deal-2026",
-    "sport": "general",
-    "region": "global",
-    "topics": [
-      "biz"
-    ],
-    "published_at": "2026-09-03T00:00:00Z",
-    "source_name": "Front Office Sports",
-    "source_url": "https://frontofficesports.com/article/the-cw-continues-sports-rights-quest-locks-in-wwe-nxt/",
-    "i18n": {
-      "en": {
-        "title": "WWE NXT Signs Five-Year Rights Deal With The CW, Its First Broadcast-TV Home",
-        "summary": "WWE NXT agreed to a five-year media-rights deal with The CW reportedly worth $20 million to $25 million annually, marking the brand's first appearance on broadcast television. The agreement builds on The CW's existing weekly NXT programming since 2024 and extends to NXT's premium live events, representing roughly a 70% increase over the previous cable deal with NBCUniversal's USA Network."
-      },
-      "ja": {
-        "title": "WWE NXT、The CWと5年間の放映権契約 初の地上波放送へ",
-        "summary": "WWEの傘下ブランド「NXT」は、米テレビ局The CWと年間2000万〜2500万ドル規模とされる5年間の放映権契約を結び、ブランド史上初めて地上波テレビで放送されることになった。The CWは2024年からNXTの週次番組を放送しており、今回の契約はプレミアム・ライブイベントにも拡大され、従来のNBCユニバーサル傘下USAネットワークとのケーブル契約から約70%の増額となる。"
-      },
-      "es": {
-        "title": "WWE NXT firma un acuerdo de derechos de cinco años con The CW, su primera casa en televisión abierta",
-        "summary": "WWE NXT acordó un contrato de derechos de cinco años con la cadena The CW, valorado según reportes entre 20 y 25 millones de dólares anuales, lo que supone la primera vez que la marca aparece en televisión abierta. El acuerdo se suma a la emisión semanal que The CW ya ofrece desde 2024 y se extiende a los eventos en vivo premium de NXT, representando un aumento de aproximadamente el 70% respecto al anterior contrato por cable con USA Network de NBCUniversal."
-      },
-      "zh": {
-        "title": "WWE NXT与The CW签订五年版权协议 首次登陆全国广播电视网",
-        "summary": "WWE旗下品牌NXT与美国电视台The CW签订为期五年的媒体版权协议,据报道年价值在2000万至2500万美元之间,这也是该品牌首次登上全国广播电视网。The CW自2024年起已每周播出NXT节目,此次协议进一步扩展至NXT的大型直播赛事,较此前与NBC环球旗下USA Network的有线电视合约涉及金额增长约70%。"
-      },
-      "fr": {
-        "title": "WWE NXT signe un contrat de droits de cinq ans avec The CW, sa première diffusion en clair",
-        "summary": "La marque NXT de la WWE a conclu un accord de droits médias de cinq ans avec la chaîne The CW, évalué selon les informations entre 20 et 25 millions de dollars par an, marquant sa première apparition sur une chaîne hertzienne. Cet accord s'ajoute à la diffusion hebdomadaire que The CW assure déjà depuis 2024 et s'étend aux événements en direct premium de NXT, représentant une hausse d'environ 70 % par rapport au précédent contrat câble avec USA Network, filiale de NBCUniversal."
-      }
-    }
-  },
-  {
-    "id": "aj-foyt-racing-hendricks-holding-indycar-extension-2026",
-    "sport": "motorsports",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-09-30T00:00:00Z",
-    "source_name": "INDYCAR.com",
-    "source_url": "https://www.indycar.com/news/2026/09/09-30-indycar-notebook",
-    "i18n": {
-      "en": {
-        "title": "AJ Foyt Racing Extends Deal With Hendricks Holding Company, Expands to Full IndyCar Season",
-        "summary": "AJ Foyt Racing announced a multiyear extension with Hendricks Holding Company, the Wisconsin-based investment firm behind longtime sponsor ABC Supply, continuing support for the No. 14 \"Homes For Our Troops\" Chevrolet. For 2026, the partnership expands across the full NTT IndyCar season and adds Hendricks Commercial Properties and Geronimo Hospitality Group as new marketing partners, continuing a relationship with ABC Supply that dates back to 2005."
-      },
-      "ja": {
-        "title": "AJフォイト・レーシング、ヘンドリックス・ホールディングとの契約を延長 IndyCar全戦協賛に拡大",
-        "summary": "AJフォイト・レーシングは、長年のスポンサーであるABCサプライの親会社でウィスコンシン州の投資会社ヘンドリックス・ホールディングとの複数年契約延長を発表し、「ホームズ・フォー・アワー・トゥループス」カラーの14号車への支援を継続する。2026年シーズンからはNTT IndyCarシリーズ全戦での協賛に拡大され、ヘンドリックス・コマーシャル・プロパティーズとジェロニモ・ホスピタリティ・グループが新たにマーケティングパートナーとして加わる。ABCサプライとの関係は2005年から続いている。"
-      },
-      "es": {
-        "title": "AJ Foyt Racing amplía su acuerdo con Hendricks Holding Company a toda la temporada de IndyCar",
-        "summary": "AJ Foyt Racing anunció una extensión plurianual con Hendricks Holding Company, la firma de inversión de Wisconsin detrás de su patrocinador histórico ABC Supply, que continuará respaldando al Chevrolet N.º 14 \"Homes For Our Troops\". Para 2026, la alianza se extiende a toda la temporada de la IndyCar Series de NTT y suma a Hendricks Commercial Properties y Geronimo Hospitality Group como nuevos socios de marketing, prolongando una relación con ABC Supply que se remonta a 2005."
-      },
-      "zh": {
-        "title": "AJ Foyt赛车队与Hendricks Holding续约 赞助范围扩大至IndyCar全赛季",
-        "summary": "AJ Foyt赛车队宣布与总部位于威斯康星州的投资公司Hendricks Holding(长期赞助商ABC Supply的母公司)达成多年续约协议,继续支持涂有「Homes For Our Troops」涂装的14号雪佛兰赛车。2026赛季起,该合作将扩展至NTT IndyCar系列赛全赛季,并新增Hendricks Commercial Properties与Geronimo Hospitality Group作为营销合作伙伴,延续了与ABC Supply自2005年以来的合作关系。"
-      },
-      "fr": {
-        "title": "AJ Foyt Racing prolonge son accord avec Hendricks Holding Company et l'étend à toute la saison IndyCar",
-        "summary": "AJ Foyt Racing a annoncé une prolongation pluriannuelle avec Hendricks Holding Company, la société d'investissement du Wisconsin à l'origine de son sponsor historique ABC Supply, qui continuera de soutenir la Chevrolet n°14 « Homes For Our Troops ». Pour 2026, le partenariat s'étend à l'ensemble de la saison NTT IndyCar Series et ajoute Hendricks Commercial Properties et Geronimo Hospitality Group comme nouveaux partenaires marketing, prolongeant une relation avec ABC Supply qui remonte à 2005."
-      }
-    }
-  },
-  {
-    "id": "giantx-utamed-lec-sponsorship-2026",
-    "sport": "esports",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-05-04T00:00:00Z",
-    "source_name": "GIANTX",
-    "source_url": "https://giantx.gg/en/blogs/news/giantx-and-utamed-announce-new-partnership-agreement-2026",
-    "i18n": {
-      "en": {
-        "title": "GIANTX Names Online University UTAMED as Official Education Partner Through 2026",
-        "summary": "European esports organization GIANTX agreed to a sponsorship with Malaga-based online university UTAMED, running through the end of 2026 and naming UTAMED as the club's official education partner. The deal puts UTAMED's branding on GIANTX's League of Legends EMEA Championship (LEC) jersey, a competition that averages more than 300,000 viewers per match, alongside presence across the club's social media and content."
-      },
-      "ja": {
-        "title": "eスポーツ組織GIANTX、オンライン大学UTAMEDと公式教育パートナー契約を2026年まで締結",
-        "summary": "欧州のeスポーツ組織GIANTXは、スペイン・マラガ拠点のオンライン大学UTAMEDとのスポンサー契約を発表し、2026年末までUTAMEDを公式教育パートナーとする。契約により、平均視聴者数30万人超を誇るリーグ・オブ・レジェンドの欧州大会「LEC」でのGIANTXユニフォームにUTAMEDのブランドが表示されるほか、クラブのSNSやコンテンツにも露出する。"
-      },
-      "es": {
-        "title": "GIANTX nombra a la universidad online UTAMED como socio educativo oficial hasta 2026",
-        "summary": "La organización europea de esports GIANTX firmó un acuerdo de patrocinio con la universidad online malagueña UTAMED, vigente hasta finales de 2026, que convierte a UTAMED en el socio educativo oficial del club. El acuerdo incluye la marca de UTAMED en la camiseta de GIANTX en la LEC, la Liga Europea de League of Legends que promedia más de 300.000 espectadores por partido, además de presencia en las redes sociales y contenidos del club."
-      },
-      "zh": {
-        "title": "电竞组织GIANTX与在线大学UTAMED达成官方教育合作伙伴协议 合作期至2026年底",
-        "summary": "欧洲电竞组织GIANTX宣布与西班牙马拉加在线大学UTAMED达成赞助协议,合作期至2026年底,UTAMED将成为该俱乐部官方教育合作伙伴。协议包括UTAMED品牌出现在GIANTX参加《英雄联盟》欧洲冠军联赛(LEC,场均观众超过30万)的队服上,并在俱乐部社交媒体及内容中进行曝光。"
-      },
-      "fr": {
-        "title": "GIANTX fait d'UTAMED, université en ligne, son partenaire éducatif officiel jusqu'en 2026",
-        "summary": "L'organisation européenne d'esport GIANTX a conclu un accord de sponsoring avec l'université en ligne UTAMED, basée à Malaga, courant jusqu'à la fin de 2026 et désignant UTAMED comme partenaire éducatif officiel du club. L'accord place la marque UTAMED sur le maillot de GIANTX lors de la LEC, le championnat européen de League of Legends suivi par plus de 300 000 spectateurs en moyenne par match, ainsi que sur les réseaux sociaux et contenus du club."
-      }
-    }
-  },
-  {
-    "id": "cavaliers-blue-owl-stake-sale-2026",
-    "sport": "basketball",
-    "region": "global",
-    "topics": [
-      "team",
-      "biz"
-    ],
-    "published_at": "2026-06-25T00:00:00Z",
-    "source_name": "Sportico",
-    "source_url": "https://www.sportico.com/business/team-sales/2026/cleveland-cavaliers-blue-owl-stake-sale-1234937061/",
-    "i18n": {
-      "en": {
-        "title": "Cavaliers Nearing Deal to Sell Minority Stake to Blue Owl at $5.5B Valuation",
-        "summary": "Private equity firm Blue Owl is in advanced talks to buy a 5-10% limited-partner stake in the Cleveland Cavaliers, valuing the NBA club together with its incoming WNBA franchise at $5.5 billion. Owner Dan Gilbert, who bought the team in 2005 for $375 million, will keep majority control, while Blue Owl's HomeCourt fund already holds passive stakes in several other NBA teams."
-      },
-      "ja": {
-        "title": "キャバリアーズ、ブルー・オウルへ少数株売却で合意に近づく 評価額55億ドル",
-        "summary": "未公開株式投資会社ブルー・オウルが、NBAクリーブランド・キャバリアーズの株式5〜10%を取得する交渉を最終段階まで進めている。参入予定のWNBA新球団も含めた評価額は55億ドルに達する。2005年に3億7500万ドルで球団を買収したダン・ギルバート氏は過半数の経営権を維持する見通しだ。"
-      },
-      "es": {
-        "title": "Cavaliers cerca de vender una participación minoritaria a Blue Owl por 5.500 millones",
-        "summary": "La firma de capital privado Blue Owl negocia la compra de entre el 5% y el 10% de los Cleveland Cavaliers, valorando al club de la NBA junto a su futuro equipo de la WNBA en 5.500 millones de dólares. El propietario Dan Gilbert, que adquirió el equipo en 2005 por 375 millones, conservará el control mayoritario."
-      },
-      "zh": {
-        "title": "骑士队接近达成协议 以55亿美元估值向Blue Owl出售少数股权",
-        "summary": "私募股权公司Blue Owl正就收购克利夫兰骑士队5%至10%的有限合伙人股权展开高级谈判，连同即将加入的WNBA新球队，整体估值达55亿美元。球队老板丹·吉尔伯特在2005年以3.75亿美元收购球队，交易后仍将保留多数控股权。"
-      },
-      "fr": {
-        "title": "Les Cavaliers proches de céder une part minoritaire à Blue Owl, valorisation de 5,5 milliards",
-        "summary": "La société de capital-investissement Blue Owl négocie l'acquisition d'une participation de 5 à 10 % dans les Cleveland Cavaliers, valorisant le club de NBA et sa future franchise WNBA à 5,5 milliards de dollars. Le propriétaire Dan Gilbert, qui avait acheté l'équipe en 2005 pour 375 millions, conservera le contrôle majoritaire."
-      }
-    }
-  },
-  {
-    "id": "liverpool-turkish-airlines-shirt-sponsor-2027",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "team"
-    ],
-    "published_at": "2026-09-08T00:00:00Z",
-    "source_name": "InsiderSport",
-    "source_url": "https://insidersport.com/2026/09/08/liverpool-signs-turkish-airlines-deal/",
-    "i18n": {
-      "en": {
-        "title": "Liverpool Signs Five-Year Front-of-Shirt Deal With Turkish Airlines",
-        "summary": "Liverpool FC has agreed a five-year front-of-shirt partnership with Turkish Airlines worth more than £300 million, beginning in June 2027. The deal ends Standard Chartered's 17-year run as lead shirt sponsor, though the bank remains on as a global partner, and lifts Liverpool's annual shirt income from roughly £50 million to over £60 million."
-      },
-      "ja": {
-        "title": "リバプール、トルコ航空とユニフォーム胸スポンサーで5年契約",
-        "summary": "リバプールFCは2027年6月開始となるユニフォーム胸スポンサー契約をトルコ航空と5年間、3億ポンド超の規模で締結した。17年間続いたスタンダードチャータード銀行の胸スポンサーは終了するが同行はグローバルパートナーとして関係を継続し、年間収入は約5000万ポンドから6000万ポンド超に増加する。"
-      },
-      "es": {
-        "title": "Liverpool firma un acuerdo de cinco años con Turkish Airlines para el frente de la camiseta",
-        "summary": "El Liverpool FC acordó una asociación de cinco años con Turkish Airlines por más de 300 millones de libras, que comenzará en junio de 2027. El acuerdo pone fin a los 17 años de Standard Chartered como patrocinador principal, aunque el banco seguirá como socio global, y eleva los ingresos anuales por camiseta a más de 60 millones de libras."
-      },
-      "zh": {
-        "title": "利物浦与土耳其航空签订五年球衣胸前广告协议",
-        "summary": "利物浦足球俱乐部与土耳其航空达成为期五年、价值超过3亿英镑的球衣胸前广告合作，将于2027年6月开始。这笔交易结束了渣打银行长达17年的主赞助商身份，渣打银行将转为全球合作伙伴，球衣年收入也从约5000万英镑提升至6000多万英镑。"
-      },
-      "fr": {
-        "title": "Liverpool signe un contrat de cinq ans avec Turkish Airlines pour le sponsor maillot",
-        "summary": "Liverpool FC a conclu un partenariat de cinq ans avec Turkish Airlines pour plus de 300 millions de livres, à partir de juin 2027. L'accord met fin aux 17 années de Standard Chartered en tant que sponsor principal, la banque restant partenaire mondial, et porte les revenus annuels liés au maillot à plus de 60 millions de livres."
-      }
-    }
-  },
-  {
-    "id": "man-utd-sumup-sleeve-partner-2026",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-09-09T00:00:00Z",
-    "source_name": "Inside World Football",
-    "source_url": "https://www.insideworldfootball.com/2026/09/09/sumup-secures-man-utd-sleeve-slot-as-it-builds-it-premier-league-presence/",
-    "i18n": {
-      "en": {
-        "title": "Manchester United Names Fintech SumUp as New Sleeve Sponsor",
-        "summary": "Manchester United has named payments company SumUp as its new Official Sleeve Partner, replacing DXC Technology in what the club calls its biggest deal for that shirt space. The SumUp branding debuted on the men's, women's and academy kits during United's Champions League match against Sabah."
-      },
-      "ja": {
-        "title": "マンチェスター・ユナイテッド、新スリーブスポンサーに決済企業サムアップ",
-        "summary": "マンチェスター・ユナイテッドは新たなオフィシャル・スリーブ・パートナーとして決済企業サムアップを発表し、これまでのDXCテクノロジーから切り替えた。クラブ側はこのスリーブ枠における最大規模の契約と説明しており、サムアップのロゴはサバー戦のチャンピオンズリーグでトップチームや女子チーム、下部組織のユニフォームに初登場した。"
-      },
-      "es": {
-        "title": "Manchester United nombra a la fintech SumUp como nuevo patrocinador de manga",
-        "summary": "El Manchester United ha nombrado a la empresa de pagos SumUp como su nuevo Socio Oficial de Manga, sustituyendo a DXC Technology en lo que el club describe como su mayor acuerdo para ese espacio. El logo de SumUp debutó en las camisetas del primer equipo, el femenino y la academia durante el partido de Champions League ante el Sabah."
-      },
-      "zh": {
-        "title": "曼联宣布支付公司SumUp成为新袖标赞助商",
-        "summary": "曼联宣布支付科技公司SumUp成为新的官方袖标合作伙伴，取代此前的DXC Technology，俱乐部称这是该广告位有史以来金额最高的一笔交易。SumUp标识在对阵萨巴的欧冠比赛中首次出现在男足、女足及青训球衣上。"
-      },
-      "fr": {
-        "title": "Manchester United nomme la fintech SumUp comme nouveau sponsor de manche",
-        "summary": "Manchester United a désigné l'entreprise de paiement SumUp comme son nouveau partenaire officiel de manche, remplaçant DXC Technology dans ce que le club qualifie de plus gros contrat jamais signé pour cet espace. Le logo SumUp a fait ses débuts sur les maillots masculins, féminins et de l'académie lors du match de Ligue des champions contre le Sabah."
-      }
-    }
-  },
-  {
-    "id": "texas-tech-galaxy-stadium-naming-rights-2026",
-    "sport": "football",
-    "region": "global",
-    "topics": [
-      "stadium",
-      "sponsor"
-    ],
-    "published_at": "2026-07-17T00:00:00Z",
-    "source_name": "Texas Tech Athletics",
-    "source_url": "https://texastech.com/news/2026/7/17/football-texas-tech-secures-landmark-naming-rights-agreement-with-galaxy",
-    "i18n": {
-      "en": {
-        "title": "Texas Tech Renames Football Stadium Galaxy Stadium in $75M, 15-Year Deal",
-        "summary": "Texas Tech Athletics has signed a 15-year, $75 million naming rights agreement with digital-asset infrastructure firm Galaxy, renaming its home football venue Galaxy Stadium starting with the 2026 season. The partnership also builds in name, image and likeness activation opportunities for Red Raider athletes alongside the traditional branding rights."
-      },
-      "ja": {
-        "title": "テキサス工科大学、フットボールスタジアムを「ギャラクシー・スタジアム」に改称 15年75百万ドル契約",
-        "summary": "テキサス工科大学アスレチック局は、デジタル資産インフラ企業ギャラクシーと15年間・7500万ドル規模の命名権契約を締結し、2026シーズンからホームスタジアムを「ギャラクシー・スタジアム」に改称する。契約には従来のブランディング権に加え、レッドレイダーズの選手向けNIL(氏名・画像・肖像)活用の機会も組み込まれている。"
-      },
-      "es": {
-        "title": "Texas Tech renombra su estadio de fútbol americano como Galaxy Stadium en acuerdo de 75 millones por 15 años",
-        "summary": "El departamento de atletismo de Texas Tech firmó un acuerdo de naming rights de 15 años y 75 millones de dólares con la firma de infraestructura de activos digitales Galaxy, renombrando su estadio como Galaxy Stadium desde la temporada 2026. La asociación también incorpora oportunidades de nombre, imagen y semejanza (NIL) para los atletas de los Red Raiders."
-      },
-      "zh": {
-        "title": "德州理工大学将橄榄球场更名为“Galaxy体育场” 15年7500万美元协议",
-        "summary": "德州理工大学体育部与数字资产基础设施公司Galaxy签订为期15年、价值7500万美元的冠名权协议，从2026赛季起将主场更名为Galaxy体育场。该合作还为红色突袭者队运动员提供姓名、形象与肖像（NIL）权益激活机会。"
-      },
-      "fr": {
-        "title": "Texas Tech rebaptise son stade de football américain Galaxy Stadium dans un accord de 75 M$ sur 15 ans",
-        "summary": "Le département sportif de Texas Tech a signé un accord de naming rights de 15 ans et 75 millions de dollars avec la société d'infrastructure d'actifs numériques Galaxy, renommant son stade Galaxy Stadium dès la saison 2026. Le partenariat inclut aussi des opportunités d'activation nom, image et ressemblance (NIL) pour les athlètes des Red Raiders."
-      }
-    }
-  },
-  {
-    "id": "invictus-gaming-shanghai-putuo-arena-2026",
-    "sport": "esports",
-    "region": "global",
-    "topics": [
-      "stadium",
-      "biz"
-    ],
-    "published_at": "2026-05-12T00:00:00Z",
-    "source_name": "Players",
-    "source_url": "https://players.com.ua/en/news/invictus-gaming-opens-a-20-million-esports-arena-in-shanghai/",
-    "i18n": {
-      "en": {
-        "title": "Invictus Gaming Opens $20 Million Privately Funded Esports Arena in Shanghai",
-        "summary": "League of Legends organization Invictus Gaming has opened a new home arena in Shanghai's Putuo District, a $20 million project funded entirely without government subsidies or publisher backing. The 10,000-square-metre venue, part of investor Zhang Haohan's Inzone Esports Industrial Park, will host matches and serve as a hub for content production and broadcasting."
-      },
-      "ja": {
-        "title": "インビクタス・ゲーミング、上海に自己資金2000万ドルのeスポーツアリーナ開設",
-        "summary": "リーグ・オブ・レジェンドの強豪インビクタス・ゲーミングが、上海市普陀区に新たな本拠地アリーナを開設した。政府補助やゲーム発行元の支援を一切受けず、総額2000万ドルを自己資金で投じたプロジェクトとなる。出資者の張浩翰氏が運営する「インゾーン・eスポーツ産業パーク」内にあり、延べ面積1万平方メートル超の施設は試合会場に加え、コンテンツ制作や放送の拠点としても活用される。"
-      },
-      "es": {
-        "title": "Invictus Gaming abre una arena de esports de 20 millones financiada íntegramente con capital privado en Shanghái",
-        "summary": "La organización de League of Legends Invictus Gaming ha inaugurado su nueva sede en el distrito de Putuo, en Shanghái, un proyecto de 20 millones de dólares financiado sin subsidios estatales ni apoyo de editoras de videojuegos. El recinto de 10.000 metros cuadrados, parte del parque Inzone Esports del inversor Zhang Haohan, albergará partidos y servirá como centro de producción de contenido y transmisiones."
-      },
-      "zh": {
-        "title": "英雄联盟战队IG在上海开设耗资2000万美元的全自资电竞场馆",
-        "summary": "英雄联盟电竞俱乐部IG电子竞技俱乐部在上海普陀区启用新主场场馆，该项目总投资2000万美元，完全未获政府补贴或游戏发行商支持。这座逾万平方米的场馆是投资人张浩瀚打造的“因佐内电竞产业园”的一部分，将用于举办比赛及内容制作、转播。"
-      },
-      "fr": {
-        "title": "Invictus Gaming ouvre à Shanghai une arène d'esport de 20 millions financée sur fonds privés",
-        "summary": "L'organisation League of Legends Invictus Gaming a ouvert une nouvelle arène dans le district de Putuo à Shanghai, un projet de 20 millions de dollars financé sans aucune subvention publique ni soutien d'éditeur de jeux. Le site de plus de 10 000 mètres carrés, intégré au parc Inzone Esports de l'investisseur Zhang Haohan, accueillera des matchs et servira de pôle de production de contenu et de diffusion."
-      }
-    }
-  },
-  {
-    "id": "smartnews-jleague-supporting-company-2026",
-    "sport": "soccer",
-    "region": "japan",
-    "topics": [
-      "sponsor",
-      "fan"
-    ],
-    "published_at": "2026-06-18T00:00:00Z",
-    "source_name": "J.League",
-    "source_url": "https://digitalpr.jp/r/137037",
-    "i18n": {
-      "en": {
-        "title": "SmartNews Becomes J.League Supporting Company, Launches Channels for All 60 Clubs",
-        "summary": "News app SmartNews has signed a Supporting Company partnership with Japan's J.League, effective from June 2026. As part of the deal it has opened dedicated channels inside the app for all 60 clubs across J1, J2 and J3, and the two sides plan joint marketing tie-ups and fan-engagement campaigns."
-      },
-      "ja": {
-        "title": "スマートニュース、Jリーグのサポーティングカンパニーに 全60クラブの専用チャンネルを開設",
-        "summary": "ニュースアプリのスマートニュースは、Jリーグとサポーティングカンパニー契約を2026年6月より締結した。契約に基づきアプリ内にJ1・J2・J3全60クラブの専用チャンネルを開設し、両社は共同でのタイアップマーケティングやファン向けエンゲージメント施策の展開を計画している。"
-      },
-      "es": {
-        "title": "SmartNews se convierte en empresa colaboradora de la J.League y lanza canales para sus 60 clubes",
-        "summary": "La aplicación de noticias SmartNews firmó una asociación como empresa colaboradora con la J.League de Japón, vigente desde junio de 2026. Como parte del acuerdo, abrió canales dedicados dentro de la app para los 60 clubes de J1, J2 y J3, y ambas partes planean campañas conjuntas de marketing y de interacción con los aficionados."
-      },
-      "zh": {
-        "title": "SmartNews成为J联赛支持企业 为60家俱乐部开设专属频道",
-        "summary": "新闻应用SmartNews与日本J联赛签署支持企业合作协议，自2026年6月起生效。根据协议，该应用已为J1、J2、J3共60家俱乐部在平台内开设专属频道，双方还计划联合开展营销合作及球迷互动活动。"
-      },
-      "fr": {
-        "title": "SmartNews devient entreprise partenaire de la J.League et lance des canaux pour ses 60 clubs",
-        "summary": "L'application d'actualités SmartNews a signé un partenariat d'entreprise partenaire avec la J.League japonaise, effectif depuis juin 2026. Dans le cadre de cet accord, elle a ouvert des canaux dédiés dans l'application pour les 60 clubs de J1, J2 et J3, et les deux parties prévoient des campagnes marketing conjointes et d'engagement des supporters."
-      }
-    }
-  },
-  {
-    "id": "mikasa-jleague-youth-partner-2026",
-    "sport": "soccer",
-    "region": "japan",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-06-01T00:00:00Z",
-    "source_name": "J.League",
-    "source_url": "https://www.insideworldfootball.com/2026/06/08/mikasa-get-the-ball-rolling-with-new-j-league-sponsorship/",
-    "i18n": {
-      "en": {
-        "title": "Mikasa Signed as J.League's Youth Development Ball Partner",
-        "summary": "Ball manufacturer Mikasa has signed on as the J.League's official Future Development Partner, covering the 2026-27 cycle. Under the one-year deal, Mikasa's ALMUNDO match ball will be used across the league's junior and youth-category tournaments through June 2027."
-      },
-      "ja": {
-        "title": "ミカサ、Jリーグ「未来育成パートナー」契約を締結",
-        "summary": "ボール製造大手のミカサが、Jリーグの公式「未来育成パートナー」として契約を締結した。契約期間は2026年6月から2027年6月までの1年間で、同社の試合球「ALMUNDO」がJリーグ主催・主管のジュニアユース・ユース大会で使用される。"
-      },
-      "es": {
-        "title": "Mikasa firma como socio de balones para el desarrollo juvenil de la J.League",
-        "summary": "El fabricante de balones Mikasa ha firmado como Socio Oficial de Desarrollo Futuro de la J.League, para el ciclo 2026-27. Bajo este acuerdo de un año, el balón de juego ALMUNDO de Mikasa se utilizará en los torneos de categorías junior y juvenil de la liga hasta junio de 2027."
-      },
-      "zh": {
-        "title": "美卡沙成为J联赛青训用球合作伙伴",
-        "summary": "球类制造商美卡沙（Mikasa）正式签约成为J联赛官方“未来培育合作伙伴”，合作周期为2026至2027赛季。根据这项一年期协议，美卡沙的ALMUNDO比赛用球将在J联赛主办的少年及青年组赛事中使用，期限至2027年6月。"
-      },
-      "fr": {
-        "title": "Mikasa devient partenaire ballon pour le développement des jeunes de la J.League",
-        "summary": "Le fabricant de ballons Mikasa a signé en tant que partenaire officiel de développement futur de la J.League, pour le cycle 2026-27. Dans le cadre de cet accord d'un an, le ballon de match ALMUNDO de Mikasa sera utilisé dans les tournois des catégories junior et jeunes de la ligue jusqu'en juin 2027."
-      }
-    }
-  },
-  {
-    "id": "att-cowboys-stadium-tech-2026",
-    "sport": "football",
-    "region": "global",
-    "topics": [
-      "tech",
-      "fan",
-      "stadium"
-    ],
-    "published_at": "2026-09-18T00:00:00Z",
-    "source_name": "AT&T",
-    "source_url": "https://about.att.com/story/2026/dallas-cowboys-partnership.html",
-    "i18n": {
-      "en": {
-        "title": "AT&T Debuts AI-Powered Fan Technology at AT&T Stadium for 2026 Season",
-        "summary": "AT&T has rolled out a new round of connected-stadium technology at AT&T Stadium for the Dallas Cowboys' 2026 season, built on its fiber network. The upgrades include AI-powered in-game moments, smarter in-venue navigation, and more immersive video and mixed-reality features for fans attending games."
-      },
-      "ja": {
-        "title": "AT&T、2026シーズンのAT&Tスタジアムに向けAI活用のファン向け新技術を導入",
-        "summary": "AT&Tは、ダラス・カウボーイズの2026シーズンに合わせ、自社の光回線網を基盤としたコネクテッド・スタジアム技術をAT&Tスタジアムに新たに導入した。アップグレード内容には、AIを活用した試合中のハイライト機能、スタジアム内でのより分かりやすい案内、観戦者向けの臨場感ある映像や複合現実(MR)機能の強化が含まれる。"
-      },
-      "es": {
-        "title": "AT&T estrena tecnología para aficionados impulsada por IA en el AT&T Stadium para la temporada 2026",
-        "summary": "AT&T ha desplegado una nueva generación de tecnología de estadio conectado en el AT&T Stadium para la temporada 2026 de los Dallas Cowboys, basada en su red de fibra. Las mejoras incluyen momentos de juego potenciados por IA, una navegación más inteligente dentro del recinto y funciones de video inmersivo y realidad mixta para los aficionados."
-      },
-      "zh": {
-        "title": "AT&T为2026赛季AT&T体育场推出人工智能驱动的球迷新技术",
-        "summary": "AT&T为达拉斯牛仔队2026赛季在AT&T体育场推出新一轮基于其光纤网络的智能场馆技术。此次升级包括人工智能驱动的比赛精彩时刻呈现、更智能的场馆内导航，以及为现场球迷打造的沉浸式视频和混合现实功能。"
-      },
-      "fr": {
-        "title": "AT&T lance une technologie pour les supporters pilotée par l'IA à l'AT&T Stadium pour la saison 2026",
-        "summary": "AT&T a déployé une nouvelle génération de technologie de stade connecté à l'AT&T Stadium pour la saison 2026 des Dallas Cowboys, basée sur son réseau fibre. Les améliorations incluent des moments de jeu propulsés par l'IA, une navigation plus intelligente dans l'enceinte et des fonctions vidéo immersives et de réalité mixte pour les supporters."
-      }
-    }
-  },
-  {
-    "id": "cleveland-browns-arctos-stake-sale-2026",
-    "sport": "football",
-    "region": "global",
-    "topics": [
-      "team",
-      "biz"
-    ],
-    "published_at": "2026-05-20T00:00:00Z",
-    "source_name": "SportCal",
-    "source_url": "https://www.sportcal.com/news/nfl-approves-minority-stake-sales-for-chargers-49ers-browns/",
-    "i18n": {
-      "en": {
-        "title": "Browns Sell Stake to Arctos Partners at Record $9 Billion Valuation",
-        "summary": "The NFL has approved a minority stake sale that values the Cleveland Browns at more than $9 billion, among the highest valuations ever recorded for the league. Private equity firm Arctos Partners will acquire the stake in three tranches, with the first giving it roughly 3% of the club. Analysts tie the jump in value partly to the Browns' new domed stadium project slated to open in 2029."
-      },
-      "ja": {
-        "title": "ブラウンズ、アークトスに株式売却 評価額90億ドル超で過去最高水準",
-        "summary": "NFLはクリーブランド・ブラウンズの少数株式売却を承認し、評価額はリーグ史上でも最高水準となる90億ドル超に達した。プライベートエクイティのアークトス・パートナーズが3回に分けて株式を取得し、第1弾では約3%を保有する見通し。2029年開業予定の新ドーム球場計画が評価額上昇の一因とみられている。"
-      },
-      "es": {
-        "title": "Los Browns venden una participación a Arctos Partners por un valor récord de 9.000 millones de dólares",
-        "summary": "La NFL aprobó la venta de una participación minoritaria que valora a los Cleveland Browns en más de 9.000 millones de dólares, una de las cifras más altas registradas en la liga. La firma de capital privado Arctos Partners adquirirá la participación en tres tramos, con un primer paquete cercano al 3% del club. Los analistas atribuyen parte del salto en el valor al nuevo estadio techado previsto para 2029."
-      },
-      "zh": {
-        "title": "布朗队以创纪录的90亿美元估值向Arctos Partners出售股权",
-        "summary": "NFL已批准克利夫兰布朗队的少数股权出售，估值超过90亿美元，创联盟历史最高纪录之一。私募股权公司Arctos Partners将分三批收购股份，首批约占球队3%。分析人士认为，估值飙升部分源于该队计划于2029年启用的新穹顶球场项目。"
-      },
-      "fr": {
-        "title": "Les Browns cèdent une participation à Arctos Partners pour une valorisation record de 9 milliards de dollars",
-        "summary": "La NFL a approuvé la vente d'une participation minoritaire valorisant les Browns de Cleveland à plus de 9 milliards de dollars, l'une des valorisations les plus élevées jamais enregistrées dans la ligue. La société de capital-investissement Arctos Partners acquerra cette participation en trois tranches, la première portant sur environ 3 % du club. Les analystes attribuent en partie cette hausse au nouveau stade à toit rétractable prévu pour 2029."
-      }
-    }
-  },
-  {
-    "id": "f1-dazn-spain-portugal-extension-2030",
-    "sport": "motorsports",
-    "region": "global",
-    "topics": [
-      "biz",
-      "sponsor"
-    ],
-    "published_at": "2026-09-09T00:00:00Z",
-    "source_name": "SportCal",
-    "source_url": "https://www.sportcal.com/news/dazn-renews-f1-coverage-in-spain-andorra-portugal-through-2030/",
-    "i18n": {
-      "en": {
-        "title": "DAZN Extends Formula 1 Broadcast Rights in Spain, Portugal and Andorra Through 2030",
-        "summary": "Streaming service DAZN has renewed its Formula 1 rights for Spain, Portugal and Andorra for four more years, covering every practice, qualifying and race session through the 2030 season. The expanded package also folds in Formula 2, Formula 3, F1 Academy and the Porsche Supercup. The deal lands as the region's F1 calendar grows, with a new Madrid Grand Prix and Portimão's planned return in 2027."
-      },
-      "ja": {
-        "title": "DAZN、F1放映権をスペイン・ポルトガル・アンドラで2030年まで延長",
-        "summary": "配信サービスのDAZNは、スペイン・ポルトガル・アンドラにおけるF1放映権をさらに4年延長し、2030年シーズンまで全てのフリー走行・予選・決勝をカバーすることで合意した。拡大パッケージにはF2、F3、F1アカデミー、ポルシェ・スーパーカップも含まれる。同地域ではマドリードGPの新設やポルティマオの2027年復帰が予定されており、F1カレンダーの拡大を背景にした契約となる。"
-      },
-      "es": {
-        "title": "DAZN amplía los derechos de retransmisión de la Fórmula 1 en España, Portugal y Andorra hasta 2030",
-        "summary": "El servicio de streaming DAZN ha renovado sus derechos de la Fórmula 1 para España, Portugal y Andorra por cuatro años más, cubriendo todas las sesiones de entrenamientos, clasificación y carrera hasta la temporada 2030. El paquete ampliado también incluye la Fórmula 2, la Fórmula 3, la F1 Academy y la Porsche Supercup. El acuerdo llega mientras el calendario de F1 en la región crece, con un nuevo Gran Premio de Madrid y el regreso previsto de Portimão en 2027."
-      },
-      "zh": {
-        "title": "DAZN将F1在西班牙、葡萄牙和安道尔的转播权延长至2030年",
-        "summary": "流媒体平台DAZN已将其在西班牙、葡萄牙和安道尔的F1转播权续约四年，覆盖至2030赛季的所有练习赛、排位赛和正赛。扩大后的转播package还包括F2、F3、F1学院赛以及保时捷超级杯。该协议正值该地区F1赛历不断扩张之际，新增马德里大奖赛，波尔蒂芒也计划于2027年回归。"
-      },
-      "fr": {
-        "title": "DAZN prolonge ses droits de diffusion de la Formule 1 en Espagne, au Portugal et en Andorre jusqu'en 2030",
-        "summary": "Le service de streaming DAZN a renouvelé ses droits de diffusion de la Formule 1 pour l'Espagne, le Portugal et Andorre pour quatre années supplémentaires, couvrant tous les essais, qualifications et courses jusqu'à la saison 2030. Le forfait élargi inclut également la Formule 2, la Formule 3, la F1 Academy et la Porsche Supercup. Cet accord intervient alors que le calendrier de F1 dans la région s'étoffe, avec un nouveau Grand Prix de Madrid et le retour prévu de Portimão en 2027."
-      }
-    }
-  },
-  {
-    "id": "liverpool-fsg-stake-sale-talks-2026",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "team",
-      "biz"
-    ],
-    "published_at": "2026-09-01T00:00:00Z",
-    "source_name": "Front Office Sports",
-    "source_url": "https://frontofficesports.com/article/fsg-might-be-thinking-twice-about-selling-liverpool/",
-    "i18n": {
-      "en": {
-        "title": "Liverpool's FSG Reportedly Reconsiders Selling Stake After $6 Billion Valuation Talks",
-        "summary": "Fenway Sports Group, which has owned Liverpool since 2010, had confirmed discussions to sell roughly a third of the club to a group led by Amit Bhatia that reportedly includes Jeff Bezos and Eduardo Saverin, at a valuation near $6 billion. More recent reporting suggests FSG is now weighing whether to proceed with a full minority sale or scale the deal back. A sale at that price would represent a return of well over 1,000% on FSG's roughly $300 million purchase in 2010."
-      },
-      "ja": {
-        "title": "リバプール売却協議、FSGが再考か 評価額60億ドルで浮上",
-        "summary": "2010年からリバプールを所有するフェンウェイ・スポーツ・グループ（FSG）は、評価額約60億ドルでクラブの約3分の1をアミット・バティア氏率いるグループ（ジェフ・ベゾス氏やエドゥアルド・サベリン氏も参加とされる）に売却する協議を認めていた。しかし最近の報道では、FSGが売却を全面的に進めるか規模を縮小するか再検討しているとされる。この価格での売却が実現すれば、2010年の約3億ドルでの買収から1000%を超える利益となる。"
-      },
-      "es": {
-        "title": "FSG reconsideraría la venta de una participación de Liverpool tras conversaciones a 6.000 millones de dólares",
-        "summary": "Fenway Sports Group, propietario de Liverpool desde 2010, había confirmado conversaciones para vender aproximadamente un tercio del club a un grupo liderado por Amit Bhatia, que según se informa incluye a Jeff Bezos y Eduardo Saverin, con una valoración cercana a los 6.000 millones de dólares. Informes más recientes sugieren que FSG está evaluando si seguir adelante con la venta minoritaria o reducir su alcance. Una venta a ese precio supondría un retorno superior al 1.000% sobre los cerca de 300 millones que pagó FSG en 2010."
-      },
-      "zh": {
-        "title": "据报道利物浦母公司FSG在60亿美元估值谈判后重新考虑出售股权",
-        "summary": "自2010年起拥有利物浦的芬威体育集团（FSG）此前已确认，正与由阿米特·巴蒂亚牵头、据报包括杰夫·贝索斯和爱德华多·萨维林的财团商谈以约60亿美元估值出售俱乐部约三分之一股份。但最新报道显示，FSG正重新考虑是全面推进少数股权出售还是缩小交易规模。若以该价格成交，相较FSG在2010年约3亿美元的收购成本，回报率将超过1000%。"
-      },
-      "fr": {
-        "title": "FSG reconsidérerait la vente d'une participation de Liverpool après des discussions à 6 milliards de dollars",
-        "summary": "Fenway Sports Group, propriétaire de Liverpool depuis 2010, avait confirmé des discussions pour céder environ un tiers du club à un groupe mené par Amit Bhatia, qui inclurait selon certaines informations Jeff Bezos et Eduardo Saverin, pour une valorisation proche de 6 milliards de dollars. Des informations plus récentes suggèrent que FSG évalue désormais s'il faut poursuivre cette vente minoritaire ou en réduire l'ampleur. Une vente à ce prix représenterait un retour de plus de 1 000 % sur les quelque 300 millions de dollars déboursés par FSG en 2010."
-      }
-    }
-  },
-  {
-    "id": "kang-completes-lyon-takeover-2026",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "team",
-      "biz"
-    ],
-    "published_at": "2026-06-24T00:00:00Z",
-    "source_name": "SportBusiness",
-    "source_url": "https://onthemoney.sportbusiness.com/news/kang-agrees-takeover-deal-for-olympique-lyonnais/",
-    "i18n": {
-      "en": {
-        "title": "Michele Kang Completes Majority Takeover of Olympique Lyonnais",
-        "summary": "American businesswoman Michele Kang has taken full majority control of Olympique Lyonnais, ending John Textor's ownership of the French club through a deal worth up to roughly $115 million. Kang acquired an 87.78% stake in the holding entity that controls Lyon and is injecting further capital to restructure the club's debts. She already chaired the men's club and owned Lyon's women's side, which plays a central role in her multi-club women's soccer strategy."
-      },
-      "ja": {
-        "title": "ミシェル・カン氏、オリンピック・リヨン買収を完了し過半数株主に",
-        "summary": "米国の実業家ミシェル・カン氏が、オリンピック・リヨンの過半数株式を取得し、ジョン・テクスター氏によるオーナーシップに終止符を打った。取引総額は最大約1億1500万ドル規模で、リヨンを傘下に持つホールディング会社の87.78%の株式を取得し、クラブの債務再編に向けてさらに資本を投入する。カン氏はすでに男子クラブの会長を務めており、女子チームも所有しており、女子サッカーのマルチクラブ戦略の中心に位置付けている。"
-      },
-      "es": {
-        "title": "Michele Kang completa la adquisición mayoritaria del Olympique Lyonnais",
-        "summary": "La empresaria estadounidense Michele Kang ha tomado el control mayoritario total del Olympique Lyonnais, poniendo fin a la propiedad de John Textor en el club francés mediante un acuerdo valorado en hasta unos 115 millones de dólares. Kang adquirió el 87,78% de la entidad holding que controla a Lyon e inyecta capital adicional para reestructurar las deudas del club. Ya presidía el equipo masculino y era propietaria del equipo femenino, pieza clave de su estrategia multiclub en el fútbol femenino."
-      },
-      "zh": {
-        "title": "米歇尔·康完成对里昂奥林匹克的多数股权收购",
-        "summary": "美国企业家米歇尔·康已全面取得里昂奥林匹克的多数控股权，结束了约翰·特克斯特对这家法国俱乐部的所有权，交易总额最高约1.15亿美元。康女士收购了控股里昂的母公司87.78%的股份，并注入更多资金以重组俱乐部债务。她此前已担任男足俱乐部主席，并拥有里昂女足，后者是其女子足球多俱乐部战略的核心。"
-      },
-      "fr": {
-        "title": "Michele Kang finalise la prise de contrôle majoritaire de l'Olympique Lyonnais",
-        "summary": "L'entrepreneuse américaine Michele Kang a pris le contrôle majoritaire total de l'Olympique Lyonnais, mettant fin à la propriété de John Textor sur le club français via un accord d'une valeur pouvant atteindre environ 115 millions de dollars. Kang a acquis 87,78 % de l'entité holding qui contrôle Lyon et injecte des capitaux supplémentaires pour restructurer les dettes du club. Elle présidait déjà le club masculin et possédait l'équipe féminine, pièce centrale de sa stratégie multi-clubs dans le football féminin."
-      }
-    }
-  },
-  {
-    "id": "hanwha-life-esports-brandworks-sponsor-2026",
-    "sport": "esports",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-01-14T00:00:00Z",
-    "source_name": "Inven Global",
-    "source_url": "https://www.invenglobal.com/articles/20089/hanwha-life-esports-signs-sponsorship-deal-with-brandworks-korea",
-    "i18n": {
-      "en": {
-        "title": "Hanwha Life Esports Signs 2026 Sponsorship Deal With Brandworks Korea",
-        "summary": "League of Legends organization Hanwha Life Esports has agreed a new sponsorship for the 2026 season with Brandworks Korea, bringing its fashion labels Brooks Brothers and Rockport on board. Players already wore the brands' pieces at the team's January fan festival. The deal pairs an esports roster with heritage fashion labels, a pairing that has become more common as traditional apparel brands chase younger gaming audiences."
-      },
-      "ja": {
-        "title": "ハンファライフeスポーツ、ブランドワークス・コリアと2026年スポンサー契約",
-        "summary": "リーグ・オブ・レジェンドのプロチーム、ハンファライフeスポーツは、ブランドワークス・コリアとの新たなスポンサー契約を2026年シーズンに向けて締結し、同社のファッションブランド「ブルックス ブラザーズ」と「ロックポート」が参画する。選手らは1月のファンフェスティバルで既に両ブランドの製品を着用していた。伝統的なアパレルブランドが若いゲーミング層を取り込もうとする動きの中で、eスポーツチームと老舗ファッションブランドの提携が広がりつつある。"
-      },
-      "es": {
-        "title": "Hanwha Life Esports firma un acuerdo de patrocinio para 2026 con Brandworks Korea",
-        "summary": "La organización de League of Legends Hanwha Life Esports ha acordado un nuevo patrocinio para la temporada 2026 con Brandworks Korea, que incorpora sus marcas de moda Brooks Brothers y Rockport. Los jugadores ya lucieron prendas de ambas marcas en el festival de fans del equipo en enero. El acuerdo une a una plantilla de esports con marcas de moda tradicionales, una combinación cada vez más habitual mientras las marcas de ropa buscan llegar al público joven de los videojuegos."
-      },
-      "zh": {
-        "title": "Hanwha Life Esports与Brandworks Korea签署2026年赞助协议",
-        "summary": "英雄联盟战队Hanwha Life Esports已与Brandworks Korea达成2026赛季新赞助协议，旗下时尚品牌Brooks Brothers和Rockport将加入合作。选手们在1月的粉丝节上已经穿着过这两个品牌的服饰。该协议将电竞战队与历史悠久的时尚品牌联系在一起，随着传统服装品牌争相吸引年轻游戏受众，此类合作正变得越来越普遍。"
-      },
-      "fr": {
-        "title": "Hanwha Life Esports signe un accord de parrainage 2026 avec Brandworks Korea",
-        "summary": "L'organisation League of Legends Hanwha Life Esports a conclu un nouveau partenariat pour la saison 2026 avec Brandworks Korea, intégrant ses marques de mode Brooks Brothers et Rockport. Les joueurs portaient déjà des pièces de ces marques lors du festival des fans de l'équipe en janvier. Cet accord associe un roster d'esport à des marques de mode historiques, une tendance de plus en plus courante alors que les marques de vêtements traditionnelles cherchent à séduire un public jeune et connecté au jeu vidéo."
-      }
-    }
-  },
-  {
-    "id": "tsuji-hongo-npb-stadium-ads-2026",
-    "sport": "baseball",
-    "region": "japan",
-    "topics": [
-      "sponsor",
-      "stadium"
-    ],
-    "published_at": "2026-04-03T00:00:00Z",
-    "source_name": "Tsuji-Hongo Tax & Accounting Corp.",
-    "source_url": "https://www.ht-tax.or.jp/news/20260403/",
-    "i18n": {
-      "en": {
-        "title": "Tax Firm Tsuji-Hongo Expands 2026 Stadium Ad Sponsorships Across Nine NPB Ballparks",
-        "summary": "Tax and accounting firm Tsuji-Hongo Group announced it will again run stadium advertising at nine Nippon Professional Baseball venues in 2026, spanning both the Central and Pacific Leagues. Placements include a revolving sign at Tokyo Dome for the Yomiuri Giants, upper-deck signage at Koshien Stadium for the Hanshin Tigers, and backstop boards at ballparks used by the Rakuten Eagles, Lotte Marines, Seibu Lions, Orix Buffaloes and SoftBank Hawks. The firm is also continuing its stadium-ad presence at Los Angeles Dodgers home games."
-      },
-      "ja": {
-        "title": "辻・本郷税理士法人、2026年もNPB9球場で広告展開を拡大",
-        "summary": "税理士法人辻・本郷グループは、2026年もセ・パ両リーグの日本プロ野球9球場で球場広告を継続すると発表した。読売ジャイアンツ本拠地・東京ドームの回転看板、阪神タイガース本拠地・阪神甲子園球場のアルプス上段広告のほか、楽天イーグルス、ロッテマリーンズ、西武ライオンズ、オリックス・バファローズ、ソフトバンクホークスの本拠地でもバックネット広告を展開する。同社は米大リーグ、ロサンゼルス・ドジャースの本拠地戦での広告出稿も継続する。"
-      },
-      "es": {
-        "title": "La firma fiscal Tsuji-Hongo amplía sus patrocinios publicitarios en nueve estadios de la NPB en 2026",
-        "summary": "La firma de contabilidad y asesoría fiscal Tsuji-Hongo Group anunció que volverá a colocar publicidad en nueve estadios de la Liga Profesional de Béisbol de Japón (NPB) en 2026, abarcando tanto la Liga Central como la Pacífica. Las ubicaciones incluyen un cartel giratorio en el Tokyo Dome de los Yomiuri Giants y un panel en la zona alta del Koshien Stadium de los Hanshin Tigers, además de vallas tras el home en los estadios de Rakuten Eagles, Lotte Marines, Seibu Lions, Orix Buffaloes y SoftBank Hawks. La firma también mantiene su presencia publicitaria en los partidos como local de los Dodgers de Los Ángeles."
-      },
-      "zh": {
-        "title": "税务公司辻·本郷2026年扩大在NPB九座球场的广告赞助",
-        "summary": "税务会计公司辻·本郷集团宣布，2026年将继续在日本职业棒球（NPB）央、太两个联盟共九座球场投放广告。投放位置包括读卖巨人队主场东京巨蛋的旋转广告牌、阪神虎队主场甲子园球场的看台上层广告，以及乐天鹰、罗德海洋、西武狮、欧力士野牛和软银鹰主场的后挡网广告。该公司还将继续在洛杉矶道奇队主场比赛中投放球场广告。"
-      },
-      "fr": {
-        "title": "Le cabinet fiscal Tsuji-Hongo élargit ses parrainages publicitaires dans neuf stades de NPB en 2026",
-        "summary": "Le cabinet de conseil fiscal et comptable Tsuji-Hongo Group a annoncé qu'il diffusera à nouveau des publicités dans neuf stades de baseball professionnel japonais (NPB) en 2026, couvrant à la fois la Ligue Centrale et la Ligue Pacifique. Les emplacements incluent un panneau rotatif au Tokyo Dome pour les Yomiuri Giants et un affichage dans les gradins supérieurs du stade de Koshien pour les Hanshin Tigers, ainsi que des panneaux derrière le marbre dans les stades des Rakuten Eagles, Lotte Marines, Seibu Lions, Orix Buffaloes et SoftBank Hawks. L'entreprise maintient également sa présence publicitaire lors des matchs à domicile des Dodgers de Los Angeles."
-      }
-    }
-  },
-  {
-    "id": "shiga-lakes-daifuku-top-partner-2026",
-    "sport": "basketball",
-    "region": "japan",
-    "topics": [
-      "sponsor",
-      "team"
-    ],
-    "published_at": "2026-07-10T00:00:00Z",
-    "source_name": "Logi-Today",
-    "source_url": "https://www.logi-today.com/976163",
-    "i18n": {
-      "en": {
-        "title": "Shiga Lakes Sign Daifuku as Top Partner Ahead of B.LEAGUE PREMIER Debut",
-        "summary": "Japanese basketball club Shiga Lakes announced a top partnership with material-handling systems maker Daifuku as the team prepares for its debut season in the newly restructured B.LEAGUE PREMIER. The deal puts Daifuku's logo on the team's jersey and includes a branded showcase game against the Ryukyu Golden Kings on October 3-4, plus joint community initiatives such as a lakeside clean-up walk and an expanded free-ticket program for university students. Daifuku, which builds logistics and airport handling systems, runs its largest production site in Shiga Prefecture."
-      },
-      "ja": {
-        "title": "滋賀レイクス、B.LEAGUE PREMIER開幕へダイフクとトップパートナー契約",
-        "summary": "日本のバスケットボールクラブ、滋賀レイクスは、再編された新リーグ「B.LEAGUE PREMIER」への参戦を控え、マテリアルハンドリング大手ダイフクとのトップパートナー契約を発表した。契約によりユニフォームにダイフクのロゴが掲出されるほか、10月3日・4日の琉球ゴールデンキングス戦を冠試合として開催し、びわ湖一周クリーンウォークへの協賛や大学生向け無料招待事業「カレッジパス」の拡充など地域連携施策も展開する。物流・空港向けシステムを手掛けるダイフクは、滋賀県内に主力の生産・開発拠点を構える。"
-      },
-      "es": {
-        "title": "Shiga Lakes ficha a Daifuku como patrocinador principal antes de su debut en la B.LEAGUE PREMIER",
-        "summary": "El club de baloncesto japonés Shiga Lakes anunció un acuerdo de patrocinio principal con el fabricante de sistemas de manejo de materiales Daifuku, de cara a su temporada debut en la recién reestructurada B.LEAGUE PREMIER. El acuerdo coloca el logotipo de Daifuku en la camiseta del equipo e incluye un partido especial contra los Ryukyu Golden Kings el 3 y 4 de octubre, además de iniciativas comunitarias conjuntas como una caminata de limpieza junto al lago Biwa y un programa ampliado de entradas gratuitas para universitarios. Daifuku, fabricante de sistemas logísticos y de manejo aeroportuario, tiene su mayor planta de producción en la prefectura de Shiga."
-      },
-      "zh": {
-        "title": "滋贺湖人队签约大福作为顶级合作伙伴，迎接B.LEAGUE PREMIER首秀",
-        "summary": "日本篮球俱乐部滋贺湖人队宣布与物料搬运系统制造商大福（Daifuku）达成顶级合作伙伴协议，为球队即将迎来的重组后新联赛B.LEAGUE PREMIER首个赛季做准备。协议将大福的标志印在球队球衣上，并包括10月3日至4日对阵琉球黄金国王队的冠名比赛，以及环琵琶湖清洁徒步活动赞助、面向大学生的免费观赛项目扩容等社区合作举措。从事物流与机场搬运系统业务的大福，其最大生产基地就设在滋贺县。"
-      },
-      "fr": {
-        "title": "Les Shiga Lakes s'associent à Daifuku comme partenaire principal avant leurs débuts en B.LEAGUE PREMIER",
-        "summary": "Le club de basket-ball japonais Shiga Lakes a annoncé un partenariat principal avec le fabricant de systèmes de manutention Daifuku, à l'approche de sa première saison dans la B.LEAGUE PREMIER nouvellement restructurée. L'accord place le logo de Daifuku sur le maillot de l'équipe et comprend un match événement contre les Ryukyu Golden Kings les 3 et 4 octobre, ainsi que des initiatives communautaires communes comme une marche de nettoyage autour du lac Biwa et un programme élargi de billets gratuits pour les étudiants. Daifuku, qui conçoit des systèmes logistiques et de manutention aéroportuaire, exploite son plus grand site de production dans la préfecture de Shiga."
-      }
-    }
-  },
-  {
-    "id": "mavericks-chase-jersey-patch",
-    "sport": "basketball",
-    "region": "global",
-    "topics": [
-      "team",
-      "sponsor",
-      "fan"
-    ],
-    "published_at": "2026-07-08T00:00:00Z",
-    "source_name": "Chase Media",
-    "source_url": "https://media.chase.com/news/jpmc-mavericks-strategic-partnership",
-    "i18n": {
-      "en": {
-        "title": "Dallas Mavericks Name Chase as First-Ever Jersey Patch and Banking Partner",
-        "summary": "The Dallas Mavericks unveiled JPMorganChase as the franchise's official jersey patch and banking partner in a multi-year agreement, marking Chase's debut jersey patch deal with an NBA club. Beyond the on-jersey branding, the partnership covers a dedicated cardholder entrance and preferred seating at American Airlines Center, plus funding for new community basketball courts across North Texas."
-      },
-      "ja": {
-        "title": "ダラス・マーベリックス、チェイスと初のジャージパッチ兼銀行パートナー契約",
-        "summary": "NBAのダラス・マーベリックスは、JPモルガン・チェイスを球団史上初のジャージパッチおよび銀行パートナーとする複数年契約を発表した。チェイスにとってもNBA球団との初のパッチ契約となる。契約にはアメリカン航空センターでの専用カード会員入口や優先席の提供、北テキサス地域での新設バスケットボールコート整備への支援も含まれる。"
-      },
-      "es": {
-        "title": "Los Mavericks de Dallas nombran a Chase su primer socio de parche en la camiseta y banca",
-        "summary": "Los Mavericks de Dallas presentaron a JPMorganChase como su socio oficial de parche en la camiseta y de banca en un acuerdo multianual, el primer contrato de este tipo para Chase con un equipo de la NBA. El convenio incluye una entrada exclusiva para titulares de tarjetas y asientos preferentes en el American Airlines Center, además de financiamiento para nuevas canchas comunitarias en el norte de Texas."
-      },
-      "zh": {
-        "title": "达拉斯独行侠队官宣大通银行为首位球衣广告与银行合作伙伴",
-        "summary": "NBA达拉斯独行侠队宣布与摩根大通旗下大通银行达成多年合作协议,使其成为球队历史上首位球衣广告合作伙伴,这也是大通银行首次与NBA球队签订此类协议。合作内容还包括在美国航空中心设立专属持卡人入口与优先座位,并资助在北德克萨斯地区新建社区篮球场。"
-      },
-      "fr": {
-        "title": "Les Mavericks de Dallas nomment Chase premier partenaire de maillot et bancaire",
-        "summary": "Les Mavericks de Dallas ont dévoilé JPMorganChase comme partenaire officiel de maillot et partenaire bancaire dans un accord pluriannuel, le premier contrat de ce type pour Chase avec une équipe NBA. Le partenariat comprend une entrée réservée aux détenteurs de carte et des places prioritaires à l'American Airlines Center, ainsi qu'un financement pour de nouveaux terrains de basket communautaires dans le nord du Texas."
-      }
-    }
-  },
-  {
-    "id": "georgia-tech-veritiv-jersey-patch",
-    "sport": "football",
-    "region": "global",
-    "topics": [
-      "team",
-      "sponsor"
-    ],
-    "published_at": "2026-08-27T00:00:00Z",
-    "source_name": "WSB-TV",
-    "source_url": "https://www.wsbtv.com/news/local/georgia-tech-announces-first-football-jersey-patch-sponsor/SG2EWB3JCJC2LFNTDQUA63RLF4/",
-    "i18n": {
-      "en": {
-        "title": "Georgia Tech Lands First-Ever Football Jersey Patch Sponsor in Atlanta's Veritiv",
-        "summary": "Georgia Tech signed Atlanta-based packaging and logistics firm Veritiv as the Yellow Jackets football program's first jersey patch sponsor, with the branding debuting at the season opener against Colorado. The deal reflects a broader wave of ACC and Power Four programs adding patch inventory to diversify athletic department revenue."
-      },
-      "ja": {
-        "title": "ジョージア工科大学、米物流企業ベリティブと初のジャージパッチ契約",
-        "summary": "ジョージア工科大学のアメリカンフットボールチーム「イエロージャケッツ」は、アトランタを拠点とする包装・物流企業ベリティブと球団史上初のジャージパッチ契約を締結した。新ロゴは開幕戦となるコロラド大学戦で初披露された。ACCやパワーフォー所属校の間で広がる、収益多様化を狙ったパッチ導入の流れを反映している。"
-      },
-      "es": {
-        "title": "Georgia Tech firma su primer patrocinador de parche en la camiseta con Veritiv, de Atlanta",
-        "summary": "Georgia Tech incorporó a la empresa atlantina de embalaje y logística Veritiv como el primer patrocinador de parche en la camiseta del programa de fútbol americano de los Yellow Jackets, con el estreno del logo en el partido inaugural contra Colorado. El acuerdo refleja una tendencia más amplia entre programas de la ACC y la Power Four de sumar parches para diversificar ingresos deportivos."
-      },
-      "zh": {
-        "title": "佐治亚理工大学与亚特兰大物流企业Veritiv签订首个橄榄球队服广告合约",
-        "summary": "佐治亚理工大学美式橄榄球队“黄蜂”与总部位于亚特兰大的包装物流企业Veritiv签订了球队历史上首个队服广告合作协议,新标识已在对阵科罗拉多大学的开幕战中首次亮相。该协议反映出ACC联盟及“四大”院校普遍增设队服广告位以拓宽体育部门收入来源的趋势。"
-      },
-      "fr": {
-        "title": "Georgia Tech décroche son premier sponsor de maillot en football américain avec Veritiv",
-        "summary": "Georgia Tech a signé avec l'entreprise d'emballage et de logistique atlantaine Veritiv pour devenir le premier sponsor de maillot du programme de football américain des Yellow Jackets, le logo faisant ses débuts lors du match d'ouverture contre le Colorado. Cet accord illustre une tendance plus large chez les programmes de l'ACC et de la Power Four à ajouter des parrainages de maillot pour diversifier leurs revenus."
-      }
-    }
-  },
-  {
-    "id": "wisconsin-badgers-culvers-jersey-patch",
-    "sport": "general",
-    "region": "global",
-    "topics": [
-      "team",
-      "sponsor",
-      "fan"
-    ],
-    "published_at": "2026-06-30T00:00:00Z",
-    "source_name": "WMTV15 News",
-    "source_url": "https://www.wmtv15news.com/2026/06/30/match-made-wisconsin-culvers-jersey-patch-announced-select-badgers-mens-teams/",
-    "i18n": {
-      "en": {
-        "title": "Wisconsin Badgers Add Culver's as First Multisport Jersey Patch Partner",
-        "summary": "University of Wisconsin athletics announced that Wisconsin-based burger chain Culver's will become the Badgers' first-ever jersey patch sponsor, with the logo appearing across football, men's basketball and men's hockey uniforms starting in the 2026-27 academic year. The patch made its on-field debut when football opened the season against Notre Dame at Lambeau Field."
-      },
-      "ja": {
-        "title": "ウィスコンシン大学バジャーズ、カルバーズと初の複数スポーツ共通ジャージパッチ契約",
-        "summary": "ウィスコンシン大学は、同州発祥のハンバーガーチェーン「カルバーズ」が球団史上初のジャージパッチスポンサーになると発表した。ロゴは2026-27学年度からアメリカンフットボール、男子バスケットボール、男子アイスホッケーのユニフォームに表示される。パッチはノートルダム大学戦(ランボーフィールド)で初めて披露された。"
-      },
-      "es": {
-        "title": "Los Badgers de Wisconsin incorporan a Culver's como primer socio de parche multideporte",
-        "summary": "El departamento deportivo de la Universidad de Wisconsin anunció que la cadena de hamburguesas Culver's, originaria del estado, se convertirá en el primer patrocinador de parche en la camiseta de los Badgers, con el logo apareciendo en los uniformes de fútbol americano, baloncesto masculino y hockey sobre hielo masculino a partir del curso 2026-27. El parche debutó en el partido inaugural contra Notre Dame en Lambeau Field."
-      },
-      "zh": {
-        "title": "威斯康星大学獾队与Culver's签订首个跨项目队服广告合约",
-        "summary": "威斯康星大学体育部宣布,发源于该州的汉堡连锁品牌Culver's将成为獾队历史上首个队服广告合作伙伴,标识将从2026-27学年起出现在美式橄榄球、男子篮球及男子冰球队服上。该广告标识已在兰博球场对阵圣母大学的开幕战中首次亮相。"
-      },
-      "fr": {
-        "title": "Les Badgers du Wisconsin ajoutent Culver's comme premier partenaire de maillot multisport",
-        "summary": "Le département sportif de l'Université du Wisconsin a annoncé que la chaîne de hamburgers Culver's, originaire de l'État, deviendra le premier sponsor de maillot des Badgers, le logo apparaissant sur les tenues de football américain, de basketball masculin et de hockey sur glace masculin dès l'année universitaire 2026-27. Le patch a fait ses débuts lors du match d'ouverture contre Notre Dame à Lambeau Field."
-      }
-    }
-  },
-  {
-    "id": "missouri-ambetter-health-jersey-patch",
-    "sport": "football",
-    "region": "global",
-    "topics": [
-      "team",
-      "sponsor"
-    ],
-    "published_at": "2026-08-28T00:00:00Z",
-    "source_name": "Saturday Down South",
-    "source_url": "https://www.saturdaydownsouth.com/news/college-football/mizzou-announces-jersey-patch-partnership-for-2026-season",
-    "i18n": {
-      "en": {
-        "title": "Missouri Tigers Add Ambetter Health Jersey Patch in Record Sponsorship Push",
-        "summary": "Missouri Athletics announced a new partnership with St. Louis-based insurer Ambetter Health that places the company's logo on football jerseys beginning with the 2026 season, part of what the department called record-setting sponsorship growth. The Ambetter branding is also set to extend to several of Missouri's Olympic sports programs."
-      },
-      "ja": {
-        "title": "ミズーリ大学タイガース、アムベターヘルスとジャージパッチ契約で過去最高のスポンサー収入へ",
-        "summary": "ミズーリ大学アスレチック局は、セントルイスを拠点とする医療保険会社アムベターヘルスとの新たな提携を発表し、2026年シーズンからアメリカンフットボールのユニフォームに同社ロゴを表示する。大学側はこれを「記録的なスポンサー収入拡大」の一環と位置づけており、ロゴ表示は他のオリンピック系競技部門にも広がる予定。"
-      },
-      "es": {
-        "title": "Los Tigers de Missouri suman el parche de Ambetter Health en un impulso récord de patrocinios",
-        "summary": "El departamento deportivo de Missouri anunció una nueva alianza con la aseguradora Ambetter Health, con sede en San Luis, que colocará el logo de la empresa en las camisetas de fútbol americano a partir de la temporada 2026. Missouri calificó el acuerdo como parte de un crecimiento récord en patrocinios, y la marca también se extenderá a varios de sus programas de deportes olímpicos."
-      },
-      "zh": {
-        "title": "密苏里大学老虎队增设Ambetter Health队服广告,赞助收入创纪录",
-        "summary": "密苏里大学体育部宣布与总部位于圣路易斯的医疗保险公司Ambetter Health建立新合作,自2026赛季起该公司标识将出现在美式橄榄球队服上。校方将此称为赞助收入创纪录增长的一部分,相关标识还将扩展至该校多个奥运项目运动队。"
-      },
-      "fr": {
-        "title": "Les Tigers du Missouri ajoutent le patch Ambetter Health dans une poussée record de parrainages",
-        "summary": "Le département sportif du Missouri a annoncé un nouveau partenariat avec l'assureur Ambetter Health, basé à Saint-Louis, qui placera le logo de l'entreprise sur les maillots de football américain dès la saison 2026. L'université a qualifié cet accord de croissance record des parrainages, la marque devant également s'étendre à plusieurs de ses programmes de sports olympiques."
-      }
-    }
-  },
-  {
-    "id": "hawaii-football-hawaiian-airlines-patch",
-    "sport": "football",
-    "region": "global",
-    "topics": [
-      "team",
-      "sponsor"
-    ],
-    "published_at": "2026-08-25T00:00:00Z",
-    "source_name": "Aloha State Daily",
-    "source_url": "https://alohastatedaily.com/2026/08/25/hawaiian-airlines-named-new-jersey-patch-sponsor-for-hawaii-football-team/",
-    "i18n": {
-      "en": {
-        "title": "Hawaiian Airlines Becomes Jersey Patch Sponsor for University of Hawaii Football",
-        "summary": "The University of Hawaii football program named Hawaiian Airlines as its newest jersey patch sponsor, adding the carrier's logo to Rainbow Warriors uniforms. The deal continues a long-standing relationship between the airline and the university's athletic programs."
-      },
-      "ja": {
-        "title": "ハワイ航空、ハワイ大学フットボールチームのジャージパッチスポンサーに",
-        "summary": "ハワイ大学のアメリカンフットボールチームは、ハワイ航空を新たなジャージパッチスポンサーとして発表し、同社ロゴを「レインボー・ウォリアーズ」のユニフォームに追加する。今回の契約は、同航空会社と大学スポーツ部門との長年にわたる関係継続の一環となる。"
-      },
-      "es": {
-        "title": "Hawaiian Airlines se convierte en patrocinador de parche del fútbol americano de la Universidad de Hawái",
-        "summary": "El programa de fútbol americano de la Universidad de Hawái nombró a Hawaiian Airlines como su más reciente patrocinador de parche en la camiseta, añadiendo el logo de la aerolínea a los uniformes de los Rainbow Warriors. El acuerdo da continuidad a una relación de larga data entre la aerolínea y los programas deportivos de la universidad."
-      },
-      "zh": {
-        "title": "夏威夷航空成为夏威夷大学美式橄榄球队队服广告赞助商",
-        "summary": "夏威夷大学美式橄榄球队宣布夏威夷航空为其最新队服广告赞助商,航空公司标识将出现在“彩虹勇士”队服上。此次合作延续了该航空公司与学校体育项目之间的长期合作关系。"
-      },
-      "fr": {
-        "title": "Hawaiian Airlines devient sponsor de maillot de l'équipe de football américain de l'Université d'Hawaï",
-        "summary": "Le programme de football américain de l'Université d'Hawaï a nommé Hawaiian Airlines comme son nouveau sponsor de maillot, ajoutant le logo de la compagnie aérienne aux tenues des Rainbow Warriors. Cet accord prolonge une relation de longue date entre la compagnie aérienne et les programmes sportifs de l'université."
-      }
-    }
-  },
-  {
-    "id": "mercedes-f1-microsoft-sponsorship",
-    "sport": "motorsports",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "tech"
-    ],
-    "published_at": "2026-01-22T00:00:00Z",
-    "source_name": "BlackBook Motorsport",
-    "source_url": "https://www.blackbookmotorsport.com/news/mercedes-f1-microsoft-ai-tech-sponsorship-january-2026/",
-    "i18n": {
-      "en": {
-        "title": "Mercedes F1 Unveils Microsoft Deal Worth Up to $60M a Year Alongside W17 Reveal",
-        "summary": "Mercedes-AMG Petronas revealed a new Microsoft partnership reported to be worth as much as $60 million annually as the team showed off images of its 2026 car, the W17. Microsoft Azure's cloud and AI tools are expected to speed up Mercedes' data analysis and let the team test new components without relying solely on on-site infrastructure."
-      },
-      "ja": {
-        "title": "メルセデスF1、新型車W17発表とともにマイクロソフトとの大型契約を発表",
-        "summary": "メルセデスAMGペトロナスは、2026年型マシン「W17」の画像公開と合わせ、年間最大6000万ドル規模と報じられるマイクロソフトとの新たなパートナーシップを発表した。マイクロソフトのAzureクラウドおよびAI技術により、チームのデータ分析を高速化し、オンプレミス設備に頼らずに新パーツのテストを行えるようになる見込み。"
-      },
-      "es": {
-        "title": "Mercedes F1 presenta un acuerdo con Microsoft valorado en hasta 60 millones de dólares anuales junto al lanzamiento del W17",
-        "summary": "Mercedes-AMG Petronas reveló una nueva asociación con Microsoft que, según reportes, podría alcanzar los 60 millones de dólares al año, coincidiendo con la presentación de imágenes de su monoplaza 2026, el W17. Las herramientas de nube e inteligencia artificial de Microsoft Azure permitirían acelerar el análisis de datos del equipo y probar nuevos componentes sin depender únicamente de infraestructura local."
-      },
-      "zh": {
-        "title": "梅赛德斯F1车队公布W17新车同时官宣微软大额赞助协议",
-        "summary": "梅赛德斯-AMG彼得罗纳斯车队在公布2026赛季新车W17图片的同时,宣布与微软达成据报道价值高达每年6000万美元的新合作。微软Azure云服务与人工智能工具预计将加快车队的数据分析速度,并使车队能够测试新部件而不必完全依赖现场基础设施。"
-      },
-      "fr": {
-        "title": "Mercedes F1 dévoile un accord avec Microsoft pouvant atteindre 60 millions de dollars par an avec la présentation de la W17",
-        "summary": "Mercedes-AMG Petronas a révélé un nouveau partenariat avec Microsoft, évalué selon certaines informations à environ 60 millions de dollars par an, en même temps que la présentation d'images de sa monoplace 2026, la W17. Les outils cloud et d'intelligence artificielle de Microsoft Azure devraient accélérer l'analyse de données de l'équipe et lui permettre de tester de nouveaux composants sans dépendre uniquement de l'infrastructure sur site."
-      }
-    }
-  },
-  {
-    "id": "pepsico-mercedes-f1-partnership",
-    "sport": "motorsports",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2025-12-02T00:00:00Z",
-    "source_name": "PepsiCo Newsroom",
-    "source_url": "https://www.pepsico.com/newsroom/press-releases/2025/pepsico-announces-landmark-global-partnership-with-mercedes-amg-petronas-f1-team-for-2026",
-    "i18n": {
-      "en": {
-        "title": "PepsiCo Returns to F1 as Mercedes Team Partner With Gatorade, Sting and Doritos",
-        "summary": "PepsiCo announced a multi-year global partnership with the Mercedes-AMG Petronas F1 team starting in 2026, bringing three of its brands — Gatorade, Sting and Doritos — on board as team partners. It marks PepsiCo's first Formula 1 team sponsorship since its 7UP brand backed Jordan Grand Prix in 1991, and includes plans for fan activations and input from Gatorade's Sports Science Institute."
-      },
-      "ja": {
-        "title": "ペプシコ、ゲータレード・スティング・ドリトスでメルセデスF1チームへ復帰",
-        "summary": "ペプシコは2026年シーズンから、メルセデスAMGペトロナスF1チームとの複数年にわたるグローバルパートナーシップを発表し、傘下のゲータレード、スティング、ドリトスの3ブランドをチームパートナーとして起用する。1991年に7UPブランドがジョーダン・グランプリを支援して以来、ペプシコにとって初のF1チームスポンサー契約となり、ファン向けイベントやゲータレード・スポーツサイエンス研究所の知見を活用する計画も含まれる。"
-      },
-      "es": {
-        "title": "PepsiCo regresa a la F1 como socio de Mercedes con Gatorade, Sting y Doritos",
-        "summary": "PepsiCo anunció una alianza global multianual con el equipo Mercedes-AMG Petronas de F1 a partir de 2026, incorporando tres de sus marcas —Gatorade, Sting y Doritos— como socios del equipo. Se trata del primer patrocinio de un equipo de Fórmula 1 para PepsiCo desde que su marca 7UP respaldó a Jordan Grand Prix en 1991, e incluye planes de activaciones para aficionados y aportes del Instituto de Ciencias del Deporte de Gatorade."
-      },
-      "zh": {
-        "title": "百事公司携佳得乐、Sting及多力多滋重返F1赞助梅赛德斯车队",
-        "summary": "百事公司宣布将从2026赛季起与梅赛德斯-AMG彼得罗纳斯F1车队达成多年全球合作,旗下佳得乐、Sting及多力多滋三大品牌将作为车队合作伙伴加入。这是百事公司自1991年7UP品牌赞助乔丹大奖赛车队以来首次赞助F1车队,合作还计划开展车迷互动活动并引入佳得乐运动科学研究所的相关资源。"
-      },
-      "fr": {
-        "title": "PepsiCo revient en F1 comme partenaire de Mercedes avec Gatorade, Sting et Doritos",
-        "summary": "PepsiCo a annoncé un partenariat mondial pluriannuel avec l'écurie Mercedes-AMG Petronas de F1 à partir de 2026, intégrant trois de ses marques — Gatorade, Sting et Doritos — en tant que partenaires de l'équipe. Il s'agit du premier parrainage d'une écurie de Formule 1 pour PepsiCo depuis que sa marque 7UP soutenait Jordan Grand Prix en 1991, avec des activations pour les fans et l'apport de l'Institut des sciences du sport de Gatorade prévus."
-      }
-    }
-  },
-  {
-    "id": "kashima-antlers-mercari-stadium",
-    "sport": "soccer",
-    "region": "japan",
-    "topics": [
-      "stadium",
-      "sponsor"
-    ],
-    "published_at": "2025-06-19T00:00:00Z",
-    "source_name": "Goal.com Japan",
-    "source_url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/2025-0619-kahima-mercari-change-jp/blt351af451f46567a1",
-    "i18n": {
-      "en": {
-        "title": "Kashima Antlers' Home Ground Renamed Mercari Stadium",
-        "summary": "Ibaraki Prefecture's Kashima Soccer Stadium, home of J.League club Kashima Antlers, was renamed Mercari Stadium under a three-year naming-rights deal running from July 2025 through June 2028, with the roughly ¥150 million annual fee split between the prefecture and Mercari. Mercari has been Antlers' parent company since 2019 and has backed regional economic initiatives tied to the club."
-      },
-      "ja": {
-        "title": "鹿島アントラーズのホームスタジアム、「メルカリスタジアム」に改称",
-        "summary": "Jリーグ・鹿島アントラーズのホームスタジアムである茨城県立カシマサッカースタジアムが、2025年7月から2028年6月までの3年間の命名権契約により「メルカリスタジアム」に改称された。年間約1.5億円の契約金は県とメルカリが折半する形となる。メルカリは2019年からアントラーズの親会社を務め、鹿行地域の経済活性化にも取り組んでいる。"
-      },
-      "es": {
-        "title": "El estadio del Kashima Antlers pasa a llamarse Mercari Stadium",
-        "summary": "El Estadio de Fútbol de Kashima, en la prefectura de Ibaraki y sede del club de la J.League Kashima Antlers, fue rebautizado como Mercari Stadium mediante un acuerdo de derechos de denominación de tres años, vigente de julio de 2025 a junio de 2028, con una tarifa anual de unos 150 millones de yenes compartida entre la prefectura y Mercari. Mercari es la empresa matriz del Antlers desde 2019 y ha respaldado iniciativas económicas regionales vinculadas al club."
-      },
-      "zh": {
-        "title": "鹿岛鹿角主场更名为“Mercari球场”",
-        "summary": "日本J联赛球队鹿岛鹿角的主场——茨城县立鹿岛足球场,通过一项为期三年(2025年7月至2028年6月)的命名权协议更名为“Mercari球场”,每年约1.5亿日元的费用由茨城县与Mercari公司平摊。Mercari自2019年起即为鹿岛鹿角的母公司,并持续支持与球队相关的地区经济振兴项目。"
-      },
-      "fr": {
-        "title": "Le stade des Kashima Antlers rebaptisé Mercari Stadium",
-        "summary": "Le stade de football de Kashima, dans la préfecture d'Ibaraki et domicile du club de J.League Kashima Antlers, a été rebaptisé Mercari Stadium dans le cadre d'un contrat de naming de trois ans, de juillet 2025 à juin 2028, pour une redevance annuelle d'environ 150 millions de yens partagée entre la préfecture et Mercari. Mercari est la société mère des Antlers depuis 2019 et soutient des initiatives économiques régionales liées au club."
-      }
-    }
-  },
-  {
-    "id": "kawasaki-arena-city-project-rename",
-    "sport": "basketball",
-    "region": "japan",
-    "topics": [
-      "stadium",
-      "tech",
-      "biz"
-    ],
-    "published_at": "2026-01-29T00:00:00Z",
-    "source_name": "Tetsudo-Ch",
-    "source_url": "https://tetsudo-ch.com/13022054.html",
-    "i18n": {
-      "en": {
-        "title": "DeNA and Keikyu Rename Kawasaki Arena Project, Set 2030 Opening for B.League Future Home",
-        "summary": "DeNA and Keikyu Corporation renamed their planned roughly 10,000-seat arena development next to Keikyu Kawasaki Station the 'Kawasaki Arena-City Project' and confirmed an opening target of October 2030. B.League club Kawasaki Brave Thunders, a DeNA subsidiary, is slated to make the arena its new home once it opens, with a rooftop park billed as a world first for a venue of its size."
-      },
-      "ja": {
-        "title": "DeNAと京急、川崎のアリーナ構想を「Kawasaki Arena-City Project」に改称し2030年開業へ",
-        "summary": "DeNAと京浜急行電鉄は、京急川崎駅前で計画していた約1万人収容規模のアリーナ開発事業を「Kawasaki Arena-City Project」と改称し、開業目標を2030年10月と発表した。DeNA傘下のBリーグ「川崎ブレイブサンダース」は開業後に新たな本拠地とする予定で、この規模のアリーナとしては世界初となる屋上公園の整備も計画されている。"
-      },
-      "es": {
-        "title": "DeNA y Keikyu rebautizan el proyecto de arena de Kawasaki y fijan su apertura para 2030 como futura sede de la B.League",
-        "summary": "DeNA y Keikyu Corporation rebautizaron su proyecto de desarrollo de una arena de unos 10.000 asientos junto a la estación de Keikyu Kawasaki como 'Kawasaki Arena-City Project' y confirmaron como meta de apertura octubre de 2030. El club de la B.League Kawasaki Brave Thunders, subsidiaria de DeNA, tiene previsto convertirla en su nueva sede una vez inaugurada, con un parque en la azotea presentado como una primicia mundial para un recinto de ese tamaño."
-      },
-      "zh": {
-        "title": "DeNA与京急将川崎体育馆项目更名,目标2030年开业成为B联赛未来主场",
-        "summary": "DeNA与京滨急行电铁将其在京急川崎站旁规划的约1万座席体育馆开发项目更名为“Kawasaki Arena-City Project”,并确认开业目标为2030年10月。DeNA旗下的B联赛球队川崎braveThunders计划在体育馆开业后将其作为新主场,馆内还将设置号称同等规模场馆中全球首个的屋顶公园。"
-      },
-      "fr": {
-        "title": "DeNA et Keikyu renomment le projet d'arena de Kawasaki, ouverture prévue en 2030 pour la future salle de B.League",
-        "summary": "DeNA et Keikyu Corporation ont renommé leur projet de salle d'environ 10 000 places près de la gare de Keikyu Kawasaki « Kawasaki Arena-City Project » et confirmé un objectif d'ouverture en octobre 2030. Le club de B.League Kawasaki Brave Thunders, filiale de DeNA, doit en faire son nouveau domicile à l'ouverture, avec un parc sur le toit présenté comme une première mondiale pour une salle de cette taille."
       }
     }
   }
