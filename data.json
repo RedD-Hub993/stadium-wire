@@ -6729,5 +6729,308 @@
         "summary": "La J.League a confirmé que son service de commentaire en direct sur smartphone, appelé localement Omotenashi Guide, se poursuivra lors des matchs à domicile de J1, J2 et J3 des clubs participants pour la saison 2026/27. Les supporters présents au stade peuvent écouter le commentaire officiel une fois leur localisation vérifiée, bien que la disponibilité varie selon le club et le match."
       }
     }
+  },
+  {
+    "id": "lions-standing-room-tickets-ford-field-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "fan",
+      "stadium"
+    ],
+    "published_at": "2026-10-06T00:00:00Z",
+    "source_name": "WXYZ Detroit",
+    "source_url": "https://www.wxyz.com/sports/detroit-lions-to-offer-limited-60-standing-room-only-tickets-on-gamedays-at-ford-field",
+    "i18n": {
+      "en": {
+        "title": "Lions Add Game-Day Standing-Room Tickets at Ford Field",
+        "summary": "The Detroit Lions will sell at least 100 standing-room tickets at $60 apiece on gamedays at Ford Field for the rest of the season, starting with the Oct. 25 game against Green Bay. Team president Rich Haddad said the program is meant to widen access for fans who want to attend without a seated ticket."
+      },
+      "ja": {
+        "title": "ライオンズ、フォード・フィールドに試合当日の立見席チケットを導入",
+        "summary": "デトロイト・ライオンズは今季残りの全主催試合で、1枚60ドルの立見席チケットを最低100枚、試合当日に販売する。導入初戦は10月25日のグリーンベイ戦。リッチ・ハダッド球団社長は、座席なしでも観戦したいファンの参加機会を広げる狙いだと説明した。"
+      },
+      "es": {
+        "title": "Los Lions añaden entradas de pie el día del partido en Ford Field",
+        "summary": "Los Detroit Lions venderán al menos 100 entradas de pie a 60 dólares cada una el día del partido en Ford Field durante el resto de la temporada, a partir del duelo del 25 de octubre ante Green Bay. El presidente del equipo, Rich Haddad, dijo que el programa busca ampliar el acceso a los aficionados sin entrada numerada."
+      },
+      "zh": {
+        "title": "雄狮队在福特球场推出比赛日站票",
+        "summary": "底特律雄狮队将在本赛季剩余的每个主场比赛日，以每张60美元的价格出售至少100张站票，首场适用于10月25日对阵绿湾的比赛。球队总裁里奇·哈达德表示，该计划旨在让更多没有座位票的球迷也能入场观赛。"
+      },
+      "fr": {
+        "title": "Les Lions ajoutent des billets debout le jour du match à Ford Field",
+        "summary": "Les Detroit Lions vendront au moins 100 billets debout à 60 dollars chacun le jour du match à Ford Field pour le reste de la saison, à partir du match du 25 octobre contre Green Bay. Le président de l'équipe, Rich Haddad, a expliqué que le programme vise à élargir l'accès des supporters sans billet assis."
+      }
+    }
+  },
+  {
+    "id": "premier-league-mornings-live-denver-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "fan",
+      "sponsor"
+    ],
+    "published_at": "2026-10-07T00:00:00Z",
+    "source_name": "NBC Sports",
+    "source_url": "https://www.nbcsports.com/pressbox/press-releases/denver-to-host-13th-premier-league-mornings-live-fan-festival",
+    "i18n": {
+      "en": {
+        "title": "Denver to Host 13th Premier League Fan Festival",
+        "summary": "NBC Sports and the Premier League will bring the free 'Premier League Mornings Live' fan festival to Denver Union Station on Oct. 10-11, with broadcasts, former players and club mascots on site. The touring event, run with the Denver Sports Commission, has drawn more than 120,000 attendees since launching in 2017."
+      },
+      "ja": {
+        "title": "デンバーでプレミアリーグのファンフェスティバルが開催へ",
+        "summary": "NBCスポーツとプレミアリーグは、無料のファンイベント「プレミアリーグ・モーニングス・ライブ」を10月10日と11日にデンバー・ユニオン駅で開催する。現地では生放送や元選手との交流、クラブのマスコット登場などが予定されている。2017年の開始以来、累計12万人超が来場した巡回イベントとなっている。"
+      },
+      "es": {
+        "title": "Denver acogerá el 13º festival de aficionados de la Premier League",
+        "summary": "NBC Sports y la Premier League llevarán el festival gratuito 'Premier League Mornings Live' a la Union Station de Denver los días 10 y 11 de octubre, con transmisiones en vivo, exjugadores y mascotas de los clubes. El evento itinerante, organizado con la Comisión de Deportes de Denver, ha reunido a más de 120.000 asistentes desde su lanzamiento en 2017."
+      },
+      "zh": {
+        "title": "丹佛将举办第13届英超球迷嘉年华",
+        "summary": "NBC体育与英超联赛将于10月10日至11日在丹佛联合车站举办免费的“英超晨间直播”球迷嘉年华，现场设有直播、退役球星见面及各俱乐部吉祥物互动等环节。这项与丹佛体育委员会合办的巡回活动自2017年创办以来，累计已吸引超过12万名观众参与。"
+      },
+      "fr": {
+        "title": "Denver accueillera le 13e festival des supporters de Premier League",
+        "summary": "NBC Sports et la Premier League organiseront le festival gratuit « Premier League Mornings Live » à la gare Union de Denver les 10 et 11 octobre, avec diffusions en direct, anciens joueurs et mascottes des clubs sur place. Cet événement itinérant, mené avec la Commission des sports de Denver, a attiré plus de 120 000 visiteurs depuis son lancement en 2017."
+      }
+    }
+  },
+  {
+    "id": "smbc-npb-japan-series-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-08-04T00:00:00Z",
+    "source_name": "NPB",
+    "source_url": "https://npb.jp/news/detail/20260804_01.html",
+    "i18n": {
+      "en": {
+        "title": "Sumitomo Mitsui Banking Corp. Named Title Sponsor of 2026 Japan Series",
+        "summary": "Nippon Professional Baseball confirmed Sumitomo Mitsui Banking Corporation as the special sponsor of this year's championship, branded the 'SMBC Japan Series 2026.' The bank has held the title sponsorship for 13 straight years, and this year's series is scheduled to open Oct. 24 and run through Nov. 1."
+      },
+      "ja": {
+        "title": "日本シリーズ2026、三井住友銀行が特別協賛に",
+        "summary": "日本野球機構(NPB)は、今年の日本一決定戦の特別協賛社として株式会社三井住友銀行を発表し、大会名称は「SMBC日本シリーズ2026」となる。同行による特別協賛は2014年から13年連続。今年の日本シリーズは10月24日に開幕し、11月1日まで予定されている。"
+      },
+      "es": {
+        "title": "Sumitomo Mitsui Banking Corp. será el patrocinador titular de la Serie de Japón 2026",
+        "summary": "Nippon Professional Baseball confirmó a Sumitomo Mitsui Banking Corporation como patrocinador especial de la final de este año, que se llamará 'SMBC Japan Series 2026'. El banco mantiene el patrocinio titular desde hace 13 años consecutivos, y la serie de este año está prevista para comenzar el 24 de octubre y concluir el 1 de noviembre."
+      },
+      "zh": {
+        "title": "三井住友银行冠名2026年日本总冠军赛",
+        "summary": "日本职业棒球组织（NPB）确认三井住友银行将继续担任本年度总冠军赛的特别赞助商，赛事命名为“SMBC日本总冠军系列赛2026”。该银行连续13年担任冠名赞助商，今年的系列赛计划于10月24日开打，持续至11月1日。"
+      },
+      "fr": {
+        "title": "Sumitomo Mitsui Banking Corp. nommé sponsor titre de la Japan Series 2026",
+        "summary": "Nippon Professional Baseball a confirmé que Sumitomo Mitsui Banking Corporation reste le sponsor spécial de la finale de cette année, baptisée « SMBC Japan Series 2026 ». La banque détient ce sponsoring titre depuis 13 années consécutives, et la série de cette année doit débuter le 24 octobre et se poursuivre jusqu'au 1er novembre."
+      }
+    }
+  },
+  {
+    "id": "khosla-family-seahawks-sale-closes-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-03T00:00:00Z",
+    "source_name": "NFL.com",
+    "source_url": "https://www.nfl.com/news/khosla-family-closes-purchase-seahawks",
+    "i18n": {
+      "en": {
+        "title": "Khosla Family Closes $9.6 Billion Purchase of Seahawks",
+        "summary": "The Khosla family completed its purchase of the reigning Super Bowl champion Seattle Seahawks for roughly $9.6 billion, a record price for an NFL franchise. Vinod Khosla takes the chair role, while Neeru Khosla becomes controlling owner; the family also brought in co-owners including Carlyle and Sixth Street and gave up a minority stake in the 49ers to clear the deal."
+      },
+      "ja": {
+        "title": "コースラ家、シアトル・シーホークスの買収完了　NFL史上最高額",
+        "summary": "コースラ家は、前シーズンのスーパーボウル王者シアトル・シーホークスの買収を約96億ドルで完了した。NFL球団としては過去最高額となる。ビノッド・コースラ氏が会長、ニール・コースラ氏が実質的な保有者となり、カーライルやシックスス・ストリートなど複数の共同保有者が参加。取引成立のため、同家は49ersの少数株も手放した。"
+      },
+      "es": {
+        "title": "La familia Khosla cierra la compra de los Seahawks por 9.600 millones de dólares",
+        "summary": "La familia Khosla completó la compra de los Seattle Seahawks, vigentes campeones del Super Bowl, por unos 9.600 millones de dólares, un precio récord para una franquicia de la NFL. Vinod Khosla asume el cargo de presidente, mientras que Neeru Khosla se convierte en propietaria mayoritaria; la familia también incorporó copropietarios como Carlyle y Sixth Street y cedió una participación minoritaria en los 49ers para cerrar el acuerdo."
+      },
+      "zh": {
+        "title": "科斯拉家族以96亿美元完成西雅图海鹰队收购",
+        "summary": "科斯拉家族以约96亿美元完成了对卫冕超级碗冠军西雅图海鹰队的收购，创下NFL球队交易的最高纪录。维诺德·科斯拉担任董事长，妮鲁·科斯拉成为控股所有者；家族还引入了凯雷集团和Sixth Street等联合所有者，并为完成交易放弃了持有的旧金山49人队少数股权。"
+      },
+      "fr": {
+        "title": "La famille Khosla finalise l'achat des Seahawks pour 9,6 milliards de dollars",
+        "summary": "La famille Khosla a finalisé le rachat des Seattle Seahawks, champions en titre du Super Bowl, pour environ 9,6 milliards de dollars, un prix record pour une franchise de la NFL. Vinod Khosla devient président du conseil et Neeru Khosla propriétaire majoritaire ; la famille a aussi associé des co-investisseurs comme Carlyle et Sixth Street, et a dû céder sa participation minoritaire dans les 49ers pour conclure l'accord."
+      }
+    }
+  },
+  {
+    "id": "bezos-1892-holdings-liverpool-stake-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-08-18T00:00:00Z",
+    "source_name": "The Irish Times",
+    "source_url": "https://www.irishtimes.com/sport/soccer/2026/08/18/jeff-bezos-consortium-could-be-majority-liverpool-shareholder-within-a-year/",
+    "i18n": {
+      "en": {
+        "title": "Bezos-Backed Consortium Buys Stake in Liverpool FC",
+        "summary": "Fenway Sports Group agreed to sell a minority stake in Liverpool FC to Amit Bhatia's 1892 Holdings, a consortium that includes Jeff Bezos' K5 Global fund and the Saverin family's EE Capital. Reports put the stake at around 38%, valuing the club near $6.4 billion, with FSG retaining majority control and operational say for now."
+      },
+      "ja": {
+        "title": "ベゾス氏出資の企業連合がリバプールの株式を取得",
+        "summary": "フェンウェイ・スポーツ・グループ(FSG)は、アミット・バティア氏率いる「1892ホールディングス」にリバプールFCの少数株式を売却することで合意した。この企業連合にはジェフ・ベゾス氏のK5グローバル・ファンドやサベリン家のEEキャピタルも参加している。取得比率は約38%と報じられ、クラブの評価額は約64億ドルに達する。FSGは当面、過半数の支配権と運営権を維持する。"
+      },
+      "es": {
+        "title": "Un consorcio respaldado por Bezos compra una participación en el Liverpool FC",
+        "summary": "Fenway Sports Group acordó vender una participación minoritaria del Liverpool FC a 1892 Holdings, el consorcio liderado por Amit Bhatia que incluye el fondo K5 Global de Jeff Bezos y EE Capital, de la familia Saverin. Los informes sitúan la participación en torno al 38%, lo que valoraría al club en cerca de 6.400 millones de dólares, mientras FSG conserva por ahora el control mayoritario y la gestión."
+      },
+      "zh": {
+        "title": "贝索斯支持的财团收购利物浦足球俱乐部股份",
+        "summary": "芬威体育集团（FSG）同意将利物浦足球俱乐部的少数股权出售给阿米特·巴蒂亚旗下的“1892控股”财团，该财团成员包括杰夫·贝索斯的K5 Global基金及萨维林家族的EE Capital。据报道，此次交易股权比例约为38%，俱乐部估值接近64亿美元，FSG目前仍保留多数控制权及运营主导权。"
+      },
+      "fr": {
+        "title": "Un consortium soutenu par Bezos acquiert une participation dans le Liverpool FC",
+        "summary": "Fenway Sports Group a accepté de vendre une participation minoritaire du Liverpool FC à 1892 Holdings, le consortium dirigé par Amit Bhatia qui inclut le fonds K5 Global de Jeff Bezos et EE Capital, de la famille Saverin. Les informations évoquent une participation d'environ 38 %, valorisant le club à près de 6,4 milliards de dollars, FSG conservant pour l'instant le contrôle majoritaire et la gestion opérationnelle."
+      }
+    }
+  },
+  {
+    "id": "ig-group-acquires-underdog-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-07-30T00:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/?p=244658",
+    "i18n": {
+      "en": {
+        "title": "IG Group Agrees to Buy Underdog in Deal Worth Up to $2.15 Billion",
+        "summary": "UK-based IG Group agreed to acquire US prediction-market operator Underdog, paying $1.1 billion upfront plus a $200 million earnout, with up to an additional $850 million available to Underdog employees tied to 2028-29 earnings targets. IG's CEO called the deal a move to establish the firm as a leader in US prediction markets, where Underdog ranks third by trading volume behind Kalshi and Robinhood."
+      },
+      "ja": {
+        "title": "IGグループ、米プレディクションマーケット企業アンダードッグを最大21.5億ドルで買収へ",
+        "summary": "英IGグループは、米国の予測市場(プレディクションマーケット)運営企業アンダードッグの買収に合意した。契約額は前払い11億ドルと2億ドルのアーンアウトに加え、2028〜29年の業績目標達成を条件に従業員向けに最大8.5億ドルが支払われる仕組み。IGのCEOは、米国の予測市場で主導的な地位を確立する動きだと説明しており、アンダードッグは取引量でカルシ、ロビンフッドに次ぐ3位とされる。"
+      },
+      "es": {
+        "title": "IG Group acuerda comprar Underdog en un acuerdo valorado en hasta 2.150 millones de dólares",
+        "summary": "La británica IG Group acordó adquirir Underdog, operador estadounidense de mercados de predicción, pagando 1.100 millones de dólares por adelantado más un earnout de 200 millones, con hasta 850 millones adicionales disponibles para empleados de Underdog ligados a objetivos de beneficios de 2028-29. El CEO de IG calificó el acuerdo como un paso para consolidarse como líder en los mercados de predicción de EE. UU., donde Underdog ocupa el tercer lugar en volumen de operaciones, tras Kalshi y Robinhood."
+      },
+      "zh": {
+        "title": "IG集团同意以最高21.5亿美元收购Underdog",
+        "summary": "英国IG集团同意收购美国预测市场运营商Underdog，交易包括11亿美元首付款及2亿美元的业绩对价，外加最高8.5亿美元与2028至2029年盈利目标挂钩、支付给Underdog员工的激励金。IG首席执行官称此举旨在使公司成为美国预测市场的领导者，而Underdog目前交易量在该市场排名第三，仅次于Kalshi和Robinhood。"
+      },
+      "fr": {
+        "title": "IG Group accepte de racheter Underdog dans un accord pouvant atteindre 2,15 milliards de dollars",
+        "summary": "Le britannique IG Group a accepté de racheter Underdog, opérateur américain de marchés de prédiction, en versant 1,1 milliard de dollars à l'avance plus un complément de prix de 200 millions, avec jusqu'à 850 millions supplémentaires destinés aux salariés d'Underdog selon des objectifs de résultats pour 2028-29. Le PDG d'IG a présenté l'opération comme un moyen de devenir leader des marchés de prédiction américains, où Underdog se classe troisième en volume d'échanges derrière Kalshi et Robinhood."
+      }
+    }
+  },
+  {
+    "id": "harbinger-sports-partners-athletics-stake-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-07-23T00:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/people/rashaun-williams/",
+    "i18n": {
+      "en": {
+        "title": "Harbinger Sports Partners Makes First Buy, Taking Stake in the Athletics",
+        "summary": "Harbinger Sports Partners, the investment fund led by Rashaun Williams with Mark Cuban and Steve Cannon as partners, bought a minority stake in the Athletics in its first deal since launching last year. The purchase comes as the club prepares to relocate to a new Las Vegas stadium expected to open in 2028."
+      },
+      "ja": {
+        "title": "ハービンジャー・スポーツ・パートナーズ、初の投資としてアスレチックスの株式を取得",
+        "summary": "ラシャン・ウィリアムズ氏が率い、マーク・キューバン氏やスティーブ・キャノン氏が参加するファンド「ハービンジャー・スポーツ・パートナーズ」は、設立後初の投資としてオークランド・アスレチックスの少数株式を取得した。同球団は2028年開場予定の新球場を本拠にラスベガスへ移転する準備を進めている。"
+      },
+      "es": {
+        "title": "Harbinger Sports Partners realiza su primera compra con una participación en los Athletics",
+        "summary": "Harbinger Sports Partners, el fondo de inversión liderado por Rashaun Williams junto con Mark Cuban y Steve Cannon como socios, adquirió una participación minoritaria en los Athletics en su primera operación desde su lanzamiento el año pasado. La compra se produce mientras el club se prepara para trasladarse a un nuevo estadio en Las Vegas, previsto para abrir en 2028."
+      },
+      "zh": {
+        "title": "Harbinger Sports Partners完成首笔投资，入股运动家队",
+        "summary": "由拉肖恩·威廉姆斯领导、马克·库班与史蒂夫·卡农担任合伙人的投资基金Harbinger Sports Partners，完成了自成立以来的首笔投资，收购了奥克兰运动家队的少数股权。该交易正值球队准备迁往拉斯维加斯新球场之际，新球场预计2028年启用。"
+      },
+      "fr": {
+        "title": "Harbinger Sports Partners réalise son premier investissement en prenant une participation dans les Athletics",
+        "summary": "Harbinger Sports Partners, le fonds d'investissement dirigé par Rashaun Williams avec Mark Cuban et Steve Cannon comme associés, a acquis une participation minoritaire dans les Athletics, sa première opération depuis son lancement l'année dernière. Cet achat survient alors que le club se prépare à déménager vers un nouveau stade à Las Vegas, dont l'ouverture est prévue en 2028."
+      }
+    }
+  },
+  {
+    "id": "versant-acquires-full-swing-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "tech",
+      "biz"
+    ],
+    "published_at": "2026-07-06T00:00:00Z",
+    "source_name": "The Wrap",
+    "source_url": "https://www.thewrap.com/industry-news/deals-ma/versant-full-swing-golf-simulator-530-million-deal/",
+    "i18n": {
+      "en": {
+        "title": "Versant to Acquire Golf and Baseball Simulator Maker Full Swing for $530 Million",
+        "summary": "Versant, the media company that owns Golf Channel and CNBC, agreed to buy simulator technology maker Full Swing from private equity firm Bruin Capital for about $530 million in cash. Full Swing's tech powers Tiger Woods and Rory McIlroy's TGL league, and Versant's CEO framed the deal as a push into a multi-sport technology platform for athletes and fans."
+      },
+      "ja": {
+        "title": "ヴァーサント、ゴルフ・野球用シミュレーター企業フルスイングを5.3億ドルで買収へ",
+        "summary": "ゴルフチャンネルやCNBCを傘下に持つメディア企業ヴァーサントは、プライベートエクイティのブルーイン・キャピタルからシミュレーター技術企業フルスイングを現金約5.3億ドルで買収することに合意した。フルスイングの技術はタイガー・ウッズとローリー・マキロイが設立したゴルフリーグ「TGL」でも使われており、ヴァーサントのCEOは選手とファン向けの複数競技対応技術プラットフォーム構築への一歩だと位置づけている。"
+      },
+      "es": {
+        "title": "Versant adquirirá Full Swing, fabricante de simuladores de golf y béisbol, por 530 millones de dólares",
+        "summary": "Versant, la compañía de medios propietaria de Golf Channel y CNBC, acordó comprar al fabricante de tecnología de simuladores Full Swing a la firma de capital privado Bruin Capital por unos 530 millones de dólares en efectivo. La tecnología de Full Swing impulsa la liga TGL de Tiger Woods y Rory McIlroy, y el CEO de Versant presentó el acuerdo como una apuesta por una plataforma tecnológica multideportiva para atletas y aficionados."
+      },
+      "zh": {
+        "title": "Versant将以5.3亿美元收购高尔夫及棒球模拟器制造商Full Swing",
+        "summary": "拥有高尔夫频道和CNBC的媒体公司Versant同意以约5.3亿美元现金，从私募股权公司Bruin Capital手中收购模拟器技术公司Full Swing。Full Swing的技术为老虎伍兹与罗里·麦克罗伊创立的TGL高尔夫联赛提供支持，Versant首席执行官将此次收购视为打造面向运动员和球迷的多运动技术平台的举措。"
+      },
+      "fr": {
+        "title": "Versant va racheter Full Swing, fabricant de simulateurs de golf et de baseball, pour 530 millions de dollars",
+        "summary": "Versant, la société média propriétaire de Golf Channel et de CNBC, a accepté de racheter le fabricant de technologies de simulateurs Full Swing à la société de capital-investissement Bruin Capital pour environ 530 millions de dollars en espèces. La technologie de Full Swing équipe la ligue TGL de Tiger Woods et Rory McIlroy, et le PDG de Versant a présenté cet accord comme une avancée vers une plateforme technologique multisport pour athlètes et supporters."
+      }
+    }
+  },
+  {
+    "id": "resona-bleague-title-partner-season-open-2026-27",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-22T00:00:00Z",
+    "source_name": "Number (Bunshun)",
+    "source_url": "https://number.bunshun.jp/articles/-/871752",
+    "i18n": {
+      "en": {
+        "title": "B.League Opens 2026-27 Season with Resona Group as Title Partner for Third Straight Year",
+        "summary": "Japan's B.League tipped off its 2026-27 season on Sept. 22 with Resona Group continuing as title partner for a third consecutive season, a rare arrangement for a bank in Japanese pro sports sponsorship. The financial group has framed the deal as part of a branding push aimed at younger and female fans, alongside community activities such as food-drive efforts at league events."
+      },
+      "ja": {
+        "title": "Bリーグ2026-27シーズン開幕、りそなグループが3季連続でタイトルパートナーに",
+        "summary": "日本のBリーグは9月22日に2026-27シーズンを開幕し、りそなグループが3季連続でタイトルパートナーを務める。金融機関がプロスポーツの冠パートナーになるのは珍しい取り組みとされる。りそなグループは若年層や女性ファン層へのブランディング強化の一環と位置づけており、オールスターでのフードドライブ活動なども展開している。"
+      },
+      "es": {
+        "title": "La B.League abre la temporada 2026-27 con Resona Group como patrocinador titular por tercer año consecutivo",
+        "summary": "La B.League japonesa inició su temporada 2026-27 el 22 de septiembre con Resona Group continuando como patrocinador titular por tercera temporada consecutiva, un acuerdo poco habitual para un banco en el patrocinio deportivo profesional japonés. El grupo financiero enmarca el acuerdo como parte de una estrategia de marca dirigida a aficionados jóvenes y mujeres, junto con actividades comunitarias como colectas de alimentos en eventos de la liga."
+      },
+      "zh": {
+        "title": "日本B联赛开启2026-27赛季，里索纳集团连续第三年担任冠名合作伙伴",
+        "summary": "日本B联赛于9月22日开启2026-27赛季，里索纳金融集团连续第三个赛季担任联赛冠名合作伙伴，这在日本职业体育赞助中由银行担纲冠名颇为罕见。该金融集团将此视为吸引年轻及女性球迷的品牌战略之一，并在联赛活动中开展诸如食品捐赠等社区公益项目。"
+      },
+      "fr": {
+        "title": "La B.League ouvre la saison 2026-27 avec Resona Group comme partenaire titre pour la troisième année consécutive",
+        "summary": "La B.League japonaise a entamé sa saison 2026-27 le 22 septembre, Resona Group restant partenaire titre pour une troisième saison consécutive, un arrangement rare pour une banque dans le sponsoring sportif professionnel japonais. Le groupe financier présente cet accord comme faisant partie d'une stratégie de marque visant les jeunes et les femmes, accompagnée d'actions communautaires comme des collectes alimentaires lors des événements de la ligue."
+      }
+    }
   }
 ]
