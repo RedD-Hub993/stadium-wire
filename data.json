@@ -6729,5 +6729,344 @@
         "summary": "L'ecurie Haas a confirme que Toyota Gazoo Racing sera le sponsor titre pour la saison 2026 de Formule 1, l'equipe americaine evoluant desormais sous le nom TGR Haas F1 Team. Cet accord s'appuie sur le partenariat technique entame par les deux parties en octobre 2024 et met fin aux trois annees de MoneyGram comme sponsor titre."
       }
     }
+  },
+  {
+    "id": "saracens-pensionbee-shirt-sponsor-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-08-10T00:00:00Z",
+    "source_name": "Saracens",
+    "source_url": "https://saracens.com/pensionbee-unveiled-as-new-saracens-front-of-shirt-partner/",
+    "i18n": {
+      "en": {
+        "title": "PensionBee Replaces StoneX as Saracens' Front-of-Shirt Sponsor",
+        "summary": "English Premiership club Saracens unveiled pension provider PensionBee as its new front-of-shirt partner, taking over from longtime sponsor StoneX from the 2026-27 season. The three-year deal runs through 2028-29 and covers the men's and women's match shirts along with training kit and matchday wear. StoneX keeps its separate, long-term naming-rights agreement for the club's stadium."
+      },
+      "ja": {
+        "title": "ペンションビー、サラセンズの胸スポンサーに就任しストーンXから交代",
+        "summary": "イングランド・プレミアシップのサラセンズは、2026-27シーズンから胸スポンサーをストーンXからペンションビーに切り替えると発表した。3年契約は2028-29シーズンまで続き、男女トップチームのユニフォームに加え、トレーニングウェアや試合当日の服装にもロゴが入る。なお、ストーンXは別契約でスタジアムの命名権を長期的に保持し続ける。"
+      },
+      "es": {
+        "title": "PensionBee sustituye a StoneX como patrocinador principal de la camiseta del Saracens",
+        "summary": "El club de la Premiership inglesa Saracens presentó a la empresa de pensiones PensionBee como su nuevo patrocinador principal de camiseta, en sustitución de StoneX, a partir de la temporada 2026-27. El acuerdo de tres años se extiende hasta 2028-29 y cubre las camisetas masculinas y femeninas, además de la ropa de entrenamiento y de los días de partido. StoneX conserva, mediante un contrato distinto, los derechos de denominación del estadio del club."
+      },
+      "zh": {
+        "title": "PensionBee取代StoneX成为萨拉森斯队球衣主赞助商",
+        "summary": "英超联赛俱乐部萨拉森斯宣布，从2026-27赛季起，养老金公司PensionBee将接替长期赞助商StoneX，成为球队球衣的主赞助商。这份为期三年的协议将持续至2028-29赛季，覆盖男女队比赛球衣以及训练装备和比赛日服装。StoneX则通过另一份长期协议继续保留该俱乐部球场的命名权。"
+      },
+      "fr": {
+        "title": "PensionBee remplace StoneX comme sponsor principal du maillot des Saracens",
+        "summary": "Le club anglais de Premiership Saracens a présenté la société de retraite PensionBee comme son nouveau sponsor principal de maillot, succédant à StoneX à partir de la saison 2026-27. L'accord de trois ans court jusqu'en 2028-29 et couvre les maillots masculins et féminins ainsi que les tenues d'entraînement et de match. StoneX conserve, via un contrat distinct, les droits de dénomination du stade du club."
+      }
+    }
+  },
+  {
+    "id": "nzrl-hydro-flask-partner-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-10-05T00:00:00Z",
+    "source_name": "Ministry of Sport",
+    "source_url": "https://ministryofsport.com/?p=58714",
+    "i18n": {
+      "en": {
+        "title": "Hydro Flask Becomes New Zealand Rugby League Partner Ahead of World Cup",
+        "summary": "Drinkware brand Hydro Flask has signed on as a partner of New Zealand Rugby League, supplying the men's Kiwis, women's Kiwi Ferns and the wheelchair Wheel Kiwis through the rest of 2026. The deal, arranged through Australasian distributor Compendium Group, lands as New Zealand prepares to co-host the Rugby League World Cup with Australia and Papua New Guinea this October and November. NZRL said the brand's focus on durability suits the demands of elite travel and training schedules."
+      },
+      "ja": {
+        "title": "ハイドロフラスク、ワールドカップ開幕前にニュージーランドラグビーリーグとパートナー契約",
+        "summary": "飲料ボトルブランドのハイドロフラスクが、ニュージーランドラグビーリーグのパートナーとなり、男子代表キウイズ、女子代表キウイファーンズ、車いすチームのウィールキウイズに2026年内製品を提供する。契約はオーストラレーシア地域の代理店コンペンディアム・グループを通じて成立し、10月から11月にオーストラリア・パプアニューギニアと共催するラグビーリーグW杯を前にした動きとなる。NZRLは、耐久性を重視する同ブランドの特徴が遠征や厳しい練習スケジュールに適していると説明した。"
+      },
+      "es": {
+        "title": "Hydro Flask se convierte en socio de la Liga de Rugby de Nueva Zelanda antes del Mundial",
+        "summary": "La marca de botellas Hydro Flask firmó un acuerdo de patrocinio con la Liga de Rugby de Nueva Zelanda, que abastecerá al equipo masculino Kiwis, al femenino Kiwi Ferns y al de silla de ruedas Wheel Kiwis durante el resto de 2026. El acuerdo, gestionado a través del distribuidor para Australasia Compendium Group, llega mientras Nueva Zelanda se prepara para coanfitrionar el Mundial de Rugby League junto a Australia y Papúa Nueva Guinea en octubre y noviembre. La NZRL señaló que la durabilidad de la marca se ajusta a las exigencias de los viajes y entrenamientos de élite."
+      },
+      "zh": {
+        "title": "世界杯开赛前，Hydro Flask成为新西兰橄榄球联盟合作伙伴",
+        "summary": "水壶品牌Hydro Flask与新西兰橄榄球联盟（NZRL）签约，将在2026年剩余时间内为男子奇异鸟队、女子奇异鸟蕨队以及轮椅队奇异鸟轮椅队提供产品。该协议通过澎迪恩集团（新西兰及澳大利亚地区经销商）达成，恰逢新西兰将与澳大利亚、巴布亚新几内亚在10至11月联合主办橄榄球联盟世界杯。NZRL表示，该品牌注重耐用性的特点适合高强度的出行与训练安排。"
+      },
+      "fr": {
+        "title": "Hydro Flask devient partenaire de la Ligue de rugby à XIII de Nouvelle-Zélande avant la Coupe du monde",
+        "summary": "La marque de gourdes Hydro Flask a signé un partenariat avec la Ligue de rugby à XIII de Nouvelle-Zélande, fournissant ses produits à l'équipe masculine des Kiwis, à l'équipe féminine des Kiwi Ferns et à l'équipe de fauteuil roulant des Wheel Kiwis jusqu'à la fin de 2026. L'accord, conclu via le distributeur australasien Compendium Group, intervient alors que la Nouvelle-Zélande se prépare à coorganiser la Coupe du monde de rugby à XIII avec l'Australie et la Papouasie-Nouvelle-Guinée en octobre et novembre. La NZRL a indiqué que la robustesse de la marque convient aux exigences des déplacements et des entraînements de haut niveau."
+      }
+    }
+  },
+  {
+    "id": "zozo-marine-stadium-naming-rights-renewal-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "biz"
+    ],
+    "published_at": "2026-06-30T00:00:00Z",
+    "source_name": "Kumanichi (Kyodo News)",
+    "source_url": "https://kumanichi.com/articles/2008519",
+    "i18n": {
+      "en": {
+        "title": "Chiba City Agrees to Renew ZOZO Marine Stadium Naming Rights Through 2033",
+        "summary": "Chiba city officials reached agreement with ZOZO and the Chiba Lotte Marines to renew the naming-rights contract for ZOZO Marine Stadium, keeping the ballpark's name in place through November 2033. The new seven-year deal raises the annual fee to about 400 million yen, roughly 90 million yen more than the prior 2016 contract. City officials pointed to the stadium's rising value from hosting concerts and other large events alongside NPB games, even as a separate plan to relocate to a new venue by around 2034 continues."
+      },
+      "ja": {
+        "title": "千葉市、ZOZOマリンスタジアムの命名権契約を2033年まで更新へ合意",
+        "summary": "千葉市はZOZOおよび千葉ロッテマリーンズとの協議を経て、ZOZOマリンスタジアムの命名権契約を更新し、2033年11月まで球場名を維持することで合意した。新たな7年契約の年間契約金は約4億円で、2016年に結ばれた前契約より約9千万円高くなる。プロ野球に加えてコンサートなど大型イベントの開催実績がスタジアムの価値向上につながったとされ、一方で2034年頃を目標とした移転・新設計画も別途進められている。"
+      },
+      "es": {
+        "title": "La ciudad de Chiba acuerda renovar los derechos de nombre del ZOZO Marine Stadium hasta 2033",
+        "summary": "Autoridades de la ciudad de Chiba llegaron a un acuerdo con ZOZO y los Chiba Lotte Marines para renovar el contrato de naming rights del ZOZO Marine Stadium, manteniendo el nombre del estadio hasta noviembre de 2033. El nuevo contrato de siete años eleva la tarifa anual a unos 400 millones de yenes, unos 90 millones más que el contrato anterior firmado en 2016. Los funcionarios atribuyeron el aumento al mayor valor del estadio gracias a conciertos y otros grandes eventos además de los partidos de la NPB, mientras sigue en marcha un plan separado para trasladarse a una nueva sede hacia 2034."
+      },
+      "zh": {
+        "title": "千叶市同意将ZOZO海洋球场命名权续约至2033年",
+        "summary": "千叶市与ZOZO及千叶罗德海洋队达成协议，续签ZOZO海洋球场的命名权合同，球场名称将保留至2033年11月。新签的七年合同将年费提高至约4亿日元，比2016年签订的上一份合同高出约9000万日元。市方官员表示，除职业棒球比赛外，球场还举办演唱会等大型活动，使其价值上升；与此同时，一项计划在2034年前后迁建新球场的方案仍在推进。"
+      },
+      "fr": {
+        "title": "La ville de Chiba accepte de renouveler les droits de dénomination du ZOZO Marine Stadium jusqu'en 2033",
+        "summary": "Les autorités de la ville de Chiba se sont entendues avec ZOZO et les Chiba Lotte Marines pour renouveler le contrat de naming du ZOZO Marine Stadium, conservant ainsi le nom du stade jusqu'en novembre 2033. Le nouveau contrat de sept ans porte la redevance annuelle à environ 400 millions de yens, soit environ 90 millions de plus que le précédent accord signé en 2016. Les responsables municipaux ont souligné la valeur accrue du stade grâce aux concerts et autres grands événements organisés en plus des matchs de NPB, tandis qu'un projet distinct de relocalisation vers 2034 se poursuit."
+      }
+    }
+  },
+  {
+    "id": "dentsu-we-league-growth-partner-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-08-07T00:00:00Z",
+    "source_name": "Kyodo News PR Wire",
+    "source_url": "https://kyodonewsprwire.jp/release/202608053700",
+    "i18n": {
+      "en": {
+        "title": "Dentsu Named WE League's Growth Partner Through 2028",
+        "summary": "Japan's women's professional soccer league, the WE League, signed advertising giant Dentsu as its dedicated 'growth partner' under a contract running through June 2028. Dentsu will help design new sponsorship packages and expand the league's broadcast and streaming reach to grow commercial revenue and fan engagement. WE League chair Yoshikazu Nonomura said the tie-up would strengthen the league's business foundation and build closer ties with supporters."
+      },
+      "ja": {
+        "title": "電通、WEリーグの「グロース・パートナー」に就任し2028年まで契約",
+        "summary": "日本の女子プロサッカーリーグであるWEリーグは、広告大手の電通と2028年6月まで続く契約を結び、専任の「グロース・パートナー」として迎え入れた。電通は新たなスポンサーシップメニューの開発や、放送・配信を含む展開の拡大を支援し、事業収益とファンとの接点拡大を後押しする。WEリーグの野々村芳和チェアは、この提携がリーグの事業基盤強化とサポーターとの関係構築につながると述べた。"
+      },
+      "es": {
+        "title": "Dentsu es nombrada socio de crecimiento de la WE League hasta 2028",
+        "summary": "La liga profesional de fútbol femenino de Japón, la WE League, fichó al gigante publicitario Dentsu como su 'socio de crecimiento' exclusivo, bajo un contrato vigente hasta junio de 2028. Dentsu ayudará a diseñar nuevos paquetes de patrocinio y a ampliar el alcance de transmisión y streaming de la liga para aumentar los ingresos comerciales y la conexión con los aficionados. El presidente de la WE League, Yoshikazu Nonomura, afirmó que la alianza reforzará las bases comerciales de la liga y estrechará los lazos con los seguidores."
+      },
+      "zh": {
+        "title": "电通成为WE联赛的“成长伙伴”，合约至2028年",
+        "summary": "日本女子职业足球联赛WE联赛与广告巨头电通签约，任命其为专属“成长伙伴”，合同期至2028年6月。电通将协助设计新的赞助方案，并扩大联赛的转播与流媒体覆盖范围，以提升商业收入与球迷互动。WE联赛主席野野村芳和表示，这项合作将增强联赛的business基础并加强与支持者的联系。"
+      },
+      "fr": {
+        "title": "Dentsu nommé partenaire de croissance de la WE League jusqu'en 2028",
+        "summary": "La ligue professionnelle de football féminin japonaise, la WE League, a signé avec le géant de la publicité Dentsu pour en faire son 'partenaire de croissance' exclusif, dans le cadre d'un contrat courant jusqu'en juin 2028. Dentsu aidera à concevoir de nouveaux packages de sponsoring et à élargir la diffusion et le streaming de la ligue afin d'accroître ses revenus commerciaux et l'engagement des supporters. La présidente de la WE League, Yoshikazu Nonomura, a déclaré que ce partenariat renforcerait les bases commerciales de la ligue et les liens avec ses supporters."
+      }
+    }
+  },
+  {
+    "id": "inter-miami-freedom-park-opens-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "team"
+    ],
+    "published_at": "2026-04-04T00:00:00Z",
+    "source_name": "CBS News Miami",
+    "source_url": "https://www.cbsnews.com/miami/news/inter-miami-cf-will-play-home-matches-at-new-miami-freedom-park-in-2026",
+    "i18n": {
+      "en": {
+        "title": "Inter Miami Opens New Miami Freedom Park Stadium",
+        "summary": "Inter Miami CF opened its new 26,000-seat Miami Freedom Park stadium on April 4, 2026, ending the club's run at a temporary home venue. The soccer-specific stadium anchors a larger mixed-use development planned to include a public park, retail, restaurants and a hotel. Club executives have pitched the complex as a long-term commercial hub meant to boost revenue well beyond ticket sales."
+      },
+      "ja": {
+        "title": "インテル・マイアミ、新本拠地「マイアミ・フリーダム・パーク」を開場",
+        "summary": "インテル・マイアミCFは2026年4月4日、新たな本拠地となる収容2万6000人のマイアミ・フリーダム・パークを開場し、仮設スタジアムでの試合開催に幕を下ろした。このサッカー専用スタジアムは、公共公園や商業施設、レストラン、ホテルを含む大規模複合開発の中核施設となる。クラブ幹部は、この施設が入場料収入にとどまらない長期的な収益拠点になると位置づけている。"
+      },
+      "es": {
+        "title": "Inter Miami inaugura su nuevo estadio Miami Freedom Park",
+        "summary": "Inter Miami CF inauguró su nuevo estadio Miami Freedom Park, con capacidad para 26,000 espectadores, el 4 de abril de 2026, poniendo fin a su etapa en una sede temporal. El estadio, diseñado específicamente para el fútbol, es el eje de un desarrollo de uso mixto más amplio que incluirá un parque público, comercios, restaurantes y un hotel. Directivos del club presentan el complejo como un centro comercial a largo plazo pensado para generar ingresos más allá de la venta de entradas."
+      },
+      "zh": {
+        "title": "迈阿密国际队启用新主场迈阿密自由公园球场",
+        "summary": "迈阿密国际足球俱乐部于2026年4月4日启用容纳2.6万人的新主场迈阿密自由公园球场，结束了此前在临时场馆比赛的阶段。这座专为足球打造的球场是一个更大型综合开发项目的核心，该项目规划包括公共公园、零售商铺、餐厅和酒店。俱乐部高层将该综合体定位为长期商业枢纽，旨在在门票收入之外带来更多收益。"
+      },
+      "fr": {
+        "title": "L'Inter Miami inaugure son nouveau stade, le Miami Freedom Park",
+        "summary": "L'Inter Miami CF a inauguré le 4 avril 2026 son nouveau stade de 26 000 places, le Miami Freedom Park, mettant fin à son passage dans un stade temporaire. Ce stade dédié au football est le point d'ancrage d'un vaste projet d'aménagement mixte qui doit comprendre un parc public, des commerces, des restaurants et un hôtel. Les dirigeants du club présentent ce complexe comme un pôle commercial de long terme destiné à générer des revenus bien au-delà de la vente de billets."
+      }
+    }
+  },
+  {
+    "id": "bosch-super-gt-sponsor-extension-2030",
+    "sport": "motorsports",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-04-07T00:00:00Z",
+    "source_name": "digitalPR",
+    "source_url": "https://digitalpr.jp/r/132227",
+    "i18n": {
+      "en": {
+        "title": "Bosch Extends SUPER GT Sponsorship Through 2030",
+        "summary": "Bosch renewed its series partnership with Japan's GT Association, extending its role as an official sponsor of the SUPER GT championship through 2030. The German components maker has backed the series since 2020 and supplies common components used across the GT500 class, with its branding displayed on every car. The extension stretches Bosch's continuous involvement in SUPER GT to 11 straight years."
+      },
+      "ja": {
+        "title": "ボッシュ、SUPER GTのスポンサー契約を2030年まで延長",
+        "summary": "ボッシュは日本のGTアソシエイションとのシリーズパートナー契約を更新し、SUPER GT選手権の公式スポンサーとしての役割を2030年まで延長した。このドイツの部品メーカーは2020年からシリーズを支援しており、GT500クラス全車両に共通コンポーネントを供給し、各マシンにロゴが掲示されている。今回の延長により、ボッシュのSUPER GTへの継続的な協力は11年連続となる。"
+      },
+      "es": {
+        "title": "Bosch amplía su patrocinio de la SUPER GT hasta 2030",
+        "summary": "Bosch renovó su acuerdo como socio de la serie con la GT Association de Japón, extendiendo su papel como patrocinador oficial del campeonato SUPER GT hasta 2030. El fabricante alemán de componentes respalda la serie desde 2020 y suministra componentes comunes utilizados en toda la clase GT500, con su marca presente en todos los coches. La ampliación extiende la participación continua de Bosch en la SUPER GT a 11 años consecutivos."
+      },
+      "zh": {
+        "title": "博世将SUPER GT赞助合约延长至2030年",
+        "summary": "博世与日本GT协会续签系列赛合作协议，将其作为SUPER GT锦标赛官方赞助商的角色延长至2030年。这家德国零部件制造商自2020年起支持该系列赛，为GT500组别所有车辆供应通用零部件，其品牌标识出现在每辆赛车上。此次延期使博世对SUPER GT的持续赞助达到连续11年。"
+      },
+      "fr": {
+        "title": "Bosch prolonge son partenariat avec le SUPER GT jusqu'en 2030",
+        "summary": "Bosch a renouvelé son partenariat de série avec la GT Association japonaise, prolongeant jusqu'en 2030 son rôle de sponsor officiel du championnat SUPER GT. L'équipementier allemand soutient la série depuis 2020 et fournit des composants communs utilisés dans toute la catégorie GT500, sa marque figurant sur chaque voiture. Cette prolongation porte à 11 années consécutives l'engagement continu de Bosch dans le SUPER GT."
+      }
+    }
+  },
+  {
+    "id": "carolina-hurricanes-stake-sale-dundon-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-10-02T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/business/team-sales/2026/carolina-hurricanes-sale-owners-tom-dundon-1234886395/",
+    "i18n": {
+      "en": {
+        "title": "Tom Dundon Agrees to Sell 12.5% Stake in Carolina Hurricanes at $2.66 Billion Valuation",
+        "summary": "Hurricanes owner Tom Dundon has agreed to sell a 12.5% stake in the NHL franchise to three new minority partners at a valuation of roughly $2.66 billion, according to people familiar with the deal. Dundon will remain the team's controlling owner, and the sale still needs league approval before it can close. The transaction is separate from Dundon's group completing its purchase of the NBA's Portland Trail Blazers."
+      },
+      "ja": {
+        "title": "トム・ダンドン氏、カロライナ・ハリケーンズの株式12.5%を約26.6億ドルの評価額で売却へ合意",
+        "summary": "NHLカロライナ・ハリケーンズのオーナーであるトム・ダンドン氏が、同チームの株式12.5%を新たな少数株主3者に対し、評価額約26.6億ドルで売却することに合意したと、事情に詳しい複数の関係者が明らかにした。ダンドン氏は引き続き球団の支配株主の地位を保持し、売却完了にはリーグの承認が必要となる。この取引は、ダンドン氏のグループが完了させたNBAポートランド・トレイルブレイザーズ買収とは別の動きである。"
+      },
+      "es": {
+        "title": "Tom Dundon acuerda vender el 12,5% de los Carolina Hurricanes con una valoración de 2.660 millones de dólares",
+        "summary": "El propietario de los Hurricanes, Tom Dundon, acordó vender una participación del 12,5% de la franquicia de la NHL a tres nuevos socios minoritarios con una valoración de aproximadamente 2.660 millones de dólares, según personas familiarizadas con el acuerdo. Dundon seguirá siendo el propietario mayoritario del equipo, y la venta todavía necesita la aprobación de la liga para cerrarse. La operación es independiente de la compra, ya completada por el grupo de Dundon, de los Portland Trail Blazers de la NBA."
+      },
+      "zh": {
+        "title": "汤姆·邓顿同意以26.6亿美元估值出售卡罗来纳飓风队12.5%股权",
+        "summary": "据知情人士透露，NHL卡罗来纳飓风队老板汤姆·邓顿已同意以约26.6亿美元的估值，将球队12.5%的股权出售给三名新的少数股权合伙人。邓顿将继续担任球队的控股股东，此次交易仍需联盟批准方可完成。该交易与邓顿旗下团队此前完成收购NBA波特兰开拓者队一事并无关联。"
+      },
+      "fr": {
+        "title": "Tom Dundon accepte de vendre 12,5 % des Hurricanes de la Caroline pour une valorisation de 2,66 milliards de dollars",
+        "summary": "Le propriétaire des Hurricanes, Tom Dundon, a accepté de céder une participation de 12,5 % dans la franchise de la LNH à trois nouveaux partenaires minoritaires, pour une valorisation d'environ 2,66 milliards de dollars, selon des personnes proches du dossier. Dundon restera l'actionnaire majoritaire et dirigeant de l'équipe, et la vente doit encore recevoir l'approbation de la ligue avant d'être finalisée. Cette transaction est distincte de l'acquisition, déjà bouclée par le groupe de Dundon, des Trail Blazers de Portland en NBA."
+      }
+    }
+  },
+  {
+    "id": "tampa-bay-lightning-sale-process-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-27T00:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/article/tampa-bay-lightning-starting-process-of-2-billion-sale/",
+    "i18n": {
+      "en": {
+        "title": "Tampa Bay Lightning Begin Multi-Stage Sale Process at Nearly $2 Billion Valuation",
+        "summary": "Lightning owner Jeff Vinik has started a multi-stage process to bring in new investors, with the NHL franchise valued at close to $2 billion, according to reports. A completed sale near that price would surpass the record set by the Ottawa Senators' $950 million transaction. Vinik said day-to-day operations of the team would not change regardless of how the ownership search unfolds."
+      },
+      "ja": {
+        "title": "タンパベイ・ライトニング、約20億ドル評価額で段階的な売却プロセスを開始",
+        "summary": "NHLタンパベイ・ライトニングのオーナー、ジェフ・ヴィニック氏が、新たな投資家を募るための多段階プロセスを開始したと報じられており、球団の評価額は約20億ドルに達するという。この価格帯での売却が完了すれば、オタワ・セネターズの9億5000万ドルを超える新記録となる。ヴィニック氏は、オーナーシップ探索の結果にかかわらず、チームの日常的な運営に変化はないと述べている。"
+      },
+      "es": {
+        "title": "Los Tampa Bay Lightning inician un proceso de venta por etapas con una valoración cercana a los 2.000 millones de dólares",
+        "summary": "El propietario de los Lightning, Jeff Vinik, ha iniciado un proceso en varias etapas para incorporar nuevos inversores, con la franquicia de la NHL valorada en cerca de 2.000 millones de dólares, según informes. Una venta completada a ese precio superaría el récord establecido por la transacción de 950 millones de dólares de los Ottawa Senators. Vinik señaló que las operaciones diarias del equipo no cambiarían, sin importar cómo evolucione la búsqueda de propietarios."
+      },
+      "zh": {
+        "title": "坦帕湾闪电队启动多阶段出售流程，估值接近20亿美元",
+        "summary": "据报道，NHL坦帕湾闪电队老板杰夫·维尼克已启动一项多阶段流程以引入新投资者，球队估值接近20亿美元。若以该价位完成出售，将超过渥太华参议员队此前创下的9.5亿美元交易纪录。维尼克表示，无论股权寻求结果如何，球队的日常运营都不会发生变化。"
+      },
+      "fr": {
+        "title": "Le Lightning de Tampa Bay entame un processus de vente en plusieurs étapes avec une valorisation proche de 2 milliards de dollars",
+        "summary": "Le propriétaire du Lightning, Jeff Vinik, a lancé un processus en plusieurs étapes pour faire entrer de nouveaux investisseurs, la franchise de la LNH étant valorisée à près de 2 milliards de dollars, selon des informations rapportées. Une vente conclue à ce niveau dépasserait le record établi par la transaction de 950 millions de dollars des Sénateurs d'Ottawa. Vinik a précisé que les opérations quotidiennes de l'équipe ne changeraient pas, quelle que soit l'issue de cette recherche d'actionnaires."
+      }
+    }
+  },
+  {
+    "id": "san-diego-fc-mls-record-expansion-fee",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-02T00:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/article/500m-san-diego-fc-debut-highlights-surging-mls-valuations/",
+    "i18n": {
+      "en": {
+        "title": "San Diego FC's $500 Million Fee Highlights Surging MLS Valuations",
+        "summary": "San Diego FC's ownership group paid a league-record $500 million expansion fee to join MLS, more than 50% above the previous record set by Charlotte FC in 2019. Analysts point to the club's debut season as evidence of how quickly franchise values have climbed across the league. MLS officials have suggested future expansion fees could rise even further once effects from co-hosting the 2026 World Cup are factored in."
+      },
+      "ja": {
+        "title": "サンディエゴFCの5億ドルの加盟料、MLSの評価額急騰を象徴",
+        "summary": "サンディエゴFCの運営企業は、MLS加盟料としてリーグ史上最高額となる5億ドルを支払い、2019年にシャーロットFCが樹立した従来の記録を50%以上上回った。アナリストは、同クラブの参入初年度を、リーグ全体でフランチャイズ価値がいかに急速に上昇しているかを示す証拠として挙げている。MLS関係者は、2026年ワールドカップの共催効果が反映されれば、今後の加盟料がさらに上昇する可能性があるとしている。"
+      },
+      "es": {
+        "title": "Los 500 millones de dólares de San Diego FC reflejan el auge de las valoraciones de la MLS",
+        "summary": "El grupo propietario de San Diego FC pagó una tarifa de expansión récord en la liga de 500 millones de dólares para ingresar a la MLS, más de un 50% por encima del récord anterior establecido por Charlotte FC en 2019. Los analistas señalan la temporada debut del club como prueba de la rapidez con la que han subido los valores de las franquicias en toda la liga. Directivos de la MLS han sugerido que las futuras tarifas de expansión podrían subir aún más una vez que se contabilicen los efectos de coanfitrionar el Mundial de 2026."
+      },
+      "zh": {
+        "title": "圣迭戈FC以5亿美元加盟费凸显MLS估值飙升",
+        "summary": "圣迭戈FC的所有权团队支付了创联盟纪录的5亿美元加盟费加入美职联（MLS），比2019年夏洛特FC创下的此前纪录高出逾50%。分析人士将该俱乐部的首个赛季视为联盟整体球队估值快速攀升的证明。MLS官员表示，一旦计入联合主办2026年世界杯带来的影响，未来的加盟费可能进一步上涨。"
+      },
+      "fr": {
+        "title": "Les 500 millions de dollars du San Diego FC illustrent l'envolée des valorisations en MLS",
+        "summary": "Le groupe propriétaire du San Diego FC a versé des frais d'expansion record de 500 millions de dollars pour rejoindre la MLS, soit plus de 50 % au-dessus du précédent record établi par le Charlotte FC en 2019. Les analystes citent la saison inaugurale du club comme preuve de la rapidité avec laquelle les valorisations des franchises ont grimpé dans toute la ligue. Des responsables de la MLS ont suggéré que les futurs frais d'expansion pourraient encore augmenter une fois pris en compte les effets de la coorganisation de la Coupe du monde 2026."
+      }
+    }
+  },
+  {
+    "id": "kashima-antlers-new-stadium-plan-ibaraki",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "biz"
+    ],
+    "published_at": "2026-02-12T00:00:00Z",
+    "source_name": "Soccer King",
+    "source_url": "https://www.soccer-king.jp/news/japan/jl/20260212/2124786.html",
+    "i18n": {
+      "en": {
+        "title": "Kashima Antlers Back Ibaraki-Led Public Stadium Project Targeting 2033 Opening",
+        "summary": "Kashima Antlers announced support for a new, publicly funded stadium led by Ibaraki Prefecture, aiming to replace the club's current home of more than 30 years. The existing venue costs roughly 800 million yen a year to maintain, and the prefecture plans to spend fiscal 2026 drafting a master plan and studying private-sector financing options. Officials are targeting a 2033 completion, though rising construction costs mean the final design is still being worked out."
+      },
+      "ja": {
+        "title": "鹿島アントラーズ、茨城県主導の公設新スタジアム計画を支持、2033年開業目標",
+        "summary": "鹿島アントラーズは、茨城県が主導する公設による新スタジアム整備計画を支持すると発表した。現本拠地は開場から30年以上が経過し、年間維持管理費は約8億円にのぼる。県は2026年度に基本計画の策定と民間活力導入の可能性調査を進める方針で、開業目標は2033年とされているが、建設費の高騰を受け最終的な設計は依然検討が続いている。"
+      },
+      "es": {
+        "title": "Kashima Antlers respalda el proyecto de estadio público liderado por la prefectura de Ibaraki, con apertura prevista para 2033",
+        "summary": "El Kashima Antlers anunció su respaldo a un nuevo estadio de financiación pública liderado por la prefectura de Ibaraki, con el objetivo de sustituir el actual estadio del club, en uso desde hace más de 30 años. El mantenimiento del recinto actual cuesta unos 800 millones de yenes al año, y la prefectura planea dedicar el año fiscal 2026 a elaborar un plan maestro y estudiar opciones de financiación privada. Las autoridades apuntan a completar el proyecto en 2033, aunque el aumento de los costos de construcción hace que el diseño final siga en discusión."
+      },
+      "zh": {
+        "title": "鹿岛鹿角支持茨城县主导的公共球场项目，目标2033年开业",
+        "summary": "鹿岛鹿角宣布支持由茨城县主导的新建公共球场计划，旨在取代已使用超过30年的现有主场。现有场馆每年维护费用约为8亿日元，县方计划在2026财年制定总体规划并研究引入民间资金的可行性。官方将完工目标定在2033年，但由于建筑成本上升，最终设计方案仍在商讨之中。"
+      },
+      "fr": {
+        "title": "Les Kashima Antlers soutiennent le projet de stade public porté par la préfecture d'Ibaraki, avec une ouverture visée en 2033",
+        "summary": "Les Kashima Antlers ont annoncé leur soutien à un nouveau stade financé par des fonds publics et porté par la préfecture d'Ibaraki, destiné à remplacer le stade actuel du club, en service depuis plus de 30 ans. L'entretien du site actuel coûte environ 800 millions de yens par an, et la préfecture prévoit de consacrer l'exercice 2026 à l'élaboration d'un plan directeur et à l'étude d'options de financement privé. Les autorités visent une livraison en 2033, bien que la hausse des coûts de construction laisse la conception finale encore en discussion."
+      }
+    }
   }
 ]
