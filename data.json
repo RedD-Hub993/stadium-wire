@@ -6425,5 +6425,309 @@
         "summary": "Le diffuseur australien Nine a conclu un accord historique de sept ans pour devenir le diffuseur exclusif de l'athlétisme australien, reprenant la couverture détenue auparavant par la chaîne rivale Seven. L'annonce a été faite pendant la diffusion par Nine de la finale de la NRL, illustrant la volonté du diffuseur d'étoffer son portefeuille de sports en direct."
       }
     }
+  },
+  {
+    "id": "smbc-npb-japan-series-2026-title-sponsor",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-08-04T00:00:00Z",
+    "source_name": "NPB (Nippon Professional Baseball)",
+    "source_url": "https://npb.jp/news/detail/20260804_01.html",
+    "i18n": {
+      "en": {
+        "title": "SMBC Named Title Sponsor of NPB's 2026 Japan Series for 13th Straight Year",
+        "summary": "Nippon Professional Baseball named Sumitomo Mitsui Banking Corporation as the title sponsor of the 2026 Japan Series, branded the \"SMBC Japan Series 2026.\" It marks the bank's 13th consecutive year backing the championship, which opens October 24 and is scheduled to run through November 1."
+      },
+      "ja": {
+        "title": "SMBC、NPB「日本シリーズ2026」の特別協賛に13年連続で決定",
+        "summary": "日本野球機構(NPB)は、2026年の日本シリーズの特別協賛社に三井住友銀行(SMBC)を選び、大会名称を「SMBC日本シリーズ2026」とすることを発表した。同行の特別協賛は13年連続で、大会は10月24日に開幕し、最大で11月1日まで続く予定。"
+      },
+      "es": {
+        "title": "SMBC, patrocinador principal de la Japan Series 2026 de la NPB por 13er año consecutivo",
+        "summary": "La Organización de Béisbol Profesional de Japón (NPB) anunció que Sumitomo Mitsui Banking Corporation (SMBC) será el patrocinador principal de la Serie de Japón 2026, que llevará el nombre \"SMBC Japan Series 2026\". Es el decimotercer año consecutivo del banco como patrocinador principal del torneo, que comienza el 24 de octubre."
+      },
+      "zh": {
+        "title": "SMBC连续第13年成为NPB“2026年日本大赛”特别赞助商",
+        "summary": "日本职业棒球组织(NPB)宣布,三井住友银行(SMBC)将成为2026年度日本大赛的特别赞助商,赛事命名为“SMBC日本大赛2026”。这是该银行连续第13年担任此项冠名赞助,赛事将于10月24日开幕。"
+      },
+      "fr": {
+        "title": "SMBC nommée sponsor titre de la Japan Series 2026 de la NPB pour la 13e année consécutive",
+        "summary": "La Ligue professionnelle de baseball japonaise (NPB) a annoncé que la banque Sumitomo Mitsui (SMBC) sera le sponsor principal de la Japan Series 2026, baptisée « SMBC Japan Series 2026 ». Il s'agit de la 13e année consécutive de ce partenariat, la série débutant le 24 octobre."
+      }
+    }
+  },
+  {
+    "id": "real-madrid-adidas-extension-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-06-10T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/business/sponsorship/2026/real-madrid-adidas-jersey-kit-sponsorship-1234902875/",
+    "i18n": {
+      "en": {
+        "title": "Real Madrid and Adidas Agree Record $1.1 Billion Kit Extension Through 2034",
+        "summary": "Real Madrid and Adidas extended their kit partnership through 2034 in a deal Sportico valued at roughly $1.1 billion, covering the men's, women's, academy and basketball teams. Spanish media estimated the annual value near 120 million euros, with club president Florentino Perez calling it the sport's most significant sponsorship agreement."
+      },
+      "ja": {
+        "title": "レアル・マドリードとアディダス、11億ドル規模の契約延長で合意 2034年まで",
+        "summary": "レアル・マドリードとアディダスは、2034年まで続くユニフォーム供給契約の延長で合意した。Sporticoの報道によると契約総額は約11億ドルで、トップチームに加えアカデミーや女子チーム、バスケットボール部門も対象となる。スペインメディアは年間契約額を約1億2000万ユーロと推定している。"
+      },
+      "es": {
+        "title": "Real Madrid y Adidas acuerdan una extensión récord de 1.100 millones de dólares hasta 2034",
+        "summary": "Real Madrid y Adidas acordaron extender su contrato de equipación hasta 2034, en un acuerdo que Sportico valoró en aproximadamente 1.100 millones de dólares. El contrato abarca al primer equipo masculino, el femenino, la cantera y la sección de baloncesto, con un valor anual estimado por la prensa española cercano a los 120 millones de euros."
+      },
+      "zh": {
+        "title": "皇家马德里与阿迪达斯达成11亿美元创纪录续约 合同至2034年",
+        "summary": "皇家马德里与阿迪达斯同意将球衣赞助合同延长至2034年,据Sportico报道,该协议总价值约为11亿美元,涵盖男足一队、女足、青训营及篮球部门。西班牙媒体估计年均合同金额约为1.2亿欧元。"
+      },
+      "fr": {
+        "title": "Le Real Madrid et Adidas prolongent leur contrat d'équipementier jusqu'en 2034 pour 1,1 milliard de dollars",
+        "summary": "Le Real Madrid et Adidas ont prolonge leur partenariat d'equipementier jusqu'en 2034, un accord evalue par Sportico a environ 1,1 milliard de dollars. Il couvre l'equipe masculine, l'equipe feminine, le centre de formation et la section basket-ball, avec une valeur annuelle estimee par la presse espagnole a pres de 120 millions d'euros."
+      }
+    }
+  },
+  {
+    "id": "paris-la-defense-arena-plenitude-naming-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-06-16T00:00:00Z",
+    "source_name": "SportBusiness",
+    "source_url": "https://www.sportbusiness.com/news/paris-la-defense-arena-gets-first-naming-sponsor/",
+    "i18n": {
+      "en": {
+        "title": "Paris La Defense Arena Renamed Plenitude Arena in Eni Subsidiary's Naming-Rights Deal",
+        "summary": "Europe's largest indoor arena took on the name Plenitude Arena on July 1 under a seven-year naming-rights agreement with Plenitude, the energy brand owned by Italy's Eni. The deal also commits Plenitude to supplying renewable-certified electricity and installing EV charging at the Paris venue."
+      },
+      "ja": {
+        "title": "パリ・ラ・デファンス・アリーナが「プレニチュード・アリーナ」に改称 伊エニ系企業と命名権契約",
+        "summary": "欧州最大の屋内アリーナが、イタリアのEni傘下のエネルギー企業プレニチュードとの7年間のネーミングライツ契約により、7月1日付で「プレニチュード・アリーナ」に改称された。契約にはパリの会場への再生可能エネルギー電力の供給とEV充電設備の設置も含まれる。"
+      },
+      "es": {
+        "title": "El Paris La Defense Arena pasa a llamarse Plenitude Arena en un acuerdo de naming con la filial de Eni",
+        "summary": "El pabellon cubierto mas grande de Europa paso a llamarse Plenitude Arena el 1 de julio, tras un acuerdo de patrocinio de nombre por siete años con Plenitude, la marca energetica de la italiana Eni. El contrato tambien obliga a Plenitude a suministrar electricidad certificada como renovable e instalar cargadores para vehiculos electricos en el recinto parisino."
+      },
+      "zh": {
+        "title": "巴黎拉德芳斯竞技场更名为“普兰尼图德竞技场” 与埃尼旗下公司签订冠名协议",
+        "summary": "欧洲最大的室内体育馆自7月1日起更名为“普兰尼图德竞技场”,此前该馆与意大利埃尼集团旗下能源品牌普兰尼图德签署了为期七年的冠名权协议。协议还要求普兰尼图德为这座巴黎场馆提供可再生能源认证电力并安装电动车充电设施。"
+      },
+      "fr": {
+        "title": "La Paris La Defense Arena renommee Plenitude Arena dans un accord de naming avec la filiale d'Eni",
+        "summary": "La plus grande salle couverte d'Europe a ete renommee Plenitude Arena le 1er juillet, dans le cadre d'un accord de naming de sept ans avec Plenitude, la marque energetique du groupe italien Eni. L'accord prevoit aussi la fourniture d'electricite certifiee renouvelable et l'installation de bornes de recharge electrique sur le site parisien."
+      }
+    }
+  },
+  {
+    "id": "patriots-ugreen-tech-accessory-partner-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "tech",
+      "fan"
+    ],
+    "published_at": "2026-04-22T00:00:00Z",
+    "source_name": "New England Patriots",
+    "source_url": "https://www.patriots.com/news/ugreen-enters-sports-arena-with-new-england-patriots-partnership",
+    "i18n": {
+      "en": {
+        "title": "UGREEN Becomes Patriots' First-Ever Technology Accessory Partner",
+        "summary": "The New England Patriots named charging and electronics brand UGREEN as the team's official technology accessory partner for the 2026 season, marking the Chinese company's first sports sponsorship anywhere. The deal brings interactive tech activations to Gillette Stadium and puts UGREEN branding across the Patriots' digital and social channels."
+      },
+      "ja": {
+        "title": "UGREEN、ペイトリオッツ初のテクノロジー・アクセサリー・パートナーに",
+        "summary": "ニューイングランド・ペイトリオッツは、充電・電子機器ブランドのUGREENを2026年シーズンの公式テクノロジー・アクセサリー・パートナーに指定した。同社にとって世界初のスポーツスポンサー契約となる。この提携により、ジレット・スタジアムでの体験型テック展示や、チームのデジタル・SNSチャンネルでのUGREENブランド露出が行われる。"
+      },
+      "es": {
+        "title": "UGREEN se convierte en el primer socio de accesorios tecnologicos de los Patriots",
+        "summary": "Los New England Patriots nombraron a la marca de cargadores y electronica UGREEN como su socio oficial de accesorios tecnologicos para la temporada 2026, el primer patrocinio deportivo de la empresa china en cualquier lugar del mundo. El acuerdo incluye activaciones tecnologicas interactivas en el Gillette Stadium y presencia de la marca en los canales digitales y sociales del equipo."
+      },
+      "zh": {
+        "title": "绿联成为爱国者队首个科技配件合作伙伴",
+        "summary": "新英格兰爱国者队宣布,充电及电子产品品牌绿联(UGREEN)将成为球队2026赛季官方科技配件合作伙伴,这是该中国企业在全球范围内的首个体育赞助项目。协议将为吉列体育场带来互动科技体验区,并在爱国者队的数字与社交媒体渠道上展示绿联品牌。"
+      },
+      "fr": {
+        "title": "UGREEN devient le premier partenaire d'accessoires technologiques des Patriots",
+        "summary": "Les Patriots de la Nouvelle-Angleterre ont nomme la marque de chargeurs et d'electronique UGREEN comme partenaire officiel des accessoires technologiques pour la saison 2026, son premier partenariat sportif au monde. L'accord prevoit des animations technologiques interactives au Gillette Stadium et une presence de la marque sur les canaux numeriques et sociaux de l'equipe."
+      }
+    }
+  },
+  {
+    "id": "chelsea-clearlake-full-control-boehly-walter-exit-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-16T00:00:00Z",
+    "source_name": "Local10 (AP)",
+    "source_url": "https://www.local10.com/sports/2026/09/16/todd-boehly-and-mark-walter-sell-chelsea-shares-clearlake-now-has-full-control/",
+    "i18n": {
+      "en": {
+        "title": "Clearlake Capital Takes Full Control of Chelsea as Boehly and Walter Sell Stakes",
+        "summary": "Chelsea announced that co-owners Todd Boehly and Mark Walter each sold their roughly 12.8% stakes to Clearlake Capital affiliates, with Boehly also stepping down from the chairmanship. British media valued the transaction near 950 million pounds, leaving Clearlake with about 86.5% of the club and Hansjorg Wyss holding the rest."
+      },
+      "ja": {
+        "title": "クリアレイク・キャピタルがチェルシーの完全支配権を獲得、ボーリー氏とウォルター氏が株式売却",
+        "summary": "チェルシーは、共同保有者のトッド・ボーリー氏とマーク・ウォルター氏がそれぞれ約12.8%の株式をクリアレイク・キャピタル傘下に売却したと発表した。ボーリー氏は会長職も退任する。英メディアは取引額を約9億5000万ポンドと報じ、クリアレイクの保有比率は約86.5%に、残りはハンスヨルク・ヴィース氏が保有するとされる。"
+      },
+      "es": {
+        "title": "Clearlake Capital toma el control total del Chelsea tras la venta de participaciones de Boehly y Walter",
+        "summary": "Chelsea anuncio que los copropietarios Todd Boehly y Mark Walter vendieron sus participaciones de aproximadamente el 12,8% cada uno a filiales de Clearlake Capital, y Boehly tambien dejo la presidencia del club. Medios britanicos valoraron la operacion en unas 950 millones de libras, con lo que Clearlake pasaria a controlar cerca del 86,5% del club, y Hansjorg Wyss conservaria el resto."
+      },
+      "zh": {
+        "title": "Clearlake Capital完全掌控切尔西,博利与沃尔特出售股份",
+        "summary": "切尔西俱乐部宣布,联合股东托德·博利和马克·沃尔特分别将各自约12.8%的股份出售给Clearlake Capital旗下公司,博利同时辞去主席职务。英国媒体估计此次交易价值约9.5亿英镑,交易完成后Clearlake持股比例将升至约86.5%,其余股份由汉斯约尔格·维斯持有。"
+      },
+      "fr": {
+        "title": "Clearlake Capital prend le controle total de Chelsea apres la vente des parts de Boehly et Walter",
+        "summary": "Chelsea a annonce que les co-proprietaires Todd Boehly et Mark Walter ont vendu leurs parts respectives d'environ 12,8 % a des filiales de Clearlake Capital, Boehly quittant egalement la presidence du club. La presse britannique a evalue la transaction a pres de 950 millions de livres sterling, portant la participation de Clearlake a environ 86,5 %, le reste etant detenu par Hansjorg Wyss."
+      }
+    }
+  },
+  {
+    "id": "west-ham-gold-family-staveley-stake-sale-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-08-01T00:00:00Z",
+    "source_name": "Sky Sports",
+    "source_url": "https://www.skysports.com/football/news/13569061/west-ham-vanessa-gold-agrees-to-sell-stake-in-championship-club-to-former-newcastle-co-owner-amanda-staveley-led-consortium",
+    "i18n": {
+      "en": {
+        "title": "West Ham's Gold Family Agrees to Sell 25% Stake to Amanda Staveley-Led Consortium",
+        "summary": "Vanessa Gold agreed to sell the Gold family's roughly 25.1% stake in West Ham United to a consortium led by Amanda Staveley and PCP Capital Partners, after an earlier agreement with Daniel Kretinsky fell through. The sale is subject to a club pre-emption process giving existing shareholders, including Kretinsky, first rights to buy the shares."
+      },
+      "ja": {
+        "title": "ウェストハムのゴールド家、株式25%をスタベリー氏主導のコンソーシアムに売却合意",
+        "summary": "ウェストハム・ユナイテッドのヴァネッサ・ゴールド氏は、ゴールド家が保有する約25.1%の株式を、アマンダ・スタベリー氏率いるコンソーシアム(PCPキャピタル・パートナーズ)に売却することで合意した。これは、ダニエル・クレティンスキー氏との先行合意が不成立となった後のもの。この売却はクラブの優先買取条項の対象となり、クレティンスキー氏を含む既存株主に株式買取の優先権が与えられる。"
+      },
+      "es": {
+        "title": "La familia Gold del West Ham acuerda vender su participacion del 25% a un consorcio liderado por Amanda Staveley",
+        "summary": "Vanessa Gold acordo vender la participacion de la familia Gold, de aproximadamente el 25,1%, en el West Ham United a un consorcio liderado por Amanda Staveley y PCP Capital Partners, despues de que un acuerdo previo con Daniel Kretinsky no se concretara. La venta esta sujeta a un proceso de derecho de tanteo del club, que da a los accionistas existentes, incluido Kretinsky, prioridad para comprar las acciones."
+      },
+      "zh": {
+        "title": "西汉姆联戈尔德家族同意将25%股份出售给斯塔夫利主导的财团",
+        "summary": "西汉姆联队的瓦妮莎·戈尔德同意将戈尔德家族持有的约25.1%股份出售给由阿曼达·斯塔夫利领导、PCP资本合伙公司参与的财团,此前她与丹尼尔·克雷廷斯基的早前协议未能达成。该交易须经俱乐部的优先购买权程序,现有股东(包括克雷廷斯基)享有优先购买股份的权利。"
+      },
+      "fr": {
+        "title": "La famille Gold de West Ham accepte de vendre 25 % de ses parts a un consortium dirige par Amanda Staveley",
+        "summary": "Vanessa Gold a accepte de vendre la participation d'environ 25,1 % de la famille Gold dans West Ham United a un consortium dirige par Amanda Staveley et PCP Capital Partners, apres l'echec d'un precedent accord avec Daniel Kretinsky. La vente est soumise a une procedure de preemption du club, donnant la priorite d'achat aux actionnaires existants, dont Kretinsky."
+      }
+    }
+  },
+  {
+    "id": "sporting-kc-mallouk-majority-stake-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-01-16T00:00:00Z",
+    "source_name": "ESPN (via Forbes)",
+    "source_url": "https://africa.espn.com/football/story/_/id/47663817/sporting-kc-majority-stake-sold-700m-valuation",
+    "i18n": {
+      "en": {
+        "title": "Sporting Kansas City's Illig Family Sells 71% Stake to Peter Mallouk at $700M Valuation",
+        "summary": "The Illig family, Sporting Kansas City's owners since 2006, sold a roughly 71% stake to minority partner and Creative Planning CEO Peter Mallouk in a deal valuing the MLS club near $700 million. Forbes reported it as the highest price yet paid for a majority stake in league history, with the Illigs remaining as day-to-day club leadership."
+      },
+      "ja": {
+        "title": "スポーティングKCのイリグ家、71%の株式をマルーク氏に売却 評価額7億ドル",
+        "summary": "スポーティングKC(MLS)を2006年から所有していたイリグ家は、少数株主でありクリエイティブ・プランニングCEOのピーター・マルーク氏に約71%の株式を売却した。クラブの評価額は約7億ドルとされる。Forbesは、MLS史上最高額となるマジョリティ株の取得と報じており、イリグ家は引き続きクラブの日常運営を担うとされる。"
+      },
+      "es": {
+        "title": "La familia Illig de Sporting Kansas City vende el 71% de su participacion a Peter Mallouk, valorando al club en 700 millones",
+        "summary": "La familia Illig, propietaria de Sporting Kansas City desde 2006, vendio una participacion de aproximadamente el 71% al socio minoritario y CEO de Creative Planning, Peter Mallouk, en un acuerdo que valora al club de la MLS en cerca de 700 millones de dolares. Forbes informo que es el precio mas alto pagado jamas por una participacion mayoritaria en la historia de la liga, y los Illig seguiran al frente de la gestion diaria del club."
+      },
+      "zh": {
+        "title": "体育堪萨斯城伊利格家族以7亿美元估值将71%股份出售给马洛克",
+        "summary": "自2006年起拥有体育堪萨斯城(Sporting Kansas City)的伊利格家族,已将约71%的股份出售给少数股东、Creative Planning首席执行官彼得·马洛克,交易对该MLS俱乐部的估值约为7亿美元。据福布斯报道,这是美职联历史上多数股权交易的最高价,伊利格家族将继续负责俱乐部的日常运营。"
+      },
+      "fr": {
+        "title": "La famille Illig du Sporting Kansas City vend 71 % de ses parts a Peter Mallouk pour une valorisation de 700 millions",
+        "summary": "La famille Illig, proprietaire du Sporting Kansas City depuis 2006, a vendu environ 71 % de ses parts a l'actionnaire minoritaire et PDG de Creative Planning, Peter Mallouk, dans un accord valorisant le club de MLS a pres de 700 millions de dollars. Selon Forbes, il s'agit du prix le plus eleve jamais paye pour une participation majoritaire dans l'histoire de la ligue, la famille Illig conservant la gestion quotidienne du club."
+      }
+    }
+  },
+  {
+    "id": "dentsu-jleague-integrated-growth-partner-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-10-06T00:00:00Z",
+    "source_name": "J.League",
+    "source_url": "https://www.jleague.jp/corporate/pressrelease/article/15995",
+    "i18n": {
+      "en": {
+        "title": "Dentsu Named J.League's 'Integrated Growth Partner' Through 2030",
+        "summary": "Dentsu signed a marketing agreement with Japan's J.League running from July 2026 through June 2030, taking on the newly created role of \"Integrated Growth Partner.\" The contract covers marketing for the league's key sponsorship categories and aims to expand partnership value and fan reach as J.League settles into its new autumn-to-spring calendar."
+      },
+      "ja": {
+        "title": "電通、Jリーグの新設「インテグレーテッド グロース・パートナー」に就任 2030年6月まで",
+        "summary": "電通は、Jリーグと2026年7月から2030年6月までのマーケティング契約を締結し、新設された「インテグレーテッド グロース・パートナー」に就任した。契約では主要なスポンサーシップカテゴリーのマーケティングを担い、秋春制に移行したJリーグのパートナーシップ価値向上とファン層拡大を支援する。"
+      },
+      "es": {
+        "title": "Dentsu, nombrado 'Socio de Crecimiento Integrado' de la J.League hasta 2030",
+        "summary": "Dentsu firmo un acuerdo de marketing con la J.League de Japon que se extiende de julio de 2026 a junio de 2030, asumiendo el nuevo rol de \"Socio de Crecimiento Integrado\". El contrato abarca el marketing de las principales categorias de patrocinio de la liga y busca ampliar el valor de las asociaciones y el alcance entre los aficionados mientras la J.League se adapta a su nuevo calendario de otoño a primavera."
+      },
+      "zh": {
+        "title": "电通获任J联赛“综合增长合伙人”,合作期至2030年",
+        "summary": "电通与日本职业足球联赛(J联赛)签署了一项营销协议,合作期为2026年7月至2030年6月,担任新设立的“综合增长合伙人”角色。该合约涵盖联赛主要赞助类别的营销工作,旨在联赛转为秋春赛制之际提升合作伙伴价值并扩大球迷群体。"
+      },
+      "fr": {
+        "title": "Dentsu nomme « partenaire de croissance integre » de la J.League jusqu'en 2030",
+        "summary": "Dentsu a signe un accord marketing avec la J.League japonaise, courant de juillet 2026 a juin 2030, en assumant le nouveau role de « partenaire de croissance integre ». Le contrat couvre le marketing des principales categories de sponsoring de la ligue et vise a accroitre la valeur des partenariats et l'audience des supporters, alors que la J.League adopte son nouveau calendrier automne-printemps."
+      }
+    }
+  },
+  {
+    "id": "tgr-haas-f1-title-sponsor-2026",
+    "sport": "motorsports",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2025-12-04T00:00:00Z",
+    "source_name": "GrandPrix247",
+    "source_url": "https://www.grandprix247.com/2025/12/04/f1-news-toyota-gazoo-racing-become-haas-formula-1-team-title-sponsor-in-2026/",
+    "i18n": {
+      "en": {
+        "title": "Toyota Gazoo Racing Becomes Haas F1 Team's Title Sponsor for 2026, Replacing MoneyGram",
+        "summary": "Haas confirmed that Toyota Gazoo Racing will serve as title sponsor for the 2026 Formula 1 season, with the American team competing as TGR Haas F1 Team. The move builds on a technical partnership the two sides began in October 2024 and ends MoneyGram's three-year run as title sponsor."
+      },
+      "ja": {
+        "title": "トヨタ・ガズー・レーシング、2026年ハースF1チームの冠スポンサーに マネーグラムから交代",
+        "summary": "ハースF1チームは、2026年シーズンの冠スポンサーをトヨタ・ガズー・レーシング(TGR)が務めると発表し、チーム名を「TGRハースF1チーム」に変更する。両者は2024年10月に技術提携を開始しており、今回の冠スポンサー契約はその延長線上にある。3年間冠スポンサーを務めたマネーグラムとの契約は終了する。"
+      },
+      "es": {
+        "title": "Toyota Gazoo Racing se convierte en patrocinador principal del equipo Haas F1 para 2026, en lugar de MoneyGram",
+        "summary": "Haas confirmo que Toyota Gazoo Racing sera el patrocinador principal para la temporada 2026 de Formula 1, y el equipo estadounidense competira como TGR Haas F1 Team. El acuerdo se basa en la asociacion tecnica que ambas partes iniciaron en octubre de 2024 y pone fin a los tres años de MoneyGram como patrocinador principal."
+      },
+      "zh": {
+        "title": "丰田嘎祖赛车成为哈斯F1车队2026赛季冠名赞助商,取代万利汇",
+        "summary": "哈斯F1车队确认,丰田嘎祖赛车(TGR)将担任2026赛季F1冠名赞助商,这支美国车队届时将以“TGR哈斯F1车队”的名称参赛。此次合作是在双方2024年10月开始的技术合作基础上展开的,同时结束了万利汇(MoneyGram)三年的冠名赞助商身份。"
+      },
+      "fr": {
+        "title": "Toyota Gazoo Racing devient sponsor titre de l'ecurie Haas F1 pour 2026, remplaçant MoneyGram",
+        "summary": "L'ecurie Haas a confirme que Toyota Gazoo Racing sera le sponsor titre pour la saison 2026 de Formule 1, l'equipe americaine evoluant desormais sous le nom TGR Haas F1 Team. Cet accord s'appuie sur le partenariat technique entame par les deux parties en octobre 2024 et met fin aux trois annees de MoneyGram comme sponsor titre."
+      }
+    }
   }
 ]
