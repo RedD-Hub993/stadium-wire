@@ -6729,5 +6729,242 @@
         "summary": "Toyota Gazoo Racing deviendra le sponsor titre de l'écurie de Formule 1 Haas à partir de la saison 2026, remplaçant l'ancien sponsor MoneyGram, et l'écurie américaine courra officiellement sous le nom de TGR Haas F1 Team. Toyota, devenu partenaire technique de Haas en octobre 2024, sponsorisera également le programme de développement des pilotes de l'écurie alors qu'elle renforce sa présence dans le sport."
       }
     }
+  },
+  {
+    "id": "msg-cisco-arena-technology-partner-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "tech",
+      "stadium"
+    ],
+    "published_at": "2025-12-03T00:00:00Z",
+    "source_name": "Cisco Newsroom",
+    "source_url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2025/m12/madison-square-garden-entertainment-and-cisco-announce-multi-year-partnership-making-cisco-an-official-partner-of-the-world-most-famous-arena.html",
+    "i18n": {
+      "en": {
+        "title": "Cisco Named Official Technology Partner of Madison Square Garden",
+        "summary": "Madison Square Garden Entertainment signed a multi-year deal naming Cisco the arena's official networking and security partner. The agreement expands Cisco's existing switching and Wi-Fi gear into a centralized management system, with Nexus data-center hardware meant to boost computing power for the venue. Executives from both companies said they plan to keep integrating Cisco technology across MSG's digital operations."
+      },
+      "ja": {
+        "title": "シスコ、マディソン・スクエア・ガーデンの公式テクノロジーパートナーに",
+        "summary": "MSGエンターテインメントは複数年契約を結び、シスコをアリーナの公式ネットワーク・セキュリティパートナーに指定した。既存のスイッチやWi-Fi機器を一元管理システムに統合し、データセンター機器によって会場の処理能力向上を図る。両社の幹部は、今後もシスコの技術をMSGのデジタル基盤全体に組み込んでいく方針を示した。"
+      },
+      "es": {
+        "title": "Cisco es nombrado socio tecnológico oficial del Madison Square Garden",
+        "summary": "Madison Square Garden Entertainment firmó un acuerdo multianual que convierte a Cisco en el socio oficial de redes y seguridad del recinto. El pacto amplía el equipo de conmutación y Wi-Fi ya instalado hacia un sistema de gestión centralizada, con hardware de centro de datos pensado para aumentar la capacidad de cómputo del lugar. Directivos de ambas empresas afirmaron que seguirán integrando tecnología de Cisco en las operaciones digitales de MSG."
+      },
+      "zh": {
+        "title": "思科成为麦迪逊广场花园官方技术合作伙伴",
+        "summary": "MSG娱乐与思科签署多年协议，指定其为球馆官方网络与安全合作伙伴。该协议将现有的交换机和无线网络设备整合进统一管理系统，并引入数据中心硬件以提升场馆的计算能力。两家公司高管表示，未来将继续把思科技术整合到MSG的数字化运营中。"
+      },
+      "fr": {
+        "title": "Cisco nommé partenaire technologique officiel du Madison Square Garden",
+        "summary": "MSG Entertainment a signé un accord pluriannuel désignant Cisco comme partenaire officiel réseau et sécurité de la salle. L'accord intègre les équipements de commutation et Wi-Fi déjà en place dans un système de gestion centralisé, avec du matériel de centre de données destiné à renforcer la puissance de calcul du site. Les dirigeants des deux entreprises ont indiqué vouloir poursuivre l'intégration des technologies Cisco dans les opérations numériques de MSG."
+      }
+    }
+  },
+  {
+    "id": "adidas-esports-nations-cup-kit-partner-2026",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-07-30T00:00:00Z",
+    "source_name": "Esports Nations Cup",
+    "source_url": "https://www.esportsnationscup.com/en/press-releases/esports-foundation-adidas-landmark-partnership",
+    "i18n": {
+      "en": {
+        "title": "Adidas to Outfit Every National Team at Inaugural Esports Nations Cup",
+        "summary": "The Esports Foundation named adidas as official kit partner and global partner for the first Esports Nations Cup, a four-week event launching in Riyadh in November featuring national squads across 16 titles. Adidas will design custom competition apparel for more than 100 participating countries, covering roughly 2,000 athletes and coaches in what organizers call one of the broadest kit deals in esports history. National jerseys are expected to be revealed in the coming weeks."
+      },
+      "ja": {
+        "title": "アディダス、第1回esportsネーションズカップで全出場国の公式ユニフォームを提供",
+        "summary": "esportsファウンデーションは、11月にリヤドで開幕する第1回esportsネーションズカップにおいて、アディダスを公式キットパートナー兼グローバルパートナーに指定した。同大会は4週間にわたり16タイトルで各国代表チームが対戦し、アディダスは100カ国以上、選手・コーチ約2000人分のオーダーメイド競技ウェアを制作する。主催者はesports史上最大級のキット契約の一つだとしている。"
+      },
+      "es": {
+        "title": "Adidas vestirá a todas las selecciones en la primera Esports Nations Cup",
+        "summary": "La Esports Foundation designó a adidas como socio oficial de equipamiento y socio global de la primera Esports Nations Cup, un torneo de cuatro semanas que arrancará en noviembre en Riad con selecciones nacionales en 16 títulos. Adidas diseñará ropa de competición a medida para más de 100 países, abarcando a unos 2.000 atletas y entrenadores, en lo que los organizadores califican como uno de los mayores acuerdos de equipamiento en la historia de los esports. Las camisetas nacionales se revelarán en las próximas semanas."
+      },
+      "zh": {
+        "title": "阿迪达斯将为首届电竞国家杯所有参赛国家队提供战袍",
+        "summary": "电竞基金会宣布阿迪达斯成为首届电竞国家杯的官方装备合作伙伴及全球合作伙伴，该赛事将于11月在利雅得开幕，持续四周，涵盖16款游戏项目的各国代表队。阿迪达斯将为超过100个参赛国家和地区定制比赛服，覆盖约2000名选手与教练，主办方称这是电竞史上规模最大的装备合作之一。各国战袍将在未来几周内公开。"
+      },
+      "fr": {
+        "title": "Adidas habillera toutes les sélections nationales lors de la première Esports Nations Cup",
+        "summary": "L'Esports Foundation a désigné adidas comme équipementier officiel et partenaire mondial de la première Esports Nations Cup, un tournoi de quatre semaines qui débutera en novembre à Riyad avec des équipes nationales réparties sur 16 jeux. Adidas concevra des tenues de compétition sur mesure pour plus de 100 pays, couvrant environ 2 000 athlètes et entraîneurs, dans ce que les organisateurs présentent comme l'un des plus vastes accords d'équipement de l'histoire de l'esport. Les maillots nationaux doivent être révélés dans les prochaines semaines."
+      }
+    }
+  },
+  {
+    "id": "npb-smbc-nippon-series-2026-title-sponsor",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-08-04T00:00:00Z",
+    "source_name": "NPB",
+    "source_url": "https://npb.jp/news/detail/20260804_01.html",
+    "i18n": {
+      "en": {
+        "title": "Sumitomo Mitsui Banking Corp Extends Nippon Series Title Sponsorship to 13th Year",
+        "summary": "Nippon Professional Baseball confirmed Sumitomo Mitsui Banking Corporation (SMBC) as the title sponsor of the 2026 Japan Series, to be branded 'SMBC Nippon Series 2026.' It marks the bank's 13th consecutive year backing the championship, which opens October 24 and is scheduled to run through November 1. SMBC also launched a fan campaign offering escort-kid roles and paired tickets tied to the sponsorship."
+      },
+      "ja": {
+        "title": "三井住友銀行、日本シリーズ特別協賛を13年連続で継続",
+        "summary": "日本野球機構(NPB)は、2026年の日本シリーズの特別協賛社を三井住友銀行(SMBC)に決定し、大会名称を「SMBC日本シリーズ2026」とすると発表した。同行による特別協賛は2014年から数えて13年連続となる。大会は10月24日に開幕し、11月1日までの日程が予定されている。発表に合わせ、同行はエスコートキッズやペアチケットが当たるキャンペーンも開始した。"
+      },
+      "es": {
+        "title": "SMBC extiende por 13er año su patrocinio titular de la Serie Japonesa",
+        "summary": "Nippon Professional Baseball confirmó a Sumitomo Mitsui Banking Corporation (SMBC) como patrocinador titular de la Serie Japonesa 2026, que se llamará 'SMBC Nippon Series 2026'. Es el 13er año consecutivo que el banco respalda el campeonato, que arranca el 24 de octubre y está previsto que se dispute hasta el 1 de noviembre. SMBC también lanzó una campaña para aficionados con sorteos de entradas dobles y de participación como niño escolta."
+      },
+      "zh": {
+        "title": "三井住友银行连续第13年冠名日本职棒总决赛",
+        "summary": "日本职业棒球组织（NPB）确认三井住友银行（SMBC）为2026年日本总决赛的冠名赞助商，赛事将称为\"SMBC日本总决赛2026\"。这是该银行连续第13年为该总决赛提供冠名赞助，赛事将于10月24日开幕，预计持续至11月1日。SMBC还同步推出了球迷活动，提供护送小球童及双人票抽奖机会。"
+      },
+      "fr": {
+        "title": "SMBC prolonge pour la 13e année son parrainage titre de la Série du Japon",
+        "summary": "La Nippon Professional Baseball a confirmé que Sumitomo Mitsui Banking Corporation (SMBC) reste le sponsor titre de la Série du Japon 2026, qui portera le nom « SMBC Nippon Series 2026 ». Il s'agit de la 13e année consécutive que la banque soutient ce championnat, qui débute le 24 octobre et doit se poursuivre jusqu'au 1er novembre. SMBC a également lancé une campagne pour les supporters, avec des tirages au sort pour accompagner les joueurs sur le terrain et gagner des billets en duo."
+      }
+    }
+  },
+  {
+    "id": "npb-nissan-home-run-derby-title-sponsor-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-07-13T00:00:00Z",
+    "source_name": "NPB",
+    "source_url": "https://npb.jp/news/detail/20260713_04.html",
+    "i18n": {
+      "en": {
+        "title": "Nissan Returns as Title Sponsor of NPB All-Star Home Run Derby",
+        "summary": "NPB named Nissan the title sponsor of the home run derby held before the Mynavi All-Star Game 2026, branding the event after the automaker's new Kicks model. The derby, held July 28 at Tokyo Dome and July 29 at Toyama, featured eight fan-voted sluggers from the Central and Pacific Leagues. The winner received a cash prize and a new Nissan Kicks, continuing a sponsorship Nissan has held in various forms for several years."
+      },
+      "ja": {
+        "title": "日産、NPBオールスターのホームランダービーで冠スポンサーを継続",
+        "summary": "NPBは、マイナビオールスターゲーム2026で実施されたホームランダービーの冠スポンサーに日産自動車を指定し、大会名称を新型「日産キックス」にちなんだものとした。ダービーは7月28日に東京ドーム、29日に富山市民球場で行われ、ファン投票で選ばれたセ・パ両リーグの強打者8人が出場した。優勝者には賞金と新型日産キックスが贈られ、日産は数年にわたり形を変えながら同企画の冠スポンサーを続けている。"
+      },
+      "es": {
+        "title": "Nissan vuelve como patrocinador titular del Home Run Derby del Juego de Estrellas de la NPB",
+        "summary": "La NPB designó a Nissan como patrocinador titular del home run derby celebrado antes del Juego de Estrellas Mynavi 2026, bautizando el evento en honor al nuevo modelo Kicks de la automotriz. El derby, disputado el 28 de julio en el Tokyo Dome y el 29 en Toyama, reunió a ocho bateadores elegidos por voto de los aficionados de las ligas Central y Pacífica. El ganador recibió un premio en efectivo y un Nissan Kicks nuevo, en la continuación de un patrocinio que Nissan mantiene desde hace varios años bajo distintas formas."
+      },
+      "zh": {
+        "title": "日产重新冠名NPB全明星赛本垒打大赛",
+        "summary": "NPB宣布日产汽车冠名2026年Mynavi全明星赛前举行的本垄打大赛，赛事名称以该公司新款Kicks车型命名。比赛于7月28日在东京巨蛋、29日在富山市立球场举行，由央联与太平洋联盟球迷投票选出的八名强打者参赛。冠军获得奖金及一台全新日产Kicks，日产多年来一直以不同形式冠名该项赛事。"
+      },
+      "fr": {
+        "title": "Nissan reste sponsor titre du concours de home runs du match des étoiles de la NPB",
+        "summary": "La NPB a désigné Nissan comme sponsor titre du concours de home runs organisé avant le Match des étoiles Mynavi 2026, l'événement portant le nom du nouveau modèle Kicks du constructeur. Le concours, disputé le 28 juillet au Tokyo Dome puis le 29 à Toyama, a réuni huit frappeurs désignés par le vote des supporters des ligues Centrale et Pacifique. Le vainqueur a reçu une prime en argent et une nouvelle Nissan Kicks, dans la continuité d'un partenariat que Nissan entretient sous diverses formes depuis plusieurs années."
+      }
+    }
+  },
+  {
+    "id": "real-salt-lake-america-first-stadium-naming-rights",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-09-02T00:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/article/real-salt-lake-inks-100m-stadium-naming-rights-deal/",
+    "i18n": {
+      "en": {
+        "title": "Real Salt Lake Renames Stadium in Reported $100 Million Naming Rights Deal",
+        "summary": "Major League Soccer's Real Salt Lake struck a naming rights agreement with America First Credit Union worth close to $100 million over 15 years, according to a Front Office Sports report. The club's home venue, formerly Rio Tinto Stadium, will become America First Field. The deal is among the largest naming rights agreements reported in MLS history."
+      },
+      "ja": {
+        "title": "レアルソルトレイク、約1億ドルの命名権契約でスタジアム名を変更",
+        "summary": "Front Office Sportsの報道によると、MLSのレアルソルトレイクは信用組合アメリカ・ファーストと15年契約・総額約1億ドル規模の命名権契約を結んだ。従来「リオ・ティント・スタジアム」と呼ばれていたホームスタジアムは「アメリカ・ファースト・フィールド」に改称される。同契約はMLS史上でも最大級の命名権契約の一つと報じられている。"
+      },
+      "es": {
+        "title": "Real Salt Lake renombra su estadio en un acuerdo de derechos de nombre reportado en 100 millones de dólares",
+        "summary": "Según un reporte de Front Office Sports, el club de la MLS Real Salt Lake firmó un acuerdo de derechos de nombre con America First Credit Union por cerca de 100 millones de dólares a lo largo de 15 años. El estadio del club, antes llamado Rio Tinto Stadium, pasará a llamarse America First Field. El acuerdo figura entre los contratos de naming más grandes reportados en la historia de la MLS."
+      },
+      "zh": {
+        "title": "皇家盐湖城以约1亿美元命名权协议更换主场球场名称",
+        "summary": "据Front Office Sports报道，美国职业足球大联盟（MLS）球队皇家盐湖城与America First信用合作社签订了一份为期15年、总价近1亿美元的球场命名权协议。该队主场此前名为Rio Tinto Stadium，将更名为America First Field。该协议被认为是MLS历史上规模最大的命名权交易之一。"
+      },
+      "fr": {
+        "title": "Real Salt Lake rebaptise son stade dans un accord de naming estimé à 100 millions de dollars",
+        "summary": "Selon Front Office Sports, le club de MLS Real Salt Lake a conclu un accord de naming avec America First Credit Union d'une valeur proche de 100 millions de dollars sur 15 ans. Le stade du club, auparavant appelé Rio Tinto Stadium, sera renommé America First Field. Cet accord figure parmi les plus importants contrats de naming jamais rapportés dans l'histoire de la MLS."
+      }
+    }
+  },
+  {
+    "id": "arkansas-communityamerica-razorback-stadium-naming-rights",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-06-24T00:00:00Z",
+    "source_name": "Arkansas Razorbacks",
+    "source_url": "https://arkansasrazorbacks.com/arkansas-athletics-communityamerica-credit-union-launch-multi-year-partnership-including-razorback-stadium-naming-rights/",
+    "i18n": {
+      "en": {
+        "title": "Arkansas Strikes 13-Year Naming Rights Deal, Stadium to Become CommunityAmerica Razorback Stadium",
+        "summary": "The University of Arkansas Board of Trustees approved a 13-year naming rights partnership with CommunityAmerica Credit Union, negotiated by Learfield on behalf of Razorback Athletics. Donald W. Reynolds Razorback Stadium will keep its current name through the 2026 season before becoming CommunityAmerica Razorback Stadium starting in 2027. The agreement also makes the credit union the official financial-services partner of Razorback Athletics and gives it a path into direct name, image and likeness deals with athletes."
+      },
+      "ja": {
+        "title": "アーカンソー大学、13年間の命名権契約でスタジアム名を変更",
+        "summary": "アーカンソー大学理事会は、Learfield社が交渉したコミュニティアメリカ信用組合との13年間にわたる命名権パートナーシップを承認した。現在の「ドナルド・W・レイノルズ・レーザーバック・スタジアム」の名称は2026年シーズンまで維持され、2027年から「コミュニティアメリカ・レーザーバック・スタジアム」に改称される。契約によって同信用組合はレーザーバック・アスレチックスの公式金融サービスパートナーとなり、選手との直接的な名前・画像・肖像権(NIL)契約への道も開かれる。"
+      },
+      "es": {
+        "title": "Arkansas firma un acuerdo de naming de 13 años; el estadio pasará a llamarse CommunityAmerica Razorback Stadium",
+        "summary": "La Junta de Síndicos de la Universidad de Arkansas aprobó una asociación de derechos de nombre de 13 años con CommunityAmerica Credit Union, negociada por Learfield en representación de Razorback Athletics. El Donald W. Reynolds Razorback Stadium conservará su nombre actual durante la temporada 2026 antes de convertirse en CommunityAmerica Razorback Stadium a partir de 2027. El acuerdo también convierte a la cooperativa en socio oficial de servicios financieros de Razorback Athletics y le abre la puerta a acuerdos directos de nombre, imagen y semejanza con los atletas."
+      },
+      "zh": {
+        "title": "阿肯色大学签订13年命名权协议，球场将更名为CommunityAmerica Razorback Stadium",
+        "summary": "阿肯色大学理事会批准了与CommunityAmerica信用合作社长达13年的命名权合作协议，该协议由Learfield代表Razorback athletics部门洽谈达成。现名为Donald W. Reynolds Razorback Stadium的球场将在2026赛季保留原名，自2027年起更名为CommunityAmerica Razorback Stadium。协议还使该信用合作社成为Razorback athletics的官方金融服务合作伙伴，并为其与运动员直接签订姓名、形象与肖像（NIL）协议打开了渠道。"
+      },
+      "fr": {
+        "title": "Arkansas signe un accord de naming de 13 ans ; le stade deviendra le CommunityAmerica Razorback Stadium",
+        "summary": "Le conseil d'administration de l'Université de l'Arkansas a approuvé un partenariat de naming de 13 ans avec CommunityAmerica Credit Union, négocié par Learfield pour le compte de Razorback Athletics. Le Donald W. Reynolds Razorback Stadium conservera son nom actuel pour la saison 2026 avant de devenir le CommunityAmerica Razorback Stadium à partir de 2027. L'accord fait aussi de la coopérative le partenaire officiel de services financiers de Razorback Athletics et lui ouvre la voie à des accords directs de nom, image et ressemblance avec les athlètes."
+      }
+    }
+  },
+  {
+    "id": "bournemouth-vegas-golden-knights-owner-takeover-talks",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-22T00:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/article/nhl-owner-in-exclusive-talks-to-buy-afc-bournemouth/",
+    "i18n": {
+      "en": {
+        "title": "Vegas Golden Knights Owner in Exclusive Talks to Buy Bournemouth",
+        "summary": "Bill Foley, the NHL's Vegas Golden Knights owner and chairman of Fidelity National Financial, has entered exclusive negotiations to acquire Premier League club AFC Bournemouth, according to a Front Office Sports report. Current owner Maxim Demin, who took full control of the club in 2013, had hired investment bank Montminy & Co. to run a sale process. A deal would extend the trend of North American investors buying into English top-flight clubs."
+      },
+      "ja": {
+        "title": "ベガス・ゴールデンナイツ会長、ボーンマスの買収交渉で独占権を獲得",
+        "summary": "Front Office Sportsの報道によると、NHLベガス・ゴールデンナイツのオーナーでフィデリティ・ナショナル・ファイナンシャル会長のビル・フォーリー氏が、プレミアリーグのAFCボーンマス買収に向けて独占的な交渉に入った。2013年に経営権を完全に取得した現オーナーのマキシム・デミン氏は、投資銀行モンミニー&コーに売却プロセスの取り扱いを依頼していた。契約が成立すれば、北米投資家によるイングランド1部クラブへの出資という流れがさらに広がることになる。"
+      },
+      "es": {
+        "title": "El propietario de los Vegas Golden Knights negocia en exclusiva la compra del Bournemouth",
+        "summary": "Bill Foley, propietario de los Vegas Golden Knights de la NHL y presidente de Fidelity National Financial, entró en negociaciones exclusivas para adquirir al AFC Bournemouth de la Premier League, según un reporte de Front Office Sports. El actual propietario, Maxim Demin, quien tomó el control total del club en 2013, había contratado al banco de inversión Montminy & Co. para dirigir un proceso de venta. Un acuerdo ampliaría la tendencia de inversionistas norteamericanos que compran clubes de la máxima categoría inglesa."
+      },
+      "zh": {
+        "title": "维加斯金骑士队老板独家洽谈收购伯恩茅斯",
+        "summary": "据Front Office Sports报道，NHL维加斯金骑士队老板、Fidelity National Financial董事长比尔·福利已就收购英超球队伯恩茅斯展开独家谈判。现任老板马克西姆·德明于2013年完全掌控球队，此前已聘请投资银行Montminy & Co.负责出售流程。若交易达成，将延续北美投资者入股英格兰顶级联赛球队的趋势。"
+      },
+      "fr": {
+        "title": "Le propriétaire des Vegas Golden Knights en négociations exclusives pour racheter Bournemouth",
+        "summary": "Bill Foley, propriétaire des Vegas Golden Knights en NHL et président de Fidelity National Financial, est entré en négociations exclusives pour acquérir le club de Premier League AFC Bournemouth, selon un rapport de Front Office Sports. L'actuel propriétaire, Maxim Demin, qui avait pris le contrôle total du club en 2013, avait chargé la banque d'investissement Montminy & Co. de mener un processus de vente. Un accord prolongerait la tendance des investisseurs nord-américains à entrer au capital de clubs du championnat anglais."
+      }
+    }
   }
 ]
