@@ -6897,5 +6897,345 @@
         "summary": "Les Sabres de Buffalo ont annoncé un accord pluriannuel faisant de leur partenaire de longue date, Seneca Resorts & Casinos, le premier sponsor de patch sur le maillot domicile de l'équipe, placé près de l'épaule droite au-dessus du logo de l'équipe. L'accord prolonge une relation de 15 ans entre les deux parties et survient après un accord distinct en mai nommant Stark Tech sponsor du patch sur le maillot extérieur, dotant ainsi les Sabres de sponsors sur leurs deux maillots."
       }
     }
+  },
+  {
+    "id": "smbc-npb-japan-series-2026-title-sponsor",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-08-04T00:00:00Z",
+    "source_name": "NPB (Nippon Professional Baseball)",
+    "source_url": "https://npb.jp/news/detail/20260804_01.html",
+    "i18n": {
+      "en": {
+        "title": "Sumitomo Mitsui Banking Corp Named Japan Series 2026 Title Sponsor",
+        "summary": "Nippon Professional Baseball confirmed that Sumitomo Mitsui Banking Corporation (SMBC) will again serve as title sponsor of the Japan Series, with this year's event officially named the \"SMBC Japan Series 2026.\" The bank has held the naming rights continuously since 2020, and the best-of-seven series is scheduled to open on October 24."
+      },
+      "ja": {
+        "title": "三井住友銀行、「SMBC日本シリーズ2026」の特別協賛に",
+        "summary": "日本野球機構(NPB)は、三井住友銀行(SMBC)が今年も日本シリーズの特別協賛を務め、大会名称が「SMBC日本シリーズ2026」になると発表した。同行は2020年から継続して特別協賛を務めており、7戦制のシリーズは10月24日に開幕する予定。"
+      },
+      "es": {
+        "title": "SMBC vuelve a ser el patrocinador principal de la Serie de Japón 2026",
+        "summary": "La Liga Profesional de Béisbol de Japón (NPB) confirmó que Sumitomo Mitsui Banking Corporation (SMBC) volverá a ser el patrocinador titular de la Serie de Japón, que este año se llamará oficialmente \"SMBC Japan Series 2026\". El banco mantiene estos derechos de forma ininterrumpida desde 2020, y la serie al mejor de siete partidos está programada para comenzar el 24 de octubre."
+      },
+      "zh": {
+        "title": "三井住友银行再度冠名「SMBC日本总决赛2026」",
+        "summary": "日本职业棒球组织(NPB)确认,三井住友银行(SMBC)将再次担任日本总决赛的冠名赞助商,今年赛事正式名称为「SMBC日本总决赛2026」。该银行自2020年以来连续获得冠名权,七场四胜制的系列赛预计于10月24日开幕。"
+      },
+      "fr": {
+        "title": "SMBC redevient le sponsor-titre de la Série du Japon 2026",
+        "summary": "La Nippon Professional Baseball (NPB) a confirmé que Sumitomo Mitsui Banking Corporation (SMBC) serait de nouveau le sponsor-titre de la Série du Japon, rebaptisée officiellement « SMBC Japan Series 2026 » pour l'occasion. La banque détient ces droits de dénomination sans interruption depuis 2020, et la série au meilleur des sept matchs doit débuter le 24 octobre."
+      }
+    }
+  },
+  {
+    "id": "texas-tech-galaxy-stadium-naming-rights-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor",
+      "tech"
+    ],
+    "published_at": "2026-07-17T00:00:00Z",
+    "source_name": "Associated Press",
+    "source_url": "https://www.learfield.com/2026/07/texas-tech-athletics-secures-landmark-naming-rights-agreement-with-galaxy/",
+    "i18n": {
+      "en": {
+        "title": "Texas Tech Renames Football Stadium \"Galaxy Stadium\" in 15-Year, Reported $75M Deal",
+        "summary": "Texas Tech announced a 15-year naming-rights partnership with digital-asset infrastructure firm Galaxy, renaming its football venue from Jones AT&T Stadium to Galaxy Stadium starting with the 2026 season. Industry reports put the deal's value at roughly $75 million, and it also makes Galaxy the athletic department's official data-center and digital-assets partner."
+      },
+      "ja": {
+        "title": "テキサス工科大、フットボール競技場を「ギャラクシー・スタジアム」に改称 15年契約、推定7500万ドル",
+        "summary": "テキサス工科大学は、デジタル資産関連企業ギャラクシーと15年間の命名権契約を締結し、フットボール競技場の名称を「ジョーンズAT&Tスタジアム」から「ギャラクシー・スタジアム」に変更すると発表した。2026年シーズンから適用され、業界報道では契約額は約7500万ドルとされており、同社は大学athletic部門の公式データセンター・デジタル資産パートナーにもなる。"
+      },
+      "es": {
+        "title": "Texas Tech renombra su estadio de fútbol americano como \"Galaxy Stadium\" en un acuerdo de 15 años valorado en unos $75 millones",
+        "summary": "Texas Tech anunció una asociación de derechos de denominación de 15 años con la firma de infraestructura de activos digitales Galaxy, cambiando el nombre de su estadio de fútbol americano de Jones AT&T Stadium a Galaxy Stadium a partir de la temporada 2026. Reportes de la industria estiman el valor del acuerdo en unos $75 millones, y la empresa también se convierte en socia oficial de centros de datos y activos digitales del departamento deportivo."
+      },
+      "zh": {
+        "title": "德州理工大学将橄榄球场更名为「Galaxy体育场」 15年协议据报价值7500万美元",
+        "summary": "德州理工大学宣布与数字资产基础设施公司Galaxy签订为期15年的冠名权合作,从2026赛季起将其橄榄球场由「琼斯AT&T体育场」更名为「Galaxy体育场」。业内报道称该协议价值约7500万美元,Galaxy同时成为该校体育部官方数据中心与数字资产合作伙伴。"
+      },
+      "fr": {
+        "title": "Texas Tech rebaptise son stade de football américain « Galaxy Stadium » dans un accord de 15 ans estimé à 75 M$",
+        "summary": "Texas Tech a annoncé un partenariat de droits de dénomination de 15 ans avec la société d'infrastructure d'actifs numériques Galaxy, renommant son stade de football américain de Jones AT&T Stadium en Galaxy Stadium à partir de la saison 2026. Selon la presse spécialisée, l'accord serait estimé à environ 75 millions de dollars, et Galaxy devient également partenaire officiel data-center et actifs numériques du département sportif."
+      }
+    }
+  },
+  {
+    "id": "arctos-falcons-10pct-stake-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-08-20T00:00:00Z",
+    "source_name": "CNBC",
+    "source_url": "https://pulse2.com/arctos-reportedly-acquiring-10-of-atlanta-falcons-at-10-6-billion-valuation/",
+    "i18n": {
+      "en": {
+        "title": "Private Equity Firm Arctos to Buy 10% of Falcons at $10.6 Billion Valuation",
+        "summary": "Private equity firm Arctos Sports Partners has agreed to acquire a 10% stake in the Atlanta Falcons, a deal reported to value the NFL franchise at $10.6 billion. The purchase would be completed in two tranches over 18 months and is expected to go before NFL owners for approval."
+      },
+      "ja": {
+        "title": "アークトス、アトランタ・ファルコンズの10%株式を取得へ 推定企業価値106億ドル",
+        "summary": "プライベートエクイティ企業アークトス・スポーツ・パートナーズが、NFLアトランタ・ファルコンズの株式10%を取得することで合意したと報じられた。企業価値は約106億ドルとされ、取得は18か月かけて2回に分けて行われる予定で、NFL球団所有者らの承認を得る必要がある。"
+      },
+      "es": {
+        "title": "La firma de capital privado Arctos comprará el 10% de los Falcons con una valoración de $10,600 millones",
+        "summary": "La firma de capital privado Arctos Sports Partners acordó adquirir una participación del 10% en los Atlanta Falcons, en un acuerdo que según reportes valora a la franquicia de la NFL en $10,600 millones. La compra se completaría en dos tramos durante 18 meses y deberá ser aprobada por los propietarios de la NFL."
+      },
+      "zh": {
+        "title": "私募股权公司Arctos将以106亿美元估值收购猎鹰队10%股权",
+        "summary": "据报道,私募股权公司Arctos Sports Partners已同意收购NFL亚特兰大猎鹰队10%的股权,该交易对这支球队的估值约为106亿美元。此次收购将分两期、历时18个月完成,并仍需获得NFL球队所有者的批准。"
+      },
+      "fr": {
+        "title": "Le fonds Arctos va racheter 10 % des Falcons sur la base d'une valorisation de 10,6 milliards de dollars",
+        "summary": "Le fonds de capital-investissement Arctos Sports Partners a accepté d'acquérir 10 % des Atlanta Falcons, une opération qui valoriserait la franchise NFL à 10,6 milliards de dollars selon la presse spécialisée. L'acquisition serait réalisée en deux tranches sur 18 mois et doit encore être approuvée par les propriétaires de la NFL."
+      }
+    }
+  },
+  {
+    "id": "nebraska-memorial-stadium-600m-renovation-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "biz"
+    ],
+    "published_at": "2026-04-24T00:00:00Z",
+    "source_name": "Associated Press",
+    "source_url": "https://wtop.com/ncaa-football/2026/04/nebraska-regents-approve-600-million-renovation-of-103-year-old-memorial-stadium/",
+    "i18n": {
+      "en": {
+        "title": "Nebraska Regents Approve $600 Million Memorial Stadium Renovation",
+        "summary": "The University of Nebraska's Board of Regents voted 8-0 to approve a $600 million renovation of the 103-year-old Memorial Stadium, dubbed the \"Big Red Rebuild.\" Funding combines roughly $250 million in philanthropic support with $350 million in private bond financing, and the project targets completion in time for the 2028 season."
+      },
+      "ja": {
+        "title": "ネブラスカ大、メモリアル・スタジアム改修に6億ドルを承認",
+        "summary": "ネブラスカ大学理事会は、築103年のメモリアル・スタジアムの改修計画「ビッグ・レッド・リビルド」に6億ドルを投じる案を8対0で承認した。資金は寄付金約2億5000万ドルと民間債券による調達約3億5000万ドルで構成され、2028年シーズン開幕までの完成を目指す。"
+      },
+      "es": {
+        "title": "Los regentes de Nebraska aprueban una renovación de $600 millones para el Memorial Stadium",
+        "summary": "La Junta de Regentes de la Universidad de Nebraska votó 8-0 a favor de aprobar una renovación de $600 millones del Memorial Stadium, de 103 años de antigüedad, bautizada \"Big Red Rebuild\". El financiamiento combina unos $250 millones en donaciones filantrópicas con $350 millones en bonos privados, y el proyecto busca estar terminado para la temporada 2028."
+      },
+      "zh": {
+        "title": "内布拉斯加大学董事会批准6亿美元纪念体育场改造计划",
+        "summary": "内布拉斯加大学董事会以8票对0票通过了对已有103年历史的纪念体育场进行6亿美元改造的计划,该项目被称为「Big Red Rebuild」。资金来源包括约2.5亿美元慈善捐款和3.5亿美元私募债券融资,项目目标是在2028赛季前完工。"
+      },
+      "fr": {
+        "title": "Les régents du Nebraska approuvent une rénovation à 600 millions de dollars du Memorial Stadium",
+        "summary": "Le conseil des régents de l'Université du Nebraska a voté à 8 voix contre 0 l'approbation d'une rénovation de 600 millions de dollars du Memorial Stadium, vieux de 103 ans, baptisée « Big Red Rebuild ». Le financement combine environ 250 millions de dollars de dons philanthropiques et 350 millions de dollars d'obligations privées, avec un achèvement visé avant la saison 2028."
+      }
+    }
+  },
+  {
+    "id": "florida-swamp-1-45b-renovation-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "biz"
+    ],
+    "published_at": "2026-06-11T00:00:00Z",
+    "source_name": "Associated Press",
+    "source_url": "https://sportsvenuebusiness.com/2026/06/12/go-ahead-for-1-45bn-uni-of-florida-stadium-renovation/",
+    "i18n": {
+      "en": {
+        "title": "Florida Unveils $1.45 Billion Renovation Plan for \"The Swamp\"",
+        "summary": "The University of Florida Athletic Association released renderings and costs for a $1.45 billion renovation of Ben Hill Griffin Stadium, more than triple its original 2023 estimate of $400 million. Athletic director Scott Stricklin framed the stadium as a major revenue driver, and construction is expected to run from after the 2026 season through the 2030 offseason."
+      },
+      "ja": {
+        "title": "フロリダ大、本拠地スタジアムに14.5億ドルの改修計画を発表",
+        "summary": "フロリダ大学athletic協会は、ベン・ヒル・グリフィン・スタジアム(通称「ザ・スワンプ」)の改修に14.5億ドルを投じる計画の図面と費用を公表した。これは2023年当初見積もりの4億ドルから3倍以上に膨らんだ額で、athletic部長のスコット・ストリックリン氏はスタジアムを収益の柱と位置付け、工事は2026年シーズン終了後から2030年オフシーズンまで続く見通し。"
+      },
+      "es": {
+        "title": "Florida presenta un plan de renovación de $1,450 millones para \"The Swamp\"",
+        "summary": "La Asociación Atlética de la Universidad de Florida dio a conocer los diseños y el costo de una renovación de $1,450 millones para el Ben Hill Griffin Stadium, más del triple de su estimación original de $400 millones en 2023. El director atlético Scott Stricklin describió el estadio como un importante motor de ingresos, y la construcción se extendería desde después de la temporada 2026 hasta la temporada baja de 2030."
+      },
+      "zh": {
+        "title": "佛罗里达大学公布14.5亿美元「沼泽地」体育场改造计划",
+        "summary": "佛罗里达大学体育协会公布了本·希尔·格里芬体育场(俗称「沼泽地」)改造方案的设计图和造价,总投资达14.5亿美元,是2023年最初预估4亿美元的三倍多。体育主任斯科特·斯特里克林将该体育场定位为重要收入来源,工程预计将在2026赛季结束后开工,持续至2030赛季休赛期。"
+      },
+      "fr": {
+        "title": "La Floride dévoile un plan de rénovation à 1,45 milliard de dollars pour « The Swamp »",
+        "summary": "L'association athlétique de l'Université de Floride a présenté les rendus et le coût d'une rénovation à 1,45 milliard de dollars du Ben Hill Griffin Stadium, plus du triple de l'estimation initiale de 400 millions de dollars faite en 2023. Le directeur sportif Scott Stricklin présente le stade comme un important moteur de revenus, les travaux devant s'étendre de la fin de la saison 2026 à l'intersaison 2030."
+      }
+    }
+  },
+  {
+    "id": "michigan-state-for-sparta-1b-initiative-2025",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "biz"
+    ],
+    "published_at": "2025-12-02T00:00:00Z",
+    "source_name": "Associated Press",
+    "source_url": "https://www.wilx.com/2025/12/02/msu-announces-1b-initiative-with-eyes-upgrades-spartan-stadium-breslin",
+    "i18n": {
+      "en": {
+        "title": "Michigan State Launches $1 Billion \"FOR SPARTA\" Athletics Facilities Campaign",
+        "summary": "Michigan State University announced a $1 billion fundraising initiative called \"FOR SPARTA\" aimed at modernizing Spartan Stadium, the Breslin Center and other athletic facilities. The university said roughly $250 million had already been raised toward the goal as part of a broader capital campaign running through 2032."
+      },
+      "ja": {
+        "title": "ミシガン州立大、施設整備に10億ドル規模の「フォー・スパルタ」構想を発表",
+        "summary": "ミシガン州立大学は、スパルタン・スタジアムやブレスリン・センターなど競技施設の改修を目的とした10億ドル規模の資金調達構想「フォー・スパルタ」を発表した。大学側によると、2032年まで続く大規模な募金キャンペーンの一環として、目標額のうち既に約2億5000万ドルを集めているという。"
+      },
+      "es": {
+        "title": "Michigan State lanza la campaña \"FOR SPARTA\" de $1,000 millones para instalaciones deportivas",
+        "summary": "La Universidad Estatal de Michigan anunció una iniciativa de recaudación de fondos de $1,000 millones llamada \"FOR SPARTA\", destinada a modernizar el Spartan Stadium, el Breslin Center y otras instalaciones deportivas. La universidad indicó que ya se habían recaudado unos $250 millones hacia la meta, como parte de una campaña de capital más amplia que se extiende hasta 2032."
+      },
+      "zh": {
+        "title": "密歇根州立大学启动10亿美元「FOR SPARTA」体育设施筹款计划",
+        "summary": "密歇根州立大学宣布启动名为「FOR SPARTA」的10亿美元筹款计划,旨在对斯巴达人体育场、布雷斯林中心等体育设施进行现代化改造。校方表示,作为持续至2032年的更大规模资本筹款活动的一部分,目前已为该目标筹集约2.5亿美元。"
+      },
+      "fr": {
+        "title": "Michigan State lance la campagne « FOR SPARTA » de 1 milliard de dollars pour ses installations sportives",
+        "summary": "L'université d'État du Michigan a annoncé une initiative de collecte de fonds d'un milliard de dollars baptisée « FOR SPARTA », destinée à moderniser le Spartan Stadium, le Breslin Center et d'autres installations sportives. L'université indique avoir déjà réuni environ 250 millions de dollars vers cet objectif, dans le cadre d'une campagne de financement plus large courant jusqu'en 2032."
+      }
+    }
+  },
+  {
+    "id": "houston-dynamo-dude-wipes-jersey-sponsor-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-07-21T00:00:00Z",
+    "source_name": "Houston Dynamo FC",
+    "source_url": "https://www.houstondynamofc.com/news/houston-dynamo-fc-announces-dude-wipes-as-club-s-first-ever-official-back-of-jersey-partner",
+    "i18n": {
+      "en": {
+        "title": "Houston Dynamo Name DUDE Wipes as Club's First-Ever Back-of-Jersey Sponsor",
+        "summary": "Houston Dynamo FC announced a new multi-year partnership naming personal-care brand DUDE Wipes as the club's first-ever Official Back of Jersey Partner. The branding was set to debut during the club's August 1 road match against Sporting Kansas City."
+      },
+      "ja": {
+        "title": "ヒューストン・ダイナモ、DUDEワイプスとクラブ史上初のバック・オブ・ジャージー契約",
+        "summary": "MLSのヒューストン・ダイナモFCは、パーソナルケア用品ブランド「DUDEワイプス」とクラブ史上初となる「オフィシャル・バック・オブ・ジャージー・パートナー」契約を結んだと発表した。ロゴは8月1日のスポルティング・カンザスシティ戦(アウェー)から着用される予定。"
+      },
+      "es": {
+        "title": "Houston Dynamo nombra a DUDE Wipes como su primer patrocinador de la parte trasera de la camiseta",
+        "summary": "El Houston Dynamo FC anunció una nueva asociación de varios años que convierte a la marca de cuidado personal DUDE Wipes en el primer Socio Oficial de la Espalda de la Camiseta en la historia del club. El logotipo debutaría en el partido de visitante del 1 de agosto ante Sporting Kansas City."
+      },
+      "zh": {
+        "title": "休斯顿迪纳摩官宣DUDE Wipes为队史首位球衣背部赞助商",
+        "summary": "美国职业足球大联盟(MLS)球队休斯顿迪纳摩宣布与个人护理品牌DUDE Wipes达成多年合作,后者成为该俱乐部历史上首位「官方球衣背部合作伙伴」。该品牌标识计划在8月1日客场对阵堪萨斯城体育会的比赛中首次亮相。"
+      },
+      "fr": {
+        "title": "Houston Dynamo nomme DUDE Wipes premier sponsor du dos du maillot de son histoire",
+        "summary": "Le Houston Dynamo FC a annoncé un nouveau partenariat pluriannuel faisant de la marque de soins personnels DUDE Wipes le premier partenaire officiel du dos du maillot dans l'histoire du club. Le logo devait faire ses débuts lors du match à l'extérieur du 1er août contre le Sporting Kansas City."
+      }
+    }
+  },
+  {
+    "id": "inter-miami-nu-stadium-naming-rights-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-03-04T00:00:00Z",
+    "source_name": "Associated Press",
+    "source_url": "https://www.wlrn.org/sports/2026-03-04/inter-miami-signs-multiyear-naming-rights-deal-with-nu-for-new-stadium",
+    "i18n": {
+      "en": {
+        "title": "Inter Miami's New Stadium to Be Named \"Nu Stadium\" Under Deal with Brazilian Fintech",
+        "summary": "Inter Miami signed a multiyear naming-rights agreement with Brazilian digital bank Nu for its new 26,700-seat venue, which will be called Nu Stadium. The deal also gives Nu the club's lower back-of-shirt sponsorship space and branding inside a premium hospitality lounge, with financial terms undisclosed."
+      },
+      "ja": {
+        "title": "インテル・マイアミの新スタジアム、ブラジルのフィンテック企業「Nu」が命名権取得",
+        "summary": "MLSのインテル・マイアミは、収容人数26,700人の新スタジアムについて、ブラジルのデジタル銀行「Nu」と複数年の命名権契約を結び、「Nuスタジアム」と呼ばれることになると発表した。契約にはユニフォーム背面下部の広告スペースや、プレミアムラウンジ内のブランディングも含まれるが、契約金額は非公表。"
+      },
+      "es": {
+        "title": "El nuevo estadio del Inter Miami se llamará \"Nu Stadium\" tras un acuerdo con la fintech brasileña",
+        "summary": "El Inter Miami firmó un acuerdo de derechos de denominación de varios años con el banco digital brasileño Nu para su nuevo estadio de 26,700 asientos, que se llamará Nu Stadium. El acuerdo también otorga a Nu el espacio publicitario inferior en la parte trasera de la camiseta del club y presencia de marca dentro de una sala VIP, sin que se revelaran los términos financieros."
+      },
+      "zh": {
+        "title": "迈阿密国际新球场将命名为「Nu Stadium」 与巴西金融科技公司签约",
+        "summary": "迈阿密国际足球俱乐部与巴西数字银行Nu签订多年冠名权协议,其可容纳26700人的新球场将被命名为「Nu Stadium」。该协议还包括球衣背部下方广告位及高端贵宾休息室内的品牌露出,具体金额未披露。"
+      },
+      "fr": {
+        "title": "Le nouveau stade de l'Inter Miami s'appellera « Nu Stadium » après un accord avec la fintech brésilienne",
+        "summary": "L'Inter Miami a signé un accord pluriannuel de naming avec la banque numérique brésilienne Nu pour son nouveau stade de 26 700 places, qui portera le nom de Nu Stadium. L'accord accorde également à Nu l'espace publicitaire bas du dos du maillot ainsi qu'une présence de marque dans un salon VIP, sans que les montants aient été révélés."
+      }
+    }
+  },
+  {
+    "id": "inter-miami-lowes-sleeve-sponsor-upgrade-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-01-16T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.intermiamicf.com/news/inter-miami-cf-and-lowe-s-renew-partnership-as-lowe-s-becomes-a-main-partner-official-jersey-sleeve-partner-founding-partner-of-miami-freedom-park",
+    "i18n": {
+      "en": {
+        "title": "Inter Miami Elevates Lowe's to Main Partner in Richest MLS Sleeve Deal",
+        "summary": "Inter Miami renewed and expanded its partnership with Lowe's, elevating the home-improvement retailer to Main Partner and Official Jersey Sleeve Partner. Reports described it as the richest and longest sleeve sponsorship in MLS history, with Lowe's also becoming a Founding Partner of the club's new Miami Freedom Park stadium district."
+      },
+      "ja": {
+        "title": "インテル・マイアミ、ロウズを「メインパートナー」に昇格 MLS史上最高額のスリーブ契約",
+        "summary": "インテル・マイアミはホームセンター大手ロウズとの提携を更新・拡大し、同社を「メインパートナー」および「オフィシャル・ジャージー・スリーブ・パートナー」に昇格させた。報道では年間・総額ともにMLS史上最高額かつ最長のスリーブ契約とされ、ロウズは新スタジアム地区「マイアミ・フリーダム・パーク」の創設パートナーにもなる。"
+      },
+      "es": {
+        "title": "Inter Miami asciende a Lowe's a Socio Principal en el acuerdo de manga más lucrativo de la MLS",
+        "summary": "Inter Miami renovó y amplió su asociación con Lowe's, elevando a la cadena de mejoras para el hogar a Socio Principal y Socio Oficial de la Manga de la Camiseta. Los reportes lo describieron como el acuerdo de manga más lucrativo y de mayor duración en la historia de la MLS, y Lowe's también se convirtió en Socio Fundador del nuevo distrito de estadio Miami Freedom Park del club."
+      },
+      "zh": {
+        "title": "迈阿密国际将劳氏升级为「主要合作伙伴」 MLS史上最贵球衣袖赞助协议",
+        "summary": "迈阿密国际续签并扩大了与家居建材巨头劳氏(Lowe's)的合作,将其升级为「主要合作伙伴」及「官方球衣袖赞助商」。据报道,这是美国职业足球大联盟(MLS)历史上年值与总值均最高、期限最长的球衣袖赞助协议,劳氏还成为俱乐部新球场园区「迈阿密自由公园」的创始合作伙伴。"
+      },
+      "fr": {
+        "title": "L'Inter Miami promeut Lowe's au rang de partenaire principal dans l'accord de manche le plus riche de la MLS",
+        "summary": "L'Inter Miami a renouvelé et élargi son partenariat avec Lowe's, élevant le détaillant de bricolage au rang de Partenaire Principal et de Partenaire Officiel de la Manche du Maillot. Selon la presse, il s'agit de l'accord de sponsoring de manche le plus lucratif et le plus long de l'histoire de la MLS, Lowe's devenant également Partenaire Fondateur du nouveau quartier du stade Miami Freedom Park."
+      }
+    }
+  },
+  {
+    "id": "japan-post-asian-games-2026-partnership",
+    "sport": "olympics",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-06-30T00:00:00Z",
+    "source_name": "Japan Post Co.",
+    "source_url": "https://files.japanpost.jp/assets/34d9d11432734cfaa759e78fe395b688/7f46612011f54a5889e661988142bf31/20260630_01.pdf",
+    "i18n": {
+      "en": {
+        "title": "Japan Post Signs On as Tier-4 Supplier for Aichi-Nagoya Asian Games",
+        "summary": "Japan Post Co. announced it has signed a Tier-4 official supplier partnership with the organizing committee of the 20th Asian Games and 5th Asian Para Games, covering the postal services category through December 31, 2026. The Aichi-Nagoya Asian Games run September 19 to October 4, with the Para Games following October 18-24."
+      },
+      "ja": {
+        "title": "日本郵政、愛知・名古屋アジア大会のTier4オフィシャルサプライヤーに",
+        "summary": "日本郵政株式会社は、第20回アジア競技大会及び第5回アジアパラ競技大会の組織委員会とTier4のオフィシャルサプライヤー契約を締結したと発表した。協賛カテゴリーは郵便分野で、契約期間は2026年12月31日まで。アジア競技大会は9月19日から10月4日、アジアパラ競技大会は10月18日から24日まで愛知・名古屋で開催される。"
+      },
+      "es": {
+        "title": "Japan Post firma como proveedor oficial Tier-4 de los Juegos Asiáticos de Aichi-Nagoya",
+        "summary": "Japan Post Co. anunció que firmó una asociación como proveedor oficial de Nivel 4 con el comité organizador de los XX Juegos Asiáticos y los V Juegos Asiáticos Paralímpicos, en la categoría de servicios postales, vigente hasta el 31 de diciembre de 2026. Los Juegos Asiáticos de Aichi-Nagoya se celebran del 19 de septiembre al 4 de octubre, y los Juegos Parasiáticos del 18 al 24 de octubre."
+      },
+      "zh": {
+        "title": "日本邮政签约成为爱知·名古屋亚运会四级官方供应商",
+        "summary": "日本邮政株式会社宣布与第20届亚洲运动会及第5届亚洲残疾人运动会组委会签订第四级官方供应商合作协议,赞助类别为邮政服务,合同有效期至2026年12月31日。爱知·名古屋亚运会将于9月19日至10月4日举行,亚残运会则定于10月18日至24日举行。"
+      },
+      "fr": {
+        "title": "Japan Post devient fournisseur officiel de rang 4 des Jeux asiatiques d'Aichi-Nagoya",
+        "summary": "Japan Post Co. a annoncé avoir signé un partenariat de fournisseur officiel de rang 4 avec le comité d'organisation des 20es Jeux asiatiques et des 5es Jeux asiatiques para, dans la catégorie des services postaux, valable jusqu'au 31 décembre 2026. Les Jeux asiatiques d'Aichi-Nagoya se déroulent du 19 septembre au 4 octobre, suivis des Jeux para du 18 au 24 octobre."
+      }
+    }
   }
 ]
