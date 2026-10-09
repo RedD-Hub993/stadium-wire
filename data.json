@@ -7191,5 +7191,240 @@
         "summary": "La J.League a approuvé ses résultats financiers de l'exercice 2025, avec des revenus ordinaires totaux d'environ 34,6 milliards de yens, en hausse d'environ 2,7 milliards par rapport à l'année précédente. Les revenus de sponsoring ont fortement progressé, passant d'environ 5,8 à 7,1 milliards de yens, tandis que les droits de diffusion sont restés la plus grande catégorie de revenus, avec environ 22,2 milliards de yens."
       }
     }
+  },
+  {
+    "id": "liverpool-turkish-airlines-shirt-sponsor-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-09-08T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/sponsorship/",
+    "i18n": {
+      "en": {
+        "title": "Liverpool Set to Replace Standard Chartered With Turkish Airlines as Front-of-Shirt Sponsor",
+        "summary": "Liverpool is reported to be ending its long-running front-of-shirt partnership with Standard Chartered, which has backed the club since 2010, in favor of a new deal with Turkish Airlines valued at around £50 million per season. The switch would mark one of the largest shirt-sponsorship changes in the Premier League."
+      },
+      "ja": {
+        "title": "リバプール、ユニフォーム胸スポンサーをスタンダードチャータードからターキッシュ エアラインズへ変更の報道",
+        "summary": "リバプールは2010年から胸スポンサーを務めてきたスタンダードチャータードとの契約を終了し、年間約5,000万ポンド規模とされるターキッシュ エアラインズとの新契約に切り替えると報じられている。実現すればプレミアリーグ屈指の大型スポンサー交代となる。"
+      },
+      "es": {
+        "title": "Liverpool reemplazaría a Standard Chartered por Turkish Airlines como patrocinador principal de camiseta",
+        "summary": "Según reportes, Liverpool pondría fin a su larga alianza de patrocinio frontal con Standard Chartered, que respalda al club desde 2010, a favor de un nuevo acuerdo con Turkish Airlines valorado en unos 50 millones de libras por temporada. El cambio sería uno de los mayores recambios de patrocinio de camiseta en la Premier League."
+      },
+      "zh": {
+        "title": "报道称利物浦将把球衣胸前赞助商由渣打银行换为土耳其航空",
+        "summary": "据报道，利物浦将结束自2010年起与渣打银行长期合作的球衣胸前赞助关系，转而与土耳其航空签订据称每季约5000万英镑的新合约。若成真，这将是英超联赛规模最大的球衣赞助更替之一。"
+      },
+      "fr": {
+        "title": "Liverpool remplacerait Standard Chartered par Turkish Airlines comme sponsor maillot principal",
+        "summary": "Selon des informations, Liverpool mettrait fin à son long partenariat de sponsor maillot principal avec Standard Chartered, présent depuis 2010, au profit d'un nouvel accord avec Turkish Airlines évalué à environ 50 millions de livres par saison. Ce changement serait l'un des plus importants revirements de sponsoring maillot en Premier League."
+      }
+    }
+  },
+  {
+    "id": "kalshi-us-open-prediction-market-partner-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-08-30T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/sponsorship/us-open-adds-kalshi-as-new-commercial-partner-amid-ny-lawsuit/",
+    "i18n": {
+      "en": {
+        "title": "USTA Names Kalshi Official Prediction Market Partner of the US Open",
+        "summary": "The USTA struck a multi-year deal making Kalshi the official prediction market partner of the US Open, giving the platform signage at the Billie Jean King National Tennis Center and exclusive fan activations. The surprise tie-up came even as New York regulators pursue a lawsuit against Kalshi over its sports-related contracts."
+      },
+      "ja": {
+        "title": "全米テニス協会、カルシィ(Kalshi)を全米オープン公式予測市場パートナーに認定",
+        "summary": "全米テニス協会(USTA)は、予測市場プラットフォーム「カルシィ」と複数年契約を結び、全米オープンの公式予測市場パートナーに認定した。ビリー・ジーン・キング・ナショナル・テニスセンターでの看板掲出やファン向け特別体験を提供する一方、ニューヨーク州当局は同社のスポーツ関連契約を巡り訴訟を進めている。"
+      },
+      "es": {
+        "title": "La USTA nombra a Kalshi socio oficial de mercado de predicciones del US Open",
+        "summary": "La USTA firmó un acuerdo multianual que convierte a Kalshi en el socio oficial de mercado de predicciones del US Open, con publicidad en el Billie Jean King National Tennis Center y activaciones exclusivas para aficionados. El inesperado acuerdo llega mientras reguladores de Nueva York mantienen una demanda contra Kalshi por sus contratos relacionados con el deporte."
+      },
+      "zh": {
+        "title": "美国网球协会任命Kalshi为美网官方预测市场合作伙伴",
+        "summary": "美国网球协会(USTA)与预测市场平台Kalshi签署多年协议，任命其为美国网球公开赛官方预测市场合作伙伴，可在比利·简·金国家网球中心展示广告并举办专属粉丝活动。这一意外合作达成之际，纽约州监管机构仍在就该公司涉及体育的合约提起诉讼。"
+      },
+      "fr": {
+        "title": "L'USTA nomme Kalshi partenaire officiel du marché de prédiction de l'US Open",
+        "summary": "L'USTA a conclu un accord pluriannuel faisant de Kalshi le partenaire officiel du marché de prédiction de l'US Open, avec une signalétique au Billie Jean King National Tennis Center et des activations exclusives pour les fans. Cet accord surprise survient alors que les régulateurs de New York poursuivent Kalshi en justice au sujet de ses contrats liés au sport."
+      }
+    }
+  },
+  {
+    "id": "tmrw-sports-tgl-funding-round-1-billion-valuation-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-09-10T00:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/?p=249186",
+    "i18n": {
+      "en": {
+        "title": "TGL Parent TMRW Sports Nears Funding Round Valuing Business Above $1 Billion",
+        "summary": "TMRW Sports, the company behind Tiger Woods and Rory McIlroy's indoor golf league TGL and the upcoming women's league WTGL, is finalizing a new funding round that would value the business above $1 billion, roughly double its 2024 Series A valuation. Dynasty Equity, a co-lead of that earlier round, is reported to be participating again."
+      },
+      "ja": {
+        "title": "TGL運営会社TMRWスポーツ、資金調達で評価額10億ドル超えへ",
+        "summary": "タイガー・ウッズとロリー・マキロイが手がける室内ゴルフリーグ「TGL」および女子版「WTGL」を運営するTMRWスポーツが、新たな資金調達ラウンドを最終調整しており、評価額は2024年のシリーズAから約2倍の10億ドル超になるとされる。前回の共同リード投資家だったダイナスティ・エクイティも再び参加するとみられている。"
+      },
+      "es": {
+        "title": "TMRW Sports, matriz de TGL, se acerca a una ronda de financiamiento que valoraría el negocio en más de $1,000 millones",
+        "summary": "TMRW Sports, la empresa detrás de la liga de golf bajo techo TGL de Tiger Woods y Rory McIlroy y la próxima liga femenina WTGL, está finalizando una nueva ronda de financiamiento que valoraría el negocio en más de 1,000 millones de dólares, aproximadamente el doble de su valoración de la Serie A de 2024. Se reporta que Dynasty Equity, colíder de esa ronda anterior, participará de nuevo."
+      },
+      "zh": {
+        "title": "TGL母公司TMRW体育新一轮融资估值逼近10亿美元",
+        "summary": "TMRW体育是老虎伍兹与罗里·麦克罗伊旗下室内高尔夫联赛TGL及即将推出的女子联赛WTGL的运营方，该公司正敲定一轮新融资，估值将超过10亿美元，约为其2024年A轮估值的两倍。据报道，曾联合领投上一轮融资的Dynasty Equity将再次参与。"
+      },
+      "fr": {
+        "title": "TMRW Sports, maison mère de TGL, proche d'un tour de financement valorisant l'entreprise à plus d'1 milliard de dollars",
+        "summary": "TMRW Sports, la société derrière la ligue de golf en intérieur TGL de Tiger Woods et Rory McIlroy ainsi que la future ligue féminine WTGL, finalise un nouveau tour de financement qui valoriserait l'entreprise à plus d'un milliard de dollars, soit environ le double de sa valorisation en série A de 2024. Dynasty Equity, co-chef de file de ce précédent tour, participerait à nouveau."
+      }
+    }
+  },
+  {
+    "id": "jleague-pokemon-60-club-partnership-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "fan",
+      "sponsor"
+    ],
+    "published_at": "2026-07-06T09:00:00Z",
+    "source_name": "J.League",
+    "source_url": "https://www.jleague.jp/news/article/34446/",
+    "i18n": {
+      "en": {
+        "title": "J.League Pairs All 60 Clubs With Pokemon Characters in 'Evolution' Campaign",
+        "summary": "The J.League unveiled a tie-up with Pokemon, themed 'EVOLUTION!', that assigns each of its 60 clubs across J1, J2 and J3 its own club-partner Pokemon timed to the league's August restructuring and Pokemon's 30th anniversary. The campaign includes themed eco bags, original merchandise, photo spots and Pokemon GO events at participating home matches."
+      },
+      "ja": {
+        "title": "Jリーグ、全60クラブにポケモンを配置する「EVOLUTION!」企画を発表",
+        "summary": "Jリーグは、ポケモンとのタイアップ企画「EVOLUTION!~Jリーグは、進化する。~」を発表し、J1・J2・J3の全60クラブそれぞれにクラブパートナーポケモンを設定した。8月のリーグ新体制移行とポケモン30周年を絡めた企画で、対象ホームゲームではテーマ入りエコバッグやオリジナルグッズ、フォトスポット、『ポケモンGO』イベントなどを展開する。"
+      },
+      "es": {
+        "title": "La J.League asigna un Pokemon a cada uno de sus 60 clubes en la campaña 'Evolution'",
+        "summary": "La J.League presentó una colaboración con Pokemon, bajo el lema 'EVOLUTION!', que asigna a cada uno de sus 60 clubes de J1, J2 y J3 su propio Pokemon asociado, coincidiendo con la reestructuración de la liga en agosto y el 30 aniversario de Pokemon. La campaña incluye bolsas ecológicas temáticas, mercancía original, espacios para fotos y eventos de Pokemon GO en los partidos locales participantes."
+      },
+      "zh": {
+        "title": "J联赛携手宝可梦 为全部60支球队指定专属伙伴宝可梦",
+        "summary": "J联赛公布与宝可梦的合作企划“EVOLUTION!”，为J1、J2、J3全部60支俱乐部各指定一只专属“俱乐部伙伴宝可梦”，呼应联赛8月的体制改革与宝可梦30周年。活动期间的主场比赛将推出主题环保袋、原创周边、拍照打卡点及《宝可梦GO》联动活动。"
+      },
+      "fr": {
+        "title": "La J.League associe un Pokemon à chacun de ses 60 clubs dans la campagne 'Evolution'",
+        "summary": "La J.League a dévoilé un partenariat avec Pokemon, sous le thème 'EVOLUTION!', attribuant à chacun de ses 60 clubs de J1, J2 et J3 son propre Pokemon partenaire, en lien avec la restructuration de la ligue en août et le 30e anniversaire de Pokemon. La campagne comprend des sacs écologiques à thème, des produits dérivés originaux, des photocalls et des événements Pokemon GO lors des matchs à domicile concernés."
+      }
+    }
+  },
+  {
+    "id": "unrivaled-series-c-650-million-valuation-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-08-26T00:00:00Z",
+    "source_name": "Associated Press",
+    "source_url": "https://www.local10.com/sports/2026/08/26/unrivaled-womens-basketball-league-is-valued-at-650-million-after-new-funding-round/",
+    "i18n": {
+      "en": {
+        "title": "Unrivaled Women's Basketball League Valuation Doubles to $650M After Series C",
+        "summary": "The 3-on-3 women's basketball league Unrivaled raised an oversubscribed Series C round led by Ten Pillars Sports Fund, roughly doubling its valuation to $650 million from $340 million a year earlier. The round cleared past its initial $100 million target, with the portion of the company owned by players now valued near $200 million."
+      },
+      "ja": {
+        "title": "女子3対3バスケリーグ「アンライバルド」、評価額が6.5億ドルに倍増",
+        "summary": "女子3対3バスケットボールリーグ「アンライバルド」は、テン・ピラーズ・スポーツ・ファンドが主導するシリーズC資金調達ラウンドを目標超えで実施し、評価額を前年の3.4億ドルから約2倍の6.5億ドルに引き上げた。選手が保有する株式部分の評価額も約2億ドルに達している。"
+      },
+      "es": {
+        "title": "La valoración de la liga femenina de baloncesto Unrivaled se duplica a $650M tras su Serie C",
+        "summary": "La liga de baloncesto femenino 3 contra 3 Unrivaled cerró una ronda Serie C sobresuscrita liderada por Ten Pillars Sports Fund, duplicando aproximadamente su valoración a 650 millones de dólares desde los 340 millones del año anterior. La ronda superó su objetivo inicial de 100 millones de dólares, y la porción de la empresa en manos de las jugadoras ya se valora en cerca de 200 millones de dólares."
+      },
+      "zh": {
+        "title": "女子三人篮球联赛Unrivaled完成C轮融资 估值翻倍至6.5亿美元",
+        "summary": "女子三对三篮球联赛Unrivaled完成由Ten Pillars Sports Fund领投的超额认购C轮融资，估值较一年前的3.4亿美元翻倍至6.5亿美元。此轮融资超过最初1亿美元的目标，球员持有的公司股份部分估值已接近2亿美元。"
+      },
+      "fr": {
+        "title": "La valorisation de la ligue de basket-ball féminin Unrivaled double à 650 M$ après sa série C",
+        "summary": "La ligue de basket-ball féminin à 3 contre 3 Unrivaled a bouclé un tour de série C sursouscrit mené par Ten Pillars Sports Fund, doublant environ sa valorisation à 650 millions de dollars contre 340 millions un an plus tôt. Le tour a dépassé son objectif initial de 100 millions de dollars, la part de l'entreprise détenue par les joueuses étant désormais évaluée à près de 200 millions de dollars."
+      }
+    }
+  },
+  {
+    "id": "bleague-alpen-partner-renewal-2026",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-18T00:00:00Z",
+    "source_name": "Alpen",
+    "source_url": "https://www.bleague.jp/",
+    "i18n": {
+      "en": {
+        "title": "Sporting Goods Retailer Alpen Renews B.League Partnership for 2026-27 Season",
+        "summary": "Sporting goods chain Alpen announced it will continue as a league partner of Japan's B.League for the 2026-27 season, which opened September 22, and will also keep club-level sponsorship deals with Levanga Hokkaido, Tokyo Sun Rockers, Kawasaki Brave Thunders, Nagoya Diamond Dolphins and Ryukyu Golden Kings. Alpen said it will run member discount campaigns tied to the new season."
+      },
+      "ja": {
+        "title": "スポーツ用品のアルペン、B.LEAGUEパートナーを2026-27シーズンも継続",
+        "summary": "スポーツ用品販売のアルペンは、9月22日に開幕した「B.LEAGUE 2026-27シーズン」でもリーグパートナーを継続すると発表した。レバンガ北海道、東京サンロッカーズ、川崎ブレイブサンダース、名古屋ダイヤモンドドルフィンズ、琉球ゴールデンキングスとのクラブスポンサーシップも継続し、新シーズンに合わせた会員限定の割引キャンペーンを実施する。"
+      },
+      "es": {
+        "title": "La cadena deportiva Alpen renueva su patrocinio de la B.League para la temporada 2026-27",
+        "summary": "La cadena de artículos deportivos Alpen anunció que continuará como socio de la liga B.League de Japón en la temporada 2026-27, que comenzó el 22 de septiembre, y que mantendrá además sus acuerdos de patrocinio con los clubes Levanga Hokkaido, Tokyo Sun Rockers, Kawasaki Brave Thunders, Nagoya Diamond Dolphins y Ryukyu Golden Kings. Alpen dijo que realizará campañas de descuento para socios vinculadas a la nueva temporada."
+      },
+      "zh": {
+        "title": "体育用品连锁Alpen续签B联赛2026-27赛季合作伙伴协议",
+        "summary": "体育用品连锁店Alpen宣布将在9月22日开幕的2026-27赛季继续担任日本B联赛的联赛合作伙伴，并将延续与北海道列万加、东京太阳火箭、川崎海盗雷霆、名古屋钻石海豚及琉球黄金国王等俱乐部的赞助协议。Alpen表示将结合新赛季推出会员专属折扣活动。"
+      },
+      "fr": {
+        "title": "L'enseigne d'articles de sport Alpen renouvelle son partenariat avec la B.League pour la saison 2026-27",
+        "summary": "La chaîne d'articles de sport Alpen a annoncé qu'elle resterait partenaire de la ligue B.League japonaise pour la saison 2026-27, lancée le 22 septembre, et qu'elle conserverait ses accords de sponsoring avec les clubs Levanga Hokkaido, Tokyo Sun Rockers, Kawasaki Brave Thunders, Nagoya Diamond Dolphins et Ryukyu Golden Kings. Alpen a précisé qu'elle mènerait des campagnes de réduction pour ses membres liées à la nouvelle saison."
+      }
+    }
+  },
+  {
+    "id": "wnba-dallas-wings-208-million-valuation-stake-sale-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-13T00:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/article/wnba-dallas-wings-200-million-valuation/",
+    "i18n": {
+      "en": {
+        "title": "Dallas Wings Minority Stake Sale Values WNBA Club at $208 Million",
+        "summary": "Dallas Wings CEO Greg Bibb sold a roughly 1% stake in the team to investors Jed Kaplan and Randy Eisenman for about $2.08 million, implying a franchise valuation of $208 million. The sale is the latest sign of surging valuations for WNBA franchises amid the league's broader growth."
+      },
+      "ja": {
+        "title": "ダラス・ウィングス、1％株式売却で球団評価額2.08億ドルに",
+        "summary": "WNBAダラス・ウィングスのグレッグ・ビブCEOは、球団の約1％の株式をジェド・カプラン氏とランディ・アイゼンマン氏に約208万ドルで売却し、球団評価額は2.08億ドルとなった。WNBA全体の評価額上昇を示す最新の事例となっている。"
+      },
+      "es": {
+        "title": "La venta de una participación minoritaria valora a Dallas Wings de la WNBA en $208 millones",
+        "summary": "El director ejecutivo de Dallas Wings, Greg Bibb, vendió aproximadamente un 1% de la participación del equipo a los inversionistas Jed Kaplan y Randy Eisenman por unos 2.08 millones de dólares, lo que implica una valoración de la franquicia de 208 millones de dólares. La venta es la última señal del fuerte aumento en las valoraciones de las franquicias de la WNBA en medio del crecimiento de la liga."
+      },
+      "zh": {
+        "title": "达拉斯飞翼股权出售将WNBA球队估值定为2.08亿美元",
+        "summary": "达拉斯飞翼首席执行官格雷格·毕布将球队约1%的股份以约208万美元出售给投资人杰德·卡普兰和兰迪·艾森曼，由此推算球队估值为2.08亿美元。此次交易是WNBA联赛整体增长背景下球队估值飙升的最新例证。"
+      },
+      "fr": {
+        "title": "La vente d'une participation minoritaire valorise les Dallas Wings de la WNBA à 208 millions de dollars",
+        "summary": "Le directeur général des Dallas Wings, Greg Bibb, a vendu environ 1% des parts de l'équipe aux investisseurs Jed Kaplan et Randy Eisenman pour environ 2,08 millions de dollars, ce qui implique une valorisation de la franchise à 208 millions de dollars. Cette vente est le dernier signe de la forte hausse des valorisations des franchises de la WNBA dans un contexte de croissance de la ligue."
+      }
+    }
   }
 ]
