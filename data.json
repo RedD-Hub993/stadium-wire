@@ -6626,5 +6626,274 @@
         "summary": "L'entreprise d'infrastructure de données NetApp, partenaire officiel d'infrastructure de données intelligente de la NFL, a annoncé qu'elle sera le partenaire présentateur du match NFL de Madrid 2026 entre les Falcons et les Bengals au Bernabéu en novembre. L'entreprise occupe le même rôle de partenaire présentateur pour les trois matchs de la NFL à Londres cette saison et fournit déjà le stockage et la sécurité des vidéos de match à l'échelle de la ligue."
       }
     }
+  },
+  {
+    "id": "wnba-semifinals-nbc-abc-ratings-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "biz",
+      "fan"
+    ],
+    "published_at": "2026-10-07T00:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/article/wnba-semifinals-open-with-1-15m-viewers-up-10/",
+    "i18n": {
+      "en": {
+        "title": "WNBA Semifinal Openers Draw 1.15 Million Viewers Across NBC and ABC",
+        "summary": "The WNBA's two semifinal series openers on October 5 averaged a combined 1.15 million viewers, roughly 10% above the comparable games a year earlier. The Aces-Valkyries matchup on NBC and Peacock marked the network's first WNBA playoff broadcast since 2002, a milestone tied to the league's new media rights agreement, while the Dream-Liberty game aired on ABC."
+      },
+      "ja": {
+        "title": "WNBA準決勝、NBCとABCで平均115万人視聴 開幕戦",
+        "summary": "WNBAの準決勝シリーズ開幕戦2試合は10月5日に平均115万人の視聴者を記録し、前年の同時期の試合から約10%増加した。NBCとPeacockで中継されたエースズ対ヴァルキリーズの試合は、新しいメディア権契約に伴い同局が2002年以来初めて放送したWNBAプレーオフ中継となり、ドリーム対リバティの試合はABCで放送された。"
+      },
+      "es": {
+        "title": "Los partidos de apertura de las semifinales de la WNBA promedian 1.15 millones de espectadores en NBC y ABC",
+        "summary": "Los dos partidos de apertura de las semifinales de la WNBA del 5 de octubre promediaron en conjunto 1.15 millones de espectadores, un 10% más que los partidos comparables del año anterior. El enfrentamiento entre Aces y Valkyries en NBC y Peacock marcó la primera transmisión de playoffs de la WNBA de la cadena desde 2002, gracias al nuevo acuerdo de derechos mediáticos de la liga, mientras que el partido entre Dream y Liberty se emitió por ABC."
+      },
+      "zh": {
+        "title": "WNBA半决赛开局战NBC与ABC平均吸引115万观众",
+        "summary": "WNBA两场半决赛系列赛开局战于10月5日平均吸引115万观众，比去年同期比赛增长约10%。在NBC和Peacock播出的热力对远航者之战，是该台自2002年以来首次转播WNBA季后赛，这得益于联盟新的媒体版权协议；梦想队对自由人队的比赛则在ABC播出。"
+      },
+      "fr": {
+        "title": "Les matchs d'ouverture des demi-finales WNBA attirent en moyenne 1,15 million de téléspectateurs sur NBC et ABC",
+        "summary": "Les deux matchs d'ouverture des demi-finales de la WNBA du 5 octobre ont attiré en moyenne 1,15 million de téléspectateurs combinés, soit environ 10 % de plus que les matchs comparables de l'année précédente. Le match Aces-Valkyries diffusé sur NBC et Peacock a marqué la première retransmission des playoffs WNBA par la chaîne depuis 2002, grâce au nouvel accord de droits médiatiques de la ligue, tandis que le match Dream-Liberty a été diffusé sur ABC."
+      }
+    }
+  },
+  {
+    "id": "allstate-la28-founding-partner-2026",
+    "sport": "olympics",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-08-04T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/news/allstate-becomes-ninth-la28-founding-partner/",
+    "i18n": {
+      "en": {
+        "title": "Allstate Becomes Ninth Founding Partner of the LA28 Olympic and Paralympic Games",
+        "summary": "Insurer Allstate has joined the LA28 Olympic and Paralympic Games as a Founding Partner and the official home and auto insurance partner of Team USA. The deal builds on Allstate's longstanding college-sports sponsorships and includes support for NBCUniversal's broadcast coverage of the 2028 Los Angeles Games."
+      },
+      "ja": {
+        "title": "アルステイト、LA28の9番目のファウンディングパートナーに",
+        "summary": "保険会社アルステイトは、LA28オリンピック・パラリンピック競技大会のファウンディングパートナー、および米国代表チームの公式住宅・自動車保険パートナーとして加わった。今回の契約は同社が長年続けてきた大学スポーツへの協賛を土台としたもので、2028年ロサンゼルス大会に向けたNBCユニバーサルの放送カバレッジへの支援も含まれる。"
+      },
+      "es": {
+        "title": "Allstate se convierte en el noveno Socio Fundador de los Juegos LA28",
+        "summary": "La aseguradora Allstate se unió a los Juegos Olímpicos y Paralímpicos de LA28 como Socio Fundador y patrocinador oficial de seguros de hogar y auto del Equipo de EE.UU. El acuerdo se apoya en el largo historial de patrocinios universitarios de Allstate e incluye apoyo a la cobertura televisiva de NBCUniversal de los Juegos de Los Ángeles 2028."
+      },
+      "zh": {
+        "title": "好事达成为LA28第九个创始合作伙伴",
+        "summary": "保险公司好事达(Allstate)已加入LA28奥运会及残奥会，成为创始合作伙伴及美国代表队官方住房与汽车保险合作伙伴。该协议延续了好事达长期赞助大学体育的传统，并包含对NBC环球2028年洛杉矶奥运会转播报道的支持。"
+      },
+      "fr": {
+        "title": "Allstate devient le neuvième partenaire fondateur des Jeux de LA28",
+        "summary": "L'assureur Allstate a rejoint les Jeux olympiques et paralympiques de LA28 en tant que partenaire fondateur et partenaire officiel d'assurance habitation et automobile de l'équipe américaine. L'accord s'appuie sur le long engagement d'Allstate dans le sport universitaire et inclut un soutien à la couverture télévisée des Jeux de Los Angeles 2028 par NBCUniversal."
+      }
+    }
+  },
+  {
+    "id": "outfront-ny-jets-partnership-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-08-05T00:00:00Z",
+    "source_name": "Billboard Insider",
+    "source_url": "https://billboardinsider.com/outfront-and-new-york-jets-announce-exclusive-multi-year-partnership/",
+    "i18n": {
+      "en": {
+        "title": "OUTFRONT Media Signs Exclusive Multi-Year Out-of-Home Deal With the New York Jets",
+        "summary": "Outdoor advertising company OUTFRONT Media and the New York Jets agreed to an exclusive multi-year partnership extending the team's fan reach beyond MetLife Stadium. The deal links OUTFRONT's digital billboard network across the New York area to in-stadium sponsorships, letting advertisers run campaigns tied to game-day moments in transit hubs and neighborhoods where fans gather."
+      },
+      "ja": {
+        "title": "OUTFRONT Media、ニューヨーク・ジェッツと複数年の独占屋外広告契約",
+        "summary": "屋外広告大手OUTFRONT Mediaとニューヨーク・ジェッツは、メットライフ・スタジアムの外でもファンとの接点を広げる独占的な複数年パートナーシップに合意した。この契約により、ニューヨーク都市圏に広がるOUTFRONTのデジタル広告網とスタジアム内の協賛を連動させ、交通拠点やファンが集まる地域での試合当日の出来事に合わせた広告展開が可能になる。"
+      },
+      "es": {
+        "title": "OUTFRONT Media firma un acuerdo exclusivo plurianual de publicidad exterior con los New York Jets",
+        "summary": "La empresa de publicidad exterior OUTFRONT Media y los New York Jets acordaron una asociación exclusiva de varios años que amplía el alcance del equipo con los aficionados más allá del MetLife Stadium. El acuerdo conecta la red digital de OUTFRONT en el área de Nueva York con los patrocinios dentro del estadio, permitiendo campañas vinculadas a momentos del partido en estaciones de transporte y zonas donde se reúnen los aficionados."
+      },
+      "zh": {
+        "title": "OUTFRONT Media与纽约喷气机队签署独家多年户外广告协议",
+        "summary": "户外广告公司OUTFRONT Media与纽约喷气机队达成独家多年合作协议，将球队与球迷的接触范围扩展到大都会人寿体育场之外。该协议将OUTFRONT在纽约地区的数字广告网络与场内赞助相连接，使广告商能够在交通枢纽及球迷聚集区域围绕比赛日时刻展开广告投放。"
+      },
+      "fr": {
+        "title": "OUTFRONT Media signe un accord exclusif pluriannuel de publicité extérieure avec les Jets de New York",
+        "summary": "L'afficheur publicitaire OUTFRONT Media et les Jets de New York ont conclu un partenariat exclusif pluriannuel élargissant le lien de l'équipe avec ses supporters au-delà du MetLife Stadium. L'accord relie le réseau numérique d'OUTFRONT dans la région de New York aux parrainages dans le stade, permettant des campagnes liées aux moments du match dans les pôles de transport et les quartiers où se rassemblent les fans."
+      }
+    }
+  },
+  {
+    "id": "rakuten-mobile-park-miyagi-rename-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2025-12-01T00:00:00Z",
+    "source_name": "Baseball King",
+    "source_url": "https://baseballking.jp/ns/682038/",
+    "i18n": {
+      "en": {
+        "title": "Rakuten Renews Miyagi Stadium Naming Rights, Renames It 'Rakuten Mobile Saikyo Park Miyagi'",
+        "summary": "Tohoku Rakuten Golden Eagles parent Rakuten Group and Miyagi Prefecture agreed to a new three-year naming-rights contract for the team's home stadium, running from 2026 through 2028. The ballpark's nickname changed from 'Rakuten Mobile Park Miyagi' to 'Rakuten Mobile Saikyo Park Miyagi' effective January 1, aligning the venue's name with the company's 'Saikyo' mobile plan branding."
+      },
+      "ja": {
+        "title": "楽天、宮城球場の命名権を更新 「楽天モバイル 最強パーク宮城」に改称",
+        "summary": "東北楽天ゴールデンイーグルスの親会社である楽天グループと宮城県は、本拠地球場の新たな命名権契約を3年間(2026年〜2028年)で締結した。球場の愛称は1月1日付で「楽天モバイルパーク宮城」から「楽天モバイル 最強パーク宮城」へ変更され、同社の携帯プラン「最強プラン」のブランディングと連動させている。"
+      },
+      "es": {
+        "title": "Rakuten renueva los derechos de denominación del estadio de Miyagi y lo rebautiza 'Rakuten Mobile Saikyo Park Miyagi'",
+        "summary": "Rakuten Group, matriz de los Tohoku Rakuten Golden Eagles, y la prefectura de Miyagi acordaron un nuevo contrato de derechos de denominación de tres años (2026-2028) para el estadio del equipo. El apodo del estadio cambió de 'Rakuten Mobile Park Miyagi' a 'Rakuten Mobile Saikyo Park Miyagi' a partir del 1 de enero, alineando el nombre del recinto con la marca 'Saikyo' de los planes móviles de la compañía."
+      },
+      "zh": {
+        "title": "乐天更新宫城球场命名权 改名为“乐天移动 最强公园宫城”",
+        "summary": "东北乐天金鹰队母公司乐天集团与宫城县就球队主场球馆签署了新的三年期(2026年至2028年)命名权合同。球场昵称自1月1日起由“乐天移动公园宫城”改为“乐天移动 最强公园宫城”，与该公司手机“最强方案”的品牌宣传相呼应。"
+      },
+      "fr": {
+        "title": "Rakuten renouvelle les droits de dénomination du stade de Miyagi, rebaptisé « Rakuten Mobile Saikyo Park Miyagi »",
+        "summary": "Rakuten Group, maison mère des Tohoku Rakuten Golden Eagles, et la préfecture de Miyagi ont conclu un nouveau contrat de droits de dénomination de trois ans (2026-2028) pour le stade de l'équipe. Le surnom du stade est passé de « Rakuten Mobile Park Miyagi » à « Rakuten Mobile Saikyo Park Miyagi » à compter du 1er janvier, en lien avec la marque « Saikyo » des forfaits mobiles de l'entreprise."
+      }
+    }
+  },
+  {
+    "id": "invictus-gaming-shanghai-arena-2026",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "biz"
+    ],
+    "published_at": "2026-05-02T00:00:00Z",
+    "source_name": "Players",
+    "source_url": "https://players.com.ua/en/news/invictus-gaming-opens-a-20-million-esports-arena-in-shanghai/",
+    "i18n": {
+      "en": {
+        "title": "Invictus Gaming Opens Privately Funded $20 Million Esports Arena in Shanghai",
+        "summary": "League of Legends organization Invictus Gaming has opened a roughly $20 million arena in Shanghai's Putuo district, inside the Inzone Esports Industrial Park developed by club investor Zhang Haohan. The more than 10,000-square-meter venue, built with no publisher or government funding over roughly six years, also serves as a production studio for streaming partner Huya and hosted its first LPL match in May."
+      },
+      "ja": {
+        "title": "インビクタス・ゲーミング、上海に自己資金約2,000万ドルのeスポーツアリーナを開設",
+        "summary": "League of Legendsの強豪チーム、インビクタス・ゲーミングは上海の普陀区に、クラブ投資家の張浩瀚氏が開発する「インゾーン・eスポーツ産業パーク」内に約2,000万ドルを投じたアリーナを開設した。延床面積1万平方メートル超のこの施設は約6年がかりで建設され、公的資金や発行元の支援を受けずに完成し、配信パートナーの虎牙(Huya)の制作スタジオも兼ねており、5月には最初のLPL公式戦を開催した。"
+      },
+      "es": {
+        "title": "Invictus Gaming inaugura una arena de eSports de 20 millones de dólares financiada de forma privada en Shanghái",
+        "summary": "La organización de League of Legends Invictus Gaming inauguró una arena de aproximadamente 20 millones de dólares en el distrito de Putuo, en Shanghái, dentro del Inzone Esports Industrial Park desarrollado por el inversor del club, Zhang Haohan. El recinto, de más de 10,000 metros cuadrados y construido sin fondos públicos ni del editor del juego durante unos seis años, también funciona como estudio de producción para el socio de streaming Huya y acogió su primer partido de la LPL en mayo."
+      },
+      "zh": {
+        "title": "Invictus Gaming在上海开设私人投资约2000万美元的电竞场馆",
+        "summary": "英雄联盟豪门战队Invictus Gaming在上海普陀区开设了一座投资约2000万美元的场馆，位于俱乐部投资人张浩瀚打造的“因泽电竞产业园”内。该场馆建筑面积超过1万平方米，历时约六年建成，未获得任何官方或游戏发行商资金支持，同时兼作直播合作伙伴虎牙的制作基地，并于5月举办了首场LPL官方比赛。"
+      },
+      "fr": {
+        "title": "Invictus Gaming ouvre une arène d'esport de 20 millions de dollars entièrement autofinancée à Shanghai",
+        "summary": "L'organisation League of Legends Invictus Gaming a inauguré une arène d'environ 20 millions de dollars dans le district de Putuo à Shanghai, au sein de l'Inzone Esports Industrial Park développé par l'investisseur du club Zhang Haohan. Le bâtiment de plus de 10 000 mètres carrés, construit sans financement public ni de l'éditeur du jeu sur environ six ans, sert aussi de studio de production pour le partenaire de streaming Huya et a accueilli son premier match LPL en mai."
+      }
+    }
+  },
+  {
+    "id": "riot-games-vct-100-million-2026",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "biz",
+      "team"
+    ],
+    "published_at": "2025-12-17T00:00:00Z",
+    "source_name": "esports.gg",
+    "source_url": "https://esports.gg/news/valorant/riot-games-over-100-million-vct-teams-2026/",
+    "i18n": {
+      "en": {
+        "title": "Riot Games Commits Over $100 Million to VALORANT Esports Teams for 2026",
+        "summary": "Riot Games says it will again distribute more than $100 million to VALORANT Champions Tour partner teams in 2026, following a 2025 season in which payouts topped $105 million. Most of the money comes from sales of in-game digital items such as team-branded skins, and VALORANT esports head Léo Faria cautioned that 2025's total may mark a high point for some time."
+      },
+      "ja": {
+        "title": "Riot Games、2026年のVALORANT選手チームへ1億ドル超を配分へ",
+        "summary": "Riot Gamesは、2026年もVALORANT Champions Tourの参加チームに1億ドルを超える資金を配分すると発表した。これは2025年シーズンに1億500万ドル超を分配した実績に続くもので、資金の大半はチーム公式スキンなどのゲーム内デジタルアイテム販売による。VALORANTのeスポーツ責任者レオ・ファリア氏は、2025年の数字がしばらくの間、最高水準になる可能性があると述べた。"
+      },
+      "es": {
+        "title": "Riot Games destinará más de 100 millones de dólares a los equipos de VALORANT en 2026",
+        "summary": "Riot Games anunció que volverá a distribuir más de 100 millones de dólares entre los equipos socios del VALORANT Champions Tour en 2026, tras una temporada 2025 en la que los pagos superaron los 105 millones de dólares. La mayor parte de ese dinero proviene de la venta de artículos digitales del juego, como las skins de los equipos, y el responsable de esports de VALORANT, Léo Faria, advirtió que la cifra de 2025 podría ser difícil de superar durante un tiempo."
+      },
+      "zh": {
+        "title": "Riot Games将在2026年向VALORANT战队分配超过1亿美元",
+        "summary": "Riot Games宣布将在2026年继续向VALORANT冠军巡回赛(VCT)合作战队分配超过1亿美元资金，此前2025赛季的分成总额已超过1.05亿美元。这些资金大部分来自战队专属皮肤等游戏内数字道具销售，VALORANT电竞负责人Léo Faria警告称，2025年的数字可能会在短期内难以被超越。"
+      },
+      "fr": {
+        "title": "Riot Games versera plus de 100 millions de dollars aux équipes VALORANT en 2026",
+        "summary": "Riot Games a annoncé qu'il distribuera à nouveau plus de 100 millions de dollars aux équipes partenaires du VALORANT Champions Tour en 2026, après une saison 2025 où les versements ont dépassé les 105 millions de dollars. La majeure partie de cette somme provient de la vente d'objets numériques dans le jeu, comme les skins d'équipe, et le responsable de l'esport VALORANT, Léo Faria, a averti que le total de 2025 pourrait rester difficile à dépasser pendant un certain temps."
+      }
+    }
+  },
+  {
+    "id": "fedex-freight-nascar-truck-series-sponsor-2027",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-17T00:00:00Z",
+    "source_name": "NASCAR.com",
+    "source_url": "https://www.nascar.com/news-media/2026/09/17/nascar-and-fedex-freight-announce-long-term-truck-series-entitlement-partnership-starting-in-2027/",
+    "i18n": {
+      "en": {
+        "title": "NASCAR and FedEx Freight Announce Long-Term Truck Series Entitlement Deal",
+        "summary": "NASCAR and FedEx Freight unveiled a long-term agreement making the recently spun-off carrier the entitlement sponsor of the Truck Series starting in 2027, renaming it the NASCAR FedEx Freight Truck Series. FedEx Freight, now independent of FedEx Corporation, also becomes NASCAR's official freight shipping partner across the United States, Canada and Mexico, replacing outgoing sponsor Craftsman."
+      },
+      "ja": {
+        "title": "NASCARとフェデックス・フレイト、トラックシリーズの長期命名権契約を発表",
+        "summary": "NASCARとフェデックス・フレイトは、2027年から同社がトラックシリーズの命名権スポンサーとなる長期契約を発表し、大会名称は「NASCAR フェデックス・フレイト・トラックシリーズ」に変わる。フェデックス・コーポレーションから独立したばかりのフェデックス・フレイトは、米国・カナダ・メキシコにおけるNASCARの公式貨物輸送パートナーも務め、これまでの命名権スポンサーだったクラフツマンから引き継ぐ。"
+      },
+      "es": {
+        "title": "NASCAR y FedEx Freight anuncian un acuerdo de patrocinio a largo plazo para la Truck Series",
+        "summary": "NASCAR y FedEx Freight presentaron un acuerdo a largo plazo por el cual la compañía se convertirá en el patrocinador titular de la Truck Series a partir de 2027, que pasará a llamarse NASCAR FedEx Freight Truck Series. FedEx Freight, recién separada de FedEx Corporation, también se convierte en el socio oficial de transporte de carga de NASCAR en Estados Unidos, Canadá y México, sustituyendo al patrocinador saliente, Craftsman."
+      },
+      "zh": {
+        "title": "NASCAR与联邦快递货运宣布长期卡车系列冠名合作",
+        "summary": "NASCAR与联邦快递货运(FedEx Freight)公布了一项长期协议，该公司将从2027年起成为卡车系列赛的冠名赞助商，赛事名称也将改为“NASCAR联邦快递货运卡车系列赛”。刚从联邦快递集团独立出来的联邦快递货运，还将成为NASCAR在美国、加拿大和墨西哥的官方货运合作伙伴，接替此前的冠名赞助商Craftsman。"
+      },
+      "fr": {
+        "title": "NASCAR et FedEx Freight annoncent un accord de parrainage à long terme pour la Truck Series",
+        "summary": "NASCAR et FedEx Freight ont dévoilé un accord à long terme faisant de l'entreprise le sponsor titre de la Truck Series à partir de 2027, qui sera rebaptisée NASCAR FedEx Freight Truck Series. FedEx Freight, récemment scindée de FedEx Corporation, devient également le partenaire officiel de transport de marchandises de NASCAR aux États-Unis, au Canada et au Mexique, succédant à l'ancien sponsor titre Craftsman."
+      }
+    }
+  },
+  {
+    "id": "jleague-yamazaki-biscuits-levain-cup-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-06-22T00:00:00Z",
+    "source_name": "J.League",
+    "source_url": "https://www.jleague.jp/news/article/34250/",
+    "i18n": {
+      "en": {
+        "title": "J.League Extends Yamazaki Biscuits Title Sponsorship, Renames League Cup",
+        "summary": "The J.League announced it will continue its title partnership with Yamazaki Biscuits for the League Cup through the 2026/27 season, marking the company's 34th consecutive year backing the competition since its 1992 debut. The tournament is being renamed from the 'YBC Levain Cup' to the 'J.League Yamazaki Biscuits Levain Cup' with a refreshed logo starting this season."
+      },
+      "ja": {
+        "title": "Jリーグ、ヤマザキビスケットとのリーグカップ契約継続 大会名称を変更",
+        "summary": "Jリーグは2026/27シーズンもヤマザキビスケット株式会社とリーグカップ戦のタイトルパートナー契約を継続すると発表した。1992年の第1回大会から数えて34年連続の契約となり、大会名称は「JリーグYBCルヴァンカップ」から「Jリーグ ヤマザキビスケット ルヴァンカップ」に変更され、新たなロゴも導入される。"
+      },
+      "es": {
+        "title": "La J.League renueva el patrocinio de Yamazaki Biscuits para su copa de liga y cambia el nombre del torneo",
+        "summary": "La J.League anunció que mantendrá su contrato de patrocinador titular con Yamazaki Biscuits Co. para la copa de liga durante la temporada 2026/27. El acuerdo marca 34 años consecutivos de respaldo de la compañía desde el primer torneo en 1992, y la competición pasará de llamarse 'J.League YBC Levain Cup' a 'J.League Yamazaki Biscuits Levain Cup', con un nuevo logotipo."
+      },
+      "zh": {
+        "title": "J联赛续签山崎饼干联赛杯冠名合作并更改赛事名称",
+        "summary": "日本职业足球联赛(J联赛)宣布将在2026/27赛季继续与山崎饼干株式会社保持联赛杯冠名合作伙伴关系。这是该公司自1992年首届赛事以来连续第34年提供赞助，赛事名称也将由“J联赛YBC Levain杯”更改为“J联赛山崎饼干Levain杯”，并启用新标志。"
+      },
+      "fr": {
+        "title": "La J.League prolonge le partenariat avec Yamazaki Biscuits pour sa coupe de ligue et renomme le tournoi",
+        "summary": "La J.League a annoncé qu'elle poursuivra son partenariat titre avec Yamazaki Biscuits Co. pour la coupe de ligue lors de la saison 2026/27. Cet accord marque la 34e année consécutive de soutien de l'entreprise depuis la première édition en 1992, et la compétition passera de « J.League YBC Levain Cup » à « J.League Yamazaki Biscuits Levain Cup », avec un nouveau logo."
+      }
+    }
   }
 ]
