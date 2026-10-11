@@ -6785,5 +6785,240 @@
         "summary": "Le fabricant de connecteurs électroniques I-PEX a signé un accord de sponsoring officiel avec les Fukuoka SoftBank Hawks de la NPB pour la saison 2026, incluant de la publicité virtuelle lors des matchs à domicile au MIZUHO PayPay Dome Fukuoka. L'accord comprend également un soutien au programme communautaire du club, le « Hawks Mirai Sponsor »."
       }
     }
+  },
+  {
+    "id": "yokohama-nissan-stadium-naming-rights-renewal-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-02-01T00:00:00Z",
+    "source_name": "Gekisaka",
+    "source_url": "https://web.gekisaka.jp/news/jleague/detail/%3F446996-446996-fl",
+    "i18n": {
+      "en": {
+        "title": "Nissan Stadium Naming Rights Renewed in Five-Year, ¥650 Million Deal",
+        "summary": "Nissan has renewed its naming-rights agreement for Nissan Stadium, home to J.League sides Yokohama F. Marinos and Yokohama FC, in a five-year deal running from March 2026 through February 2031 and worth roughly 650 million yen including surrounding facilities. Mitsuzawa Park Stadium's naming deal with Nippon Hatsujoki was also renewed for another five years around the same time."
+      },
+      "ja": {
+        "title": "日産スタジアム、5年総額6.5億円でネーミングライツを更新",
+        "summary": "横浜F・マリノスと横浜FCが本拠地とする日産スタジアムのネーミングライツ契約が、2026年3月から2031年2月までの5年間、周辺施設を含め総額約6.5億円で更新された。同時期に、三ツ沢公園球技場の命名権契約も日本発条との間で5年契約として更新されている。"
+      },
+      "es": {
+        "title": "Se renuevan los derechos de nombre del Nissan Stadium por cinco años y 650 millones de yenes",
+        "summary": "Nissan ha renovado su acuerdo de derechos de nombre para el Nissan Stadium, sede de los clubes de la J.League Yokohama F. Marinos y Yokohama FC, en un contrato de cinco años que va de marzo de 2026 a febrero de 2031 y vale unos 650 millones de yenes incluyendo instalaciones cercanas. El acuerdo de nombre del Mitsuzawa Park Stadium con Nippon Hatsujoki también se renovó por otros cinco años en fechas similares."
+      },
+      "zh": {
+        "title": "日产体育场冠名权续约五年，总额约6.5亿日元",
+        "summary": "日产公司已就其冠名的日产体育场（横滨水手和横滨FC的主场）续签命名权协议，为期五年，从2026年3月至2031年2月，包含周边设施总额约6.5亿日元。同期，三泽公园球技场与日本发条的冠名协议也续签了五年。"
+      },
+      "fr": {
+        "title": "Les droits de dénomination du Nissan Stadium renouvelés pour cinq ans et 650 millions de yens",
+        "summary": "Nissan a renouvelé son accord de droits de dénomination pour le Nissan Stadium, domicile des clubs de J.League Yokohama F. Marinos et Yokohama FC, dans un contrat de cinq ans courant de mars 2026 à février 2031 et évalué à environ 650 millions de yens, installations environnantes incluses. L'accord de dénomination du Mitsuzawa Park Stadium avec Nippon Hatsujoki a également été renouvelé pour cinq ans à la même période."
+      }
+    }
+  },
+  {
+    "id": "inter-milan-2025-26-financial-results",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "biz",
+      "team"
+    ],
+    "published_at": "2026-09-24T00:00:00Z",
+    "source_name": "Inter Milan",
+    "source_url": "https://www.inter.it/en/news/inter-board-approves-2025-26-financial-results",
+    "i18n": {
+      "en": {
+        "title": "Inter Milan Posts Second Straight Annual Profit of €22.7 Million",
+        "summary": "Inter Milan's board approved draft 2025-26 financial statements showing a €22.7 million net profit on revenue of €518 million, the club's second consecutive profitable year even though the Champions League final run that boosted the prior season did not repeat. Commercial revenue grew 7% and finance costs nearly halved after a refinancing, pushing shareholders' equity back into positive territory."
+      },
+      "ja": {
+        "title": "インテル・ミラノ、2期連続の年間利益2270万ユーロを計上",
+        "summary": "インテル・ミラノの取締役会は、2025-26年度の決算案を承認し、売上高5億1800万ユーロに対し純利益2270万ユーロを計上、前年のチャンピオンズリーグ決勝進出による増収効果がなかったにもかかわらず2期連続の増益となった。商業収入は7％増加し、再融資により金融費用がほぼ半減したことで、株主資本も再びプラスに転じた。"
+      },
+      "es": {
+        "title": "Inter de Milán registra un segundo beneficio anual consecutivo de 22,7 millones de euros",
+        "summary": "La junta del Inter de Milán aprobó el borrador de estados financieros de 2025-26, con un beneficio neto de 22,7 millones de euros sobre unos ingresos de 518 millones, el segundo año consecutivo con ganancias para el club aunque no se repitió la final de la Champions League que impulsó la temporada anterior. Los ingresos comerciales crecieron un 7% y los costes financieros casi se redujeron a la mitad tras una refinanciación."
+      },
+      "zh": {
+        "title": "国际米兰连续第二年实现年度盈利，净利润2270万欧元",
+        "summary": "国际米兰董事会批准了2025-26年度财务报表草案，显示营收5.18亿欧元、净利润2270万欧元，尽管未能重现上赛季欧冠决赛带来的收入提振，俱乐部仍实现连续第二年盈利。商业收入增长7%，再融资后融资成本几乎减半，股东权益也重新转为正值。"
+      },
+      "fr": {
+        "title": "L'Inter Milan enregistre un deuxième bénéfice annuel consécutif de 22,7 millions d'euros",
+        "summary": "Le conseil d'administration de l'Inter Milan a approuvé le projet de résultats financiers 2025-26, affichant un bénéfice net de 22,7 millions d'euros pour un chiffre d'affaires de 518 millions, soit une deuxième année consécutive bénéficiaire malgré l'absence de la finale de Ligue des champions qui avait dopé la saison précédente. Les revenus commerciaux ont progressé de 7 % et les charges financières ont presque diminué de moitié après un refinancement."
+      }
+    }
+  },
+  {
+    "id": "texas-tech-galaxy-stadium-naming-rights",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-07-17T00:00:00Z",
+    "source_name": "Athletic Business",
+    "source_url": "https://www.athleticbusiness.com/operations/marketing/article/15830370/texas-tech-inks-75m-naming-rights-deal-with",
+    "i18n": {
+      "en": {
+        "title": "Texas Tech Renames Football Stadium 'Galaxy Stadium' in $75M, 15-Year Deal",
+        "summary": "Texas Tech has signed a 15-year, roughly $75 million naming-rights agreement with data center and digital-assets company Galaxy, renaming its football venue (formerly Jones AT&T Stadium) as Galaxy Stadium starting with the 2026 season. The deal replaces a longtime partnership with AT&T and also makes Galaxy the athletic department's official data-center and digital-assets partner, with branding extending into basketball and new NIL opportunities for athletes."
+      },
+      "ja": {
+        "title": "テキサス工科大学、7500万ドル・15年契約でフットボールスタジアムを「ギャラクシー・スタジアム」に改称",
+        "summary": "テキサス工科大学は、データセンター・デジタル資産企業ギャラクシーと15年間・約7500万ドルのネーミングライツ契約を締結し、フットボール会場（旧ジョーンズAT&Tスタジアム）を2026年シーズンから「ギャラクシー・スタジアム」に改称した。これは長年のAT&Tとの提携に代わるもので、ギャラクシーは athletic部門の公式データセンター・デジタル資産パートナーとなり、バスケットボールへのブランド展開や選手へのNIL機会創出も含まれる。"
+      },
+      "es": {
+        "title": "Texas Tech renombra su estadio de fútbol americano 'Galaxy Stadium' en un acuerdo de 75 millones de dólares por 15 años",
+        "summary": "Texas Tech ha firmado un acuerdo de derechos de nombre de 15 años, por unos 75 millones de dólares, con la empresa de centros de datos y activos digitales Galaxy, renombrando su estadio de fútbol americano (antes Jones AT&T Stadium) como Galaxy Stadium a partir de la temporada 2026. El acuerdo sustituye a una larga asociación con AT&T y convierte a Galaxy en socio oficial de centros de datos y activos digitales del departamento deportivo."
+      },
+      "zh": {
+        "title": "德州理工大学以7500万美元、15年协议将橄榄球场更名为“Galaxy体育场”",
+        "summary": "德州理工大学与数据中心及数字资产公司Galaxy签署了一项为期15年、价值约7500万美元的冠名权协议，自2026赛季起将其橄榄球场（原Jones AT&T体育场）更名为“Galaxy体育场”。该协议取代了与AT&T的长期合作，Galaxy还成为该校体育部官方数据中心及数字资产合作伙伴，品牌延伸至篮球领域并为运动员带来新的NIL机会。"
+      },
+      "fr": {
+        "title": "Texas Tech renomme son stade de football américain « Galaxy Stadium » dans un accord de 75 millions de dollars sur 15 ans",
+        "summary": "Texas Tech a signé un accord de droits de dénomination de 15 ans, d'environ 75 millions de dollars, avec l'entreprise de centres de données et d'actifs numériques Galaxy, renommant son stade de football américain (anciennement Jones AT&T Stadium) en Galaxy Stadium dès la saison 2026. L'accord remplace un partenariat de longue date avec AT&T et fait de Galaxy le partenaire officiel du département sportif pour les centres de données et actifs numériques."
+      }
+    }
+  },
+  {
+    "id": "borussia-park-ista-naming-rights",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2025-11-26T00:00:00Z",
+    "source_name": "SportBusiness",
+    "source_url": "https://www.sportbusiness.com/news/energy-services-firm-ista-to-name-borussia-park/",
+    "i18n": {
+      "en": {
+        "title": "Borussia Mönchengladbach Sells First-Ever Stadium Naming Rights to Ista",
+        "summary": "Borussia Mönchengladbach has agreed to a five-year naming-rights deal with energy services firm Ista, which will see its home ground become 'ista-Borussia-Park' from the 2026-27 season through 2030-31. It marks the first time the venue, previously known simply as Borussia-Park, has carried a naming sponsor, building on a sustainability partnership between the two sides that began in mid-2025."
+      },
+      "ja": {
+        "title": "ボルシアMG、スタジアム命名権を初めてイスタに売却",
+        "summary": "ボルシア・メンヒェングラートバッハは、エネルギーサービス企業イスタと5年間の命名権契約を結び、2026-27シーズンから2030-31シーズンまで本拠地が「イスタ・ボルシアパーク」となる。これまで単に「ボルシアパーク」と呼ばれていた同スタジアムが命名権スポンサーを持つのは初めてで、2025年半ばに始まった両者のサステナビリティ提携を発展させる形となる。"
+      },
+      "es": {
+        "title": "El Borussia Mönchengladbach vende por primera vez los derechos de nombre de su estadio a Ista",
+        "summary": "El Borussia Mönchengladbach ha acordado un contrato de derechos de nombre de cinco años con la empresa de servicios energéticos Ista, por el que su estadio pasará a llamarse 'ista-Borussia-Park' desde la temporada 2026-27 hasta 2030-31. Es la primera vez que el recinto, antes conocido simplemente como Borussia-Park, tiene un patrocinador de nombre, ampliando una asociación de sostenibilidad entre ambas partes iniciada a mediados de 2025."
+      },
+      "zh": {
+        "title": "门兴格拉德巴赫首次出售球场冠名权，归属能源服务商Ista",
+        "summary": "门兴格拉德巴赫已与能源服务公司Ista达成一项五年冠名权协议，从2026-27赛季至2030-31赛季，其主场将更名为“ista-Borussia-Park”。此前该球场一直简称为“Borussia-Park”，这是该球场首次拥有冠名赞助商，也是双方自2025年年中开始的可持续发展合作关系的延伸。"
+      },
+      "fr": {
+        "title": "Le Borussia Mönchengladbach vend pour la première fois les droits de dénomination de son stade à Ista",
+        "summary": "Le Borussia Mönchengladbach a conclu un accord de droits de dénomination de cinq ans avec l'entreprise de services énergétiques Ista, selon lequel son stade deviendra « ista-Borussia-Park » de la saison 2026-27 à 2030-31. C'est la première fois que cette enceinte, auparavant simplement appelée Borussia-Park, porte un sponsor de dénomination, prolongeant un partenariat de durabilité entre les deux parties lancé mi-2025."
+      }
+    }
+  },
+  {
+    "id": "big12-monster-energy-partnership-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-07-08T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/news/big-12-secures-major-partnership-with-monster-energy/",
+    "i18n": {
+      "en": {
+        "title": "Big 12 Strikes Multi-Year Entitlement Deal With Monster Energy",
+        "summary": "The Big 12 Conference has signed a multi-year partnership making Monster Energy the entitlement sponsor of its football and men's and women's basketball regular seasons, rebranding them as 'Monster Energy Big 12 Football' and 'Monster Energy Big 12 Basketball.' Reporting puts the deal's value at roughly $20 million a year, with Monster also covering the cost of installing field and court branding across the conference's 16 member schools."
+      },
+      "ja": {
+        "title": "ビッグ12、モンスターエナジーと複数年の冠協賛契約を締結",
+        "summary": "ビッグ12カンファレンスは、モンスターエナジーをフットボールおよび男女バスケットボールのレギュラーシーズンの冠スポンサーとする複数年契約を締結し、「モンスターエナジー・ビッグ12フットボール」「同バスケットボール」としてブランド化する。契約額は年間約2000万ドルとされ、モンスターエナジーは加盟16校のフィールドやコートへのブランディング設置費用も負担するという。"
+      },
+      "es": {
+        "title": "La Big 12 firma un acuerdo de patrocinio plurianual con Monster Energy",
+        "summary": "La Conferencia Big 12 ha firmado una asociación plurianual que convierte a Monster Energy en el patrocinador titular de las temporadas regulares de fútbol americano y baloncesto masculino y femenino, renombrándolas como 'Monster Energy Big 12 Football' y 'Monster Energy Big 12 Basketball'. Según informes, el acuerdo tiene un valor de unos 20 millones de dólares al año, y Monster también cubrirá el coste de instalar la marca en los campos y canchas de las 16 escuelas miembro."
+      },
+      "zh": {
+        "title": "Big 12联盟与魔爪能量饮料达成多年冠名赞助协议",
+        "summary": "Big 12联盟已签署一项多年合作协议，由魔爪能量饮料担任其橄榄球以及男女篮球常规赛的冠名赞助商，赛事将更名为“魔爪Big 12橄榄球”和“魔爪Big 12篮球”。据报道，该协议价值约每年2000万美元，魔爪还将承担在联盟16所成员学校的球场及球馆安装品牌标识的费用。"
+      },
+      "fr": {
+        "title": "La Big 12 signe un accord de parrainage pluriannuel avec Monster Energy",
+        "summary": "La conférence Big 12 a signé un partenariat pluriannuel faisant de Monster Energy le sponsor titre de ses saisons régulières de football américain et de basketball masculin et féminin, rebaptisées « Monster Energy Big 12 Football » et « Monster Energy Big 12 Basketball ». Selon certaines sources, l'accord serait évalué à environ 20 millions de dollars par an, Monster prenant également en charge le coût de l'installation des marquages sur les terrains et les parquets des 16 écoles membres."
+      }
+    }
+  },
+  {
+    "id": "vanderbilt-srm-concrete-jersey-patch-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-07-21T00:00:00Z",
+    "source_name": "Learfield",
+    "source_url": "https://www.learfield.com/2026/07/vanderbilt-athletics-and-srm-concrete-expand-foundational-partnership-with-all-sports-jersey-patch/",
+    "i18n": {
+      "en": {
+        "title": "Vanderbilt Adds First All-Sports Jersey Patch With SRM Concrete",
+        "summary": "Vanderbilt Athletics has expanded its partnership with local company SRM Concrete into the program's first all-sports jersey patch deal, covering all 17 of the university's varsity teams starting with the 2026-27 athletic year. The patch builds on an existing relationship that began in 2025 with naming rights to a stadium suite, and the agreement also gives SRM access to Commodore athletes through name, image and likeness initiatives."
+      },
+      "ja": {
+        "title": "バンダービルト大学、SRMコンクリートと全競技対象の初ジャージーパッチ契約",
+        "summary": "バンダービルト・アスレチックスは、地元企業SRMコンクリートとの提携を拡大し、同大学史上初となる全17の体育会公式チームを対象としたジャージーパッチ契約を2026-27年度から開始する。これは2025年にスタジアムスイートの命名権で始まった既存の関係を発展させたもので、契約にはSRMが選手のNIL（氏名・肖像権）活動に関与する内容も含まれる。"
+      },
+      "es": {
+        "title": "Vanderbilt añade su primer parche de camiseta para todos los deportes con SRM Concrete",
+        "summary": "El departamento de deportes de Vanderbilt ha ampliado su asociación con la empresa local SRM Concrete hasta convertirla en el primer acuerdo de parche de camiseta para todos los deportes del programa, que abarca los 17 equipos universitarios a partir del año deportivo 2026-27. El parche se basa en una relación existente desde 2025, cuando SRM obtuvo los derechos de nombre de un palco del estadio."
+      },
+      "zh": {
+        "title": "范德堡大学与SRM混凝土公司达成首个全运动项目球衣广告合作",
+        "summary": "范德堡大学体育部已将与本地企业SRM混凝土公司的合作关系扩展为该项目史上首个覆盖全部17个校队的全运动项目球衣广告协议，自2026-27学年起实施。该合作建立在2025年双方因球场包厢冠名权而建立的既有关系之上，协议还包括SRM通过姓名、形象和肖像权（NIL）项目接触校队运动员的内容。"
+      },
+      "fr": {
+        "title": "Vanderbilt ajoute son premier écusson de maillot pour tous les sports avec SRM Concrete",
+        "summary": "Le département sportif de Vanderbilt a élargi son partenariat avec l'entreprise locale SRM Concrete pour en faire le premier accord d'écusson de maillot couvrant tous les sports du programme, concernant les 17 équipes universitaires dès l'année sportive 2026-27. Cet écusson s'appuie sur une relation existante depuis 2025, lorsque SRM avait obtenu les droits de dénomination d'une loge du stade."
+      }
+    }
+  },
+  {
+    "id": "memphis-fedex-jersey-patch-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-06-01T00:00:00Z",
+    "source_name": "Audacy",
+    "source_url": "https://www.audacy.com/929espn/sports/memphis-tigers/memphis-fedex",
+    "i18n": {
+      "en": {
+        "title": "FedEx and Memphis Athletics Sign Department-Wide Jersey Patch Deal",
+        "summary": "FedEx, headquartered in Memphis, has agreed to a sponsorship that places its logo on the uniforms of all 19 men's and women's Memphis Tigers athletic programs starting with the 2026-27 season. The agreement extends a long local relationship between the company and the university beyond venue signage into on-field branding across every varsity sport."
+      },
+      "ja": {
+        "title": "フェデックス、メンフィス大学と全部門対象のジャージーパッチ契約を締結",
+        "summary": "メンフィスに本社を置くフェデックスは、2026-27シーズンからメンフィス・タイガースの男女19部門すべての競技ユニフォームにロゴを掲出するスポンサー契約を結んだ。これは同社と大学との長年の地元関係を、会場内の看板広告からすべての体育会競技のユニフォームブランディングへと拡大するものである。"
+      },
+      "es": {
+        "title": "FedEx y el departamento deportivo de Memphis firman un acuerdo de parche de camiseta para todos los programas",
+        "summary": "FedEx, con sede en Memphis, ha acordado un patrocinio que colocará su logotipo en las camisetas de los 19 programas deportivos masculinos y femeninos de los Memphis Tigers a partir de la temporada 2026-27. El acuerdo amplía una larga relación local entre la empresa y la universidad, pasando de la señalización en el recinto a la marca sobre el terreno de juego en todos los deportes universitarios."
+      },
+      "zh": {
+        "title": "联邦快递与孟菲斯大学体育部签署全部门球衣广告协议",
+        "summary": "总部位于孟菲斯的联邦快递已达成一项赞助协议，从2026-27赛季起，其标志将出现在孟菲斯老虎队全部19个男女体育项目的队服上。该协议将公司与该校长期的本地合作关系，从场馆广告牌拓展到所有校队比赛服上的品牌展示。"
+      },
+      "fr": {
+        "title": "FedEx et le département sportif de Memphis signent un accord d'écusson de maillot pour tous les programmes",
+        "summary": "FedEx, dont le siège se trouve à Memphis, a conclu un partenariat qui placera son logo sur les maillots des 19 programmes sportifs masculins et féminins des Memphis Tigers dès la saison 2026-27. L'accord étend une longue relation locale entre l'entreprise et l'université, passant de la signalétique du stade au marquage sur les tenues de toutes les équipes universitaires."
+      }
+    }
   }
 ]
