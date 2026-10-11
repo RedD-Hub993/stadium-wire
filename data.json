@@ -6824,5 +6824,274 @@
         "summary": "La NFL a conclu de nouveaux accords pluriannuels avec DraftKings et FanDuel, tout en ajoutant Fanatics Betting and Gaming comme troisième partenaire officiel de paris sportifs, remplaçant Caesars. Ces accords permettent aux trois opérateurs d'utiliser les marques de la NFL pour promouvoir les paris, d'accéder aux données de la ligue via Genius Sports et d'être présents lors d'événements majeurs comme le Super Bowl et la Draft de la NFL. Fanatics obtient également un nouveau rôle de partenaire marketing officiel pour les casinos en ligne de la ligue."
       }
     }
+  },
+  {
+    "id": "jleague-smartnews-supporting-company-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-06-18T00:00:00Z",
+    "source_name": "J.League",
+    "source_url": "https://www.jleague.jp/corporate/pressrelease/article/15985",
+    "i18n": {
+      "en": {
+        "title": "SmartNews Signs Supporting Company Partnership With J.League",
+        "summary": "News aggregation app SmartNews has signed a new backing-company agreement with Japan's J.League, effective June 2026. The partnership is expected to see the league's match previews and official video content distributed through SmartNews' app to its large user base. Both sides say the tie-up aims to extend the reach of J.League's community-rooted soccer coverage to a wider news audience."
+      },
+      "ja": {
+        "title": "スマートニュースがJリーグとサポーティングカンパニー契約を締結",
+        "summary": "ニュースアプリを運営するスマートニュースが、2026年6月よりJリーグとの新たな協力提携を開始した。今後は同社のアプリを通じて試合情報や公式動画などのコンテンツ配信を進めていく方針とされる。両者は地域に根ざしたJリーグの魅力を、より幅広い読者層に届けることを目指すとしている。"
+      },
+      "es": {
+        "title": "SmartNews firma un acuerdo de empresa colaboradora con la J.League",
+        "summary": "La aplicación de noticias SmartNews ha firmado un nuevo acuerdo de colaboración con la J.League de Japón, vigente desde junio de 2026. Se prevé que la asociación distribuya información de partidos y vídeos oficiales de la liga a través de la app a su amplia base de usuarios. Ambas partes buscan ampliar el alcance de la cobertura futbolística arraigada en las comunidades locales."
+      },
+      "zh": {
+        "title": "SmartNews与日本J联赛签署支持企业合作协议",
+        "summary": "新闻聚合应用SmartNews自2026年6月起与日本职业足球J联赛建立新的合作关系。根据协议,双方计划通过该应用向庞大用户群发布比赛资讯及官方视频内容。双方表示,此次合作旨在让扎根社区的J联赛足球内容触达更广泛的读者群体。"
+      },
+      "fr": {
+        "title": "SmartNews signe un partenariat d'entreprise partenaire avec la J.League",
+        "summary": "L'application d'actualités SmartNews a conclu un nouvel accord de partenariat avec la J.League japonaise, effectif depuis juin 2026. L'accord devrait permettre de diffuser les informations sur les matchs et les vidéos officielles de la ligue auprès de la large base d'utilisateurs de l'application. Les deux parties espèrent ainsi élargir l'audience de ce football japonais profondément enraciné dans les communautés locales."
+      }
+    }
+  },
+  {
+    "id": "hcltech-metlife-stadium-ai-partner-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "tech",
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-04-30T00:00:00Z",
+    "source_name": "NJBIZ",
+    "source_url": "https://njbiz.com/hcltech-metlife-stadium-ai-partner-jets-giants/",
+    "i18n": {
+      "en": {
+        "title": "HCLTech Expands MetLife Stadium Deal, Adds Official AI Partner Role",
+        "summary": "IT services firm HCLTech has broadened its Cornerstone Partnership with MetLife Stadium, the New York Jets and the New York Giants to include a new designation as the venue's official AI partner. The expanded deal builds on HCLTech's earlier role as the stadium's digital transformation partner, dating back to 2022. Coverage of the extension points to AI-driven tools aimed at crowd management, service coordination and overall event operations."
+      },
+      "ja": {
+        "title": "HCLTechがメットライフ・スタジアムとの提携を拡大、公式AIパートナーに",
+        "summary": "ITサービス企業のHCLTechは、メットライフ・スタジアムおよびNFLのジェッツ、ジャイアンツとの既存提携を拡大し、新たに公式AIパートナーの地位を得た。この提携は、2022年から続くスタジアムのデジタル変革パートナーという役割を土台にしている。報道によれば、拡大後の提携では来場者の誘導や運営業務の調整など、AIを活用した取り組みが想定されている。"
+      },
+      "es": {
+        "title": "HCLTech amplía su acuerdo con el MetLife Stadium y se convierte en socio oficial de IA",
+        "summary": "La firma de servicios de TI HCLTech ha ampliado su alianza con el MetLife Stadium y los equipos de la NFL Jets y Giants, sumando una nueva designación como socio oficial de inteligencia artificial del recinto. El acuerdo amplía el papel que la compañía viene desempeñando desde 2022 como socio de transformación digital del estadio. Según la cobertura, la ampliación contempla herramientas basadas en IA para la gestión de multitudes y la coordinación operativa en los eventos."
+      },
+      "zh": {
+        "title": "HCLTech扩大与大都会人寿体育场合作,成为官方人工智能合作伙伴",
+        "summary": "IT服务公司HCLTech扩大了与大都会人寿体育场及NFL喷气机队、巨人队的现有合作关系,新增官方人工智能合作伙伴身份。此次扩展建立在该公司自2022年起担任体育场数字化转型合作伙伴的基础之上。相关报道指出,扩展后的合作将涉及利用人工智能工具改善人群疏导与赛事运营协调。"
+      },
+      "fr": {
+        "title": "HCLTech élargit son partenariat avec le MetLife Stadium et devient partenaire officiel IA",
+        "summary": "L'entreprise de services informatiques HCLTech a élargi son partenariat avec le MetLife Stadium ainsi que les Jets et les Giants de la NFL, ajoutant une nouvelle désignation de partenaire officiel en intelligence artificielle du site. Cet accord élargi s'appuie sur le rôle de partenaire de transformation numérique que la société occupe depuis 2022. Selon la presse, cette extension prévoit des outils fondés sur l'IA pour la gestion des foules et la coordination des opérations lors des événements."
+      }
+    }
+  },
+  {
+    "id": "pennymac-la28-team-usa-mortgage-sponsor",
+    "sport": "olympics",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2025-03-05T00:00:00Z",
+    "source_name": "LA28",
+    "source_url": "https://la28.org/en/newsroom/pennymac-named-la28-official-mortgage-supporter.html",
+    "i18n": {
+      "en": {
+        "title": "Pennymac Becomes Official Mortgage Partner of Team USA and the LA28 Olympics",
+        "summary": "Mortgage lender Pennymac has signed on as the exclusive mortgage supporter of the U.S. Olympic and Paralympic teams through the 2028 Los Angeles Games, with a supporting role at the 2026 Milan-Cortina Winter Games as well. The company called it its first major sports sponsorship and plans to use the partnership to support athlete-focused homeownership education programs. Financial terms of the multi-year agreement were not disclosed."
+      },
+      "ja": {
+        "title": "ペニーマック、チームUSAおよびLA28オリンピックの公式モーゲージパートナーに",
+        "summary": "住宅ローン会社のペニーマックは、2028年ロサンゼルス大会までの米国オリンピック・パラリンピック代表チームの独占モーゲージサプライヤーとなる契約を結んだ。2026年ミラノ・コルティナ冬季大会でも支援的な役割を担う予定だという。同社は自社初の大型スポーツスポンサー契約だとしており、選手向けの住宅購入教育プログラムなどに活用する方針を示している。契約金額などの詳細は公表されていない。"
+      },
+      "es": {
+        "title": "Pennymac se convierte en socio hipotecario oficial del Team USA y los Juegos de LA28",
+        "summary": "La entidad hipotecaria Pennymac ha firmado como proveedor hipotecario exclusivo de los equipos olímpicos y paralímpicos de Estados Unidos hasta los Juegos de Los Ángeles 2028, con un papel de apoyo también en los Juegos de Invierno de Milán-Cortina 2026. La compañía calificó el acuerdo como su primer gran patrocinio deportivo y planea usarlo para programas educativos sobre compra de vivienda dirigidos a atletas. No se revelaron los términos económicos del acuerdo plurianual."
+      },
+      "zh": {
+        "title": "Pennymac成为美国代表队及LA28奥运会官方抵押贷款合作伙伴",
+        "summary": "抵押贷款机构Pennymac已签约成为美国奥运及残奥代表队截至2028年洛杉矶奥运会期间的独家抵押贷款供应商,并在2026年米兰-科尔蒂纳冬奥会中担任支持性角色。该公司称这是其首个重大体育赞助项目,计划借此推出面向运动员的购房教育项目。这项多年协议的具体财务条款未予披露。"
+      },
+      "fr": {
+        "title": "Pennymac devient partenaire hypothécaire officiel de Team USA et des Jeux de LA28",
+        "summary": "Le prêteur hypothécaire Pennymac a signé en tant que fournisseur hypothécaire exclusif des équipes olympiques et paralympiques américaines jusqu'aux Jeux de Los Angeles 2028, avec un rôle de soutien également lors des Jeux d'hiver de Milan-Cortina 2026. L'entreprise qualifie cet accord de premier grand partenariat sportif de son histoire et prévoit de s'en servir pour des programmes éducatifs sur l'accession à la propriété destinés aux athlètes. Les modalités financières de cet accord pluriannuel n'ont pas été divulguées."
+      }
+    }
+  },
+  {
+    "id": "vanderbilt-srm-concrete-allsports-patch-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-07-21T00:00:00Z",
+    "source_name": "Learfield",
+    "source_url": "https://www.learfield.com/2026/07/vanderbilt-athletics-and-srm-concrete-expand-foundational-partnership-with-all-sports-jersey-patch/",
+    "i18n": {
+      "en": {
+        "title": "Vanderbilt and SRM Concrete Expand Deal to All-Sports Jersey Patch",
+        "summary": "Vanderbilt Athletics has expanded its partnership with SRM Concrete into the school's first-ever all-sports jersey patch deal, beginning with the 2026-27 athletic year. The agreement builds on an earlier arrangement that gave SRM naming rights to suite space at FirstBank Stadium. Financial terms were not disclosed, though the deal is also expected to open name, image and likeness opportunities for Vanderbilt student-athletes."
+      },
+      "ja": {
+        "title": "バンダービルト大とSRMコンクリート、全競技ユニフォームパッチ契約に拡大",
+        "summary": "バンダービルト大学のアスレチック部門は、SRMコンクリートとの提携を拡大し、2026-27年度から同大学初となる全競技共通のユニフォームパッチ契約を開始する。これは、同社がファーストバンク・スタジアムのスイート命名権を持つ既存の関係を土台にしたものだという。契約金額は公表されていないが、選手の名前・画像・肖像権(NIL)活用の機会拡大にもつながるとみられている。"
+      },
+      "es": {
+        "title": "Vanderbilt y SRM Concrete amplían su acuerdo a un parche de uniforme para todos los deportes",
+        "summary": "El departamento de deportes de Vanderbilt ha ampliado su alianza con SRM Concrete para incluir el primer acuerdo de parche de uniforme válido para todos sus equipos, a partir del curso deportivo 2026-27. El acuerdo se apoya en una relación previa que otorgaba a la empresa los derechos de nombre de un área de suites en el FirstBank Stadium. No se revelaron los términos económicos, aunque se espera que también abra oportunidades de nombre, imagen y semejanza para los deportistas de la universidad."
+      },
+      "zh": {
+        "title": "范德堡大学与SRM混凝土公司扩大合作,推出全项目球衣广告标",
+        "summary": "范德堡大学体育部扩大了与SRM混凝土公司的合作关系,自2026-27学年起首次推出覆盖全部运动项目的球衣广告标协议。该协议建立在此前该公司获得FirstBank体育场包厢命名权的合作基础之上。具体金额未公开,但该交易预计也将为学生运动员带来更多姓名、形象与肖像权相关的商业机会。"
+      },
+      "fr": {
+        "title": "Vanderbilt et SRM Concrete étendent leur accord à un écusson de maillot pour tous les sports",
+        "summary": "Le département sportif de Vanderbilt a élargi son partenariat avec SRM Concrete pour y inclure le premier accord d'écusson de maillot couvrant tous ses sports, à compter de la saison 2026-27. Cet accord s'appuie sur une relation antérieure qui avait donné à l'entreprise les droits de dénomination d'un espace de suites au FirstBank Stadium. Les termes financiers n'ont pas été dévoilés, mais l'accord devrait aussi ouvrir de nouvelles opportunités liées au nom, à l'image et à la ressemblance pour les athlètes universitaires."
+      }
+    }
+  },
+  {
+    "id": "kansas-ripple-xrp-jersey-patch-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-07-08T00:00:00Z",
+    "source_name": "KCTV5",
+    "source_url": "https://www.kctv5.com/2026/07/09/kansas-athletics-announces-multi-year-partnership-with-ripple-adding-xrp-jersey-patch/",
+    "i18n": {
+      "en": {
+        "title": "Kansas Athletics Signs Multi-Year Deal With Ripple, Adds XRP Jersey Patch",
+        "summary": "The University of Kansas has struck a multi-year sponsorship with cryptocurrency firm Ripple that places an XRP patch on Jayhawks uniforms, reportedly the first such crypto logo on a major college athletics program's jerseys. The deal, brokered through Learfield's local Jayhawk Sports Properties arm, follows an NCAA rule change allowing Division I teams to carry corporate logos starting this season. Ripple also plans to fund financial and digital-asset education programs for Kansas student-athletes."
+      },
+      "ja": {
+        "title": "カンザス大、リップルと複数年契約を締結し仮想通貨XRPのユニフォームパッチを採用",
+        "summary": "カンザス大学は、暗号資産企業リップルと複数年にわたるスポンサー契約を結び、ジェイホークスの選手ユニフォームにXRPのパッチを導入した。大学スポーツの大型プログラムで仮想通貨ロゴがユニフォームに掲載されるのは初めてとされる。この契約は、NCAAが今シーズンからディビジョンIチームの企業ロゴ掲出を認めるルール変更を受け、学内スポーツマーケティング会社ジェイホーク・スポーツ・プロパティーズを通じて成立した。リップルは学生アスリート向けの金融・デジタル資産教育プログラムへの資金提供も計画している。"
+      },
+      "es": {
+        "title": "Kansas Athletics firma un acuerdo plurianual con Ripple e incorpora un parche de XRP en sus uniformes",
+        "summary": "La Universidad de Kansas ha cerrado un patrocinio plurianual con la empresa de criptomonedas Ripple que coloca un parche de XRP en los uniformes de los Jayhawks, en lo que se reporta como el primer logotipo cripto de este tipo en un programa universitario importante. El acuerdo, gestionado a través de la filial local de Learfield, Jayhawk Sports Properties, llega tras un cambio de normativa de la NCAA que permite a los equipos de la División I llevar logotipos corporativos desde esta temporada. Ripple también planea financiar programas educativos sobre finanzas y activos digitales para los deportistas de Kansas."
+      },
+      "zh": {
+        "title": "堪萨斯大学体育部与Ripple签订多年协议,球衣加入XRP标识",
+        "summary": "堪萨斯大学已与加密货币公司Ripple达成多年赞助协议,将在杰霍克斯队球衣上加入XRP标识,据称这是大型大学体育项目球衣首次出现此类加密货币标识。该协议通过Learfield旗下本地机构Jayhawk Sports Properties促成,此前NCAA修改规则,允许一级(Division I)球队从本赛季起在球衣上展示企业标识。Ripple还计划为堪萨斯学生运动员提供金融及数字资产相关的教育项目资金。"
+      },
+      "fr": {
+        "title": "Kansas Athletics signe un accord pluriannuel avec Ripple et ajoute un écusson XRP sur ses maillots",
+        "summary": "L'université du Kansas a conclu un partenariat pluriannuel avec l'entreprise de cryptomonnaie Ripple, plaçant un écusson XRP sur les maillots des Jayhawks, ce qui serait le premier logo crypto de ce type sur les maillots d'un grand programme sportif universitaire. L'accord, négocié via l'antenne locale de Learfield, Jayhawk Sports Properties, intervient après un changement de règle de la NCAA autorisant les équipes de Division I à porter des logos d'entreprises depuis cette saison. Ripple prévoit également de financer des programmes d'éducation financière et aux actifs numériques pour les athlètes étudiants du Kansas."
+      }
+    }
+  },
+  {
+    "id": "aprilia-monster-energy-motogp-title-sponsor-2027",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-05-29T00:00:00Z",
+    "source_name": "Crash.net",
+    "source_url": "https://crash.net/motogp/news/1096305/1/official-aprilia-gains-monster-energy-motogp-title-sponsor",
+    "i18n": {
+      "en": {
+        "title": "Aprilia Lands Monster Energy as First-Ever MotoGP Title Sponsor",
+        "summary": "Aprilia Racing and Monster Energy announced a new title sponsorship at the Italian Grand Prix weekend, marking the first title sponsor in Aprilia's MotoGP history. Monster Energy will serve as the team's main backer through the rest of 2026 before assuming the title-sponsor role for the 2027 season. Trade reports put the annual value near $14 million, though neither party has confirmed financial terms."
+      },
+      "ja": {
+        "title": "アプリリア、モンスターエナジーをMotoGP史上初のタイトルスポンサーに起用",
+        "summary": "アプリリア・レーシングとモンスターエナジーは、イタリアGP開催週に新たなタイトルスポンサー契約を発表した。これはアプリリアのMotoGP参戦史において初のタイトルスポンサーとなる。モンスターエナジーは2026年シーズン残りをメインスポンサーとして支え、2027年シーズンからタイトルスポンサーの役割を担う予定だ。業界報道では年間契約額を約1400万ドルと推定しているが、両社とも金額を公式には明らかにしていない。"
+      },
+      "es": {
+        "title": "Aprilia ficha a Monster Energy como su primer patrocinador titular en MotoGP",
+        "summary": "Aprilia Racing y Monster Energy anunciaron un nuevo patrocinio titular durante el fin de semana del Gran Premio de Italia, el primero de este tipo en la historia de Aprilia en MotoGP. Monster Energy actuará como principal patrocinador del equipo durante el resto de 2026 antes de asumir el rol de patrocinador titular en la temporada 2027. Informes del sector sitúan el valor anual cerca de los 14 millones de dólares, aunque ninguna de las partes ha confirmado las cifras."
+      },
+      "zh": {
+        "title": "阿普利亚迎来怪物能量饮料,成为其MotoGP历史上首位冠名赞助商",
+        "summary": "阿普利亚车队与怪物能量饮料在意大利大奖赛周末宣布达成新的冠名赞助协议,这是阿普利亚参加MotoGP历史上首次获得冠名赞助商。怪物能量饮料将在2026赛季余下时间担任车队主要赞助商,并自2027赛季起正式升级为冠名赞助商。业内报道估计年度赞助金额约为1400万美元,但双方均未正式确认具体数字。"
+      },
+      "fr": {
+        "title": "Aprilia s'associe à Monster Energy, son premier sponsor-titre en MotoGP",
+        "summary": "Aprilia Racing et Monster Energy ont annoncé un nouveau partenariat-titre lors du week-end du Grand Prix d'Italie, une première dans l'histoire d'Aprilia en MotoGP. Monster Energy sera le principal soutien de l'équipe pour le reste de la saison 2026 avant d'endosser le rôle de sponsor-titre à partir de la saison 2027. Selon la presse spécialisée, le montant annuel avoisinerait les 14 millions de dollars, mais aucune des deux parties n'a confirmé ces chiffres."
+      }
+    }
+  },
+  {
+    "id": "mls-record-transfer-spending-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-09-09T00:00:00Z",
+    "source_name": "Reuters",
+    "source_url": "https://www.thestar.com.my/sport/football/2026/09/10/soccer-mls-spends-record-370-million-on-transfers-in-2026",
+    "i18n": {
+      "en": {
+        "title": "MLS Clubs Spend Record $370 Million on Player Transfers in 2026",
+        "summary": "Major League Soccer teams spent a record $370 million on player transfers in 2026, up from $336 million the prior year, according to a Reuters report. The league also generated a record $218 million in transfer revenue over the same period, pointing to growing two-way activity in the international market. The figures underscore MLS clubs' rising spending power as the league continues to court higher-profile international talent."
+      },
+      "ja": {
+        "title": "MLS、2026年の選手移籍市場で過去最高の3億7000万ドルを支出",
+        "summary": "ロイターの報道によると、米メジャーリーグサッカー(MLS)の各クラブは2026年、選手の移籍に過去最高となる3億7000万ドルを費やした。前年の3億3600万ドルから増加している。同期間の移籍収入も過去最高の2億1800万ドルに達し、国際移籍市場での双方向の取引が活発化していることを示している。この数字は、MLSクラブがより知名度の高い国際的な選手を獲得しようとする中で、資金力が高まっていることを裏付けている。"
+      },
+      "es": {
+        "title": "Los clubes de la MLS gastan un récord de 370 millones de dólares en fichajes en 2026",
+        "summary": "Según un informe de Reuters, los equipos de la Major League Soccer gastaron un récord de 370 millones de dólares en fichajes de jugadores en 2026, frente a los 336 millones del año anterior. La liga también generó unos ingresos récord de 218 millones de dólares por transferencias en el mismo periodo, lo que refleja una actividad creciente en ambos sentidos del mercado internacional. Las cifras confirman el aumento del poder adquisitivo de los clubes de la MLS mientras la liga sigue buscando fichajes internacionales de mayor perfil."
+      },
+      "zh": {
+        "title": "美国职业大联盟(MLS)2026年转会支出创纪录达3.7亿美元",
+        "summary": "据路透社报道,美国职业足球大联盟(MLS)各俱乐部在2026年的球员转会支出达到创纪录的3.7亿美元,高于上一年的3.36亿美元。同期联盟的转会收入也达到创纪录的2.18亿美元,显示国际转会市场双向交易日益活跃。这些数据印证了MLS俱乐部在持续追逐更具知名度的国际球员过程中,支出能力不断增强。"
+      },
+      "fr": {
+        "title": "Les clubs de la MLS dépensent un montant record de 370 millions de dollars en transferts en 2026",
+        "summary": "Selon un rapport de Reuters, les clubs de la Major League Soccer ont dépensé un montant record de 370 millions de dollars en transferts de joueurs en 2026, contre 336 millions l'année précédente. La ligue a également généré des revenus de transfert record de 218 millions de dollars sur la même période, signe d'une activité croissante dans les deux sens sur le marché international. Ces chiffres confirment la hausse du pouvoir d'achat des clubs de la MLS, qui continuent de courtiser des talents internationaux plus en vue."
+      }
+    }
+  },
+  {
+    "id": "yokohama-nissan-stadium-naming-rights-5yr-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "biz"
+    ],
+    "published_at": "2026-02-27T00:00:00Z",
+    "source_name": "Advertimes",
+    "source_url": "https://www.advertimes.com/20260302/article535751",
+    "i18n": {
+      "en": {
+        "title": "Yokohama Reaches Five-Year, ¥650 Million Naming Rights Deal Keeping Nissan Stadium Name",
+        "summary": "The city of Yokohama finalized a new five-year naming rights agreement covering Nissan Stadium, home of J.League side Yokohama F. Marinos, running from March 2026 through February 2031 for a combined 650 million yen. The deal replaces an earlier proposal for just a one-year, 50 million yen renewal, after city council members pushed for a longer-term arrangement. The agreement also covers two adjacent facilities at the same venue complex."
+      },
+      "ja": {
+        "title": "横浜市、日産スタジアムの命名権を5年・総額6.5億円で更新",
+        "summary": "横浜市は、Jリーグの横浜F・マリノスが本拠地とする日産スタジアムについて、2026年3月から2031年2月までの5年間、総額6.5億円の新たな命名権契約を正式に決定した。市議会から長期契約を求める意見が出たことを受け、当初示されていた1年・年額5000万円の更新案から見直された形となる。契約には同施設に併設する2つの施設も対象として含まれている。"
+      },
+      "es": {
+        "title": "Yokohama acuerda un contrato de naming rights de cinco años y 650 millones de yenes, manteniendo el nombre Nissan Stadium",
+        "summary": "La ciudad de Yokohama ha cerrado un nuevo acuerdo de derechos de denominación por cinco años para el Nissan Stadium, sede del equipo de la J.League Yokohama F. Marinos, vigente desde marzo de 2026 hasta febrero de 2031 por un total de 650 millones de yenes. El acuerdo sustituye a una propuesta anterior de solo un año y 50 millones de yenes, después de que miembros del consejo municipal pidieran un contrato a más largo plazo. El acuerdo también incluye dos instalaciones adyacentes dentro del mismo complejo."
+      },
+      "zh": {
+        "title": "横滨市敲定五年、总额6.5亿日元的日产体育场命名权协议",
+        "summary": "横滨市已正式确定日产体育场新的命名权协议,为期五年,自2026年3月至2031年2月,总金额达6.5亿日元。该体育场是J联赛球队横滨水手队的主场。此协议取代了此前仅为一年、金额5000万日元的续约方案,此前市议会成员曾要求签订更长期的合同。协议还涵盖同一场馆内的另外两处配套设施。"
+      },
+      "fr": {
+        "title": "Yokohama conclut un accord de naming rights de cinq ans et 650 millions de yens, conservant le nom Nissan Stadium",
+        "summary": "La ville de Yokohama a finalisé un nouvel accord de droits de dénomination de cinq ans pour le Nissan Stadium, domicile du club de J.League Yokohama F. Marinos, courant de mars 2026 à février 2031 pour un montant total de 650 millions de yens. Cet accord remplace une proposition antérieure d'un an seulement pour 50 millions de yens, après que des membres du conseil municipal ont demandé un engagement à plus long terme. L'accord couvre également deux installations adjacentes au sein du même complexe."
+      }
+    }
   }
 ]
