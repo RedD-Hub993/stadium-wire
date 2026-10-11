@@ -169,6 +169,40 @@
     }
   },
   {
+    "id": "b-league-nomura-kogeisha-trophy-design-2026",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "fan",
+      "biz"
+    ],
+    "published_at": "2026-09-10T00:00:00Z",
+    "source_name": "Hokkaido Shimbun",
+    "source_url": "https://www.hokkaido-np.co.jp/article/1375968/",
+    "i18n": {
+      "en": {
+        "title": "B.League Unveils New Premier Championship Trophy Designed by Nomura Kogeisha",
+        "summary": "Japan's B.League revealed a new championship trophy for the B.League Premier tier, created by design studio Nomura Kogeisha's \"no.10\" brand to mark the league's 11th season and its 'B.Kakushin' reform push. The design evokes a 'swish' arc of a ball dropping through the net without touching the rim, blending the motif with traditional Japanese craft techniques."
+      },
+      "ja": {
+        "title": "Bリーグ、乃村工藝社デザインの新プレミア王座トロフィーを発表",
+        "summary": "日本のBリーグは、開幕11年目と「B.革新」改革に合わせ、乃村工藝社のデザインブランド「no.10」が手がけた新しいB.LEAGUE PREMIER用優勝トロフィーを発表した。デザインはボールがリングに触れずネットだけを揺らす「スウィッシュ」の軌跡をモチーフに、日本の伝統技術を融合させている。"
+      },
+      "es": {
+        "title": "La B.League presenta nuevo trofeo de campeón de Premier diseñado por Nomura Kogeisha",
+        "summary": "La liga japonesa de baloncesto B.League presentó un nuevo trofeo de campeón para su división Premier, creado por la marca de diseño \"no.10\" del estudio Nomura Kogeisha para celebrar la undécima temporada de la liga y su reforma 'B.Kakushin'. El diseño evoca el arco de un balón que entra en la canasta sin tocar el aro, combinando ese motivo con técnicas artesanales tradicionales japonesas."
+      },
+      "zh": {
+        "title": "日本B联赛发布由乃村工艺社设计的全新职业联赛冠军奖杯",
+        "summary": "日本篮球B联赛公布了为其最高级别B联赛Premier打造的全新冠军奖杯，由设计工作室乃村工艺社旗下品牌“no.10”设计，以纪念联赛迎来第11个赛季并推进“B.革新”改革。奖杯造型取自篮球不触碰篮筐、只让篮网摆动的“空心入网”轨迹，并融合了日本传统工艺技法。"
+      },
+      "fr": {
+        "title": "La B.League dévoile son nouveau trophée de champion Premier conçu par Nomura Kogeisha",
+        "summary": "La ligue japonaise de basket-ball B.League a présenté un nouveau trophée de champion pour sa division Premier, créé par la marque de design « no.10 » du studio Nomura Kogeisha pour marquer la 11e saison de la ligue et sa réforme « B.Kakushin ». Le design évoque la trajectoire d'un ballon qui traverse le filet sans toucher l'arceau, mêlant ce motif à des techniques artisanales traditionnelles japonaises."
+      }
+    }
+  },
+  {
     "id": "kobe-storks-shin-energy-top-partner-2026-27",
     "sport": "basketball",
     "region": "japan",
@@ -1888,74 +1922,6 @@
       "fr": {
         "title": "Omron Healthcare renouvelle son contrat de fournisseur avec les Tokyo Sun Rockers",
         "summary": "Omron Healthcare a renouvelé son contrat de fournisseur avec les Tokyo Sun Rockers, un partenariat qui se poursuivra lors de l'arrivée du club dans la nouvelle division d'élite B.LEAGUE PREMIER pour la saison 2026-27. L'accord fournit à l'équipe des appareils d'électrothérapie et des tensiomètres pour le suivi médical des joueurs et du personnel. Omron collabore avec le club, alors nommé Sunrockers Shibuya, depuis la saison 2021-22."
-      }
-    }
-  },
-  {
-    "id": "nfl-media-rights-renegotiation-stalls-2026",
-    "sport": "football",
-    "region": "global",
-    "topics": [
-      "biz",
-      "team"
-    ],
-    "published_at": "2026-09-25T00:00:00Z",
-    "source_name": "Sportico",
-    "source_url": "https://www.sportico.com/business/media/2026/nfl-tests-media-rights-market-1234941909/",
-    "i18n": {
-      "en": {
-        "title": "NFL's Push to Get Ahead on Media Rights Renegotiation Loses Steam",
-        "summary": "NFL executive Hans Schroeder said the league's early effort to renegotiate its television deals has not progressed as hoped, with Paramount pausing talks amid its Warner Bros. Discovery merger litigation. The league is reportedly seeking fee increases near 100%, far above the roughly 25% some networks are comfortable with, while Fox has said it will wait until its 2030 opt-out window."
-      },
-      "ja": {
-        "title": "NFL、放映権の早期再交渉が停滞",
-        "summary": "NFLのハンス・シュローダー幹部は、テレビ放映権契約の早期再交渉が期待通りに進んでいないと述べた。パラマウントはワーナー・ブラザース・ディスカバリーとの合併訴訟を理由に交渉を一時中断している。NFLは大幅な値上げを求めているが、フォックスは2030年のオプトアウトまで交渉を待つ姿勢を示している。"
-      },
-      "es": {
-        "title": "El impulso de la NFL para renegociar sus derechos mediáticos pierde fuerza",
-        "summary": "El ejecutivo de la NFL Hans Schroeder reconoció que el intento de la liga de adelantar la renegociación de sus contratos televisivos no ha avanzado como se esperaba, después de que Paramount pausara las conversaciones en medio de un litigio por su fusión con Warner Bros. Discovery. La liga busca subidas de tarifas cercanas al 100%, muy por encima de lo que aceptan algunas cadenas, mientras Fox prefiere esperar a su ventana de salida de 2030."
-      },
-      "zh": {
-        "title": "NFL提前重新谈判转播权的努力陷入停滞",
-        "summary": "NFL高管汉斯·施罗德表示,联盟提前重新谈判电视转播合同的努力未能如期推进,派拉蒙因与华纳兄弟探索并购的诉讼而暂停了谈判。据悉联盟寻求接近100%的费用涨幅,远高于部分电视网可接受的约25%,而福克斯表示将等到2030年的退出窗口再谈。"
-      },
-      "fr": {
-        "title": "La tentative de la NFL de renégocier ses droits télévisés s'essouffle",
-        "summary": "Le dirigeant de la NFL Hans Schroeder a reconnu que l'effort de la ligue pour renégocier par anticipation ses contrats télévisés n'avançait pas comme prévu, Paramount ayant suspendu les discussions en raison d'un litige lié à sa fusion avec Warner Bros. Discovery. La ligue chercherait des hausses de redevances proches de 100 %, bien au-delà de ce que certaines chaînes jugent acceptable, tandis que Fox préfère attendre sa fenêtre de sortie de 2030."
-      }
-    }
-  },
-  {
-    "id": "lakers-albert-jersey-patch-2026",
-    "sport": "basketball",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "team"
-    ],
-    "published_at": "2026-09-25T00:00:00Z",
-    "source_name": "Sportcal",
-    "source_url": "https://www.sportcal.com/news/lakers-land-albert-as-new-jersey-sponsor-in-lucrative-deal/",
-    "i18n": {
-      "en": {
-        "title": "Lakers Land Financial App Albert as New Jersey Patch Sponsor, Replacing Bibigo",
-        "summary": "The Los Angeles Lakers announced personal financial assistant app Albert as their new jersey patch sponsor starting in the 2026-27 season, replacing Korean food brand Bibigo. A league source told ESPN the deal is worth more than $30 million annually, up from Bibigo's reported $20 million-per-year arrangement."
-      },
-      "ja": {
-        "title": "レイカーズ、新ユニフォームパッチスポンサーに金融アプリ「アルバート」起用、ビビゴから交代",
-        "summary": "ロサンゼルス・レイカーズは、2026-27シーズンから個人向け資産管理アプリ「アルバート」を新たなユニフォームパッチスポンサーに起用すると発表し、韓国系食品ブランドのビビゴと交代する。リーグ関係者がESPNに語ったところによると、契約額は年間3000万ドル超とされ、ビビゴの契約（年間約2000万ドルと報じられていた）から増額となる。"
-      },
-      "es": {
-        "title": "Los Lakers fichan a la app financiera Albert como nuevo patrocinador del parche de camiseta, en reemplazo de Bibigo",
-        "summary": "Los Lakers de Los Ángeles anunciaron a la aplicación de asistencia financiera personal Albert como su nuevo patrocinador del parche de camiseta a partir de la temporada 2026-27, en reemplazo de la marca de alimentos coreana Bibigo. Una fuente de la liga dijo a ESPN que el acuerdo vale más de 30 millones de dólares anuales, por encima de los aproximadamente 20 millones anuales que se reportaba para Bibigo."
-      },
-      "zh": {
-        "title": "湖人队签下理财应用Albert为新球衣广告赞助商，取代必品阁",
-        "summary": "洛杉矶湖人队宣布，个人理财助手应用Albert将从2026-27赛季起成为球队新的球衣广告赞助商，取代韩国食品品牌必品阁（Bibigo）。一位联盟消息人士告诉ESPN，该协议年价值超过3000万美元，高于此前必品阁据报道约2000万美元的年协议金额。"
-      },
-      "fr": {
-        "title": "Les Lakers signent avec l'application financière Albert comme nouveau sponsor du patch de maillot, en remplacement de Bibigo",
-        "summary": "Les Lakers de Los Angeles ont annoncé que l'application d'assistance financière personnelle Albert deviendrait leur nouveau sponsor du patch de maillot dès la saison 2026-27, remplaçant la marque alimentaire coréenne Bibigo. Une source de la ligue a indiqué à ESPN que l'accord valait plus de 30 millions de dollars par an, contre environ 20 millions annuels rapportés pour Bibigo."
       }
     }
   },
@@ -5678,6 +5644,39 @@
     }
   },
   {
+    "id": "anta-sports-completes-puma-stake-acquisition-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-10-07T00:00:00Z",
+    "source_name": "EqualOcean",
+    "source_url": "https://equalocean.com/news/2026100922226-anta-sports-becomes-pumas-largest-shareholder-1-51-billion-deal",
+    "i18n": {
+      "en": {
+        "title": "ANTA Sports Completes €1.5 Billion Purchase of 29% Puma Stake, Becomes Top Shareholder",
+        "summary": "Chinese sportswear group ANTA Sports has closed its acquisition of a 29.06% stake in Puma SE, paying roughly 1.5 billion euros in cash to the Pinault family's Artemis SAS and making ANTA the German brand's largest shareholder. ANTA says it plans to seek a supervisory board seat and has no current intention to bid for the rest of Puma, aiming instead to keep the brand's independent management in place."
+      },
+      "ja": {
+        "title": "安踏（ANTA）スポーツ、プーマ株29%を15億ユーロで取得完了、筆頭株主に",
+        "summary": "中国のスポーツウェア大手アンタ・スポーツは、プーマSEの株式29.06%の取得を完了し、ピノー家の投資会社アルテミスSASに現金で約15億ユーロを支払い、ドイツブランドの筆頭株主となった。アンタは監査役会の議席獲得を目指す一方、プーマの残り株式へのさらなる買収は現時点で計画しておらず、同ブランドの独立した経営体制を維持する方針だとしている。"
+      },
+      "es": {
+        "title": "ANTA Sports completa la compra de una participación del 29% en Puma por 1.500 millones de euros y se convierte en su mayor accionista",
+        "summary": "El grupo chino de ropa deportiva ANTA Sports ha cerrado la adquisición de una participación del 29,06% en Puma SE, pagando aproximadamente 1.500 millones de euros en efectivo a Artemis SAS, el vehículo de inversión de la familia Pinault, y convirtiéndose en el mayor accionista de la marca alemana. ANTA afirma que buscará un puesto en el consejo de supervisión y que no tiene intención actual de pujar por el resto de Puma, con el objetivo de mantener la dirección independiente de la marca."
+      },
+      "zh": {
+        "title": "安踏体育完成以15亿欧元收购彪马29%股权，成为最大股东",
+        "summary": "中国运动服饰集团安踏体育已完成对彪马（Puma SE）29.06%股权的收购，向皮诺家族的投资工具Artemis SAS支付约15亿欧元现金，成为这家德国品牌的最大股东。安踏表示将寻求监事会席位，目前无意收购彪马剩余股份，旨在维持该品牌独立的管理架构。"
+      },
+      "fr": {
+        "title": "ANTA Sports finalise l'achat d'une participation de 29 % dans Puma pour 1,5 milliard d'euros et devient son premier actionnaire",
+        "summary": "Le groupe chinois d'équipement sportif ANTA Sports a finalisé l'acquisition d'une participation de 29,06 % dans Puma SE, versant environ 1,5 milliard d'euros en liquide à Artemis SAS, le véhicule d'investissement de la famille Pinault, devenant ainsi le premier actionnaire de la marque allemande. ANTA indique vouloir obtenir un siège au conseil de surveillance et n'a pour l'instant pas l'intention de racheter le reste de Puma, souhaitant maintenir une gestion indépendante de la marque."
+      }
+    }
+  },
+  {
     "id": "arsenal-topps-fanatics-trading-cards-2026",
     "sport": "soccer",
     "region": "global",
@@ -6417,685 +6416,6 @@
       "fr": {
         "title": "Le Mumbai City FC prolonge ses partenariats avec l'Indian Super Gaming League et Matix",
         "summary": "Le Mumbai City FC, club de l'Indian Super League, a prolongé ses accords de parrainage avec l'Indian Super Gaming League, qui devient partenaire principal du club pour la saison 2026-27, ainsi qu'avec son partenaire historique Matix. Les deux marques conservent une visibilité lors des jours de match et sur les canaux numériques du club, signe de l'intégration croissante des sponsors d'esport et d'équipement dans l'économie du football indien."
-      }
-    }
-  },
-  {
-    "id": "man-utd-sumup-sleeve-sponsorship-2026",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-09-08T00:00:00Z",
-    "source_name": "Inside Sport",
-    "source_url": "https://insidersport.com/2026/09/08/manchester-united-sumup-sponsorship/",
-    "i18n": {
-      "en": {
-        "title": "Manchester United Names Fintech SumUp as New Sleeve Sponsor, Replacing DXC",
-        "summary": "Manchester United has agreed a club-record sleeve sponsorship with payments firm SumUp, covering the men's, women's and academy shirts in all competitions and replacing outgoing partner DXC Technology. City A.M. reports the deal is worth more than £20 million a year, with the branding first appearing during a Champions League fixture on 10 September, and the pair are also launching a co-branded payment card for fans."
-      },
-      "ja": {
-        "title": "マンチェスター・ユナイテッド、新スリーブスポンサーに決済企業サムアップを選定、DXCに代わる",
-        "summary": "マンチェスター・ユナイテッドは決済企業サムアップとクラブ史上最高額となるスリーブスポンサー契約を結び、男子・女子・育成組織の全競技用シャツに適用され、これまでのパートナーだったDXCテクノロジーから切り替わる。City A.M.によれば契約額は年間2000万ポンド超で、ロゴは9月10日のチャンピオンズリーグの試合で初めて披露され、両者はファン向けの共同ブランドの決済カードも展開する予定だ。"
-      },
-      "es": {
-        "title": "El Manchester United nombra a la fintech SumUp como nuevo patrocinador de manga, en sustitución de DXC",
-        "summary": "El Manchester United ha acordado un patrocinio de manga récord para el club con la empresa de pagos SumUp, que cubrirá las camisetas masculinas, femeninas y de la academia en todas las competiciones, sustituyendo al saliente DXC Technology. City A.M. informa que el acuerdo supera los 20 millones de libras anuales, con el logotipo debutando en un partido de Champions League el 10 de septiembre, y ambas partes lanzarán además una tarjeta de pago cobranded para los aficionados."
-      },
-      "zh": {
-        "title": "曼联官宣支付科技公司SumUp成为新袖标赞助商，取代DXC",
-        "summary": "曼联与支付公司SumUp达成队史最大金额的袖标赞助协议，覆盖男足、女足及青训梯队所有赛事球衣，取代此前的合作伙伴DXC科技。据《City A.M.》报道，该协议年价值超过2000万英镑,新标识已于9月10日的欧冠比赛中首次亮相，双方还将联合推出一款面向球迷的联名支付卡。"
-      },
-      "fr": {
-        "title": "Manchester United choisit la fintech SumUp comme nouveau sponsor de manche, en remplacement de DXC",
-        "summary": "Manchester United a signé un accord de sponsoring de manche record pour le club avec l'entreprise de paiement SumUp, couvrant les maillots masculins, féminins et de l'académie dans toutes les compétitions, remplaçant l'ancien partenaire DXC Technology. Selon City A.M., l'accord dépasse 20 millions de livres par an, le logo ayant fait ses débuts lors d'un match de Ligue des champions le 10 septembre, et les deux parties lanceront aussi une carte de paiement co-brandée pour les supporters."
-      }
-    }
-  },
-  {
-    "id": "infront-hyrox-stake-sale-lcatterton-2026",
-    "sport": "general",
-    "region": "global",
-    "topics": [
-      "biz"
-    ],
-    "published_at": "2026-09-08T00:00:00Z",
-    "source_name": "Athletech News",
-    "source_url": "https://athletechnews.com/hyrox-acquisition-l-catterton-led-group-co-founders-wndr-infront/",
-    "i18n": {
-      "en": {
-        "title": "Hyrox Founders Regain Control as L Catterton-Led Group Buys Out Infront's Majority Stake",
-        "summary": "Sports marketing agency Infront has sold its majority stake in fitness-racing brand Hyrox to a consortium led by private equity firm L Catterton, which includes Hyrox co-founders Christian Toetzke and Moritz Furste along with investor WndrCo. Multiple outlets cite a valuation near 600 million euros for a brand that ran over 100 events with roughly 1.4 million participants in the past season."
-      },
-      "ja": {
-        "title": "Hyrox創業者がコントロールを取り戻す、L・カタートン主導の投資グループがインフロントの過半数株式を買収",
-        "summary": "スポーツマーケティング会社のインフロントは、フィットネスレース系ブランド「Hyrox」の過半数株式を、プライベートエクイティ企業L・カタートン主導のコンソーシアムに売却した。このグループにはHyrox共同創業者のクリスチャン・トエツケ氏とモーリッツ・フュルステ氏、投資会社WndrCoも参加している。複数のメディアはブランドの評価額を約6億ユーロと報じており、直近のシーズンでは100以上のイベントに約140万人が参加したとされる。"
-      },
-      "es": {
-        "title": "Los fundadores de Hyrox recuperan el control tras la compra de la participación mayoritaria de Infront por un grupo liderado por L Catterton",
-        "summary": "La agencia de marketing deportivo Infront ha vendido su participación mayoritaria en la marca de carreras fitness Hyrox a un consorcio liderado por la firma de capital privado L Catterton, que incluye a los cofundadores de Hyrox, Christian Toetzke y Moritz Furste, junto con el inversor WndrCo. Varios medios citan una valoración cercana a los 600 millones de euros para una marca que organizó más de 100 eventos con alrededor de 1,4 millones de participantes en la última temporada."
-      },
-      "zh": {
-        "title": "Hyrox创始人重掌控股权，L Catterton领投集团收购Infront所持多数股权",
-        "summary": "体育营销机构Infront已将其在健身竞速品牌Hyrox持有的多数股权出售给由私募股权公司L Catterton领投的财团，该财团包括Hyrox联合创始人克里斯蒂安·托兹克和莫里茨·福斯特，以及投资方WndrCo。多家媒体援引消息称该品牌估值接近6亿欧元，上一赛季该品牌举办了超过100场赛事，参与人数约140万人。"
-      },
-      "fr": {
-        "title": "Les fondateurs de Hyrox reprennent le contrôle après le rachat de la participation majoritaire d'Infront par un groupe mené par L Catterton",
-        "summary": "L'agence de marketing sportif Infront a vendu sa participation majoritaire dans la marque de course fitness Hyrox à un consortium dirigé par la société de capital-investissement L Catterton, qui inclut les cofondateurs de Hyrox, Christian Toetzke et Moritz Furste, ainsi que l'investisseur WndrCo. Plusieurs médias citent une valorisation proche de 600 millions d'euros pour une marque qui a organisé plus de 100 événements réunissant environ 1,4 million de participants la saison dernière."
-      }
-    }
-  },
-  {
-    "id": "national-stadium-tokyo-mufg-naming-rights-2026",
-    "sport": "general",
-    "region": "japan",
-    "topics": [
-      "stadium",
-      "sponsor"
-    ],
-    "published_at": "2025-10-15T00:00:00Z",
-    "source_name": "AdverTimes",
-    "source_url": "https://www.advertimes.com/?p=518368",
-    "i18n": {
-      "en": {
-        "title": "Tokyo's National Stadium to Be Called 'MUFG Stadium' Under Naming-Rights Deal",
-        "summary": "Operator JNSE has agreed a top-partner naming-rights contract with Mitsubishi UFJ Financial Group, making MUFG Japan's first 'National Stadium Partner.' The venue will carry the nickname MUFG Stadium (MUFG Kokuritsu) for five years from January 2026, though its official name stays Kokuritsu Kyogijo and the fee has not been disclosed, with prior media estimates near 2 billion yen annually."
-      },
-      "ja": {
-        "title": "東京の国立競技場、命名権契約により「MUFGスタジアム」の愛称に",
-        "summary": "運営会社のJNSEは三菱UFJフィナンシャル・グループとトップパートナー契約を結び、MUFGは国内初の「ナショナルスタジアムパートナー」となった。同スタジアムは2026年1月から5年間「MUFGスタジアム(MUFG国立)」という愛称で呼ばれるが、正式名称は従来通り「国立競技場」のままで、契約金額は非公表ながら事前報道では年間約20億円との見方もある。"
-      },
-      "es": {
-        "title": "El Estadio Nacional de Tokio se llamará 'MUFG Stadium' bajo un acuerdo de derechos de nombre",
-        "summary": "El operador JNSE ha acordado un contrato de patrocinador principal con Mitsubishi UFJ Financial Group, que convierte a MUFG en el primer 'Socio del Estadio Nacional' de Japón. El recinto llevará el apodo MUFG Stadium (MUFG Kokuritsu) durante cinco años a partir de enero de 2026, aunque su nombre oficial seguirá siendo Kokuritsu Kyogijo, y la cuantía del acuerdo no se ha revelado, con estimaciones previas de prensa cercanas a los 2.000 millones de yenes anuales."
-      },
-      "zh": {
-        "title": "东京国立竞技场通过冠名权协议获昵称“MUFG体育场”",
-        "summary": "运营方JNSE与三菱UFJ金融集团签署首席合作伙伴冠名权协议，MUFG成为日本首个“国家体育场合作伙伴”。该场馆将从2026年1月起五年内获得“MUFG体育场（MUFG国立）”的昵称，但正式名称仍为“国立竞技场”，合同金额未披露，此前媒体报道估计年费约20亿日元。"
-      },
-      "fr": {
-        "title": "Le Stade national de Tokyo rebaptisé « MUFG Stadium » dans le cadre d'un accord de naming",
-        "summary": "L'exploitant JNSE a conclu un contrat de partenaire principal avec Mitsubishi UFJ Financial Group, faisant de MUFG le premier « partenaire du Stade national » du Japon. L'enceinte portera le surnom MUFG Stadium (MUFG Kokuritsu) pendant cinq ans à partir de janvier 2026, bien que son nom officiel reste Kokuritsu Kyogijo ; le montant du contrat n'a pas été dévoilé, des estimations antérieures évoquant près de 2 milliards de yens par an."
-      }
-    }
-  },
-  {
-    "id": "anta-sports-completes-puma-stake-acquisition-2026",
-    "sport": "general",
-    "region": "global",
-    "topics": [
-      "biz"
-    ],
-    "published_at": "2026-10-07T00:00:00Z",
-    "source_name": "EqualOcean",
-    "source_url": "https://equalocean.com/news/2026100922226-anta-sports-becomes-pumas-largest-shareholder-1-51-billion-deal",
-    "i18n": {
-      "en": {
-        "title": "ANTA Sports Completes €1.5 Billion Purchase of 29% Puma Stake, Becomes Top Shareholder",
-        "summary": "Chinese sportswear group ANTA Sports has closed its acquisition of a 29.06% stake in Puma SE, paying roughly 1.5 billion euros in cash to the Pinault family's Artemis SAS and making ANTA the German brand's largest shareholder. ANTA says it plans to seek a supervisory board seat and has no current intention to bid for the rest of Puma, aiming instead to keep the brand's independent management in place."
-      },
-      "ja": {
-        "title": "安踏（ANTA）スポーツ、プーマ株29%を15億ユーロで取得完了、筆頭株主に",
-        "summary": "中国のスポーツウェア大手アンタ・スポーツは、プーマSEの株式29.06%の取得を完了し、ピノー家の投資会社アルテミスSASに現金で約15億ユーロを支払い、ドイツブランドの筆頭株主となった。アンタは監査役会の議席獲得を目指す一方、プーマの残り株式へのさらなる買収は現時点で計画しておらず、同ブランドの独立した経営体制を維持する方針だとしている。"
-      },
-      "es": {
-        "title": "ANTA Sports completa la compra de una participación del 29% en Puma por 1.500 millones de euros y se convierte en su mayor accionista",
-        "summary": "El grupo chino de ropa deportiva ANTA Sports ha cerrado la adquisición de una participación del 29,06% en Puma SE, pagando aproximadamente 1.500 millones de euros en efectivo a Artemis SAS, el vehículo de inversión de la familia Pinault, y convirtiéndose en el mayor accionista de la marca alemana. ANTA afirma que buscará un puesto en el consejo de supervisión y que no tiene intención actual de pujar por el resto de Puma, con el objetivo de mantener la dirección independiente de la marca."
-      },
-      "zh": {
-        "title": "安踏体育完成以15亿欧元收购彪马29%股权，成为最大股东",
-        "summary": "中国运动服饰集团安踏体育已完成对彪马（Puma SE）29.06%股权的收购，向皮诺家族的投资工具Artemis SAS支付约15亿欧元现金，成为这家德国品牌的最大股东。安踏表示将寻求监事会席位，目前无意收购彪马剩余股份，旨在维持该品牌独立的管理架构。"
-      },
-      "fr": {
-        "title": "ANTA Sports finalise l'achat d'une participation de 29 % dans Puma pour 1,5 milliard d'euros et devient son premier actionnaire",
-        "summary": "Le groupe chinois d'équipement sportif ANTA Sports a finalisé l'acquisition d'une participation de 29,06 % dans Puma SE, versant environ 1,5 milliard d'euros en liquide à Artemis SAS, le véhicule d'investissement de la famille Pinault, devenant ainsi le premier actionnaire de la marque allemande. ANTA indique vouloir obtenir un siège au conseil de surveillance et n'a pour l'instant pas l'intention de racheter le reste de Puma, souhaitant maintenir une gestion indépendante de la marque."
-      }
-    }
-  },
-  {
-    "id": "kretinsky-west-ham-majority-shareholder-2026",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "team",
-      "biz"
-    ],
-    "published_at": "2026-09-05T00:00:00Z",
-    "source_name": "The Star (Reuters)",
-    "source_url": "https://www.thestar.com.my/sport/football/2026/09/05/soccer-czech-billionaire-kretinsky-becomes-largest-shareholder-at-west-ham",
-    "i18n": {
-      "en": {
-        "title": "Czech Billionaire Kretinsky Becomes West Ham's Largest Shareholder",
-        "summary": "Daniel Kretinsky's investment vehicle has raised its holding in West Ham United, with various reports putting the stake in the mid-40% range, making him the Premier League club's largest shareholder. The move follows the resignation of co-chairman David Sullivan amid misconduct allegations he denies, and an earlier agreement with joint-chair Vanessa Gold that ended a rival consortium's bid for her family's shares."
-      },
-      "ja": {
-        "title": "チェコの富豪クレチンスキー氏、ウェストハムの筆頭株主に",
-        "summary": "ダニエル・クレチンスキー氏の投資会社がウェストハム・ユナイテッドの保有株を積み増し、各報道では保有比率を40%台半ば程度としており、同プレミアリーグクラブの筆頭株主となった。この動きは、本人が否定する不正疑惑を受けて共同会長デービッド・サリバン氏が辞任した後に実現したもので、以前には共同会長ヴァネッサ・ゴールド氏と合意し、ゴールド家の株式をめぐる対抗コンソーシアムの買収提案を退けていた。"
-      },
-      "es": {
-        "title": "El multimillonario checo Kretinsky se convierte en el mayor accionista del West Ham",
-        "summary": "El vehículo de inversión de Daniel Kretinsky ha aumentado su participación en el West Ham United, y varios medios sitúan la cifra en torno al 40-46%, lo que lo convierte en el mayor accionista del club de la Premier League. El movimiento se produce tras la dimisión del copresidente David Sullivan en medio de acusaciones de mala conducta que él niega, y de un acuerdo previo con la copresidenta Vanessa Gold que puso fin a la puja de un consorcio rival por las acciones de su familia."
-      },
-      "zh": {
-        "title": "捷克亿万富翁克雷廷斯基成为西汉姆联最大股东",
-        "summary": "丹尼尔·克雷廷斯基的投资工具已增持西汉姆联股份，多家媒体报道其持股比例在40%出头到46%之间，使其成为这家英超俱乐部的最大股东。此前联合主席大卫·苏利文因其否认的不当行为指控而辞职，而克雷廷斯基早前已与联合主席瓦内萨·高尔德达成协议，挫败了一个竞争财团对高尔德家族股份的收购企图。"
-      },
-      "fr": {
-        "title": "Le milliardaire tchèque Kretinsky devient le principal actionnaire de West Ham",
-        "summary": "Le véhicule d'investissement de Daniel Kretinsky a augmenté sa participation dans West Ham United, plusieurs médias situant sa part autour de 40 à 46 %, ce qui en fait le premier actionnaire du club de Premier League. Ce mouvement survient après la démission du coprésident David Sullivan, visé par des accusations de mauvaise conduite qu'il nie, et après un précédent accord avec la coprésidente Vanessa Gold qui a mis fin à l'offre d'un consortium rival pour les parts de sa famille."
-      }
-    }
-  },
-  {
-    "id": "walton-family-chicago-bulls-stake-2026",
-    "sport": "basketball",
-    "region": "global",
-    "topics": [
-      "team",
-      "stadium",
-      "biz"
-    ],
-    "published_at": "2026-06-26T00:00:00Z",
-    "source_name": "ABC7 Chicago",
-    "source_url": "https://abc7chicago.com/post/basketball-news-chicago-bulls-announce-minority-investment-walmart-family-heir-lukas-walton-nba-team-united-center/19389903/",
-    "i18n": {
-      "en": {
-        "title": "Walmart Heir Lukas Walton Buys Minority Stake in Chicago Bulls and United Center",
-        "summary": "The Chicago Bulls announced a minority investment from Lukas Walton, grandson of Walmart founder Sam Walton, acquired by purchasing shares from existing limited partners rather than new issuance. Reports put the stake near 10% and the team's valuation around $6.45 billion; the Reinsdorf and Wirtz families retain control of both the Bulls and the United Center, which the Waltons' investment also touches as part of the arena's broader redevelopment plans."
-      },
-      "ja": {
-        "title": "ウォルマート創業家のルーカス・ウォルトン氏、シカゴ・ブルズとユナイテッド・センターの少数株式を取得",
-        "summary": "シカゴ・ブルズは、ウォルマート創業者サム・ウォルトン氏の孫であるルーカス・ウォルトン氏からの少数出資を発表した。新株発行ではなく既存のリミテッドパートナーからの株式購入によるもの。報道では出資比率は約10%、球団評価額は約64.5億ドルとされ、ブルズとユナイテッド・センターの支配権はラインズドーフ家とワーツ家が維持するが、ウォルトン氏の出資はアリーナの大規模再開発計画にも関わるとされている。"
-      },
-      "es": {
-        "title": "El heredero de Walmart, Lukas Walton, compra una participación minoritaria en los Chicago Bulls y el United Center",
-        "summary": "Los Chicago Bulls anunciaron una inversión minoritaria de Lukas Walton, nieto del fundador de Walmart, Sam Walton, adquirida mediante la compra de acciones a socios comanditarios existentes en lugar de una nueva emisión. Según informes, la participación ronda el 10% y la valoración del equipo se sitúa cerca de 6.450 millones de dólares; las familias Reinsdorf y Wirtz mantienen el control tanto de los Bulls como del United Center, al que también afecta la inversión de los Walton como parte de los planes de remodelación más amplios de la arena."
-      },
-      "zh": {
-        "title": "沃尔玛家族继承人卢卡斯·沃尔顿收购芝加哥公牛及联合中心少数股权",
-        "summary": "芝加哥公牛官方宣布，沃尔玛创始人山姆·沃尔顿之孙卢卡斯·沃尔顿进行少数股权投资，该交易通过从现有有限合伙人手中购买股份完成，而非增发新股。据报道其持股比例约为10%，球队估值约64.5亿美元；莱恩斯多夫家族和沃茨家族仍保留对公牛队及联合中心的控股权，沃尔顿家族的投资也涉及该球馆更大规模的改造计划。"
-      },
-      "fr": {
-        "title": "L'héritier de Walmart Lukas Walton achète une participation minoritaire dans les Chicago Bulls et le United Center",
-        "summary": "Les Chicago Bulls ont annoncé un investissement minoritaire de Lukas Walton, petit-fils du fondateur de Walmart Sam Walton, réalisé par l'achat de parts auprès de commanditaires existants plutôt que par une nouvelle émission. Selon certains rapports, la participation avoisine 10 % pour une valorisation de l'équipe proche de 6,45 milliards de dollars ; les familles Reinsdorf et Wirtz conservent le contrôle des Bulls et du United Center, l'investissement des Walton touchant aussi aux projets plus larges de réaménagement de la salle."
-      }
-    }
-  },
-  {
-    "id": "cannae-black-knight-rugby-exeter-chiefs-2026",
-    "sport": "general",
-    "region": "global",
-    "topics": [
-      "team",
-      "biz"
-    ],
-    "published_at": "2026-06-30T00:00:00Z",
-    "source_name": "WTOP (Reuters)",
-    "source_url": "https://wtop.com/sports/2026/06/american-investors-dip-into-english-rugby-as-exeter-chiefs-bought-by-u-s-owners-of-bournemouth/",
-    "i18n": {
-      "en": {
-        "title": "Bournemouth Owner's Cannae Holdings Completes Takeover of Exeter Chiefs",
-        "summary": "Black Knight Rugby, a new subsidiary of Cannae Holdings led by Bill Foley (owner of AFC Bournemouth), has completed its purchase of 100% of Exeter Rugby Group following a member vote approving the sale. Reported figures vary by measure, with one outlet citing an enterprise value near $43 million and another a club investment of about £19 million, and chief executive Tony Rowe stays on alongside a new three-person executive board."
-      },
-      "ja": {
-        "title": "ボーンマス所有者のキャネイ・ホールディングス、エクセター・チーフスの買収を完了",
-        "summary": "AFCボーンマス所有者ビル・フォーリー氏が率いるキャネイ・ホールディングスの新子会社ブラック・ナイト・ラグビーが、会員投票で売却が承認された後、エクセター・ラグビー・グループの全株式取得を完了した。報じられている金額は指標によって異なり、ある媒体は企業価値を約4300万ドルと伝え、別の媒体はクラブへの投資額を約1900万ポンドとしている。最高経営責任者トニー・ロウ氏は留任し、新設の3人体制の執行委員会に加わる。"
-      },
-      "es": {
-        "title": "Cannae Holdings, del propietario del Bournemouth, completa la adquisición de los Exeter Chiefs",
-        "summary": "Black Knight Rugby, una nueva filial de Cannae Holdings dirigida por Bill Foley (propietario del AFC Bournemouth), ha completado la compra del 100% del Exeter Rugby Group tras una votación de los socios que aprobó la venta. Las cifras difieren según la fuente: un medio cita un valor de empresa cercano a los 43 millones de dólares y otro una inversión en el club de unas 19 millones de libras; el consejero delegado Tony Rowe continúa en el cargo junto a un nuevo consejo ejecutivo de tres personas."
-      },
-      "zh": {
-        "title": "伯恩茅斯老板旗下Cannae控股完成对埃克塞特酋长队的收购",
-        "summary": "由AFC伯恩茅斯老板比尔·福利领导的Cannae控股新子公司Black Knight Rugby，在会员投票批准出售后，已完成对埃克塞特橄榄球集团100%股权的收购。各媒体报道的金额口径不同，一家媒体称企业价值约为4300万美元，另一家称俱乐部投资约为1900万英镑；首席执行官托尼·罗维留任，并加入新设立的三人执行董事会。"
-      },
-      "fr": {
-        "title": "Cannae Holdings, propriétaire de Bournemouth, finalise le rachat des Exeter Chiefs",
-        "summary": "Black Knight Rugby, nouvelle filiale de Cannae Holdings dirigée par Bill Foley (propriétaire de l'AFC Bournemouth), a finalisé l'achat de 100 % de l'Exeter Rugby Group après un vote des membres approuvant la vente. Les chiffres rapportés varient selon la source : un média évoque une valeur d'entreprise proche de 43 millions de dollars, un autre un investissement dans le club d'environ 19 millions de livres ; le directeur général Tony Rowe reste en poste, aux côtés d'un nouveau conseil exécutif de trois personnes."
-      }
-    }
-  },
-  {
-    "id": "tennessee-first-horizon-jersey-patch-2026",
-    "sport": "football",
-    "region": "global",
-    "topics": [
-      "team",
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-09-01T00:00:00Z",
-    "source_name": "The Daily Memphian",
-    "source_url": "https://dailymemphian.com/article/66231/first-horizon-and-ut-knoxville-vols-jersey-patch",
-    "i18n": {
-      "en": {
-        "title": "Tennessee Football Lands First Jersey Patch Sponsor in First Horizon Bank",
-        "summary": "Tennessee Athletics named Memphis-based First Horizon Bank as the first-ever jersey patch sponsor for Volunteers football, a 10-year arrangement industry sources value at more than $120 million. The deal, brokered through Learfield's Vol Network, also extends First Horizon's name to premium seating clubs at Neyland and Lindsey Nelson Stadiums and covers several Olympic sports beyond football."
-      },
-      "ja": {
-        "title": "テネシー大アメフト部、ファースト・ホライズン銀行と初のユニフォームパッチ契約",
-        "summary": "テネシー大学athleticsは、メンフィスを拠点とするファースト・ホライズン銀行をボランティアーズのアメリカンフットボールチーム史上初のユニフォームパッチ・スポンサーに選んだ。業界関係者によれば10年間で1億2000万ドル超とされる契約で、Learfield傘下のVol Networkが仲介し、スタジアム内の高級シート区画の命名権や複数のオリンピック種目への協賛も含まれる。"
-      },
-      "es": {
-        "title": "El fútbol americano de Tennessee ficha a First Horizon Bank como primer patrocinador de parche",
-        "summary": "El departamento de atletismo de Tennessee eligió a First Horizon Bank, con sede en Memphis, como el primer patrocinador de parche de camiseta para el equipo de fútbol americano de los Volunteers, un acuerdo de 10 años que fuentes del sector valoran en más de 120 millones de dólares. El pacto, negociado a través de Vol Network de Learfield, también otorga a First Horizon el nombre de zonas de asientos premium en los estadios Neyland y Lindsey Nelson y cubre varios deportes olímpicos además del fútbol."
-      },
-      "zh": {
-        "title": "田纳西大学橄榄球队与第一地平线银行签下首个球衣广告赞助",
-        "summary": "田纳西大学体育部宣布，总部位于孟菲斯的第一地平线银行将成为志愿者队橄榄球队史上首个球衣广告赞助商，业内人士估算这份10年协议价值超过1.2亿美元。该协议由Learfield旗下Vol Network牵线促成，还包括在内兰德体育场和林赛·纳尔逊体育场设立以银行命名的高级座位区，并覆盖橄榄球以外的多个奥运项目。"
-      },
-      "fr": {
-        "title": "Le football américain de Tennessee signe son premier sponsor de patch avec First Horizon Bank",
-        "summary": "Le département sportif de Tennessee a choisi First Horizon Bank, basée à Memphis, comme tout premier sponsor de patch de maillot pour l'équipe de football américain des Volunteers, un accord de 10 ans évalué par des sources du secteur à plus de 120 millions de dollars. Négocié via le Vol Network de Learfield, le contrat donne aussi le nom de la banque à des espaces de sièges premium dans les stades Neyland et Lindsey Nelson et couvre plusieurs sports olympiques au-delà du football."
-      }
-    }
-  },
-  {
-    "id": "capital-one-arena-naming-rights-extension-2026",
-    "sport": "general",
-    "region": "global",
-    "topics": [
-      "stadium",
-      "sponsor",
-      "team"
-    ],
-    "published_at": "2026-08-11T00:00:00Z",
-    "source_name": "SportCal",
-    "source_url": "https://www.sportcal.com/sponsorship/capital-one-retains-naming-rights-for-washington-d-c-arena-through-2047/",
-    "i18n": {
-      "en": {
-        "title": "Capital One Extends Washington Arena Naming Rights Through 2047",
-        "summary": "Monumental Sports & Entertainment and Capital One announced a 20-year extension to their naming-rights agreement, keeping the home of the NBA's Wizards, NHL's Capitals and WNBA's Mystics branded Capital One Arena through 2047. The deal underpins a renovation Monumental says will exceed $1 billion and anchors sponsorship across the group's teams and its Monumental Sports Network."
-      },
-      "ja": {
-        "title": "キャピタル・ワン、ワシントンのアリーナ命名権を2047年まで延長",
-        "summary": "モニュメンタル・スポーツ・アンド・エンターテインメントとキャピタル・ワンは、命名権契約を20年延長すると発表した。これにより、NBAウィザーズ、NHLキャピタルズ、WNBAミスティックスの本拠地は2047年まで「キャピタル・ワン・アリーナ」の名称を維持する。この契約はモニュメント社が10億ドル超と見積もる改修計画の土台となり、グループ傘下チームやモニュメンタル・スポーツ・ネットワークへの協賛も含む。"
-      },
-      "es": {
-        "title": "Capital One extiende los derechos de nombre de la arena de Washington hasta 2047",
-        "summary": "Monumental Sports & Entertainment y Capital One anunciaron una extensión de 20 años de su acuerdo de derechos de nombre, manteniendo el nombre Capital One Arena para la sede de los Wizards de la NBA, los Capitals de la NHL y las Mystics de la WNBA hasta 2047. El acuerdo respalda una renovación que Monumental calcula en más de 1.000 millones de dólares y sustenta el patrocinio de los equipos del grupo y su Monumental Sports Network."
-      },
-      "zh": {
-        "title": "Capital One将华盛顿球馆命名权延长至2047年",
-        "summary": "Monumental体育娱乐集团与Capital One宣布将命名权协议延长20年，NBA奇才队、NHL首都人队和WNBA神秘人队的主场馆将继续沿用“Capital One Arena”名称直至2047年。该协议为Monumental估算超过10亿美元的场馆改造计划提供支撑，并涵盖对集团旗下球队及其Monumental体育网络的赞助。"
-      },
-      "fr": {
-        "title": "Capital One prolonge les droits de nommage de l'arène de Washington jusqu'en 2047",
-        "summary": "Monumental Sports & Entertainment et Capital One ont annoncé une prolongation de 20 ans de leur accord de droits de nommage, conservant le nom Capital One Arena pour la salle des Wizards (NBA), des Capitals (NHL) et des Mystics (WNBA) jusqu'en 2047. L'accord soutient une rénovation que Monumental évalue à plus d'un milliard de dollars et consolide le parrainage des équipes du groupe ainsi que de son Monumental Sports Network."
-      }
-    }
-  },
-  {
-    "id": "b-league-nomura-kogeisha-trophy-design-2026",
-    "sport": "basketball",
-    "region": "japan",
-    "topics": [
-      "fan",
-      "biz"
-    ],
-    "published_at": "2026-09-10T00:00:00Z",
-    "source_name": "Hokkaido Shimbun",
-    "source_url": "https://www.hokkaido-np.co.jp/article/1375968/",
-    "i18n": {
-      "en": {
-        "title": "B.League Unveils New Premier Championship Trophy Designed by Nomura Kogeisha",
-        "summary": "Japan's B.League revealed a new championship trophy for the B.League Premier tier, created by design studio Nomura Kogeisha's \"no.10\" brand to mark the league's 11th season and its 'B.Kakushin' reform push. The design evokes a 'swish' arc of a ball dropping through the net without touching the rim, blending the motif with traditional Japanese craft techniques."
-      },
-      "ja": {
-        "title": "Bリーグ、乃村工藝社デザインの新プレミア王座トロフィーを発表",
-        "summary": "日本のBリーグは、開幕11年目と「B.革新」改革に合わせ、乃村工藝社のデザインブランド「no.10」が手がけた新しいB.LEAGUE PREMIER用優勝トロフィーを発表した。デザインはボールがリングに触れずネットだけを揺らす「スウィッシュ」の軌跡をモチーフに、日本の伝統技術を融合させている。"
-      },
-      "es": {
-        "title": "La B.League presenta nuevo trofeo de campeón de Premier diseñado por Nomura Kogeisha",
-        "summary": "La liga japonesa de baloncesto B.League presentó un nuevo trofeo de campeón para su división Premier, creado por la marca de diseño \"no.10\" del estudio Nomura Kogeisha para celebrar la undécima temporada de la liga y su reforma 'B.Kakushin'. El diseño evoca el arco de un balón que entra en la canasta sin tocar el aro, combinando ese motivo con técnicas artesanales tradicionales japonesas."
-      },
-      "zh": {
-        "title": "日本B联赛发布由乃村工艺社设计的全新职业联赛冠军奖杯",
-        "summary": "日本篮球B联赛公布了为其最高级别B联赛Premier打造的全新冠军奖杯，由设计工作室乃村工艺社旗下品牌“no.10”设计，以纪念联赛迎来第11个赛季并推进“B.革新”改革。奖杯造型取自篮球不触碰篮筐、只让篮网摆动的“空心入网”轨迹，并融合了日本传统工艺技法。"
-      },
-      "fr": {
-        "title": "La B.League dévoile son nouveau trophée de champion Premier conçu par Nomura Kogeisha",
-        "summary": "La ligue japonaise de basket-ball B.League a présenté un nouveau trophée de champion pour sa division Premier, créé par la marque de design « no.10 » du studio Nomura Kogeisha pour marquer la 11e saison de la ligue et sa réforme « B.Kakushin ». Le design évoque la trajectoire d'un ballon qui traverse le filet sans toucher l'arceau, mêlant ce motif à des techniques artisanales traditionnelles japonaises."
-      }
-    }
-  },
-  {
-    "id": "liverpool-turkish-airlines-shirt-sponsor-2026",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "team"
-    ],
-    "published_at": "2026-09-08T00:00:00Z",
-    "source_name": "Sports Illustrated",
-    "source_url": "https://www.si.com/soccer/how-liverpool-record-breaking-new-jersey-sponsor-compares-rival-clubs",
-    "i18n": {
-      "en": {
-        "title": "Liverpool Signs Turkish Airlines in Record Front-of-Shirt Deal, Ending Standard Chartered Era",
-        "summary": "Liverpool has agreed a five-year front-of-shirt deal with Turkish Airlines reported to be worth roughly $81 million a year, replacing Standard Chartered from the 2027-28 season after a 17-year partnership. Industry sources describe it as the most lucrative shirt-only sponsorship in Premier League history, well above Standard Chartered's prior terms, while the bank stays on as a club partner in a reduced role."
-      },
-      "ja": {
-        "title": "リバプール、ユニフォーム前面スポンサーにターキッシュ エアラインズと記録的契約、スタンダードチャータード時代終了へ",
-        "summary": "リバプールはターキッシュ エアラインズとユニフォーム前面広告契約を5年間、年間約8100万ドル相当と報じられる条件で締結し、17年続いたスタンダードチャータードとの関係を2027-28シーズンから終了させる。業界関係者は、ユニフォーム単独契約としてはプレミアリーグ史上最高額だとしており、スタンダードチャータードは規模を縮小したクラブパートナーとして関係を継続する。"
-      },
-      "es": {
-        "title": "Liverpool ficha a Turkish Airlines en un acuerdo récord de camiseta y pone fin a la era de Standard Chartered",
-        "summary": "Liverpool acordó un contrato de cinco años como patrocinador frontal de camiseta con Turkish Airlines, valorado en unos 81 millones de dólares anuales según reportes, que sustituirá a Standard Chartered desde la temporada 2027-28 tras 17 años de asociación. Fuentes del sector lo califican como el patrocinio exclusivo de camiseta más lucrativo en la historia de la Premier League, muy por encima de las condiciones previas de Standard Chartered, que seguirá como socio del club en un papel reducido."
-      },
-      "zh": {
-        "title": "利物浦与土耳其航空签下创纪录球衣胸前广告协议，渣打时代落幕",
-        "summary": "利物浦与土耳其航空达成为期五年的球衣胸前广告协议，据报年值约8100万美元，将从2027-28赛季起取代合作17年的渣打银行。业内人士称这是英超历史上纯球衣广告价值最高的赞助协议，远超渣打此前的条款，渣打将以规模缩小的俱乐部合作伙伴身份继续留任。"
-      },
-      "fr": {
-        "title": "Liverpool signe un accord record avec Turkish Airlines pour le flocage avant, mettant fin à l'ère Standard Chartered",
-        "summary": "Liverpool a conclu un accord de cinq ans pour le sponsoring avant-maillot avec Turkish Airlines, évalué à environ 81 millions de dollars par an selon la presse, qui remplacera Standard Chartered à partir de la saison 2027-28 après 17 ans de partenariat. Des sources du secteur le décrivent comme le sponsoring de maillot le plus lucratif de l'histoire de la Premier League, bien au-delà des conditions précédentes de Standard Chartered, qui restera partenaire du club dans un rôle réduit."
-      }
-    }
-  },
-  {
-    "id": "london-city-lionesses-nike-shirt-sponsor-2026",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "fan",
-      "team"
-    ],
-    "published_at": "2026-09-04T00:00:00Z",
-    "source_name": "Footy Headlines",
-    "source_url": "https://www.footyheadlines.com/7711806278/london-city-lionesses-announce-landmark-nike-front-of-shirt-sponsorship-deal.html",
-    "i18n": {
-      "en": {
-        "title": "London City Lionesses Unveil Nike as New Front-of-Shirt Partner",
-        "summary": "Women's Super League club London City Lionesses announced a multi-year front-of-shirt partnership with Nike, debuting the new branding in a league match against Manchester United on September 4. The club called it a landmark commercial agreement as it continues building its sponsorship portfolio in its first top-flight season."
-      },
-      "ja": {
-        "title": "ロンドン・シティ・リオネッサ、ユニフォーム前面スポンサーにナイキを発表",
-        "summary": "女子スーパーリーグに所属するロンドン・シティ・リオネッサは、ナイキとの複数年にわたるユニフォーム前面スポンサー契約を発表し、9月4日のマンチェスター・ユナイテッド戦で新デザインを初披露した。クラブはこれを、トップリーグ初年度におけるスポンサーシップ拡充の大きな節目となる契約と位置付けている。"
-      },
-      "es": {
-        "title": "London City Lionesses presenta a Nike como nuevo patrocinador frontal de camiseta",
-        "summary": "El club de la Women's Super League London City Lionesses anunció una asociación de varios años como patrocinador frontal de camiseta con Nike, debutando con el nuevo diseño en un partido de liga contra el Manchester United el 4 de septiembre. El club calificó el acuerdo de hito comercial mientras amplía su cartera de patrocinios en su primera temporada en la máxima categoría."
-      },
-      "zh": {
-        "title": "伦敦城女足獬狮队宣布耐克成为新球衣胸前赞助商",
-        "summary": "英格兰女子超级联赛球队伦敦城女足獬狮队宣布与耐克达成多年球衣胸前赞助合作，并在9月4日对阵曼联的联赛中首次亮相新队服。俱乐部称这是其升入顶级联赛首个赛季中扩大赞助版图的一项里程碑式商业协议。"
-      },
-      "fr": {
-        "title": "Les London City Lionesses dévoilent Nike comme nouveau partenaire du flocage avant",
-        "summary": "Le club de Women's Super League London City Lionesses a annoncé un partenariat pluriannuel de flocage avant avec Nike, dévoilant le nouveau design lors d'un match de championnat face à Manchester United le 4 septembre. Le club a qualifié cet accord d'étape commerciale majeure alors qu'il développe son portefeuille de sponsors lors de sa première saison dans l'élite."
-      }
-    }
-  },
-  {
-    "id": "ajax-vodafoneziggo-shirt-sponsor-ending-2026",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-09-05T00:00:00Z",
-    "source_name": "SportBusiness",
-    "source_url": "https://sponsorship.sportbusiness.com/news/ziggo-calls-time-on-long-running-ajax-shirt-deal/",
-    "i18n": {
-      "en": {
-        "title": "Ajax Set to Lose Long-Time Shirt Sponsor VodafoneZiggo After 2026-27 Season",
-        "summary": "Dutch telecoms group VodafoneZiggo has told Ajax it will not extend its shirt sponsorship beyond the 2026-27 season, ending one of Dutch football's longest-running commercial partnerships. The decision pushes Ajax to search for a new main shirt sponsor at a time the club has faced wider financial and governance strain."
-      },
-      "ja": {
-        "title": "アヤックス、長年のユニフォームスポンサー・フォーダフォンジゴが2026-27季限りで終了へ",
-        "summary": "オランダの通信大手フォーダフォンジゴは、アヤックスとのユニフォームスポンサー契約を2026-27シーズン限りで延長しないと伝え、オランダサッカー界で最も長く続いた商業提携のひとつが終わることになった。この決定により、財政やガバナンス面で課題を抱えるアヤックスは新たなメインスポンサー探しを迫られている。"
-      },
-      "es": {
-        "title": "Ajax perderá a su histórico patrocinador de camiseta VodafoneZiggo tras la temporada 2026-27",
-        "summary": "El grupo de telecomunicaciones neerlandés VodafoneZiggo informó al Ajax que no renovará su patrocinio de camiseta después de la temporada 2026-27, poniendo fin a una de las asociaciones comerciales más longevas del fútbol holandés. La decisión obliga al Ajax a buscar un nuevo patrocinador principal de camiseta en un momento de tensión financiera y de gobernanza para el club."
-      },
-      "zh": {
-        "title": "阿贾克斯长期球衣赞助商VodafoneZiggo将在2026-27赛季后终止合作",
-        "summary": "荷兰电信集团VodafoneZiggo已通知阿贾克斯，其球衣赞助协议将在2026-27赛季结束后不再续约，这将终结荷兰足球历史最悠久的商业合作之一。这一决定迫使正面临财务和治理压力的阿贾克斯寻找新的主要球衣赞助商。"
-      },
-      "fr": {
-        "title": "L'Ajax va perdre son sponsor maillot historique VodafoneZiggo après la saison 2026-27",
-        "summary": "Le groupe de télécommunications néerlandais VodafoneZiggo a informé l'Ajax qu'il ne prolongerait pas son sponsoring de maillot au-delà de la saison 2026-27, mettant fin à l'un des partenariats commerciaux les plus anciens du football néerlandais. Cette décision pousse l'Ajax, déjà confronté à des tensions financières et de gouvernance, à chercher un nouveau sponsor maillot principal."
-      }
-    }
-  },
-  {
-    "id": "nascar-freeway-insurance-premier-partner-2026",
-    "sport": "motorsports",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-08-01T00:00:00Z",
-    "source_name": "Sports Illustrated",
-    "source_url": "https://www.si.com/onsi/racing-america/news/nascar-lands-a-new-multi-year-premier-partner-beginning-in-2026",
-    "i18n": {
-      "en": {
-        "title": "NASCAR Adds Freeway Insurance as Cup Series Premier Partner",
-        "summary": "NASCAR signed Freeway Insurance to a new multi-year deal as one of its top-tier Premier Partners, joining Busch Light, Coca-Cola and Xfinity in the league's highest sponsorship category. The slot had been open since Geico ended its Premier Partner status after the 2024 season."
-      },
-      "ja": {
-        "title": "NASCAR、フリーウェイ・インシュランスを最上位「プレミアパートナー」に追加",
-        "summary": "NASCARはフリーウェイ・インシュランスと複数年契約を結び、バドワイザー系ブランドのBusch Light、コカ・コーラ、エクスフィニティと並ぶ最上位スポンサー区分「プレミアパートナー」に加えた。この枠は2024年シーズン終了後にGEICOがプレミアパートナーの地位を終えて以来、空席となっていた。"
-      },
-      "es": {
-        "title": "NASCAR incorpora a Freeway Insurance como Socio Premier de la Cup Series",
-        "summary": "NASCAR firmó un nuevo acuerdo de varios años con Freeway Insurance como uno de sus Socios Premier de nivel superior, uniéndose a Busch Light, Coca-Cola y Xfinity en la categoría de patrocinio más alta de la liga. Ese puesto había quedado vacante desde que Geico dejó su estatus de Socio Premier tras la temporada 2024."
-      },
-      "zh": {
-        "title": "NASCAR将Freeway Insurance纳入杯赛系列顶级“Premier合作伙伴”",
-        "summary": "NASCAR与Freeway Insurance签署新的多年合约，使其成为与Busch Light、可口可乐和Xfinity并列的最高级别“Premier合作伙伴”之一。自Geico在2024赛季结束后退出Premier合作伙伴以来，该席位一直空缺。"
-      },
-      "fr": {
-        "title": "NASCAR ajoute Freeway Insurance comme Partenaire Premier de la Cup Series",
-        "summary": "NASCAR a signé un nouvel accord pluriannuel avec Freeway Insurance en tant que Partenaire Premier de premier rang, rejoignant Busch Light, Coca-Cola et Xfinity dans la catégorie de sponsoring la plus élevée de la ligue. Ce poste était resté vacant depuis que Geico a mis fin à son statut de Partenaire Premier après la saison 2024."
-      }
-    }
-  },
-  {
-    "id": "red-bull-trackhouse-racing-sponsorship-2026",
-    "sport": "motorsports",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "team"
-    ],
-    "published_at": "2026-08-05T00:00:00Z",
-    "source_name": "Sports Illustrated",
-    "source_url": "https://www.si.com/onsi/racing-america/news/red-bull-going-big-with-trackhouse-racing-sponsorship-in-2026",
-    "i18n": {
-      "en": {
-        "title": "Red Bull Expands Trackhouse Racing NASCAR Sponsorship for 2026",
-        "summary": "Red Bull is extending the partnership it began in 2025 with Trackhouse Racing, with its branding set to appear across a combined 25 Cup Series races in 2026 split between drivers Connor Zilisch and Shane van Gisbergen. The expanded commitment deepens the energy-drink brand's push into NASCAR beyond its long-standing Formula 1 ties."
-      },
-      "ja": {
-        "title": "レッドブル、トラックハウス・レーシングとのNASCARスポンサー契約を2026年に拡大",
-        "summary": "レッドブルは2025年に始めたトラックハウス・レーシングとの提携を拡大し、2026年はコナー・ジリッシュとシェーン・ヴァン・ギスバーゲンの2選手合わせてカップシリーズ25戦でブランドを展出する予定だ。この拡大は、長年のF1との関係に加え、同社のNASCARへの取り組みを一段と強めるものとなる。"
-      },
-      "es": {
-        "title": "Red Bull amplía su patrocinio de NASCAR con Trackhouse Racing para 2026",
-        "summary": "Red Bull está ampliando la asociación que inició en 2025 con Trackhouse Racing, con su marca presente en un total combinado de 25 carreras de la Cup Series en 2026, repartidas entre los pilotos Connor Zilisch y Shane van Gisbergen. El compromiso ampliado profundiza la apuesta de la marca de bebidas energéticas por NASCAR, más allá de sus vínculos de larga data con la Fórmula 1."
-      },
-      "zh": {
-        "title": "红牛扩大与Trackhouse Racing的NASCAR赞助合作至2026年",
-        "summary": "红牛正在扩大其与Trackhouse Racing于2025年开始的合作关系，2026年品牌标识将出现在康纳·齐利什和肖恩·范吉斯伯根两名车手合计25场杯赛系列赛事中。此次合作升级彰显了这家能量饮料品牌在长期深耕一级方程式之外，进一步加码NASCAR的决心。"
-      },
-      "fr": {
-        "title": "Red Bull renforce son parrainage NASCAR avec Trackhouse Racing pour 2026",
-        "summary": "Red Bull étend le partenariat noué en 2025 avec Trackhouse Racing, sa marque devant apparaître sur un total combiné de 25 courses de la Cup Series en 2026, réparties entre les pilotes Connor Zilisch et Shane van Gisbergen. Cet engagement élargi renforce l'investissement de la marque de boissons énergisantes dans NASCAR, au-delà de ses liens historiques avec la Formule 1."
-      }
-    }
-  },
-  {
-    "id": "dell-alienware-team-liquid-renewal-2026",
-    "sport": "esports",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "team"
-    ],
-    "published_at": "2026-08-18T00:00:00Z",
-    "source_name": "Esports.net",
-    "source_url": "https://www.esports.net/news/team-liquid-alienware-partnership/",
-    "i18n": {
-      "en": {
-        "title": "Dell's Alienware and Team Liquid Extend Esports' Longest-Running Partnership Through 2031",
-        "summary": "Dell Technologies' Alienware brand and esports organization Team Liquid announced a new five-year extension, stretching their relationship, framed as the longest continuous partnership in esports, through 2031. The deal carries options for further extension and builds on a tie-up the companies trace back roughly 15 years."
-      },
-      "ja": {
-        "title": "デルのエイリアンウェア、チームリキッドとの契約をesports最長パートナーシップとして2031年まで延長",
-        "summary": "デル・テクノロジーズのブランド「エイリアンウェア」とesports団体チームリキッドは、両者の関係を2031年まで延ばす新たな5年間の契約延長を発表した。このパートナーシップはesports界で最も長く続く提携と位置付けられており、両社がおよそ15年前から続けてきた関係を基盤に、さらなる延長の選択肢も含まれている。"
-      },
-      "es": {
-        "title": "Alienware de Dell y Team Liquid extienden la asociación más longeva del esports hasta 2031",
-        "summary": "La marca Alienware de Dell Technologies y la organización de esports Team Liquid anunciaron una nueva extensión de cinco años, prolongando su relación, descrita como la asociación continua más larga del esports, hasta 2031. El acuerdo incluye opciones para una extensión adicional y se apoya en un vínculo que las empresas sitúan en unos 15 años de historia."
-      },
-      "zh": {
-        "title": "戴尔Alienware与Team Liquid将电竞史上最长合作关系延长至2031年",
-        "summary": "戴尔科技旗下品牌Alienware与电竞俱乐部Team Liquid宣布新一轮为期五年的续约，将双方被称为电竞界持续时间最长的合作关系延长至2031年。协议中还包含进一步延期的选项，建立在双方约15年合作历史的基础之上。"
-      },
-      "fr": {
-        "title": "Alienware de Dell et Team Liquid prolongent le plus long partenariat de l'esport jusqu'en 2031",
-        "summary": "La marque Alienware de Dell Technologies et l'organisation esport Team Liquid ont annoncé une nouvelle prolongation de cinq ans, étendant leur relation, présentée comme le partenariat continu le plus long de l'esport, jusqu'en 2031. L'accord prévoit des options de prolongation supplémentaire et s'appuie sur un lien que les deux entreprises font remonter à environ 15 ans."
-      }
-    }
-  },
-  {
-    "id": "mitsui-fudosan-team-japan-parade-sponsor-2026",
-    "sport": "olympics",
-    "region": "japan",
-    "topics": [
-      "sponsor",
-      "fan"
-    ],
-    "published_at": "2026-04-10T00:00:00Z",
-    "source_name": "AdverTimes",
-    "source_url": "https://advertimes.com/20260410/article540952",
-    "i18n": {
-      "en": {
-        "title": "Mitsui Fudosan Named Special Sponsor of Team Japan's Milan-Cortina Olympic Homecoming Parade",
-        "summary": "Japan's Olympic and Paralympic committees named real estate developer Mitsui Fudosan as special sponsor of a homecoming parade for roughly 115 Milan-Cortina 2026 Winter Olympics and Paralympics athletes, held along Tokyo's Nihonbashi thoroughfare in late April. Mitsui Fudosan, which already serves as a long-term community-development partner to Team Japan, dressed the surrounding district's buildings and distributed thousands of cheering flags to spectators along the route."
-      },
-      "ja": {
-        "title": "三井不動産、ミラノ・コルティナ冬季大会「TEAM JAPAN応援感謝パレード」の特別協賛に",
-        "summary": "日本オリンピック委員会とパラリンピック委員会は、ミラノ・コルティナ2026冬季大会に出場した代表選手約115人を迎える凱旋パレードの特別協賛社に、不動産デベロッパーの三井不動産を選んだと発表した。4月下旬に東京・日本橋の中央通りで開催され、街づくりパートナーでもある同社が沿道の建物を装飾し、観客に応援用の手旗を配布した。"
-      },
-      "es": {
-        "title": "Mitsui Fudosan, patrocinador especial del desfile de bienvenida del Team Japan tras Milán-Cortina",
-        "summary": "Los comités olímpico y paralímpico de Japón designaron a la inmobiliaria Mitsui Fudosan como patrocinador especial de un desfile de bienvenida para unos 115 atletas de los Juegos de Invierno de Milán-Cortina 2026, celebrado a fines de abril en la avenida Nihonbashi de Tokio. La empresa, socia habitual de desarrollo urbano del Team Japan, decoró los edificios del distrito y repartió miles de banderines a los espectadores."
-      },
-      "zh": {
-        "title": "三井不动产成为Team Japan米兰-科尔蒂纳冬奥会凯旋游行特别赞助商",
-        "summary": "日本奥委会与残奥委会宣布，房地产开发商三井不动产将担任约115名米兰-科尔蒂纳2026冬奥会及冬残奥会代表队凯旋游行的特别赞助商，活动于4月下旬在东京日本桥大街举行。作为Team Japan长期社区建设合作伙伴，该公司为沿线建筑进行了主题装饰，并向观众分发了数千面应援旗。"
-      },
-      "fr": {
-        "title": "Mitsui Fudosan, sponsor spécial du défilé de retour de l'équipe du Japon après Milan-Cortina",
-        "summary": "Les comités olympique et paralympique japonais ont désigné le promoteur immobilier Mitsui Fudosan comme sponsor spécial d'un défilé célébrant le retour d'environ 115 athlètes des Jeux d'hiver de Milan-Cortina 2026, organisé fin avril le long de l'avenue Nihonbashi à Tokyo. L'entreprise, partenaire de longue date de l'équipe du Japon pour l'aménagement urbain, a décoré les bâtiments du quartier et distribué des milliers de fanions aux spectateurs."
-      }
-    }
-  },
-  {
-    "id": "tdk-formula-e-tokyo-eprix-title-sponsor-2026",
-    "sport": "motorsports",
-    "region": "japan",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-02-17T00:00:00Z",
-    "source_name": "TDK Corporation",
-    "source_url": "https://www.tdk.com/en/news_center/press/20260217_02.html",
-    "i18n": {
-      "en": {
-        "title": "TDK Becomes Title Partner of Formula E's 2026 Tokyo E-Prix Night Race",
-        "summary": "Japanese electronics component maker TDK agreed to become title partner of the 2026 Tokyo E-Prix, a Formula E night race held July 25-26 and now branded the TDK Tokyo E-Prix, while also becoming an official partner of the wider 2025/26 championship season. The deal adds trackside branding and digital exposure at race weekends and builds on TDK's existing technology sponsorship of the Porsche Formula E team."
-      },
-      "ja": {
-        "title": "TDK、フォーミュラE「2026東京Eプリ」のナイトレースでタイトルパートナーに",
-        "summary": "電子部品メーカーのTDKは、7月25・26日に開催されるフォーミュラEのナイトレース「2026東京Eプリ」のタイトルパートナーとなり、レース名称を「TDK東京Eプリ」とすることで合意した。同時に2025/26シーズン全体のオフィシャルパートナーも務め、レースウィーク中のトラックサイド広告やデジタル露出が加わり、同社が既に技術提携を結ぶポルシェのフォーミュラEチームとの関係を拡張する。"
-      },
-      "es": {
-        "title": "TDK se convierte en patrocinador titular de la carrera nocturna del E-Prix de Tokio 2026 de la Fórmula E",
-        "summary": "El fabricante japonés de componentes electrónicos TDK acordó ser patrocinador titular del E-Prix de Tokio 2026, una carrera nocturna de la Fórmula E programada para el 25 y 26 de julio y rebautizada como TDK Tokyo E-Prix, además de convertirse en socio oficial de toda la temporada 2025/26. El acuerdo suma exhibición de marca en el circuito y presencia digital durante los fines de semana de carrera, ampliando el patrocinio tecnológico que TDK ya mantiene con el equipo Porsche de Fórmula E."
-      },
-      "zh": {
-        "title": "TDK成为Formula E 2026东京夜间站冠名合作伙伴",
-        "summary": "日本电子元件制造商TDK宣布成为定于7月25日至26日举行的Formula E夜间赛事“2026东京站”的冠名合作伙伴，该站赛事将更名为“TDK东京站”，同时TDK还将成为2025/26整个赛季的官方合作伙伴。协议新增赛道广告牌与数字曝光权益，进一步扩展了TDK与保时捷Formula E车队既有的技术合作关系。"
-      },
-      "fr": {
-        "title": "TDK devient partenaire titre de l'E-Prix nocturne de Tokyo 2026 en Formule E",
-        "summary": "Le fabricant japonais de composants électroniques TDK a accepté de devenir partenaire titre de l'E-Prix de Tokyo 2026, une course nocturne de Formule E prévue les 25 et 26 juillet et désormais rebaptisée TDK Tokyo E-Prix, tout en devenant partenaire officiel de l'ensemble de la saison 2025/26. L'accord ajoute une visibilité sur le circuit et une présence numérique lors des week-ends de course, complétant le partenariat technologique que TDK entretient déjà avec l'équipe Porsche de Formule E."
-      }
-    }
-  },
-  {
-    "id": "m80-boston-breach-cdl-acquisition-2026",
-    "sport": "esports",
-    "region": "global",
-    "topics": [
-      "team",
-      "biz"
-    ],
-    "published_at": "2026-08-26T00:00:00Z",
-    "source_name": "Insider Gaming",
-    "source_url": "https://insider-gaming.com/m80-enter-cdl-after-acquiring-boston-breach-franchise/",
-    "i18n": {
-      "en": {
-        "title": "Esports Org M80 Acquires Boston Breach, Enters Call of Duty League as M80 Boston",
-        "summary": "North American esports organization M80 acquired the Boston Breach's Call of Duty League franchise slot in what it called the largest deal in its history, rebranding the team M80 Boston ahead of the league's 2026/27 season starting December 5. Former Boston Breach operator Oxygen Esports co-founder Adam Morrison took an ownership stake in M80 and joined as chief commercial officer as part of the transaction."
-      },
-      "ja": {
-        "title": "esports団体M80、ボストン・ブリーチを買収し「M80 Boston」としてCDL参入",
-        "summary": "北米のesports団体M80は、コール オブ デューティ リーグ（CDL）のボストン・ブリーチの参入権を買収し、自社史上最大の取引と位置づけた。12月5日開幕の2026/27シーズンを前に、チーム名を「M80 Boston」に改称する。従来運営していたオキシジェン・エスポーツの共同創業者アダム・モリソン氏はM80の株式を取得し、チーフ・コマーシャル・オフィサーとして参画した。"
-      },
-      "es": {
-        "title": "La organización de esports M80 adquiere Boston Breach y entra en la Call of Duty League como M80 Boston",
-        "summary": "La organización norteamericana de esports M80 adquirió la plaza de franquicia de Boston Breach en la Call of Duty League, en lo que calificó como el mayor acuerdo de su historia, y rebautizó al equipo como M80 Boston antes de que arranque la temporada 2026/27 el 5 de diciembre. Adam Morrison, cofundador de Oxygen Esports, antiguo operador de Boston Breach, adquirió una participación en M80 y se incorporó como director comercial como parte de la operación."
-      },
-      "zh": {
-        "title": "电竞组织M80收购Boston Breach，以“M80 Boston”身份进军使命召唤联赛",
-        "summary": "北美电竞组织M80收购了Boston Breach在使命召唤联赛（CDL）中的参赛资格，称其为该组织历史上最大的一笔交易，并在12月5日开始的2026/27赛季前将球队更名为“M80 Boston”。原Boston Breach运营方Oxygen Esports联合创始人亚当·莫里森在交易中获得M80股权，并出任首席商务官。"
-      },
-      "fr": {
-        "title": "L'organisation esport M80 rachète Boston Breach et rejoint la Call of Duty League sous le nom M80 Boston",
-        "summary": "L'organisation nord-américaine d'esport M80 a racheté la franchise Boston Breach de la Call of Duty League, qualifiant cette opération de plus importante de son histoire, et a renommé l'équipe M80 Boston avant le début de la saison 2026/27 le 5 décembre. Adam Morrison, cofondateur d'Oxygen Esports, ancien exploitant de Boston Breach, a pris une participation dans M80 et en est devenu directeur commercial dans le cadre de la transaction."
-      }
-    }
-  },
-  {
-    "id": "netapp-nfl-madrid-game-presenting-partner-2026",
-    "sport": "football",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-07-08T00:00:00Z",
-    "source_name": "NetApp",
-    "source_url": "https://www.netapp.com/newsroom/press-releases/news-rel-20260708-395330/",
-    "i18n": {
-      "en": {
-        "title": "NetApp Returns as Presenting Partner of 2026 NFL Madrid Game",
-        "summary": "Data infrastructure company NetApp will again serve as presenting partner of the NFL's Madrid Game, as the Atlanta Falcons face the Cincinnati Bengals at the Bernabeu Stadium on November 8. The multi-year arrangement extends NetApp's role as the league's official intelligent data infrastructure partner, following its presenting role at the inaugural 2025 Madrid Game and at NFL London Games."
-      },
-      "ja": {
-        "title": "NetApp、2026年NFLマドリード戦のプレゼンティングパートナーに再登場",
-        "summary": "データインフラ企業NetAppは、11月8日にベルナベウ・スタジアムで行われるアトランタ・ファルコンズ対シンシナティ・ベンガルズのNFLマドリード戦で、再びプレゼンティングパートナーを務める。複数年にわたる契約で、同社はNFLの公式インテリジェント・データ・インフラストラクチャー・パートナーとしての役割を継続し、2025年の初開催マドリード戦やNFLロンドン・ゲームズでもプレゼンティングパートナーを務めてきた。"
-      },
-      "es": {
-        "title": "NetApp vuelve como patrocinador principal del Partido de la NFL en Madrid 2026",
-        "summary": "La empresa de infraestructura de datos NetApp volverá a ser el patrocinador principal del partido de la NFL en Madrid, en el que los Atlanta Falcons se enfrentarán a los Cincinnati Bengals en el estadio Bernabéu el 8 de noviembre. El acuerdo plurianual prolonga el papel de NetApp como socio oficial de infraestructura de datos inteligente de la liga, tras haber sido patrocinador principal en el primer partido de Madrid de 2025 y en los partidos de la NFL en Londres."
-      },
-      "zh": {
-        "title": "NetApp再度成为2026年NFL马德里赛presenting赞助商",
-        "summary": "数据基础设施公司NetApp将再次担任NFL马德里赛的presenting赞助商，亚特兰大猎鹰队将于11月8日在伯纳乌球场迎战辛辛那提猛虎队。这项多年协议延续了NetApp作为联盟官方智能数据基础设施合作伙伴的角色，此前该公司曾在2025年首届马德里赛以及NFL伦敦赛中担任presenting赞助商。"
-      },
-      "fr": {
-        "title": "NetApp redevient partenaire présentateur du match NFL de Madrid en 2026",
-        "summary": "L'entreprise d'infrastructure de données NetApp sera de nouveau le partenaire présentateur du match de la NFL à Madrid, où les Falcons d'Atlanta affronteront les Bengals de Cincinnati au stade Bernabéu le 8 novembre. Cet accord pluriannuel prolonge le rôle de NetApp en tant que partenaire officiel d'infrastructure de données intelligente de la ligue, après avoir assuré ce rôle lors du premier match de Madrid en 2025 et lors des matchs de la NFL à Londres."
       }
     }
   }
