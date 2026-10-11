@@ -6825,5 +6825,240 @@
         "summary": "La College Sports Commission a approuvé des accords restructurés de nom, image et ressemblance d'un montant total de 7,5 millions de dollars pour 18 joueurs de football américain du Nebraska, après qu'un arbitre a confirmé le rejet initial des contrats originaux par la commission. Ces accords, liés au partenaire des droits multimédias Playfly, auraient manqué d'un objectif commercial valide faute de biens ou services proposés au public à but lucratif ; le département sportif du Nebraska indique que le paiement intégral dépend du respect par les joueurs de leurs obligations révisées."
       }
     }
+  },
+  {
+    "id": "browns-arctos-stake-sale-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-05-20T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/news/arctos-acquires-browns-stake-raiders-stakeholder-divests-in-nfl-scramble/",
+    "i18n": {
+      "en": {
+        "title": "Arctos Gets NFL Approval for Browns Stake at Over $9 Billion Valuation",
+        "summary": "NFL owners approved private equity firm Arctos Partners to acquire an initial 3% stake in the Cleveland Browns, the first tranche of a planned 10% investment split across three deals. The agreement values the franchise at more than $9 billion, well above prior public valuations, with the gap partly tied to the team's new stadium project."
+      },
+      "ja": {
+        "title": "アークトス、ブラウンズの株式取得をNFLが承認 評価額90億ドル超",
+        "summary": "NFL球団オーナーらは、プライベートエクイティ企業アークトスによるクリーブランド・ブラウンズ株式3%の取得を承認した。これは全体で10%を目指す投資計画の第一段階であり、3回の取引に分割される予定だ。今回の合意でチームの評価額は90億ドル超とされ、新スタジアム計画がその一因とされている。"
+      },
+      "es": {
+        "title": "La NFL aprueba la compra de una participación en los Browns por Arctos a una valoración de más de 9.000 millones de dólares",
+        "summary": "Los propietarios de la NFL aprobaron que la firma de capital privado Arctos Partners adquiera un 3% inicial de los Cleveland Browns, el primer tramo de una inversión planificada del 10% dividida en tres acuerdos. El pacto valora a la franquicia en más de 9.000 millones de dólares, cifra superior a valoraciones públicas previas, en parte debido al nuevo proyecto de estadio del equipo."
+      },
+      "zh": {
+        "title": "阿克托斯获NFL批准收购布朗队股份 估值超90亿美元",
+        "summary": "NFL球队老板批准私募股权公司阿克托斯（Arctos Partners）收购克利夫兰布朗队3%的初始股份，这是其计划分三笔完成、总计10%投资的第一阶段。此次协议将球队估值定为超过90亿美元，远高于此前的公开估值，部分原因与球队新建体育场项目有关。"
+      },
+      "fr": {
+        "title": "La NFL approuve l'achat d'une participation dans les Browns par Arctos, valorisant le club à plus de 9 milliards de dollars",
+        "summary": "Les propriétaires de la NFL ont approuvé l'acquisition par le fonds de capital-investissement Arctos Partners d'une participation initiale de 3% dans les Cleveland Browns, première tranche d'un investissement prévu de 10% réparti en trois accords. L'accord valorise la franchise à plus de 9 milliards de dollars, un montant supérieur aux estimations publiques antérieures, en partie lié au nouveau projet de stade de l'équipe."
+      }
+    }
+  },
+  {
+    "id": "betway-man-utd-training-kit-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-08-04T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/news/man-united-end-long-search-for-training-kit-sponsor-with-betway-deal/",
+    "i18n": {
+      "en": {
+        "title": "Manchester United Names Betway as Training Kit Sponsor in Record Deal",
+        "summary": "Manchester United ended its search for a training kit sponsor by signing betting operator Betway in a multi-year agreement reported to be worth around £20 million per season, the largest standalone training kit deal in soccer. Betway's branding will appear on both the men's and women's training kits starting with the 2026-27 season, with additional visibility at Old Trafford."
+      },
+      "ja": {
+        "title": "マンチェスター・ユナイテッド、ベットウェイとトレーニングキットスポンサー契約 歴代最高額",
+        "summary": "マンチェスター・ユナイテッドは、トレーニングキットスポンサーの選定を進めた末、ベッティング事業者ベットウェイと複数年契約を締結した。年間約2000万ポンドとされ、サッカー界のトレーニングキット単独契約として史上最高額となる。ベットウェイのロゴは2026-27シーズンから男女両チームのトレーニングキットに掲出され、オールド・トラフォードでの露出も拡大する。"
+      },
+      "es": {
+        "title": "El Manchester United ficha a Betway como sponsor de la ropa de entrenamiento en un acuerdo récord",
+        "summary": "El Manchester United puso fin a su búsqueda de un patrocinador para la ropa de entrenamiento al firmar un acuerdo plurianual con la casa de apuestas Betway, valorado en unos 20 millones de libras por temporada, el mayor contrato de este tipo en el fútbol. El logo de Betway aparecerá en la ropa de entrenamiento de los equipos masculino y femenino desde la temporada 2026-27, con mayor visibilidad también en Old Trafford."
+      },
+      "zh": {
+        "title": "曼联与博彩公司Betway签下训练服破纪录赞助协议",
+        "summary": "曼联结束了对训练服赞助商的招募，与博彩公司Betway签署了一份据报道价值约每赛季2000万英镑的多年协议，成为足球界单独训练服赞助金额最高的合同。Betway的标识将从2026-27赛季起出现在男女两队的训练服上，并在老特拉福德球场获得更多曝光。"
+      },
+      "fr": {
+        "title": "Manchester United nomme Betway sponsor de sa tenue d'entraînement dans un accord record",
+        "summary": "Manchester United a mis fin à sa recherche d'un sponsor pour sa tenue d'entraînement en signant un accord pluriannuel avec l'opérateur de paris Betway, évalué à environ 20 millions de livres par saison, le plus important contrat de ce type dans le football. Le logo de Betway apparaîtra sur les tenues d'entraînement des équipes masculine et féminine à partir de la saison 2026-27, avec une visibilité accrue à Old Trafford."
+      }
+    }
+  },
+  {
+    "id": "fancompass-digital-ignite-fan-engagement-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "fan",
+      "tech"
+    ],
+    "published_at": "2026-02-23T00:00:00Z",
+    "source_name": "Business Wire",
+    "source_url": "https://www.businesswire.com/news/home/20260223836345/en/FanCompass-and-Digital-Ignite-Announce-Strategic-Partnership-to-Accelerate-Digital-Fan-Engagement-and-Revenue-Growth",
+    "i18n": {
+      "en": {
+        "title": "FanCompass Teams With Digital Ignite to Boost Sports Teams' Fan Engagement",
+        "summary": "Fan-engagement technology provider FanCompass announced a strategic partnership with performance-marketing agency Digital Ignite to combine fan-data analytics with paid-media campaign strategy for sports properties. The companies said the tie-up is designed to help teams and leagues convert fan data into targeted advertising and incremental revenue."
+      },
+      "ja": {
+        "title": "ファンコンパスとデジタル・イグナイトが提携 スポーツ団体のファンエンゲージメント強化へ",
+        "summary": "ファンエンゲージメント技術を提供するファンコンパスは、パフォーマンス・マーケティング会社デジタル・イグナイトと戦略的提携を発表した。両社はファンデータ分析とペイドメディアの施策を組み合わせ、スポーツ団体向けに活用する。この提携により、チームやリーグがファンデータをターゲティング広告や収益増加に結びつけやすくなるという。"
+      },
+      "es": {
+        "title": "FanCompass se asocia con Digital Ignite para impulsar la participación de los aficionados en el deporte",
+        "summary": "El proveedor de tecnología de participación de aficionados FanCompass anunció una alianza estratégica con la agencia de marketing de rendimiento Digital Ignite para combinar el análisis de datos de aficionados con estrategias de campañas de medios pagados dirigidas a entidades deportivas. Las empresas indicaron que la unión busca ayudar a equipos y ligas a convertir los datos de aficionados en publicidad dirigida e ingresos adicionales."
+      },
+      "zh": {
+        "title": "FanCompass与Digital Ignite达成战略合作 助力体育机构提升球迷互动",
+        "summary": "球迷互动技术提供商FanCompass宣布与效果营销公司Digital Ignite建立战略合作关系，将球迷数据分析与付费媒体营销策略相结合，服务于体育机构。两家公司表示，此次合作旨在帮助球队和联盟将球迷数据转化为精准广告投放和新增收入。"
+      },
+      "fr": {
+        "title": "FanCompass s'associe à Digital Ignite pour renforcer l'engagement des fans dans le sport",
+        "summary": "Le fournisseur de technologie d'engagement des fans FanCompass a annoncé un partenariat stratégique avec l'agence de marketing à la performance Digital Ignite afin de combiner l'analyse des données des fans avec des stratégies de campagnes médias payantes destinées aux structures sportives. Les deux entreprises ont indiqué que ce partenariat vise à aider les équipes et les ligues à transformer les données des fans en publicité ciblée et en revenus supplémentaires."
+      }
+    }
+  },
+  {
+    "id": "ibotta-nuggets-patch-extension-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-04-17T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/news/ibotta-extends-as-nuggets-jersey-patch-partner/",
+    "i18n": {
+      "en": {
+        "title": "Ibotta Extends Jersey Patch Sponsorship With Denver Nuggets",
+        "summary": "Cash-back app Ibotta extended its jersey patch sponsorship of the Denver Nuggets in a new multi-year agreement announced just before the team's playoff run. The renewal builds on an original three-season deal signed in 2023 and keeps Ibotta's logo on the Nuggets' in-game and practice jerseys."
+      },
+      "ja": {
+        "title": "イボッタ、デンバー・ナゲッツとのジャージパッチ契約を延長",
+        "summary": "キャッシュバックアプリのイボッタは、デンバー・ナゲッツとのジャージパッチスポンサー契約を、プレーオフ開幕直前に新たな複数年契約として延長した。2023年に締結した当初3シーズンの契約を土台とするもので、イボッタのロゴは試合用および練習用ジャージに継続して掲出される。"
+      },
+      "es": {
+        "title": "Ibotta extiende el patrocinio del parche de la camiseta de los Denver Nuggets",
+        "summary": "La aplicación de reembolsos Ibotta extendió su patrocinio del parche en la camiseta de los Denver Nuggets mediante un nuevo acuerdo plurianual anunciado justo antes del inicio de los playoffs del equipo. La renovación se basa en un contrato original de tres temporadas firmado en 2023 y mantiene el logotipo de Ibotta en las camisetas de juego y de entrenamiento de los Nuggets."
+      },
+      "zh": {
+        "title": "返现应用Ibotta延长与丹佛掘金队的球衣广告位赞助合作",
+        "summary": "返现应用Ibotta在掘金队季后赛开打前宣布延长与球队的球衣广告位赞助协议，签订新的多年合同。此次续约建立在2023年签署的最初三个赛季合同基础上，Ibotta的标识将继续出现在掘金队的比赛服和训练服上。"
+      },
+      "fr": {
+        "title": "Ibotta prolonge son parrainage du patch sur le maillot des Nuggets de Denver",
+        "summary": "L'application de cashback Ibotta a prolongé son parrainage du patch apposé sur le maillot des Nuggets de Denver via un nouvel accord pluriannuel annoncé juste avant le début des playoffs de l'équipe. Ce renouvellement s'appuie sur un contrat initial de trois saisons signé en 2023 et maintient le logo d'Ibotta sur les maillots de match et d'entraînement des Nuggets."
+      }
+    }
+  },
+  {
+    "id": "kagoshima-united-snbl-top-partner-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-01-15T00:00:00Z",
+    "source_name": "SNBL",
+    "source_url": "https://en.snbl.com/news/unitedfc-officialpartner2026/",
+    "i18n": {
+      "en": {
+        "title": "SNBL Signs Eighth Straight Year as Kagoshima United FC Top Partner",
+        "summary": "Pharmaceutical research company SNBL renewed its top partner contract with J.League club Kagoshima United FC, covering the period from February 2026 through June 2027. The deal marks SNBL's eighth consecutive year backing the Kagoshima-based club since first becoming a sponsor in 2019."
+      },
+      "ja": {
+        "title": "SNBL、鹿児島ユナイテッドFCとのトップパートナー契約を8年連続で継続",
+        "summary": "医薬品研究開発企業のSNBLは、Jリーグクラブの鹿児島ユナイテッドFCとのトップパートナー契約を更新し、2026年2月から2027年6月までを契約期間とした。2019年に初めてスポンサーとなって以来、鹿児島を本拠地とする同クラブへの支援は8年連続となる。"
+      },
+      "es": {
+        "title": "SNBL renueva por octavo año consecutivo su patrocinio principal del Kagoshima United FC",
+        "summary": "La empresa de investigación farmacéutica SNBL renovó su contrato de patrocinador principal con el club de la J.League Kagoshima United FC, con vigencia de febrero de 2026 a junio de 2027. El acuerdo marca el octavo año consecutivo de respaldo de SNBL al club con sede en Kagoshima desde que se convirtió en patrocinador por primera vez en 2019."
+      },
+      "zh": {
+        "title": "SNBL连续第八年续约担任鹿儿岛联FC顶级合作伙伴",
+        "summary": "制药研发企业SNBL与日本职业足球联赛（J.League）球队鹿儿岛联FC续签顶级合作伙伴合同，合同期为2026年2月至2027年6月。此次续约标志着SNBL自2019年首次赞助该队以来，连续第八年为这家总部位于鹿儿岛的俱乐部提供支持。"
+      },
+      "fr": {
+        "title": "SNBL prolonge pour la huitième année consécutive son partenariat principal avec le Kagoshima United FC",
+        "summary": "L'entreprise de recherche pharmaceutique SNBL a renouvelé son contrat de partenaire principal avec le club de J.League Kagoshima United FC, pour une période allant de février 2026 à juin 2027. Cet accord marque la huitième année consécutive de soutien de SNBL au club basé à Kagoshima depuis qu'il en est devenu sponsor pour la première fois en 2019."
+      }
+    }
+  },
+  {
+    "id": "yokohama-fc-payment-options-partner-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-05-29T00:00:00Z",
+    "source_name": "Macau Business",
+    "source_url": "https://macaubusiness.com/payment-options-japan-becomes-official-partner-of-yokohama-football-club/",
+    "i18n": {
+      "en": {
+        "title": "Payment Options Japan Becomes Official Partner of Yokohama FC",
+        "summary": "Fintech firm Payment Options K.K. signed a partnership agreement with Yokohama FC covering the 2026-27 J.League season. Club president Daijiro Katahara said the partnership reflects a shared independent approach, as the fintech company focused on digital payment tools expands its visibility in Japanese soccer."
+      },
+      "ja": {
+        "title": "ペイメント・オプションズ・ジャパン、横浜FCのオフィシャルパートナーに",
+        "summary": "フィンテック企業のペイメント・オプションズは、横浜FCと2026-27 Jリーグシーズンを対象としたパートナーシップ契約を締結した。片平大基社長は、両者が共有する独自路線を歩む姿勢がこの提携の背景にあると述べた。デジタル決済ツールを手掛ける同社は、日本サッカー界での存在感を広げている。"
+      },
+      "es": {
+        "title": "Payment Options Japan se convierte en socio oficial del Yokohama FC",
+        "summary": "La empresa fintech Payment Options K.K. firmó un acuerdo de patrocinio con el Yokohama FC vigente para la temporada 2026-27 de la J.League. El presidente del club, Daijiro Katahara, señaló que la alianza refleja un enfoque independiente compartido, mientras la fintech especializada en herramientas de pago digital amplía su presencia en el fútbol japonés."
+      },
+      "zh": {
+        "title": "Payment Options Japan成为横滨FC官方合作伙伴",
+        "summary": "金融科技公司Payment Options与横滨FC签署合作协议，合作期覆盖2026-27赛季J联赛。俱乐部社长片平大基表示，这项合作体现了双方共同坚持独立发展道路的理念。这家专注数字支付工具的公司借此进一步扩大其在日本足球界的影响力。"
+      },
+      "fr": {
+        "title": "Payment Options Japan devient partenaire officiel du Yokohama FC",
+        "summary": "L'entreprise fintech Payment Options K.K. a signé un accord de partenariat avec le Yokohama FC couvrant la saison 2026-27 de J.League. Le président du club, Daijiro Katahara, a indiqué que ce partenariat reflète une approche indépendante partagée, tandis que cette société spécialisée dans les outils de paiement numérique étend sa visibilité dans le football japonais."
+      }
+    }
+  },
+  {
+    "id": "zozo-marine-stadium-naming-renewal-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-06-30T00:00:00Z",
+    "source_name": "Kumanichi",
+    "source_url": "https://kumanichi.com/articles/2008519",
+    "i18n": {
+      "en": {
+        "title": "Chiba City Renews ZOZO Marine Stadium Naming Rights Through 2033",
+        "summary": "Chiba city agreed to renew its naming-rights contract with e-commerce company ZOZO for the Chiba Lotte Marines' home ballpark, keeping the ZOZO Marine Stadium name in place. The new deal runs from December 2026 through November 2033 at an annual fee of about 400 million yen."
+      },
+      "ja": {
+        "title": "千葉市、ZOZOマリンスタジアムの命名権契約を2033年まで更新",
+        "summary": "千葉市は、千葉ロッテマリーンズの本拠地球場に関する命名権契約をEC企業のZOZOと更新することで合意し、球場名は従来通り「ZOZOマリンスタジアム」のまま継続される。新契約は2026年12月から2033年11月までで、年額は約4億円となる。"
+      },
+      "es": {
+        "title": "La ciudad de Chiba renueva los derechos de nombre del ZOZO Marine Stadium hasta 2033",
+        "summary": "La ciudad de Chiba acordó renovar su contrato de derechos de nombre con la empresa de comercio electrónico ZOZO para el estadio donde juegan los Chiba Lotte Marines, manteniendo el nombre ZOZO Marine Stadium. El nuevo acuerdo se extiende desde diciembre de 2026 hasta noviembre de 2033, con una tarifa anual de unos 400 millones de yenes."
+      },
+      "zh": {
+        "title": "千叶市将ZOZO海洋球场命名权合同续约至2033年",
+        "summary": "千叶市同意与电商企业ZOZO续签千叶罗德海洋队主场球场的命名权合同，球场名称继续保留为\"ZOZO海洋球场\"。新合同自2026年12月起至2033年11月为止，年费约4亿日元。"
+      },
+      "fr": {
+        "title": "La ville de Chiba renouvelle les droits de dénomination du ZOZO Marine Stadium jusqu'en 2033",
+        "summary": "La ville de Chiba a accepté de renouveler son contrat de droits de dénomination avec l'entreprise de commerce électronique ZOZO pour le stade des Chiba Lotte Marines, conservant le nom ZOZO Marine Stadium. Le nouvel accord court de décembre 2026 à novembre 2033, pour une redevance annuelle d'environ 400 millions de yens."
+      }
+    }
   }
 ]
