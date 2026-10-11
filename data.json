@@ -6050,207 +6050,6 @@
     }
   },
   {
-    "id": "korn-ferry-la28-founding-partner-2026",
-    "sport": "olympics",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-01-27T00:00:00Z",
-    "source_name": "SportBusiness",
-    "source_url": "https://www.sportbusiness.com/news/la28-recruits-korn-ferry-as-top-domestic-sponsor/",
-    "i18n": {
-      "en": {
-        "title": "Korn Ferry Signs On as Seventh Founding Partner of LA28 Olympics",
-        "summary": "Recruitment and consulting firm Korn Ferry has become a Founding Partner of the LA28 Olympic and Paralympic Games, the top-tier domestic sponsorship category. It is the seventh company to reach that status for the 2028 Los Angeles Games as organizers continue building out their corporate partner roster years ahead of the opening ceremony."
-      },
-      "ja": {
-        "title": "コーンフェリー、LA28の7番目の創設パートナーに",
-        "summary": "人材コンサルティング大手コーンフェリーが、ロサンゼルス2028年オリンピック・パラリンピックの最上位スポンサーカテゴリー「創設パートナー」に加わった。2028年大会で創設パートナーの地位を得た企業としては7社目となり、開会式まで数年を残して組織委員会が企業パートナー網を拡大し続けている。"
-      },
-      "es": {
-        "title": "Korn Ferry se convierte en el séptimo socio fundador de los Juegos de LA28",
-        "summary": "La firma de reclutamiento y consultoría Korn Ferry se ha convertido en Socio Fundador de los Juegos Olímpicos y Paralímpicos de LA28, la categoría de patrocinio nacional de más alto nivel. Es la séptima empresa en alcanzar ese estatus para los Juegos de Los Ángeles 2028, mientras los organizadores siguen ampliando su cartera de socios corporativos años antes de la ceremonia inaugural."
-      },
-      "zh": {
-        "title": "光辉国际成为LA28奥运会第七家创始合伙人",
-        "summary": "招聘与咨询公司光辉国际已成为洛杉矶2028年奥运会及残奥会的创始合伙人,这是国内赞助的最高级别类别。该公司是第七家获得2028年洛杉矶奥运会创始合伙人地位的企业,组委会在开幕式前数年仍在持续扩充企业合作伙伴阵容。"
-      },
-      "fr": {
-        "title": "Korn Ferry devient le septième partenaire fondateur des Jeux de LA28",
-        "summary": "Le cabinet de recrutement et de conseil Korn Ferry est devenu partenaire fondateur des Jeux olympiques et paralympiques de LA28, la catégorie de sponsoring national la plus élevée. Il s'agit de la septième entreprise à atteindre ce statut pour les Jeux de Los Angeles 2028, alors que les organisateurs continuent d'élargir leur portefeuille de partenaires corporatifs plusieurs années avant la cérémonie d'ouverture."
-      }
-    }
-  },
-  {
-    "id": "tgr-haas-f1-toyota-title-sponsor-2026",
-    "sport": "motorsports",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "team"
-    ],
-    "published_at": "2025-12-04T00:00:00Z",
-    "source_name": "PlanetF1",
-    "source_url": "https://www.planetf1.com/news/tgr-haas-name-arrives-f1-2026-in-team-rename",
-    "i18n": {
-      "en": {
-        "title": "Haas F1 Team Rebrands as TGR Haas After Toyota Expands Sponsorship",
-        "summary": "The Haas Formula 1 team will race under the name TGR Haas F1 Team starting in 2026, reflecting an expanded title partnership with Toyota Gazoo Racing. The new deal replaces outgoing sponsor MoneyGram, which backed the team for the previous three seasons, and deepens Toyota's commercial relationship with the American-owned outfit."
-      },
-      "ja": {
-        "title": "ハースF1、トヨタとの提携拡大で「TGRハース」に改名",
-        "summary": "ハースF1チームは2026年シーズンから「TGRハース・F1チーム」の名称でレースに参戦する。トヨタ・ガズー・レーシングとのタイトルパートナーシップ拡大を反映した措置で、過去3シーズンにわたりチームを支えてきたスポンサーのマネーグラムに代わる新契約となり、トヨタと米系チームとの商業的関係が一段と深まる。"
-      },
-      "es": {
-        "title": "El equipo Haas de F1 se rebautiza como TGR Haas tras la ampliación del patrocinio de Toyota",
-        "summary": "El equipo de Fórmula 1 Haas competirá bajo el nombre TGR Haas F1 Team a partir de 2026, reflejando una asociación de patrocinio principal ampliada con Toyota Gazoo Racing. El nuevo acuerdo sustituye al patrocinador saliente MoneyGram, que respaldó al equipo durante las tres temporadas anteriores, y profundiza la relación comercial de Toyota con el equipo de propiedad estadounidense."
-      },
-      "zh": {
-        "title": "哈斯F1车队因丰田扩大赞助更名为\"TGR哈斯\"",
-        "summary": "哈斯一级方程式车队将从2026赛季起以\"TGR哈斯F1车队\"的名称参赛,这反映了与丰田GAZOO Racing扩大后的冠名合作关系。新协议取代了此前三个赛季为车队提供赞助的MoneyGram,并进一步加深了丰田与这家美资车队之间的商业关系。"
-      },
-      "fr": {
-        "title": "L'écurie Haas F1 devient TGR Haas après l'extension du partenariat avec Toyota",
-        "summary": "L'écurie de Formule 1 Haas courra sous le nom TGR Haas F1 Team à partir de 2026, reflétant un partenariat titre élargi avec Toyota Gazoo Racing. Le nouvel accord remplace le sponsor sortant MoneyGram, qui soutenait l'écurie depuis trois saisons, et renforce la relation commerciale de Toyota avec cette écurie à capitaux américains."
-      }
-    }
-  },
-  {
-    "id": "whoop-scuderia-ferrari-f1-wearable-partner-2026",
-    "sport": "motorsports",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "tech"
-    ],
-    "published_at": "2026-01-19T00:00:00Z",
-    "source_name": "SportBusiness",
-    "source_url": "https://sponsorship.sportbusiness.com/news/whoop-makes-f1-move-with-ferrari-tie-up/",
-    "i18n": {
-      "en": {
-        "title": "Whoop Makes First F1 Move With Scuderia Ferrari Wearable Deal",
-        "summary": "Fitness wearable maker Whoop has signed its first motor racing sponsorship, becoming official health and fitness wearable partner of the Scuderia Ferrari HP Formula 1 team ahead of the 2026 season. The Whoop logo will appear on the team's cars and driver suits, and its devices will support the squad's performance science staff."
-      },
-      "ja": {
-        "title": "Whoop、F1初進出 フェラーリとウェアラブル端末契約",
-        "summary": "フィットネス向けウェアラブル端末メーカーのWhoopが、モータースポーツ分野で初めてのスポンサー契約を締結し、2026年シーズンを前にスクーデリア・フェラーリHPチームの公式ヘルス・フィットネス・ウェアラブルパートナーとなった。Whoopのロゴはマシンやドライバースーツに表示され、同社のデバイスはチームのパフォーマンス科学スタッフを支援する。"
-      },
-      "es": {
-        "title": "Whoop se estrena en la F1 con un acuerdo de dispositivos ponibles con Ferrari",
-        "summary": "El fabricante de dispositivos ponibles Whoop ha firmado su primer patrocinio en el automovilismo, convirtiéndose en el socio oficial de dispositivos de salud y fitness del equipo Scuderia Ferrari HP de Fórmula 1 antes de la temporada 2026. El logo de Whoop aparecerá en los monoplazas y los trajes de los pilotos, y sus dispositivos apoyarán al personal de ciencias del rendimiento del equipo."
-      },
-      "zh": {
-        "title": "Whoop首次进军F1 与法拉利签订可穿戴设备合作",
-        "summary": "健身可穿戴设备制造商Whoop签署了其在赛车运动领域的首个赞助合约,成为2026赛季开始前法拉利HP车队官方健康与健身可穿戴设备合作伙伴。Whoop标志将出现在赛车和车手赛车服上,其设备也将为车队的运动表现科学团队提供支持。"
-      },
-      "fr": {
-        "title": "Whoop fait ses débuts en F1 avec un partenariat d'objets connectés avec Ferrari",
-        "summary": "Le fabricant d'objets connectés de fitness Whoop a signé son premier partenariat dans le sport automobile, devenant le partenaire officiel d'objets connectés santé et fitness de l'écurie Scuderia Ferrari HP de Formule 1 avant la saison 2026. Le logo Whoop apparaîtra sur les monoplaces et les combinaisons des pilotes, et ses appareils soutiendront l'équipe de sciences de la performance de l'écurie."
-      }
-    }
-  },
-  {
-    "id": "audi-f1-nexo-crypto-sponsor-2026",
-    "sport": "motorsports",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-01-20T00:00:00Z",
-    "source_name": "SportCal",
-    "source_url": "https://www.sportcal.com/sponsorship/f1-sponsorships-ferrari-secures-woop-audi-partners-nexo",
-    "i18n": {
-      "en": {
-        "title": "Audi F1 Team Adds Crypto Platform Nexo as Sponsor Ahead of 2026 Debut",
-        "summary": "Audi's incoming Formula 1 team has signed cryptocurrency platform Nexo as a new partner, one of several sponsorship agreements the German manufacturer struck in quick succession ahead of its 2026 grid debut. The deal adds a digital-asset brand to Audi's commercial lineup as it builds out its F1 program from scratch."
-      },
-      "ja": {
-        "title": "アウディF1、2026年参戦前に暗号資産プラットフォーム「Nexo」とスポンサー契約",
-        "summary": "2026年からF1に新規参戦するアウディのチームが、暗号資産プラットフォームのNexoと新たなパートナー契約を締結した。これはドイツの自動車メーカーが参戦を前に短期間で相次いで結んだ複数のスポンサー契約のひとつ。ゼロからF1プログラムを構築する中、デジタル資産ブランドが商業パートナーの一角に加わった。"
-      },
-      "es": {
-        "title": "El equipo de F1 de Audi suma a la plataforma cripto Nexo como patrocinador antes de su debut en 2026",
-        "summary": "El nuevo equipo de Fórmula 1 de Audi ha firmado con la plataforma de criptomonedas Nexo como nuevo socio, uno de varios acuerdos de patrocinio que el fabricante alemán cerró en rápida sucesión antes de su debut en la parrilla de 2026. El acuerdo añade una marca de activos digitales a la cartera comercial de Audi mientras construye su programa de F1 desde cero."
-      },
-      "zh": {
-        "title": "奥迪F1车队在2026年首秀前签下加密平台Nexo为赞助商",
-        "summary": "奥迪即将参赛的一级方程式车队已与加密货币平台Nexo签署新的合作伙伴协议,这是这家德国制造商在2026年首次参赛前短时间内连续达成的多项赞助协议之一。该协议为奥迪从零开始打造的F1项目商业阵容增添了一个数字资产品牌。"
-      },
-      "fr": {
-        "title": "L'écurie F1 d'Audi ajoute la plateforme crypto Nexo comme sponsor avant ses débuts en 2026",
-        "summary": "La future écurie de Formule 1 d'Audi a signé avec la plateforme de cryptomonnaies Nexo en tant que nouveau partenaire, l'un des multiples accords de sponsoring conclus rapidement par le constructeur allemand avant ses débuts sur la grille en 2026. Cet accord ajoute une marque d'actifs numériques au portefeuille commercial d'Audi, qui construit son programme F1 à partir de zéro."
-      }
-    }
-  },
-  {
-    "id": "motul-motogp-partnership-extension-2030",
-    "sport": "motorsports",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2025-12-01T00:00:00Z",
-    "source_name": "SportCal",
-    "source_url": "https://www.sportcal.com/news/motul-extends-motogp-partnership-through-2030/",
-    "i18n": {
-      "en": {
-        "title": "Motul Extends MotoGP Partnership Through 2030",
-        "summary": "Lubricant maker Motul has renewed its global partnership with MotoGP in a deal running through the 2030 season, extending a relationship that already spans more than 15 years. The agreement keeps Motul's title sponsorship of the Japanese and Valencia Grands Prix and adds new fan and digital engagement campaigns each season."
-      },
-      "ja": {
-        "title": "モチュール、MotoGPとのパートナーシップを2030年まで延長",
-        "summary": "潤滑油メーカーのモチュールが、MotoGPとのグローバルパートナーシップを更新し、2030年シーズンまでの契約となった。すでに15年以上続く関係をさらに延長する形。契約には日本グランプリとバレンシアグランプリでのモチュールのタイトルスポンサーシップの継続に加え、シーズンごとの新しいファン・デジタルエンゲージメント施策も含まれる。"
-      },
-      "es": {
-        "title": "Motul extiende su asociación con MotoGP hasta 2030",
-        "summary": "El fabricante de lubricantes Motul ha renovado su asociación global con MotoGP en un acuerdo que se extiende hasta la temporada 2030, prolongando una relación que ya abarca más de 15 años. El acuerdo mantiene el patrocinio principal de Motul en los Grandes Premios de Japón y Valencia y añade nuevas campañas de interacción con los aficionados y digitales cada temporada."
-      },
-      "zh": {
-        "title": "摩特(Motul)将与MotoGP的合作延长至2030年",
-        "summary": "润滑油制造商摩特已更新与MotoGP的全球合作关系,新协议延续至2030赛季,进一步延长了这段已持续15年以上的合作关系。协议保留了摩特对日本大奖赛和巴伦西亚大奖赛的冠名赞助权,并在每个赛季新增球迷互动与数字营销活动。"
-      },
-      "fr": {
-        "title": "Motul prolonge son partenariat avec MotoGP jusqu'en 2030",
-        "summary": "Le fabricant de lubrifiants Motul a renouvelé son partenariat mondial avec MotoGP dans un accord qui court jusqu'à la saison 2030, prolongeant une relation qui dure déjà depuis plus de 15 ans. L'accord maintient le sponsoring titre de Motul pour les Grands Prix du Japon et de Valence et ajoute de nouvelles campagnes d'engagement des fans et numériques chaque saison."
-      }
-    }
-  },
-  {
-    "id": "bournemouth-vitality-front-shirt-sponsor-2026",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2025-12-12T00:00:00Z",
-    "source_name": "Inside World Football",
-    "source_url": "https://www.insideworldfootball.com/2025/12/15/vitality-adds-shirt-sponsorship-stadium-naming-rights-bournemouth/",
-    "i18n": {
-      "en": {
-        "title": "Vitality Adds Front-of-Shirt Sponsorship to Existing Bournemouth Naming Rights",
-        "summary": "Health insurer Vitality will become AFC Bournemouth's front-of-shirt sponsor for both the men's and women's teams starting in the 2026-27 season, adding to the naming rights it has held over the club's stadium since 2015. The move replaces previous betting sponsor BJ88 ahead of the Premier League's ban on gambling firms appearing on the front of matchday shirts."
-      },
-      "ja": {
-        "title": "バイタリティ、ボーンマスのスタジアム命名権に加え胸スポンサーも獲得",
-        "summary": "健康保険会社バイタリティが、2026-27シーズンからAFCボーンマスの男女チームの胸スポンサーとなることが発表された。同社は2015年からクラブのスタジアム命名権を保有しており、今回はそれに加える形となる。プレミアリーグがマッチデーシャツ前面への賭博会社の表示を禁止するのに先立ち、前スポンサーのBJ88に代わる措置。"
-      },
-      "es": {
-        "title": "Vitality añade el patrocinio frontal de la camiseta a los derechos de nombre que ya tenía en Bournemouth",
-        "summary": "La aseguradora de salud Vitality se convertirá en el patrocinador frontal de la camiseta del AFC Bournemouth, tanto del equipo masculino como femenino, a partir de la temporada 2026-27, sumándose a los derechos de nombre del estadio del club que posee desde 2015. El cambio sustituye al anterior patrocinador de apuestas BJ88 antes de la prohibición de la Premier League sobre las casas de apuestas en la parte frontal de las camisetas de partido."
-      },
-      "zh": {
-        "title": "Vitality在已拥有的伯恩茅斯球场命名权基础上增加球衣胸前广告",
-        "summary": "健康保险公司Vitality将从2026-27赛季起成为伯恩茅斯男女球队的球衣胸前赞助商,这是在该公司自2015年以来持有的球场命名权基础上的新增合作。此举取代了此前的博彩赞助商BJ88,以应对英超联赛即将实施的禁止博彩公司出现在比赛日球衣正面的规定。"
-      },
-      "fr": {
-        "title": "Vitality ajoute le sponsoring du maillot aux droits de dénomination qu'il détient déjà à Bournemouth",
-        "summary": "L'assureur santé Vitality deviendra le sponsor principal de l'AFC Bournemouth, pour les équipes masculine et féminine, à partir de la saison 2026-27, en plus des droits de dénomination du stade du club qu'il détient depuis 2015. Ce changement remplace l'ancien sponsor de paris sportifs BJ88, avant l'interdiction par la Premier League des sociétés de paris sur la face des maillots de match."
-      }
-    }
-  },
-  {
     "id": "kansas-state-purple-wave-jersey-patch-2026",
     "sport": "football",
     "region": "global",
@@ -6313,73 +6112,6 @@
       "fr": {
         "title": "GIANTX signe avec l'université espagnole UTAMED comme partenaire éducatif officiel",
         "summary": "L'organisation d'esport européenne GIANTX a signé un accord de sponsoring avec UTAMED, une université en ligne basée en Espagne, valable jusqu'à fin 2026. UTAMED devient le partenaire éducatif officiel de GIANTX, avec son logo apposé sur les maillots de l'équipe et des projets de contenu commun, dont une série YouTube."
-      }
-    }
-  },
-  {
-    "id": "npb-nippon-life-umpire-uniform-sponsor-2026",
-    "sport": "baseball",
-    "region": "japan",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-03-15T00:00:00Z",
-    "source_name": "NPB (Nippon Professional Baseball)",
-    "source_url": "https://npb.jp/news/npb_business.html",
-    "i18n": {
-      "en": {
-        "title": "Nippon Life Renews NPB Umpire Uniform Advertising for Fourth Season",
-        "summary": "Nippon Life Insurance has renewed its advertising agreement to place its company logo on the uniforms of all Nippon Professional Baseball umpires for the 2026 season. The sponsorship first began in 2023, making this the fourth consecutive year the insurer has held the umpire uniform advertising rights."
-      },
-      "ja": {
-        "title": "日本生命、NPB審判員ユニフォーム広告契約を4年目へ更新",
-        "summary": "日本生命保険が、2026年シーズンのNPB全審判員のユニフォームに企業ロゴを表示する広告契約を更新した。この広告協賛は2023年に始まり、今季で4年連続となる。"
-      },
-      "es": {
-        "title": "Nippon Life renueva por cuarta temporada la publicidad en los uniformes de los árbitros de la NPB",
-        "summary": "La aseguradora Nippon Life ha renovado su acuerdo publicitario para colocar el logotipo de la compañía en los uniformes de todos los árbitros de la Nippon Professional Baseball para la temporada 2026. El patrocinio comenzó en 2023, por lo que esta es la cuarta temporada consecutiva que la aseguradora mantiene estos derechos publicitarios."
-      },
-      "zh": {
-        "title": "日本生命续约NPB裁判员球衣广告 进入第四个赛季",
-        "summary": "日本生命保险公司已续签广告协议,将在2026赛季继续在日本职业棒球全体裁判员的制服上展示公司标志。该赞助始于2023年,这是该保险公司连续第四个赛季持有裁判员制服广告权益。"
-      },
-      "fr": {
-        "title": "Nippon Life renouvelle la publicité sur les uniformes des arbitres de la NPB pour une quatrième saison",
-        "summary": "L'assureur Nippon Life a renouvelé son accord publicitaire permettant d'apposer le logo de l'entreprise sur les uniformes de tous les arbitres de la Nippon Professional Baseball pour la saison 2026. Ce partenariat, débuté en 2023, entame ainsi sa quatrième saison consécutive."
-      }
-    }
-  },
-  {
-    "id": "npb-konami-cup-junior-tournament-sponsor-2026",
-    "sport": "baseball",
-    "region": "japan",
-    "topics": [
-      "sponsor",
-      "fan"
-    ],
-    "published_at": "2026-06-01T00:00:00Z",
-    "source_name": "NPB (Nippon Professional Baseball)",
-    "source_url": "https://npb.jp/news/npb_business.html",
-    "i18n": {
-      "en": {
-        "title": "Konami Returns as Title Sponsor of NPB Junior Baseball Tournament",
-        "summary": "Video game maker Konami will serve as title sponsor of the \"NPB Junior Tournament KONAMI CUP 2026,\" a youth baseball competition organized by Nippon Professional Baseball. It marks the seventh consecutive year Konami has backed the youth tournament since the partnership began in 2020."
-      },
-      "ja": {
-        "title": "コナミ、NPBジュニアトーナメントの特別協賛を7年連続で継続",
-        "summary": "ゲームメーカーのコナミデジタルエンタテインメントが、日本野球機構主催の少年野球大会「NPBジュニアトーナメント KONAMI CUP 2026」の特別協賛を務める。2020年に始まったこの協賛は、今年で7年連続となる。"
-      },
-      "es": {
-        "title": "Konami vuelve como patrocinador principal del torneo juvenil de béisbol de la NPB",
-        "summary": "La empresa de videojuegos Konami será el patrocinador principal del \"Torneo Juvenil de la NPB KONAMI CUP 2026\", una competición de béisbol juvenil organizada por Nippon Professional Baseball. Marca el séptimo año consecutivo que Konami respalda este torneo juvenil desde que comenzó la asociación en 2020."
-      },
-      "zh": {
-        "title": "科乐美再度冠名NPB少年棒球锦标赛",
-        "summary": "游戏制造商科乐美将担任由日本职业棒球机构主办的青少年棒球赛事\"NPB少年锦标赛KONAMI CUP 2026\"的冠名赞助商。自2020年合作开始以来,这是科乐美连续第七年支持这项青少年赛事。"
-      },
-      "fr": {
-        "title": "Konami reconduit son sponsoring titre du tournoi junior de baseball de la NPB",
-        "summary": "L'éditeur de jeux vidéo Konami sera le sponsor titre du « Tournoi junior NPB KONAMI CUP 2026 », une compétition de baseball pour jeunes organisée par la Nippon Professional Baseball. C'est la septième année consécutive que Konami soutient ce tournoi junior depuis le début du partenariat en 2020."
       }
     }
   },
@@ -6453,41 +6185,6 @@
     }
   },
   {
-    "id": "timbers-bank-of-america-jersey-sponsor-2025",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "fan",
-      "biz"
-    ],
-    "published_at": "2025-12-09T00:00:00Z",
-    "source_name": "MLSsoccer.com",
-    "source_url": "https://www.mlssoccer.com/news/portland-timbers-add-bank-of-america-as-jersey-sponsor",
-    "i18n": {
-      "en": {
-        "title": "Portland Timbers Name Bank of America as New Front-of-Jersey Sponsor",
-        "summary": "The Portland Timbers unveiled Bank of America as their new multi-year front-of-jersey partner, marking the bank's first professional sports jersey sponsorship. Current sponsor Tillamook shifts to a sleeve patch, and the deal includes a community push with free youth soccer camps and equipment donations around Portland."
-      },
-      "ja": {
-        "title": "ポートランド・ティンバーズ、新ユニフォームスポンサーにバンク・オブ・アメリカ",
-        "summary": "ポートランド・ティンバーズは、複数年契約でバンク・オブ・アメリカを新たなユニフォーム胸スポンサーに迎えると発表した。同行にとって初のプロスポーツユニフォーム協賛となる。これまでの胸スポンサーだったティラムックは袖パッチ契約に移行し、今回の提携には地元の子ども向け無料サッカー教室や用品寄付など地域貢献策も含まれる。"
-      },
-      "es": {
-        "title": "Portland Timbers anuncia a Bank of America como nuevo patrocinador principal de camiseta",
-        "summary": "Los Portland Timbers presentaron a Bank of America como su nuevo patrocinador principal de camiseta en un acuerdo multianual, el primer patrocinio de camiseta deportiva profesional para el banco. Tillamook, el patrocinador anterior, pasa a ocupar el parche de manga, y el acuerdo incluye iniciativas comunitarias como campamentos de fútbol gratuitos para jóvenes y donación de equipamiento en Portland."
-      },
-      "zh": {
-        "title": "波特兰伐木者队宣布美国银行成为新球衣胸前赞助商",
-        "summary": "波特兰伐木者队宣布与美国银行达成多年协议,后者将成为球队新的球衣胸前赞助商,这也是该银行首次赞助职业体育球衣。此前的胸前赞助商Tillamook将转为袖标赞助商,协议还包含面向波特兰青少年的免费足球训练营和装备捐赠等社区项目。"
-      },
-      "fr": {
-        "title": "Les Portland Timbers dévoilent Bank of America comme nouveau sponsor principal de maillot",
-        "summary": "Les Portland Timbers ont annoncé un accord pluriannuel faisant de Bank of America leur nouveau sponsor principal au maillot, un premier partenariat de ce type pour la banque dans le sport professionnel. Tillamook, l'ancien sponsor principal, passe à l'emplacement de la manche, et l'accord prévoit des actions communautaires comme des stages de football gratuits pour les jeunes et des dons d'équipement à Portland."
-      }
-    }
-  },
-  {
     "id": "chelsea-ifs-shirt-sponsor-2026",
     "sport": "soccer",
     "region": "global",
@@ -6556,40 +6253,6 @@
     }
   },
   {
-    "id": "celtics-nba-board-approves-chisholm-sale-2025",
-    "sport": "basketball",
-    "region": "global",
-    "topics": [
-      "team",
-      "biz"
-    ],
-    "published_at": "2025-08-13T00:00:00Z",
-    "source_name": "NBA",
-    "source_url": "https://pr.nba.com/nba-board-of-governors-celtics-sale-bill-chisholm",
-    "i18n": {
-      "en": {
-        "title": "NBA Board Unanimously Approves Record $6.1 Billion Celtics Sale to Chisholm Group",
-        "summary": "The NBA Board of Governors unanimously approved the sale of the Boston Celtics to an investment group led by private equity executive Bill Chisholm, at an initial valuation of $6.1 billion, then a record for a North American sports franchise. Chisholm's group is buying a 51% stake from the Grousbeck family in the first phase, with Wyc Grousbeck remaining as alternate governor and CEO."
-      },
-      "ja": {
-        "title": "NBA理事会、セルティックスの65億ドル規模の売却を承認",
-        "summary": "NBAの理事会は、プライベートエクイティ幹部ビル・チショルム氏が率いる投資グループへのボストン・セルティックス売却を全会一致で承認した。初期評価額は61億ドルで、当時の北米プロスポーツ球団としては最高額だった。第一段階ではグロウスベック家から51%の株式を取得し、ワイク・グロウスベック氏は副ガバナー兼CEOとして残る。"
-      },
-      "es": {
-        "title": "La junta de la NBA aprueba por unanimidad la venta histórica de los Celtics por 6.100 millones de dólares al grupo de Chisholm",
-        "summary": "La junta de gobernadores de la NBA aprobó por unanimidad la venta de los Boston Celtics a un grupo de inversión liderado por el ejecutivo de capital privado Bill Chisholm, con una valoración inicial de 6.100 millones de dólares, entonces un récord para una franquicia deportiva norteamericana. El grupo de Chisholm compra una participación del 51% a la familia Grousbeck en una primera fase, mientras Wyc Grousbeck permanece como gobernador alterno y director ejecutivo."
-      },
-      "zh": {
-        "title": "NBA理事会一致批准凯尔特人队61亿美元创纪录出售案",
-        "summary": "NBA理事会一致投票批准将波士顿凯尔特人队出售给由私募股权高管比尔·奇肖姆领导的投资集团,初始估值达61亿美元,创下当时北美职业体育球队交易纪录。奇肖姆集团在第一阶段将从格劳斯贝克家族手中购得51%股权,怀克·格劳斯贝克将继续担任副治理人及首席执行官。"
-      },
-      "fr": {
-        "title": "Le conseil de la NBA approuve à l'unanimité la vente record des Celtics à 6,1 milliards de dollars au groupe Chisholm",
-        "summary": "Le conseil des gouverneurs de la NBA a approuvé à l'unanimité la vente des Celtics de Boston à un groupe d'investissement dirigé par le dirigeant de capital-investissement Bill Chisholm, pour une valorisation initiale de 6,1 milliards de dollars, un record à l'époque pour une franchise sportive nord-américaine. Le groupe de Chisholm achète 51 % des parts à la famille Grousbeck dans une première phase, Wyc Grousbeck restant gouverneur adjoint et PDG."
-      }
-    }
-  },
-  {
     "id": "seahawks-nfl-owners-approve-khosla-sale-2026",
     "sport": "football",
     "region": "global",
@@ -6620,40 +6283,6 @@
       "fr": {
         "title": "Les propriétaires de la NFL approuvent à l'unanimité la vente record des Seahawks à 9,6 milliards de dollars à la famille Khosla",
         "summary": "Les propriétaires de franchises NFL ont voté à l'unanimité à Atlanta pour approuver la vente des Seahawks de Seattle, depuis la succession de Paul Allen, à un groupe dirigé par Vinod Khosla, pour une opération évaluée à environ 9,6 milliards de dollars. Ce prix établit un nouveau record pour une franchise NFL, et Khosla doit céder sa participation minoritaire dans les 49ers de San Francisco comme condition de l'accord."
-      }
-    }
-  },
-  {
-    "id": "uber-la28-rideshare-delivery-partner-2025",
-    "sport": "olympics",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2025-07-09T00:00:00Z",
-    "source_name": "LA28",
-    "source_url": "https://la28.org/en/newsroom/uber-partners-with-la28-and-team-usa-as-official-rideshare-and-on-demand-delivery-partner.html",
-    "i18n": {
-      "en": {
-        "title": "Uber Named Official Rideshare and Delivery Partner of LA28 Olympics",
-        "summary": "Uber will serve as the official rideshare and on-demand delivery partner for the LA28 Olympic and Paralympic Games and Team USA, with Uber Eats supplying deliveries to the athlete villages. Financial terms were not disclosed, and the deal places Uber alongside sponsors such as Cisco, Fanatics and Nike in LA28's second-tier partnership group."
-      },
-      "ja": {
-        "title": "ウーバー、LA28オリンピックの公式ライドシェア・配送パートナーに",
-        "summary": "ウーバーは、LA28オリンピック・パラリンピックおよびアメリカ代表チームの公式ライドシェア・オンデマンド配送パートナーに就任すると発表した。Uber Eatsが選手村への配送を担う。契約金額は非公開だが、この提携によりウーバーはシスコ、ファナティクス、ナイキなどと並ぶLA28の第二階層スポンサー群に加わる。"
-      },
-      "es": {
-        "title": "Uber, nombrado socio oficial de transporte compartido y entregas de los Juegos LA28",
-        "summary": "Uber será el socio oficial de transporte compartido y entrega a demanda de los Juegos Olímpicos y Paralímpicos LA28 y del Team USA, con Uber Eats encargándose de las entregas en las villas de atletas. No se revelaron los términos financieros, y el acuerdo coloca a Uber junto a patrocinadores como Cisco, Fanatics y Nike en el segundo nivel de socios de LA28."
-      },
-      "zh": {
-        "title": "Uber成为LA28奥运会官方拼车与配送合作伙伴",
-        "summary": "Uber宣布将成为LA28奥运会与残奥会及美国代表队的官方拼车与即时配送合作伙伴,旗下Uber Eats将负责向运动员村提供配送服务。相关财务条款未公开,此次合作使Uber与思科、Fanatics、耐克等品牌一同位列LA28的第二梯队合作伙伴。"
-      },
-      "fr": {
-        "title": "Uber nommé partenaire officiel de covoiturage et de livraison des Jeux LA28",
-        "summary": "Uber sera le partenaire officiel de covoiturage et de livraison à la demande des Jeux olympiques et paralympiques LA28 et de Team USA, Uber Eats assurant les livraisons dans les villages des athlètes. Les conditions financières n'ont pas été divulguées, et l'accord place Uber aux côtés de sponsors comme Cisco, Fanatics et Nike dans le second niveau de partenariat de LA28."
       }
     }
   },
@@ -6692,41 +6321,6 @@
     }
   },
   {
-    "id": "kashima-mercari-stadium-naming-rights-2025",
-    "sport": "soccer",
-    "region": "japan",
-    "topics": [
-      "stadium",
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2025-06-19T00:00:00Z",
-    "source_name": "Ibaraki Prefecture",
-    "source_url": "https://www.pref.ibaraki.jp/kikaku/chikei/keikaku/stadium/nr.html",
-    "i18n": {
-      "en": {
-        "title": "Kashima Soccer Stadium to Be Called 'Mercari Stadium' Under New Naming Rights Deal",
-        "summary": "Ibaraki Prefecture and Kashima Antlers announced that e-commerce company Mercari acquired naming rights to the Kashima Soccer Stadium, giving the Antlers' home ground the nickname \"Mercari Stadium\" from July 2025 through June 2028. The three-year deal is reportedly worth about 150 million yen annually, split roughly evenly between the prefecture and Mercari, and leaves the stadium's official administrative name unchanged."
-      },
-      "ja": {
-        "title": "鹿島サッカースタジアム、新ネーミングライツ契約で「メルカリスタジアム」に",
-        "summary": "茨城県と鹿島アントラーズは、フリマアプリ運営会社メルカリが鹿島サッカースタジアムの命名権を取得し、2025年7月から2028年6月までの3年間、愛称を「メルカリスタジアム」とすると発表した。契約金額は年額約1億5000万円とされ、県とメルカリがほぼ折半で負担する。なお条例上の正式名称「茨城県立カシマサッカースタジアム」は変更されない。"
-      },
-      "es": {
-        "title": "El estadio de fútbol de Kashima se llamará \"Mercari Stadium\" bajo un nuevo acuerdo de derechos de denominación",
-        "summary": "La prefectura de Ibaraki y el club Kashima Antlers anunciaron que la empresa de comercio electrónico Mercari obtuvo los derechos de denominación del estadio de fútbol de Kashima, que llevará el apodo \"Mercari Stadium\" desde julio de 2025 hasta junio de 2028. El acuerdo, de tres años, tendría un valor de unos 150 millones de yenes anuales, repartido casi a partes iguales entre la prefectura y Mercari, y no cambia el nombre administrativo oficial del estadio."
-      },
-      "zh": {
-        "title": "鹿岛足球体育场因新冠名权协议更名为\"Mercari Stadium\"",
-        "summary": "茨城县与鹿岛鹿角俱乐部宣布,电商企业Mercari获得鹿岛足球体育场的冠名权,从2025年7月至2028年6月的三年间,该球场昵称将改为\"Mercari Stadium\"。据报道该协议年值约1.5亿日元,由县政府与Mercari大致均摊,球场的官方行政名称保持不变。"
-      },
-      "fr": {
-        "title": "Le stade de football de Kashima renommé « Mercari Stadium » dans le cadre d'un nouvel accord de naming",
-        "summary": "La préfecture d'Ibaraki et le club Kashima Antlers ont annoncé que l'entreprise de commerce électronique Mercari a acquis les droits de naming du stade de football de Kashima, qui portera le surnom « Mercari Stadium » de juillet 2025 à juin 2028. L'accord de trois ans serait évalué à environ 150 millions de yens par an, partagés presque à égalité entre la préfecture et Mercari, sans changer le nom administratif officiel du stade."
-      }
-    }
-  },
-  {
     "id": "jleague-platinum-gold-partner-tier-2026",
     "sport": "soccer",
     "region": "japan",
@@ -6757,6 +6351,278 @@
       "fr": {
         "title": "La J.League crée de nouveaux niveaux « Platinum » et « Gold Partner », MUFG Bank parmi les meilleurs sponsors",
         "summary": "La J.League a annoncé une restructuration de ses catégories de sponsoring pour la saison 2026-27, remplaçant l'ancien niveau « Top Partner » par de nouvelles désignations « Platinum Partner » et « Gold Partner » destinées à approfondir les synergies avec chaque sponsor. MUFG Bank rejoint le partenaire historique NTT Docomo dans le nouveau niveau Platinum, tandis que Konami Digital Entertainment figure parmi les Gold Partners."
+      }
+    }
+  },
+  {
+    "id": "arsenal-emirates-partnership-extension-2033",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "stadium"
+    ],
+    "published_at": "2026-08-06T00:00:00Z",
+    "source_name": "SportCal",
+    "source_url": "https://www.sportcal.com/news/arsenal-renews-long-running-emirates-partnership-through-2033/",
+    "i18n": {
+      "en": {
+        "title": "Arsenal Extends Emirates Partnership Through 2033",
+        "summary": "Arsenal announced a long-term renewal of its sponsorship with Emirates airline, keeping the carrier as front-of-shirt sponsor, training-kit partner and stadium naming-rights holder through 2033. The club credited Emirates' two-decade backing as it extended the deal following its 2025-26 Premier League title."
+      },
+      "ja": {
+        "title": "アーセナル、エミレーツ航空とのパートナーシップを2033年まで延長",
+        "summary": "アーセナルは、エミレーツ航空との長期スポンサー契約を2033年まで延長すると発表した。同社はユニフォームの胸スポンサー、トレーニングキットパートナー、そしてスタジアムの命名権保有者としての地位を継続する。クラブは2025-26シーズンのプレミアリーグ優勝を経て、約20年に及ぶ同社の支援に謝意を示した。"
+      },
+      "es": {
+        "title": "El Arsenal extiende su asociación con Emirates hasta 2033",
+        "summary": "El Arsenal anunció una renovación a largo plazo de su acuerdo de patrocinio con la aerolínea Emirates, que seguirá como patrocinador principal de la camiseta, socio de la ropa de entrenamiento y titular de los derechos de denominación del estadio hasta 2033. El club agradeció el respaldo de casi dos décadas de Emirates tras conquistar la Premier League 2025-26."
+      },
+      "zh": {
+        "title": "阿森纳将与阿联酋航空的合作关系延长至2033年",
+        "summary": "阿森纳宣布与阿联酋航空的长期赞助合作将延长至2033年,该公司将继续担任球衣胸前赞助商、训练装备合作伙伴以及球场命名权持有者。在赢得2025-26赛季英超冠军后,俱乐部对阿联酋航空近二十年的支持表示感谢。"
+      },
+      "fr": {
+        "title": "Arsenal prolonge son partenariat avec Emirates jusqu'en 2033",
+        "summary": "Arsenal a annoncé le renouvellement à long terme de son partenariat de sponsoring avec la compagnie aérienne Emirates, qui reste sponsor principal du maillot, partenaire des tenues d'entraînement et détenteur des droits de dénomination du stade jusqu'en 2033. Le club a salué le soutien d'Emirates depuis près de vingt ans après son titre de champion de Premier League 2025-26."
+      }
+    }
+  },
+  {
+    "id": "fc-barcelona-ohana-back-of-shirt-sponsor-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-09-19T12:00:00Z",
+    "source_name": "FC Barcelona",
+    "source_url": "https://www.fcbarcelona.com/en/news/4578780/assembly-ratifies-agreements-with-ohana-development-and-babylon-park",
+    "i18n": {
+      "en": {
+        "title": "Barcelona Members Ratify Ohana Development Back-of-Shirt Sponsorship",
+        "summary": "FC Barcelona's general assembly voted to ratify a new back-of-shirt sponsorship agreement with Ohana Real Estate Development, covering the men's and women's first teams in domestic competitions from 2027-28 through 2029-30. Members approved the deal alongside a separate licensing agreement with Babylon Park as the club looks to boost commercial revenue."
+      },
+      "ja": {
+        "title": "バルセロナ、総会でオハナ・デベロップメントとの背中スポンサー契約を承認",
+        "summary": "FCバルセロナの総会は、不動産開発会社オハナ・リアルエステート・デベロップメントとの新たな背中スポンサー契約を承認した。契約は2027-28シーズンから2029-30シーズンまで、男女トップチームの国内大会ユニフォームを対象とする。クラブは商業収入拡大に向け、バビロン・パークとの別のライセンス契約も同時に承認した。"
+      },
+      "es": {
+        "title": "Los socios del Barça ratifican el patrocinio de la espalda de la camiseta con Ohana Development",
+        "summary": "La Asamblea General del FC Barcelona votó a favor de ratificar un nuevo acuerdo de patrocinio en la espalda de la camiseta con Ohana Real Estate Development, que cubrirá a los primeros equipos masculino y femenino en competiciones domésticas de 2027-28 a 2029-30. Los socios también aprobaron un acuerdo de licencia independiente con Babylon Park para impulsar los ingresos comerciales del club."
+      },
+      "zh": {
+        "title": "巴塞罗那会员大会批准与Ohana Development的球衣背后赞助协议",
+        "summary": "巴塞罗那俱乐部会员大会投票批准了与房地产开发商Ohana Real Estate Development达成的新球衣背后赞助协议,该协议将覆盖男女一队从2027-28赛季到2029-30赛季的国内赛事。会员们还批准了与Babylon Park的另一项授权协议,以提升俱乐部的商业收入。"
+      },
+      "fr": {
+        "title": "Les membres du Barça ratifient le sponsoring au dos du maillot avec Ohana Development",
+        "summary": "L'assemblée générale du FC Barcelone a voté la ratification d'un nouvel accord de sponsoring au dos du maillot avec le promoteur immobilier Ohana Real Estate Development, couvrant les équipes premières masculine et féminine en compétitions nationales de 2027-28 à 2029-30. Les membres ont aussi approuvé un accord de licence distinct avec Babylon Park afin de renforcer les revenus commerciaux du club."
+      }
+    }
+  },
+  {
+    "id": "london-city-lionesses-nike-shirt-sponsor-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-09-03T00:00:00Z",
+    "source_name": "London City Lionesses",
+    "source_url": "https://www.londoncitylionesses.com/post/london-city-lionesses-and-nike-announce-landmark-multi-year-deal",
+    "i18n": {
+      "en": {
+        "title": "London City Lionesses and Nike Announce Landmark Front-of-Shirt Deal",
+        "summary": "Women's Super League club London City Lionesses announced a multi-year front-of-shirt partnership with Nike, reported as the largest such deal in the women's game. The agreement, debuting in the club's season opener against Manchester United, also extends an existing technical kit partnership through the 2027-28 season."
+      },
+      "ja": {
+        "title": "ロンドン・シティ・ライオネス、ナイキとの画期的な胸スポンサー契約を発表",
+        "summary": "女子スーパーリーグのロンドン・シティ・ライオネスは、ナイキとの複数年にわたる胸スポンサー契約を発表した。女子サッカー史上最大規模の同種契約とされる。マンチェスター・ユナイテッド戦の開幕戦でデビューするこの契約は、既存のテクニカルキットパートナーシップを2027-28シーズンまで延長する内容も含む。"
+      },
+      "es": {
+        "title": "London City Lionesses y Nike anuncian un histórico acuerdo para el frente de la camiseta",
+        "summary": "El club de la Women's Super League London City Lionesses anunció una asociación plurianual con Nike para el frente de su camiseta, descrita como el mayor acuerdo de este tipo en el fútbol femenino. El pacto, que debutó en el partido inaugural de temporada ante el Manchester United, también extiende una alianza técnica de equipamiento existente hasta la temporada 2027-28."
+      },
+      "zh": {
+        "title": "伦敦城女足与耐克宣布里程碑式球衣胸前赞助协议",
+        "summary": "英格兰女子超级联赛球队伦敦城女足宣布与耐克达成多年期球衣胸前赞助合作,据称是女子足球领域同类协议中规模最大的一笔。该协议已在球队对阵曼联的赛季揭幕战中首次亮相,同时还将现有的技术装备合作延长至2027-28赛季。"
+      },
+      "fr": {
+        "title": "Les London City Lionesses et Nike annoncent un accord historique pour l'avant du maillot",
+        "summary": "Le club de Women's Super League London City Lionesses a annoncé un partenariat pluriannuel avec Nike pour l'avant de son maillot, présenté comme le plus important accord de ce type dans le football féminin. L'accord, dévoilé lors du match d'ouverture de la saison contre Manchester United, prolonge également un partenariat technique existant jusqu'à la saison 2027-28."
+      }
+    }
+  },
+  {
+    "id": "la-angels-sale-kroenke-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-01T00:00:00Z",
+    "source_name": "MLB.com",
+    "source_url": "https://www.mlb.com/news/angels-team-sale-ownership-change-faq",
+    "i18n": {
+      "en": {
+        "title": "Stan Kroenke's KSE Agrees to Buy Controlling Stake in Angels From Moreno",
+        "summary": "Kroenke Sports & Entertainment agreed to acquire a controlling interest in the Los Angeles Angels from longtime owner Arte Moreno, in a transaction reported to value the club above $3.9 billion. The deal, which still requires Major League Baseball approval, is expected to close in early 2027 and would add the Angels to Kroenke's portfolio alongside the Rams, Nuggets, Avalanche and Arsenal."
+      },
+      "ja": {
+        "title": "スタン・クローンキー氏のKSE、エンゼルスの経営権をモレノ氏から買収へ合意",
+        "summary": "クローンキー・スポーツ&エンターテインメントは、長年の球団オーナーであるアーティ・モレノ氏からロサンゼルス・エンゼルスの経営権を取得することで合意したと報じられた。球団価値は39億ドルを超えると伝えられている。この取引はメジャーリーグの承認を必要とし、完了は2027年初頭が見込まれている。これにより同氏はラムズ、ナゲッツ、アバランチ、アーセナルに続く保有スポーツ資産を増やすことになる。"
+      },
+      "es": {
+        "title": "KSE de Stan Kroenke acuerda comprar una participación mayoritaria de los Angels a Moreno",
+        "summary": "Kroenke Sports & Entertainment acordó adquirir una participación mayoritaria en los Angels de Los Ángeles por parte del propietario de largo plazo Arte Moreno, en una operación que se informa valora al club en más de 3.900 millones de dólares. El acuerdo, que todavía requiere la aprobación de las Grandes Ligas, se espera que se cierre a principios de 2027 y sumaría a los Angels a la cartera de Kroenke junto a los Rams, los Nuggets, el Avalanche y el Arsenal."
+      },
+      "zh": {
+        "title": "斯坦·克罗恩克旗下KSE同意从莫雷诺手中收购天使队控股权",
+        "summary": "克罗恩克体育娱乐公司同意从长期拥有者阿特·莫雷诺手中收购洛杉矶天使队的控股权益,据报道该交易对球队估值超过39亿美元。该交易仍需美国职业棒球大联盟批准,预计将于2027年初完成,届时天使队将加入克罗恩克旗下公羊队、掘金队、雪崩队和阿森纳等资产组合。"
+      },
+      "fr": {
+        "title": "KSE de Stan Kroenke accepte de racheter la participation majoritaire des Angels à Moreno",
+        "summary": "Kroenke Sports & Entertainment a accepté d'acquérir une participation majoritaire dans les Angels de Los Angeles auprès du propriétaire historique Arte Moreno, dans une transaction qui valoriserait le club à plus de 3,9 milliards de dollars. L'accord, qui doit encore être approuvé par la Ligue majeure de baseball, devrait être finalisé début 2027 et ajouterait les Angels au portefeuille de Kroenke, qui comprend déjà les Rams, les Nuggets, l'Avalanche et Arsenal."
+      }
+    }
+  },
+  {
+    "id": "padres-sale-feliciano-jones-approved-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-08-17T00:00:00Z",
+    "source_name": "Associated Press",
+    "source_url": "https://www.ksl.com/article/51610861/mlb-approves-sale-of-san-diego-padres-to-jos-e-feliciano-and-kwanza-jones",
+    "i18n": {
+      "en": {
+        "title": "MLB Owners Unanimously Approve Record $3.9B Sale of Padres",
+        "summary": "Major League Baseball's owners unanimously approved the sale of the San Diego Padres to an investor group led by José E. Feliciano and Kwanza Jones, a transaction that values the club at an MLB-record $3.9 billion. The buyers are purchasing the team from the family of the late Peter Seidler, with Padres CEO Erik Greupner and general manager A.J. Preller staying on to run day-to-day operations."
+      },
+      "ja": {
+        "title": "MLB球団オーナー、パドレスの39億ドルでの売却を全会一致で承認",
+        "summary": "メジャーリーグベースボールの球団オーナーたちは、ホセ・E・フェリシアーノ氏とクワンザ・ジョーンズ氏が率いる投資グループによるサンディエゴ・パドレスの売却を全会一致で承認した。球団評価額はMLB史上最高額となる39億ドルに達する。買収側は故ピーター・サイドラー氏の遺族から球団を取得し、エリック・グループナーCEOとA.J.プレラーGMは日常業務の指揮を続ける。"
+      },
+      "es": {
+        "title": "Los propietarios de la MLB aprueban por unanimidad la venta récord de los Padres por 3.900 millones",
+        "summary": "Los propietarios de las Grandes Ligas de Béisbol aprobaron por unanimidad la venta de los Padres de San Diego a un grupo inversor liderado por José E. Feliciano y Kwanza Jones, en una operación que valora al club en un récord de 3.900 millones de dólares para la MLB. Los compradores adquieren el equipo de la familia del fallecido Peter Seidler, mientras el CEO Erik Greupner y el gerente general A.J. Preller continuarán a cargo de las operaciones diarias."
+      },
+      "zh": {
+        "title": "MLB球队老板一致批准以39亿美元创纪录价格出售教士队",
+        "summary": "美国职业棒球大联盟球队老板一致批准将圣地亚哥教士队出售给由何塞·E·费利西亚诺和夸扎·琼斯领导的投资集团,此交易对球队估值达到创MLB纪录的39亿美元。买方从已故球队老板彼得·塞德勒的家族手中收购球队,现任首席执行官埃里克·格鲁普纳和总经理A.J.普雷勒将继续负责日常运营。"
+      },
+      "fr": {
+        "title": "Les propriétaires de la MLB approuvent à l'unanimité la vente record des Padres pour 3,9 milliards de dollars",
+        "summary": "Les propriétaires de la Ligue majeure de baseball ont approuvé à l'unanimité la vente des Padres de San Diego à un groupe d'investisseurs dirigé par José E. Feliciano et Kwanza Jones, une transaction qui valorise le club à un record pour la MLB de 3,9 milliards de dollars. Les acheteurs reprennent l'équipe auprès de la famille du défunt Peter Seidler, tandis que le PDG Erik Greupner et le directeur général A.J. Preller resteront en charge des opérations quotidiennes."
+      }
+    }
+  },
+  {
+    "id": "cerezo-osaka-yanmar-hanasaka-stadium-naming-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-03-06T00:00:00Z",
+    "source_name": "Yanmar Holdings",
+    "source_url": "https://www.yanmar.com/jp/news/2026/03/06/162072.html",
+    "i18n": {
+      "en": {
+        "title": "Yanmar Renames Cerezo Osaka's Home Ground 'YANMAR HANASAKA STADIUM'",
+        "summary": "Yanmar Holdings secured renewed naming rights to Cerezo Osaka's home stadium, previously known as Yodoko Sakura Stadium, rebranding it YANMAR HANASAKA STADIUM effective April 1, 2026 through June 2031. Yanmar said the new name reflects its founding spirit of backing people's potential, echoing Cerezo's own youth-development ‘Hanasaka Club’ initiative."
+      },
+      "ja": {
+        "title": "ヤンマー、セレッソ大阪の本拠地を「YANMAR HANASAKA STADIUM」に改称",
+        "summary": "ヤンマーホールディングスは、セレッソ大阪のホームスタジアム(旧ヨドコウ桜スタジアム)の命名権を更新し、2026年4月1日から2031年6月まで「YANMAR HANASAKA STADIUM」に改称すると発表した。同社は、新名称が創業以来掲げる「人の可能性を信じ、後押しする」精神を表すものであり、セレッソ大阪が運営する育成支援クラブ「ハナサカクラブ」との関連も込めたと説明している。"
+      },
+      "es": {
+        "title": "Yanmar renombra el estadio del Cerezo Osaka como 'YANMAR HANASAKA STADIUM'",
+        "summary": "Yanmar Holdings renovó los derechos de denominación del estadio del Cerezo Osaka, antes conocido como Yodoko Sakura Stadium, que pasará a llamarse YANMAR HANASAKA STADIUM a partir del 1 de abril de 2026 y hasta junio de 2031. Yanmar explicó que el nuevo nombre refleja su espíritu fundacional de respaldar el potencial de las personas, en sintonía con el programa de desarrollo juvenil ‘Hanasaka Club’ del propio Cerezo."
+      },
+      "zh": {
+        "title": "洋马将世博足球场重新命名为'YANMAR HANASAKA STADIUM'",
+        "summary": "洋马控股更新了大阪樱花队主场(原名世博足球场)的命名权,自2026年4月1日至2031年6月将其更名为‘YANMAR HANASAKA STADIUM’。洋马表示,新名称体现了公司自创立以来秉持的‘相信并支持人的潜力’的精神,也与大阪樱花自身运营的青训支援项目‘HANASAKA俱乐部’相呼应。"
+      },
+      "fr": {
+        "title": "Yanmar rebaptise le stade du Cerezo Osaka 'YANMAR HANASAKA STADIUM'",
+        "summary": "Yanmar Holdings a renouvelé les droits de dénomination du stade du Cerezo Osaka, auparavant appelé Yodoko Sakura Stadium, qui sera rebaptisé YANMAR HANASAKA STADIUM du 1er avril 2026 à juin 2031. Yanmar explique que ce nouveau nom reflète son esprit fondateur consistant à soutenir le potentiel humain, en écho au programme de développement des jeunes « Hanasaka Club » du club lui-même."
+      }
+    }
+  },
+  {
+    "id": "npb-japan-series-2026-smbc-sponsor",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-08-04T00:00:00Z",
+    "source_name": "NPB",
+    "source_url": "https://npb.jp/news/detail/20260804_01.html",
+    "i18n": {
+      "en": {
+        "title": "NPB Names Sumitomo Mitsui Banking as Japan Series 2026 Title Sponsor for 13th Straight Year",
+        "summary": "Nippon Professional Baseball named Sumitomo Mitsui Banking Corporation (SMBC) as the special sponsor of this year's championship series, officially branded ‘SMBC Japan Series 2026.’ It marks the bank's 13th consecutive year in the role, with the series set to open October 24 and run as far as a decisive Game 7 on November 1."
+      },
+      "ja": {
+        "title": "NPB、日本シリーズ2026の特別協賛社に三井住友銀行、13年連続",
+        "summary": "日本野球機構(NPB)は、今年の日本一決定戦の特別協賛社として三井住友銀行(SMBC)を発表し、大会名称は「SMBC日本シリーズ2026」となる。同社が特別協賛を務めるのは13年連続。シリーズは10月24日に開幕し、最終第7戦は11月1日に予定されている。"
+      },
+      "es": {
+        "title": "La NPB designa a Sumitomo Mitsui Banking como patrocinador titular de la Serie de Japón 2026 por 13º año consecutivo",
+        "summary": "El béisbol profesional japonés (NPB) nombró a Sumitomo Mitsui Banking Corporation (SMBC) como patrocinador especial de la serie de campeonato de este año, denominada oficialmente ‘SMBC Japan Series 2026’. Es el 13º año consecutivo del banco en ese papel, con la serie programada para comenzar el 24 de octubre y extenderse hasta un posible séptimo y decisivo partido el 1 de noviembre."
+      },
+      "zh": {
+        "title": "NPB宣布三井住友银行连续第13年担任2026年日本大赛冠名赞助商",
+        "summary": "日本职业棒球组织(NPB)宣布三井住友银行(SMBC)担任本年度总决赛特别赞助商,赛事正式名称为‘SMBC日本大赛2026’。这是该银行连续第13年担任这一角色,系列赛将于10月24日开打,如打满七场则将在11月1日迎来决胜局。"
+      },
+      "fr": {
+        "title": "La NPB nomme Sumitomo Mitsui Banking sponsor titre de la Japan Series 2026 pour la 13e année consécutive",
+        "summary": "Le baseball professionnel japonais (NPB) a désigné Sumitomo Mitsui Banking Corporation (SMBC) comme sponsor spécial de la série de championnat de cette année, officiellement baptisée « SMBC Japan Series 2026 ». Il s'agit de la 13e année consécutive de la banque dans ce rôle, la série devant débuter le 24 octobre et pouvant se prolonger jusqu'à un septième match décisif le 1er novembre."
+      }
+    }
+  },
+  {
+    "id": "att-dallas-cowboys-stadium-tech-partnership-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "tech",
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-09-18T00:00:00Z",
+    "source_name": "AT&T",
+    "source_url": "https://about.att.com/story/2026/dallas-cowboys-partnership.html",
+    "i18n": {
+      "en": {
+        "title": "AT&T and Dallas Cowboys Unveil Expanded Stadium Technology Partnership",
+        "summary": "AT&T and the Dallas Cowboys announced an expanded agreement under which AT&T's network will power new in-stadium technology at AT&T Stadium starting with the 2026 season. The companies framed the deal as building the future of fan connectivity and in-venue entertainment at the naming-rights venue."
+      },
+      "ja": {
+        "title": "AT&Tとダラス・カウボーイズ、スタジアム技術パートナーシップを拡大",
+        "summary": "AT&Tとダラス・カウボーイズは、2026年シーズンから同社のネットワークがAT&Tスタジアムの新たなスタジアム内技術を支える、拡大版のパートナーシップ契約を発表した。両社はこの提携を、命名権を持つ同スタジアムにおけるファンの接続環境と会場内エンターテインメントの未来を築くものと位置づけている。"
+      },
+      "es": {
+        "title": "AT&T y los Dallas Cowboys presentan una alianza tecnológica ampliada para el estadio",
+        "summary": "AT&T y los Dallas Cowboys anunciaron un acuerdo ampliado por el cual la red de AT&T impulsará nueva tecnología dentro del AT&T Stadium a partir de la temporada 2026. Las empresas describieron el pacto como la construcción del futuro de la conectividad de los aficionados y el entretenimiento dentro del recinto que lleva el nombre de la compañía."
+      },
+      "zh": {
+        "title": "AT&T与达拉斯牛仔队公布扩展版球场技术合作",
+        "summary": "AT&T与达拉斯牛仔队宣布扩展合作协议,从2026赛季起由AT&T的网络为AT&T体育场内的新技术提供支持。两家公司将此次合作定位为在这座以其命名的场馆中构建球迷连接与场内娱乐体验的未来。"
+      },
+      "fr": {
+        "title": "AT&T et les Dallas Cowboys dévoilent un partenariat technologique élargi pour le stade",
+        "summary": "AT&T et les Dallas Cowboys ont annoncé un accord élargi selon lequel le réseau d'AT&T alimentera de nouvelles technologies à l'intérieur de l'AT&T Stadium dès la saison 2026. Les deux entreprises ont présenté cet accord comme la construction de l'avenir de la connectivité des supporters et du divertissement dans cette enceinte qui porte le nom de l'opérateur."
       }
     }
   }
