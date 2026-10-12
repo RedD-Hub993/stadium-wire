@@ -7094,5 +7094,307 @@
         "summary": "Le guide de gestion des clubs révisé de la J.League, mis à jour en mars 2026, fixe pour objectif de multiplier par 1,5 à 2 le chiffre d'affaires total de tous les clubs de la ligue au cours de la prochaine décennie. Le plan considère une gestion de club renforcée comme essentielle aux ambitions de la ligue de mieux rivaliser en Asie et à l'échelle mondiale."
       }
     }
+  },
+  {
+    "id": "msg-cisco-official-partner-2025",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "tech",
+      "stadium"
+    ],
+    "published_at": "2025-12-03T00:00:00Z",
+    "source_name": "Cisco Newsroom",
+    "source_url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2025/m12/madison-square-garden-entertainment-and-cisco-announce-multi-year-partnership-making-cisco-an-official-partner-of-the-world-most-famous-arena.html",
+    "i18n": {
+      "en": {
+        "title": "Madison Square Garden Taps Cisco as Official Technology Partner",
+        "summary": "Madison Square Garden Entertainment named Cisco an official partner of its Manhattan arena under a new multi-year agreement. The deal expands on the venue's existing Cisco networking gear, with the companies planning to build out connectivity, Wi-Fi and security systems to support fan experiences and arena operations. Financial terms of the partnership were not disclosed."
+      },
+      "ja": {
+        "title": "マディソン・スクエア・ガーデン、シスコを公式テクノロジー・パートナーに起用",
+        "summary": "マディソン・スクエア・ガーデン・エンターテインメントは、マンハッタンのアリーナにおける新たな複数年契約の下、シスコを公式パートナーに指名した。この契約は会場が既に導入しているシスコ製ネットワーク機器を拡張するもので、両社はファン体験や会場運営を支えるため、接続性、Wi-Fi、セキュリティシステムの整備を進める計画だ。提携の金額などの詳細は公表されていない。"
+      },
+      "es": {
+        "title": "Madison Square Garden nombra a Cisco su socio tecnológico oficial",
+        "summary": "Madison Square Garden Entertainment designó a Cisco como socio oficial de su recinto en Manhattan bajo un nuevo acuerdo multianual. El pacto amplía el equipo de red de Cisco que ya utiliza el recinto, y ambas compañías planean desarrollar sistemas de conectividad, Wi-Fi y seguridad para respaldar la experiencia de los aficionados y las operaciones del recinto. No se revelaron los términos financieros del acuerdo."
+      },
+      "zh": {
+        "title": "麦迪逊广场花园任命思科为官方技术合作伙伴",
+        "summary": "麦迪逊广场花园娱乐公司在一项新的多年期协议下，任命思科为其曼哈顿场馆的官方合作伙伴。该协议是对场馆现有思科网络设备的扩展，双方计划建设连接、无线网络和安全系统，以支持观众体验和场馆运营。协议的具体财务条款未予披露。"
+      },
+      "fr": {
+        "title": "Le Madison Square Garden choisit Cisco comme partenaire technologique officiel",
+        "summary": "Madison Square Garden Entertainment a désigné Cisco comme partenaire officiel de sa salle de Manhattan dans le cadre d'un nouvel accord pluriannuel. Cet accord élargit l'équipement réseau Cisco déjà utilisé par la salle, les deux entreprises prévoyant de développer la connectivité, le Wi-Fi et les systèmes de sécurité pour soutenir l'expérience des spectateurs et l'exploitation du site. Les termes financiers du partenariat n'ont pas été dévoilés."
+      }
+    }
+  },
+  {
+    "id": "sporting-cp-record-revenue-2025-26",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-09-26T00:00:00Z",
+    "source_name": "The Portugal Post",
+    "source_url": "https://theportugalpost.com/posts/sporting-reports-record-300m-revenue-and-35m-profit",
+    "i18n": {
+      "en": {
+        "title": "Sporting CP Posts Record €300 Million Revenue for 2025-26",
+        "summary": "Portuguese club Sporting CP's listed holding company reported a net profit of €34.7 million for the 2025-26 season, up 74% from the prior year and its fifth straight profitable season. Overall turnover reached a club-record €300 million, helped by €80.3 million in Champions League revenue, while EBITDA climbed 13% to €116 million."
+      },
+      "ja": {
+        "title": "スポルティングCP、2025-26年に過去最高の3億ユーロの収益",
+        "summary": "ポルトガルのスポルティングCPの持株会社は、2025-26シーズンに前年比74%増となる3470万ユーロの純利益を計上し、5年連続の増益となった。総売上はクラブ史上最高の3億ユーロに達し、チャンピオンズリーグからの8030万ユーロの収入が貢献、EBITDAも13%増の1億1600万ユーロとなった。"
+      },
+      "es": {
+        "title": "Sporting CP registra ingresos récord de 300 millones de euros en 2025-26",
+        "summary": "La sociedad cotizada del club portugués Sporting CP reportó un beneficio neto de 34,7 millones de euros en la temporada 2025-26, un 74% más que el año anterior y su quinta temporada consecutiva en números positivos. La facturación total alcanzó un récord de 300 millones de euros, impulsada por 80,3 millones en ingresos de la Champions League, mientras el EBITDA creció un 13% hasta los 116 millones."
+      },
+      "zh": {
+        "title": "葡超体育俱乐部2025-26赛季营收创纪录达3亿欧元",
+        "summary": "葡萄牙体育俱乐部（Sporting CP）旗下上市公司公布2025-26赛季净利润为3470万欧元，同比增长74%，实现连续第五个盈利赛季。总营收达到俱乐部历史最高的3亿欧元，其中欧冠联赛贡献收入8030万欧元，息税折旧摊销前利润（EBITDA）同比增长13%至1.16亿欧元。"
+      },
+      "fr": {
+        "title": "Le Sporting CP affiche un chiffre d'affaires record de 300 millions d'euros pour 2025-26",
+        "summary": "La société cotée du club portugais Sporting CP a annoncé un bénéfice net de 34,7 millions d'euros pour la saison 2025-26, en hausse de 74% par rapport à l'année précédente, soit une cinquième saison consécutive dans le vert. Le chiffre d'affaires total a atteint un record de 300 millions d'euros, porté par 80,3 millions d'euros de recettes liées à la Ligue des champions, tandis que l'EBITDA a progressé de 13% à 116 millions d'euros."
+      }
+    }
+  },
+  {
+    "id": "kobe-steel-koshien-mound-ad-2026-27",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "stadium"
+    ],
+    "published_at": "2025-10-15T00:00:00Z",
+    "source_name": "Hanshin Electric Railway",
+    "source_url": "https://www.hanshin.co.jp/press/docs/20251015_koshien_promotion.pdf",
+    "i18n": {
+      "en": {
+        "title": "Kobe Steel Extends Mound-Side Ad at Hanshin's Koshien Stadium Through 2027",
+        "summary": "Kobe Steel and Hanshin Electric Railway agreed to continue the steelmaker's advertising placement near the pitcher's mound at Koshien Stadium for the Hanshin Tigers' home games across the 2026 and 2027 NPB seasons. The sign sits within the camera frame used for broadcasts, giving the sponsor extended TV and streaming exposure during games."
+      },
+      "ja": {
+        "title": "神戸製鋼、阪神甲子園球場のマウンド脇広告を2027年まで継続",
+        "summary": "神戸製鋼所と阪神電気鉄道は、阪神タイガースのホームゲームにおいてマウンド脇に設置する同社の広告掲出を、2026年および2027年シーズンも継続することで合意した。この看板は中継カメラの基本構図内に収まる位置にあり、テレビやネット配信を通じて長時間にわたる露出が見込まれるという。"
+      },
+      "es": {
+        "title": "Kobe Steel prolonga su anuncio junto al montículo en el estadio Koshien de Hanshin hasta 2027",
+        "summary": "Kobe Steel y Hanshin Electric Railway acordaron mantener la publicidad de la siderúrgica junto al montículo del lanzador en el estadio Koshien durante los partidos locales de los Hanshin Tigers en las temporadas 2026 y 2027 de la NPB. El cartel se ubica dentro del encuadre habitual de las cámaras de televisión, lo que da al patrocinador una exposición prolongada durante las retransmisiones."
+      },
+      "zh": {
+        "title": "神户制钢将甲子园球场投手土堆旁广告续约至2027年",
+        "summary": "神户制钢与阪神电气铁道达成协议，将在阪神虎队主场比赛期间继续于甲子园球场投手土堆旁展示该公司广告，协议覆盖日本职业棒球2026年及2027年赛季。该广告牌位于电视转播镜头的常规取景范围内，使赞助商在转播和网络直播中获得较长的曝光时间。"
+      },
+      "fr": {
+        "title": "Kobe Steel prolonge sa publicité près du monticule au stade Koshien du Hanshin jusqu'en 2027",
+        "summary": "Kobe Steel et Hanshin Electric Railway ont convenu de maintenir la publicité du sidérurgiste près du monticule du lanceur au stade Koshien lors des matchs à domicile des Hanshin Tigers pour les saisons 2026 et 2027 de NPB. Le panneau se trouve dans le cadrage habituel des caméras de retransmission, offrant au sponsor une exposition prolongée à la télévision et en streaming."
+      }
+    }
+  },
+  {
+    "id": "nintendo-npb-mario-40th-anniversary-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-03-10T00:00:00Z",
+    "source_name": "Nintendo",
+    "source_url": "https://www.nintendo.co.jp/corporate/release/2026/260310_2.html",
+    "i18n": {
+      "en": {
+        "title": "Nintendo Sponsors 12 NPB Games to Mark Super Mario Bros.' 40th Anniversary",
+        "summary": "Nintendo announced it will sponsor one home game for each of Nippon Professional Baseball's 12 teams, running from a late-April Chiba Lotte game through August contests involving the Yomiuri Giants and Chunichi Dragons, to celebrate the 40th anniversary of Super Mario Bros. The promotion includes a base-running activity for children themed around the game's question-mark blocks and limited-edition merchandise sales."
+      },
+      "ja": {
+        "title": "任天堂、「スーパーマリオブラザーズ」40周年を記念しプロ野球12試合に協賛",
+        "summary": "任天堂は「スーパーマリオブラザーズ」発売40周年を記念し、日本プロ野球12球団それぞれの主催試合1試合、合計12試合に協賛すると発表した。4月末の千葉ロッテ戦から始まり、8月の読売ジャイアンツ戦や中日ドラゴンズ戦まで続く。企画には、ゲーム内のハテナブロックをイメージした塁を使った子供向けのベースランニング体験や、期間限定グッズの販売も含まれる。"
+      },
+      "es": {
+        "title": "Nintendo patrocina 12 partidos de la NPB por el 40º aniversario de Super Mario Bros.",
+        "summary": "Nintendo anunció que patrocinará un partido como local de cada uno de los 12 equipos de la liga profesional de béisbol de Japón, 12 partidos en total, para conmemorar el 40º aniversario del lanzamiento de Super Mario Bros. La iniciativa comienza con un partido de Chiba Lotte a finales de abril y se extiende hasta encuentros de los Yomiuri Giants y los Chunichi Dragons en agosto. También incluye una actividad de carrera de bases para niños inspirada en los bloques de signo de interrogación del videojuego y la venta de artículos de edición limitada."
+      },
+      "zh": {
+        "title": "任天堂为纪念《超级马力欧兄弟》40周年赞助12场日本职棒比赛",
+        "summary": "任天堂宣布将为纪念《超级马力欧兄弟》发行40周年，赞助日本职业棒球12支球队各一场主场比赛，共计12场。活动从4月下旬千叶罗德的比赛开始，持续到8月读卖巨人和中日龙的比赛。企划还包括以游戏中问号砖块为主题、面向儿童的跑垄体验活动，以及限量周边商品销售。"
+      },
+      "fr": {
+        "title": "Nintendo sponsorise 12 matchs de baseball professionnel japonais pour le 40e anniversaire de Super Mario Bros.",
+        "summary": "Nintendo a annoncé qu'il parrainerait un match à domicile pour chacune des 12 équipes du baseball professionnel japonais, soit 12 matchs au total, pour célébrer le 40e anniversaire de la sortie de Super Mario Bros. L'opération débute avec un match des Chiba Lotte Marines fin avril et se poursuit jusqu'à des rencontres des Yomiuri Giants et des Chunichi Dragons en août. Elle comprend aussi une animation de course sur les bases pour les enfants inspirée des blocs à point d'interrogation du jeu, ainsi que la vente de produits en édition limitée."
+      }
+    }
+  },
+  {
+    "id": "bleague-nippon-foundation-machizukuri-grant-2026",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "biz",
+      "fan"
+    ],
+    "published_at": "2026-07-16T00:00:00Z",
+    "source_name": "Kumamoto Nichinichi Shimbun",
+    "source_url": "https://kumanichi.com/articles/2014487",
+    "i18n": {
+      "en": {
+        "title": "B.League and Nippon Foundation Nearly Double Community Grants to ¥300 Million",
+        "summary": "The B.League and the Nippon Foundation said their 2026 \"machizukuri\" community-building grant program will distribute roughly ¥300 million across 28 clubs, almost double the approximately ¥170 million awarded the previous year. Newly selected projects include a Kyoto club's plan to open a candy shop inside its practice facility for local residents."
+      },
+      "ja": {
+        "title": "Bリーグと日本財団、「まちづくり助成」を28クラブへ約3億円に倍増",
+        "summary": "Bリーグと日本財団は、2026年度の地域活性化プロジェクト「まちづくり助成」として、全国28クラブの取り組みに総額約3億円を助成すると発表した。前年度の約1億7000万円からほぼ倍増となる。新規採択には、練習場内に駄菓子屋を常設し地域に開放する京都の事業などが含まれる。"
+      },
+      "es": {
+        "title": "La B.League y la Fundación Nippon casi duplican sus subvenciones comunitarias a 300 millones de yenes",
+        "summary": "La B.League y la Fundación Nippon anunciaron que su programa de subvenciones comunitarias \"machizukuri\" para 2026 repartirá unos 300 millones de yenes entre 28 clubes, casi el doble de los aproximadamente 170 millones de yenes otorgados el año anterior. Entre los proyectos recién seleccionados figura el de un club de Kioto, que instalará una tienda de dulces dentro de sus instalaciones de entrenamiento para los residentes locales."
+      },
+      "zh": {
+        "title": "B联赛与日本财团将社区建设补助金增至约3亿日元，几近翻倍",
+        "summary": "日本篮球B联赛与日本财团宣布，2026年度“城镇建设”社区补助计划将向全国28家俱乐部发放总额约3亿日元的资助，几乎是上一年度约1.7亿日元的两倍。新入选的项目包括京都一家俱乐部计划在训练场内开设糖果店并向当地居民开放。"
+      },
+      "fr": {
+        "title": "La B.League et la Fondation Nippon doublent presque leurs subventions communautaires à 300 millions de yens",
+        "summary": "La B.League et la Fondation Nippon ont annoncé que leur programme de subventions communautaires « machizukuri » pour 2026 distribuerait environ 300 millions de yens à 28 clubs, soit près du double des quelque 170 millions de yens accordés l'année précédente. Parmi les projets nouvellement sélectionnés figure celui d'un club de Kyoto, qui installera une boutique de confiseries dans ses installations d'entraînement, ouverte aux habitants du quartier."
+      }
+    }
+  },
+  {
+    "id": "namics-npb-fresh-allstar-2026-title-sponsor",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-06-26T00:00:00Z",
+    "source_name": "NPB.jp",
+    "source_url": "https://npb.jp/news/detail/20260626_01.html",
+    "i18n": {
+      "en": {
+        "title": "Namics Named Title Sponsor of NPB's 2026 Fresh All-Star Game",
+        "summary": "Electrochemical materials maker Namics, based in Niigata and marking its 80th anniversary, became the title sponsor of Nippon Professional Baseball's Fresh All-Star Game, officially named the Namics Fresh All-Star Game 2026. The July 27 exhibition for young players was held at HARD OFF Eco Stadium Niigata, the prefecture's second time hosting the event in 14 years, with convenience chain Lawson also sponsoring."
+      },
+      "ja": {
+        "title": "ナミックス、NPB「フレッシュオールスターゲーム2026」の特別協賛に",
+        "summary": "新潟市に本社を置き、創業80周年を迎えた電子化学材料メーカーのナミックスが、プロ野球フレッシュオールスターゲームの特別協賛社となり、大会名称は「ナミックス フレッシュオールスターゲーム2026」となった。7月27日にHARD OFF ECOスタジアム新潟で開催され、新潟県での開催は14年ぶり2回目。コンビニのローソンも協賛に加わっている。"
+      },
+      "es": {
+        "title": "Namics, patrocinador titular del Fresh All-Star Game 2026 de la NPB",
+        "summary": "Namics, fabricante de materiales electroquímicos con sede en Niigata que celebra su 80º aniversario, se convirtió en patrocinador titular del Fresh All-Star Game del béisbol profesional japonés, que pasó a llamarse oficialmente Namics Fresh All-Star Game 2026. El partido para jugadores jóvenes se disputó el 27 de julio en el HARD OFF Eco Stadium de Niigata, la segunda vez en 14 años que la prefectura acoge el evento, con la cadena de tiendas Lawson como copatrocinador."
+      },
+      "zh": {
+        "title": "纳美仕成为NPB“新秀全明星赛2026”冠名赞助商",
+        "summary": "总部位于新潟、迎来创业80周年的电子化学材料制造商纳美仕（Namics），成为日本职业棒球新秀全明星赛的冠名赞助商，赛事正式命名为“纳美仕新秀全明星赛2026”。该面向年轻球员的赛事于7月27日在新潟HARD OFF ECO球场举行，这是新潟县14年来第二次承办该赛事，便利店罗森（Lawson）也参与协办。"
+      },
+      "fr": {
+        "title": "Namics devient sponsor-titre du Fresh All-Star Game 2026 de NPB",
+        "summary": "Namics, fabricant de matériaux électrochimiques basé à Niigata et fêtant son 80e anniversaire, est devenu le sponsor-titre du Fresh All-Star Game du baseball professionnel japonais, désormais officiellement nommé Namics Fresh All-Star Game 2026. Ce match réservé aux jeunes joueurs s'est tenu le 27 juillet au HARD OFF Eco Stadium de Niigata, la préfecture accueillant l'événement pour la deuxième fois en 14 ans, avec la chaîne de convenience stores Lawson comme co-sponsor."
+      }
+    }
+  },
+  {
+    "id": "nascar-super-com-savings-partner-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-03-11T00:00:00Z",
+    "source_name": "NASCAR.com",
+    "source_url": "https://www.nascar.com/news-media/2026/03/11/super-com-becomes-official-savings-partner-of-nascar/",
+    "i18n": {
+      "en": {
+        "title": "Super.com Becomes NASCAR's Official Savings Partner",
+        "summary": "Savings and membership platform Super.com signed a new multi-year agreement to become NASCAR's official savings partner starting in 2026. The deal gives the company on-site activation at NASCAR-owned tracks and integration into the NASCAR Fan Rewards program, which has more than 400,000 members, along with discounted tickets for select national-series races."
+      },
+      "ja": {
+        "title": "Super.com、NASCARの公式セービング・パートナーに",
+        "summary": "節約・会員特典プラットフォームのSuper.comは、2026年シーズンからNASCARの公式セービング・パートナーとなる新たな複数年契約を結んだ。この契約により同社はNASCAR傘下のサーキットでの会場内プロモーションや、40万人以上が参加する「NASCARファン・リワード」プログラムへの統合、一部ナショナルシリーズレースの割引チケット提供などを行う。"
+      },
+      "es": {
+        "title": "Super.com se convierte en el socio oficial de ahorro de NASCAR",
+        "summary": "La plataforma de ahorro y membresías Super.com firmó un nuevo acuerdo multianual para convertirse en el socio oficial de ahorro de NASCAR a partir de la temporada 2026. El pacto le da a la empresa activación en los circuitos propiedad de NASCAR y su integración en el programa NASCAR Fan Rewards, que cuenta con más de 400.000 miembros, además de entradas con descuento para carreras selectas de las series nacionales."
+      },
+      "zh": {
+        "title": "Super.com成为NASCAR官方储蓄合作伙伴",
+        "summary": "储蓄与会员权益平台Super.com签署新的多年期协议，从2026赛季起成为NASCAR官方储蓄合作伙伴。该协议使该公司能够在NASCAR自有赛道进行现场推广活动，并接入拥有超过40万会员的“NASCAR粉丝奖励”计划，同时为部分全国系列赛提供折扣门票。"
+      },
+      "fr": {
+        "title": "Super.com devient le partenaire officiel d'épargne de NASCAR",
+        "summary": "La plateforme d'épargne et d'abonnements Super.com a signé un nouvel accord pluriannuel pour devenir le partenaire officiel d'épargne de NASCAR à partir de la saison 2026. L'accord offre à l'entreprise une activation sur les circuits appartenant à NASCAR et une intégration au programme NASCAR Fan Rewards, qui compte plus de 400 000 membres, ainsi que des billets à prix réduit pour certaines courses des séries nationales."
+      }
+    }
+  },
+  {
+    "id": "castore-tgr-haas-f1-kit-partner-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-01-09T00:00:00Z",
+    "source_name": "Haas F1 Team",
+    "source_url": "https://haasf1team.com/news/tgr-haas-f1-team-announces-castore-official-kit-and-retail-partner",
+    "i18n": {
+      "en": {
+        "title": "Castore Becomes Official Kit Partner of TGR Haas F1 Team",
+        "summary": "Apparel brand Castore signed a multi-year deal to become the official kit and retail partner of the newly rebranded TGR Haas F1 Team, supplying on-track and off-track gear for drivers Oliver Bearman and Esteban Ocon as well as team staff. The partnership, which also covers replica fan merchandise, adds Haas to a Castore Formula 1 portfolio that already includes Red Bull and Alpine."
+      },
+      "ja": {
+        "title": "カストア、TGRハースF1チームの公式キット・パートナーに",
+        "summary": "アパレルブランドのカストアは、改名されたTGRハースF1チームの公式キット・リテールパートナーとなる複数年契約を結んだ。オリバー・ベアマンとエステバン・オコン両選手、さらにチームスタッフ向けのオン・オフトラック用ギアを供給する。この提携はファン向けレプリカグッズも対象とし、カストアはレッドブルやアルピーヌに続くF1ポートフォリオにハースを加えた。"
+      },
+      "es": {
+        "title": "Castore se convierte en socio oficial de equipamiento del equipo TGR Haas F1",
+        "summary": "La marca de ropa deportiva Castore firmó un acuerdo multianual para convertirse en socio oficial de equipamiento y venta al por menor del recién renombrado equipo TGR Haas F1, suministrando indumentaria de pista y fuera de pista para los pilotos Oliver Bearman y Esteban Ocon, así como para el personal del equipo. La alianza también abarca la mercancía de réplica para aficionados y añade a Haas a una cartera de Castore en la Fórmula 1 que ya incluye a Red Bull y Alpine."
+      },
+      "zh": {
+        "title": "卡斯托尔成为TGR哈斯F1车队官方队服合作伙伴",
+        "summary": "运动服饰品牌卡斯托尔（Castore）签署多年期协议，成为刚更名的TGR哈斯F1车队官方队服及零售合作伙伴，为车手奥利弗·比尔曼和埃斯特班·奥孔及车队工作人员提供赛场内外装备。此次合作也涵盖球迷复刻商品，使哈斯成为卡斯托尔继红牛与阿尔派之后又一支F1合作车队。"
+      },
+      "fr": {
+        "title": "Castore devient partenaire officiel d'équipement de l'écurie TGR Haas F1",
+        "summary": "La marque de vêtements de sport Castore a signé un accord pluriannuel pour devenir le partenaire officiel d'équipement et de vente au détail de l'écurie TGR Haas F1, récemment rebaptisée, fournissant les tenues de piste et hors piste pour les pilotes Oliver Bearman et Esteban Ocon ainsi que pour le personnel de l'équipe. Le partenariat couvre aussi les produits dérivés pour les supporters et ajoute Haas au portefeuille de Castore en Formule 1, qui comprend déjà Red Bull et Alpine."
+      }
+    }
+  },
+  {
+    "id": "sixers-bloom-energy-jersey-patch-2026-27",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-28T00:00:00Z",
+    "source_name": "NBC Sports Philadelphia",
+    "source_url": "https://www.nbcsportsphiladelphia.com/news/sixers-unveil-bloom-energy-as-official-jersey-patch-partner/754280/",
+    "i18n": {
+      "en": {
+        "title": "76ers Unveil Bloom Energy as New Jersey Patch Partner",
+        "summary": "The Philadelphia 76ers introduced Bloom Energy as the official jersey patch sponsor for their uniforms starting in the 2026-27 season, replacing previous sponsor Crypto.com. The multi-year partnership includes a seven-figure charitable commitment to the Philadelphia area, and reports value the patch deal at more than $30 million annually, among the richest in the NBA."
+      },
+      "ja": {
+        "title": "76ers、新ジャージパッチパートナーにブルーム・エナジーを発表",
+        "summary": "フィラデルフィア・76ersは、2026-27シーズンから始まるユニフォームの公式ジャージパッチ・スポンサーとしてブルーム・エナジーを発表し、これまでのスポンサーであったクリプト・ドットコムに代わる。複数年契約にはフィラデルフィア地域への7桁規模の慈善投資が含まれ、報道によるとこのパッチ契約の価値は年間3000万ドルを超え、NBAでも最高額クラスとされている。"
+      },
+      "es": {
+        "title": "Los 76ers presentan a Bloom Energy como nuevo socio del parche en la camiseta",
+        "summary": "Los Philadelphia 76ers presentaron a Bloom Energy como el patrocinador oficial del parche de sus camisetas a partir de la temporada 2026-27, en sustitución del anterior patrocinador, Crypto.com. El acuerdo multianual incluye un compromiso filantrópico de siete cifras con la zona de Filadelfia, y según varios reportes el valor del parche supera los 30 millones de dólares al año, uno de los más altos de la NBA."
+      },
+      "zh": {
+        "title": "76人队公布Bloom Energy为新球衣广告贴赞助商",
+        "summary": "费城76人队宣布，从2026-27赛季起，Bloom Energy将成为其球衣官方广告贴赞助商，取代此前的赞助商加密货币平台Crypto.com。这项多年协议包含一笔七位数规模的费城地区慈善投入，据报道该广告贴合约价值每年超过3000万美元，属于NBA同类合约中价值最高之列。"
+      },
+      "fr": {
+        "title": "Les 76ers dévoilent Bloom Energy comme nouveau partenaire du patch sur le maillot",
+        "summary": "Les 76ers de Philadelphie ont dévoilé Bloom Energy comme sponsor officiel du patch sur leurs maillots à partir de la saison 2026-27, remplaçant l'ancien sponsor Crypto.com. Cet accord pluriannuel comprend un engagement caritatif à sept chiffres envers la région de Philadelphie, et selon plusieurs rapports, la valeur de cet accord dépasse 30 millions de dollars par an, l'un des plus élevés de la NBA."
+      }
+    }
   }
 ]
