@@ -6687,5 +6687,346 @@
         "summary": "L'organisation européenne d'eSport Team Vitality a signé un partenariat pluriannuel avec la marque de streetwear Fulllife, qui devient son équipementier officiel, en dévoilant un nouveau maillot professionnel pour 2026 ainsi qu'une collection vestimentaire lifestyle dédiée. Cet accord renforce la stratégie de merchandising de Vitality, alors que les organisations d'eSport traitent de plus en plus les équipements et les lignes lifestyle comme des catégories de sponsoring à part entière."
       }
     }
+  },
+  {
+    "id": "us-open-kalshi-prediction-market-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-08-31T00:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/article/us-open-signs-exclusive-deal-kalshi/",
+    "i18n": {
+      "en": {
+        "title": "Kalshi Reportedly Becomes Exclusive Prediction-Market Partner of the US Open",
+        "summary": "Kalshi has reportedly become the exclusive prediction-market partner of the 2026 US Open, with the arrangement taking effect once the main draw began. The deal bars rival prediction-market platforms from advertising at the tournament and during its ESPN broadcasts, according to people familiar with the agreement. Financial terms were not disclosed, and neither the USTA nor Kalshi has publicly confirmed full details."
+      },
+      "ja": {
+        "title": "Kalshi、USオープンの独占予測市場パートナーに 報道",
+        "summary": "Kalshi(カルシ)が2026年USオープンの独占予測市場パートナーになったと報じられている。契約は本戦開幕とともに発効し、競合する予測市場プラットフォームによる会場内およびESPN中継での広告出稿を禁じる内容となっている。契約金額などの詳細は明らかにされていない。"
+      },
+      "es": {
+        "title": "Kalshi se convertiría en socio exclusivo de mercados de predicción del US Open",
+        "summary": "Kalshi se habría convertido en el socio exclusivo de mercados de predicción del US Open 2026, con un acuerdo que entró en vigor al comenzar el cuadro principal. Según fuentes cercanas, la cláusula de exclusividad impide que plataformas rivales se publiciten en el torneo o en las transmisiones de ESPN. No se revelaron los términos económicos del acuerdo."
+      },
+      "zh": {
+        "title": "据报道Kalshi成为美网独家预测市场合作伙伴",
+        "summary": "据报道，Kalshi已成为2026年美国网球公开赛的独家预测市场合作伙伴，该协议在正赛开始时生效。协议条款禁止竞争性预测市场平台在赛事现场及ESPN转播中投放广告。该交易的具体金额尚未公开。"
+      },
+      "fr": {
+        "title": "Kalshi deviendrait le partenaire exclusif des marchés de prédiction de l'US Open",
+        "summary": "Kalshi serait devenu le partenaire exclusif des marchés de prédiction de l'US Open 2026, un accord entré en vigueur dès le début du tableau principal. La clause d'exclusivité interdirait aux plateformes rivales de faire de la publicité pendant le tournoi et ses retransmissions sur ESPN. Les modalités financières de l'accord n'ont pas été divulguées."
+      }
+    }
+  },
+  {
+    "id": "mls-polymarket-leagues-cup-partnership-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "fan",
+      "tech"
+    ],
+    "published_at": "2026-01-26T00:00:00Z",
+    "source_name": "MLSSoccer.com",
+    "source_url": "https://www.mlssoccer.com/news/soccer-united-marketing-and-polymarket-announce-multi-year-partnerships-with-major-league-soccer-and-leagues-cup",
+    "i18n": {
+      "en": {
+        "title": "MLS and Leagues Cup Name Polymarket Official Prediction-Market Partner",
+        "summary": "Soccer United Marketing has signed multi-year partnership agreements naming prediction-market platform Polymarket an official partner of Major League Soccer and Leagues Cup. The deal integrates Polymarket's market data and prediction tools into league fan-engagement content and digital platforms. It extends a wider trend of sports leagues forming commercial ties with prediction-market operators."
+      },
+      "ja": {
+        "title": "MLSとリーグスカップ、Polymarketを公式予測市場パートナーに起用",
+        "summary": "サッカー・ユナイテッド・マーケティング(SUM)は予測市場プラットフォームのPolymarketと複数年のパートナーシップ契約を締結し、同社をメジャーリーグサッカー(MLS)とリーグスカップの公式パートナーとした。この提携により、Polymarketの市場データや予測機能がリーグのファン向けコンテンツやデジタルプラットフォームに統合される。スポーツリーグが予測市場事業者と商業提携を結ぶ流れがさらに広がった形だ。"
+      },
+      "es": {
+        "title": "MLS y la Leagues Cup nombran a Polymarket socio oficial de mercados de predicción",
+        "summary": "Soccer United Marketing firmó acuerdos de asociación multianuales que convierten a la plataforma de mercados de predicción Polymarket en socio oficial de la Major League Soccer y la Leagues Cup. El acuerdo integra los datos de mercado y herramientas de predicción de Polymarket en el contenido de interacción con aficionados y las plataformas digitales de la liga. Se suma a una tendencia más amplia de ligas deportivas que forjan vínculos comerciales con operadores de mercados de predicción."
+      },
+      "zh": {
+        "title": "MLS与联赛杯任命Polymarket为官方预测市场合作伙伴",
+        "summary": "美国职业足球营销公司（SUM）与预测市场平台Polymarket签署了多年合作协议，使其成为美国职业足球大联盟（MLS）和联赛杯的官方合作伙伴。该协议将把Polymarket的市场数据和预测工具整合进联盟的球迷互动内容和数字平台。这进一步延续了体育联盟与预测市场运营商建立商业合作的趋势。"
+      },
+      "fr": {
+        "title": "La MLS et la Leagues Cup nomment Polymarket partenaire officiel des marchés de prédiction",
+        "summary": "Soccer United Marketing a signé des accords de partenariat pluriannuels faisant de la plateforme de marchés de prédiction Polymarket un partenaire officiel de la Major League Soccer et de la Leagues Cup. L'accord intègre les données de marché et les outils de prédiction de Polymarket dans le contenu d'engagement des supporters et les plateformes numériques de la ligue. Il s'inscrit dans une tendance plus large des ligues sportives à nouer des liens commerciaux avec des opérateurs de marchés de prédiction."
+      }
+    }
+  },
+  {
+    "id": "esports-nations-cup-45m-commitment-2026",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "biz",
+      "fan"
+    ],
+    "published_at": "2026-01-29T00:00:00Z",
+    "source_name": "Pocketgamer.biz",
+    "source_url": "https://www.pocketgamer.biz/esports-world-cup-foundation-commits-45m-to-esports-nations-cup-2026",
+    "i18n": {
+      "en": {
+        "title": "Esports World Cup Foundation Commits $45M to Inaugural Esports Nations Cup",
+        "summary": "The Esports World Cup Foundation has confirmed a $45 million commitment for the inaugural Esports Nations Cup, set to run in Riyadh from November 2-29, 2026. The fund splits into a $20 million player and coach prize pool across 16 game titles, $5 million in club incentives for releasing pro players, and a $20 million development fund supporting national-team logistics and marketing. Organizers plan to hold the event every two years going forward."
+      },
+      "ja": {
+        "title": "eスポーツワールドカップ財団、初開催の「ネーションズカップ」に4500万ドル投入",
+        "summary": "eスポーツワールドカップ財団は、2026年11月2日から29日までリヤドで開催される初開催の「eスポーツ・ネーションズカップ」に対し、4500万ドルの資金提供を確約したと発表した。資金は16タイトルの選手・コーチ向け賞金プール2000万ドル、選手を送り出すクラブへのインセンティブ500万ドル、各国代表チームの運営やマーケティングを支援する開発基金2000万ドルに分配される。同大会は今後2年ごとに開催される予定だ。"
+      },
+      "es": {
+        "title": "La Esports World Cup Foundation destina 45 millones de dólares a la primera Esports Nations Cup",
+        "summary": "La Esports World Cup Foundation confirmó un compromiso de 45 millones de dólares para la primera edición de la Esports Nations Cup, que se celebrará en Riad del 2 al 29 de noviembre de 2026. El fondo se divide en 20 millones de dólares en premios para jugadores y entrenadores de 16 títulos, 5 millones en incentivos para clubes que liberen a sus jugadores profesionales, y 20 millones para un fondo de desarrollo que respalda la logística y el marketing de los equipos nacionales. Los organizadores planean celebrar el evento cada dos años."
+      },
+      "zh": {
+        "title": "电竞世界杯基金会为首届电竞国家杯注资4500万美元",
+        "summary": "电竞世界杯基金会确认将为首届“电竞国家杯”提供4500万美元资金，该赛事将于2026年11月2日至29日在利雅得举行。资金分为三部分：2000万美元用于16个游戏项目的选手及教练奖金池，500万美元用于激励放人参赛的俱乐部，另有2000万美元发展基金用于支持各国代表队的后勤与营销。主办方计划此后每两年举办一届。"
+      },
+      "fr": {
+        "title": "La Esports World Cup Foundation engage 45 millions de dollars pour la première Esports Nations Cup",
+        "summary": "La Esports World Cup Foundation a confirmé un engagement de 45 millions de dollars pour la première édition de l'Esports Nations Cup, prévue à Riyad du 2 au 29 novembre 2026. Le fonds se répartit en 20 millions de dollars de prix pour les joueurs et entraîneurs sur 16 titres, 5 millions d'incitations aux clubs qui libèrent leurs joueurs professionnels, et 20 millions dédiés à un fonds de développement soutenant la logistique et le marketing des équipes nationales. Les organisateurs prévoient de reconduire l'événement tous les deux ans."
+      }
+    }
+  },
+  {
+    "id": "sutton-united-fanbase-ticketing-partner-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "fan",
+      "tech"
+    ],
+    "published_at": "2026-10-12T03:57:20Z",
+    "source_name": "Sutton United FC",
+    "source_url": "https://www.suttonunited.net/news-ticketing-and-fan-engagement-partner/",
+    "i18n": {
+      "en": {
+        "title": "Sutton United Names Fanbase Official Ticketing and Fan Engagement Partner",
+        "summary": "English non-league club Sutton United has named ticketing technology firm Fanbase as its official ticketing and fan engagement partner. The partnership covers season-ticket sales and matchday ticketing for the 2026-27 campaign, alongside new digital fan-engagement tools. The deal reflects a broader trend of smaller clubs partnering with specialist ticketing platforms to modernize matchday operations."
+      },
+      "ja": {
+        "title": "サットン・ユナイテッド、Fanbaseを公式チケッティング・ファンエンゲージメントパートナーに",
+        "summary": "イングランドの下位リーグに所属するサットン・ユナイテッドFCは、チケッティング技術企業Fanbaseを公式チケッティング・ファンエンゲージメントパートナーに起用した。提携は2026-27シーズンのシーズンチケット販売やマッチデーのチケッティング業務に加え、新たなデジタルファンエンゲージメント機能も対象となる。中小クラブが専門チケッティングプラットフォームと提携し、試合当日の運営を効率化する動きが広がっていることを示す一例だ。"
+      },
+      "es": {
+        "title": "Sutton United nombra a Fanbase socio oficial de entradas e interacción con aficionados",
+        "summary": "El club inglés de categorías inferiores Sutton United nombró a la empresa de tecnología de entradas Fanbase como su socio oficial de venta de entradas e interacción con aficionados. El acuerdo abarca la venta de abonos de temporada y la emisión de entradas para partidos durante la campaña 2026-27, además de nuevas herramientas digitales de interacción con los seguidores. El pacto refleja una tendencia más amplia de clubes pequeños que se asocian con plataformas de ticketing especializadas para modernizar sus operaciones de día de partido."
+      },
+      "zh": {
+        "title": "萨顿联任命Fanbase为官方票务及球迷互动合作伙伴",
+        "summary": "英格兰低级别联赛球队萨顿联足球俱乐部宣布与票务技术公司Fanbase达成合作，后者将担任其官方票务及球迷互动合作伙伴。该协议涵盖2026-27赛季的套票销售及比赛日票务，并引入新的数字化球迷互动工具。这一合作体现了中小俱乐部与专业票务平台合作、提升比赛日运营水平的广泛趋势。"
+      },
+      "fr": {
+        "title": "Sutton United nomme Fanbase partenaire officiel de billetterie et d'engagement des supporters",
+        "summary": "Le club anglais de divisions inférieures Sutton United a nommé l'entreprise de technologie de billetterie Fanbase comme partenaire officiel de billetterie et d'engagement des supporters. L'accord couvre la vente d'abonnements et la billetterie des matchs pour la saison 2026-27, ainsi que de nouveaux outils numériques d'engagement des fans. Ce partenariat illustre une tendance plus large des petits clubs à s'associer à des plateformes de billetterie spécialisées pour moderniser leurs opérations les jours de match."
+      }
+    }
+  },
+  {
+    "id": "jleague-smartnews-supporting-company-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-06-18T02:00:00Z",
+    "source_name": "J.League",
+    "source_url": "https://www.jleague.jp/corporate/pressrelease/article/15985",
+    "i18n": {
+      "en": {
+        "title": "J.League Signs Supporting-Company Partnership With News App SmartNews",
+        "summary": "J.League has signed a supporting-company partnership with news app operator SmartNews, starting in June 2026. The agreement will bring J.League match schedules, official highlight video and club content into the SmartNews app, alongside jointly developed marketing campaigns for fans. It expands the list of companies backing the league's regional sports-promotion program."
+      },
+      "ja": {
+        "title": "Jリーグ、ニュースアプリ「SmartNews」とサポーティングカンパニー契約を締結",
+        "summary": "Jリーグは2026年6月よりニュースアプリ運営会社のスマートニュースとサポーティングカンパニー契約を締結した。本契約により、SmartNewsアプリ上でJリーグの試合情報や公式ハイライト映像、クラブコンテンツが配信されるほか、ファン向けのタイアップマーケティングも共同で展開される。地域に根ざしたスポーツ振興を支える協賛企業のラインアップがさらに広がった。"
+      },
+      "es": {
+        "title": "La J.League firma una alianza de empresa colaboradora con la app de noticias SmartNews",
+        "summary": "La J.League firmó un acuerdo de empresa colaboradora con la operadora de la aplicación de noticias SmartNews, vigente desde junio de 2026. El acuerdo llevará los horarios de partidos de la J.League, videos destacados oficiales y contenido de los clubes a la aplicación de SmartNews, junto con campañas de marketing conjuntas dirigidas a los aficionados. Amplía la lista de empresas que respaldan el programa de promoción deportiva regional de la liga."
+      },
+      "zh": {
+        "title": "J联赛与新闻应用SmartNews签署支持企业合作协议",
+        "summary": "日本职业足球联赛（J联赛）与新闻应用运营商SmartNews签署支持企业合作协议，合作自2026年6月起生效。根据协议，SmartNews应用将提供J联赛赛程、官方精彩集锦视频及俱乐部相关内容，双方还将联合开展面向球迷的营销活动。此举进一步扩大了支持联赛地区体育推广项目的企业名单。"
+      },
+      "fr": {
+        "title": "La J.League signe un partenariat d'entreprise partenaire avec l'application d'actualités SmartNews",
+        "summary": "La J.League a signé un partenariat d'entreprise partenaire avec l'exploitant de l'application d'actualités SmartNews, effectif depuis juin 2026. L'accord intégrera le calendrier des matchs de la J.League, des temps forts vidéo officiels et du contenu des clubs à l'application SmartNews, ainsi que des campagnes marketing conçues conjointement pour les supporters. Il élargit la liste des entreprises qui soutiennent le programme de promotion sportive régionale de la ligue."
+      }
+    }
+  },
+  {
+    "id": "nippon-foundation-bleague-machizukuri-grant-2026",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "biz",
+      "fan"
+    ],
+    "published_at": "2026-07-16T00:00:00Z",
+    "source_name": "Kyodo News",
+    "source_url": "https://kumanichi.com/articles/2014487",
+    "i18n": {
+      "en": {
+        "title": "Nippon Foundation and B.League Give 28 Clubs 300 Million Yen in Community Grants",
+        "summary": "The Nippon Foundation and Japan's B.League will provide roughly 300 million yen in \"machizukuri\" community-building grants to 28 clubs for the 2026 fiscal year, Kyodo News reported. The funding, up from about 170 million yen the previous year, supports local projects such as Kyoto's plan to open a community candy shop inside its practice facility. The grant program, now in its second year, aims to deepen clubs' ties with their home regions."
+      },
+      "ja": {
+        "title": "日本財団とBリーグ、28クラブに「まちづくり助成」約3億円",
+        "summary": "共同通信の報道によると、日本財団とBリーグは2026年度、地域活性化を目的とした「まちづくり助成」として全国28クラブに総額約3億円を助成する。助成額は前年度の約1億7千万円から増加しており、京都が練習場内に地域住民向けの駄菓子屋を常設する計画などが対象となる。本助成制度は2年目を迎え、クラブと地元地域との結びつきを深めることを目指している。"
+      },
+      "es": {
+        "title": "Nippon Foundation y la B.League otorgan 300 millones de yenes a 28 clubes",
+        "summary": "Según Kyodo News, la Nippon Foundation y la B.League de Japón destinarán unos 300 millones de yenes en subvenciones de \"machizukuri\" (desarrollo comunitario) a 28 clubes durante el año fiscal 2026. La cifra aumenta respecto a los aproximadamente 170 millones de yenes del año anterior y respalda proyectos locales, como el plan de Kioto de abrir una tienda de dulces comunitaria dentro de sus instalaciones de entrenamiento. El programa de subvenciones, que ya va por su segundo año, busca profundizar los vínculos de los clubes con sus regiones."
+      },
+      "zh": {
+        "title": "日本财团与B联赛向28支球队发放3亿日元社区补助",
+        "summary": "据共同社报道，日本财团与日本B联赛将在2026财年向28支球队发放总额约3亿日元的“社区营造”补助金。该金额较上一财年约1.7亿日元有所增加，资助项目包括京都球队计划在训练场内设立面向居民的常设糖果店。该补助计划进入第二年，旨在加深俱乐部与所在地区的联系。"
+      },
+      "fr": {
+        "title": "La Nippon Foundation et la B.League accordent 300 millions de yens à 28 clubs",
+        "summary": "Selon l'agence Kyodo News, la Nippon Foundation et la B.League japonaise verseront environ 300 millions de yens de subventions de « machizukuri » (développement communautaire) à 28 clubs pour l'exercice 2026. Ce montant est en hausse par rapport aux environ 170 millions de yens de l'année précédente et soutient des projets locaux, comme le plan de Kyoto d'ouvrir une confiserie communautaire au sein de son centre d'entraînement. Le programme de subventions, désormais dans sa deuxième année, vise à renforcer les liens des clubs avec leurs régions."
+      }
+    }
+  },
+  {
+    "id": "jets-outfront-media-partnership-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "tech",
+      "fan"
+    ],
+    "published_at": "2026-08-05T00:00:00Z",
+    "source_name": "New York Jets",
+    "source_url": "https://www.newyorkjets.com/news/outfront-new-york-jets-partnership-announcement-08-05-2026",
+    "i18n": {
+      "en": {
+        "title": "Jets and OUTFRONT Media Announce Exclusive Out-of-Home Partnership",
+        "summary": "The New York Jets and OUTFRONT Media announced an exclusive, multi-year partnership naming OUTFRONT the team's out-of-home media partner. The deal connects in-stadium sponsorship inventory at MetLife Stadium with OUTFRONT's transit and billboard network across the New York area, including commuter routes, for year-round campaigns. It launched with a \"Back to Football\" activation at Penn Station ahead of the 2026 preseason."
+      },
+      "ja": {
+        "title": "ジェッツとOUTFRONTメディア、独占的屋外広告パートナーシップを発表",
+        "summary": "ニューヨーク・ジェッツとOUTFRONTメディアは、独占的な複数年パートナーシップを発表し、OUTFRONTを球団の屋外広告(OOH)パートナーに起用した。本提携により、メットライフ・スタジアム内のスポンサー枠と、ニューヨーク都市圏の交通機関や屋外広告網(通勤ルートを含む)が連携し、年間を通じたキャンペーン展開が可能になる。2026年プレシーズンを前に、ペンシルベニア駅での「Back to Football」イベントで提携がスタートした。"
+      },
+      "es": {
+        "title": "Los Jets y OUTFRONT Media anuncian una alianza exclusiva de publicidad exterior",
+        "summary": "Los New York Jets y OUTFRONT Media anunciaron una asociación exclusiva y multianual que nombra a OUTFRONT socio de publicidad exterior del equipo. El acuerdo conecta el inventario de patrocinio dentro del MetLife Stadium con la red de transporte público y vallas publicitarias de OUTFRONT en el área de Nueva York, incluidas rutas de cercanías, para campañas durante todo el año. Se lanzó con una activación \"Back to Football\" en Penn Station antes de la pretemporada 2026."
+      },
+      "zh": {
+        "title": "喷气机队与OUTFRONT Media宣布独家户外广告合作",
+        "summary": "纽约喷气机队（New York Jets）与OUTFRONT Media宣布达成独家多年合作，任命OUTFRONT为球队户外广告合作伙伴。该协议将大都会人寿体育场内的赞助资源与OUTFRONT在纽约地区的交通及广告牌网络（包括通勤线路）相连接，实现全年活动联动。合作在2026赛季季前赛前以宾夕法尼亚车站的“Back to Football”活动正式启动。"
+      },
+      "fr": {
+        "title": "Les Jets et OUTFRONT Media annoncent un partenariat exclusif d'affichage extérieur",
+        "summary": "Les New York Jets et OUTFRONT Media ont annoncé un partenariat exclusif et pluriannuel faisant d'OUTFRONT le partenaire de publicité extérieure de l'équipe. L'accord relie l'inventaire de sponsoring du MetLife Stadium au réseau de transports en commun et d'affichage d'OUTFRONT dans la région de New York, y compris les lignes de banlieue, pour des campagnes toute l'année. Il a été lancé avec une activation « Back to Football » à Penn Station avant la présaison 2026."
+      }
+    }
+  },
+  {
+    "id": "puma-galatasaray-kit-extension-2036",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2025-10-29T00:00:00Z",
+    "source_name": "SportBusiness",
+    "source_url": "https://www.sportbusiness.com/news/puma-signs-e83m-galatasaray-extension/",
+    "i18n": {
+      "en": {
+        "title": "Puma Signs 10-Year Kit Extension With Galatasaray Worth at Least €83M",
+        "summary": "Puma has signed a 10-year kit-supply extension with Turkish club Galatasaray, running from the 2026-27 season through 2035-36. The deal guarantees the club at least €83 million over the term, with additional performance-based bonuses reported to reach into the double digits of millions of euros. It extends an initial five-year agreement the two parties signed in 2024."
+      },
+      "ja": {
+        "title": "プーマ、ガラタサライとのキット契約を10年延長、最低8300万ユーロ保証",
+        "summary": "プーマはトルコの名門クラブ、ガラタサライとキットサプライ契約を10年間延長し、2026-27シーズンから2035-36シーズンまでとすることで合意した。契約期間中、クラブには最低8300万ユーロが保証され、成績に応じた追加ボーナスは数千万ユーロ規模に達すると報じられている。これは2024年に両者が結んだ当初5年契約を延長するものだ。"
+      },
+      "es": {
+        "title": "Puma extiende 10 años su contrato de equipamiento con Galatasaray por al menos 83 millones de euros",
+        "summary": "Puma firmó una extensión de 10 años en el suministro de equipamiento con el club turco Galatasaray, vigente desde la temporada 2026-27 hasta 2035-36. El acuerdo garantiza al club al menos 83 millones de euros durante el período, con bonificaciones adicionales por rendimiento que, según se informa, alcanzarían decenas de millones de euros. Extiende un acuerdo inicial de cinco años que ambas partes firmaron en 2024."
+      },
+      "zh": {
+        "title": "彪马与加拉塔萨雷签署10年球衣延长协议 至少8300万欧元",
+        "summary": "彪马（Puma）与土耳其豪门加拉塔萨雷签署为期10年的球衣供应延长协议，从2026-27赛季延续至2035-36赛季。协议保证该俱乐部在合同期内至少获得8300万欧元，据报道基于成绩的额外奖金可达数千万欧元规模。该协议是对双方2024年签署的最初五年合约的延长。"
+      },
+      "fr": {
+        "title": "Puma signe une extension de 10 ans avec Galatasaray pour au moins 83 M€",
+        "summary": "Puma a signé une extension de dix ans de son contrat d'équipementier avec le club turc Galatasaray, courant de la saison 2026-27 à 2035-36. L'accord garantit au club au moins 83 millions d'euros sur la durée, avec des primes de performance supplémentaires qui, selon certaines sources, pourraient atteindre plusieurs dizaines de millions d'euros. Il prolonge un premier contrat de cinq ans signé par les deux parties en 2024."
+      }
+    }
+  },
+  {
+    "id": "npb-allstar-nissan-kicks-homerun-derby-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-07-13T00:00:00Z",
+    "source_name": "NPB",
+    "source_url": "https://npb.jp/news/detail/20260713_04.html",
+    "i18n": {
+      "en": {
+        "title": "Nissan Named Title Sponsor of 2026 NPB All-Star Home Run Derby",
+        "summary": "Nissan was named title sponsor of the Home Run Derby held before the 2026 Mynavi All-Star Game, rebranding the event as the \"New Nissan Kicks Home Run Derby.\" The automaker awarded the winning player a cash prize and a new Nissan Kicks, continuing a sponsorship category it has held in prior years with other vehicle models. Chunichi Dragons slugger Seiya Hosokawa won the competition at Toyama Civic Stadium on July 29."
+      },
+      "ja": {
+        "title": "日産自動車、2026年NPBオールスター・ホームランダービーの冠スポンサーに",
+        "summary": "日産自動車は2026年マイナビオールスターゲームの前に行われたホームランダービーの冠スポンサーとなり、大会名称を「新型日産キックス ホームランダービー」とした。同社は優勝選手に賞金と新型日産キックス1台を贈呈し、過去にも異なる車種で同種のスポンサーシップを継続してきた。7月29日の富山市民球場での決勝では、中日ドラゴンズの細川成也選手が優勝した。"
+      },
+      "es": {
+        "title": "Nissan, patrocinador principal del Home Run Derby del Juego de Estrellas de NPB 2026",
+        "summary": "Nissan fue nombrado patrocinador principal del Home Run Derby celebrado antes del Juego de Estrellas Mynavi 2026, rebautizando el evento como \"New Nissan Kicks Home Run Derby\". La automotriz entregó al ganador un premio en efectivo y un nuevo Nissan Kicks, continuando una categoría de patrocinio que ha mantenido en años anteriores con otros modelos de vehículos. El bateador de los Chunichi Dragons, Seiya Hosokawa, ganó la competencia en el Estadio Civil de Toyama el 29 de julio."
+      },
+      "zh": {
+        "title": "日产汽车冠名2026年NPB全明星本垦打赛",
+        "summary": "日产汽车成为2026年Mynavi全明星赛赛前举行的本垦打赛（Home Run Derby）的冠名赞助商，赛事更名为“新款日产Kicks本垦打赛”。该公司向获胜选手颁发奖金及一台新款日产Kicks，延续了往年以不同车型冠名该赛事的赞助传统。中日龙队球员细川成也在7月29日于富山市民球场举行的决赛中夺冠。"
+      },
+      "fr": {
+        "title": "Nissan devient le sponsor-titre du Home Run Derby du All-Star Game NPB 2026",
+        "summary": "Nissan est devenu le sponsor-titre du Home Run Derby organisé avant le Mynavi All-Star Game 2026, rebaptisant l'épreuve « New Nissan Kicks Home Run Derby ». Le constructeur a remis au vainqueur une prime en espèces et une nouvelle Nissan Kicks, poursuivant une catégorie de sponsoring qu'il détient depuis plusieurs années avec d'autres modèles de véhicules. Le frappeur des Chunichi Dragons, Seiya Hosokawa, a remporté la compétition au stade civique de Toyama le 29 juillet."
+      }
+    }
+  },
+  {
+    "id": "aston-martin-f1-cohere-ai-partner-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "tech"
+    ],
+    "published_at": "2026-10-12T03:57:20Z",
+    "source_name": "SportCal",
+    "source_url": "https://www.sportcal.com/sponsorship/aston-martin-racing-bulls-add-new-partners-ahead-of-season-opener/",
+    "i18n": {
+      "en": {
+        "title": "Aston Martin F1 Signs Cohere as Official Generative-AI Partner",
+        "summary": "Aston Martin's Formula 1 team has signed generative-AI company Cohere as its official AI partner ahead of the 2026 season, adding branding to its cars and team livery. The deal is part of a wider wave of technology sponsorships across F1 paddocks, as teams seek partners that can also showcase AI tools in race engineering and fan content. Terms of the agreement were not disclosed."
+      },
+      "ja": {
+        "title": "アストンマーティンF1、Cohereを公式生成AIパートナーに起用",
+        "summary": "アストンマーティンのF1チームは、2026年シーズンを前に生成AI企業Cohereを公式AIパートナーとして契約し、マシンやチームカラーにブランディングを施した。この提携は、F1パドック全体で広がる技術系スポンサーシップの流れの一環であり、各チームはレースエンジニアリングやファン向けコンテンツでAI技術を活用できるパートナーを求めている。契約金額などの詳細は明らかにされていない。"
+      },
+      "es": {
+        "title": "Aston Martin F1 ficha a Cohere como socio oficial de IA generativa",
+        "summary": "El equipo de Fórmula 1 de Aston Martin firmó con la empresa de IA generativa Cohere como su socio oficial de inteligencia artificial antes de la temporada 2026, añadiendo su marca a los monoplazas y la decoración del equipo. El acuerdo forma parte de una ola más amplia de patrocinios tecnológicos en los paddocks de la F1, ya que los equipos buscan socios que también puedan mostrar herramientas de IA en la ingeniería de carrera y el contenido para aficionados. No se revelaron los términos del acuerdo."
+      },
+      "zh": {
+        "title": "阿斯顿·马丁F1车队签约Cohere为官方生成式AI合作伙伴",
+        "summary": "阿斯顿·马丁F1车队在2026赛季开赛前与生成式人工智能公司Cohere签约，后者成为车队官方AI合作伙伴，并在赛车及车队涂装上进行品牌展示。该协议是F1各车队科技类赞助浪潮的一部分，车队纷纷寻求能够在赛事工程及球迷内容方面展示AI技术的合作伙伴。协议具体条款未予披露。"
+      },
+      "fr": {
+        "title": "Aston Martin F1 signe avec Cohere comme partenaire officiel en IA générative",
+        "summary": "L'écurie de Formule 1 Aston Martin a signé avec l'entreprise d'IA générative Cohere comme partenaire officiel en intelligence artificielle avant la saison 2026, ajoutant son image de marque sur les monoplaces et la livrée de l'équipe. Cet accord s'inscrit dans une vague plus large de partenariats technologiques dans les paddocks de F1, les écuries recherchant des partenaires capables aussi de mettre en valeur des outils d'IA dans l'ingénierie de course et le contenu destiné aux fans. Les modalités de l'accord n'ont pas été divulguées."
+      }
+    }
   }
 ]
