@@ -6653,5 +6653,207 @@
         "summary": "Les Chiba Lotte Marines ont annoncé un accord de parrainage publicitaire sur la casquette avec Hyundai Mobility Japan pour la saison 2026 de NPB, les joueurs portant des casquettes arborant le logo Hyundai dès l'entraînement de printemps. Cet accord prolonge un partenariat de véhicules de secours lancé en 2025, qui avait mis en service des véhicules électriques Ioniq 5 de Hyundai au stade Zozo Marine."
       }
     }
+  },
+  {
+    "id": "loreal-vichy-psg-partnership-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-10-08T00:00:00Z",
+    "source_name": "Footy Headlines",
+    "source_url": "https://www.footyheadlines.com/3513372090/paris-saint-germain-announce-official-l-oreal-beauty-partnership-until-2028.html",
+    "i18n": {
+      "en": {
+        "title": "PSG and L'Oréal Sign Beauty Partnership Through 2028",
+        "summary": "Paris Saint-Germain and L'Oréal have signed a partnership through 2028, marking the beauty group's first tie-up with a professional football club. Under the deal, L'Oréal's Vichy Laboratoires brand becomes the PSG men's first team's official skincare and haircare partner, supplying products at the club's training campus and the Parc des Princes. Vichy will also run athletic-performance research studies and offer PSG fans exclusive matchday experiences."
+      },
+      "ja": {
+        "title": "PSGとロレアル、2028年までの美容パートナーシップを締結",
+        "summary": "パリ・サンジェルマン(PSG)とロレアルが2028年までのパートナーシップ契約を締結し、同グループにとって初のプロサッカークラブとの提携となった。契約により、ロレアル傘下のヴィシー・ラボラトワールがPSGトップチームの公式スキンケア・ヘアケアパートナーとなり、クラブの練習施設とパルク・デ・プランスで製品を提供する。ヴィシーは選手のパフォーマンス研究も実施し、サポーター向けの特別な観戦体験も提供する予定。"
+      },
+      "es": {
+        "title": "El PSG y L'Oréal firman una asociación de belleza hasta 2028",
+        "summary": "El París Saint-Germain y L'Oréal han firmado una asociación hasta 2028, la primera colaboración del grupo de belleza con un club de fútbol profesional. Bajo el acuerdo, la marca Vichy Laboratoires de L'Oréal se convierte en socia oficial de cuidado de la piel y el cabello del primer equipo masculino del PSG, suministrando productos en el campus de entrenamiento del club y en el Parque de los Príncipes. Vichy también realizará estudios sobre el rendimiento deportivo y ofrecerá experiencias exclusivas a los aficionados en los días de partido."
+      },
+      "zh": {
+        "title": "巴黎圣日耳曼与欧莱雅签署合作至2028年",
+        "summary": "巴黎圣日耳曼(PSG)与欧莱雅签署了一项持续到2028年的合作协议,这是该美妆集团首次与职业足球俱乐部达成合作。根据协议,欧莱雅旗下薇姿实验室将成为PSG男子一线队官方护肤护发合作伙伴,并在俱乐部训练基地和王子公园球场提供产品。薇姿还将开展运动表现相关的研究,并为球迷在比赛日提供专属体验活动。"
+      },
+      "fr": {
+        "title": "Le PSG et L'Oréal signent un partenariat beauté jusqu'en 2028",
+        "summary": "Le Paris Saint-Germain et L'Oréal ont signé un partenariat jusqu'en 2028, une première collaboration du groupe de beauté avec un club de football professionnel. Dans le cadre de cet accord, la marque Vichy Laboratoires du groupe L'Oréal devient partenaire officiel soins de la peau et des cheveux de l'équipe première masculine du PSG, fournissant des produits au campus d'entraînement du club et au Parc des Princes. Vichy mènera également des études sur la performance sportive et proposera aux supporters des expériences exclusives les jours de match."
+      }
+    }
+  },
+  {
+    "id": "adobe-australian-open-ai-partner-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "tech",
+      "fan"
+    ],
+    "published_at": "2026-10-12T00:00:00Z",
+    "source_name": "IT Brief Australia",
+    "source_url": "https://itbrief.com.au/story/australian-open-inks-adobe-deal-to-boost-fan-engagement",
+    "i18n": {
+      "en": {
+        "title": "Australian Open Names Adobe First-Ever Official AI Marketing Partner",
+        "summary": "Tennis Australia has named Adobe as the Australian Open's first-ever Official AI Marketing and Creativity Partner under a new multi-year deal announced October 12. The partnership will use Adobe's AI tools to personalize digital content and on-site guidance for fans attending the Grand Slam. It marks Adobe's first sponsorship agreement with a tennis event worldwide."
+      },
+      "ja": {
+        "title": "全豪オープン、アドビを史上初の公式AIマーケティングパートナーに指名",
+        "summary": "テニス・オーストラリアは10月12日、複数年契約により、全豪オープン史上初となる「公式AIマーケティング・クリエイティビティパートナー」としてアドビを指名したと発表した。この提携では、アドビのAI技術を活用し、来場するファン向けにデジタルコンテンツや会場案内を個別最適化する。アドビにとっては世界で初のテニストーナメントとのスポンサー契約となる。"
+      },
+      "es": {
+        "title": "El Abierto de Australia nombra a Adobe su primer socio oficial de marketing con IA",
+        "summary": "Tennis Australia nombró a Adobe como el primer Socio Oficial de Marketing y Creatividad con IA en la historia del Abierto de Australia, bajo un nuevo acuerdo multianual anunciado el 12 de octubre. La asociación utilizará las herramientas de inteligencia artificial de Adobe para personalizar el contenido digital y la orientación en el recinto para los aficionados que asisten al Grand Slam. Marca el primer acuerdo de patrocinio de Adobe con un torneo de tenis a nivel mundial."
+      },
+      "zh": {
+        "title": "澳网宣布Adobe为历史上首位官方AI营销合作伙伴",
+        "summary": "10月12日,澳大利亚网球协会宣布与Adobe达成一项新的多年期合作协议,Adobe成为澳网历史上首位官方AI营销与创意合作伙伴。双方合作将利用Adobe的人工智能工具,为现场观赛球迷提供个性化数字内容和场馆引导服务。这是Adobe在全球范围内与网球赛事达成的首个赞助协议。"
+      },
+      "fr": {
+        "title": "L'Open d'Australie nomme Adobe premier partenaire officiel marketing IA",
+        "summary": "Tennis Australia a désigné Adobe comme premier Partenaire officiel Marketing et Créativité IA de l'histoire de l'Open d'Australie, dans le cadre d'un nouvel accord pluriannuel annoncé le 12 octobre. Ce partenariat utilisera les outils d'intelligence artificielle d'Adobe pour personnaliser le contenu numérique et l'orientation sur site pour les spectateurs du tournoi du Grand Chelem. Il s'agit du premier accord de parrainage d'Adobe avec un tournoi de tennis à l'échelle mondiale."
+      }
+    }
+  },
+  {
+    "id": "im8-nba-nutrition-partner-anz-sea-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-10-12T00:00:00Z",
+    "source_name": "Yardbarker",
+    "source_url": "https://yardbarker.com/soccer/articles/sir_david_beckham_officially_partners_with_nba/s1_17737_44420113",
+    "i18n": {
+      "en": {
+        "title": "NBA Names Beckham-Backed IM8 Nutrition Partner for Australia, Southeast Asia",
+        "summary": "The NBA has named IM8, the health and nutrition brand backed by David Beckham's Prenetics group, as its Official Nutrition Partner for Australia and eight Southeast Asian markets, the league announced October 12. The multiyear deal will bring NBA-themed marketing campaigns across the region and an on-site activation at NBA House planned for 2027. It extends IM8's existing ties to basketball after a separate global partnership with Milwaukee Bucks star Giannis Antetokounmpo."
+      },
+      "ja": {
+        "title": "NBA、ベッカム氏関連ブランド「IM8」を豪・東南アジアの公式栄養パートナーに指名",
+        "summary": "NBAは10月12日、デビッド・ベッカム氏の関連企業プレネティクスが展開する健康・栄養ブランド「IM8」を、オーストラリアと東南アジア8市場における公式ニュートリションパートナーに指定したと発表した。複数年契約により、同地域でNBAをテーマにしたマーケティング施策を展開し、2027年にはNBAハウスでの現地アクティベーションも予定されている。IM8はこれまでにもミルウォーキー・バックスのヤニス・アデトクンボ選手とグローバルパートナーシップを結んでおり、バスケットボールとの関係を深めている。"
+      },
+      "es": {
+        "title": "La NBA designa a IM8, respaldada por Beckham, como socio de nutrición para Australia y el sudeste asiático",
+        "summary": "La NBA designó a IM8, la marca de salud y nutrición respaldada por el grupo Prenetics de David Beckham, como su Socio Oficial de Nutrición para Australia y ocho mercados del sudeste asiático, según anunció la liga el 12 de octubre. El acuerdo multianual incluirá campañas de marketing temáticas de la NBA en toda la región y una activación en el NBA House prevista para 2027. Esto amplía los vínculos de IM8 con el baloncesto, tras una asociación global independiente con la estrella de los Milwaukee Bucks, Giannis Antetokounmpo."
+      },
+      "zh": {
+        "title": "NBA任命贝克汉姆旗下IM8为澳大利亚及东南亚官方营养合作伙伴",
+        "summary": "NBA于10月12日宣布,将大卫·贝克汉姆旗下Prenetics集团的健康营养品牌IM8指定为其在澳大利亚及东南亚八个市场的官方营养合作伙伴。这项多年协议将在该地区推出以NBA为主题的营销活动,并计划于2027年在NBA主题体验馆开展现场活动。此前IM8已与密尔沃基雄鹿队球星扬尼斯·阿德托昆博建立了另一项全球合作关系,此次合作进一步加深了其与篮球领域的联系。"
+      },
+      "fr": {
+        "title": "La NBA nomme IM8, soutenue par Beckham, partenaire nutrition pour l'Australie et l'Asie du Sud-Est",
+        "summary": "La NBA a annoncé le 12 octobre que IM8, la marque de santé et de nutrition soutenue par le groupe Prenetics de David Beckham, devenait son Partenaire Officiel de Nutrition pour l'Australie et huit marchés d'Asie du Sud-Est. Cet accord pluriannuel prévoit des campagnes marketing à thème NBA dans toute la région ainsi qu'une activation sur site à la NBA House prévue pour 2027. Ce partenariat renforce les liens d'IM8 avec le basketball, après un accord mondial distinct avec la star des Milwaukee Bucks, Giannis Antetokounmpo."
+      }
+    }
+  },
+  {
+    "id": "mclaren-f1-pg-asia-pacific-partnership-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-10-08T00:00:00Z",
+    "source_name": "Cosmetics Business",
+    "source_url": "https://cosmeticsbusiness.com/procter-gamble-mclaren-f1-team-partner-drive-engagement",
+    "i18n": {
+      "en": {
+        "title": "P&G Signs McLaren F1 Partnership to Drive Asia-Pacific Engagement",
+        "summary": "Procter & Gamble has signed a new partnership with the McLaren Formula 1 team aimed at boosting consumer engagement across the Asia-Pacific region, the companies announced ahead of the Singapore Grand Prix. The deal will feature P&G brands including Head & Shoulders and Oral-B in trackside activations and co-branded products. P&G Asia Pacific's president said the tie-up builds on a shared focus on innovation and performance with the reigning constructors' champions."
+      },
+      "ja": {
+        "title": "P&G、マクラーレンF1と提携しアジア太平洋での関与強化へ",
+        "summary": "P&G(プロクター・アンド・ギャンブル)は、F1チームのマクラーレンと新たなパートナーシップを締結したと、シンガポールグランプリを前に発表した。アジア太平洋地域での消費者との接点拡大を目的としており、ヘッド&ショルダーズやオーラルBなどのP&Gブランドがサーキットでのアクティベーションやコラボ製品に採用される。P&Gアジア太平洋地域の社長は、現コンストラクターズチャンピオンであるマクラーレンとイノベーションとパフォーマンスへの共通した取り組みを強化するものだと述べた。"
+      },
+      "es": {
+        "title": "P&G firma una alianza con McLaren F1 para impulsar su presencia en Asia-Pacífico",
+        "summary": "Procter & Gamble firmó una nueva asociación con el equipo de Fórmula 1 McLaren con el objetivo de impulsar la participación de los consumidores en la región de Asia-Pacífico, según anunciaron las compañías antes del Gran Premio de Singapur. El acuerdo incluirá marcas de P&G como Head & Shoulders y Oral-B en activaciones junto a la pista y en productos de marca conjunta. El presidente de P&G Asia Pacífico dijo que la alianza refuerza un enfoque compartido en innovación y rendimiento con los actuales campeones de constructores."
+      },
+      "zh": {
+        "title": "宝洁与迈凯伦F1车队达成合作 加强亚太地区互动",
+        "summary": "宝洁公司(P&G)宣布与F1迈凯伦车队达成新的合作伙伴关系,旨在提升其在亚太地区的消费者互动,该消息是在新加坡大奖赛前公布的。根据协议,海飞丝、欧乐B等宝洁品牌将出现在赛道互动活动及联名产品中。宝洁亚太区总裁表示,这项合作强化了双方在创新与性能方面的共同追求,迈凯伦目前是卫冕的F1制造商冠军车队。"
+      },
+      "fr": {
+        "title": "P&G signe un partenariat avec McLaren F1 pour renforcer sa présence en Asie-Pacifique",
+        "summary": "Procter & Gamble a signé un nouveau partenariat avec l'écurie de Formule 1 McLaren, visant à renforcer l'engagement des consommateurs dans la région Asie-Pacifique, ont annoncé les deux entreprises avant le Grand Prix de Singapour. L'accord mettra en avant des marques P&G telles que Head & Shoulders et Oral-B lors d'activations sur circuit et dans des produits co-brandés. Le président de P&G Asie-Pacifique a déclaré que ce partenariat s'appuie sur un engagement commun envers l'innovation et la performance avec les champions du monde constructeurs en titre."
+      }
+    }
+  },
+  {
+    "id": "amstel-conmebol-club-competitions-renewal-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-10-05T00:00:00Z",
+    "source_name": "Inside World Football",
+    "source_url": "https://www.insideworldfootball.com/2026/10/05/amstel-renews-10-year-club-competition-partnership-with-conmebol/",
+    "i18n": {
+      "en": {
+        "title": "Amstel Renews Decade-Long Club Competition Sponsorship With Conmebol",
+        "summary": "Heineken-owned beer brand Amstel has extended its long-running sponsorship of South American football governing body Conmebol, covering the men's and women's Copa Libertadores, the Copa Sudamericana and the Recopa Sudamericana. The renewal, reported October 5, keeps Amstel as the competitions' exclusive beer category sponsor, including in-stadium serving rights. The brand has backed Conmebol's top club competitions for close to a decade."
+      },
+      "ja": {
+        "title": "アムステル、コンメボルとのクラブ大会スポンサー契約を約10年ぶりに更新",
+        "summary": "ハイネケン傘下のビールブランド「アムステル」は、南米サッカー連盟(コンメボル)との長年のスポンサー契約を更新し、男女のコパ・リベルタドーレス、コパ・スダメリカーナ、レコパ・スダメリカーナを対象とすることになった。10月5日に報じられた今回の更新により、アムステルはこれらの大会においてビール部門の独占スポンサーの地位を維持し、スタジアム内での販売権も含まれる。同ブランドは約10年にわたりコンメボルのクラブ主要大会を支援してきた。"
+      },
+      "es": {
+        "title": "Amstel renueva su patrocinio de casi una década con Conmebol en competiciones de clubes",
+        "summary": "Amstel, la marca de cerveza propiedad de Heineken, renovó su histórico patrocinio con la Confederación Sudamericana de Fútbol (Conmebol), que abarca la Copa Libertadores masculina y femenina, la Copa Sudamericana y la Recopa Sudamericana. La renovación, informada el 5 de octubre, mantiene a Amstel como patrocinador exclusivo en la categoría cerveza de estos torneos, incluidos los derechos de venta dentro de los estadios. La marca ha respaldado las principales competiciones de clubes de Conmebol durante casi una década."
+      },
+      "zh": {
+        "title": "喜力旗下Amstel续签与南美足联近十年的俱乐部赛事赞助协议",
+        "summary": "喜力集团旗下啤酒品牌Amstel续签了与南美足球联合会(Conmebol)的长期赞助协议,覆盖男女解放者杯、南美杯以及南美超级杯。根据10月5日的报道,此次续约使Amstel继续保持这些赛事啤酒品类的独家赞助商地位,并包括场内销售权。该品牌已连续近十年支持Conmebol的主要俱乐部赛事。"
+      },
+      "fr": {
+        "title": "Amstel renouvelle son partenariat de près d'une décennie avec la Conmebol",
+        "summary": "La marque de bière Amstel, propriété de Heineken, a renouvelé son partenariat de longue date avec la Confédération sud-américaine de football (Conmebol), couvrant la Copa Libertadores masculine et féminine, la Copa Sudamericana et la Recopa Sudamericana. Ce renouvellement, annoncé le 5 octobre, maintient Amstel comme sponsor exclusif de la catégorie bière de ces compétitions, incluant les droits de vente dans les stades. La marque soutient les principales compétitions de clubs de la Conmebol depuis près d'une décennie."
+      }
+    }
+  },
+  {
+    "id": "hennge-ricoh-black-rams-tokyo-partnership-2026",
+    "sport": "general",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-09-16T00:00:00Z",
+    "source_name": "ScanNetSecurity",
+    "source_url": "https://scan.netsecurity.ne.jp/article/2026/10/01/56349.html",
+    "i18n": {
+      "en": {
+        "title": "HENNGE Renews Official Partnership With Rugby's Ricoh Black Rams Tokyo",
+        "summary": "Cloud security firm HENNGE has renewed its official partnership with Japan Rugby League One club Ricoh Black Rams Tokyo, the company announced September 16. The HENNGE logo will appear on the back of players' match jerseys for the 2026-27 season, which kicks off in December. HENNGE and the club have been partners since 2023, with the sponsorship previously featured on training wear and matchday pants."
+      },
+      "ja": {
+        "title": "HENNGE、ラグビー「リコーブラックラムズ東京」とのオフィシャルパートナー契約を更新",
+        "summary": "クラウドセキュリティ企業のHENNGEは9月16日、ジャパンラグビーリーグワンのチーム「リコーブラックラムズ東京」とのオフィシャルパートナー契約を更新したと発表した。HENNGEのロゴは、12月に開幕する2026-27シーズンの公式戦ウェアの背面に掲出される。両社は2023年からパートナー関係にあり、これまでは練習着や試合用パンツにロゴが掲出されていた。"
+      },
+      "es": {
+        "title": "HENNGE renueva su asociación oficial con el club de rugby Ricoh Black Rams Tokyo",
+        "summary": "La empresa de seguridad en la nube HENNGE renovó su asociación oficial con el club de la Japan Rugby League One Ricoh BlackRams Tokyo, según anunció la compañía el 16 de septiembre. El logotipo de HENNGE aparecerá en la parte posterior de las camisetas de partido de los jugadores durante la temporada 2026-27, que comienza en diciembre. HENNGE y el club son socios desde 2023, y el patrocinio ya había aparecido antes en la ropa de entrenamiento y en los pantalones de juego."
+      },
+      "zh": {
+        "title": "HENNGE与橄榄球球队理光黑公羊东京续签官方合作伙伴协议",
+        "summary": "云安全公司HENNGE于9月16日宣布,已与日本橄榄球联盟一级联赛(League One)球队理光黑公羊东京续签官方合作伙伴协议。HENNGE的标志将出现在2026-27赛季(12月开赛)球员比赛球衣的背面。双方自2023年起建立合作关系,此前该标志曾出现在训练服和比赛短裤上。"
+      },
+      "fr": {
+        "title": "HENNGE renouvelle son partenariat officiel avec le club de rugby Ricoh Black Rams Tokyo",
+        "summary": "L'entreprise de sécurité cloud HENNGE a renouvelé son partenariat officiel avec le club de Japan Rugby League One Ricoh Black Rams Tokyo, a annoncé la société le 16 septembre. Le logo HENNGE figurera au dos des maillots de match des joueurs pour la saison 2026-27, qui débute en décembre. HENNGE et le club sont partenaires depuis 2023, le sponsoring ayant auparavant figuré sur les tenues d'entraînement et les shorts de match."
+      }
+    }
   }
 ]
