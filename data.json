@@ -6749,5 +6749,450 @@
         "summary": "La J.League et la plateforme de streaming DAZN ont convenu de prolonger leur partenariat de diffusion pour inclure la J3, la troisieme division, jusqu'a la saison 2032-33, ce qui signifie que tous les matches de J1, J2 et J3 seront diffuses sur DAZN pendant sept saisons supplementaires. L'accord s'appuie sur le contrat de droits initial de la ligue signe en 2023 et resout l'incertitude anterieure concernant la couverture de la J3 en streaming."
       }
     }
+  },
+  {
+    "id": "yokohama-marinos-nissan-stadium-naming-renewal-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-02-27T00:00:00Z",
+    "source_name": "Advertimes",
+    "source_url": "https://advertimes.com/20260302/article535751",
+    "i18n": {
+      "en": {
+        "title": "Yokohama Renews Nissan Stadium Naming Rights in Five-Year, ¥650 Million Deal",
+        "summary": "The city of Yokohama confirmed a new five-year naming-rights agreement covering Nissan Stadium and two related venues, worth a combined 650 million yen through February 2031. City officials had initially floated a cheaper one-year extension before opting for the longer deal after internal review, keeping the Nissan name in place for Yokohama F. Marinos' home ground."
+      },
+      "ja": {
+        "title": "横浜市、日産スタジアムの命名権を5年総額6.5億円で更新",
+        "summary": "横浜市は、日産スタジアムを含む関連3施設の命名権契約を5年間、総額6.5億円で更新したと発表した。当初は単年での安価な契約継続案が示されていたが、市長の指示による再検討の末、より長期の契約に落ち着き、横浜F・マリノスの本拠地は引き続き日産の名を冠することになった。"
+      },
+      "es": {
+        "title": "Yokohama renueva los derechos de nombre del Estadio Nissan por cinco años y 650 millones de yenes",
+        "summary": "La ciudad de Yokohama confirmó un nuevo acuerdo de derechos de nombre por cinco años para el Estadio Nissan y dos instalaciones relacionadas, valorado en 650 millones de yenes hasta febrero de 2031. Las autoridades municipales habían considerado primero una extensión anual más económica antes de optar por el contrato más largo tras una revisión interna, manteniendo el nombre Nissan en la sede de los Yokohama F. Marinos."
+      },
+      "zh": {
+        "title": "横滨市将日产体育场命名权续约5年，总额6.5亿日元",
+        "summary": "横滨市确认与日产汽车就日产体育场及两处相关设施签署新的五年期命名权协议，总额达6.5亿日元，合同持续至2031年2月。市政府最初曾考虑续签成本更低的单年合约，但在内部重新评估后改为更长期的合同，横滨水手队主场继续沿用日产的名称。"
+      },
+      "fr": {
+        "title": "Yokohama renouvelle les droits de dénomination du stade Nissan pour cinq ans et 650 millions de yens",
+        "summary": "La ville de Yokohama a confirmé un nouvel accord de droits de dénomination de cinq ans pour le stade Nissan et deux installations associées, d'une valeur totale de 650 millions de yens jusqu'en février 2031. Les autorités municipales avaient d'abord envisagé une prolongation annuelle moins coûteuse avant d'opter pour ce contrat plus long après un réexamen interne, le nom Nissan restant ainsi associé au stade des Yokohama F. Marinos."
+      }
+    }
+  },
+  {
+    "id": "kochi-kamatamare-j3-stadium-naming-giken-meglio-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-01-01T00:00:00Z",
+    "source_name": "KSB Setonaikai Broadcasting",
+    "source_url": "https://news.ksb.co.jp/article/16826397",
+    "i18n": {
+      "en": {
+        "title": "Two J3 Clubs' Home Stadiums Take On New Corporate Names in Shikoku",
+        "summary": "Kochi United SC's home ground has been rebranded GIKEN Stadium under a naming-rights deal with construction-equipment maker Giken, running through March 2029, while Kamatamare Sanuki's stadium is now Shikoku Kasei MEGLIO Stadium under a separate deal with Shikoku Kasei Holdings lasting to December 2030. Both new names took effect at the start of 2026."
+      },
+      "ja": {
+        "title": "四国のJ3クラブ2チームの本拠地スタジアムが命名権で新名称に",
+        "summary": "高知ユナイテッドSCの本拠地は、建設機械メーカー技研製作所との命名権契約により「GIKENスタジアム」に改称され、契約期間は2029年3月まで続く。一方、カマタマーレ讃岐のスタジアムは四国化成ホールディングスとの契約で「四国化成MEGLIOスタジアム」となり、契約は2030年12月まで。両名称とも2026年初めから使用が始まった。"
+      },
+      "es": {
+        "title": "Dos estadios de clubes de la J3 estrenan nuevos nombres corporativos en Shikoku",
+        "summary": "El estadio local del Kochi United SC pasó a llamarse GIKEN Stadium tras un acuerdo de derechos de nombre con el fabricante de maquinaria Giken, vigente hasta marzo de 2029, mientras que el estadio del Kamatamare Sanuki se renombró Shikoku Kasei MEGLIO Stadium gracias a un acuerdo independiente con Shikoku Kasei Holdings hasta diciembre de 2030. Ambos nombres entraron en vigor a comienzos de 2026."
+      },
+      "zh": {
+        "title": "四国地区两家J3联赛球队主场启用新的企业冠名",
+        "summary": "高知联合足球俱乐部的主场依据与建筑机械制造商技研制作所签订的冠名权协议，更名为“GIKEN体育场”，合同期至2029年3月；而鎌田丸讃岐的主场则通过与四国化成控股的另一份协议更名为“四国化成MEGLIO体育场”，合同期至2030年12月。两个新名称均于2026年初开始启用。"
+      },
+      "fr": {
+        "title": "Deux stades de clubs de J3 adoptent de nouveaux noms d'entreprise à Shikoku",
+        "summary": "Le stade du Kochi United SC a été rebaptisé GIKEN Stadium dans le cadre d'un accord de naming avec le fabricant d'équipements de construction Giken, valable jusqu'en mars 2029, tandis que celui du Kamatamare Sanuki est devenu le Shikoku Kasei MEGLIO Stadium grâce à un accord distinct avec Shikoku Kasei Holdings courant jusqu'en décembre 2030. Les deux nouveaux noms sont entrés en vigueur début 2026."
+      }
+    }
+  },
+  {
+    "id": "jets-outfront-media-fan-experience-partnership-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "fan",
+      "sponsor"
+    ],
+    "published_at": "2026-08-05T00:00:00Z",
+    "source_name": "New York Jets",
+    "source_url": "https://www.newyorkjets.com/news/outfront-new-york-jets-partnership-announcement-08-05-2026",
+    "i18n": {
+      "en": {
+        "title": "Jets and OUTFRONT Media Extend Fan Reach Beyond MetLife Stadium",
+        "summary": "The New York Jets named OUTFRONT Media its exclusive out-of-home media partner in a multi-year deal that lets sponsors reach fans through digital billboards, transit ads and experiential activations beyond gameday at MetLife Stadium. A Penn Station launch event fronted by former linebacker Bart Scott kicked off the partnership's 'Back to Football' campaign."
+      },
+      "ja": {
+        "title": "ジェッツとアウトフロント・メディアがメットライフ・スタジアムの外でファン接点を拡大",
+        "summary": "NFLのニューヨーク・ジェッツは、アウトフロント・メディアを複数年契約の独占屋外広告パートナーに指定した。これにより、スポンサー企業はメットライフ・スタジアムの試合日以外でも、デジタル看板や交通広告、体験型イベントを通じてファンにアプローチできるようになる。元ラインバッカーのバート・スコット氏が主催したペン駅でのイベントで提携が発表された。"
+      },
+      "es": {
+        "title": "Los Jets y OUTFRONT Media amplían el alcance con los aficionados más allá del MetLife Stadium",
+        "summary": "Los New York Jets nombraron a OUTFRONT Media su socio exclusivo de publicidad exterior en un acuerdo multianual que permite a los patrocinadores llegar a los aficionados mediante vallas digitales, anuncios en el transporte y activaciones experienciales fuera de los días de partido en el MetLife Stadium. Un evento de lanzamiento en Penn Station, encabezado por el exlinebacker Bart Scott, dio inicio a la campaña conjunta."
+      },
+      "zh": {
+        "title": "喷气机队与OUTFRONT Media合作，将球迷互动延伸至大都会人寿体育场之外",
+        "summary": "NFL纽约喷气机队宣布与OUTFRONT Media达成多年独家户外媒体合作，赞助商借此可通过数字广告牌、交通广告及体验式活动，在非比赛日也能触达球迷，突破大都会人寿体育场的范围。前边卫巴特·斯科特主持了在宾夕法尼亚车站举行的启动活动，拉开此次合作的序幕。"
+      },
+      "fr": {
+        "title": "Les Jets et OUTFRONT Media étendent leur portée auprès des supporters au-delà du MetLife Stadium",
+        "summary": "Les New York Jets ont désigné OUTFRONT Media comme partenaire exclusif de publicité extérieure dans le cadre d'un accord pluriannuel permettant aux sponsors d'atteindre les supporters via des panneaux numériques, des publicités dans les transports et des activations expérientielles au-delà des jours de match au MetLife Stadium. Un événement de lancement à Penn Station, animé par l'ancien linebacker Bart Scott, a marqué le début de ce partenariat."
+      }
+    }
+  },
+  {
+    "id": "texas-tech-galaxy-stadium-naming-rights-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor",
+      "tech"
+    ],
+    "published_at": "2026-07-17T00:00:00Z",
+    "source_name": "Deseret News",
+    "source_url": "https://www.deseret.com/sports/2026/07/17/texas-tech-stadium-naming-rights-galaxy-stadium-revenue-stream-nil-opportunities/",
+    "i18n": {
+      "en": {
+        "title": "Texas Tech Renames Football Stadium 'Galaxy Stadium' in Reported $75 Million, 15-Year Deal",
+        "summary": "Texas Tech Athletics struck a 15-year naming-rights agreement with data-center and digital-asset firm Galaxy, renaming Jones AT&T Stadium as Galaxy Stadium starting with the 2026 season. Industry reporting pegs the package at roughly $75 million, well above the previous AT&T deal, and Galaxy also becomes the athletic department's official data-center and digital-assets partner while opening new NIL opportunities for athletes."
+      },
+      "ja": {
+        "title": "テキサス工科大、フットボール場を『ギャラクシー・スタジアム』に改称 ― 15年75百万ドル規模の契約",
+        "summary": "テキサス工科大学athletics部門は、データセンター・デジタル資産企業ギャラクシーと15年契約を結び、ジョーンズAT&Tスタジアムを2026年シーズンから『ギャラクシー・スタジアム』に改称する。業界報道によれば契約規模は約7500万ドルで、従来のAT&Tとの契約を大きく上回る。ギャラクシーは同athletics部門の公式データセンター・デジタル資産パートナーにもなり、選手にとって新たなNIL（名前・肖像・パブリシティ権）機会も生まれる。"
+      },
+      "es": {
+        "title": "Texas Tech rebautiza su estadio de fútbol americano como 'Galaxy Stadium' en un acuerdo de 75 millones de dólares a 15 años",
+        "summary": "El departamento de atletismo de Texas Tech firmó un acuerdo de derechos de nombre por 15 años con la firma de centros de datos y activos digitales Galaxy, renombrando el Jones AT&T Stadium como Galaxy Stadium a partir de la temporada 2026. Según reportes del sector, el paquete rondaría los 75 millones de dólares, muy por encima del acuerdo anterior con AT&T, y Galaxy también se convierte en socio oficial de centros de datos y activos digitales, abriendo nuevas oportunidades de NIL para los deportistas."
+      },
+      "zh": {
+        "title": "德州理工大学体育场更名为“Galaxy体育场”，据报涉及15年7500万美元协议",
+        "summary": "德州理工大学体育部与数据中心及数字资产公司Galaxy签署15年期冠名权协议，自2026赛季起将琼斯AT&T体育场更名为“Galaxy体育场”。业内报道称该协议总额约为7500万美元，远超此前与AT&T的合约，Galaxy同时成为该体育部官方数据中心及数字资产合作伙伴，并为运动员带来新的姓名、形象与肖像权（NIL）商业机会。"
+      },
+      "fr": {
+        "title": "Texas Tech renomme son stade de football américain « Galaxy Stadium » dans un accord estimé à 75 millions de dollars sur 15 ans",
+        "summary": "Le département sportif de Texas Tech a conclu un accord de naming de 15 ans avec la société de centres de données et d'actifs numériques Galaxy, rebaptisant le Jones AT&T Stadium en Galaxy Stadium dès la saison 2026. Selon la presse spécialisée, l'accord avoisinerait les 75 millions de dollars, bien au-delà du précédent contrat avec AT&T, Galaxy devenant également partenaire officiel des centres de données et des actifs numériques, tout en ouvrant de nouvelles opportunités de NIL pour les athlètes."
+      }
+    }
+  },
+  {
+    "id": "arkansas-communityamerica-razorback-stadium-naming-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-06-24T00:00:00Z",
+    "source_name": "Arkansas Razorbacks",
+    "source_url": "https://arkansasrazorbacks.com/arkansas-athletics-communityamerica-credit-union-launch-multi-year-partnership-including-razorback-stadium-naming-rights/",
+    "i18n": {
+      "en": {
+        "title": "Arkansas Signs 13-Year Naming-Rights Deal, Stadium Becomes CommunityAmerica Razorback Stadium in 2027",
+        "summary": "Arkansas Athletics and CommunityAmerica Credit Union launched a multi-year partnership that includes a 13-year naming-rights agreement, renaming Donald W. Reynolds Razorback Stadium as CommunityAmerica Razorback Stadium starting with the 2027 season. Financial terms were not disclosed, but the deal gives the credit union official sponsor status and direct NIL dealings with Razorback athletes, helping the athletic department close a revenue gap with rival programs."
+      },
+      "ja": {
+        "title": "アーカンソー大、13年契約の命名権で2027年から『コミュニティアメリカ・レイザーバック・スタジアム』に",
+        "summary": "アーカンソー大学athletics部門とコミュニティアメリカ信用組合は、複数年にわたる提携を発表し、その一環として13年間の命名権契約を結んだ。これにより、ドナルド・W・レイノルズ・レイザーバック・スタジアムは2027年シーズンから『コミュニティアメリカ・レイザーバック・スタジアム』に改称される。金額は非公開だが、同信用組合は公式スポンサーの地位を得て選手と直接NIL契約を結べるようになり、athletics部門は他校との収益差を縮める狙いがある。"
+      },
+      "es": {
+        "title": "Arkansas firma un acuerdo de nombre por 13 años; el estadio se llamará CommunityAmerica Razorback Stadium desde 2027",
+        "summary": "El departamento de atletismo de Arkansas y CommunityAmerica Credit Union lanzaron una asociación multianual que incluye un acuerdo de derechos de nombre por 13 años, renombrando el Donald W. Reynolds Razorback Stadium como CommunityAmerica Razorback Stadium a partir de la temporada 2027. No se revelaron los términos económicos, pero el acuerdo otorga a la cooperativa de crédito el estatus de patrocinador oficial y la posibilidad de tratos directos de NIL con los deportistas, ayudando al departamento a reducir la brecha de ingresos frente a otros programas."
+      },
+      "zh": {
+        "title": "阿肯色大学签下13年冠名权协议，体育场2027年起改名“社区美国剃刀背体育场”",
+        "summary": "阿肯色大学体育部与社区美国信用合作社宣布建立多年合作关系，其中包括一份13年期冠名权协议，唐纳德·W·雷诺兹剃刀背体育场将从2027赛季起更名为“社区美国剃刀背体育场”。双方未披露具体金额，但该协议使该信用合作社获得官方赞助商地位，并可直接与球员签订姓名、形象与肖像权（NIL）合约，有助于体育部缩小与竞争对手项目的收入差距。"
+      },
+      "fr": {
+        "title": "Arkansas signe un accord de naming de 13 ans ; le stade deviendra le CommunityAmerica Razorback Stadium en 2027",
+        "summary": "Le département sportif d'Arkansas et la coopérative de crédit CommunityAmerica ont lancé un partenariat pluriannuel incluant un accord de naming de 13 ans, le Donald W. Reynolds Razorback Stadium devenant le CommunityAmerica Razorback Stadium dès la saison 2027. Les termes financiers n'ont pas été divulgués, mais l'accord confère à la coopérative le statut de sponsor officiel et la possibilité de conclure des accords de NIL directs avec les athlètes, aidant le département à réduire son écart de revenus avec les programmes rivaux."
+      }
+    }
+  },
+  {
+    "id": "nebraska-csc-nil-deals-approved-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-07-30T00:00:00Z",
+    "source_name": "Associated Press (via WTOP)",
+    "source_url": "https://wtop.com/ncaa-football/2026/07/college-sports-commission-approves-reworked-nil-deals-worth-total-of-7-5m-for-18-nebraska-players/",
+    "i18n": {
+      "en": {
+        "title": "College Sports Commission Approves Reworked $7.5 Million NIL Deals for 18 Nebraska Players",
+        "summary": "The College Sports Commission signed off on restructured name, image and likeness deals worth a combined $7.5 million for 18 Nebraska football players, after an arbitrator previously upheld a rejection over the deals lacking a 'valid business purpose.' Athletic director Troy Dannen said the resubmitted agreements were reworked to meet the requirement that NIL deals involve goods or services offered to the public for profit, with payment to follow once players fulfill their obligations."
+      },
+      "ja": {
+        "title": "大学スポーツ委員会、ネブラスカ大選手18人の再構成NIL契約750万ドルを承認",
+        "summary": "大学スポーツ委員会（CSC）は、ネブラスカ大学フットボール選手18人分、合計750万ドル規模のNIL（名前・肖像・パブリシティ権）契約の再構成版を承認した。これに先立ち、仲裁人は当初の契約について「正当な事業目的」を欠くとして却下を支持していた。athletics部門長のトロイ・ダネン氏は、契約が営利目的で一般に提供される商品・サービスを伴うという要件を満たすよう修正されたと説明し、選手が義務を履行した後に支払いが行われるとした。"
+      },
+      "es": {
+        "title": "La Comisión de Deportes Universitarios aprueba acuerdos de NIL reestructurados por 7,5 millones de dólares para 18 jugadores de Nebraska",
+        "summary": "La Comisión de Deportes Universitarios (CSC) dio el visto bueno a acuerdos reestructurados de nombre, imagen y semejanza por un total de 7,5 millones de dólares para 18 jugadores de fútbol americano de Nebraska, después de que un árbitro hubiera confirmado previamente su rechazo por carecer de un 'propósito comercial válido'. El director deportivo Troy Dannen señaló que los acuerdos reenviados se ajustaron para cumplir con el requisito de incluir bienes o servicios ofrecidos al público con fines de lucro, y que el pago se realizará una vez que los jugadores cumplan sus obligaciones."
+      },
+      "zh": {
+        "title": "大学体育委员会批准内布拉斯加18名球员总额750万美元的重组NIL协议",
+        "summary": "大学体育委员会（CSC）批准了内布拉斯加大学18名橄榄球球员经过重新设计的姓名、形象与肖像权（NIL）协议，总额达750万美元；此前仲裁员曾维持对原协议的驳回，理由是缺乏“正当商业目的”。体育部主管特洛伊·达内恩表示，重新提交的协议已调整以满足须涉及面向公众营利销售商品或服务的要求，球员履行相关义务后将获得付款。"
+      },
+      "fr": {
+        "title": "La Commission du sport universitaire approuve des accords NIL restructurés de 7,5 millions de dollars pour 18 joueurs de Nebraska",
+        "summary": "La Commission du sport universitaire (CSC) a validé des accords de nom, d'image et de ressemblance restructurés, d'une valeur totale de 7,5 millions de dollars, pour 18 joueurs de football américain de Nebraska, après qu'un arbitre avait confirmé leur rejet initial pour absence d'« objectif commercial valide ». Le directeur sportif Troy Dannen a indiqué que les accords resoumis avaient été modifiés pour répondre à l'exigence d'inclure des biens ou services proposés au public à but lucratif, le paiement intervenant une fois les obligations des joueurs remplies."
+      }
+    }
+  },
+  {
+    "id": "rays-legends-global-ballpark-sponsorship-sales-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-09-21T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/newsletters/mlb-rays-tap-legends-as-partner-circa-in-ballpark-development-frenzy/",
+    "i18n": {
+      "en": {
+        "title": "Rays Hire Legends Global to Run Sponsorship Sales for New Ballpark",
+        "summary": "The Tampa Bay Rays named Legends Global as the commercial sales partner for their planned new ballpark, which is scheduled to open before the 2029 season. The move is part of a broader wave of forward-looking commercial deals among MLB clubs tied to new stadium projects, alongside the Athletics naming Circa a founding partner for their own ballpark plans."
+      },
+      "ja": {
+        "title": "レイズ、新球場のスポンサーセールスをレジェンズ・グローバルに委託",
+        "summary": "タンパベイ・レイズは、2029年シーズン開幕前の完成を予定する新球場のスポンサー営業パートナーとして、レジェンズ・グローバルを指名した。これは、MLB各球団が新球場計画に絡めて将来を見据えた商業契約を結ぶ動きの一環であり、アスレチックスも自らの新球場計画において創設パートナーとしてサーカ社を指名している。"
+      },
+      "es": {
+        "title": "Los Rays contratan a Legends Global para las ventas de patrocinio de su nuevo estadio",
+        "summary": "Los Tampa Bay Rays designaron a Legends Global como socio comercial para las ventas de patrocinio de su futuro estadio, cuya apertura está prevista antes de la temporada 2029. El movimiento forma parte de una ola más amplia de acuerdos comerciales orientados al futuro entre equipos de la MLB vinculados a nuevos proyectos de estadios, junto con los Athletics, que nombraron a Circa socio fundador de su propio proyecto de estadio."
+      },
+      "zh": {
+        "title": "光芒队聘请Legends Global负责新球场赞助销售",
+        "summary": "坦帕湾光芒队任命Legends Global为其计划新建球场的商业销售合作伙伴，该球场预计于2029赛季前投入使用。此举是美国职棒大联盟多支球队围绕新球场项目展开前瞻性商业合作浪潮的一部分，运动家队也在其自身新球场计划中指定Circa公司为创始合作伙伴。"
+      },
+      "fr": {
+        "title": "Les Rays engagent Legends Global pour la vente des sponsorings de leur nouveau stade",
+        "summary": "Les Tampa Bay Rays ont désigné Legends Global comme partenaire commercial chargé de la vente des sponsorings pour leur futur stade, dont l'ouverture est prévue avant la saison 2029. Cette démarche s'inscrit dans une vague plus large d'accords commerciaux tournés vers l'avenir chez les clubs de la MLB liés à de nouveaux projets de stades, les Athletics ayant par ailleurs nommé Circa partenaire fondateur de leur propre projet de stade."
+      }
+    }
+  },
+  {
+    "id": "genius-sports-q2-2026-earnings-beat",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "biz",
+      "tech"
+    ],
+    "published_at": "2026-08-06T00:00:00Z",
+    "source_name": "Business Wire",
+    "source_url": "https://secure.businesswire.com/news/home/20260806572935/en/Genius-Sports-Beats-Second-Quarter-Guidance-and-Raises-Full-Year-Outlook",
+    "i18n": {
+      "en": {
+        "title": "Genius Sports Beats Q2 Guidance as Media Technology Revenue Nearly Triples",
+        "summary": "Sports-data and technology provider Genius Sports reported second-quarter 2026 group revenue of $195.5 million, up 64.7% year over year and ahead of its own guidance, with adjusted EBITDA rising 54% to roughly $52.6 million. Media Technology revenue jumped 193% on the addition of Legend, prompting the company to raise its full-year revenue outlook to a range of $1.005 billion to $1.025 billion."
+      },
+      "ja": {
+        "title": "ジーニアス・スポーツ、第2四半期予想を上回る実績 ― メディア技術部門売上は約3倍に",
+        "summary": "スポーツデータ・技術プロバイダーのジーニアス・スポーツは、2026年第2四半期のグループ売上高が前年同期比64.7%増の1億9550万ドルとなり、自社予想を上回ったと発表した。調整後EBITDAは54%増の約5260万ドル。メディア技術部門の売上はLegend社の統合により193%急増し、同社は通期売上高見通しを10億500万～10億2500万ドルに上方修正した。"
+      },
+      "es": {
+        "title": "Genius Sports supera sus previsiones del segundo trimestre con los ingresos de tecnología de medios casi triplicados",
+        "summary": "El proveedor de datos y tecnología deportiva Genius Sports reportó ingresos del grupo de 195,5 millones de dólares en el segundo trimestre de 2026, un alza del 64,7% interanual y por encima de sus propias previsiones, con un EBITDA ajustado que creció un 54% hasta unos 52,6 millones de dólares. Los ingresos de Tecnología de Medios se dispararon un 193% tras la incorporación de Legend, lo que llevó a la empresa a elevar su previsión de ingresos anuales a un rango de entre 1.005 y 1.025 millones de dólares."
+      },
+      "zh": {
+        "title": "Genius Sports第二季度业绩超预期，媒体技术业务收入近乎增长两倍",
+        "summary": "体育数据与技术提供商Genius Sports公布2026年第二季度集团收入为1.955亿美元，同比增长64.7%，超过公司自身预期，调整后EBITDA增长54%，达约5260万美元。受收购Legend公司推动，媒体技术业务收入猛增193%，公司因此将全年收入预期上调至10.05亿至10.25亿美元区间。"
+      },
+      "fr": {
+        "title": "Genius Sports dépasse ses prévisions du deuxième trimestre, les revenus de la technologie média triplent presque",
+        "summary": "Le fournisseur de données et de technologie sportive Genius Sports a annoncé un chiffre d'affaires du groupe de 195,5 millions de dollars au deuxième trimestre 2026, en hausse de 64,7% sur un an et supérieur à ses propres prévisions, avec un EBITDA ajusté en progression de 54% à environ 52,6 millions de dollars. Les revenus de la technologie média ont bondi de 193% grâce à l'intégration de Legend, poussant l'entreprise à relever ses prévisions annuelles de chiffre d'affaires entre 1,005 et 1,025 milliard de dollars."
+      }
+    }
+  },
+  {
+    "id": "invictus-gaming-shanghai-esports-arena-2026",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "biz"
+    ],
+    "published_at": "2026-05-02T00:00:00Z",
+    "source_name": "Players",
+    "source_url": "https://players.com.ua/en/news/invictus-gaming-opens-a-20-million-esports-arena-in-shanghai/",
+    "i18n": {
+      "en": {
+        "title": "Invictus Gaming Opens Privately Funded $20 Million Esports Arena in Shanghai",
+        "summary": "League of Legends organization Invictus Gaming unveiled a new home venue in Shanghai's Putuo district, a roughly $20 million project funded entirely by investor Zhang Haohan without a corporate sponsor, after about six years of construction. The venue, part of the Inzone Esports Industrial Park and spanning more than 10,000 square meters, also doubles as a production studio and hosted its first LPL match on May 12."
+      },
+      "ja": {
+        "title": "インビクタス・ゲーミング、上海に自己資金2000万ドルのeスポーツアリーナを開設",
+        "summary": "『リーグ・オブ・レジェンド』のプロチーム、インビクタス・ゲーミングは、上海の普陀区に新本拠地を開設した。投資家チャン・ハオハン氏が企業スポンサーを介さず自己資金で全額を出資した約2000万ドル規模のプロジェクトで、約6年の建設期間を経て完成した。1万平方メートル超の施設は「インゾーン・eスポーツ産業パーク」内にあり、制作スタジオも兼ねる。5月12日に最初のLPL公式戦が行われた。"
+      },
+      "es": {
+        "title": "Invictus Gaming abre una arena de esports de 20 millones de dólares financiada íntegramente con fondos privados en Shanghái",
+        "summary": "La organización de League of Legends Invictus Gaming presentó una nueva sede en el distrito de Putuo, en Shanghái, un proyecto de unos 20 millones de dólares financiado por completo por el inversor Zhang Haohan sin patrocinador corporativo, tras unos seis años de construcción. El recinto, que forma parte del Inzone Esports Industrial Park y supera los 10.000 metros cuadrados, también funciona como estudio de producción y albergó su primer partido de la LPL el 12 de mayo."
+      },
+      "zh": {
+        "title": "Invictus Gaming在上海开设完全私人投资的2000万美元电竞馆",
+        "summary": "英雄联盟电竞俱乐部Invictus Gaming（iG）在上海普陀区启用全新主场场馆，该项目耗资约2000万美元，由投资人张昊晨完全自掏腰包、未引入企业赞助，历经约六年建设完工。场馆位于“因泽电竞产业园”内，面积逾1万平方米，同时兼具制作演播室功能，于5月12日迎来首场LPL正式比赛。"
+      },
+      "fr": {
+        "title": "Invictus Gaming ouvre à Shanghai une arène d'esport de 20 millions de dollars entièrement autofinancée",
+        "summary": "L'organisation League of Legends Invictus Gaming a inauguré un nouveau siège dans le district de Putuo à Shanghai, un projet d'environ 20 millions de dollars entièrement financé par l'investisseur Zhang Haohan sans sponsor d'entreprise, après près de six ans de construction. Le site, qui fait partie de l'Inzone Esports Industrial Park et dépasse 10 000 mètres carrés, fait aussi office de studio de production et a accueilli son premier match de LPL le 12 mai."
+      }
+    }
+  },
+  {
+    "id": "pga-tour-front-office-sports-content-deal-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "biz",
+      "sponsor"
+    ],
+    "published_at": "2026-04-21T00:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/company-news/pga-tour-and-front-office-sports-announce-multi-year-content-agreement/",
+    "i18n": {
+      "en": {
+        "title": "PGA Tour and Front Office Sports Sign Multi-Year Content Agreement",
+        "summary": "The PGA Tour and media outlet Front Office Sports announced a multi-year deal giving FOS access-driven, behind-the-scenes content from key tour moments. The agreement is designed to give fans more business-focused storytelling around the tour while helping FOS's sales team pitch advertisers alongside official tour partners."
+      },
+      "ja": {
+        "title": "PGAツアーとフロント・オフィス・スポーツが複数年のコンテンツ契約を締結",
+        "summary": "PGAツアーとビジネスメディアのフロント・オフィス・スポーツ（FOS）は、ツアーの主要な場面における密着型・舞台裏コンテンツをFOSが制作できる複数年契約を発表した。この提携により、ファンはツアーを巡るビジネス寄りのストーリーをより多く楽しめるようになり、FOSの営業チームも公式パートナー企業と並んで広告主へのアピールがしやすくなる。"
+      },
+      "es": {
+        "title": "El PGA Tour y Front Office Sports firman un acuerdo de contenido multianual",
+        "summary": "El PGA Tour y el medio Front Office Sports anunciaron un acuerdo multianual que otorga a FOS acceso para producir contenido exclusivo y entre bastidores de los momentos clave del circuito. El pacto busca ofrecer a los aficionados narrativas más centradas en el negocio del golf, además de ayudar al equipo comercial de FOS a atraer anunciantes junto a los patrocinadores oficiales del tour."
+      },
+      "zh": {
+        "title": "PGA巡回赛与Front Office Sports签署多年内容合作协议",
+        "summary": "PGA巡回赛与商业体育媒体Front Office Sports（FOS）宣布达成多年内容合作协议，FOS将获得赛事重要时刻的独家幕后内容制作权限。该协议旨在为球迷呈现更多聚焦商业视角的赛事报道，同时帮助FOS的销售团队与官方合作伙伴一同向广告主进行推介。"
+      },
+      "fr": {
+        "title": "Le PGA Tour et Front Office Sports signent un accord de contenu pluriannuel",
+        "summary": "Le PGA Tour et le média Front Office Sports ont annoncé un accord pluriannuel donnant à FOS un accès privilégié pour produire du contenu exclusif en coulisses lors des moments clés du circuit. L'accord vise à offrir aux fans des récits davantage centrés sur les enjeux économiques du tour, tout en aidant l'équipe commerciale de FOS à démarcher des annonceurs aux côtés des partenaires officiels du tour."
+      }
+    }
+  },
+  {
+    "id": "wwe-front-office-sports-wrestlemania-content-deal-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "biz",
+      "sponsor"
+    ],
+    "published_at": "2026-03-17T00:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/company-news/wwe-and-front-office-sports-announce-content-partnership/",
+    "i18n": {
+      "en": {
+        "title": "WWE Signs Content Partnership With Front Office Sports Ahead of WrestleMania 42",
+        "summary": "WWE and Front Office Sports announced a content partnership built around business-focused storytelling from WWE's major events, starting with behind-the-scenes coverage of WrestleMania 42 at Allegiant Stadium on April 18-19. The tie-up follows similar FOS content deals with the NFL and NWSL and is meant to support WWE's international growth narrative."
+      },
+      "ja": {
+        "title": "WWE、『レッスルマニア42』を前にフロント・オフィス・スポーツとコンテンツ提携",
+        "summary": "WWEとビジネスメディアのフロント・オフィス・スポーツ（FOS）は、WWEの主要イベントにおけるビジネス視点の舞台裏コンテンツ制作を中心とした提携を発表した。まずは4月18～19日にアレジアント・スタジアムで開催される『レッスルマニア42』の裏側を取材する。この提携は、FOSがNFLやNWSLと結んだ既存のコンテンツ契約に続くもので、WWEの国際展開の物語を後押しする狙いがある。"
+      },
+      "es": {
+        "title": "WWE firma una alianza de contenido con Front Office Sports antes de WrestleMania 42",
+        "summary": "WWE y el medio Front Office Sports anunciaron una alianza de contenido centrada en narrativas de negocio en torno a los grandes eventos de WWE, comenzando con cobertura entre bastidores de WrestleMania 42 en el Allegiant Stadium los días 18 y 19 de abril. El acuerdo sigue a pactos similares de contenido que FOS mantiene con la NFL y la NWSL, y busca respaldar el relato de expansión internacional de WWE."
+      },
+      "zh": {
+        "title": "WWE在“摔角狂热42”前与Front Office Sports达成内容合作",
+        "summary": "WWE与商业体育媒体Front Office Sports（FOS）宣布达成内容合作，重点制作围绕WWE重大赛事的商业视角幕后内容，首期将聚焦4月18日至19日在阿利吉恩特体育场举行的“摔角狂热42”幕后报道。此次合作延续了FOS此前与NFL及美国女子职业足球联赛（NWSL）达成的类似内容协议，旨在助力WWE的国际扩张叙事。"
+      },
+      "fr": {
+        "title": "La WWE signe un partenariat de contenu avec Front Office Sports avant WrestleMania 42",
+        "summary": "La WWE et le média Front Office Sports ont annoncé un partenariat de contenu axé sur des récits orientés business autour des grands événements de la WWE, débutant par une couverture des coulisses de WrestleMania 42 au Allegiant Stadium les 18 et 19 avril. Cet accord fait suite à des partenariats de contenu similaires que FOS entretient avec la NFL et la NWSL, et vise à soutenir le récit d'expansion internationale de la WWE."
+      }
+    }
+  },
+  {
+    "id": "front-office-sports-steins-investment-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-09-03T00:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/article/front-office-sports-investment-steins/",
+    "i18n": {
+      "en": {
+        "title": "Front Office Sports Takes Investment From Stein's Holding Company",
+        "summary": "Sports-business media outlet Front Office Sports said it is entering a new ownership chapter after taking a strategic investment from Stein's, an investment management and holding company led by Jason Stein and Alyson Warshaw. The move follows an earlier strategic investment from RedBird IMI and comes as FOS has expanded into content partnerships with leagues including the NFL and NWSL."
+      },
+      "ja": {
+        "title": "フロント・オフィス・スポーツ、スタインズ社から投資を受け入れ",
+        "summary": "スポーツビジネス専門メディアのフロント・オフィス・スポーツ（FOS）は、ジェイソン・スタイン氏とアリソン・ワルシャウ氏が率いる投資・持株会社スタインズから戦略的投資を受け、新たな出資段階に入ったと発表した。FOSは以前にもレッドバードIMIから戦略的投資を受けており、今回の動きはNFLやNWSLなどとのコンテンツ提携を拡大してきた流れの延長線上にある。"
+      },
+      "es": {
+        "title": "Front Office Sports recibe una inversión de la sociedad Stein's",
+        "summary": "El medio de negocios deportivos Front Office Sports anunció que inicia una nueva etapa de propiedad tras recibir una inversión estratégica de Stein's, una firma de gestión de inversiones y holding dirigida por Jason Stein y Alyson Warshaw. El movimiento se produce tras una inversión estratégica anterior de RedBird IMI y coincide con la expansión de FOS hacia acuerdos de contenido con ligas como la NFL y la NWSL."
+      },
+      "zh": {
+        "title": "体育商业媒体Front Office Sports获得Stein's控股公司投资",
+        "summary": "体育商业媒体Front Office Sports（FOS）宣布，在获得由杰森·斯坦恩和艾莉森·沃肖领导的投资管理及控股公司Stein's的战略投资后，进入新的股权阶段。此前FOS曾获得RedBird IMI的战略投资，而此次投资正值该媒体不断拓展与NFL、NWSL等联盟的内容合作之际。"
+      },
+      "fr": {
+        "title": "Front Office Sports reçoit un investissement de la société Stein's",
+        "summary": "Le média spécialisé dans le business du sport Front Office Sports a annoncé entamer un nouveau chapitre actionnarial après avoir reçu un investissement stratégique de Stein's, une société de gestion d'investissements et holding dirigée par Jason Stein et Alyson Warshaw. Cette opération fait suite à un précédent investissement stratégique de RedBird IMI et survient alors que FOS a multiplié les partenariats de contenu avec des ligues telles que la NFL et la NWSL."
+      }
+    }
+  },
+  {
+    "id": "dodgers-kalshi-prediction-market-sponsorship-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-08-15T00:00:00Z",
+    "source_name": "The Lines",
+    "source_url": "https://www.thelines.com/prediction-markets/industry-news/la-dodgers-follow-red-sox-with-quiet-kalshi-tie-up",
+    "i18n": {
+      "en": {
+        "title": "Dodgers Quietly Follow Red Sox Into Kalshi Prediction-Market Promotion",
+        "summary": "The Los Angeles Dodgers displayed prediction-market operator Kalshi's branding at Dodger Stadium in August, following the Boston Red Sox, which had emailed fans a Kalshi promotion. The low-key rollouts come as individual MLB clubs strike their own prediction-market arrangements on top of the league's existing partnership with rival platform Polymarket, a trend that has drawn mixed fan reaction elsewhere in the sport."
+      },
+      "ja": {
+        "title": "ドジャース、レッドソックスに続き静かにカルシ社の予測市場プロモーションを展開",
+        "summary": "ロサンゼルス・ドジャースは8月、ドジャー・スタジアムで予測市場運営会社カルシのブランド表示を行った。これは、ファンにカルシの宣伝メールを送っていたボストン・レッドソックスに続く動きである。MLBはライバルの予測市場プラットフォーム、ポリマーケットと既にリーグ全体での提携を結んでいるが、各球団が独自に予測市場企業との契約を進める動きが広がりつつあり、こうした動きにはファンから賛否両論の反応も出ている。"
+      },
+      "es": {
+        "title": "Los Dodgers siguen discretamente a los Red Sox en una promoción del mercado de predicciones Kalshi",
+        "summary": "Los Los Angeles Dodgers exhibieron en agosto la marca de la plataforma de mercados de predicción Kalshi en el Dodger Stadium, siguiendo a los Boston Red Sox, que habían enviado a sus aficionados una promoción por correo electrónico de Kalshi. Estos despliegues discretos se producen mientras varios equipos de la MLB cierran sus propios acuerdos con plataformas de mercados de predicción, además de la alianza que la liga ya mantiene con la rival Polymarket, una tendencia que ha generado reacciones encontradas entre los aficionados en otras partes del deporte."
+      },
+      "zh": {
+        "title": "道奇队悄然跟随红袜队推广Kalshi预测市场平台",
+        "summary": "洛杉矶道奇队8月在道奇体育场展示了预测市场平台Kalshi的品牌标识，此前波士顿红袜队已通过邮件向球迷推广Kalshi。随着多支美国职棒大联盟球队在联盟已与竞争平台Polymarket达成合作的基础上，各自悄然推进与预测市场企业的合作，这一趋势已在联盟其他地方引发球迷褒贬不一的反应。"
+      },
+      "fr": {
+        "title": "Les Dodgers emboîtent discrètement le pas aux Red Sox dans une promotion du marché de prédiction Kalshi",
+        "summary": "Les Los Angeles Dodgers ont affiché en août la marque de la plateforme de marchés de prédiction Kalshi au Dodger Stadium, après que les Red Sox de Boston avaient envoyé à leurs supporters une promotion Kalshi par courriel. Ces déploiements discrets interviennent alors que plusieurs clubs de la MLB concluent leurs propres accords avec des plateformes de marchés de prédiction, en plus du partenariat déjà en place entre la ligue et la plateforme rivale Polymarket, une tendance qui a suscité des réactions partagées chez les supporters ailleurs dans le sport."
+      }
+    }
   }
 ]
