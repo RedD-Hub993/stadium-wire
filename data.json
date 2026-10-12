@@ -6557,5 +6557,238 @@
         "summary": "Une étude de Mitsubishi UFJ Research and Consulting et Macromill estime que le marché des spectateurs sportifs en direct au Japon a progressé de 13,9% sur un an, pour atteindre environ 874,3 milliards de yens. Les chercheurs ont souligné la hausse des dépenses sur place en nourriture, boissons et produits dérivés comme un facteur clé de cette croissance."
       }
     }
+  },
+  {
+    "id": "smbc-japan-series-2026-title-sponsor",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-08-04T00:00:00Z",
+    "source_name": "NPB.jp",
+    "source_url": "https://npb.jp/news/detail/20260804_01.html",
+    "i18n": {
+      "en": {
+        "title": "SMBC Named Title Sponsor of 2026 Japan Series for 13th Straight Year",
+        "summary": "Nippon Professional Baseball confirmed Sumitomo Mitsui Banking Corporation as the special sponsor of the Japan Series for a 13th consecutive year, with the event branded the \"SMBC Japan Series 2026.\" The best-of-seven finale opens October 24, with Game 7, if needed, scheduled for November 1."
+      },
+      "ja": {
+        "title": "SMBC、2026年日本シリーズの特別協賛に13年連続で決定",
+        "summary": "日本野球機構は、三井住友銀行(SMBC)を13年連続で日本シリーズの特別協賛社とし、大会名称を「SMBC日本シリーズ2026」とすることを発表した。7戦制の頂点決戦は10月24日に開幕し、第7戦が必要な場合は11月1日に予定されている。"
+      },
+      "es": {
+        "title": "SMBC, patrocinador titular de la Japan Series 2026 por 13º año consecutivo",
+        "summary": "La Liga Profesional de Béisbol de Japón confirmó a Sumitomo Mitsui Banking Corporation como patrocinador especial de la Japan Series por decimotercer año consecutivo, con el evento llamado \"SMBC Japan Series 2026\". La final al mejor de siete comienza el 24 de octubre, con un posible séptimo partido el 1 de noviembre."
+      },
+      "zh": {
+        "title": "SMBC连续第13年成为2026年日本总冠军系列赛冠名赞助商",
+        "summary": "日本职业棒球组织确认三井住友银行(SMBC)将连续第13年担任日本总冠军系列赛的特别赞助商，赛事名称定为“SMBC日本系列赛2026”。七场四胜制的总决赛将于10月24日开打，若需打满七场则第七场安排在11月1日。"
+      },
+      "fr": {
+        "title": "SMBC sponsor-titre de la Japan Series 2026 pour la 13e année consécutive",
+        "summary": "La ligue japonaise de baseball professionnel a confirmé que Sumitomo Mitsui Banking Corporation sera le sponsor spécial de la Japan Series pour la 13e année de suite, l'événement étant baptisé \"SMBC Japan Series 2026\". La finale au meilleur des sept matches débute le 24 octobre, avec un septième match possible le 1er novembre."
+      }
+    }
+  },
+  {
+    "id": "jleague-acl-club-funding-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-07-28T00:00:00Z",
+    "source_name": "J.League",
+    "source_url": "https://www.jleague.jp/news/article/34513/",
+    "i18n": {
+      "en": {
+        "title": "J.League Sharply Increases Financial Support for Clubs in AFC Champions League",
+        "summary": "J.League and the Japan Football Association announced a funding package for 2026-27 AFC Champions League entrants worth about 550 million yen, up from roughly 50 million yen the previous season. Clubs in the Elite tier receive 100 million yen each, Two-tier clubs 50 million yen, plus travel and matchday promotion subsidies."
+      },
+      "ja": {
+        "title": "Jリーグ、ACL出場クラブへの支援を大幅拡充",
+        "summary": "Jリーグと日本サッカー協会は、2026/27シーズンのAFCチャンピオンズリーグ出場クラブへの支援策として、前シーズンの約5000万円から総額約5.5億円へ拡充すると発表した。Eliteの出場クラブには1クラブ1億円、Twoには5000万円を配分し、渡航費や集客促進費も補助する。"
+      },
+      "es": {
+        "title": "La J.League aumenta notablemente el apoyo financiero a sus clubes en la Champions League asiática",
+        "summary": "La J.League y la Federación de Fútbol de Japón anunciaron un paquete de apoyo para los clubes que disputan la AFC Champions League 2026-27 por un total de unos 550 millones de yenes, frente a los 50 millones de la temporada anterior. Los clubes de la categoría Elite recibirán 100 millones de yenes cada uno y los de la categoría Two, 50 millones, además de subsidios de viaje y promoción."
+      },
+      "zh": {
+        "title": "J联赛大幅提高对参加亚冠联赛俱乐部的资金支持",
+        "summary": "J联赛与日本足球协会宣布，将为参加2026/27赛季亚足联冠军联赛的俱乐部提供约5.5亿日元的支持资金，较上赛季约5000万日元大幅增加。精英级俱乐部每队可获1亿日元，二级俱乐部可获5000万日元，另有旅行及主场宣传补贴。"
+      },
+      "fr": {
+        "title": "La J.League augmente fortement son soutien financier aux clubs engagés en Ligue des champions d'Asie",
+        "summary": "La J.League et la Fédération japonaise de football ont annoncé une enveloppe de soutien pour les clubs participants à l'AFC Champions League 2026-27 d'environ 550 millions de yens, contre environ 50 millions la saison précédente. Les clubs de la division Elite reçoivent 100 millions de yens chacun, ceux de la division Two 50 millions, avec en plus des subventions de déplacement et de promotion des matches à domicile."
+      }
+    }
+  },
+  {
+    "id": "como-revolut-front-of-shirt-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-08-18T00:00:00Z",
+    "source_name": "Inside World Football",
+    "source_url": "https://www.insideworldfootball.com/2026/08/18/uber-moves-to-back-of-como-shirt-with-four-year-extension/",
+    "i18n": {
+      "en": {
+        "title": "Como 1907 Upgrades Revolut to Front-of-Shirt Sponsor for Champions League Debut",
+        "summary": "Serie A club Como 1907 promoted fintech firm Revolut from a banking-and-FX partnership to front-of-shirt sponsor for the 2026-27 season, as the club plays in the UEFA Champions League for the first time. Uber, previously on the shirt front, shifted to a sleeve placement under a separate four-year mobility-partner extension."
+      },
+      "ja": {
+        "title": "コモ1907、CL初出場に合わせRevolutをユニフォーム胸スポンサーへ格上げ",
+        "summary": "セリエAのコモ1907は、銀行・外国為替パートナーだったフィンテック企業Revolutを2026-27シーズンからユニフォーム胸スポンサーに格上げした。クラブ史上初のUEFAチャンピオンズリーグ出場に合わせた措置で、これまで胸スポンサーだったUberは別途4年契約の移動パートナーとして袖スポンサーに移行する。"
+      },
+      "es": {
+        "title": "El Como 1907 asciende a Revolut a patrocinador principal de camiseta para su debut en Champions",
+        "summary": "El club de la Serie A Como 1907 ascendió a la empresa fintech Revolut, antes socia bancaria y de divisas, a patrocinador frontal de camiseta para la temporada 2026-27, coincidiendo con su primera participación en la Champions League. Uber, que antes figuraba en el frente, pasó a la manga mediante una extensión de cuatro años como socio de movilidad."
+      },
+      "zh": {
+        "title": "科莫1907将Revolut升级为球衣胸前赞助商，迎接欧冠首秀",
+        "summary": "意甲俱乐部科莫1907将金融科技公司Revolut从银行与外汇合作伙伴升级为2026-27赛季的球衣胸前赞助商，恰逢球队首次参加欧洲冠军联赛。此前位于胸前位置的Uber则转为袖标赞助商，并以另一份为期四年的出行合作伙伴协议延续合作。"
+      },
+      "fr": {
+        "title": "Como 1907 promeut Revolut au rang de sponsor principal de maillot pour ses débuts en Ligue des champions",
+        "summary": "Le club de Serie A Como 1907 a promu la fintech Revolut, jusque-là partenaire bancaire et de change, au rang de sponsor principal du maillot pour la saison 2026-27, alors que le club dispute pour la première fois la Ligue des champions. Uber, auparavant en position frontale, passe à la manche via une extension distincte de quatre ans en tant que partenaire mobilité."
+      }
+    }
+  },
+  {
+    "id": "cmc-markets-everton-main-partner-2026-27",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-07-01T00:00:00Z",
+    "source_name": "CMC Markets",
+    "source_url": "https://www.cmcmarkets.com/group/press-releases/cmc-markets-announces-multi-year-main-club-partnership-with-everton-fc",
+    "i18n": {
+      "en": {
+        "title": "Everton Names CMC Markets as Front-of-Shirt Main Partner for 2026-27",
+        "summary": "Everton confirmed trading platform CMC Markets as its new Main Partner under a multi-year deal covering front-of-shirt rights on the men's, women's and under-21 kits from 2026-27. Previous shirt sponsor Stake moved to a sleeve-patch role as a ban on front-of-shirt gambling sponsorship in English football took effect."
+      },
+      "ja": {
+        "title": "エバートン、2026-27シーズンの胸スポンサーにCMCマーケッツ",
+        "summary": "エバートンは、取引プラットフォームのCMCマーケッツと複数年契約を結び、2026-27シーズンからトップチーム・女子・U-21チームのユニフォーム胸部での権利を含む新たなメインパートナーとすると発表した。これまで胸スポンサーだったStakeは、イングランドサッカー界でのギャンブル企業の胸スポンサー禁止に伴い、袖スポンサーへ移行する。"
+      },
+      "es": {
+        "title": "El Everton nombra a CMC Markets patrocinador principal de camiseta para 2026-27",
+        "summary": "El Everton confirmó a la plataforma de trading CMC Markets como su nuevo Socio Principal mediante un acuerdo plurianual que cubre los derechos frontales de la camiseta del primer equipo masculino, femenino y sub-21 desde 2026-27. El anterior patrocinador, Stake, pasó a la manga tras entrar en vigor la prohibición de patrocinadores de apuestas en el frente de las camisetas del fútbol inglés."
+      },
+      "zh": {
+        "title": "埃弗顿宣布CMC Markets为2026-27赛季球衣胸前主赞助商",
+        "summary": "埃弗顿确认交易平台CMC Markets将通过一项多年协议成为新的主赞助商，自2026-27赛季起拥有男足、女足及U21球队球衣胸前的冠名权。此前的胸前赞助商Stake则因英格兰足球禁止博彩公司出现在球衣胸前位置的新规而转为袖标赞助商。"
+      },
+      "fr": {
+        "title": "Everton nomme CMC Markets sponsor principal du maillot pour 2026-27",
+        "summary": "Everton a confirmé la plateforme de trading CMC Markets comme nouveau partenaire principal via un accord pluriannuel couvrant les droits frontaux du maillot des équipes masculine, féminine et des moins de 21 ans à partir de 2026-27. L'ancien sponsor Stake est passé à la manche après l'entrée en vigueur de l'interdiction des sponsors de paris en position frontale dans le football anglais."
+      }
+    }
+  },
+  {
+    "id": "galatasaray-sponsorship-revenue-target-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-02-10T00:00:00Z",
+    "source_name": "Haberturk",
+    "source_url": "https://www.haberturk.com/galatasaray-baskani-dursun-ozbek-acikladi-sponsorluk-gelirinde-hedef-100-milyon-euro-3859924-spor",
+    "i18n": {
+      "en": {
+        "title": "Galatasaray President Sets Target of Topping €100 Million in Sponsorship Income",
+        "summary": "Galatasaray president Dursun Ozbek said at the Brand & Sports Summit that the club's sponsorship income this season sits at roughly 85-90 million euros and that the goal is to push it above 100 million euros. He noted broadcast revenue covers only about 11-12 million euros of the club's roughly 400-million-euro budget, making commercial growth essential."
+      },
+      "ja": {
+        "title": "ガラタサライ会長、スポンサー収入1億ユーロ超えを目標に掲げる",
+        "summary": "ガラタサライのドゥルスン・オズベック会長は「ブランド＆スポーツサミット」で、クラブの今季スポンサー収入が約8500万〜9000万ユーロに達しており、これを1億ユーロ超へ引き上げる目標を明らかにした。放映権収入はクラブの総予算約4億ユーロのうち1100万〜1200万ユーロ程度に過ぎず、商業収入の拡大が不可欠だと述べた。"
+      },
+      "es": {
+        "title": "El presidente del Galatasaray fija el objetivo de superar los 100 millones de euros en ingresos por patrocinio",
+        "summary": "El presidente del Galatasaray, Dursun Ozbek, afirmó en la Brand & Sports Summit que los ingresos del club por patrocinio esta temporada rondan los 85-90 millones de euros y que el objetivo es superar los 100 millones. Señaló que los derechos televisivos solo aportan unos 11-12 millones de euros de un presupuesto total de aproximadamente 400 millones, lo que hace esencial el crecimiento comercial."
+      },
+      "zh": {
+        "title": "加拉塔萨雷主席设定赞助收入突破1亿欧元的目标",
+        "summary": "加拉塔萨雷主席杜尔逊·厄兹贝克在“品牌与体育峰会”上表示，俱乐部本赛季赞助收入约为8500万至9000万欧元，目标是将其提升至1亿欧元以上。他指出，转播收入仅占俱乐部约4亿欧元总预算中的1100万至1200万欧元，因此商业收入增长至关重要。"
+      },
+      "fr": {
+        "title": "Le président du Galatasaray fixe l'objectif de dépasser les 100 millions d'euros de revenus de sponsoring",
+        "summary": "Le président du Galatasaray, Dursun Ozbek, a déclaré lors du Brand & Sports Summit que les revenus de sponsoring du club cette saison se situent entre 85 et 90 millions d'euros et que l'objectif est de dépasser les 100 millions. Il a précisé que les droits TV ne représentent qu'environ 11 à 12 millions d'euros sur un budget total d'environ 400 millions, rendant la croissance commerciale indispensable."
+      }
+    }
+  },
+  {
+    "id": "netapp-nfl-madrid-london-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-07-08T00:00:00Z",
+    "source_name": "NFL",
+    "source_url": "https://www.netapp.com/newsroom/press-releases/news-rel-20260708-395330/",
+    "i18n": {
+      "en": {
+        "title": "NetApp Returns as Presenting Partner of 2026 NFL Madrid and London Games",
+        "summary": "The NFL and global partner NetApp announced a multi-year extension naming the data-infrastructure company Presenting Partner of the 2026 NFL Madrid Game, when the Falcons face the Bengals at the Bernabeu on November 8. NetApp also presents three 2026 London games, building on its role at the inaugural Madrid game in 2025."
+      },
+      "ja": {
+        "title": "NetApp、2026年NFLマドリード・ロンドン開催ゲームのプレゼンティングパートナーに復帰",
+        "summary": "NFLとグローバルパートナーのNetAppは複数年の契約延長を発表し、データインフラ企業である同社が11月8日にベルナベウで行われるファルコンズ対ベンガルズの2026年NFLマドリードゲームのプレゼンティングパートナーとなる。NetAppは2026年のロンドン開催3試合でも同役割を務め、2025年の第1回マドリードゲームでの実績を引き継ぐ。"
+      },
+      "es": {
+        "title": "NetApp vuelve como socio presentador de los partidos de la NFL en Madrid y Londres en 2026",
+        "summary": "La NFL y su socio global NetApp anunciaron una extensión plurianual que nombra a la empresa de infraestructura de datos como Socio Presentador del Partido de Madrid de la NFL 2026, cuando los Falcons se enfrenten a los Bengals en el Bernabéu el 8 de noviembre. NetApp también presenta tres partidos de Londres en 2026, tras su papel en el partido inaugural de Madrid en 2025."
+      },
+      "zh": {
+        "title": "NetApp再度成为2026年NFL马德里及伦敦比赛的呈现合作伙伴",
+        "summary": "NFL与其全球合作伙伴NetApp宣布达成多年续约，这家数据基础设施公司将成为2026年NFL马德里比赛（猎鹰对阵孟加拉虎，11月8日于伯纳乌球场举行）的呈现合作伙伴。NetApp还将呈现2026年三场伦敦比赛，延续其在2025年首场马德里比赛中的角色。"
+      },
+      "fr": {
+        "title": "NetApp redevient partenaire présentateur des matches NFL de Madrid et Londres en 2026",
+        "summary": "La NFL et son partenaire mondial NetApp ont annoncé une extension pluriannuelle désignant l'entreprise d'infrastructure de données comme partenaire présentateur du match NFL de Madrid 2026, où les Falcons affronteront les Bengals au Bernabéu le 8 novembre. NetApp présente également trois matches à Londres en 2026, poursuivant son rôle lors du premier match de Madrid en 2025."
+      }
+    }
+  },
+  {
+    "id": "toyota-gazoo-racing-haas-f1-title-sponsor-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2025-12-04T00:00:00Z",
+    "source_name": "Associated Press",
+    "source_url": "https://www.news4jax.com/sports/2025/12/04/toyota-moves-further-into-partnership-for-2026-with-haas-formula-1-team/",
+    "i18n": {
+      "en": {
+        "title": "Toyota Gazoo Racing Becomes Haas F1 Title Sponsor, Team Renamed for 2026",
+        "summary": "Haas F1 announced Toyota Gazoo Racing as its new title sponsor starting in 2026, replacing MoneyGram and renaming the outfit the TGR Haas F1 Team. The deal deepens a technical partnership the companies began in 2024 and also extends to Haas's junior driver development programme."
+      },
+      "ja": {
+        "title": "トヨタ・ガズー・レーシングがハースF1のタイトルスポンサーに、2026年からチーム名変更",
+        "summary": "ハースF1は、2026年からトヨタ・ガズー・レーシング(TGR)を新たなタイトルスポンサーとし、これまでのMoneyGramに代わってチーム名を「TGR ハースF1チーム」に変更すると発表した。この契約は2024年に始まった両社の技術提携を深化させるもので、ハースのジュニアドライバー育成プログラムにも対象を広げる。"
+      },
+      "es": {
+        "title": "Toyota Gazoo Racing se convierte en patrocinador titular de Haas F1, equipo cambia de nombre para 2026",
+        "summary": "El equipo Haas F1 anunció a Toyota Gazoo Racing como su nuevo patrocinador titular a partir de 2026, sustituyendo a MoneyGram y renombrando la escudería como TGR Haas F1 Team. El acuerdo profundiza la alianza técnica que ambas empresas iniciaron en 2024 y se extiende también al programa de desarrollo de pilotos junior de Haas."
+      },
+      "zh": {
+        "title": "丰田GAZOO Racing成为哈斯F1车队冠名赞助商，2026年起车队更名",
+        "summary": "哈斯F1车队宣布，自2026年起丰田GAZOO Racing(TGR)将取代MoneyGram成为新的冠名赞助商，车队更名为TGR哈斯F1车队。该协议深化了两家公司自2024年开始的技术合作，并将延伸至哈斯的青年车手培养计划。"
+      },
+      "fr": {
+        "title": "Toyota Gazoo Racing devient sponsor-titre de Haas F1, l'écurie renommée pour 2026",
+        "summary": "L'écurie Haas F1 a annoncé Toyota Gazoo Racing comme nouveau sponsor-titre à partir de 2026, remplaçant MoneyGram et rebaptisant l'écurie TGR Haas F1 Team. L'accord approfondit un partenariat technique entamé par les deux entreprises en 2024 et s'étend également au programme de développement des jeunes pilotes de Haas."
+      }
+    }
   }
 ]
