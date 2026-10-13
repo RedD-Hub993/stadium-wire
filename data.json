@@ -6725,5 +6725,205 @@
         "summary": "Riot Games a annoncé qu'elle distribuera plus de 100 millions de dollars aux équipes partenaires du VALORANT Champions Tour (VCT) en 2026, la majeure partie de ce financement provenant de la vente d'objets et de skins dans le jeu plutôt que de revenus de sponsoring traditionnels. Ce chiffre souligne une dépendance croissante à la monétisation intrajeu comme modèle de viabilité financière pour les franchises d'équipes esports."
       }
     }
+  },
+  {
+    "id": "corinthians-shopee-shirt-sponsor-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-10-13T00:00:00Z",
+    "source_name": "Inside World Football",
+    "source_url": "https://insideworldfootball.com/2026/10/13/corinthians-sign-up-with-shopee-as-principal-shirt-sponsor",
+    "i18n": {
+      "en": {
+        "title": "Corinthians Name Shopee as New Principal Shirt Sponsor",
+        "summary": "Brazilian club Corinthians have agreed to feature e-commerce platform Shopee on the front of their shirt for the remainder of the Brasileirao season. The switch comes after previous sponsor Esportes da Sorte was barred from advertising under Brazil's tightened betting-advertising rules. Financial terms of the agreement were not disclosed."
+      },
+      "ja": {
+        "title": "コリンチャンス、新たなシャツ胸スポンサーにShopeeを選定",
+        "summary": "ブラジルの名門クラブ、コリンチャンスはブラジレイロン(ブラジル選手権)の残り試合でシャツ胸部にEコマース企業Shopeeのロゴを掲出することで合意した。この変更は、ブラジルで強化された賭博広告規制により前スポンサーのEsportes da Sorteが広告を出せなくなったことを受けたもの。契約の金額などの詳細は公表されていない。"
+      },
+      "es": {
+        "title": "Corinthians nombra a Shopee como su nuevo patrocinador principal de camiseta",
+        "summary": "El club brasileno Corinthians acordo colocar el logotipo de la plataforma de comercio electronico Shopee en el frente de su camiseta para el resto de la temporada del Brasileirao. El cambio llega despues de que el patrocinador anterior, Esportes da Sorte, quedara impedido de publicitar bajo las nuevas normas de publicidad de apuestas en Brasil. No se revelaron los terminos financieros del acuerdo."
+      },
+      "zh": {
+        "title": "科林蒂安宣布Shopee成为新的球衣胸前主赞助商",
+        "summary": "巴西劲旅科林蒂安宣布,将在本赛季巴西甲级联赛剩余赛程中,把电商平台Shopee的标志印在球衣胸前位置。此次更换是因为此前赞助商Esportes da Sorte在巴西收紧博彩广告新规后无法再继续投放广告。该协议的具体金额未予披露。"
+      },
+      "fr": {
+        "title": "Le Corinthians devoile Shopee comme nouveau sponsor principal de maillot",
+        "summary": "Le club bresilien Corinthians a convenu d'arborer le logo de la plateforme de commerce electronique Shopee a l'avant de son maillot pour le reste de la saison du Brasileirao. Ce changement survient apres que l'ancien sponsor, Esportes da Sorte, ait ete interdit de publicite en vertu des nouvelles regles bresiliennes encadrant la publicite des paris sportifs. Les details financiers de l'accord n'ont pas ete communiques."
+      }
+    }
+  },
+  {
+    "id": "nba-smart-ball-technology-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "tech"
+    ],
+    "published_at": "2026-10-11T00:00:00Z",
+    "source_name": "CNBC",
+    "source_url": "https://www.cnbc.com/2026/10/11/commissioner-adam-silver-nba-could-launch-smart-ball-tech-next-year.html",
+    "i18n": {
+      "en": {
+        "title": "NBA Commissioner Adam Silver Says Sensor-Equipped 'Smart Ball' Could Debut Next Year",
+        "summary": "NBA commissioner Adam Silver said the league is developing a basketball embedded with a Bluetooth sensor, built with manufacturer Wilson, that could track metrics like spin and in-game movement. Silver indicated the technology could be introduced in games as early as 2027, though talks with the players' union over related wearable devices have not yet produced an agreement."
+      },
+      "ja": {
+        "title": "NBAシルバーコミッショナー、センサー内蔵「スマートボール」を来シーズン導入の可能性に言及",
+        "summary": "NBAのアダム・シルバーコミッショナーは、用具メーカーのウィルソンと共同で、Bluetoothセンサーを内蔵したバスケットボールを開発中であると述べた。このボールはスピンや試合中の動きなどのデータを追跡できるという。シルバー氏は、早ければ2027年にも試合での導入が可能になり得るとしたが、関連するウェアラブル機器については選手会との協議がまだ合意に至っていない。"
+      },
+      "es": {
+        "title": "El comisionado de la NBA, Adam Silver, dice que el \"balon inteligente\" con sensor podria debutar el proximo ano",
+        "summary": "El comisionado de la NBA, Adam Silver, afirmo que la liga esta desarrollando un balon de baloncesto con un sensor Bluetooth integrado, fabricado junto con Wilson, capaz de registrar datos como el giro y el movimiento durante el partido. Silver senalo que la tecnologia podria introducirse en los partidos ya en 2027, aunque las conversaciones con el sindicato de jugadores sobre dispositivos portatiles relacionados aun no han llegado a un acuerdo."
+      },
+      "zh": {
+        "title": "NBA总裁亚当·肖华称内置传感器的“智能篮球”或将于明年面世",
+        "summary": "NBA总裁亚当·肖华表示,联盟正与器材制造商威尔胜(Wilson)合作研发一款内置蓝牙传感器的篮球,可追踪旋转和比赛中的运动等数据。肖华表示,这项技术最快可能在2027年的比赛中投入使用,但联盟与球员工会就相关可穿戴设备的谈判尚未达成协议。"
+      },
+      "fr": {
+        "title": "Le commissaire de la NBA Adam Silver evoque un « ballon intelligent » dote de capteurs des l'an prochain",
+        "summary": "Le commissaire de la NBA, Adam Silver, a declare que la ligue developpe, en collaboration avec le fabricant Wilson, un ballon de basket equipe d'un capteur Bluetooth capable de suivre des donnees comme la rotation et les mouvements en match. Selon lui, cette technologie pourrait etre introduite des 2027, bien que les discussions avec le syndicat des joueurs sur les dispositifs portables associes n'aient pas encore abouti a un accord."
+      }
+    }
+  },
+  {
+    "id": "okc-thunder-levy-continental-coliseum-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-10-08T00:00:00Z",
+    "source_name": "KOKH FOX25 Oklahoma City",
+    "source_url": "https://okcfox.com/news/local/thunder-selects-food-hospitality-partner-for-new-continental-coliseum",
+    "i18n": {
+      "en": {
+        "title": "Thunder Name Levy Founding Food and Hospitality Partner for New Arena",
+        "summary": "The Oklahoma City Thunder selected concessions operator Levy as the founding food, beverage and hospitality partner for Continental Coliseum, the team's new downtown arena slated to open in 2028. Levy, which has run food service at the Thunder's current home, Paycom Center, since 2009, plans chef-driven menus from local restaurants and technology-enabled service across the new venue's 17 kitchens."
+      },
+      "ja": {
+        "title": "サンダー、新アリーナの飲食・ホスピタリティ創設パートナーにLevyを選定",
+        "summary": "NBAのオクラホマシティ・サンダーは、2028年開業予定の新本拠地「コンチネンタル・コロシアム」の飲食・ホスピタリティ創設パートナーに、ケータリング会社Levyを選定した。Levyは2009年からサンダーの現本拠地ペイコム・センターで飲食サービスを運営しており、新施設では地元レストランによる料理や17か所のキッチンでのテクノロジーを活用したサービスを計画している。"
+      },
+      "es": {
+        "title": "Los Thunder nombran a Levy socio fundador de alimentos y hospitalidad para su nueva arena",
+        "summary": "Los Oklahoma City Thunder de la NBA eligieron a la empresa de catering Levy como socio fundador de alimentos, bebidas y hospitalidad para Continental Coliseum, su nueva arena en el centro de la ciudad, cuya apertura esta prevista para 2028. Levy, que opera el servicio de alimentos en Paycom Center, la sede actual del equipo, desde 2009, planea menus elaborados por chefs de restaurantes locales y un servicio con tecnologia en las 17 cocinas del nuevo recinto."
+      },
+      "zh": {
+        "title": "雷霆队选定Levy为新球馆创始餐饮及接待合作伙伴",
+        "summary": "NBA俄克拉荷马城雷霆队选定餐饮运营商Levy,作为其计划于2028年开业的新主场“大陆体育馆”(Continental Coliseum)的创始餐饮、饮品及接待合作伙伴。Levy自2009年起便负责雷霆现主场佩科姆中心(Paycom Center)的餐饮服务,新馆将设17个厨房,提供由本地餐厅主厨打造的菜单及科技化服务体验。"
+      },
+      "fr": {
+        "title": "Les Thunder nomment Levy partenaire fondateur de restauration et d'accueil pour leur nouvelle salle",
+        "summary": "Les Thunder d'Oklahoma City, en NBA, ont choisi le traiteur Levy comme partenaire fondateur de restauration, de boissons et d'accueil pour Continental Coliseum, leur nouvelle salle au centre-ville dont l'ouverture est prevue en 2028. Levy, qui gere deja la restauration au Paycom Center, domicile actuel de l'equipe, depuis 2009, prevoit des menus concus par des chefs de restaurants locaux et un service high-tech reparti sur les 17 cuisines du nouveau site."
+      }
+    }
+  },
+  {
+    "id": "taisho-pharmaceutical-npb-awards-2026-sponsor",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-10-13T04:00:00Z",
+    "source_name": "PR TIMES (Taisho Pharmaceutical)",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000095.000180826.html",
+    "i18n": {
+      "en": {
+        "title": "Taisho Pharmaceutical Extends Special Sponsorship of NPB Awards for 13th Straight Year",
+        "summary": "Taisho Pharmaceutical will again serve as special sponsor of Nippon Professional Baseball's annual awards ceremony, to be held November 25, 2026, under the official title \"NPB AWARDS 2026 supported by Lipovitan D.\" The sponsorship marks the company's 13th consecutive year backing the event, which honors the season's top performers across NPB's teams."
+      },
+      "ja": {
+        "title": "大正製薬、「NPB AWARDS 2026」特別協賛を13年連続で決定",
+        "summary": "大正製薬は、2026年11月25日に開催されるプロ野球(NPB)の年間表彰式について、13年連続で特別協賛することを発表した。公式名称は「NPB AWARDS 2026 supported by リポビタンD」で、シーズンを通じて活躍した選手たちを表彰する恒例行事となっている。"
+      },
+      "es": {
+        "title": "Taisho Pharmaceutical extiende su patrocinio especial de los NPB Awards por 13o ano consecutivo",
+        "summary": "Taisho Pharmaceutical volvera a ser patrocinador especial de la ceremonia anual de premios de la Liga Profesional de Beisbol de Japon (NPB), que se celebrara el 25 de noviembre de 2026 bajo el titulo oficial \"NPB AWARDS 2026 supported by Lipovitan D\". El patrocinio marca el 13o ano consecutivo en que la compania respalda este evento, que reconoce a los mejores jugadores de la temporada en los equipos de la NPB."
+      },
+      "zh": {
+        "title": "大正制药连续13年特别赞助“NPB年度颁奖典礼”",
+        "summary": "大正制药宣布将再次担任日本职业棒球(NPB)年度颁奖典礼的特别赞助商,该典礼将于2026年11月25日举行,官方名称为“NPB AWARDS 2026 supported by Lipovitan D”。这是该公司连续第13年赞助这一表彰NPB各球队赛季优秀选手的年度活动。"
+      },
+      "fr": {
+        "title": "Taisho Pharmaceutical prolonge son parrainage special des NPB Awards pour la 13e annee consecutive",
+        "summary": "Taisho Pharmaceutical sera de nouveau le sponsor special de la ceremonie annuelle de remise des prix de la Nippon Professional Baseball (NPB), prevue le 25 novembre 2026 sous le titre officiel « NPB AWARDS 2026 supported by Lipovitan D ». Ce parrainage marque la 13e annee consecutive ou l'entreprise soutient cet evenement, qui recompense les meilleurs joueurs de la saison dans les equipes de la NPB."
+      }
+    }
+  },
+  {
+    "id": "steer-fukushima-firebonds-top-partner-2026",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-04-10T00:00:00Z",
+    "source_name": "PR TIMES (steer Co., Ltd.)",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000013.000132168.html",
+    "i18n": {
+      "en": {
+        "title": "Steer Signs Five-Year Official Top Partner Deal With Fukushima Firebonds",
+        "summary": "Agency and media firm Steer Co., Ltd. has agreed to a five-year official top partner contract with B.League club Fukushima Firebonds, covering the 2026-27 through 2030-31 seasons. The multi-year commitment is timed to run alongside the club's stated goal of reaching the top of Japanese basketball by 2031, the 20th anniversary of the 2011 earthquake and tsunami that struck the Tohoku region."
+      },
+      "ja": {
+        "title": "steer、福島ファイヤーボンズと5年間のオフィシャルトップパートナー契約を締結",
+        "summary": "エージェント事業・メディア事業を展開するsteer株式会社は、Bリーグクラブの福島ファイヤーボンズと、2026-27シーズンから2030-31シーズンまでの5年間にわたるオフィシャルトップパートナー契約を結んだ。この複数年契約は、東日本大震災から20年となる2031年に「福島から日本一へ」を掲げるクラブの目標と歩みを共にする位置づけとなっている。"
+      },
+      "es": {
+        "title": "Steer firma un acuerdo de socio principal oficial de cinco anos con Fukushima Firebonds",
+        "summary": "La empresa de agencia y medios Steer Co., Ltd. acordo un contrato de socio principal oficial de cinco anos con el club de la B.League Fukushima Firebonds, que abarca las temporadas 2026-27 a 2030-31. Este compromiso plurianual coincide con el objetivo declarado del club de alcanzar la cima del baloncesto japones en 2031, el 20o aniversario del terremoto y tsunami que golpeo la region de Tohoku en 2011."
+      },
+      "zh": {
+        "title": "Steer与福岛火焰债券签订为期五年的官方首席合作伙伴协议",
+        "summary": "从事代理及媒体业务的Steer株式会社,与日本B联赛球队福岛火焰债券(Fukushima Firebonds)签订了一份为期五年的官方首席合作伙伴合同,覆盖2026-27赛季至2030-31赛季。这一多年合作期恰好呼应该俱乐部提出的目标——在2011年东日本大地震及海啸20周年的2031年实现“从福岛到日本第一”。"
+      },
+      "fr": {
+        "title": "Steer signe un contrat de partenaire principal officiel de cinq ans avec les Fukushima Firebonds",
+        "summary": "L'entreprise d'agence et de medias Steer Co., Ltd. a conclu un contrat de partenaire principal officiel de cinq ans avec le club de B.League Fukushima Firebonds, couvrant les saisons 2026-27 a 2030-31. Cet engagement pluriannuel coincide avec l'objectif affiche du club d'atteindre le sommet du basketball japonais en 2031, 20e anniversaire du seisme et du tsunami qui a frappe la region du Tohoku en 2011."
+      }
+    }
+  },
+  {
+    "id": "chiba-bank-port-arena-naming-rights-2026",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-10-01T00:00:00Z",
+    "source_name": "City of Chiba (official)",
+    "source_url": "https://www.city.chiba.jp/shimin/seikatsubunka/sports/portarena_namingrights.html",
+    "i18n": {
+      "en": {
+        "title": "Chiba Port Arena Renamed \"CHIBAGIN ARENA\" Under New Naming Rights Deal",
+        "summary": "The city of Chiba's Chiba Port Arena, a venue used by B.League basketball, began operating under the new name \"CHIBAGIN ARENA\" on October 1, 2026, after the city signed a four-year naming rights agreement with Chiba Bank. The deal, worth 25 million yen annually before tax, runs through September 2030 and includes provisions for joint promotional events with locally based sports teams."
+      },
+      "ja": {
+        "title": "千葉ポートアリーナ、命名権契約により「ちばぎんアリーナ」に改称",
+        "summary": "Bリーグの試合会場としても使われる千葉市の千葉ポートアリーナは、千葉銀行との4年間の命名権契約に基づき、2026年10月1日から「ちばぎんアリーナ」という愛称での運用を開始した。命名権料は年間2,500万円(税抜)で、契約期間は2030年9月までの4年間。市内に本拠を置くスポーツチームとの協力イベントなども提案に含まれている。"
+      },
+      "es": {
+        "title": "El Chiba Port Arena pasa a llamarse \"CHIBAGIN ARENA\" tras un nuevo acuerdo de naming rights",
+        "summary": "El Chiba Port Arena, un recinto municipal de la ciudad de Chiba utilizado para partidos de baloncesto de la B.League, comenzo a operar bajo el nuevo nombre \"CHIBAGIN ARENA\" el 1 de octubre de 2026, tras la firma de un acuerdo de naming rights de cuatro anos entre la ciudad y el Banco de Chiba. El contrato, valorado en 25 millones de yenes anuales antes de impuestos, se extiende hasta septiembre de 2030 e incluye disposiciones para eventos promocionales conjuntos con equipos deportivos locales."
+      },
+      "zh": {
+        "title": "千叶港体育馆因新冠名权协议更名为“CHIBAGIN ARENA”",
+        "summary": "千叶市所属的千叶港体育馆(B联赛篮球比赛场馆之一)自2026年10月1日起正式更名为“CHIBAGIN ARENA(千叶银行竞技场)”,此前该市与千叶银行签订了为期四年的冠名权协议。该协议税前年费为2500万日元,合同期至2030年9月,其中还包括与本地体育团队联合举办推广活动的相关条款。"
+      },
+      "fr": {
+        "title": "Le Chiba Port Arena rebaptise « CHIBAGIN ARENA » apres un nouvel accord de naming rights",
+        "summary": "Le Chiba Port Arena, une salle municipale de la ville de Chiba utilisee pour des matchs de basketball de B.League, a commence a fonctionner sous son nouveau nom, « CHIBAGIN ARENA », a compter du 1er octobre 2026, apres la signature par la ville d'un accord de naming rights de quatre ans avec la Banque de Chiba. L'accord, d'une valeur de 25 millions de yens par an avant impots, court jusqu'en septembre 2030 et prevoit des evenements promotionnels conjoints avec des equipes sportives locales."
+      }
+    }
   }
 ]
