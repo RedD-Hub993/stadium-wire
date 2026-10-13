@@ -6757,5 +6757,374 @@
         "summary": "La Nippon Professional Baseball (NPB) a désigné Sumitomo Mitsui Banking Corporation (SMBC) comme sponsor spécial de la série de championnat de cette année, officiellement baptisée « SMBC Nippon Series 2026 ». La série doit débuter le 24 octobre et pourrait se prolonger sur sept matchs, se terminant au plus tard le 1er novembre selon le calendrier. Dans le cadre de ce partenariat, SMBC a organisé une campagne liée à son compte Olive, offrant aux supporters la possibilité de participer comme enfants d'escorte et de gagner des billets en duo pour les matchs 1 et 3."
       }
     }
+  },
+  {
+    "id": "atairos-aston-villa-fresh-investment-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-07-16T00:00:00Z",
+    "source_name": "SportBusiness",
+    "source_url": "https://www.sportbusiness.com/news-in-brief/atairos-makes-fresh-investment-in-aston-villa/",
+    "i18n": {
+      "en": {
+        "title": "Atairos Increases Its Stake in Aston Villa",
+        "summary": "US investment firm Atairos has put additional capital into Premier League club Aston Villa, building on the minority position it first took in the club. The fresh injection adds to a wave of outside institutional money moving into English top-flight ownership structures."
+      },
+      "ja": {
+        "title": "アタイロスがアストン・ヴィラへの出資を追加",
+        "summary": "米投資会社アタイロスが、プレミアリーグのアストン・ヴィラに対して追加の資金を投じたことが明らかになった。同社は以前から同クラブに少数株主として関わっており、今回はその出資をさらに積み増す形となる。イングランド1部クラブへの機関投資家マネーの流入が続いている一例とされる。"
+      },
+      "es": {
+        "title": "Atairos amplía su inversión en el Aston Villa",
+        "summary": "La firma de inversión estadounidense Atairos ha aportado capital adicional al Aston Villa, club de la Premier League, ampliando la participación minoritaria que ya mantenía. La operación se suma a la ola de dinero institucional extranjero que sigue entrando en los clubes de la máxima categoría inglesa."
+      },
+      "zh": {
+        "title": "Atairos加码投资阿斯顿维拉",
+        "summary": "美国投资公司Atairos向英超球队阿斯顿维拉追加注资,进一步扩大其此前持有的少数股权。此举延续了外部机构资本持续流入英格兰顶级联赛俱乐部股权结构的趋势。"
+      },
+      "fr": {
+        "title": "Atairos renforce sa participation dans Aston Villa",
+        "summary": "La société d'investissement américaine Atairos a injecté des capitaux supplémentaires dans le club de Premier League Aston Villa, renforçant la participation minoritaire qu'elle détenait déjà. Cet apport s'inscrit dans la vague d'argent institutionnel étranger qui continue d'affluer vers les clubs du haut de l'échelon anglais."
+      }
+    }
+  },
+  {
+    "id": "friedkin-group-withdraws-everton-bid-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-07-16T00:00:00Z",
+    "source_name": "SportBusiness",
+    "source_url": "https://www.sportbusiness.com/news-in-brief/friedkin-group-pulls-out-of-deal-to-buy-everton/",
+    "i18n": {
+      "en": {
+        "title": "Friedkin Group Walks Away From Proposed Everton Takeover",
+        "summary": "The Friedkin Group, which also owns AS Roma, has abandoned talks to acquire a stake in Everton, ending a potential deal that had been under discussion. The move leaves Everton's ownership picture open again as the club continues to weigh its options for outside investment."
+      },
+      "ja": {
+        "title": "フリードキン・グループがエバートン買収交渉から撤退",
+        "summary": "ASローマの親会社でもあるフリードキン・グループが、エバートンの株式取得をめぐる交渉を打ち切ったことが明らかになった。これにより、同クラブの資本構成は再び不透明な状況に戻り、外部からの出資をめぐる選択肢の検討が続くことになる。"
+      },
+      "es": {
+        "title": "Friedkin Group abandona su intento de comprar el Everton",
+        "summary": "El Friedkin Group, propietario también de la AS Roma, ha puesto fin a las negociaciones para adquirir una participación en el Everton. Con la retirada, la propiedad del club vuelve a quedar en el aire mientras sigue evaluando otras vías de inversión externa."
+      },
+      "zh": {
+        "title": "弗里德金集团退出收购埃弗顿谈判",
+        "summary": "同时拥有罗马俱乐部的弗里德金集团已终止收购埃弗顿股权的谈判。此举使埃弗顿的股权归属再度悬而未决,俱乐部仍在考虑其他外部投资方案。"
+      },
+      "fr": {
+        "title": "Le Friedkin Group abandonne son projet de rachat d'Everton",
+        "summary": "Le Friedkin Group, également propriétaire de l'AS Roma, a mis fin aux discussions visant à acquérir une participation dans Everton. Ce retrait relance l'incertitude sur l'actionnariat du club, qui continue d'explorer d'autres pistes d'investissement extérieur."
+      }
+    }
+  },
+  {
+    "id": "everton-cmc-markets-main-partner-2026-27",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-07-20T00:00:00Z",
+    "source_name": "SportsMint Media",
+    "source_url": "https://sportsmintmedia.com/everton-announce-cmc-markets-as-main-partner-for-2026-27-season/",
+    "i18n": {
+      "en": {
+        "title": "Everton Names CMC Markets Main Shirt Partner for 2026-27",
+        "summary": "Everton has confirmed trading platform CMC Markets as its main shirt partner for the 2026-27 Premier League season, continuing the club's shift away from gambling sponsors toward financial-services brands. The deal is reported to help push the club's annual shirt-sponsorship income above £20 million."
+      },
+      "ja": {
+        "title": "エバートン、26-27シーズンのメインスポンサーにCMCマーケッツ",
+        "summary": "エバートンは、トレーディングプラットフォームのCMCマーケッツを2026-27シーズンのプレミアリーグにおけるメインスポンサーとすることを発表した。ギャンブル関連企業から金融サービス企業へとスポンサーの軸を移す流れを踏襲するもので、報道によれば年間のシャツ協賛収入は2000万ポンドを超える見込みとされている。"
+      },
+      "es": {
+        "title": "El Everton ficha a CMC Markets como patrocinador principal 2026-27",
+        "summary": "El Everton ha confirmado a la plataforma de trading CMC Markets como patrocinador principal de su camiseta para la temporada 2026-27 de la Premier League, en línea con la tendencia del club de alejarse de las apuestas en favor de marcas de servicios financieros. Se informa que el acuerdo situará los ingresos anuales por patrocinio de camiseta por encima de los 20 millones de libras."
+      },
+      "zh": {
+        "title": "埃弗顿官宣CMC Markets为2026-27赛季主赞助商",
+        "summary": "埃弗顿确认交易平台CMC Markets将成为其2026-27赛季英超球衣主赞助商,延续了俱乐部从博彩类赞助商转向金融服务品牌的趋势。据报道,该协议将使球队年度球衣赞助收入超过2000万英镑。"
+      },
+      "fr": {
+        "title": "Everton choisit CMC Markets comme sponsor maillot principal pour 2026-27",
+        "summary": "Everton a confirmé que la plateforme de trading CMC Markets sera son sponsor maillot principal pour la saison 2026-27 de Premier League, poursuivant le virage du club vers les marques de services financiers plutôt que les paris sportifs. Selon certaines informations, l'accord devrait porter les revenus annuels de sponsoring maillot au-delà de 20 millions de livres."
+      }
+    }
+  },
+  {
+    "id": "titletowntech-70m-fresh-investment-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-07-15T00:00:00Z",
+    "source_name": "SportBusiness",
+    "source_url": "https://www.sportbusiness.com/news-in-brief/titletowntech-secures-70m-in-fresh-investment/",
+    "i18n": {
+      "en": {
+        "title": "TitletownTech Raises $70 Million in New Funding",
+        "summary": "TitletownTech, the venture-capital arm linked to the Green Bay Packers and Microsoft, has secured $70 million in fresh investment to continue backing sports, media and technology startups. The round extends a model that pairs a major NFL franchise with corporate venture capital."
+      },
+      "ja": {
+        "title": "タイタウンテックが7000万ドルの新規出資を確保",
+        "summary": "グリーンベイ・パッカーズとマイクロソフトが関わるベンチャーキャピタル部門「タイタウンテック」が、スポーツ・メディア・テクノロジー分野のスタートアップへの投資を継続するため、新たに7000万ドルの出資を確保したことが明らかになった。NFLの主要球団と企業系ベンチャーキャピタルを組み合わせるモデルがさらに拡大する形となる。"
+      },
+      "es": {
+        "title": "TitletownTech obtiene 70 millones de dólares en nueva inversión",
+        "summary": "TitletownTech, el brazo de capital de riesgo vinculado a los Green Bay Packers y Microsoft, ha asegurado 70 millones de dólares en nueva inversión para seguir respaldando startups de deporte, medios y tecnología. La ronda amplía un modelo que combina a una franquicia de la NFL con capital de riesgo corporativo."
+      },
+      "zh": {
+        "title": "TitletownTech获得7000万美元新一轮融资",
+        "summary": "与绿湾包装工队及微软相关联的风险投资机构TitletownTech宣布获得7000万美元新投资,将继续用于支持体育、媒体和科技领域的初创企业。此轮融资延续了由NFL顶级球队与企业风投相结合的运作模式。"
+      },
+      "fr": {
+        "title": "TitletownTech lève 70 millions de dollars",
+        "summary": "TitletownTech, la branche de capital-risque liée aux Green Bay Packers et à Microsoft, a obtenu 70 millions de dollars d'investissement supplémentaire pour continuer à soutenir des start-ups dans le sport, les médias et la technologie. Ce tour de table prolonge un modèle associant une grande franchise NFL à du capital-risque d'entreprise."
+      }
+    }
+  },
+  {
+    "id": "como-revolut-shirt-sponsor-2026-27",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-07-28T00:00:00Z",
+    "source_name": "Calcio e Finanza",
+    "source_url": "https://www.calcioefinanza.it/?p=114986",
+    "i18n": {
+      "en": {
+        "title": "Como Adds Revolut as Front-of-Shirt Sponsor",
+        "summary": "Serie A side Como has agreed a deal placing fintech firm Revolut on the front of its shirt for domestic league and Champions League matches this season. The tie-up is part of a broader push by European clubs to replace gambling sponsors with financial-technology brands."
+      },
+      "ja": {
+        "title": "コモ、レヴォルトとメインスポンサー契約を締結",
+        "summary": "セリエA所属のコモが、今シーズンのリーグ戦およびチャンピオンズリーグの試合でフィンテック企業レヴォルトをユニフォームの胸部に掲出する契約を結んだことが分かった。欧州クラブの間で広がる、ギャンブル関連企業から金融テクノロジー企業へスポンサーを切り替える動きの一環とされている。"
+      },
+      "es": {
+        "title": "El Como incorpora a Revolut como patrocinador principal",
+        "summary": "El Como, de la Serie A, ha cerrado un acuerdo para llevar el logo de la fintech Revolut en la parte frontal de su camiseta en los partidos de liga y de Champions League esta temporada. La operación forma parte de la tendencia de clubes europeos a sustituir a los patrocinadores de apuestas por marcas de tecnología financiera."
+      },
+      "zh": {
+        "title": "科莫俱乐部签下Revolut作为球衣胸前赞助商",
+        "summary": "意甲球队科莫已达成协议,本赛季联赛及欧冠比赛中将在球衣正面展示金融科技公司Revolut的标志。此举是欧洲俱乐部用金融科技品牌取代博彩类赞助商这一更广泛趋势的一部分。"
+      },
+      "fr": {
+        "title": "Como s'associe à Revolut comme sponsor maillot",
+        "summary": "Le club italien de Como, en Serie A, a conclu un accord plaçant la fintech Revolut sur l'avant de son maillot pour les matches de championnat et de Ligue des champions cette saison. Ce partenariat s'inscrit dans la tendance des clubs européens à remplacer les sponsors de paris sportifs par des marques technologiques et financières."
+      }
+    }
+  },
+  {
+    "id": "galatasaray-sponsorship-revenue-target-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-08-01T00:00:00Z",
+    "source_name": "Haber.aero",
+    "source_url": "https://haber.aero/en/lemur/Galatasaray-has-stepped-up-its-sponsorship-efforts--aiming-for-over-100-million-euros./",
+    "i18n": {
+      "en": {
+        "title": "Galatasaray Targets Over €100 Million in Annual Sponsorship",
+        "summary": "Galatasaray's president said the Turkish club generated between €85 million and €90 million in sponsorship revenue during the 2025-26 season and is now pushing to pass €100 million in the near term. The club has been stepping up commercial outreach as it looks to compete financially with Europe's bigger-revenue clubs."
+      },
+      "ja": {
+        "title": "ガラタサライ、年間スポンサー収入1億ユーロ超えを目標に",
+        "summary": "トルコの名門ガラタサライの会長は、2025-26シーズンのスポンサー収入が8500万〜9000万ユーロに達したことを明らかにし、近い将来1億ユーロを超えることを目指していると述べた。クラブは欧州の大規模クラブと財政面で競争するため、商業面での取り組みを強化している。"
+      },
+      "es": {
+        "title": "El Galatasaray aspira a superar los 100 millones de euros en patrocinios",
+        "summary": "El presidente del Galatasaray afirmó que el club turco generó entre 85 y 90 millones de euros en ingresos por patrocinio durante la temporada 2025-26 y que ahora busca superar los 100 millones a corto plazo. El club ha intensificado su actividad comercial con el objetivo de competir financieramente con los clubes europeos de mayores ingresos."
+      },
+      "zh": {
+        "title": "加拉塔萨雷力争年赞助收入突破一亿欧元",
+        "summary": "加拉塔萨雷主席表示,这家土耳其俱乐部在2025-26赛季的赞助收入达到8500万至9000万欧元,目前正努力在短期内突破一亿欧元大关。该俱乐部近期加大商业开发力度,力图在财务上与欧洲收入更高的球队竞争。"
+      },
+      "fr": {
+        "title": "Le Galatasaray vise plus de 100 millions d'euros de sponsoring annuel",
+        "summary": "Le président du Galatasaray a indiqué que le club turc avait généré entre 85 et 90 millions d'euros de revenus de sponsoring lors de la saison 2025-26 et vise désormais à dépasser les 100 millions à court terme. Le club a intensifié ses efforts commerciaux afin de rivaliser financièrement avec les clubs européens aux revenus plus élevés."
+      }
+    }
+  },
+  {
+    "id": "texas-tech-galaxy-stadium-naming-rights-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-07-17T00:00:00Z",
+    "source_name": "Athletic Business",
+    "source_url": "https://www.athleticbusiness.com/operations/marketing/article/15830370/texas-tech-inks-75m-naming-rights-deal-with",
+    "i18n": {
+      "en": {
+        "title": "Texas Tech Renames Football Stadium Galaxy Stadium in $75M Deal",
+        "summary": "Texas Tech has signed a reported 15-year, $75 million naming-rights agreement with digital-asset and AI infrastructure company Galaxy, renaming its football venue from Jones AT&T Stadium to Galaxy Stadium. The deal also makes Galaxy the athletic department's data-center and digital-assets partner and includes NIL opportunities for athletes, with the new name debuting for the 2026 season."
+      },
+      "ja": {
+        "title": "テキサス工科大、7500万ドルでスタジアム命名権契約「ギャラクシー・スタジアム」に",
+        "summary": "テキサス工科大学は、デジタル資産・AIインフラ企業ギャラクシーと、15年間で7500万ドルとされるスタジアム命名権契約を締結し、フットボール会場の名称を「ジョーンズAT&Tスタジアム」から「ギャラクシー・スタジアム」に変更した。契約にはデータセンターおよびデジタル資産分野での提携や、学生選手向けのNIL(氏名・肖像権)機会も含まれ、新名称は2026シーズンから使用される。"
+      },
+      "es": {
+        "title": "Texas Tech renombra su estadio como Galaxy Stadium en un acuerdo de 75 millones de dólares",
+        "summary": "Texas Tech ha firmado un acuerdo de derechos de denominación, reportado en 75 millones de dólares a 15 años, con la empresa de activos digitales e infraestructura de IA Galaxy, que cambia el nombre de su estadio de fútbol americano de Jones AT&T Stadium a Galaxy Stadium. El acuerdo también convierte a Galaxy en socio de centro de datos y activos digitales del departamento deportivo e incluye oportunidades de NIL para los deportistas, con el nuevo nombre debutando en la temporada 2026."
+      },
+      "zh": {
+        "title": "德州理工大学球场更名为\"Galaxy Stadium\",协议金额7500万美元",
+        "summary": "德州理工大学与数字资产及人工智能基础设施公司Galaxy签订据报为期15年、总额7500万美元的冠名权协议,将其橄榄球场从Jones AT&T Stadium更名为Galaxy Stadium。该协议还使Galaxy成为该校体育部的数据中心及数字资产合作伙伴,并为运动员提供NIL(姓名、形象、肖像权)机会,新名称将于2026赛季启用。"
+      },
+      "fr": {
+        "title": "Texas Tech rebaptise son stade Galaxy Stadium pour 75 millions de dollars",
+        "summary": "Texas Tech a signé un accord de droits de dénomination, évalué à 75 millions de dollars sur 15 ans, avec l'entreprise d'actifs numériques et d'infrastructures IA Galaxy, renommant son stade de football américain de Jones AT&T Stadium en Galaxy Stadium. L'accord fait aussi de Galaxy le partenaire data-center et actifs numériques du département sportif et prévoit des opportunités NIL pour les athlètes, le nouveau nom entrant en vigueur dès la saison 2026."
+      }
+    }
+  },
+  {
+    "id": "konoike-transport-kyoto-hannaryz-gold-partner-2026",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-04-06T00:00:00Z",
+    "source_name": "LogiToday",
+    "source_url": "https://www.logi-today.com/936894",
+    "i18n": {
+      "en": {
+        "title": "Logistics Firm Konoike Transport Becomes Kyoto Hannaryz Gold Partner",
+        "summary": "Osaka-based logistics company Konoike Transport has signed a gold partner agreement with B.League club Kyoto Hannaryz covering the 2025-26 and 2026-27 seasons. Konoike cited the club's community-growth approach and its use of sport for local revitalization as reasons for the deal, which comes as Hannaryz prepares for a possible move into the new top-tier B.League Premier division from 2027-28."
+      },
+      "ja": {
+        "title": "鴻池運輸、京都ハンナリーズとゴールドパートナー契約",
+        "summary": "大阪市の物流会社・鴻池運輸が、Bリーグ所属の京都ハンナリーズと2025-26シーズンおよび2026-27シーズンを対象としたゴールドパートナー契約を締結した。同社はクラブが地域とともに成長する姿勢やスポーツを通じた地域活性化への取り組みに共感したと説明しており、ハンナリーズは2027-28シーズンからの新リーグ最上位カテゴリー「B.LEAGUE PREMIER」への参入を目指している。"
+      },
+      "es": {
+        "title": "La logística Konoike Transport se convierte en patrocinador Gold de Kyoto Hannaryz",
+        "summary": "La empresa logística Konoike Transport, con sede en Osaka, ha firmado un acuerdo de patrocinio Gold con el club de la B.League Kyoto Hannaryz para las temporadas 2025-26 y 2026-27. Konoike citó el enfoque de crecimiento comunitario del club y su uso del deporte para la revitalización local como motivos del acuerdo, mientras Hannaryz se prepara para un posible ascenso a la futura división B.League Premier a partir de 2027-28."
+      },
+      "zh": {
+        "title": "物流企业鴻池运输成为京都Hannaryz金牌合作伙伴",
+        "summary": "总部位于大阪的物流公司鴻池运输与B联赛球队京都Hannaryz签订金牌合作伙伴协议,涵盖2025-26及2026-27两个赛季。该公司表示认同俱乐部与地方共同成长、以体育带动地区振兴的理念,而Hannaryz正为2027-28赛季起设立的新顶级联赛\"B.LEAGUE PREMIER\"做准备。"
+      },
+      "fr": {
+        "title": "Le logisticien Konoike Transport devient partenaire Gold des Kyoto Hannaryz",
+        "summary": "L'entreprise de logistique japonaise Konoike Transport, basée à Osaka, a signé un accord de partenariat Gold avec le club de B.League Kyoto Hannaryz pour les saisons 2025-26 et 2026-27. Konoike a justifié cet accord par l'approche de croissance communautaire du club et son usage du sport pour la revitalisation locale, alors que les Hannaryz se préparent à une possible montée vers la future division B.League Premier à partir de 2027-28."
+      }
+    }
+  },
+  {
+    "id": "oreilly-auto-parts-nascar-xfinity-title-sponsor-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2025-08-18T00:00:00Z",
+    "source_name": "NASCAR",
+    "source_url": "https://corporate.oreillyauto.com/?p=5136",
+    "i18n": {
+      "en": {
+        "title": "O'Reilly Auto Parts Becomes Title Sponsor of NASCAR's Second-Tier Series",
+        "summary": "NASCAR and O'Reilly Auto Parts announced a multiyear deal making the retailer the title sponsor of what was formerly the Xfinity Series, effective with the series' rebrand on January 1, 2026. It marks the series' fourth entitlement sponsor and follows an 11-year run under the Xfinity name, with the first race under the new branding airing on The CW Network."
+      },
+      "ja": {
+        "title": "オライリー・オートパーツ、NASCAR2部シリーズのタイトルスポンサーに",
+        "summary": "NASCARとオライリー・オートパーツは、従来「エクスフィニティ・シリーズ」として知られていたセカンドティアシリーズのタイトルスポンサーとなる複数年契約を発表した。2026年1月1日からのブランド変更に伴い発効し、エクスフィニティ名での11年間の協賛期間を経て4代目のタイトルスポンサーとなる。新名称での開幕戦はCWネットワークで放映される。"
+      },
+      "es": {
+        "title": "O'Reilly Auto Parts se convierte en patrocinador principal de la segunda categoría de NASCAR",
+        "summary": "NASCAR y O'Reilly Auto Parts anunciaron un acuerdo multianual por el que la cadena de autopartes pasa a ser el patrocinador principal de la serie anteriormente conocida como Xfinity Series, vigente desde el cambio de nombre el 1 de enero de 2026. Es el cuarto patrocinador principal en la historia de la serie, tras once años bajo el nombre Xfinity, y la primera carrera con la nueva marca se emitirá por The CW Network."
+      },
+      "zh": {
+        "title": "欧莱利汽配成为NASCAR二级系列赛冠名赞助商",
+        "summary": "NASCAR与欧莱利汽配宣布达成多年协议,由该零售商担任原\"Xfinity系列赛\"的冠名赞助商,新名称自2026年1月1日品牌更换起生效。这是该系列赛历史上第四位冠名赞助商,此前该系列赛以Xfinity之名运营长达11年,新赛事名称下的首场比赛将在The CW电视网播出。"
+      },
+      "fr": {
+        "title": "O'Reilly Auto Parts devient sponsor titre de la deuxième division NASCAR",
+        "summary": "NASCAR et O'Reilly Auto Parts ont annoncé un accord pluriannuel faisant du distributeur de pièces automobiles le sponsor titre de la série auparavant connue sous le nom de Xfinity Series, effectif dès le changement de marque au 1er janvier 2026. Il s'agit du quatrième sponsor titre de l'histoire de cette série, après onze ans sous le nom Xfinity, la première course sous la nouvelle appellation étant diffusée sur The CW Network."
+      }
+    }
+  },
+  {
+    "id": "tottenham-ineos-grenadier-lawsuit-settlement-2025",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2025-11-06T00:00:00Z",
+    "source_name": "SportBusiness",
+    "source_url": "https://www.sportbusiness.com/news/ineos-pays-up-to-settle-spurs-lawsuit-out-of-court/",
+    "i18n": {
+      "en": {
+        "title": "Tottenham and Ineos Settle Sponsorship Lawsuit Out of Court",
+        "summary": "Tottenham Hotspur and Ineos Automotive have reached an undisclosed out-of-court settlement ending the club's legal claim over alleged breaches of its five-year Ineos Grenadier sponsorship, originally worth a minimum of £17.5 million. Tottenham had alleged missed payments before Ineos sought to end the deal, while Ineos countersued over the club's reported sponsorship talks with a rival carmaker."
+      },
+      "ja": {
+        "title": "トッテナムとイネオス、スポンサー契約訴訟で和解",
+        "summary": "トッテナム・ホットスパーと自動車ブランド「イネオス・グレネイディア」を展開するイネオス・オートモーティブが、最低1750万ポンド規模だった5年間のスポンサー契約の違反を巡る訴訟について、非公開の条件で法廷外での和解に至った。トッテナムは支払いの未履行を主張していたが、イネオス側は契約解消を求め、ライバル自動車メーカーとの協議疑惑を理由に反訴していた。"
+      },
+      "es": {
+        "title": "Tottenham e Ineos llegan a un acuerdo extrajudicial por el litigio de patrocinio",
+        "summary": "El Tottenham Hotspur e Ineos Automotive han alcanzado un acuerdo extrajudicial, de cuantía no revelada, que pone fin a la demanda del club por supuestos incumplimientos del patrocinio de cinco años con Ineos Grenadier, valorado originalmente en un mínimo de 17,5 millones de libras. El Tottenham alegaba pagos impagados antes de que Ineos buscara rescindir el acuerdo, mientras que Ineos presentó una contrademanda por supuestas negociaciones del club con otro fabricante de automóviles."
+      },
+      "zh": {
+        "title": "托特纳姆热刺与Ineos就赞助诉讼达成庭外和解",
+        "summary": "托特纳姆热刺与汽车品牌Ineos Grenadier的所属公司Ineos Automotive已就一项原值至少1750万英镑、为期五年的赞助合同违约诉讼达成金额未公开的庭外和解。此前热刺指控对方拖欠款项,而Ineos则在寻求终止合同的同时,就俱乐部据称与竞争对手车企接触赞助事宜提出反诉。"
+      },
+      "fr": {
+        "title": "Tottenham et Ineos règlent leur litige de sponsoring à l'amiable",
+        "summary": "Tottenham Hotspur et Ineos Automotive sont parvenus à un règlement extrajudiciaire, dont le montant n'a pas été divulgué, mettant fin à la plainte du club pour manquements présumés au contrat de sponsoring Ineos Grenadier d'une valeur minimale de 17,5 millions de livres sur cinq ans. Tottenham évoquait des paiements impayés avant qu'Ineos ne cherche à rompre l'accord, tandis qu'Ineos avait contre-attaqué en évoquant des discussions du club avec un constructeur automobile rival."
+      }
+    }
+  },
+  {
+    "id": "msg-cisco-multiyear-tech-partnership-2025",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "tech",
+      "stadium"
+    ],
+    "published_at": "2025-12-03T00:00:00Z",
+    "source_name": "Stadium Tech Report",
+    "source_url": "https://stadiumtechreport.com/news/madison-square-garden-cisco-sign-multi-year-tech-partnership-deal/",
+    "i18n": {
+      "en": {
+        "title": "Madison Square Garden Begins Multi-Year Tech Overhaul With Cisco",
+        "summary": "MSG Entertainment has named Cisco its official technology partner for a multi-year network overhaul at Madison Square Garden, covering AI-ready data-center switching, upgraded wireless infrastructure and centralized network management. The arena already runs Cisco networking gear, and the expansion is aimed at improving resilience, security and fan connectivity during events."
+      },
+      "ja": {
+        "title": "マディソン・スクエア・ガーデン、シスコとの複数年契約で技術基盤を刷新",
+        "summary": "MSGエンターテインメントは、マディソン・スクエア・ガーデンにおける複数年にわたるネットワーク刷新事業の公式テクノロジーパートナーにシスコを選定した。AI対応のデータセンター用スイッチや無線インフラの強化、ネットワーク管理の一元化が含まれる。会場は既にシスコ製の機器を導入しており、今回の拡張は耐障害性・セキュリティ・観客の通信環境の向上を目的としている。"
+      },
+      "es": {
+        "title": "El Madison Square Garden inicia una renovación tecnológica plurianual con Cisco",
+        "summary": "MSG Entertainment ha nombrado a Cisco su socio tecnológico oficial para una renovación plurianual de red en el Madison Square Garden, que incluye conmutación de centro de datos preparada para IA, infraestructura inalámbrica mejorada y gestión centralizada de la red. El recinto ya utiliza equipos de red de Cisco, y la ampliación busca mejorar la resiliencia, la seguridad y la conectividad de los aficionados durante los eventos."
+      },
+      "zh": {
+        "title": "麦迪逊广场花园与思科达成多年期技术升级合作",
+        "summary": "MSG娱乐公司已指定思科为麦迪逊广场花园多年期网络升级项目的官方技术合作伙伴,内容涵盖支持人工智能的数据中心交换设备、无线基础设施升级以及网络集中化管理。该场馆此前已在使用思科网络设备,此次扩展旨在提升系统韧性、安全性以及观众在赛事期间的网络连接体验。"
+      },
+      "fr": {
+        "title": "Le Madison Square Garden lance une refonte technologique pluriannuelle avec Cisco",
+        "summary": "MSG Entertainment a désigné Cisco comme partenaire technologique officiel d'une refonte réseau pluriannuelle au Madison Square Garden, incluant des commutateurs de centre de données compatibles IA, une infrastructure sans fil améliorée et une gestion réseau centralisée. La salle utilise déjà des équipements réseau Cisco, et cette extension vise à renforcer la résilience, la sécurité et la connectivité des spectateurs pendant les événements."
+      }
+    }
   }
 ]
