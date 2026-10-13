@@ -6820,5 +6820,380 @@
         "summary": "Le club d'expansion de la NWSL Boston Legacy FC a présenté TJ Maxx comme son tout premier sponsor du devant du maillot avant sa saison inaugurale 2026. Le logo de l'enseigne basée dans le Massachusetts figurera sur les maillots domicile et extérieur lors des matchs de saison régulière et des séries éliminatoires. Les modalités financières de ce partenariat pluriannuel n'ont pas été divulguées."
       }
     }
+  },
+  {
+    "id": "fulham-clickhouse-shirt-sponsor-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-07-21T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/news/fulham-name-tech-company-clickhouse-as-new-shirt-sponsor/",
+    "i18n": {
+      "en": {
+        "title": "Fulham Names ClickHouse as New Front-of-Shirt Sponsor",
+        "summary": "Fulham has signed Silicon Valley database and AI firm ClickHouse as its principal partner and front-of-shirt sponsor in a multi-year deal unveiled on July 21. The agreement covers the men's home, away and third kits and replaces betting brand SBOTOP after Premier League clubs voted to stop accepting gambling-company shirt deals from the 2026-27 season. ClickHouse will also get branding at Craven Cottage and across Fulham's digital channels."
+      },
+      "ja": {
+        "title": "フラム、新ユニフォームスポンサーにClickHouseを発表",
+        "summary": "フラムは7月21日、シリコンバレーのデータベース・AI企業ClickHouseとの複数年契約を発表し、同社をプリンシパルパートナー兼ユニフォーム胸スポンサーに迎えた。契約はホーム・アウェー・サードキットすべてに適用され、プレミアリーグ各クラブが2026-27シーズンから賭博会社とのユニフォーム契約を禁止したことを受け、従来のSBOTOPから交代する。ClickHouseのロゴはクレイヴン・コテージ内やデジタルチャンネルにも展開される。"
+      },
+      "es": {
+        "title": "Fulham nombra a ClickHouse nuevo patrocinador principal de camiseta",
+        "summary": "El Fulham anunció el 21 de julio un acuerdo multianual con la firma de bases de datos e inteligencia artificial ClickHouse, que se convierte en socio principal y patrocinador frontal de la camiseta. El contrato cubre las camisetas de local, visitante y tercera equipación y sustituye a la casa de apuestas SBOTOP, tras la prohibición de los clubes de la Premier League de firmar con empresas de apuestas desde la temporada 2026-27. La marca también tendrá presencia en Craven Cottage y los canales digitales del club."
+      },
+      "zh": {
+        "title": "富勒姆宣布ClickHouse成为新球衣胸前赞助商",
+        "summary": "富勒姆于7月21日宣布与硅谷数据库及人工智能公司ClickHouse签订多年协议，后者将成为俱乐部的主要合作伙伴及球衣胸前赞助商，协议覆盖主场、客场及第三客场球衣。此次合作取代了博彩品牌SBOTOP，原因是英超球队已投票决定从2026-27赛季起不再接受博彩公司的球衣赞助。ClickHouse的品牌标识还将出现在克拉文农场球场及俱乐部的数字渠道中。"
+      },
+      "fr": {
+        "title": "Fulham dévoile ClickHouse comme nouveau sponsor maillot",
+        "summary": "Fulham a annoncé le 21 juillet un accord pluriannuel avec l'entreprise de bases de données et d'intelligence artificielle ClickHouse, qui devient partenaire principal et sponsor frontal du maillot. L'accord couvre les maillots domicile, extérieur et third, et remplace la marque de paris SBOTOP après le vote des clubs de Premier League pour interdire les contrats de maillot avec les sociétés de paris à partir de la saison 2026-27. La marque sera aussi visible à Craven Cottage et sur les canaux numériques du club."
+      }
+    }
+  },
+  {
+    "id": "everton-cmc-markets-shirt-sponsor-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-07-01T00:00:00Z",
+    "source_name": "SportBusiness",
+    "source_url": "https://tech.sportbusiness.com/news/everton-swaps-stake-com-for-cmc-markets/",
+    "i18n": {
+      "en": {
+        "title": "Everton Names CMC Markets as New Main Shirt Sponsor",
+        "summary": "Everton announced on July 1 a multi-year main-partnership deal with financial trading firm CMC Markets, which becomes the front-of-shirt sponsor for the men's, women's and under-21 teams from the 2026-27 season. The move comes as Premier League clubs replace betting-company shirt sponsors under a voluntary ban; former partner Stake will shift to a sleeve placement. CMC branding will also appear at Hill Dickinson Stadium, Goodison Park and the club's Finch Farm training ground."
+      },
+      "ja": {
+        "title": "エバートン、新メインスポンサーにCMCマーケッツを発表",
+        "summary": "エバートンは7月1日、金融トレーディング企業CMCマーケッツとの複数年メインパートナー契約を発表した。2026-27シーズンから男子・女子・U-21チームのユニフォーム胸スポンサーとなる。プレミアリーグ各クラブが賭博会社とのユニフォーム契約を自主的に禁止したことに伴う交代で、従来のStakeはスリーブ表示に移る。CMCのロゴはヒル・ディキンソン・スタジアムやグディソン・パーク、フィンチ・ファームの練習施設にも掲出される。"
+      },
+      "es": {
+        "title": "Everton nombra a CMC Markets nuevo patrocinador principal",
+        "summary": "El Everton anunció el 1 de julio un acuerdo de patrocinio principal multianual con la firma de trading financiero CMC Markets, que será el patrocinador frontal de la camiseta de los equipos masculino, femenino y sub-21 desde la temporada 2026-27. El cambio llega mientras los clubes de la Premier League sustituyen a los patrocinadores de apuestas bajo una prohibición voluntaria; el anterior socio, Stake, pasará a la manga. La marca CMC también aparecerá en el Hill Dickinson Stadium, Goodison Park y el centro de entrenamiento de Finch Farm."
+      },
+      "zh": {
+        "title": "埃弗顿宣布CMC Markets成为新主赞助商",
+        "summary": "埃弗顿于7月1日宣布与金融交易公司CMC Markets达成多年主赞助协议，自2026-27赛季起，CMC将成为男子、女子及U21球队的球衣胸前赞助商。此举是英超球队按自愿禁令替换博彩公司球衣赞助商的一部分，原赞助商Stake的标识将移至袖标位置。CMC的品牌还将出现在希尔·狄金森球场、古迪逊公园及芬奇农场训练基地。"
+      },
+      "fr": {
+        "title": "Everton annonce CMC Markets comme nouveau sponsor principal",
+        "summary": "Everton a annoncé le 1er juillet un accord de partenariat principal pluriannuel avec la société de trading financier CMC Markets, qui deviendra le sponsor frontal du maillot des équipes masculine, féminine et U21 à partir de la saison 2026-27. Ce changement intervient alors que les clubs de Premier League remplacent les sponsors de paris sportifs sous un bannissement volontaire; l'ancien partenaire Stake passera sur la manche. La marque CMC apparaîtra aussi au Hill Dickinson Stadium, à Goodison Park et au centre d'entraînement de Finch Farm."
+      }
+    }
+  },
+  {
+    "id": "bournemouth-chery-automotive-partner-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-07-10T00:00:00Z",
+    "source_name": "Inside World Football",
+    "source_url": "https://www.insideworldfootball.com/2026/07/10/chery-picks-cherries-to-promote-uk-expansion/",
+    "i18n": {
+      "en": {
+        "title": "AFC Bournemouth Signs Chery as Official Automotive Partner",
+        "summary": "AFC Bournemouth announced around July 10 a multi-season partnership with Chinese carmaker Chery, which becomes the club's Official Automotive Partner as part of its push to grow brand awareness in the UK. The Chery logo will feature on the front of the men's training kit, and the brand also becomes a partner of AFC Bournemouth Women. Financial terms were not disclosed."
+      },
+      "ja": {
+        "title": "ボーンマス、中国自動車大手チェリーと公式パートナー契約",
+        "summary": "AFCボーンマスは7月10日頃、中国の自動車メーカー・チェリーとの複数シーズンにわたるパートナーシップを発表し、同社をクラブの公式自動車パートナーに迎えた。チェリーは英国でのブランド認知拡大を狙っており、ロゴは男子トレーニングキットの前面に掲出されるほか、女子チームのパートナーにもなる。契約金額は非公開。"
+      },
+      "es": {
+        "title": "AFC Bournemouth firma con Chery como socio automotriz oficial",
+        "summary": "El AFC Bournemouth anunció alrededor del 10 de julio una asociación de varias temporadas con el fabricante chino de automóviles Chery, que se convierte en el Socio Automotriz Oficial del club como parte de su expansión de marca en el Reino Unido. El logotipo de Chery aparecerá en la parte frontal de la equipación de entrenamiento masculina, y la marca también será socia del equipo femenino. No se revelaron las condiciones económicas."
+      },
+      "zh": {
+        "title": "伯恩茅斯签约奇瑞汽车为官方汽车合作伙伴",
+        "summary": "伯恩茅斯足球俱乐部于7月10日前后宣布与中国汽车制造商奇瑞达成多赛季合作，奇瑞成为俱乐部官方汽车合作伙伴，意在提升其在英国市场的品牌知名度。奇瑞标识将出现在男队训练服正面，该品牌同时成为伯恩茅斯女足的合作伙伴。双方未披露合同金额。"
+      },
+      "fr": {
+        "title": "AFC Bournemouth signe avec Chery comme partenaire automobile officiel",
+        "summary": "L'AFC Bournemouth a annoncé vers le 10 juillet un partenariat de plusieurs saisons avec le constructeur automobile chinois Chery, qui devient le Partenaire Automobile Officiel du club dans le cadre de son développement de marque au Royaume-Uni. Le logo Chery apparaîtra sur l'avant de la tenue d'entraînement masculine, et la marque devient également partenaire de l'équipe féminine. Les conditions financières n'ont pas été divulguées."
+      }
+    }
+  },
+  {
+    "id": "leeds-united-etoro-trading-partner-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-08-28T00:00:00Z",
+    "source_name": "fintech.global",
+    "source_url": "https://fintech.global/?p=254260",
+    "i18n": {
+      "en": {
+        "title": "Leeds United Names eToro Official Trading Partner",
+        "summary": "Leeds United announced on August 28 a multi-year deal naming trading platform eToro as the club's Official Trading Partner from the 2026-27 season, covering both the men's and women's teams. The agreement gives eToro branding on pitchside LED boards, stadium screens and interview backdrops at Elland Road. It follows Leeds' earlier 2026-27 sleeve deal with messaging app KChat."
+      },
+      "ja": {
+        "title": "リーズ・ユナイテッド、公式トレーディングパートナーにeToroを発表",
+        "summary": "リーズ・ユナイテッドは8月28日、取引プラットフォームのeToroと複数年契約を結び、2026-27シーズンから男女チームの公式トレーディングパートナーに迎えると発表した。契約により、eToroのロゴはエランド・ロードのピッチサイドLEDボードやスタジアムスクリーン、インタビュー背景に掲出される。リーズは同シーズン向けにメッセージアプリKChatとのスリーブスポンサー契約も既に発表している。"
+      },
+      "es": {
+        "title": "Leeds United nombra a eToro socio oficial de trading",
+        "summary": "El Leeds United anunció el 28 de agosto un acuerdo multianual con la plataforma de inversión eToro, que se convierte en el Socio Oficial de Trading del club desde la temporada 2026-27, abarcando tanto al equipo masculino como al femenino. El acuerdo da a eToro presencia en las vallas LED del campo, las pantallas del estadio y los fondos de entrevistas en Elland Road. Llega después del acuerdo de manga del club con la aplicación de mensajería KChat para la misma temporada."
+      },
+      "zh": {
+        "title": "利兹联宣布eToro成为官方交易合作伙伴",
+        "summary": "利兹联于8月28日宣布与交易平台eToro达成多年协议，自2026-27赛季起，eToro将成为俱乐部男女球队的官方交易合作伙伴。协议使eToro的品牌出现在埃兰路球场的场边LED板、大屏幕及采访背景板上。此前利兹联已为同一赛季签下通讯应用KChat的袖标赞助协议。"
+      },
+      "fr": {
+        "title": "Leeds United annonce eToro comme partenaire de trading officiel",
+        "summary": "Leeds United a annoncé le 28 août un accord pluriannuel avec la plateforme de trading eToro, qui devient le Partenaire de Trading Officiel du club à partir de la saison 2026-27, couvrant les équipes masculine et féminine. L'accord donne à eToro une visibilité sur les panneaux LED de bord de terrain, les écrans du stade et les fonds d'interview à Elland Road. Il suit l'accord de manche conclu plus tôt par Leeds avec l'application de messagerie KChat pour la même saison."
+      }
+    }
+  },
+  {
+    "id": "dell-alienware-team-liquid-extension-2026",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-08-18T00:00:00Z",
+    "source_name": "Business Wire",
+    "source_url": "https://www.webull.com/news/15424821036401665",
+    "i18n": {
+      "en": {
+        "title": "Dell's Alienware and Team Liquid Extend Esports Partnership Through 2031",
+        "summary": "Dell Technologies confirmed on August 18 a five-year renewal of Alienware's sponsorship of esports organization Team Liquid, extending what both companies call the longest-running partnership in esports through 2031 with options to extend further. The deal marks 15 years of collaboration and widens into performance testing, product development and global content and community activations, building on training facilities the two already run in Los Angeles, Sao Paulo and Utrecht."
+      },
+      "ja": {
+        "title": "デル・エイリアンウェアとTeam Liquid、2031年までパートナーシップ延長",
+        "summary": "デル・テクノロジーズは8月18日、傘下ブランドのエイリアンウェアとeスポーツ団体Team Liquidとのスポンサー契約を5年延長し、両社が「eスポーツ最長のパートナーシップ」と呼ぶ関係を2031年まで継続すると発表した。契約は提携15周年を記念するもので、パフォーマンステストや製品開発、グローバルなコンテンツ・コミュニティ活動へと範囲を広げ、ロサンゼルス、サンパウロ、ユトレヒトの既存トレーニング施設を基盤とする。"
+      },
+      "es": {
+        "title": "Alienware de Dell y Team Liquid amplían su alianza hasta 2031",
+        "summary": "Dell Technologies confirmó el 18 de agosto una renovación de cinco años del patrocinio de Alienware a la organización de esports Team Liquid, extendiendo lo que ambas empresas llaman la alianza más longeva de los esports hasta 2031, con opciones de ampliarla más. El acuerdo marca 15 años de colaboración y se amplía a pruebas de rendimiento, desarrollo de productos y activaciones globales de contenido y comunidad, sobre la base de los centros de entrenamiento que ya operan en Los Ángeles, São Paulo y Utrecht."
+      },
+      "zh": {
+        "title": "戴尔Alienware与Team Liquid续约至2031年",
+        "summary": "戴尔科技于8月18日确认将Alienware品牌对电子竞技组织Team Liquid的赞助续约五年，把双方称为电竞界持续时间最长的合作关系延长至2031年，并附有进一步延长的选项。此次协议标志着双方合作15周年，合作范围扩大至性能测试、产品开发以及全球内容与社区活动，并依托双方在洛杉矶、圣保罗和乌得勒支已有的训练基地。"
+      },
+      "fr": {
+        "title": "Alienware de Dell et Team Liquid prolongent leur partenariat jusqu'en 2031",
+        "summary": "Dell Technologies a confirmé le 18 août une prolongation de cinq ans du parrainage d'Alienware pour l'organisation d'esport Team Liquid, étendant ce que les deux entreprises appellent le partenariat le plus durable de l'esport jusqu'en 2031, avec des options de prolongation supplémentaires. L'accord marque 15 ans de collaboration et s'élargit aux tests de performance, au développement de produits et aux activations mondiales de contenu et de communauté, en s'appuyant sur les centres d'entraînement déjà exploités à Los Angeles, São Paulo et Utrecht."
+      }
+    }
+  },
+  {
+    "id": "smbc-nippon-series-2026-title-sponsor",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-08-04T00:00:00Z",
+    "source_name": "NPB",
+    "source_url": "https://npb.jp/news/detail/20260804_01.html",
+    "i18n": {
+      "en": {
+        "title": "SMBC Named Title Sponsor of Nippon Series 2026 for 13th Straight Year",
+        "summary": "Nippon Professional Baseball announced on August 4 that Sumitomo Mitsui Banking Corporation will again be the special title sponsor of the Nippon Series, marking SMBC's 13th consecutive year in the role under the name 'SMBC Nippon Series 2026.' The championship is scheduled to open October 24, with up to seven games running through November 1. SMBC is also running a fan campaign offering escort-kid roles and pair tickets to the series."
+      },
+      "ja": {
+        "title": "SMBC、「日本シリーズ2026」特別協賛に13年連続就任",
+        "summary": "日本野球機構(NPB)は8月4日、三井住友銀行(SMBC)が「SMBC日本シリーズ2026」として今年も特別協賛に就くと発表した。同社の特別協賛は2014年から13年連続となる。シリーズは10月24日に開幕し、最大7戦が11月1日まで行われる予定。SMBCはエスコートキッズやペアチケットが当たるキャンペーンも実施する。"
+      },
+      "es": {
+        "title": "SMBC repite como patrocinador titular de la Serie de Japón 2026 por 13º año",
+        "summary": "La Liga Profesional de Béisbol de Japón (NPB) anunció el 4 de agosto que Sumitomo Mitsui Banking Corporation volverá a ser el patrocinador titular especial de la Serie de Japón, lo que marca el 13º año consecutivo de SMBC en ese papel bajo el nombre 'SMBC Nippon Series 2026'. La final está programada para comenzar el 24 de octubre, con hasta siete partidos hasta el 1 de noviembre. SMBC también organiza una campaña de aficionados que sortea entradas dobles y el papel de niño escolta."
+      },
+      "zh": {
+        "title": "SMBC连续第13年担任日本总决赛冠名赞助商",
+        "summary": "日本职业棒球组织(NPB)于8月4日宣布，三井住友银行(SMBC)将再次担任日本总决赛的特别冠名赞助商，赛事名称为“SMBC日本总决赛2026”，这是该行连续第13年担任此角色。总决赛计划于10月24日开幕，最多进行七场比赛，持续至11月1日。SMBC还开展了面向球迷的活动，赠送护旗手机会和双人票。"
+      },
+      "fr": {
+        "title": "SMBC sponsor titre de la Série du Japon 2026 pour la 13e année consécutive",
+        "summary": "La ligue professionnelle de baseball japonaise (NPB) a annoncé le 4 août que Sumitomo Mitsui Banking Corporation sera de nouveau le sponsor titre spécial de la Série du Japon, marquant la 13e année consécutive de SMBC dans ce rôle sous le nom « SMBC Nippon Series 2026 ». La finale doit débuter le 24 octobre, avec jusqu'à sept matchs prévus jusqu'au 1er novembre. SMBC organise aussi une campagne pour les supporters offrant des rôles d'enfants d'escorte et des billets en duo."
+      }
+    }
+  },
+  {
+    "id": "lakers-iger-kushner-acquisition-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-08-12T00:00:00Z",
+    "source_name": "Associated Press (via Gray Media)",
+    "source_url": "https://www.ky3.com/2026/08/12/bob-iger-josh-kushner-buy-lakers-more-than-12b-reports-say/",
+    "i18n": {
+      "en": {
+        "title": "Bob Iger and Josh Kushner Agree to Buy Lakers at Record $12 Billion Valuation",
+        "summary": "Reports on August 12 said former Disney CEO Bob Iger and Thrive Capital founder Josh Kushner have agreed to buy the Los Angeles Lakers from Mark Walter at a valuation of roughly $12 billion, which would be a record for a North American pro sports franchise. Walter had bought a controlling interest from the Buss family just 14 months earlier for a then-record $10 billion, and the new sale still requires approval from the NBA's Board of Governors. Minority owner Patrick Soon-Shiong has said he does not plan to sell his stake."
+      },
+      "ja": {
+        "title": "ボブ・アイガー氏とジョシュ・クシュナー氏、レイカーズを過去最高120億ドルで買収合意",
+        "summary": "8月12日の報道によると、ディズニー元CEOのボブ・アイガー氏とスライブ・キャピタル創業者のジョシュ・クシュナー氏が、マーク・ウォルター氏からロサンゼルス・レイカーズを約120億ドルの評価額で買収することに合意した。北米プロスポーツ球団としては過去最高額となる見通し。ウォルター氏はわずか14カ月前にバス家から支配株を当時最高額の100億ドルで取得していた。買収にはNBA理事会の承認が必要で、少数株主のパトリック・スーンシオン氏は自身の保有株を売却しない方針を示している。"
+      },
+      "es": {
+        "title": "Bob Iger y Josh Kushner acuerdan comprar los Lakers por un valor récord de 12.000 millones de dólares",
+        "summary": "Informes del 12 de agosto indicaron que el ex consejero delegado de Disney, Bob Iger, y el fundador de Thrive Capital, Josh Kushner, han acordado comprar a Los Angeles Lakers a Mark Walter por una valoración de unos 12.000 millones de dólares, lo que sería un récord para una franquicia deportiva profesional norteamericana. Walter había comprado una participación mayoritaria a la familia Buss solo 14 meses antes por entonces récord de 10.000 millones. La venta aún necesita la aprobación de la Junta de Gobernadores de la NBA, y el propietario minoritario Patrick Soon-Shiong ha dicho que no tiene previsto vender su participación."
+      },
+      "zh": {
+        "title": "鲍勃·艾格与乔什·库什纳同意以创纪录120亿美元收购湖人队",
+        "summary": "8月12日的报道称，迪士尼前CEO鲍勃·艾格与Thrive Capital创始人乔什·库什纳已同意以约120亿美元的估值从马克·沃尔特手中收购洛杉矶湖人队，这将创下北美职业体育球队的估值纪录。沃尔特仅在14个月前以当时创纪录的100亿美元从巴斯家族手中购得控股权。此次交易仍需NBA理事会批准，少数股东帕特里克·孙少雄表示他不打算出售自己的股份。"
+      },
+      "fr": {
+        "title": "Bob Iger et Josh Kushner s'accordent pour racheter les Lakers à une valorisation record de 12 milliards de dollars",
+        "summary": "Selon des informations du 12 août, l'ancien PDG de Disney Bob Iger et le fondateur de Thrive Capital Josh Kushner se sont accordés pour racheter les Los Angeles Lakers à Mark Walter pour une valorisation d'environ 12 milliards de dollars, ce qui constituerait un record pour une franchise sportive professionnelle nord-américaine. Walter avait acquis une participation majoritaire auprès de la famille Buss seulement 14 mois plus tôt pour un montant alors record de 10 milliards de dollars. La vente doit encore être approuvée par le conseil des gouverneurs de la NBA, et l'actionnaire minoritaire Patrick Soon-Shiong a indiqué qu'il ne prévoyait pas de vendre sa part."
+      }
+    }
+  },
+  {
+    "id": "timberwolves-lore-stad-sale-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-08-21T00:00:00Z",
+    "source_name": "Associated Press (via MPR News)",
+    "source_url": "https://www.mprnews.org/story/2026/08/21/timberwolves-lynx-coowner-marc-lore-agrees-to-sell-his-controlling-stake-at-45b-value",
+    "i18n": {
+      "en": {
+        "title": "Marc Lore Agrees to Sell Controlling Stake in Timberwolves and Lynx at $4.5 Billion Value",
+        "summary": "The Associated Press reported on August 21 that Timberwolves and Lynx co-owner Marc Lore has agreed to sell his controlling stake to limited partner Marc Stad at a valuation of about $4.5 billion, roughly three times what Lore and Alex Rodriguez paid Glen Taylor. A source said Lore is scaling back his sports ownership role to focus on an initial public offering for his food-delivery startup Wonder, while Rodriguez remains co-chairman. The sale still needs NBA Board of Governors approval, and current team leadership, including president of basketball operations Tim Connelly, is expected to stay in place."
+      },
+      "ja": {
+        "title": "マーク・ロア氏、ティンバーウルブズ筆頭株主をマーク・スタッド氏に45億ドルで売却へ",
+        "summary": "AP通信は8月21日、ミネソタ・ティンバーウルブズとリンクスの共同保有者マーク・ロア氏が、リミテッドパートナーのマーク・スタッド氏に支配株を約45億ドルの評価額で売却することに合意したと報じた。これはロア氏とアレックス・ロドリゲス氏がグレン・テイラー氏から買収した際の価格の約3倍に相当する。関係者によると、ロア氏はフードデリバリー企業Wonderの新規株式公開に専念するためスポーツ事業の保有比率を縮小するとされ、ロドリゲス氏は共同会長として残留する。売却にはNBA理事会の承認が必要で、バスケットボール運営部門の社長ティム・コネリー氏を含む現経営陣は継続する見通し。"
+      },
+      "es": {
+        "title": "Marc Lore acuerda vender su participación mayoritaria en los Timberwolves y las Lynx por 4.500 millones de dólares",
+        "summary": "The Associated Press informó el 21 de agosto que el copropietario de los Timberwolves y las Lynx, Marc Lore, ha acordado vender su participación mayoritaria al socio limitado Marc Stad por una valoración de unos 4.500 millones de dólares, casi el triple de lo que Lore y Alex Rodriguez pagaron a Glen Taylor. Una fuente dijo que Lore está reduciendo su papel en la propiedad deportiva para centrarse en la salida a bolsa de su startup de reparto de comida Wonder, mientras Rodriguez sigue como copresidente. La venta aún necesita la aprobación de la Junta de Gobernadores de la NBA, y se espera que el liderazgo actual del equipo, incluido el presidente de operaciones de baloncesto Tim Connelly, se mantenga."
+      },
+      "zh": {
+        "title": "马克·洛尔同意以45亿美元估值出售森林狼和山猫控股权",
+        "summary": "美联社8月21日报道，明尼苏达森林狼和山猫联合股东马克·洛尔已同意将其控股权以约45亿美元估值出售给有限合伙人马克·斯塔德，这一估值约为洛尔与亚历克斯·罗德里格斯当年从格伦·泰勒手中购入价格的三倍。消息人士称洛尔正缩减其体育资产持股以专注于旗下送餐初创公司Wonder的首次公开募股，罗德里格斯将继续担任联席主席。此次出售仍需NBA理事会批准，包括篮球运营总裁蒂姆·康纳利在内的现任管理层预计将留任。"
+      },
+      "fr": {
+        "title": "Marc Lore accepte de vendre sa participation majoritaire dans les Timberwolves et les Lynx pour 4,5 milliards de dollars",
+        "summary": "L'Associated Press a rapporté le 21 août que le copropriétaire des Timberwolves et des Lynx, Marc Lore, a accepté de vendre sa participation majoritaire au commanditaire Marc Stad pour une valorisation d'environ 4,5 milliards de dollars, soit près de trois fois le montant payé par Lore et Alex Rodriguez à Glen Taylor. Une source a indiqué que Lore réduit son rôle dans la propriété sportive pour se concentrer sur l'introduction en bourse de sa start-up de livraison de repas Wonder, tandis que Rodriguez reste coprésident. La vente doit encore être approuvée par le conseil des gouverneurs de la NBA, et la direction actuelle de l'équipe, dont le président des opérations basketball Tim Connelly, devrait rester en place."
+      }
+    }
+  },
+  {
+    "id": "la28-allstate-founding-partner-2026",
+    "sport": "olympics",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-08-04T00:00:00Z",
+    "source_name": "Santa Monica Daily Press",
+    "source_url": "https://www.smdp.com/allstate-becomes-founding-partner-of-la28-games-team-usa-insurance-sponsor.md",
+    "i18n": {
+      "en": {
+        "title": "Allstate Becomes Founding Partner of LA28 Games and Team USA Insurance Sponsor",
+        "summary": "LA28 announced on August 4 that insurer Allstate has joined as a Founding Partner of the 2028 Los Angeles Olympic and Paralympic Games and the official home and auto insurance sponsor of Team USA. Allstate said the deal extends more than two decades of its support for college athletics onto the Olympic and Paralympic stage. The agreement adds to a growing roster of top-tier domestic sponsors LA28 has signed as it builds funding ahead of the 2028 Games."
+      },
+      "ja": {
+        "title": "アルステート、LA28大会の創設パートナー兼チームUSA保険スポンサーに",
+        "summary": "LA28組織委員会は8月4日、保険会社アルステートが2028年ロサンゼルス夏季オリンピック・パラリンピックの創設パートナーとして参加し、チームUSAの公式住宅・自動車保険スポンサーになったと発表した。同社は、20年以上続けてきた大学スポーツへの支援をオリンピック・パラリンピックの舞台にも広げる契約だとしている。LA28はこれにより、2028年大会に向けた資金確保で主要な国内スポンサーのリストをさらに拡大した。"
+      },
+      "es": {
+        "title": "Allstate se convierte en socio fundador de los Juegos de LA28 y patrocinador de seguros del Team USA",
+        "summary": "LA28 anunció el 4 de agosto que la aseguradora Allstate se ha unido como Socio Fundador de los Juegos Olímpicos y Paralímpicos de Los Ángeles 2028 y patrocinador oficial de seguros de hogar y auto del Team USA. Allstate dijo que el acuerdo extiende más de dos décadas de apoyo al deporte universitario hacia el escenario olímpico y paralímpico. El pacto se suma a la creciente lista de patrocinadores nacionales de primer nivel que LA28 ha firmado mientras genera financiamiento antes de los Juegos de 2028."
+      },
+      "zh": {
+        "title": "好事达保险成为LA28奥运会创始合伙人及美国代表队保险赞助商",
+        "summary": "LA28组委会于8月4日宣布，保险公司好事达(Allstate)已加入成为2028年洛杉矶夏季奥运会及残奥会的创始合作伙伴，并担任美国代表队的官方家庭及汽车保险赞助商。好事达表示，该协议将其二十余年来对大学体育的支持延伸到奥运及残奥舞台。随着LA28为2028年赛事筹备资金，这项协议使其顶级国内赞助商名单进一步扩大。"
+      },
+      "fr": {
+        "title": "Allstate devient partenaire fondateur des Jeux LA28 et sponsor assurance de Team USA",
+        "summary": "LA28 a annoncé le 4 août que l'assureur Allstate a rejoint l'organisation en tant que Partenaire Fondateur des Jeux olympiques et paralympiques de Los Angeles 2028 et sponsor officiel d'assurance habitation et automobile de Team USA. Allstate a indiqué que cet accord étend plus de deux décennies de soutien au sport universitaire vers la scène olympique et paralympique. L'accord s'ajoute à la liste croissante de sponsors nationaux de premier rang signés par LA28 pour financer les Jeux de 2028."
+      }
+    }
+  },
+  {
+    "id": "nagasaki-stadium-city-cash-payments-return-2026",
+    "sport": "general",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "tech",
+      "fan"
+    ],
+    "published_at": "2026-04-01T00:00:00Z",
+    "source_name": "Payment Navi",
+    "source_url": "https://paymentnavi.com/?p=172994",
+    "i18n": {
+      "en": {
+        "title": "Nagasaki Stadium City Reintroduces Cash Payments After Fully Cashless Launch",
+        "summary": "Nagasaki Stadium City, which opened in October 2024 as a fully cashless venue, began accepting cash payments again from April 1, 2026, operators confirmed. The decision followed feedback from visitors who wanted the option to pay with cash, prompting the venue to adopt what it calls a 'smart payment' approach that blends cashless convenience with cash flexibility. The complex, home to V-Varen Nagasaki, had been cited as a model for Japanese stadium digital-transformation efforts."
+      },
+      "ja": {
+        "title": "長崎スタジアムシティ、完全キャッシュレスから現金払い再導入へ",
+        "summary": "2024年10月に完全キャッシュレス施設として開業した長崎スタジアムシティが、2026年4月1日から現金での支払いを再び受け付け始めたことが運営側により確認された。現金で支払いたいという来場者の声を受けた決定で、施設はキャッシュレスの利便性と現金の柔軟性を両立させる「スマートペイメント」という新しい考え方を導入したとしている。Vファーレン長崎の本拠地でもある同施設は、日本のスタジアムDXのモデルケースとして注目されてきた。"
+      },
+      "es": {
+        "title": "Nagasaki Stadium City reintroduce los pagos en efectivo tras su lanzamiento totalmente sin dinero en metálico",
+        "summary": "Nagasaki Stadium City, que abrió en octubre de 2024 como un recinto totalmente sin efectivo, volvió a aceptar pagos en metálico a partir del 1 de abril de 2026, confirmaron los operadores. La decisión respondió a las peticiones de visitantes que querían la opción de pagar en efectivo, lo que llevó al recinto a adoptar lo que denomina un enfoque de 'pago inteligente' que combina la comodidad sin efectivo con la flexibilidad del dinero en metálico. El complejo, sede del V-Varen Nagasaki, había sido citado como modelo de los esfuerzos de transformación digital de los estadios japoneses."
+      },
+      "zh": {
+        "title": "长崎体育城在全面无现金运营后重新接受现金支付",
+        "summary": "2024年10月以全面无现金场馆形式开业的长崎体育城，运营方确认该场馆自2026年4月1日起重新开始接受现金支付。此举是回应部分到场观众希望能以现金支付的意见，场馆因此采用其所称的“智能支付”方式，将无现金便利与现金灵活性相结合。该综合体是V法伦长崎队的主场，此前曾被视为日本体育场数字化转型的典范案例。"
+      },
+      "fr": {
+        "title": "Le Nagasaki Stadium City réintroduit les paiements en espèces après un lancement entièrement sans numéraire",
+        "summary": "Le Nagasaki Stadium City, ouvert en octobre 2024 comme site entièrement sans numéraire, a recommencé à accepter les paiements en espèces à partir du 1er avril 2026, ont confirmé les exploitants. Cette décision fait suite aux demandes de visiteurs souhaitant pouvoir payer en espèces, poussant le site à adopter ce qu'il appelle une approche de « paiement intelligent » alliant la commodité du sans numéraire à la flexibilité des espèces. Le complexe, qui accueille le V-Varen Nagasaki, avait été cité comme un modèle des efforts de transformation numérique des stades japonais."
+      }
+    }
+  },
+  {
+    "id": "urawa-reds-dhl-partnership-20th-anniversary-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-07-30T00:00:00Z",
+    "source_name": "DHL",
+    "source_url": "https://digitalpr.jp/r/124958",
+    "i18n": {
+      "en": {
+        "title": "DHL and Urawa Reds Mark 20th Year as Top Partners",
+        "summary": "Logistics company DHL announced on July 30 that its top-partnership with J1 club Urawa Red Diamonds will reach its 20th season in 2026-27, one of the longest-running sponsorships in Japanese football. The companies launched a commemorative campaign and special website to mark the anniversary. DHL's branding has appeared on Urawa's shirts and around Saitama Stadium throughout the partnership."
+      },
+      "ja": {
+        "title": "DHLと浦和レッズ、トップパートナーシップが20周年",
+        "summary": "物流大手DHLは7月30日、J1の浦和レッズとのトップパートナーシップが2026/27シーズンで20年目を迎えると発表した。日本サッカー界でも最長級のスポンサー関係の一つとなる。両社は記念キャンペーンと特設サイトを開設してこの節目を祝った。DHLのロゴはこれまで浦和のユニフォームや埼玉スタジアム周辺に掲出されてきた。"
+      },
+      "es": {
+        "title": "DHL y Urawa Reds celebran 20 años como socios principales",
+        "summary": "La empresa de logística DHL anunció el 30 de julio que su patrocinio principal con el club de la J1 Urawa Red Diamonds alcanzará su temporada 20 en 2026-27, una de las asociaciones más duraderas del fútbol japonés. Las compañías lanzaron una campaña conmemorativa y un sitio web especial para marcar el aniversario. La marca DHL ha aparecido en las camisetas de Urawa y en los alrededores del Estadio de Saitama durante toda la asociación."
+      },
+      "zh": {
+        "title": "DHL与浦和红钻顶级合作关系迎来20周年",
+        "summary": "物流公司DHL于7月30日宣布，其与日本职业足球联赛(J1)球队浦和红钻的顶级合作关系将在2026-27赛季进入第20个赛季，是日本足球界持续时间最长的赞助关系之一。双方为此推出纪念活动及专题网站。DHL的品牌标识多年来一直出现在浦和的球衣及埼玉体育场周边。"
+      },
+      "fr": {
+        "title": "DHL et les Urawa Reds célèbrent 20 ans de partenariat principal",
+        "summary": "L'entreprise de logistique DHL a annoncé le 30 juillet que son partenariat principal avec le club de J1 Urawa Red Diamonds atteindra sa 20e saison en 2026-27, l'un des partenariats les plus durables du football japonais. Les deux entreprises ont lancé une campagne commémorative et un site web spécial pour marquer cet anniversaire. La marque DHL est apparue sur les maillots d'Urawa et autour du Saitama Stadium pendant toute la durée du partenariat."
+      }
+    }
   }
 ]
