@@ -6419,5 +6419,311 @@
         "summary": "Le cabinet d'analyse GlobalData estime que Milan-Cortina 2026 a généré environ un tiers des revenus de sponsoring national obtenus par Pékin 2022, soit le total le plus bas pour des Jeux d'hiver depuis Turin 2006. L'analyste Olivia Snooks attribue ce recul principalement à la taille plus réduite du marché de consommation italien, bien que les Jeux aient réuni 56 marques partenaires au total."
       }
     }
+  },
+  {
+    "id": "orlando-magic-disney-jersey-extension-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "stadium"
+    ],
+    "published_at": "2026-10-13T00:00:00Z",
+    "source_name": "Hoodline",
+    "source_url": "https://hoodline.com/2026/10/orlando-magic-keep-disney-on-jerseys-unveil-revamped-kia-center-atrium",
+    "i18n": {
+      "en": {
+        "title": "Orlando Magic Extend Disney Jersey Sponsorship, Unveil Revamped Kia Center Atrium",
+        "summary": "The Orlando Magic and Walt Disney World extended their partnership, keeping Disney's logo on the team's jersey patch, a deal that traces back to a community relationship dating to 2010 and jersey branding since 2017. Alongside the renewal, the Magic unveiled a newly redesigned, Disney-themed atrium entrance at the Kia Center."
+      },
+      "ja": {
+        "title": "オーランド・マジック、ディズニーとのジャージ提携を延長、キア・センターの改装アトリウムも披露",
+        "summary": "NBAのオーランド・マジックは、ウォルト・ディズニー・ワールドとの提携を延長し、ジャージパッチへのディズニーのロゴ掲出を継続することを決めた。両者の地域協力関係は2010年に始まり、ジャージへのブランド表示は2017年から続いている。延長発表に合わせ、本拠地キア・センターにディズニーをテーマにした新しいアトリウム入口も公開された。"
+      },
+      "es": {
+        "title": "Orlando Magic amplía el patrocinio de Disney en la camiseta y presenta el atrio renovado del Kia Center",
+        "summary": "Los Orlando Magic y Walt Disney World extendieron su acuerdo, manteniendo el logotipo de Disney en el parche de la camiseta del equipo, una relación comunitaria que se remonta a 2010 y que incluye la marca en la camiseta desde 2017. Junto con la renovación, el equipo presentó una nueva entrada de atrio con temática de Disney en el Kia Center."
+      },
+      "zh": {
+        "title": "奥兰多魔术队延长与迪士尼的球衣赞助合作,揭幕Kia中心全新改造中庭",
+        "summary": "NBA奥兰多魔术队与华特迪士尼世界延长合作协议,继续在球衣广告贴片上展示迪士尼标志。双方的社区合作关系始于2010年,球衣品牌展示则从2017年持续至今。配合续约,球队还在主场Kia中心揭幕了全新的迪士尼主题中庭入口。"
+      },
+      "fr": {
+        "title": "Les Orlando Magic prolongent le sponsoring Disney sur leur maillot et dévoilent l'atrium rénové du Kia Center",
+        "summary": "Les Orlando Magic et Walt Disney World ont prolongé leur partenariat, conservant le logo Disney sur le patch du maillot de l'équipe, une relation communautaire remontant à 2010 et un affichage sur maillot depuis 2017. Parallèlement à ce renouvellement, l'équipe a dévoilé une nouvelle entrée d'atrium à thème Disney au Kia Center."
+      }
+    }
+  },
+  {
+    "id": "ntt-group-jleague-sustena-cup-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-10-06T00:00:00Z",
+    "source_name": "Hokkaido Shimbun",
+    "source_url": "https://www.hokkaido-np.co.jp/article/1376485/",
+    "i18n": {
+      "en": {
+        "title": "J.League and NTT Group Launch Sustainability-Themed 'Sustena Cup 2026' Fan Campaign",
+        "summary": "Japan's J.League and NTT Group are jointly running a sustainability-themed sponsorship activation called 'Sustena Cup 2026,' tied to league matches from October 6 through November 9. The campaign is built around fan engagement and environmental messaging rather than a new monetary sponsorship arrangement, extending the companies' existing partnership."
+      },
+      "ja": {
+        "title": "JリーグとNTTグループ、サステナビリティ企画「サステナカップ2026」を実施",
+        "summary": "Jリーグは10月6日から11月9日までの試合期間にあわせ、NTTグループと共同でサステナビリティをテーマにしたファン向け企画「サステナカップ2026」を展開している。新たな金銭的スポンサー契約ではなく、既存の協業関係を生かしたファンエンゲージメントと環境メッセージ発信が中心の取り組みとなっている。"
+      },
+      "es": {
+        "title": "La J.League y NTT Group lanzan la campaña de aficionados 'Sustena Cup 2026' con enfoque en sostenibilidad",
+        "summary": "La J.League japonesa y el grupo NTT están llevando a cabo conjuntamente una activación de patrocinio centrada en la sostenibilidad llamada 'Sustena Cup 2026', vinculada a los partidos de liga entre el 6 de octubre y el 9 de noviembre. La campaña se centra en la participación de los aficionados y mensajes medioambientales, ampliando la asociación existente entre ambas entidades."
+      },
+      "zh": {
+        "title": "日本J联赛与NTT集团联合推出可持续主题“Sustena Cup 2026”球迷活动",
+        "summary": "日本职业足球J联赛与NTT集团联合开展以可持续发展为主题的赞助活动“Sustena Cup 2026”,活动配合10月6日至11月9日期间的联赛赛程展开。该活动并非新的金钱赞助合约,而是在双方现有合作基础上,聚焦球迷互动和环保信息传播。"
+      },
+      "fr": {
+        "title": "La J.League et le groupe NTT lancent la campagne supporters « Sustena Cup 2026 » axée sur le développement durable",
+        "summary": "La J.League japonaise et le groupe NTT mènent conjointement une opération de sponsoring à thème durable baptisée « Sustena Cup 2026 », liée aux matchs de championnat du 6 octobre au 9 novembre. La campagne met l'accent sur l'engagement des supporters et un message environnemental plutôt que sur un nouvel accord de sponsoring financier, prolongeant le partenariat existant entre les deux entités."
+      }
+    }
+  },
+  {
+    "id": "taisho-pharmaceutical-npb-draft-sponsor-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-08-19T00:00:00Z",
+    "source_name": "NPB",
+    "source_url": "https://npb.jp/news/detail/20260819_01.html",
+    "i18n": {
+      "en": {
+        "title": "Taisho Pharmaceutical to Sponsor 2026 NPB Draft Conference for 14th Straight Year",
+        "summary": "Nippon Professional Baseball confirmed Taisho Pharmaceutical as the special sponsor of the 2026 Rookie Draft Conference, scheduled for October 22 under the title 'Pro Baseball Draft Conference supported by Lipovitan D.' It marks Taisho's 14th consecutive year backing the event since first becoming its title sponsor in 2013."
+      },
+      "ja": {
+        "title": "大正製薬、2026年プロ野球ドラフト会議の特別協賛に14年連続決定",
+        "summary": "日本野球機構(NPB)は、10月22日に開催される2026年の新人選手選択会議(ドラフト会議)について、大正製薬が「リポビタンD」の冠を付けた特別協賛企業となることを発表した。大正製薬がドラフト会議の特別協賛を務めるのは2013年以来14年連続となる。"
+      },
+      "es": {
+        "title": "Taisho Pharmaceutical patrocinará la Conferencia de Draft de NPB 2026 por 14º año consecutivo",
+        "summary": "La Liga Profesional de Béisbol de Japón (NPB) confirmó a Taisho Pharmaceutical como patrocinador especial de la Conferencia de Draft de novatos 2026, prevista para el 22 de octubre bajo el título 'Conferencia de Draft de Béisbol Profesional presentada por Lipovitan D'. Es el 14º año consecutivo que Taisho respalda el evento desde que se convirtió en patrocinador principal en 2013."
+      },
+      "zh": {
+        "title": "大正制药连续第14年成为2026年NPB选秀会特别赞助商",
+        "summary": "日本职业棒球机构(NPB)确认,大正制药将作为特别赞助商支持定于10月22日举行的2026年新人选拔会(选秀会),活动冠名为“Lipovitan D呈献职业棒球选秀会”。这是大正制药自2013年首次成为冠名赞助商以来连续第14年支持该活动。"
+      },
+      "fr": {
+        "title": "Taisho Pharmaceutical sponsorisera la conférence de draft NPB 2026 pour la 14e année consécutive",
+        "summary": "La Nippon Professional Baseball (NPB) a confirmé que Taisho Pharmaceutical sera le sponsor spécial de la conférence de draft des recrues 2026, prévue le 22 octobre sous le titre « Conférence de draft du baseball professionnel présentée par Lipovitan D ». Il s'agit de la 14e année consécutive où Taisho soutient cet événement depuis qu'elle en est devenue le sponsor titre en 2013."
+      }
+    }
+  },
+  {
+    "id": "mls-presenting-sponsorship-search-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-09-18T00:00:00Z",
+    "source_name": "MarketScale",
+    "source_url": "https://www.marketscale.com/industries/sports-entertainment/mls-is-shopping-an-eight-figure-presenting-sponsorship-ahead-of-mls-30",
+    "i18n": {
+      "en": {
+        "title": "MLS Reportedly Shopping League-Wide Presenting Sponsorship Ahead of 'MLS 3.0'",
+        "summary": "Major League Soccer has hired London-based advisory firm Altius8 to gauge market interest in a first-ever league-wide presenting sponsorship, with early talks reportedly in the eight-figure range. MLS chief revenue officer Carter Ladd said no package is finalized and it remains undecided whether the deal would include a league-wide jersey patch, as the league pursues its 'MLS 3.0' growth strategy ahead of a new commissioner and calendar next summer."
+      },
+      "ja": {
+        "title": "MLS、「MLS 3.0」戦略を前にリーグ全体のプレゼンティングスポンサーを模索か",
+        "summary": "米国メジャーリーグサッカー(MLS)は、ロンドンのアドバイザリー会社アルティウス8を起用し、リーグ史上初となるリーグ全体のプレゼンティングスポンサーについて市場の関心を調査していると報じられた。初期の協議では金額が8桁(数千万ドル規模)に達するとされる。MLSの最高収益責任者カーター・ラッド氏は、パッケージはまだ確定しておらず、リーグ全体のジャージパッチを含むかどうかも未定だと述べた。これは来夏の新コミッショナー・新カレンダー導入を見据えた「MLS 3.0」成長戦略の一環である。"
+      },
+      "es": {
+        "title": "La MLS estaría buscando un patrocinio de presentación a nivel de liga antes de 'MLS 3.0'",
+        "summary": "La Major League Soccer contrató a la firma asesora londinense Altius8 para medir el interés del mercado en un patrocinio de presentación a nivel de toda la liga, el primero de su tipo, con conversaciones iniciales que rondarían las ocho cifras. El director de ingresos de la MLS, Carter Ladd, dijo que ningún paquete está finalizado y que aún no se ha decidido si el acuerdo incluiría un parche de camiseta a nivel de liga, en el marco de la estrategia de crecimiento 'MLS 3.0' antes de un nuevo comisionado y calendario el próximo verano."
+      },
+      "zh": {
+        "title": "据报道MLS在“MLS 3.0”战略前寻求全联盟呈现赞助商",
+        "summary": "据报道,美国职业足球大联盟(MLS)聘请伦敦顾问公司Altius8,评估市场对联盟史上首个全联盟级呈现赞助权益的兴趣,早期洽谈金额据称达八位数(数千万美元级别)。MLS首席营收官卡特·拉德表示,方案尚未最终确定,是否会包含全联盟统一的球衣广告贴片也尚未决定。此举是MLS在明年夏季引入新总裁和新赛程安排前推进“MLS 3.0”增长战略的一部分。"
+      },
+      "fr": {
+        "title": "La MLS chercherait un sponsor présentateur à l'échelle de la ligue avant « MLS 3.0 »",
+        "summary": "La Major League Soccer a engagé le cabinet de conseil londonien Altius8 pour sonder l'intérêt du marché pour un tout premier sponsoring présentateur à l'échelle de la ligue, les premières discussions se situant, selon les informations disponibles, dans une fourchette à huit chiffres. Le directeur des revenus de la MLS, Carter Ladd, a précisé qu'aucun accord n'était finalisé et qu'il restait à déterminer si celui-ci inclurait un patch de maillot pour toute la ligue, dans le cadre de la stratégie de croissance « MLS 3.0 » avant l'arrivée d'un nouveau commissaire et d'un nouveau calendrier l'été prochain."
+      }
+    }
+  },
+  {
+    "id": "real-salt-lake-america-first-naming-rights-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-09-22T00:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/article/real-salt-lake-inks-100m-stadium-naming-rights-deal/",
+    "i18n": {
+      "en": {
+        "title": "Real Salt Lake Signs Roughly $100M Naming-Rights Deal With America First Credit Union",
+        "summary": "MLS club Real Salt Lake reportedly agreed to a roughly $100 million, 15-year naming-rights deal with America First Credit Union, renaming its home venue, formerly known as Rio Tinto Stadium, as 'America First Field.' The agreement ranks among the larger naming-rights deals in MLS history."
+      },
+      "ja": {
+        "title": "リアル・ソルトレイク、アメリカ・ファースト・クレジット・ユニオンと約1億ドルの命名権契約",
+        "summary": "米国メジャーリーグサッカー(MLS)のリアル・ソルトレイクは、アメリカ・ファースト・クレジット・ユニオンと15年間・約1億ドル規模の命名権契約を結んだと報じられた。これにより、これまで「リオ・ティント・スタジアム」として知られていた本拠地は「アメリカ・ファースト・フィールド」に改称される。この契約はMLS史上でも大型の命名権契約の一つとなる。"
+      },
+      "es": {
+        "title": "Real Salt Lake firma un acuerdo de derechos de denominación de aproximadamente 100 millones de dólares con America First Credit Union",
+        "summary": "El club de la MLS Real Salt Lake acordó, según se informa, un contrato de derechos de denominación de aproximadamente 100 millones de dólares por 15 años con America First Credit Union, renombrando su estadio, antes conocido como Rio Tinto Stadium, como 'America First Field'. El acuerdo se encuentra entre los contratos de naming más grandes en la historia de la MLS."
+      },
+      "zh": {
+        "title": "皇家盐湖城俱乐部与America First信用合作社签订约1亿美元冠名权协议",
+        "summary": "据报道,美国职业足球大联盟(MLS)球队皇家盐湖城与America First信用合作社签订了一份为期15年、价值约1亿美元的场馆冠名权协议,原名“力拓体育场”的主场将更名为“America First Field”。该协议是MLS历史上规模较大的冠名权交易之一。"
+      },
+      "fr": {
+        "title": "Le Real Salt Lake signe un accord de naming d'environ 100 millions de dollars avec America First Credit Union",
+        "summary": "Le club de MLS Real Salt Lake aurait conclu un accord de droits de naming d'environ 100 millions de dollars sur 15 ans avec America First Credit Union, renommant son stade, auparavant connu sous le nom de Rio Tinto Stadium, en « America First Field ». Cet accord figure parmi les plus importants contrats de naming de l'histoire de la MLS."
+      }
+    }
+  },
+  {
+    "id": "shinhan-bank-kbo-title-sponsor-extension-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-09-25T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/sponsorship/shinhan-bank-retains-title-sponsorship-of-baseballs-kbo-league-until-2037/",
+    "i18n": {
+      "en": {
+        "title": "Shinhan Bank Agrees 10-Year KBO League Title Sponsorship Extension Through 2037",
+        "summary": "Shinhan Bank, title sponsor of South Korea's KBO League since 2018, agreed to a new extension covering the 2028-2037 seasons. The KBO commissioner put the total value at roughly 115 billion won, calling it the largest sponsorship agreement in South Korean sports history, following an earlier renewal for the 2026-27 seasons."
+      },
+      "ja": {
+        "title": "新韓銀行、韓国プロ野球KBOリーグの冠スポンサーを2037年まで10年延長",
+        "summary": "2018年から韓国プロ野球(KBO)リーグの冠スポンサーを務める新韓銀行は、2028年から2037年までのシーズンを対象とする新たな延長契約に合意した。KBOコミッショナーは契約総額を約1150億ウォンと説明し、韓国スポーツ史上最大のスポンサー契約だと述べた。これは2026-27シーズンを対象とした以前の更新契約に続くものである。"
+      },
+      "es": {
+        "title": "Shinhan Bank acuerda una extensión de 10 años como patrocinador titular de la liga KBO hasta 2037",
+        "summary": "Shinhan Bank, patrocinador titular de la liga KBO de Corea del Sur desde 2018, acordó una nueva extensión que cubre las temporadas 2028-2037. El comisionado de la KBO cifró el valor total en aproximadamente 115.000 millones de wones, calificándolo como el mayor acuerdo de patrocinio en la historia del deporte surcoreano, tras una renovación anterior para las temporadas 2026-27."
+      },
+      "zh": {
+        "title": "新韩银行与韩国KBO联赛续签10年冠名赞助协议,合约延至2037年",
+        "summary": "自2018年起担任韩国职业棒球KBO联赛冠名赞助商的新韩银行,同意签署新的续约协议,覆盖2028至2037赛季。KBO总裁表示协议总价值约为1150亿韩元,并称其为韩国体育史上规模最大的赞助协议,此前双方已就2026-27赛季达成过一次续约。"
+      },
+      "fr": {
+        "title": "Shinhan Bank prolonge de 10 ans son sponsoring titre de la ligue KBO jusqu'en 2037",
+        "summary": "Shinhan Bank, sponsor titre de la ligue de baseball sud-coréenne KBO depuis 2018, a accepté une nouvelle prolongation couvrant les saisons 2028-2037. Le commissaire de la KBO a évalué la valeur totale à environ 115 milliards de wons, le qualifiant de plus grand accord de sponsoring de l'histoire du sport sud-coréen, après un précédent renouvellement pour les saisons 2026-27."
+      }
+    }
+  },
+  {
+    "id": "golden-state-valkyries-100m-revenue-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz",
+      "sponsor"
+    ],
+    "published_at": "2026-10-01T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://world-today-news.com/sportico-golden-state-valkyries-first-womens-team-to-top-100m-in-revenue",
+    "i18n": {
+      "en": {
+        "title": "Golden State Valkyries Become First Women's Pro Team to Top $100M in Revenue",
+        "summary": "Sportico reported that the WNBA's Golden State Valkyries generated more than $100 million in revenue during their 2026 season, making them the first women's professional sports franchise to cross that threshold. The team has built a roster of more than 40 corporate partners, including a September deal naming Athleta its official off-court apparel partner."
+      },
+      "ja": {
+        "title": "WNBAゴールデンステート・バルキリーズ、女子プロチーム初の年間収益1億ドル超え",
+        "summary": "スポルティコの報道によると、WNBAのゴールデンステート・バルキリーズは2026年シーズンに1億ドルを超える収益を上げ、女子プロスポーツチームとして初めてこの基準を達成した。チームは40社以上の企業パートナーを獲得しており、9月にはアスレタをオフコート用アパレルの公式パートナーに指定する契約も結んでいる。"
+      },
+      "es": {
+        "title": "Golden State Valkyries se convierte en el primer equipo profesional femenino en superar los 100 millones de dólares en ingresos",
+        "summary": "Según Sportico, las Golden State Valkyries de la WNBA generaron más de 100 millones de dólares en ingresos durante su temporada 2026, convirtiéndose en la primera franquicia deportiva profesional femenina en superar ese umbral. El equipo ha construido una cartera de más de 40 socios corporativos, incluido un acuerdo de septiembre que nombró a Athleta su socio oficial de ropa fuera de la cancha."
+      },
+      "zh": {
+        "title": "WNBA金州瓦尔基里成为首支年收入突破1亿美元的女子职业球队",
+        "summary": "据Sportico报道,WNBA金州瓦尔基里队在2026赛季的收入突破1亿美元,成为首支达到这一门槛的女子职业体育球队。该队已拥有40多家企业合作伙伴,其中9月签订的一项协议将Athleta指定为球队官方场外服饰合作伙伴。"
+      },
+      "fr": {
+        "title": "Les Golden State Valkyries deviennent la première équipe professionnelle féminine à dépasser 100 millions de dollars de revenus",
+        "summary": "Selon Sportico, les Golden State Valkyries de la WNBA ont généré plus de 100 millions de dollars de revenus lors de leur saison 2026, devenant ainsi la première franchise sportive professionnelle féminine à franchir ce seuil. L'équipe a constitué un portefeuille de plus de 40 partenaires d'entreprise, dont un accord signé en septembre faisant d'Athleta son partenaire officiel d'habillement hors terrain."
+      }
+    }
+  },
+  {
+    "id": "edward-jones-duke-basketball-partner-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-08-31T00:00:00Z",
+    "source_name": "Learfield",
+    "source_url": "https://www.learfield.com/2026/08/duke-athletics-announces-partnership-with-edward-jones/",
+    "i18n": {
+      "en": {
+        "title": "Edward Jones Named Duke Basketball's Exclusive Wealth-Management Partner From 2027-28",
+        "summary": "Edward Jones signed a four-year marketing agreement with Duke Athletics, arranged through multimedia-rights holder Learfield, naming the firm a 'Champion Partner' effective July 1, 2026. Starting with the 2027-28 season, Edward Jones becomes the exclusive wealth-management brand for Duke Basketball, with its logo now displayed on-court and financial-literacy programming planned for Duke athletes."
+      },
+      "ja": {
+        "title": "エドワード・ジョーンズ、2027-28シーズンよりデューク大学バスケットボールの独占資産運用パートナーに",
+        "summary": "金融サービス会社エドワード・ジョーンズは、マルチメディア権利を管理するラーンフィールドを通じ、デューク大学アスレチック部門と4年間のマーケティング契約を締結し、2026年7月1日付で「チャンピオンパートナー」となった。2027-28シーズンからは、デューク大学バスケットボールの独占資産運用ブランドとなり、コート上にロゴが表示されるほか、デュークの選手向けの金融リテラシー教育プログラムも計画されている。"
+      },
+      "es": {
+        "title": "Edward Jones es nombrado socio exclusivo de gestión patrimonial del baloncesto de Duke a partir de 2027-28",
+        "summary": "Edward Jones firmó un acuerdo de marketing de cuatro años con el departamento de atletismo de Duke, gestionado a través del titular de derechos multimedia Learfield, que nombra a la firma 'Socio Campeón' con vigencia desde el 1 de julio de 2026. A partir de la temporada 2027-28, Edward Jones se convertirá en la marca exclusiva de gestión patrimonial del baloncesto de Duke, con su logotipo ya exhibido en la cancha y programas de educación financiera previstos para los atletas de Duke."
+      },
+      "zh": {
+        "title": "爱德华·琼斯公司获任杜克大学篮球队2027-28赛季起独家财富管理合作伙伴",
+        "summary": "金融服务公司爱德华·琼斯通过媒体版权代理公司Learfield,与杜克大学体育部签订了一份为期四年的营销协议,自2026年7月1日起成为“冠军合作伙伴”。从2027-28赛季起,爱德华·琼斯将成为杜克大学篮球队独家财富管理品牌,其标识已在球场上展示,并计划为杜克运动员提供理财知识教育项目。"
+      },
+      "fr": {
+        "title": "Edward Jones devient le partenaire exclusif de gestion de patrimoine du basketball de Duke à partir de 2027-28",
+        "summary": "Edward Jones a signé un accord marketing de quatre ans avec le département sportif de Duke, négocié via le détenteur des droits multimédias Learfield, devenant « Champion Partner » à compter du 1er juillet 2026. À partir de la saison 2027-28, Edward Jones deviendra la marque exclusive de gestion de patrimoine du basketball de Duke, son logo étant déjà affiché sur le terrain, avec un programme d'éducation financière prévu pour les athlètes de Duke."
+      }
+    }
+  },
+  {
+    "id": "riot-games-vct-100m-distribution-2026",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "biz",
+      "team"
+    ],
+    "published_at": "2026-09-15T00:00:00Z",
+    "source_name": "Esports.gg",
+    "source_url": "https://esports.gg/news/valorant/riot-games-over-100-million-vct-teams-2026/",
+    "i18n": {
+      "en": {
+        "title": "Riot Games to Distribute Over $100M to VALORANT Champions Tour Teams in 2026",
+        "summary": "Riot Games said it will distribute more than $100 million to VALORANT Champions Tour (VCT) partner teams in 2026, with the bulk of that funding sourced from in-game item and skin sales rather than traditional sponsorship revenue. The figure underscores a growing reliance on in-game monetization as a financial sustainability model for esports team franchises."
+      },
+      "ja": {
+        "title": "ライアットゲームズ、2026年にVALORANTチャンピオンズツアーの参加チームへ1億ドル超を分配",
+        "summary": "ライアットゲームズは、2026年にVALORANTチャンピオンズツアー(VCT)のパートナーチームへ1億ドル超を分配すると発表した。その資金の大部分は、従来型のスポンサー収入ではなく、ゲーム内アイテムやスキンの販売による収益から出されている。この数字は、eスポーツチームの財務的な持続可能性モデルとして、ゲーム内収益化への依存が高まっていることを示している。"
+      },
+      "es": {
+        "title": "Riot Games distribuirá más de 100 millones de dólares a los equipos del VALORANT Champions Tour en 2026",
+        "summary": "Riot Games anunció que distribuirá más de 100 millones de dólares a los equipos asociados del VALORANT Champions Tour (VCT) en 2026, con la mayor parte de esos fondos procedentes de la venta de objetos y skins dentro del juego en lugar de ingresos por patrocinio tradicional. La cifra pone de relieve una dependencia creciente de la monetización dentro del juego como modelo de sostenibilidad financiera para las franquicias de equipos de esports."
+      },
+      "zh": {
+        "title": "拳头游戏2026年将向VALORANT冠军巡回赛战队分配逾1亿美元",
+        "summary": "拳头游戏宣布,将于2026年向VALORANT冠军巡回赛(VCT)的合作战队分配超过1亿美元,其中大部分资金来自游戏内道具和皮肤销售收入,而非传统赞助收入。这一数字凸显出电竞战队日益依赖游戏内变现作为财务可持续发展模式的趋势。"
+      },
+      "fr": {
+        "title": "Riot Games distribuera plus de 100 millions de dollars aux équipes du VALORANT Champions Tour en 2026",
+        "summary": "Riot Games a annoncé qu'elle distribuera plus de 100 millions de dollars aux équipes partenaires du VALORANT Champions Tour (VCT) en 2026, la majeure partie de ce financement provenant de la vente d'objets et de skins dans le jeu plutôt que de revenus de sponsoring traditionnels. Ce chiffre souligne une dépendance croissante à la monétisation intrajeu comme modèle de viabilité financière pour les franchises d'équipes esports."
+      }
+    }
   }
 ]
