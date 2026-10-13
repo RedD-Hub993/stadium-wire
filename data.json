@@ -7164,5 +7164,172 @@
         "summary": "Le Ohio Stadium d'Ohio State a activé des voies d'entrée par authentification faciale à deux portes et étendu ce qu'il présente comme le plus grand déploiement de Wi-Fi 7 de tous les stades américains. L'enceinte prévient également les supporters que les billets achetés via des canaux de revente non officiels risquent d'être refusés en raison des codes-barres dynamiques liés au nouveau système."
       }
     }
+  },
+  {
+    "id": "benfica-adidas-campus-naming-rights-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "stadium"
+    ],
+    "published_at": "2026-09-18T00:00:00Z",
+    "source_name": "Inside World Football",
+    "source_url": "https://www.insideworldfootball.com/2026/09/18/adidas-add-6-years-and-training-centre-naming-rights-to-benfica-partnership/",
+    "i18n": {
+      "en": {
+        "title": "Benfica and Adidas Extend Kit Deal, Add Naming Rights to Training Academy",
+        "summary": "Portuguese giants Benfica have signed a six-year extension with longtime kit supplier Adidas that runs through 2033. As part of the renewed partnership, Adidas also gains naming rights to the club's Seixal training academy, which will be rebranded the Adidas Benfica Campus."
+      },
+      "ja": {
+        "title": "ベンフィカとアディダスがキット契約を延長、トレーニング施設の命名権も追加",
+        "summary": "ポルトガルの名門ベンフィカは、長年のキットサプライヤーであるアディダスと2033年まで続く6年契約の延長に合意した。今回の契約には、クラブのセイシャル・トレーニングアカデミーの命名権も含まれ、施設は「アディダス・ベンフィカ・キャンパス」に改称される予定だ。"
+      },
+      "es": {
+        "title": "Benfica y Adidas amplían su acuerdo de equipamiento y añaden los derechos de denominación de su academia",
+        "summary": "El club portugués Benfica ha firmado una extensión de seis años con su proveedor de equipamiento Adidas, vigente hasta 2033. Como parte del acuerdo renovado, Adidas también obtiene los derechos de denominación de la academia de entrenamiento de Seixal, que pasará a llamarse Adidas Benfica Campus."
+      },
+      "zh": {
+        "title": "本菲卡与阿迪达斯延长球衣合同，并新增训练学院命名权",
+        "summary": "葡萄牙豪门本菲卡与长期球衣供应商阿迪达斯签署了一份为期六年的延长合同，合约将持续到2033年。作为续约的一部分，阿迪达斯还获得了俱乐部塞沙尔训练学院的命名权，该设施未来将更名为阿迪达斯本菲卡园区。"
+      },
+      "fr": {
+        "title": "Benfica et Adidas prolongent leur contrat d'équipementier et ajoutent le naming de leur centre d'entraînement",
+        "summary": "Le club portugais du Benfica a signé une prolongation de six ans avec son équipementier historique Adidas, un accord qui court désormais jusqu'en 2033. Dans le cadre de ce renouvellement, Adidas obtient également les droits de naming du centre d'entraînement de Seixal, qui sera rebaptisé Adidas Benfica Campus."
+      }
+    }
+  },
+  {
+    "id": "nba-ad-revenue-2-11-billion-new-media-deals-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-10-13T12:00:00Z",
+    "source_name": "Awful Announcing",
+    "source_url": "https://awfulannouncing.com/nba/ad-sales-skyrocket-580m-first-year-new-media-deals.html",
+    "i18n": {
+      "en": {
+        "title": "NBA In-Game Ad Revenue Jumps 38% to $2.11 Billion Under New Media Deals",
+        "summary": "The NBA's three national broadcast partners generated roughly $2.11 billion in advertising revenue during the league's first season under its new media-rights agreements, up $580 million from the prior year. The gain came largely from shifting more national game inventory from cable onto broadcast television."
+      },
+      "ja": {
+        "title": "NBAの新メディア契約初年度、試合中の広告収入が38%増の21.1億ドルに",
+        "summary": "NBAの新しいメディア権契約の初年度、放送パートナー3社の試合広告収入は約21.1億ドルに達し、前年から5.8億ドル増加した。増収の主な要因は、全国向け試合の多くがケーブルから地上波放送に移行したことだとされている。"
+      },
+      "es": {
+        "title": "Los ingresos publicitarios de la NBA suben un 38% hasta los 2.110 millones de dólares con los nuevos acuerdos mediáticos",
+        "summary": "Los tres socios de retransmisión nacional de la NBA generaron unos 2.110 millones de dólares en ingresos publicitarios durante la primera temporada bajo sus nuevos acuerdos de derechos mediáticos, 580 millones más que el año anterior. El aumento se debió en gran parte al traslado de más partidos de cable a la televisión en abierto."
+      },
+      "zh": {
+        "title": "新媒体合约首个赛季，NBA场内广告收入猛增38%至21.1亿美元",
+        "summary": "在NBA新媒体版权协议生效的首个赛季中，三家全国转播合作伙伴的广告收入约达21.1亿美元，比上一年增加5.8亿美元。增长主要得益于更多全国转播赛事从有线电视转移到无线广播频道。"
+      },
+      "fr": {
+        "title": "Les revenus publicitaires de la NBA bondissent de 38 % à 2,11 milliards de dollars avec les nouveaux contrats médias",
+        "summary": "Les trois diffuseurs nationaux de la NBA ont généré environ 2,11 milliards de dollars de revenus publicitaires lors de la première saison sous les nouveaux contrats de droits médias, soit 580 millions de plus que l'année précédente. Cette hausse s'explique en grande partie par le transfert d'un plus grand nombre de matchs nationaux du câble vers la télévision hertzienne."
+      }
+    }
+  },
+  {
+    "id": "melbourne-city-intix-membership-deal-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "fan",
+      "tech"
+    ],
+    "published_at": "2026-10-07T00:00:00Z",
+    "source_name": "Ministry of Sport",
+    "source_url": "https://ministryofsport.com/melbourne-city-fc-secures-decade-long-intix-partnership-to-transform-digital-membership-experience",
+    "i18n": {
+      "en": {
+        "title": "Melbourne City FC Signs Ten-Year Deal With INTIX to Overhaul Membership Platform",
+        "summary": "A-League club Melbourne City FC has agreed to a decade-long partnership with ticketing and membership technology firm INTIX. The custom platform will link the club's membership system to Shopify, CRM tools and marketing automation, as well as stadium access control at AAMI Park."
+      },
+      "ja": {
+        "title": "メルボルン・シティFCがINTIXと10年契約、会員基盤を刷新へ",
+        "summary": "Aリーグのメルボルン・シティFCは、チケット・会員管理技術企業INTIXと10年間のパートナーシップを締結した。新たなプラットフォームは、クラブの会員システムをShopifyやCRMツール、マーケティングオートメーションと連携させ、本拠地AAMIパークの入場管理にも対応する。"
+      },
+      "es": {
+        "title": "Melbourne City FC firma un acuerdo de diez años con INTIX para renovar su plataforma de socios",
+        "summary": "El club de la A-League Melbourne City FC ha acordado una asociación de una década con la empresa de tecnología de entradas y membresías INTIX. La plataforma personalizada conectará el sistema de socios del club con Shopify, herramientas de CRM y automatización de marketing, además del control de acceso al estadio AAMI Park."
+      },
+      "zh": {
+        "title": "墨尔本城足球俱乐部与INTIX签订十年协议，升级会员系统",
+        "summary": "澳超联赛俱乐部墨尔本城足球俱乐部已与票务及会员技术公司INTIX达成为期十年的合作关系。这套定制平台将把俱乐部的会员系统与Shopify、客户关系管理工具及营销自动化系统相连接，并涵盖主场AAMI公园的入场管控。"
+      },
+      "fr": {
+        "title": "Melbourne City FC signe un contrat de dix ans avec INTIX pour refondre sa plateforme d'adhésion",
+        "summary": "Le club de A-League Melbourne City FC a conclu un partenariat de dix ans avec l'entreprise de technologie de billetterie et d'adhésion INTIX. La plateforme sur mesure reliera le système d'adhésion du club à Shopify, à des outils CRM et à l'automatisation marketing, ainsi qu'au contrôle d'accès du stade AAMI Park."
+      }
+    }
+  },
+  {
+    "id": "fedex-japan-chiba-jets-sponsorship-2026",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-10-08T00:00:00Z",
+    "source_name": "Logi-Today",
+    "source_url": "https://www.logi-today.com/1009277",
+    "i18n": {
+      "en": {
+        "title": "FedEx Japan Signs Sponsorship Deal With B.League's Chiba Jets for 2026-27 Season",
+        "summary": "Federal Express Japan has agreed to sponsor B.League club Chiba Jets for the 2026-27 season. The companies cited shared values around teamwork and community contribution, and noted that FedEx's Japan headquarters and Narita airport gateway both sit in Chiba Prefecture, the Jets' home region."
+      },
+      "ja": {
+        "title": "フェデックス・ジャパンが千葉ジェッツと2026-27シーズンのスポンサー契約を締結",
+        "summary": "フェデラル エクスプレス コーポレーションの日本法人は、Bリーグの千葉ジェッツと2026-27シーズンのスポンサー契約を結んだと発表した。両者はチームワークや地域貢献といった価値観の共有を強調し、フェデックスの日本本社と成田のゲートウェイ拠点がいずれも千葉ジェッツの本拠地である千葉県にある点を挙げている。"
+      },
+      "es": {
+        "title": "FedEx Japón firma un acuerdo de patrocinio con los Chiba Jets de la B.League para la temporada 2026-27",
+        "summary": "La filial japonesa de Federal Express ha acordado patrocinar al club de la B.League Chiba Jets durante la temporada 2026-27. Las empresas destacaron valores compartidos como el trabajo en equipo y la contribución a la comunidad, y señalaron que la sede japonesa de FedEx y su centro de operaciones del aeropuerto de Narita se encuentran en la prefectura de Chiba, la región del equipo."
+      },
+      "zh": {
+        "title": "联邦快递日本与B联赛千叶喷射者队签订2026-27赛季赞助合约",
+        "summary": "联邦快递日本公司宣布与B联赛球队千叶喷射者队签订2026-27赛季的赞助合约。双方强调团队协作与社区贡献等共同价值观，并指出联邦快递的日本总部及成田机场枢纽均位于千叶县，恰是球队的主场地区。"
+      },
+      "fr": {
+        "title": "FedEx Japon signe un contrat de sponsoring avec les Chiba Jets de la B.League pour la saison 2026-27",
+        "summary": "La filiale japonaise de Federal Express a conclu un accord de parrainage avec le club de B.League Chiba Jets pour la saison 2026-27. Les deux parties ont souligné des valeurs communes autour du travail d'équipe et de la contribution communautaire, notant que le siège japonais de FedEx et sa plateforme de l'aéroport de Narita se trouvent tous deux dans la préfecture de Chiba, région du club."
+      }
+    }
+  },
+  {
+    "id": "konaka-iwaki-fc-business-partner-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-10-09T00:00:00Z",
+    "source_name": "PR Times",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000840.000054867.html",
+    "i18n": {
+      "en": {
+        "title": "Suit Retailer Konaka Becomes Business Partner of J.League Club Iwaki FC",
+        "summary": "Japanese suit retailer Konaka has signed a business partnership with J.League club Iwaki FC, under which it will supply official suits for the club's front-office staff. The new suits debuted with the club's match on October 11."
+      },
+      "ja": {
+        "title": "紳士服のコナカがJリーグ・いわきFCとビジネスパートナー契約を締結",
+        "summary": "紳士服販売大手のコナカは、Jリーグ所属のいわきFCとビジネスパートナー契約を結んだと発表した。契約に基づき、コナカはクラブのフロントスタッフ用オフィシャルスーツを提供し、新しいスーツは10月11日の試合から着用が始まった。"
+      },
+      "es": {
+        "title": "La cadena de trajes Konaka se convierte en socio comercial del club de la J.League Iwaki FC",
+        "summary": "La cadena japonesa de trajes Konaka ha firmado una asociación comercial con el club de la J.League Iwaki FC, por la que proporcionará trajes oficiales al personal administrativo del club. Los nuevos trajes se estrenaron en el partido del 11 de octubre."
+      },
+      "zh": {
+        "title": "西装连锁店Konaka成为J联赛球队磐城FC的业务合作伙伴",
+        "summary": "日本西装零售连锁Konaka宣布与J联赛球队磐城FC达成业务合作，将为俱乐部前台工作人员提供官方西装。新西装已于10月11日的比赛中首次亮相。"
+      },
+      "fr": {
+        "title": "L'enseigne de costumes Konaka devient partenaire commercial du club de J.League Iwaki FC",
+        "summary": "L'enseigne japonaise de costumes Konaka a signé un partenariat commercial avec le club de J.League Iwaki FC, dans le cadre duquel elle fournira les costumes officiels du personnel administratif du club. Les nouveaux costumes ont fait leurs débuts lors du match du 11 octobre."
+      }
+    }
   }
 ]
