@@ -6492,5 +6492,309 @@
         "summary": "L'écurie de Formule 1 d'Audi a confirmé un accord pluriannuel faisant d'Adidas son partenaire textile officiel avant ses débuts en 2026. Adidas développera les tenues d'équipe et l'équipement de performance, ainsi qu'une ligne de vêtements pour les fans lancée en février 2026. Cette décision fait écho au partenariat textile déjà existant entre Adidas et Mercedes, une pratique que les responsables de l'écurie jugent courante entre équipes de F1 concurrentes partageant un même fournisseur."
       }
     }
+  },
+  {
+    "id": "texas-tech-galaxy-stadium-naming-rights",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-07-17T00:00:00Z",
+    "source_name": "Athletic Business",
+    "source_url": "https://www.athleticbusiness.com/operations/marketing/article/15830370/texas-tech-inks-75m-naming-rights-deal-with",
+    "i18n": {
+      "en": {
+        "title": "Texas Tech Renames Stadium Galaxy Stadium in Reported $75 Million Naming-Rights Deal",
+        "summary": "Texas Tech signed a 15-year naming-rights agreement with digital-asset and data-center firm Galaxy, renaming its football venue from Jones AT&T Stadium to Galaxy Stadium starting with the 2026 season. Industry reports peg the deal's value near $75 million, though the university has not confirmed exact terms, and Galaxy becomes the athletic department's official data-center and digital-assets partner."
+      },
+      "ja": {
+        "title": "テキサス工科大学、スタジアム命名権契約でギャラクシー・スタジアムに改称(推定7500万ドル)",
+        "summary": "テキサス工科大学は、デジタル資産・データセンター企業ギャラクシーと15年間の命名権契約を結び、2026年シーズンからフットボール競技場の名称を「ジョーンズAT&Tスタジアム」から「ギャラクシー・スタジアム」に変更した。業界報道では契約額は約7500万ドルとされているが、大学側は正式な条件を公表していない。同社は同大学athletic部門の公式データセンター・デジタル資産パートナーとなる。"
+      },
+      "es": {
+        "title": "Texas Tech cambia el nombre de su estadio a Galaxy Stadium en un acuerdo de derechos de denominación valorado en unos 75 millones de dólares",
+        "summary": "Texas Tech firmó un acuerdo de derechos de denominación de 15 años con la firma de activos digitales y centros de datos Galaxy, renombrando su estadio de fútbol americano de Jones AT&T Stadium a Galaxy Stadium a partir de la temporada 2026. Reportes del sector estiman el valor del acuerdo en cerca de 75 millones de dólares, aunque la universidad no ha confirmado las cifras exactas, y Galaxy se convierte en socio oficial de centros de datos y activos digitales del departamento deportivo."
+      },
+      "zh": {
+        "title": "德州理工大学更名体育馆为\"Galaxy Stadium\",命名权交易估值约7500万美元",
+        "summary": "德州理工大学与数字资产及数据中心公司Galaxy签订了15年命名权协议,从2026赛季起将其橄榄球场从\"Jones AT&T Stadium\"更名为\"Galaxy Stadium\"。行业报道估计该交易价值约7500万美元,但校方并未确认具体条款,Galaxy将成为该校体育部官方数据中心与数字资产合作伙伴。"
+      },
+      "fr": {
+        "title": "Texas Tech rebaptise son stade Galaxy Stadium dans un accord de naming estimé à 75 millions de dollars",
+        "summary": "Texas Tech a signé un accord de naming de 15 ans avec Galaxy, une entreprise d'actifs numériques et de centres de données, renommant son stade de football de Jones AT&T Stadium en Galaxy Stadium à partir de la saison 2026. Selon la presse spécialisée, l'accord serait estimé à environ 75 millions de dollars, bien que l'université n'ait pas confirmé les chiffres exacts, et Galaxy devient le partenaire officiel du département sportif pour les centres de données et les actifs numériques."
+      }
+    }
+  },
+  {
+    "id": "arizona-casino-del-sol-stadium-naming-rights",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2025-11-17T00:00:00Z",
+    "source_name": "University of Arizona",
+    "source_url": "https://news.arizona.edu/news/arizona-athletics-and-casino-del-sol-announce-60-million-plus-stadium-naming-rights",
+    "i18n": {
+      "en": {
+        "title": "Arizona Renames Football Stadium Casino Del Sol Stadium in $60 Million-Plus, 20-Year Deal",
+        "summary": "The University of Arizona and Casino Del Sol, owned by the Pascua Yaqui Tribe, signed a 20-year naming-rights partnership worth more than $60 million, renaming Arizona Stadium as Casino Del Sol Stadium. The agreement, the largest in Big 12 history, also funds facility upgrades and new tribal-education and student-athlete support programs."
+      },
+      "ja": {
+        "title": "アリゾナ大学、フットボールスタジアムを「カジノ・デル・ソル・スタジアム」に改称 20年6000万ドル超の契約",
+        "summary": "アリゾナ大学とパスクア・ヤキ族が所有するカジノ・デル・ソルは、20年間で6000万ドルを超える命名権パートナーシップを締結し、アリゾナ・スタジアムを「カジノ・デル・ソル・スタジアム」に改称した。ビッグ12史上最大規模となる本契約は、施設改修や部族の教育支援、学生アスリート支援プログラムの資金にも充てられる。"
+      },
+      "es": {
+        "title": "Arizona renombra su estadio de fútbol americano Casino Del Sol Stadium en un acuerdo de 20 años por más de 60 millones de dólares",
+        "summary": "La Universidad de Arizona y Casino Del Sol, propiedad de la tribu Pascua Yaqui, firmaron una alianza de derechos de denominación de 20 años valorada en más de 60 millones de dólares, renombrando Arizona Stadium como Casino Del Sol Stadium. El acuerdo, el mayor en la historia de la Big 12, también financiará mejoras en las instalaciones y nuevos programas de apoyo educativo tribal y para estudiantes-atletas."
+      },
+      "zh": {
+        "title": "亚利桑那大学体育馆更名为\"Casino Del Sol Stadium\",命名权协议20年超6000万美元",
+        "summary": "亚利桑那大学与帕斯夸亚基部落旗下的Casino Del Sol签订了一份价值超过6000万美元、为期20年的命名权合作协议,将亚利桑那体育馆更名为\"Casino Del Sol Stadium\"。这是Big 12历史上规模最大的此类协议,资金还将用于场馆升级以及部落教育和学生运动员支持项目。"
+      },
+      "fr": {
+        "title": "L'Arizona rebaptise son stade de football américain Casino Del Sol Stadium dans un accord de 20 ans dépassant 60 millions de dollars",
+        "summary": "L'université de l'Arizona et Casino Del Sol, détenu par la tribu Pascua Yaqui, ont signé un partenariat de naming de 20 ans valant plus de 60 millions de dollars, rebaptisant l'Arizona Stadium en Casino Del Sol Stadium. Cet accord, le plus important de l'histoire de la Big 12, financera aussi des rénovations d'installations et de nouveaux programmes de soutien éducatif tribal et aux étudiants-athlètes."
+      }
+    }
+  },
+  {
+    "id": "atlanta-nwsl-aflac-jersey-sponsorship",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-02-25T00:00:00Z",
+    "source_name": "The Atlanta Journal-Constitution",
+    "source_url": "https://www.ajc.com/sports/2026/02/aflac-will-be-nwsl-atlantas-first-jersey-sponsor/",
+    "i18n": {
+      "en": {
+        "title": "Atlanta's NWSL Expansion Club Signs Reported $28 Million Jersey Deal With Aflac",
+        "summary": "Atlanta's incoming NWSL franchise, set to debut in 2028, agreed to a seven-year front-of-jersey sponsorship with insurer Aflac, its first jersey sponsorship ever. Both sides call it the largest jersey deal in women's sports history, though financial terms were not officially disclosed; Sportico reported a value around $28 million, with part of Aflac's contribution supporting pediatric cancer care in Atlanta."
+      },
+      "ja": {
+        "title": "アトランタのNWSL新規参入クラブ、アフラックと推定2800万ドルのユニフォームスポンサー契約",
+        "summary": "2028年に参入予定のアトランタのNWSL新規クラブは、保険会社アフラックと7年間のユニフォーム胸部スポンサー契約を締結した。同社にとって初のユニフォームスポンサー契約となる。両者は女子スポーツ史上最大規模のユニフォーム契約としているが、契約金額は公式には非公表で、Sporticoは約2800万ドルと報じている。アフラックの協賛の一部はアトランタの小児がん医療支援にも充てられる。"
+      },
+      "es": {
+        "title": "El club de expansión de la NWSL en Atlanta firma un acuerdo de patrocinio de camiseta con Aflac valorado en 28 millones de dólares",
+        "summary": "El futuro club de expansión de la NWSL en Atlanta, que debutará en 2028, acordó un patrocinio de siete años en el frente de la camiseta con la aseguradora Aflac, su primer patrocinio de camiseta. Ambas partes lo califican como el mayor acuerdo de camiseta en la historia del deporte femenino, aunque las cifras no se confirmaron oficialmente; Sportico reportó un valor cercano a los 28 millones de dólares, y parte del aporte de Aflac respaldará la atención oncológica infantil en Atlanta."
+      },
+      "zh": {
+        "title": "亚特兰大NWSL扩军球队与Aflac签订据报价值2800万美元的球衣赞助协议",
+        "summary": "即将于2028年亮相的亚特兰大NWSL扩军球队与保险公司Aflac达成七年球衣胸前赞助协议,这是该公司首次赞助球衣。双方都称这是女子体育史上最大的球衣赞助交易,但官方未公布具体金额;据Sportico报道,交易价值约为2800万美元,Aflac的部分赞助款将用于支持亚特兰大的儿童癌症医疗。"
+      },
+      "fr": {
+        "title": "Le futur club d'expansion NWSL d'Atlanta signe un accord de sponsoring maillot avec Aflac, estimé à 28 millions de dollars",
+        "summary": "Le futur club d'expansion de la NWSL à Atlanta, qui débutera en 2028, a conclu un partenariat de sept ans pour le sponsoring du devant du maillot avec l'assureur Aflac, son premier accord de ce type. Les deux parties le qualifient du plus important contrat de maillot de l'histoire du sport féminin, bien que les montants n'aient pas été officiellement confirmés; Sportico évoque une valeur proche de 28 millions de dollars, une partie de la contribution d'Aflac soutenant la lutte contre le cancer infantile à Atlanta."
+      }
+    }
+  },
+  {
+    "id": "toyota-gazoo-racing-haas-f1-title-sponsor",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2025-12-04T00:00:00Z",
+    "source_name": "Formula1.com",
+    "source_url": "https://www.formula1.com/en/latest/article/toyota-gazoo-racing-to-become-title-sponsors-of-haas-from-2026.7cSSDjuSpWld580YQKVtvh",
+    "i18n": {
+      "en": {
+        "title": "Toyota Gazoo Racing Becomes Haas F1 Title Sponsor, Team Renamed TGR Haas for 2026",
+        "summary": "Haas F1 Team announced that Toyota's motorsport division, Toyota Gazoo Racing, will become its title sponsor starting in the 2026 Formula 1 season, with the team racing as TGR Haas F1 Team. The deal deepens a technical partnership that began in 2024 and replaces previous title sponsor MoneyGram, also extending to Haas' driver development programme."
+      },
+      "ja": {
+        "title": "トヨタ・ガズー・レーシング、ハースF1のタイトルスポンサーに 2026年から「TGRハース」に改称",
+        "summary": "ハースF1チームは、トヨタのモータースポーツ部門「トヨタ・ガズー・レーシング」が2026年のF1シーズンからチームのタイトルスポンサーとなり、チーム名を「TGRハースF1チーム」に変更すると発表した。この契約は2024年に始まった技術提携を深化させるもので、従来のタイトルスポンサーであったマネーグラムに代わるものであり、ハースのドライバー育成プログラムにも対象が拡大される。"
+      },
+      "es": {
+        "title": "Toyota Gazoo Racing se convierte en patrocinador principal de Haas F1, equipo rebautizado TGR Haas para 2026",
+        "summary": "El equipo Haas F1 anunció que la división de automovilismo de Toyota, Toyota Gazoo Racing, se convertirá en su patrocinador principal a partir de la temporada 2026 de Fórmula 1, compitiendo como TGR Haas F1 Team. El acuerdo profundiza una alianza técnica iniciada en 2024 y sustituye al anterior patrocinador principal, MoneyGram, extendiéndose también al programa de desarrollo de pilotos de Haas."
+      },
+      "zh": {
+        "title": "丰田GAZOO Racing成为哈斯F1车队冠名赞助商,2026年起更名为\"TGR哈斯\"",
+        "summary": "哈斯F1车队宣布,丰田旗下赛车部门\"丰田GAZOO Racing\"将从2026赛季起成为车队冠名赞助商,车队更名为\"TGR哈斯F1车队\"。该协议深化了双方自2024年开始的技术合作关系,取代此前的冠名赞助商MoneyGram,合作范围还将扩展至哈斯车队的车手培养计划。"
+      },
+      "fr": {
+        "title": "Toyota Gazoo Racing devient sponsor titre de Haas F1, l'écurie renommée TGR Haas pour 2026",
+        "summary": "L'écurie Haas F1 a annoncé que la division compétition de Toyota, Toyota Gazoo Racing, deviendra son sponsor titre à partir de la saison 2026 de Formule 1, l'équipe courant désormais sous le nom TGR Haas F1 Team. Cet accord approfondit un partenariat technique amorcé en 2024 et remplace l'ancien sponsor titre MoneyGram, s'étendant aussi au programme de développement des pilotes de Haas."
+      }
+    }
+  },
+  {
+    "id": "alienware-team-liquid-five-year-extension",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-08-18T00:00:00Z",
+    "source_name": "Esports.net",
+    "source_url": "https://www.esports.net/news/team-liquid-alienware-partnership/",
+    "i18n": {
+      "en": {
+        "title": "Alienware and Team Liquid Extend Esports' Longest-Running Partnership Through 2031",
+        "summary": "Dell's Alienware brand and esports organization Team Liquid announced a five-year renewal of their sponsorship, extending a relationship that began 15 years ago through 2031. The new deal launches with Alienware backing Team Liquid's push in World of Warcraft's \"Race to World First\" competition, and the companies framed it as esports' longest continuous brand partnership."
+      },
+      "ja": {
+        "title": "エイリアンウェアとチームリキッド、eスポーツ最長パートナーシップを2031年まで5年延長",
+        "summary": "デル傘下のエイリアンウェアとeスポーツ団体チームリキッドは、15年間続いてきたスポンサー関係を5年延長し、2031年まで継続すると発表した。新契約はまず「ワールド・オブ・ウォークラフト」の「レース・トゥ・ワールド・ファースト」競技でエイリアンウェアがチームリキッドを支援する形でスタートし、両社はこれをeスポーツ史上最長のブランド提携としている。"
+      },
+      "es": {
+        "title": "Alienware y Team Liquid extienden la alianza más longeva del esports hasta 2031",
+        "summary": "La marca Alienware, de Dell, y la organización de esports Team Liquid anunciaron una renovación de cinco años de su patrocinio, extendiendo una relación de 15 años hasta 2031. El nuevo acuerdo arranca con Alienware respaldando la participación de Team Liquid en la competición \"Race to World First\" de World of Warcraft, y ambas empresas lo califican como la alianza de marca más duradera del esports."
+      },
+      "zh": {
+        "title": "外星人与Team Liquid续约五年,将电竞史上最长品牌合作延续至2031年",
+        "summary": "戴尔旗下品牌外星人(Alienware)与电竞组织Team Liquid宣布将双方长达15年的赞助关系续约五年,延续至2031年。新协议首先聚焦外星人支持Team Liquid参加《魔兽世界》\"冲击世界第一\"竞赛,两家公司将此称为电竞史上持续时间最长的品牌合作关系。"
+      },
+      "fr": {
+        "title": "Alienware et Team Liquid prolongent le plus long partenariat de l'esport jusqu'en 2031",
+        "summary": "La marque Alienware, de Dell, et l'organisation esport Team Liquid ont annoncé un renouvellement de cinq ans de leur sponsoring, prolongeant une relation vieille de 15 ans jusqu'en 2031. Le nouvel accord débute avec le soutien d'Alienware à Team Liquid dans la compétition « Race to World First » de World of Warcraft, les deux entreprises le présentant comme le partenariat de marque le plus durable de l'esport."
+      }
+    }
+  },
+  {
+    "id": "twisted-minds-americana-foods-biofit-ewc-sponsors",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-07-14T00:00:00Z",
+    "source_name": "Dot Esports",
+    "source_url": "https://dotesports.com/general/news/twisted-minds-esports-sponsorship-deals-ewc-2026",
+    "i18n": {
+      "en": {
+        "title": "Saudi Esports Org Twisted Minds Adds Americana Foods and Biofit Ahead of Esports World Cup",
+        "summary": "Saudi Arabian esports organization Twisted Minds signed two new sponsorship deals ahead of the Esports World Cup, partnering with regional food brand Americana Foods and wellness provider Biofit. Americana Foods' logo will appear on the team's jersey sleeve, while Biofit will cover sports rehabilitation, medical assessments and gym access for players and staff; financial terms were not disclosed."
+      },
+      "ja": {
+        "title": "サウジのeスポーツ団体トゥイステッド・マインズ、Esports World Cupを前にアメリカーナ・フーズとバイオフィットと新規スポンサー契約",
+        "summary": "サウジアラビアのeスポーツ団体トゥイステッド・マインズは、Esports World Cupを前に、地域の食品ブランド「アメリカーナ・フーズ」と健康関連企業「バイオフィット」との新規スポンサー契約を発表した。アメリカーナ・フーズのロゴはチームのユニフォームの袖に掲出され、バイオフィットは選手やスタッフ向けのスポーツリハビリ、医療検査、ジム利用を提供する。契約金額は非公表。"
+      },
+      "es": {
+        "title": "La organización saudí de esports Twisted Minds suma a Americana Foods y Biofit antes de la Esports World Cup",
+        "summary": "La organización saudí de esports Twisted Minds firmó dos nuevos acuerdos de patrocinio antes de la Esports World Cup, asociándose con la marca regional de alimentos Americana Foods y el proveedor de bienestar Biofit. El logo de Americana Foods aparecerá en la manga de la camiseta del equipo, mientras que Biofit cubrirá rehabilitación deportiva, evaluaciones médicas y acceso a gimnasio para jugadores y personal; no se revelaron las cifras económicas."
+      },
+      "zh": {
+        "title": "沙特电竞组织Twisted Minds在电竞世界杯前新增Americana Foods与Biofit赞助商",
+        "summary": "沙特阿拉伯电竞组织Twisted Minds在电竞世界杯开赛前宣布了两项新赞助协议,分别与地区食品品牌Americana Foods和健康服务商Biofit达成合作。Americana Foods的标志将出现在球队球衣袖口,Biofit则将为选手及工作人员提供运动康复、体检和健身房使用服务;双方均未披露具体金额。"
+      },
+      "fr": {
+        "title": "L'organisation esport saoudienne Twisted Minds s'associe à Americana Foods et Biofit avant l'Esports World Cup",
+        "summary": "L'organisation esport saoudienne Twisted Minds a signé deux nouveaux accords de sponsoring avant l'Esports World Cup, s'associant à la marque alimentaire régionale Americana Foods et au prestataire de bien-être Biofit. Le logo d'Americana Foods figurera sur la manche du maillot de l'équipe, tandis que Biofit prendra en charge la rééducation sportive, les bilans médicaux et l'accès à la salle de sport pour les joueurs et le staff; les montants financiers n'ont pas été dévoilés."
+      }
+    }
+  },
+  {
+    "id": "allstate-la28-founding-partner",
+    "sport": "olympics",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-08-04T00:00:00Z",
+    "source_name": "LA28",
+    "source_url": "https://la28.org/en/newsroom/allstate-named-founding-partner-of-la28-olympic-and-paralympic-games-and-the-official-home-and-auto-insurance-partner-of-team-usa.html",
+    "i18n": {
+      "en": {
+        "title": "Allstate Named Founding Partner of LA28 Olympic and Paralympic Games",
+        "summary": "Insurer Allstate became a Founding Partner of the LA28 Olympic and Paralympic Games and the official home and auto insurance partner of Team USA, reportedly the ninth founding partner recruited for the Los Angeles Games. Allstate will also support NBCUniversal's multiplatform broadcast coverage of the Games as part of the partnership."
+      },
+      "ja": {
+        "title": "アラステート、LA28オリンピック・パラリンピックのファウンディングパートナーに",
+        "summary": "保険会社アラステートは、LA28オリンピック・パラリンピックのファウンディングパートナーとなり、米国代表チーム「チームUSA」の公式住宅・自動車保険パートナーに就任した。報道によれば、ロサンゼルス大会のファウンディングパートナーとしては9社目となる。提携の一環として、アラステートはNBCユニバーサルによる大会の多メディア中継も支援する。"
+      },
+      "es": {
+        "title": "Allstate es nombrada Socio Fundador de los Juegos Olímpicos y Paralímpicos de LA28",
+        "summary": "La aseguradora Allstate se convirtió en Socio Fundador de los Juegos Olímpicos y Paralímpicos de LA28 y en el patrocinador oficial de seguros de hogar y auto del Team USA, reportadamente el noveno socio fundador reclutado para los Juegos de Los Ángeles. Como parte de la alianza, Allstate también respaldará la cobertura multiplataforma de NBCUniversal sobre los Juegos."
+      },
+      "zh": {
+        "title": "好事达(Allstate)成为LA28奥运会及残奥会创始合伙人",
+        "summary": "保险公司好事达(Allstate)成为LA28奥运会及残奥会的创始合伙人,并担任美国代表队(Team USA)官方家庭与汽车保险合作伙伴,据报道是洛杉矶奥运会招募的第九位创始合伙人。作为合作的一部分,好事达还将支持NBC环球对本届赛事的多平台转播报道。"
+      },
+      "fr": {
+        "title": "Allstate devient Partenaire Fondateur des Jeux olympiques et paralympiques de LA28",
+        "summary": "L'assureur Allstate est devenu Partenaire Fondateur des Jeux olympiques et paralympiques de LA28 et le partenaire officiel d'assurance habitation et automobile de Team USA, apparemment le neuvième partenaire fondateur recruté pour les Jeux de Los Angeles. Dans le cadre de ce partenariat, Allstate soutiendra également la couverture multiplateforme de NBCUniversal sur les Jeux."
+      }
+    }
+  },
+  {
+    "id": "bleague-manila-games-2026-toyota",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "fan",
+      "sponsor"
+    ],
+    "published_at": "2026-10-12T00:00:00Z",
+    "source_name": "Daily Tribune (Philippines)",
+    "source_url": "https://tribune.net.ph/2026/10/12/toyota-ph-celebrates-70-years-of-japan-ph-friendship-with-bleague-games",
+    "i18n": {
+      "en": {
+        "title": "Toyota Backs B.League's First Overseas Games as Levanga Hokkaido, Gunma Crane Thunders Play in Manila",
+        "summary": "Japan's B.League held its first-ever games outside Japan, the B.League Manila Games 2026, with Levanga Hokkaido facing Gunma Crane Thunders at the SM Mall of Asia Arena. Toyota Motor Philippines sponsored the event, tying it to the league's 10th anniversary and the 70th anniversary of Japan-Philippines diplomatic ties, and ran a fan activation zone alongside the games."
+      },
+      "ja": {
+        "title": "トヨタが支援するBリーグ初の海外開催、レバンガ北海道とグンマクレインサンダーズがマニラで対戦",
+        "summary": "日本のBリーグは「B.LEAGUE MANILA GAMES 2026」として、史上初の海外開催試合をフィリピン・マニラのSMモール・オブ・エイジア・アリーナで実施し、レバンガ北海道とグンマクレインサンダーズが対戦した。トヨタモーター・フィリピンがイベントを協賛し、Bリーグ10周年および日比国交正常化70周年と結び付け、会場ではファン向けの体験ゾーンも設けられた。"
+      },
+      "es": {
+        "title": "Toyota respalda los primeros partidos de la B.League en el extranjero, con Levanga Hokkaido y Gunma Crane Thunders en Manila",
+        "summary": "La B.League japonesa celebró sus primeros partidos fuera de Japón, los B.League Manila Games 2026, enfrentando a Levanga Hokkaido contra Gunma Crane Thunders en el SM Mall of Asia Arena. Toyota Motor Philippines patrocinó el evento, vinculándolo al décimo aniversario de la liga y al 70º aniversario de las relaciones diplomáticas entre Japón y Filipinas, además de organizar una zona de activación para aficionados durante los partidos."
+      },
+      "zh": {
+        "title": "丰田赞助B联赛首次海外比赛,北海道莱万加对阵群马水晶雷霆落地马尼拉",
+        "summary": "日本B联赛举办了史上首次海外比赛——\"B.LEAGUE马尼拉赛2026\",北海道莱万加队对阵群马水晶雷霆队,比赛地点为SM亚洲购物中心竞技场。丰田菲律宾公司赞助了本次活动,并将其与联赛十周年及日菲建交70周年相结合,现场还设置了球迷互动体验区。"
+      },
+      "fr": {
+        "title": "Toyota soutient les premiers matchs de B.League à l'étranger, Levanga Hokkaido et Gunma Crane Thunders s'affrontent à Manille",
+        "summary": "La B.League japonaise a organisé ses premiers matchs hors du Japon, les B.League Manila Games 2026, opposant Levanga Hokkaido à Gunma Crane Thunders à la SM Mall of Asia Arena. Toyota Motor Philippines a sponsorisé l'événement, le liant au dixième anniversaire de la ligue et au 70e anniversaire des relations diplomatiques entre le Japon et les Philippines, tout en animant une zone d'activation pour les fans pendant les matchs."
+      }
+    }
+  },
+  {
+    "id": "vissel-kobe-sakura-kcs-official-partner",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-08-06T00:00:00Z",
+    "source_name": "Kobe Shimbun (PR Times)",
+    "source_url": "https://www.kobe-np.co.jp/info/prtimes/202608/c28015_r198.shtml",
+    "i18n": {
+      "en": {
+        "title": "Kobe IT Firm Sakura KCS Becomes Vissel Kobe Official Partner for 2026-27 Season",
+        "summary": "Kobe-based IT services company Sakura KCS signed an official partner agreement with Rakuten Vissel Kobe covering the 2026-27 season, announced the day before the J.League season kicked off. The company said the deal reflects its commitment to regional revitalization through sports, though contract value and specific terms were not disclosed."
+      },
+      "ja": {
+        "title": "神戸のIT企業さくらケーシーエス、ヴィッセル神戸と2026-27シーズンのオフィシャルパートナー契約",
+        "summary": "神戸市に本社を置くIT企業さくらケーシーエスは、楽天ヴィッセル神戸と2026-27シーズンのオフィシャルパートナー契約を締結したと発表した。発表はJリーグ開幕前日に行われ、同社はスポーツを通じた地域活性化への貢献を目的とするとしているが、契約金額や詳細な条件は公表されていない。"
+      },
+      "es": {
+        "title": "La firma de TI de Kobe Sakura KCS se convierte en socio oficial de Vissel Kobe para la temporada 2026-27",
+        "summary": "La empresa de servicios de TI con sede en Kobe, Sakura KCS, firmó un acuerdo de socio oficial con Rakuten Vissel Kobe para la temporada 2026-27, anunciado un día antes del inicio de la temporada de la J.League. La compañía dijo que el acuerdo refleja su compromiso con la revitalización regional a través del deporte, aunque no se revelaron el valor del contrato ni los términos específicos."
+      },
+      "zh": {
+        "title": "神户IT企业Sakura KCS成为神户胜利船2026-27赛季官方合作伙伴",
+        "summary": "总部位于神户的IT服务公司Sakura KCS宣布与乐天神户胜利船签订2026-27赛季官方合作伙伴协议,该消息在J联赛开幕前一天公布。该公司表示,此举体现了其通过体育促进地区振兴的承诺,但合同金额及具体条款未予披露。"
+      },
+      "fr": {
+        "title": "L'entreprise informatique de Kobe Sakura KCS devient partenaire officiel de Vissel Kobe pour la saison 2026-27",
+        "summary": "L'entreprise de services informatiques basée à Kobe, Sakura KCS, a signé un accord de partenaire officiel avec Rakuten Vissel Kobe pour la saison 2026-27, annoncé la veille du lancement de la saison de J.League. L'entreprise a déclaré que cet accord reflète son engagement en faveur de la revitalisation régionale par le sport, bien que la valeur du contrat et ses modalités précises n'aient pas été dévoilées."
+      }
+    }
   }
 ]
