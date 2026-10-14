@@ -6896,5 +6896,243 @@
         "summary": "La J.League a annoncé une collaboration avec The Pokémon Company baptisée « Pokémon J.League Fest EVOLUTION! », associant chacun de ses 60 clubs de J1, J2 et J3 à un Pokémon partenaire unique. La liste complète club par club a été révélée le lendemain, dans le cadre de la campagne du 30e anniversaire de Pokémon précédant la saison, qui prévoit aussi la distribution d'un million d'éco-sacs en édition limitée aux supporters."
       }
     }
+  },
+  {
+    "id": "dallas-stars-acrisure-jersey-patch-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-09-21T00:00:00Z",
+    "source_name": "NHL.com",
+    "source_url": "https://www.nhl.com/stars/news/dallas-stars-announce-acrisure-as-official-home-jersey-patch-partner-092126",
+    "i18n": {
+      "en": {
+        "title": "Dallas Stars Name Acrisure Inaugural Home Jersey Patch Partner",
+        "summary": "The Dallas Stars announced insurance and fintech firm Acrisure as the NHL franchise's first-ever home jersey patch partner, starting with the 2026-27 season. The company's logo will appear on the home sweater throughout the preseason, regular season and playoffs, and Acrisure will also serve as presenting sponsor of the team's annual Hall of Fame Gala."
+      },
+      "ja": {
+        "title": "ダラス・スターズ、アクリシュアを初の本拠地ジャージパッチパートナーに起用",
+        "summary": "ダラス・スターズは、保険・フィンテック企業アクリシュアを本拠地ジャージへの初めてのパッチスポンサーに起用すると発表した。契約は2026-27シーズンから始まり、ロゴはプレシーズンからプレーオフまで本拠地ユニフォームの胸に掲出される。アクリシュアはまた、チーム恒例の殿堂入りガラの冠スポンサーも務める。"
+      },
+      "es": {
+        "title": "Los Dallas Stars nombran a Acrisure su primer patrocinador de parche en la camiseta local",
+        "summary": "Los Dallas Stars anunciaron a la firma de seguros y fintech Acrisure como su primer patrocinador de parche en la camiseta local, a partir de la temporada 2026-27 de la NHL. El logotipo aparecerá en el uniforme local durante la pretemporada, la temporada regular y los playoffs, y Acrisure también será el patrocinador principal de la gala anual del Salón de la Fama del equipo."
+      },
+      "zh": {
+        "title": "达拉斯星队宣布Acrisure成为首个主场球衣广告贴标赞助商",
+        "summary": "达拉斯星队宣布保险与金融科技公司Acrisure成为球队历史上首个主场球衣广告贴标赞助商,合作从2026-27赛季开始。该标志将出现在季前赛、常规赛和季后赛的主场球衣上,Acrisure同时还将冠名赞助球队一年一度的名人堂晚宴。"
+      },
+      "fr": {
+        "title": "Les Stars de Dallas nomment Acrisure premier partenaire de patch sur maillot domicile",
+        "summary": "Les Stars de Dallas ont annoncé que la société d'assurance et de fintech Acrisure devient leur tout premier partenaire de patch sur le maillot domicile, à compter de la saison 2026-27 de la LNH. Le logo figurera sur le maillot domicile pendant la présaison, la saison régulière et les séries éliminatoires, et Acrisure sera également le sponsor-titre du gala annuel du Temple de la renommée de l'équipe."
+      }
+    }
+  },
+  {
+    "id": "cavaliers-blue-owl-minority-stake-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-07-06T00:00:00Z",
+    "source_name": "Blue Owl Capital",
+    "source_url": "https://ir.blueowl.com/Investors/news/news-details/2026/Blue-Owls-HomeCourt-Partners-Fund-Announces-Minority-Equity-Investment-in-Cleveland-Cavaliers/default.aspx",
+    "i18n": {
+      "en": {
+        "title": "Blue Owl's HomeCourt Partners Fund Takes Minority Stake in Cleveland Cavaliers",
+        "summary": "Blue Owl Capital's HomeCourt Partners fund has acquired a minority equity stake in the NBA's Cleveland Cavaliers, the asset manager confirmed. Terms of the investment were not disclosed, and Sportico has valued the franchise at roughly $4.86 billion."
+      },
+      "ja": {
+        "title": "ブルー・オウルのホームコートパートナーズ、クリーブランド・キャバリアーズの少数株式を取得",
+        "summary": "資産運用大手ブルー・オウル・キャピタルの「ホームコートパートナーズ」ファンドが、NBAクリーブランド・キャバリアーズの少数株式を取得したことが同社の発表で明らかになった。投資条件は公表されていないが、スポルティコは同球団の評価額を約48.6億ドルと算定している。"
+      },
+      "es": {
+        "title": "El fondo HomeCourt Partners de Blue Owl adquiere una participación minoritaria en los Cleveland Cavaliers",
+        "summary": "El fondo HomeCourt Partners de Blue Owl Capital ha adquirido una participación minoritaria en los Cleveland Cavaliers de la NBA, confirmó la gestora de activos. No se revelaron los términos de la inversión, y Sportico ha valorado la franquicia en unos 4.860 millones de dólares."
+      },
+      "zh": {
+        "title": "Blue Owl旗下HomeCourt Partners基金收购克利夫兰骑士队少数股权",
+        "summary": "资产管理公司Blue Owl Capital旗下的HomeCourt Partners基金已收购NBA克利夫兰骑士队的少数股权,该公司已确认此事。投资具体条款未披露,据Sportico估算,该球队估值约为48.6亿美元。"
+      },
+      "fr": {
+        "title": "Le fonds HomeCourt Partners de Blue Owl acquiert une part minoritaire des Cavaliers de Cleveland",
+        "summary": "Le fonds HomeCourt Partners de Blue Owl Capital a acquis une participation minoritaire dans les Cavaliers de Cleveland en NBA, a confirmé le gestionnaire d'actifs. Les conditions de l'investissement n'ont pas été divulguées, et Sportico évalue la franchise à environ 4,86 milliards de dollars."
+      }
+    }
+  },
+  {
+    "id": "stanford-doordash-jersey-patch-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-09-26T00:00:00Z",
+    "source_name": "Stanford Athletics",
+    "source_url": "https://roundtable.io/sports/ncaa/stanford/community/news/stanford-adds-doordash-partnership-press-release",
+    "i18n": {
+      "en": {
+        "title": "Stanford Athletics Signs DoorDash as Jersey Patch Partner in Largest Deal in Program History",
+        "summary": "Stanford Athletics announced a multi-year jersey patch partnership with delivery platform DoorDash, calling it the largest sponsorship agreement in the department's history. At least 15 varsity programs, including football, basketball, soccer and baseball, will carry the DoorDash logo, with football debuting the patch against Georgia Tech."
+      },
+      "ja": {
+        "title": "スタンフォード大学、ドアダッシュと史上最大規模のユニフォームパッチ契約",
+        "summary": "スタンフォード大学アスレチック局は、配達プラットフォームのドアダッシュと複数年にわたるユニフォームパッチ契約を結んだと発表し、同局史上最大規模のスポンサー契約だとしている。アメリカンフットボールやバスケットボール、サッカー、野球など少なくとも15競技がドアダッシュのロゴを着用し、フットボールはジョージア工科大戦でパッチをお披露目した。"
+      },
+      "es": {
+        "title": "Stanford ficha a DoorDash como patrocinador de parche en el mayor acuerdo de su historia",
+        "summary": "El departamento de atletismo de Stanford anunció una asociación plurianual de parche en el uniforme con la plataforma de reparto DoorDash, calificándola como el mayor acuerdo de patrocinio en la historia del programa. Al menos 15 equipos universitarios, incluidos fútbol americano, baloncesto, fútbol y béisbol, lucirán el logotipo de DoorDash, y el equipo de fútbol americano estrenó el parche ante Georgia Tech."
+      },
+      "zh": {
+        "title": "斯坦福大学与DoorDash达成校史最大规模球衣广告贴标协议",
+        "summary": "斯坦福大学体育部宣布与外卖平台DoorDash达成多年期球衣广告贴标合作协议,称这是该校体育部历史上规模最大的赞助协议。包括美式橄榄球、篮球、足球和棒球在内的至少15支校队将佩戴DoorDash标志,橄榄球队在对阵佐治亚理工的比赛中首次亮相该广告贴标。"
+      },
+      "fr": {
+        "title": "Stanford signe avec DoorDash le plus grand contrat de patch sur maillot de son histoire",
+        "summary": "Le département sportif de Stanford a annoncé un partenariat pluriannuel de patch sur maillot avec la plateforme de livraison DoorDash, le qualifiant du plus important accord de sponsoring de l'histoire du programme. Au moins 15 équipes universitaires, dont le football américain, le basketball, le football et le baseball, porteront le logo DoorDash, l'équipe de football américain ayant dévoilé le patch face à Georgia Tech."
+      }
+    }
+  },
+  {
+    "id": "milwaukee-tabak-law-jersey-patch-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-10-06T00:00:00Z",
+    "source_name": "Learfield",
+    "source_url": "https://www.learfield.com/2026/10/milwaukee-athletics-names-tabak-law-first-jersey-patch-partner-for-panthers-basketball-and-soccer-programs/",
+    "i18n": {
+      "en": {
+        "title": "Milwaukee Athletics Names Tabak Law First-Ever Jersey Patch Partner",
+        "summary": "The University of Wisconsin-Milwaukee's athletic department has named law firm Tabak Law as the first jersey patch sponsor for its Panthers basketball and soccer programs. The deal, facilitated by Learfield's Milwaukee Panther Sports Properties, follows the NCAA's January 2026 vote allowing patch sponsorships across Division I non-championship competition."
+      },
+      "ja": {
+        "title": "ミルウォーキー校、タバック・ローを初のユニフォームパッチパートナーに起用",
+        "summary": "ウィスコンシン大学ミルウォーキー校のアスレチック局は、法律事務所タバック・ローを、パンサーズのバスケットボールとサッカープログラムにおける初のユニフォームパッチスポンサーに起用したと発表した。この契約はラーンフィールド傘下のミルウォーキー・パンサー・スポーツ・プロパティーズが仲介したもので、NCAAが2026年1月にディビジョンI非選手権競技でのパッチスポンサーを認める決定を下したことを受けたものだ。"
+      },
+      "es": {
+        "title": "Milwaukee Athletics nombra a Tabak Law su primer patrocinador de parche en el uniforme",
+        "summary": "El departamento de atletismo de la Universidad de Wisconsin-Milwaukee nombró al bufete de abogados Tabak Law como su primer patrocinador de parche en el uniforme para los programas de baloncesto y fútbol de los Panthers. El acuerdo, gestionado por Milwaukee Panther Sports Properties de Learfield, llega tras la votación de la NCAA de enero de 2026 que permitió los parches de patrocinio en competiciones de División I fuera de los campeonatos."
+      },
+      "zh": {
+        "title": "密尔沃基大学体育部宣布Tabak Law为首个球衣广告贴标赞助商",
+        "summary": "威斯康星大学密尔沃基分校体育部宣布,律师事务所Tabak Law成为该校“黑豹”篮球和足球项目的首个球衣广告贴标赞助商。该协议由Learfield旗下的密尔沃基黑豹体育资产公司促成,此前NCAA已于2026年1月投票允许在一级联盟非锦标赛赛事中设置广告贴标赞助。"
+      },
+      "fr": {
+        "title": "Milwaukee Athletics désigne Tabak Law comme tout premier partenaire de patch sur maillot",
+        "summary": "Le département sportif de l'Université du Wisconsin-Milwaukee a désigné le cabinet d'avocats Tabak Law comme son tout premier partenaire de patch sur maillot pour les programmes de basketball et de football des Panthers. Cet accord, négocié par Milwaukee Panther Sports Properties de Learfield, fait suite au vote de la NCAA en janvier 2026 autorisant les patchs sponsorisés dans les compétitions de Division I hors championnats."
+      }
+    }
+  },
+  {
+    "id": "cal-dialpad-jersey-patch-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "tech"
+    ],
+    "published_at": "2026-07-14T00:00:00Z",
+    "source_name": "Learfield",
+    "source_url": "https://www.learfield.com/2026/07/cal-athletics-dialpad-announce-landmark-jersey-patch-sponsorship/",
+    "i18n": {
+      "en": {
+        "title": "Cal Athletics Signs Dialpad in Largest Sponsorship Deal in Program History",
+        "summary": "University of California Athletics announced AI communications company Dialpad as its inaugural jersey patch sponsor, covering all 30 Golden Bears varsity programs in a deal described as the largest corporate partnership in the department's history. Beyond the patch, the agreement includes naming rights to a club space at California Memorial Stadium and use of Dialpad's AI tools across ticketing and fundraising."
+      },
+      "ja": {
+        "title": "カリフォルニア大学、ダイヤルパッドと史上最大の契約を締結",
+        "summary": "カリフォルニア大学バークレー校のアスレチック局は、AIコミュニケーション企業ダイヤルパッドを初のユニフォームパッチスポンサーに起用したと発表した。契約はゴールデンベアーズの全30競技プログラムを対象とし、同局史上最大の企業パートナーシップとされる。パッチに加え、カリフォルニア・メモリアル・スタジアムのクラブスペースの命名権や、チケット販売・資金調達でのダイヤルパッドAIツール活用も契約に含まれる。"
+      },
+      "es": {
+        "title": "Cal ficha a Dialpad en el mayor acuerdo de patrocinio de su historia",
+        "summary": "El departamento de atletismo de la Universidad de California anunció a la empresa de comunicaciones con IA Dialpad como su primer patrocinador de parche en el uniforme, que abarca los 30 programas universitarios de los Golden Bears en un acuerdo descrito como la mayor alianza corporativa en la historia del departamento. Además del parche, el pacto incluye los derechos de nombre de un espacio club en el California Memorial Stadium y el uso de las herramientas de IA de Dialpad en la venta de entradas y la recaudación de fondos."
+      },
+      "zh": {
+        "title": "加州大学与Dialpad签下校史最大赞助协议",
+        "summary": "加州大学伯克利分校体育部宣布,人工智能通讯公司Dialpad成为其首个球衣广告贴标赞助商,协议覆盖“金熊”全部30个校队项目,被称为该部门历史上规模最大的企业合作。除贴标外,协议还包括加州纪念体育场一处俱乐部空间的冠名权,以及在票务和筹款环节使用Dialpad人工智能工具。"
+      },
+      "fr": {
+        "title": "Cal signe avec Dialpad le plus grand contrat de sponsoring de son histoire",
+        "summary": "Le département sportif de l'Université de Californie a annoncé l'entreprise de communication par IA Dialpad comme son tout premier sponsor de patch sur maillot, un accord couvrant les 30 programmes universitaires des Golden Bears et présenté comme le plus important partenariat d'entreprise de l'histoire du département. Outre le patch, l'accord inclut les droits de dénomination d'un espace club au California Memorial Stadium ainsi que l'utilisation des outils d'IA de Dialpad pour la billetterie et la collecte de fonds."
+      }
+    }
+  },
+  {
+    "id": "missouri-ambetter-health-jersey-patch-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-08-28T00:00:00Z",
+    "source_name": "Saturday Down South",
+    "source_url": "https://www.saturdaydownsouth.com/news/college-football/mizzou-announces-jersey-patch-partnership-for-2026-season",
+    "i18n": {
+      "en": {
+        "title": "Missouri Athletics Adds Ambetter Health as Jersey Patch Sponsor",
+        "summary": "The University of Missouri announced a jersey patch partnership with health insurer Ambetter Health, with the logo set to appear on football and Olympic-sport uniforms starting in the 2026 season. The agreement, facilitated by Learfield, excludes the men's and women's basketball programs and is part of a broader sponsorship package with the health insurer."
+      },
+      "ja": {
+        "title": "ミズーリ大学、アンベター・ヘルスとユニフォームパッチ契約",
+        "summary": "ミズーリ大学は、健康保険会社アンベター・ヘルスとのユニフォームパッチ契約を発表し、2026年シーズンからアメリカンフットボールとオリンピック競技のユニフォームにロゴが掲出されることになった。ラーンフィールドが仲介したこの契約は男女バスケットボールを除く競技を対象とし、同保険会社との幅広いスポンサーシップ契約の一部となっている。"
+      },
+      "es": {
+        "title": "Missouri suma a Ambetter Health como patrocinador de parche en el uniforme",
+        "summary": "La Universidad de Missouri anunció una alianza de parche en el uniforme con la aseguradora de salud Ambetter Health, cuyo logotipo aparecerá en los uniformes de fútbol americano y de los deportes olímpicos a partir de la temporada 2026. El acuerdo, gestionado por Learfield, excluye a los equipos de baloncesto masculino y femenino y forma parte de un paquete de patrocinio más amplio con la aseguradora."
+      },
+      "zh": {
+        "title": "密苏里大学与Ambetter Health达成球衣广告贴标合作",
+        "summary": "密苏里大学宣布与健康保险公司Ambetter Health达成球衣广告贴标合作,自2026赛季起,其标志将出现在美式橄榄球和奥运项目队服上。该协议由Learfield促成,男女篮球项目不在合作范围内,是与这家保险公司更广泛赞助合作的一部分。"
+      },
+      "fr": {
+        "title": "Missouri ajoute Ambetter Health comme sponsor de patch sur maillot",
+        "summary": "L'Université du Missouri a annoncé un partenariat de patch sur maillot avec l'assureur santé Ambetter Health, dont le logo apparaîtra sur les maillots de football américain et des sports olympiques dès la saison 2026. Cet accord, négocié par Learfield, exclut les programmes de basketball masculin et féminin et s'inscrit dans un ensemble de sponsoring plus large avec l'assureur."
+      }
+    }
+  },
+  {
+    "id": "fukushima-firebonds-niraku-partner-2026",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-10-12T23:20:00Z",
+    "source_name": "PR TIMES",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000109.000011834.html",
+    "i18n": {
+      "en": {
+        "title": "Fukushima Firebonds Renew Niraku Group as Top Partner for 2026-27 Season",
+        "summary": "B.LEAGUE ONE club the Fukushima Firebonds announced a renewed top-partner sponsorship agreement with leisure-facility operator Niraku Group for the 2026-27 season. The partnership, marking its 13th consecutive year, has continued since the club's founding season in 2014."
+      },
+      "ja": {
+        "title": "福島ファイヤーボンズ、ニラクグループとのトップパートナー契約を2026-27シーズンも更新",
+        "summary": "B.LEAGUE ONE所属の福島ファイヤーボンズは、レジャー施設運営会社ニラクグループとの2026-27シーズンのオフィシャルトップパートナー契約更新を発表した。このパートナーシップはクラブ創設シーズンの2014年から続いており、13年連続の継続となる。"
+      },
+      "es": {
+        "title": "Fukushima Firebonds renueva a Niraku Group como socio principal para la temporada 2026-27",
+        "summary": "El club de B.LEAGUE ONE Fukushima Firebonds anunció la renovación de su acuerdo de patrocinio como socio principal con el operador de instalaciones de ocio Niraku Group para la temporada 2026-27. La asociación, que llega a su 13.º año consecutivo, se mantiene desde la temporada fundacional del club en 2014."
+      },
+      "zh": {
+        "title": "福岛烈焰续签Niraku集团为2026-27赛季首席合作伙伴",
+        "summary": "B.LEAGUE ONE球队福岛烈焰宣布与休闲设施运营商Niraku集团续签2026-27赛季的官方首席合作伙伴协议。这项合作关系自球队2014年创立赛季以来已连续保持13年。"
+      },
+      "fr": {
+        "title": "Les Fukushima Firebonds renouvellent leur partenariat principal avec Niraku Group pour 2026-27",
+        "summary": "Le club de B.LEAGUE ONE Fukushima Firebonds a annoncé le renouvellement de son contrat de partenaire principal avec l'exploitant d'installations de loisirs Niraku Group pour la saison 2026-27. Ce partenariat, qui entame sa 13e année consécutive, se poursuit depuis la saison de fondation du club en 2014."
+      }
+    }
   }
 ]
