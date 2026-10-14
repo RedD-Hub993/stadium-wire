@@ -6796,5 +6796,109 @@
         "summary": "L'entreprise de services informatiques basée à Kobe, Sakura KCS, a signé un accord de partenaire officiel avec Rakuten Vissel Kobe pour la saison 2026-27, annoncé la veille du lancement de la saison de J.League. L'entreprise a déclaré que cet accord reflète son engagement en faveur de la revitalisation régionale par le sport, bien que la valeur du contrat et ses modalités précises n'aient pas été dévoilées."
       }
     }
+  },
+  {
+    "id": "marlins-ownership-stake-sale-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-06-01T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/business/team-sales/2026/miami-marlins-ownership-stake-value-1234901684/",
+    "i18n": {
+      "en": {
+        "title": "Marlins Sell Minority Stake at $1.55 Billion Valuation",
+        "summary": "Miami Marlins owner Bruce Sherman sold roughly a 15% stake in the club to two South Florida family investors this spring, with the deal valuing the franchise at around $1.55 billion. Sherman retains control as the team's principal owner, and proceeds were reportedly used in part to pay down existing debt."
+      },
+      "ja": {
+        "title": "マーリンズ、株式の一部売却で評価額15億5000万ドルに",
+        "summary": "マイアミ・マーリンズのオーナーであるブルース・シャーマン氏は今春、球団株式の約15%をフロリダ州南部の投資家2名に売却し、評価額は約15億5000万ドルとされる。シャーマン氏は筆頭オーナーとしての経営権を維持しており、売却益の一部は既存債務の返済に充てられたと報じられている。"
+      },
+      "es": {
+        "title": "Los Marlins venden una participación minoritaria con una valoración de 1.550 millones de dólares",
+        "summary": "El propietario de los Miami Marlins, Bruce Sherman, vendió esta primavera cerca del 15% de las acciones del club a dos inversores familiares del sur de Florida, en una operación que valoró la franquicia en unos 1.550 millones de dólares. Sherman conserva el control como propietario principal del equipo, y parte de lo recaudado se habría destinado a reducir deuda existente."
+      },
+      "zh": {
+        "title": "马林鱼队出售少数股权 估值达15.5亿美元",
+        "summary": "迈阿密马林鱼队老板布鲁斯·谢尔曼今年春季将球队约15%的股份出售给两位南佛罗里达家族投资者,交易对球队估值约为15.5亿美元。谢尔曼仍作为球队主要所有者保有控制权,据报道部分出售所得用于偿还现有债务。"
+      },
+      "fr": {
+        "title": "Les Marlins cèdent une participation minoritaire valorisant le club à 1,55 milliard de dollars",
+        "summary": "Le propriétaire des Marlins de Miami, Bruce Sherman, a vendu ce printemps environ 15 % des parts du club à deux investisseurs familiaux du sud de la Floride, une opération valorisant la franchise à environ 1,55 milliard de dollars. Sherman conserve le contrôle en tant que propriétaire principal, une partie du produit de la vente ayant été utilisée pour rembourser des dettes existantes."
+      }
+    }
+  },
+  {
+    "id": "npb-japan-series-2026-smbc-title-sponsor",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "fan",
+      "biz"
+    ],
+    "published_at": "2026-08-04T00:00:00Z",
+    "source_name": "NPB (Nippon Professional Baseball)",
+    "source_url": "https://npb.jp/news/detail/20260804_01.html",
+    "i18n": {
+      "en": {
+        "title": "NPB Names Sumitomo Mitsui Banking Corporation Title Sponsor of Japan Series 2026",
+        "summary": "Nippon Professional Baseball confirmed Sumitomo Mitsui Banking Corporation as the special sponsor of the 2026 Japan Series, marking the bank's 13th consecutive year in the role. The series, officially titled 'SMBC Japan Series 2026,' is set to open on October 24 and will include a fan ticket giveaway campaign tied to the sponsorship."
+      },
+      "ja": {
+        "title": "NPB、「日本シリーズ2026」特別協賛に三井住友銀行を発表",
+        "summary": "日本野球機構(NPB)は、三井住友銀行(SMBC)を「日本シリーズ2026」の特別協賛社として発表した。同行による特別協賛は13年連続となる。大会は正式名称「SMBC日本シリーズ2026」として10月24日に開幕し、協賛に合わせたファン向けのチケットプレゼント企画も実施される。"
+      },
+      "es": {
+        "title": "NPB nombra a Sumitomo Mitsui Banking Corporation patrocinador principal de la Serie de Japón 2026",
+        "summary": "El béisbol profesional japonés (NPB) confirmó a Sumitomo Mitsui Banking Corporation como patrocinador especial de la Serie de Japón 2026, su decimotercer año consecutivo en ese papel. La serie, denominada oficialmente 'SMBC Japan Series 2026', comenzará el 24 de octubre e incluirá un sorteo de entradas para los aficionados vinculado al patrocinio."
+      },
+      "zh": {
+        "title": "NPB宣布三井住友银行为2026年日本大赛特别冠名赞助商",
+        "summary": "日本职业棒球组织(NPB)确认三井住友银行(SMBC)将连续第13年担任日本大赛特别赞助商。本届赛事正式命名为“SMBC日本大赛2026”,将于10月24日开幕,并配合赞助推出球迷门票抽奖活动。"
+      },
+      "fr": {
+        "title": "La NPB nomme Sumitomo Mitsui Banking Corporation sponsor titre de la Japan Series 2026",
+        "summary": "La ligue japonaise de baseball professionnel (NPB) a confirmé Sumitomo Mitsui Banking Corporation comme sponsor spécial de la Japan Series 2026, une 13e année consécutive dans ce rôle. La série, officiellement baptisée « SMBC Japan Series 2026 », doit débuter le 24 octobre et comprendra un jeu-concours de billets pour les supporters lié au partenariat."
+      }
+    }
+  },
+  {
+    "id": "nippon-foundation-bleague-community-grants-2026",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "biz",
+      "fan",
+      "team"
+    ],
+    "published_at": "2026-07-16T00:00:00Z",
+    "source_name": "Kumamoto Nichinichi Shimbun",
+    "source_url": "https://kumanichi.com/articles/2014487",
+    "i18n": {
+      "en": {
+        "title": "Nippon Foundation Awards About ¥300 Million in Community Grants to 28 B.League Clubs",
+        "summary": "The Nippon Foundation and B.League announced roughly 300 million yen in 'machizukuri' community-development grants spread across 28 clubs for the 2026 fiscal year, continuing a program launched in 2025. Newly funded projects include a Kyoto club's plan to open a permanent candy shop inside its practice facility to foster ties with local residents."
+      },
+      "ja": {
+        "title": "日本財団、Bリーグ28クラブに「まちづくり助成」総額約3億円を交付",
+        "summary": "日本財団とBリーグは、2026年度の「まちづくり助成」として全国28クラブに総額約3億円を交付すると発表した。2025年度に始まったこの制度は、クラブが自治体や企業と連携して地域活動を続けることを支援するもので、新規採択事業には京都のクラブが練習場内に駄菓子屋を常設し地域住民との交流拠点とする計画が含まれる。"
+      },
+      "es": {
+        "title": "Nippon Foundation entrega unos 300 millones de yenes en subvenciones comunitarias a 28 clubes de la B.League",
+        "summary": "Nippon Foundation y la B.League anunciaron subvenciones de desarrollo comunitario, conocidas como 'machizukuri', por un total aproximado de 300 millones de yenes repartidos entre 28 clubes para el año fiscal 2026, dando continuidad a un programa iniciado en 2025. Entre los nuevos proyectos financiados figura el plan de un club de Kioto de abrir una tienda de dulces permanente dentro de sus instalaciones de entrenamiento para fomentar los lazos con los residentes locales."
+      },
+      "zh": {
+        "title": "日本财团向28家B联赛俱乐部拨款约3亿日元用于社区建设项目",
+        "summary": "日本财团与B联赛宣布,2026财年将向全国28家俱乐部拨款总计约3亿日元,用于“城市建设”社区发展项目,延续了始于2025年度的资助计划。新获资助的项目包括京都一家俱乐部计划在训练场内常设一家糖果店,作为与当地居民交流的场所。"
+      },
+      "fr": {
+        "title": "La Fondation Nippon verse environ 300 millions de yens de subventions communautaires à 28 clubs de B.League",
+        "summary": "La Fondation Nippon et la B.League ont annoncé l'octroi d'environ 300 millions de yens de subventions de développement communautaire, dites « machizukuri », réparties entre 28 clubs pour l'exercice 2026, prolongeant un programme lancé en 2025. Parmi les nouveaux projets financés figure celui d'un club de Kyoto, qui prévoit d'ouvrir une confiserie permanente dans son centre d'entraînement pour tisser des liens avec les habitants du quartier."
+      }
+    }
   }
 ]
