@@ -7067,5 +7067,306 @@
         "summary": "Le producteur de saké Suigei Shuzo, basé dans la préfecture de Kochi, a annoncé un accord de parrainage avec les Yokohama DeNA BayStars de la NPB, et la brasserie a lancé une édition limitée de saké pour célébrer ce nouveau partenariat. L'accord ajoute une marque de boisson régionale à la liste croissante de partenaires commerciaux des BayStars avant la nouvelle saison."
       }
     }
+  },
+  {
+    "id": "hpe-tottenham-hotspur-stadium-ai-expansion-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "tech",
+      "stadium"
+    ],
+    "published_at": "2026-09-08T00:00:00Z",
+    "source_name": "HPE Newsroom",
+    "source_url": "https://www.hpe.com/us/en/newsroom/press-release/2026/09/tottenham-hotspur-and-hpe-transform-digital-fan-experience-and-stadium-operations.html",
+    "i18n": {
+      "en": {
+        "title": "HPE Expands Tech Partnership With Tottenham Hotspur",
+        "summary": "Hewlett Packard Enterprise is broadening its long-running deal with Tottenham Hotspur to modernize the networking, hybrid cloud and IT systems that run the club's stadium. The expanded partnership adds AI-driven monitoring designed to flag operational problems before they can cause outages."
+      },
+      "ja": {
+        "title": "HPEがトッテナムとのスタジアムIT提携を拡大",
+        "summary": "ヒューレット・パッカード・エンタープライズは、トッテナム・ホットスパーとの長期提携を拡大し、スタジアム運営を支えるネットワークやハイブリッドクラウド、ITシステムを刷新する。新たな取り組みではAIによる監視機能を導入し、障害が発生する前に問題を検知することを目指す。"
+      },
+      "es": {
+        "title": "HPE amplía su alianza tecnológica con el Tottenham Hotspur",
+        "summary": "Hewlett Packard Enterprise ampliará su acuerdo de larga data con el Tottenham Hotspur para modernizar las redes, la nube híbrida y los sistemas de TI que sostienen las operaciones del estadio. La alianza ampliada incorpora supervisión basada en IA pensada para detectar problemas operativos antes de que provoquen interrupciones."
+      },
+      "zh": {
+        "title": "HPE扩大与托特纳姆热刺的球场技术合作",
+        "summary": "慧与科技（HPE）将扩大与托特纳姆热刺长期合作的范围，升级支撑球场运营的网络、混合云和IT系统。此次扩展还引入了人工智能监控功能，旨在问题引发故障之前提前预警。"
+      },
+      "fr": {
+        "title": "HPE élargit son partenariat technologique avec Tottenham Hotspur",
+        "summary": "Hewlett Packard Enterprise élargit son partenariat de longue date avec Tottenham Hotspur afin de moderniser les réseaux, le cloud hybride et les systèmes informatiques qui font fonctionner le stade. Ce partenariat élargi intègre une surveillance pilotée par l'IA destinée à repérer les problèmes opérationnels avant qu'ils ne provoquent des interruptions."
+      }
+    }
+  },
+  {
+    "id": "nascar-freeway-insurance-premier-partner-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2025-11-05T00:00:00Z",
+    "source_name": "Sports Illustrated",
+    "source_url": "https://www.si.com/onsi/racing-america/news/nascar-lands-a-new-multi-year-premier-partner-beginning-in-2026",
+    "i18n": {
+      "en": {
+        "title": "NASCAR Signs Freeway Insurance as Multi-Year Premier Partner",
+        "summary": "NASCAR has named Freeway Insurance a Premier Partner under a multi-year deal starting in 2026, filling the top-tier sponsorship slot GEICO vacated after 2024. As part of the agreement, the Phoenix fall Cup Series race will be renamed the Freeway Insurance 500."
+      },
+      "ja": {
+        "title": "NASCAR、フリーウェイ・インシュランスと複数年のプレミアパートナー契約",
+        "summary": "NASCARは2026年シーズンから、フリーウェイ・インシュランスを複数年契約のプレミアパートナーに起用すると発表した。GEICOが2024年シーズン終了後に離脱した最上位スポンサーの枠を引き継ぐ形となる。契約に合わせて、フェニックスで行われる秋のカップシリーズ大会は「フリーウェイ・インシュランス500」に改称される。"
+      },
+      "es": {
+        "title": "NASCAR firma con Freeway Insurance como Socio Premier plurianual",
+        "summary": "NASCAR nombró a Freeway Insurance como Socio Premier mediante un acuerdo plurianual que comienza en 2026, ocupando el espacio de primer nivel que GEICO dejó vacante tras 2024. Como parte del acuerdo, la carrera de otoño de la Cup Series en Phoenix pasará a llamarse Freeway Insurance 500."
+      },
+      "zh": {
+        "title": "NASCAR与Freeway Insurance签署多年首席合作伙伴协议",
+        "summary": "NASCAR宣布Freeway Insurance将自2026赛季起成为其多年期首席合作伙伴，填补了GEICO在2024赛季后退出的顶级赞助席位。根据协议，凤凰城秋季杯赛将更名为“Freeway Insurance 500”。"
+      },
+      "fr": {
+        "title": "NASCAR signe avec Freeway Insurance comme partenaire Premier pluriannuel",
+        "summary": "NASCAR a nommé Freeway Insurance partenaire Premier dans le cadre d'un accord pluriannuel débutant en 2026, occupant la place de sponsor de premier rang laissée vacante par GEICO après 2024. Dans le cadre de cet accord, la course d'automne de la Cup Series à Phoenix sera renommée Freeway Insurance 500."
+      }
+    }
+  },
+  {
+    "id": "nascar-oreilly-auto-parts-series-title-sponsor-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2025-11-05T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/news/oreilly-auto-parts-named-new-title-sponsor-of-nascars-secondary-series/",
+    "i18n": {
+      "en": {
+        "title": "O'Reilly Auto Parts Becomes Title Sponsor of NASCAR's Second-Tier Series",
+        "summary": "O'Reilly Auto Parts has replaced Xfinity as title sponsor of NASCAR's secondary series, which will be renamed the NASCAR O'Reilly Auto Parts Series. NASCAR did not disclose financial terms and described the agreement as a medium-term deal."
+      },
+      "ja": {
+        "title": "オライリー・オートパーツがNASCAR第2階層シリーズの冠スポンサーに",
+        "summary": "オライリー・オートパーツが、これまで冠スポンサーだったXfinityに代わってNASCAR第2階層シリーズの冠スポンサーとなり、大会名称は「NASCARオライリー・オートパーツ・シリーズ」に変更される。NASCARは契約金額を公表していないが、中期的な契約であるとしている。"
+      },
+      "es": {
+        "title": "O'Reilly Auto Parts se convierte en patrocinador principal de la segunda categoría de NASCAR",
+        "summary": "O'Reilly Auto Parts sustituye a Xfinity como patrocinador principal de la serie secundaria de NASCAR, que pasará a llamarse NASCAR O'Reilly Auto Parts Series. NASCAR no reveló los términos financieros y describió el acuerdo como de mediano plazo."
+      },
+      "zh": {
+        "title": "欧莱利汽车配件成为NASCAR次级系列赛冠名赞助商",
+        "summary": "欧莱利汽车配件取代Xfinity，成为NASCAR次级系列赛的冠名赞助商，该系列赛将更名为“NASCAR欧莱利汽车配件系列赛”。NASCAR未披露具体金额，称该协议为中期合作。"
+      },
+      "fr": {
+        "title": "O'Reilly Auto Parts devient sponsor-titre de la série de deuxième niveau de NASCAR",
+        "summary": "O'Reilly Auto Parts remplace Xfinity comme sponsor-titre de la série secondaire de NASCAR, qui sera rebaptisée NASCAR O'Reilly Auto Parts Series. NASCAR n'a pas communiqué les termes financiers et a qualifié l'accord de contrat à moyen terme."
+      }
+    }
+  },
+  {
+    "id": "nwsl-2026-sportico-valuations-angel-city-top",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "biz",
+      "team"
+    ],
+    "published_at": "2026-09-02T00:00:00Z",
+    "source_name": "Sportico",
+    "source_url": "https://www.sportico.com/valuations/teams/2026/nwsl-team-values-2026-angel-city-1234886336/",
+    "i18n": {
+      "en": {
+        "title": "NWSL Team Values Jump 77% in Sportico's 2026 Ranking",
+        "summary": "Sportico's 2026 valuation of NWSL clubs puts the average franchise at roughly $184 million, a 77% increase from its prior report, with the 14 teams that played in 2025 collectively worth about $2.6 billion. Angel City tops the list at $335 million, followed by Kansas City Current, Bay FC, San Diego Wave and Washington Spirit."
+      },
+      "ja": {
+        "title": "NWSLの球団価値、Sportico2026年版ランキングで77%増",
+        "summary": "Sporticoが発表した2026年のNWSLクラブ評価では、平均球団価値が前回調査から77%増の約1億8400万ドルとなり、2025年にプレーした14クラブの合計価値は約26億ドルに達した。首位はエンジェルシティFCで3億3500万ドル、以下カンザスシティ・カレント、ベイFC、サンディエゴ・ウェーブ、ワシントン・スピリットが続く。"
+      },
+      "es": {
+        "title": "El valor de los equipos de la NWSL sube un 77% en el ranking 2026 de Sportico",
+        "summary": "La valoración 2026 de Sportico sitúa el valor promedio de los clubes de la NWSL en unos 184 millones de dólares, un 77% más que su informe anterior, y calcula que los 14 equipos que jugaron en 2025 valen en conjunto unos 2.600 millones de dólares. Angel City encabeza la lista con 335 millones, seguido de Kansas City Current, Bay FC, San Diego Wave y Washington Spirit."
+      },
+      "zh": {
+        "title": "Sportico 2026年排名：NWSL球队估值猛增77%",
+        "summary": "据Sportico发布的2026年估值报告，NWSL球队平均估值约为1.84亿美元，较上次报告增长77%，2025赛季参赛的14支球队总估值约为26亿美元。天使城FC以3.35亿美元位居榜首，堪萨斯城现在、湾区FC、圣迭戈浪潮和华盛顿精神紧随其后。"
+      },
+      "fr": {
+        "title": "La valeur des clubs de NWSL bondit de 77% dans le classement 2026 de Sportico",
+        "summary": "L'évaluation 2026 de Sportico situe la valeur moyenne d'un club de NWSL à environ 184 millions de dollars, en hausse de 77% par rapport à son précédent rapport, les 14 équipes ayant joué en 2025 valant collectivement environ 2,6 milliards de dollars. Angel City arrive en tête avec 335 millions, suivi de Kansas City Current, Bay FC, San Diego Wave et Washington Spirit."
+      }
+    }
+  },
+  {
+    "id": "hanwha-life-esports-brooks-brothers-rockport-2026",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-01-14T00:00:00Z",
+    "source_name": "Inven Global",
+    "source_url": "https://www.invenglobal.com/articles/20089/hanwha-life-esports-signs-sponsorship-deal-with-brandworks-korea",
+    "i18n": {
+      "en": {
+        "title": "Hanwha Life Esports Adds Brooks Brothers and Rockport as Sponsors",
+        "summary": "Hanwha Life Esports renewed its partnership with Brandworks Korea, again pairing with Brooks Brothers while adding Rockport for the first time. Brooks Brothers will supply apparel while Rockport provides footwear, with players wearing the gear on stage starting at the team's 2026 Fan Fest."
+      },
+      "ja": {
+        "title": "Hanwha Life Esports、ブルックス ブラザーズとロックポートとスポンサー契約",
+        "summary": "Hanwha Life Esportsは、ブランドワークス・コリアとの提携を更新し、ブルックス ブラザーズとの契約を継続する一方、新たにロックポートを加えた。ブルックス ブラザーズが衣料を、ロックポートが靴を提供し、選手たちは2026年のファンフェスティバルから着用を始める。"
+      },
+      "es": {
+        "title": "Hanwha Life Esports incorpora a Brooks Brothers y Rockport como patrocinadores",
+        "summary": "Hanwha Life Esports renovó su alianza con Brandworks Korea, manteniendo a Brooks Brothers como patrocinador e incorporando por primera vez a Rockport. Brooks Brothers aportará la vestimenta y Rockport el calzado, que los jugadores lucirán desde el Fan Fest 2026 del equipo."
+      },
+      "zh": {
+        "title": "Hanwha Life Esports签约Brooks Brothers与Rockport",
+        "summary": "Hanwha Life Esports与Brandworks Korea续约，继续与Brooks Brothers合作，并首次引入Rockport。Brooks Brothers负责提供服装，Rockport负责鞋履，选手将从球队2026年粉丝嘉年华开始穿着亮相。"
+      },
+      "fr": {
+        "title": "Hanwha Life Esports s'associe à Brooks Brothers et Rockport",
+        "summary": "Hanwha Life Esports a renouvelé son partenariat avec Brandworks Korea, conservant Brooks Brothers comme sponsor et ajoutant Rockport pour la première fois. Brooks Brothers fournira les tenues et Rockport les chaussures, que les joueurs porteront dès le Fan Fest 2026 de l'équipe."
+      }
+    }
+  },
+  {
+    "id": "woori-bank-lck-sponsorship-eighth-year-renewal",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-01-10T00:00:00Z",
+    "source_name": "Inven Global",
+    "source_url": "https://www.invenglobal.com/articles/20079/woori-bank-renews-lck-sponsorship-for-eighth-straight-year-extending-long-running-league-of-legends-esports-partnership",
+    "i18n": {
+      "en": {
+        "title": "Woori Bank Renews LCK Sponsorship for Eighth Straight Year",
+        "summary": "Woori Bank has extended its sponsorship of the League of Legends Champions Korea for an eighth consecutive year, continuing a partnership it began in 2019. The bank also runs a high-school League of Legends program aimed at reaching younger customers and spotting emerging talent."
+      },
+      "ja": {
+        "title": "ウリ銀行、LCKスポンサーシップを8年連続更新",
+        "summary": "ウリ銀行は、League of Legends Champions Korea（LCK）へのスポンサー契約を8年連続で更新した。2019年に始まったこの提携を継続する形となる。同行は若年層の取り込みと新たな才能の発掘を狙い、高校生向けのLeague of Legendsリーグも運営している。"
+      },
+      "es": {
+        "title": "Woori Bank renueva su patrocinio de la LCK por octavo año consecutivo",
+        "summary": "Woori Bank ha extendido su patrocinio de la League of Legends Champions Korea por octavo año consecutivo, continuando una alianza que comenzó en 2019. El banco también gestiona una liga escolar de League of Legends orientada a captar clientes jóvenes y detectar talento emergente."
+      },
+      "zh": {
+        "title": "友利银行连续第八年续约LCK赞助",
+        "summary": "友利银行已连续第八年延续对韩国英雄联盟冠军联赛（LCK）的赞助，延续自2019年开始的合作关系。该银行还运营一项面向高中生的英雄联盟联赛，旨在吸引年轻客户并发掘新秀选手。"
+      },
+      "fr": {
+        "title": "Woori Bank renouvelle son parrainage de la LCK pour une huitième année consécutive",
+        "summary": "Woori Bank a prolongé son parrainage de la League of Legends Champions Korea pour une huitième année consécutive, poursuivant un partenariat entamé en 2019. La banque gère également une ligue lycéenne de League of Legends destinée à attirer une clientèle plus jeune et à repérer de nouveaux talents."
+      }
+    }
+  },
+  {
+    "id": "chiba-lotte-zozo-marine-stadium-naming-renewal-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-06-30T00:00:00Z",
+    "source_name": "Kumanichi",
+    "source_url": "https://kumanichi.com/articles/2008519",
+    "i18n": {
+      "en": {
+        "title": "Chiba Agrees to Renew ZOZO Marine Stadium Naming Rights",
+        "summary": "The city of Chiba has agreed to renew its naming-rights contract with ZOZO for the Chiba Lotte Marines' home ballpark, keeping the ZOZO Marine Stadium name. The new seven-year deal runs from December 2026 through November 2033 and raises the annual fee by about 90 million yen to roughly 400 million yen."
+      },
+      "ja": {
+        "title": "千葉市、ZOZOマリンスタジアムの命名権契約更新に合意",
+        "summary": "千葉市は、千葉ロッテマリーンズの本拠地球場の命名権契約をZOZOと更新することに合意し、「ZOZOマリンスタジアム」の名称が継続される。新契約は2026年12月から2033年11月までの7年間で、契約金はこれまでより9千万円高い年間約4億円となる。"
+      },
+      "es": {
+        "title": "Chiba acuerda renovar los derechos de nombre del ZOZO Marine Stadium",
+        "summary": "La ciudad de Chiba acordó renovar su contrato de naming rights con ZOZO para el estadio de los Chiba Lotte Marines, que conservará el nombre ZOZO Marine Stadium. El nuevo acuerdo, de siete años, va de diciembre de 2026 a noviembre de 2033 y eleva la cuota anual en unos 90 millones de yenes, hasta aproximadamente 400 millones."
+      },
+      "zh": {
+        "title": "千叶市同意续签ZOZO海洋球场命名权",
+        "summary": "千叶市已同意与ZOZO续签千叶罗德海洋队主场的命名权合同，球场将继续沿用“ZOZO海洋球场”名称。新合同为期七年，自2026年12月至2033年11月，年费较此前提高约9000万日元，达到约4亿日元。"
+      },
+      "fr": {
+        "title": "Chiba accepte de renouveler les droits de dénomination du ZOZO Marine Stadium",
+        "summary": "La ville de Chiba a accepté de renouveler son contrat de naming avec ZOZO pour le stade des Chiba Lotte Marines, qui conservera le nom ZOZO Marine Stadium. Le nouvel accord de sept ans court de décembre 2026 à novembre 2033 et porte la redevance annuelle à environ 400 millions de yens, soit environ 90 millions de plus qu'auparavant."
+      }
+    }
+  },
+  {
+    "id": "houston-dynamo-tixr-ticketing-partnership-2025",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "fan",
+      "tech"
+    ],
+    "published_at": "2025-11-15T00:00:00Z",
+    "source_name": "HoustonDynamoFC.com",
+    "source_url": "https://www.houstondynamofc.com/news/houston-dynamo-fc-announce-multiyear-ticketing-partnership-with-tixr-to-improve-fan-experience-at-shell-energy-stadium-x7976",
+    "i18n": {
+      "en": {
+        "title": "Houston Dynamo FC Signs Multiyear Ticketing Deal With Tixr",
+        "summary": "Houston Dynamo FC has struck a multiyear partnership with ticketing platform Tixr to streamline how fans buy tickets and access events at Shell Energy Stadium. The club says the deal is meant to create a more unified, all-in-one ticketing and event experience for supporters."
+      },
+      "ja": {
+        "title": "ヒューストン・ダイナモ、チケット販売でTixrと複数年提携",
+        "summary": "ヒューストン・ダイナモFCは、チケット販売プラットフォームのTixrと複数年契約を結び、シェル・エナジー・スタジアムでのチケット購入やイベント参加の体験を改善する。クラブ側は、この提携によりファン向けのチケット販売とイベント運営をより一体化させたいとしている。"
+      },
+      "es": {
+        "title": "Houston Dynamo FC firma un acuerdo plurianual de boletería con Tixr",
+        "summary": "Houston Dynamo FC cerró una alianza plurianual con la plataforma de boletería Tixr para simplificar la compra de entradas y el acceso a eventos en el Shell Energy Stadium. El club afirma que el acuerdo busca crear una experiencia de boletería y eventos más unificada para los aficionados."
+      },
+      "zh": {
+        "title": "休斯顿迪纳摩与Tixr签署多年票务合作协议",
+        "summary": "休斯顿迪纳摩足球俱乐部与票务平台Tixr达成多年合作，旨在简化球迷在壳牌能源球场购票及参与活动的流程。俱乐部表示，此次合作希望为球迷打造更统一的一站式票务与活动体验。"
+      },
+      "fr": {
+        "title": "Le Houston Dynamo FC signe un accord pluriannuel de billetterie avec Tixr",
+        "summary": "Le Houston Dynamo FC a conclu un partenariat pluriannuel avec la plateforme de billetterie Tixr afin de simplifier l'achat de billets et l'accès aux événements au Shell Energy Stadium. Le club affirme que cet accord vise à offrir aux supporters une expérience de billetterie et d'événements plus unifiée."
+      }
+    }
+  },
+  {
+    "id": "orix-buffaloes-fwd-life-sleeve-sponsor-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-01-30T00:00:00Z",
+    "source_name": "NPB News",
+    "source_url": "https://npb.jp/news/detail/20260130_01.html",
+    "i18n": {
+      "en": {
+        "title": "Orix Buffaloes Add FWD Life as Right-Sleeve Uniform Sponsor",
+        "summary": "The Orix Buffaloes announced a new uniform advertising agreement with FWD Life Insurance for the 2026 NPB season, placing the company's logo on the right sleeve. The branding debuted on the first day of the team's spring training camp in Miyazaki on February 1, 2026."
+      },
+      "ja": {
+        "title": "オリックス・バファローズ、FWD生命を右袖広告スポンサーに",
+        "summary": "オリックス・バファローズは、2026年シーズンのユニフォーム広告契約をFWD生命保険と結んだことを発表し、右袖にロゴを掲出する。この広告は、2026年2月1日の宮崎春季キャンプ初日から披露された。"
+      },
+      "es": {
+        "title": "Orix Buffaloes incorpora a FWD Life como auspiciante de la manga derecha",
+        "summary": "Los Orix Buffaloes anunciaron un nuevo acuerdo de publicidad en el uniforme con FWD Life Insurance para la temporada 2026 de la NPB, colocando el logotipo de la aseguradora en la manga derecha. La publicidad se presentó el primer día del campamento de primavera del equipo en Miyazaki, el 1 de febrero de 2026."
+      },
+      "zh": {
+        "title": "欧力士猛牛队将FWD人寿标志印上右袖赞助",
+        "summary": "欧力士猛牛队宣布与FWD人寿保险达成2026赛季球衣广告协议，将在球衣右袖印上该公司标志。该广告于2026年2月1日球队在宫崎的春训营开训首日正式亮相。"
+      },
+      "fr": {
+        "title": "Les Orix Buffaloes ajoutent FWD Life comme sponsor de la manche droite",
+        "summary": "Les Orix Buffaloes ont annoncé un nouvel accord publicitaire sur leur maillot avec FWD Life Insurance pour la saison 2026 de la NPB, plaçant le logo de l'assureur sur la manche droite. Cette publicité a été dévoilée dès le premier jour du camp d'entraînement de printemps de l'équipe à Miyazaki, le 1er février 2026."
+      }
+    }
   }
 ]
