@@ -6590,5 +6590,311 @@
         "summary": "Ford Motor Company et la Major League Baseball (MLB) ont annoncé un partenariat exclusif pluriannuel faisant de Ford le partenaire automobile officiel de la ligue, dévoilé quelques jours avant le Jour d'ouverture. L'accord comprend un affichage dans les stades tout au long de la saison ainsi qu'un volet communautaire, Ford faisant don de subventions à des programmes de baseball pour jeunes, comme les ligues de quartier de Detroit."
       }
     }
+  },
+  {
+    "id": "msg-cisco-arena-technology-partnership-2025",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "tech",
+      "stadium"
+    ],
+    "published_at": "2025-12-03T00:00:00Z",
+    "source_name": "Cisco Newsroom",
+    "source_url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2025/m12/madison-square-garden-entertainment-and-cisco-announce-multi-year-partnership-making-cisco-an-official-partner-of-the-world-most-famous-arena.html",
+    "i18n": {
+      "en": {
+        "title": "Cisco Becomes Official Technology Partner of Madison Square Garden",
+        "summary": "MSG Entertainment and Cisco unveiled a multi-year deal naming Cisco an official partner of the arena, building on networking gear the venue already runs. The companies said they will work on tighter integration of Wi-Fi, security and connectivity systems to support fan experiences and venue operations at The Garden."
+      },
+      "ja": {
+        "title": "シスコ、マディソン・スクエア・ガーデンの公式テクノロジー・パートナーに",
+        "summary": "MSGエンターテインメントとシスコは複数年にわたるパートナーシップを発表し、シスコを同アリーナの公式パートナーとした。会場では既にシスコ製の通信機器が稼働しており、両社は今後Wi-Fiやセキュリティ、ネットワーク接続の統合を進め、観客体験と運営の向上を目指すとしている。"
+      },
+      "es": {
+        "title": "Cisco se convierte en socio tecnológico oficial del Madison Square Garden",
+        "summary": "MSG Entertainment y Cisco anunciaron un acuerdo plurianual que nombra a Cisco socio oficial del recinto, ampliando el equipo de red que el estadio ya utiliza. Las empresas indicaron que trabajarán en una mayor integración de los sistemas de Wi-Fi, seguridad y conectividad para mejorar la experiencia de los aficionados y la operación del recinto."
+      },
+      "zh": {
+        "title": "思科成为麦迪逊广场花园官方技术合作伙伴",
+        "summary": "MSG娱乐公司与思科宣布达成多年合作协议,思科由此成为该场馆的官方合作伙伴,双方将在场馆现有网络设备基础上展开合作。两家公司表示将进一步整合Wi-Fi、安防和网络连接系统,以提升观众体验和场馆运营效率。"
+      },
+      "fr": {
+        "title": "Cisco devient partenaire technologique officiel du Madison Square Garden",
+        "summary": "MSG Entertainment et Cisco ont annoncé un accord pluriannuel faisant de Cisco un partenaire officiel de la salle, qui utilisait déjà des équipements réseau du groupe. Les deux entreprises ont indiqué vouloir mieux intégrer leurs systèmes de Wi-Fi, de sécurité et de connectivité afin d'améliorer l'expérience des spectateurs et la gestion du site."
+      }
+    }
+  },
+  {
+    "id": "bowman-gray-stadium-samsung-video-board-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "tech",
+      "stadium",
+      "fan"
+    ],
+    "published_at": "2025-12-09T00:00:00Z",
+    "source_name": "Jayski's Silly Season Site",
+    "source_url": "https://www.jayski.com/2025/12/09/new-world-class-video-board-coming-to-bowman-gray-stadium/",
+    "i18n": {
+      "en": {
+        "title": "Bowman Gray Stadium to Install New Samsung Video Board Ahead of NASCAR Clash",
+        "summary": "NASCAR, the City of Winston-Salem and Winston-Salem State University announced a new Samsung LED video board for Bowman Gray Stadium, roughly 1.7 times larger than the previous screen. Construction began in December with a target of being ready for the Cook Out Clash on February 1, and the board will carry live video, scoring, stats and safety alerts."
+      },
+      "ja": {
+        "title": "ボウマン・グレイ・スタジアム、NASCARクラッシュ前に新型サムスン製ビジョンを設置",
+        "summary": "NASCARとウィンストン・セーラム市、ウィンストン・セーラム州立大学は、ボウマン・グレイ・スタジアムに新しいサムスン製LEDビジョンを設置すると発表した。従来のスクリーンより大幅に大型化され、2月1日の「クックアウト・クラッシュ」開催までの完成を目指して12月に工事が始まり、映像配信やスコア表示、安全情報の提供に活用される予定。"
+      },
+      "es": {
+        "title": "Bowman Gray Stadium instalará una nueva pantalla Samsung antes del NASCAR Clash",
+        "summary": "NASCAR, la ciudad de Winston-Salem y la Universidad Estatal de Winston-Salem anunciaron la instalación de una nueva pantalla LED de Samsung en el Bowman Gray Stadium, de mayor tamaño que la anterior. Las obras comenzaron en diciembre con el objetivo de tenerla lista para el Cook Out Clash del 1 de febrero, y la pantalla mostrará video en vivo, resultados, estadísticas y alertas de seguridad."
+      },
+      "zh": {
+        "title": "鲍曼格雷赛车场将在NASCAR揭幕赛前安装三星新显示屏",
+        "summary": "NASCAR、温斯顿-塞勒姆市与温斯顿-塞勒姆州立大学宣布,将在鲍曼格雷赛车场安装一块全新的三星LED显示屏,尺寸较此前的屏幕大幅提升。施工于12月启动,目标是在2月1日的“烤架冲撞赛”前完工,新屏幕将用于实时影像、计分、数据统计及安全提示。"
+      },
+      "fr": {
+        "title": "Bowman Gray Stadium va installer un nouvel écran Samsung avant le NASCAR Clash",
+        "summary": "NASCAR, la ville de Winston-Salem et l'université d'État de Winston-Salem ont annoncé l'installation d'un nouvel écran LED Samsung au Bowman Gray Stadium, nettement plus grand que le précédent. Les travaux ont débuté en décembre avec pour objectif d'être prêts pour le Cook Out Clash du 1er février, l'écran devant diffuser images en direct, scores, statistiques et alertes de sécurité."
+      }
+    }
+  },
+  {
+    "id": "everton-cmc-markets-shirt-sponsor-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-07-01T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/news/everton-add-cmc-markets-as-main-sponsor-stake-shifts-to-sleeve-deal/",
+    "i18n": {
+      "en": {
+        "title": "Everton Names CMC Markets Front-of-Shirt Sponsor as Stake Shifts to Sleeve",
+        "summary": "Everton signed UK trading firm CMC Markets as its primary front-of-shirt sponsor from the 2026-27 season, reportedly worth around £30 million over the term. The club's previous gambling partner, Stake, moves to a sleeve sponsorship under a separate multi-year agreement, as Premier League clubs phase out betting brands from the front of their kits."
+      },
+      "ja": {
+        "title": "エバートン、胸スポンサーにCMCマーケッツ 既存スポンサーは袖へ移行",
+        "summary": "エバートンは2026-27シーズンから英国の取引会社CMCマーケッツを胸スポンサーとする契約を結んだ。契約規模は期間全体で約3000万ポンドと報じられている。これまでの胸スポンサーだったギャンブル企業ステイクは別の複数年契約で袖スポンサーに移行し、プレミアリーグ各クラブが胸部からギャンブル関連ブランドを段階的に外す動きの一環となっている。"
+      },
+      "es": {
+        "title": "Everton nombra a CMC Markets patrocinador principal mientras Stake pasa a la manga",
+        "summary": "Everton firmó con la firma británica de trading CMC Markets como patrocinador principal de la camiseta a partir de la temporada 2026-27, en un acuerdo valorado en unos 30 millones de libras durante su vigencia. Stake, el anterior patrocinador de apuestas, pasa a la manga mediante un contrato plurianual independiente, en línea con la retirada gradual de marcas de apuestas del frente de las camisetas en la Premier League."
+      },
+      "zh": {
+        "title": "埃弗顿签下CMC Markets为胸前主赞助商 原赌博赞助商转至袖标位置",
+        "summary": "埃弗顿宣布从2026-27赛季起由英国交易公司CMC Markets担任球衣胸前主赞助商,据报合同总价值约3000万英镑。原胸前赞助商、博彩品牌Stake则通过另一份多年协议转为袖标赞助商,这也是英超球队逐步将博彩品牌从球衣正面移除的举措之一。"
+      },
+      "fr": {
+        "title": "Everton choisit CMC Markets comme sponsor principal, Stake relégué à la manche",
+        "summary": "Everton a signé avec la société de trading britannique CMC Markets pour devenir le sponsor principal du maillot à partir de la saison 2026-27, un accord estimé à environ 30 millions de livres sterling sur sa durée. Stake, l'ancien sponsor lié aux paris sportifs, passe à un emplacement sur la manche via un contrat pluriannuel distinct, dans le cadre du retrait progressif des marques de paris du devant des maillots en Premier League."
+      }
+    }
+  },
+  {
+    "id": "crystal-palace-temporal-shirt-sponsor-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-05-21T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/news/palace-swaps-net88-with-temporal-as-main-shirt-sponsor-al-ahly-nets-haier/",
+    "i18n": {
+      "en": {
+        "title": "Crystal Palace Signs Software Firm Temporal as New Shirt Sponsor",
+        "summary": "Crystal Palace unveiled open-source software company Temporal as its new multi-year front-of-shirt sponsor, replacing betting firm NET88 ahead of the Premier League's ban on gambling logos in that position. The deal, revealed just before Palace's Conference League final, also includes support for the club's Palace for Life Foundation youth programmes."
+      },
+      "ja": {
+        "title": "クリスタル・パレス、新たな胸スポンサーにソフトウェア企業テンポラルを発表",
+        "summary": "クリスタル・パレスは、オープンソース・ソフトウェア企業テンポラルを新たな胸スポンサーとする複数年契約を発表した。これまでの胸スポンサーだった賭け事業者NET88からの変更で、プレミアリーグが胸部のギャンブル広告を禁止する措置を控えたタイミングでの契約となる。発表はクラブのカンファレンスリーグ決勝直前に行われ、契約には育成財団「パレス・フォー・ライフ」の青少年向けプログラムへの支援も含まれる。"
+      },
+      "es": {
+        "title": "Crystal Palace ficha a la empresa de software Temporal como nuevo patrocinador de camiseta",
+        "summary": "Crystal Palace presentó a la empresa de software de código abierto Temporal como su nuevo patrocinador principal de camiseta por varios años, en sustitución de la casa de apuestas NET88, antes de que la Premier League prohíba los logotipos de apuestas en esa posición. El acuerdo, revelado justo antes de la final de la Conference League del club, incluye además apoyo a los programas juveniles de la fundación Palace for Life."
+      },
+      "zh": {
+        "title": "水晶宫签下软件公司Temporal担任新球衣赞助商",
+        "summary": "水晶宫宣布开源软件公司Temporal成为其新的多年期球衣胸前赞助商,取代此前的博彩公司NET88,正值英超联赛即将禁止在该位置展示博彩品牌标识之际。该协议在俱乐部欧协会联赛决赛前公布,同时包含对俱乐部青训慈善机构“Palace for Life”青少年项目的支持。"
+      },
+      "fr": {
+        "title": "Crystal Palace signe avec l'éditeur de logiciels Temporal comme nouveau sponsor maillot",
+        "summary": "Crystal Palace a présenté l'entreprise de logiciels open source Temporal comme son nouveau sponsor principal du maillot pour plusieurs saisons, remplaçant le site de paris NET88 avant l'interdiction par la Premier League des logos de paris à cet emplacement. L'accord, révélé juste avant la finale de Conference League du club, comprend aussi un soutien aux programmes jeunesse de la fondation Palace for Life."
+      }
+    }
+  },
+  {
+    "id": "mufg-bank-jleague-top-partner-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-03-12T00:00:00Z",
+    "source_name": "Advertimes",
+    "source_url": "https://www.advertimes.com/?p=537051",
+    "i18n": {
+      "en": {
+        "title": "MUFG Bank Signs Top Partner Deal with J.League",
+        "summary": "MUFG Bank, a core unit of Mitsubishi UFJ Financial Group, signed a top partner agreement with J.League covering the Meiji Yasuda J.League centenary competition from April 2026. The tie-up is expected to include business networking events for regional companies, management seminars and cooperation on community and stadium-related projects."
+      },
+      "ja": {
+        "title": "三菱UFJ銀行、Jリーグとトップパートナー契約を締結",
+        "summary": "三菱UFJフィナンシャル・グループの中核会社である三菱UFJ銀行は、Jリーグとトップパートナー契約を結んだ。契約は2026年4月開始の「明治安田Jリーグ百年構想リーグ」を対象とし、地場企業向けのビジネス交流会や経営者向けセミナー、地域・スタジアム関連プロジェクトでの連携などが見込まれている。"
+      },
+      "es": {
+        "title": "MUFG Bank firma un acuerdo de socio principal con la J.League",
+        "summary": "MUFG Bank, filial central de Mitsubishi UFJ Financial Group, firmó un acuerdo de socio principal con la J.League que cubre la competición centenaria Meiji Yasuda J.League desde abril de 2026. Se espera que la colaboración incluya eventos de networking empresarial para compañías regionales, seminarios de gestión y cooperación en proyectos comunitarios y relacionados con estadios."
+      },
+      "zh": {
+        "title": "三菱UFJ银行与日职联签署顶级合作伙伴协议",
+        "summary": "三菱UFJ金融集团核心子公司三菱UFJ银行与日本职业足球联赛(J联赛)签署顶级合作伙伴协议,协议覆盖自2026年4月启动的“明治安田J联赛百年构想联赛”。此次合作预计将包括面向地方企业的商业交流活动、经营者研讨会,以及在社区和球场相关项目上的协作。"
+      },
+      "fr": {
+        "title": "MUFG Bank signe un accord de partenaire principal avec la J.League",
+        "summary": "MUFG Bank, filiale centrale de Mitsubishi UFJ Financial Group, a signé un accord de partenaire principal avec la J.League, couvrant la compétition du centenaire Meiji Yasuda J.League à partir d'avril 2026. Ce partenariat devrait inclure des événements de mise en réseau pour les entreprises régionales, des séminaires de gestion et une coopération sur des projets communautaires et liés aux stades."
+      }
+    }
+  },
+  {
+    "id": "seahawks-khosla-family-sale-approved-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-08-26T00:00:00Z",
+    "source_name": "CBS Sports",
+    "source_url": "https://www.cbssports.com/nfl/news/seahawks-sold-9-6-billion-nfl-record-buyer-owners/",
+    "i18n": {
+      "en": {
+        "title": "NFL Owners Approve Record $9.6 Billion Sale of Seahawks to Khosla Family",
+        "summary": "NFL owners unanimously approved the sale of the Seattle Seahawks from the Paul G. Allen estate to a group led by tech investor Vinod Khosla, with his wife Neeru Khosla set to become controlling owner, in a deal reportedly valued at $9.6 billion. The price is described as the highest ever paid for an NFL franchise, and Khosla is required to give up his stake in the San Francisco 49ers as part of the transaction."
+      },
+      "ja": {
+        "title": "NFL、シーホークスの97億ドル規模の球団売却を承認 コスラ一族が新オーナーに",
+        "summary": "NFL球団オーナーらは、シアトル・シーホークスをポール・アレン氏の遺産財団からベンチャー投資家ヴィノッド・コスラ氏が率いるグループへ売却する取引を全会一致で承認した。妻のニール・コスラ氏が支配株主となる見通しで、売却額は約96億ドルとされ、NFL史上最高額とされている。コスラ氏はこの取引の一環としてサンフランシスコ・フォーティナイナーズの所有株を手放す必要がある。"
+      },
+      "es": {
+        "title": "Los propietarios de la NFL aprueban la venta récord de los Seahawks a la familia Khosla por 9.600 millones de dólares",
+        "summary": "Los propietarios de la NFL aprobaron por unanimidad la venta de los Seattle Seahawks, propiedad del patrimonio de Paul G. Allen, a un grupo liderado por el inversor tecnológico Vinod Khosla, con su esposa Neeru Khosla como futura propietaria mayoritaria, en una operación valorada en unos 9.600 millones de dólares. La cifra se describe como la más alta pagada jamás por una franquicia de la NFL, y Khosla deberá renunciar a su participación en los San Francisco 49ers como parte del acuerdo."
+      },
+      "zh": {
+        "title": "NFL球队老板批准西雅图海鹰队96亿美元创纪录出售案 科斯拉家族成新东家",
+        "summary": "NFL各队老板一致批准将西雅图海鹰队从已故球队老板保罗·艾伦遗产基金出售给由科技投资人维诺德·科斯拉领导的团队,其妻妮鲁·科斯拉将成为控股所有者,交易金额据报约为96亿美元。该价格被称为NFL球队交易史上最高纪录,科斯拉需在交易完成后放弃其在旧金山49人队的股份。"
+      },
+      "fr": {
+        "title": "La NFL approuve la vente record des Seahawks pour 9,6 milliards de dollars à la famille Khosla",
+        "summary": "Les propriétaires de la NFL ont approuvé à l'unanimité la vente des Seattle Seahawks, détenus par la succession de Paul G. Allen, à un groupe dirigé par l'investisseur technologique Vinod Khosla, son épouse Neeru Khosla devant devenir propriétaire majoritaire, pour un montant évalué à environ 9,6 milliards de dollars. Ce prix est présenté comme le plus élevé jamais payé pour une franchise de la NFL, et Khosla doit céder sa participation dans les 49ers de San Francisco dans le cadre de l'accord."
+      }
+    }
+  },
+  {
+    "id": "npb-attendance-record-third-straight-year-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "fan",
+      "biz"
+    ],
+    "published_at": "2026-10-09T00:00:00Z",
+    "source_name": "NPB",
+    "source_url": "https://npb.jp/news/detail/20261009_02.html",
+    "i18n": {
+      "en": {
+        "title": "NPB Sets Attendance Record for Third Consecutive Year",
+        "summary": "Nippon Professional Baseball announced that total attendance across the Central and Pacific League regular seasons reached a new all-time high for the third year running, as the 2026 campaign wrapped up. The figure builds on 2025's record turnout and underscores sustained fan demand heading into the Climax Series and Japan Series."
+      },
+      "ja": {
+        "title": "NPB、入場者数が3年連続で過去最多を更新",
+        "summary": "日本野球機構(NPB)は、2026年のセ・パ両リーグの公式戦が全日程終了し、総入場者数が3年連続で過去最多を更新したと発表した。2025年の記録をさらに上回る結果となり、クライマックスシリーズや日本シリーズを控える中でファンの観戦需要の高さを裏付けた。"
+      },
+      "es": {
+        "title": "NPB registra asistencia récord por tercer año consecutivo",
+        "summary": "Nippon Professional Baseball anunció que la asistencia total en las temporadas regulares de las ligas Central y Pacífico alcanzó un nuevo máximo histórico por tercer año consecutivo, al concluir la campaña 2026. La cifra supera el récord de 2025 y refleja una demanda sostenida de los aficionados de cara a la Climax Series y la Serie de Japón."
+      },
+      "zh": {
+        "title": "NPB官方战入场人数连续三年创历史新高",
+        "summary": "日本职业棒球组织(NPB)宣布,随着2026赛季中央联盟与太平洋联盟常规赛全部结束,总入场人数连续三年刷新历史纪录。这一数字超过了2025年的纪录,显示出在进入冠军系列赛和日本大赛之前球迷观赛需求依然强劲。"
+      },
+      "fr": {
+        "title": "La NPB enregistre une fréquentation record pour la troisième année consécutive",
+        "summary": "La Nippon Professional Baseball a annoncé que la fréquentation totale des saisons régulières des ligues Central et Pacific a atteint un nouveau record historique pour la troisième année de suite, à l'issue de la saison 2026. Ce chiffre dépasse le record de 2025 et confirme une demande soutenue des supporters à l'approche de la Climax Series et de la Série du Japon."
+      }
+    }
+  },
+  {
+    "id": "genius-sports-q2-2026-earnings-beat",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-08-06T00:00:00Z",
+    "source_name": "Business Wire",
+    "source_url": "https://www.businesswire.com/news/home/20260806572935/en/Genius-Sports-Beats-Second-Quarter-Guidance-and-Raises-Full-Year-Outlook",
+    "i18n": {
+      "en": {
+        "title": "Genius Sports Beats Q2 Guidance, Raises Full-Year Outlook",
+        "summary": "Sports data and technology company Genius Sports reported second-quarter group revenue of about $195.5 million, up roughly 65% year over year and ahead of its own guidance. The company raised its full-year 2026 revenue outlook to between $1.005 billion and $1.025 billion, citing strong growth in both its media and betting-technology segments."
+      },
+      "ja": {
+        "title": "ジーニアス・スポーツ、第2四半期で会社計画を上回る実績 通期見通しを上方修正",
+        "summary": "スポーツデータ・技術企業のジーニアス・スポーツは、第2四半期の総収益が前年同期比で約65%増の約1億9550万ドルとなり、自社の計画を上回ったと発表した。メディア部門とベッティング・テクノロジー部門の両方で好調な成長が続いたとして、2026年度通期の収益見通しを10億500万ドルから10億2500万ドルの範囲に上方修正した。"
+      },
+      "es": {
+        "title": "Genius Sports supera sus previsiones del segundo trimestre y eleva sus perspectivas anuales",
+        "summary": "La empresa de datos y tecnología deportiva Genius Sports reportó ingresos de grupo de alrededor de 195,5 millones de dólares en el segundo trimestre, un aumento de aproximadamente el 65% respecto al año anterior y por encima de sus propias previsiones. La compañía elevó sus perspectivas de ingresos para todo 2026 a un rango de entre 1.005 y 1.025 millones de dólares, citando un fuerte crecimiento tanto en su segmento de medios como en el de tecnología de apuestas."
+      },
+      "zh": {
+        "title": "Genius Sports第二季度业绩超预期 上调全年业绩展望",
+        "summary": "体育数据与技术公司Genius Sports公布第二季度集团营收约1.955亿美元,同比增长约65%,超出公司自身预期。该公司将2026全年营收展望上调至10.05亿至10.25亿美元区间,称媒体业务与博彩技术业务均实现强劲增长。"
+      },
+      "fr": {
+        "title": "Genius Sports dépasse ses prévisions du deuxième trimestre et relève ses perspectives annuelles",
+        "summary": "L'entreprise de données et de technologie sportive Genius Sports a annoncé un chiffre d'affaires du groupe d'environ 195,5 millions de dollars au deuxième trimestre, en hausse d'environ 65% sur un an et supérieur à ses propres prévisions. La société a relevé ses perspectives de revenus pour l'ensemble de 2026 à une fourchette de 1,005 à 1,025 milliard de dollars, citant une forte croissance de ses activités médias et de technologie des paris."
+      }
+    }
+  },
+  {
+    "id": "jleague-pokemon-60-club-mascot-partnership-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "fan",
+      "sponsor"
+    ],
+    "published_at": "2026-07-05T00:00:00Z",
+    "source_name": "Dexerto",
+    "source_url": "https://www.dexerto.com/pokemon/japans-j-league-is-partnering-with-pokemon-to-give-all-60-clubs-their-own-mascot-3383218/",
+    "i18n": {
+      "en": {
+        "title": "J.League Partners with Pokémon, Giving All 60 Clubs Their Own Mascot",
+        "summary": "J.League announced a collaboration with The Pokémon Company called 'Pokémon J.League Fest EVOLUTION!', pairing each of its 60 clubs across J1, J2 and J3 with a unique partner Pokémon. The full club-by-club lineup was revealed the following day, part of Pokémon's 30th-anniversary campaign ahead of the season, which includes plans to distribute a million limited-edition eco-bags to fans."
+      },
+      "ja": {
+        "title": "Jリーグ、ポケモンとコラボ 全60クラブに専属パートナーポケモンが決定",
+        "summary": "Jリーグは株式会社ポケモンとのコラボレーション企画「ポケモンJリーグフェス EVOLUTION!」を発表し、J1・J2・J3の全60クラブにそれぞれ専属のパートナーポケモンを設定した。全クラブの組み合わせは翌日に公開され、ポケモン30周年企画の一環として、シーズンを通じて来場者向けに限定デザインのエコバッグ100万個を配布する計画も含まれている。"
+      },
+      "es": {
+        "title": "La J.League se asocia con Pokémon y asigna una mascota a cada uno de sus 60 clubes",
+        "summary": "La J.League anunció una colaboración con The Pokémon Company llamada 'Pokémon J.League Fest EVOLUTION!', que asigna a cada uno de sus 60 clubes de J1, J2 y J3 un Pokémon asociado exclusivo. La lista completa club por club se reveló al día siguiente, como parte de la campaña del 30º aniversario de Pokémon antes del inicio de la temporada, que incluye planes para repartir un millón de bolsas ecológicas de edición limitada entre los aficionados."
+      },
+      "zh": {
+        "title": "日职联与精灵宝可梦跨界合作 60支球队各获专属吉祥物",
+        "summary": "日本职业足球联赛(J联赛)宣布与宝可梦公司推出名为“Pokémon J.League Fest EVOLUTION!”的联名企划,为J1、J2、J3全部60支球队分别指定专属搭档宝可梦。完整的球队对应名单于次日公布,这是宝可梦30周年庆典活动的一部分,联赛还计划在赛季期间向球迷发放100万个限量环保袋。"
+      },
+      "fr": {
+        "title": "La J.League s'associe à Pokémon et attribue une mascotte à chacun de ses 60 clubs",
+        "summary": "La J.League a annoncé une collaboration avec The Pokémon Company baptisée « Pokémon J.League Fest EVOLUTION! », associant chacun de ses 60 clubs de J1, J2 et J3 à un Pokémon partenaire unique. La liste complète club par club a été révélée le lendemain, dans le cadre de la campagne du 30e anniversaire de Pokémon précédant la saison, qui prévoit aussi la distribution d'un million d'éco-sacs en édition limitée aux supporters."
+      }
+    }
   }
 ]
