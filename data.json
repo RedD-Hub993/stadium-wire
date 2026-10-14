@@ -6826,5 +6826,177 @@
         "summary": "Le championnat japonais de basket-ball B.League a réorganisé ses 55 clubs en trois nouvelles catégories selon l'affluence moyenne, les revenus et la qualité de la salle, plutôt que les résultats sportifs, admettant 26 clubs dans la nouvelle élite, B.Premier. La nouvelle division a débuté le 22 septembre avec Alvark Tokyo recevant les Ryukyu Golden Kings, remplaçant la montée et la descente sportives par un modèle d'« expansion » fondé sur des critères économiques."
       }
     }
+  },
+  {
+    "id": "fluminense-superbet-shirt-sponsor-extension-2029",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-03-08T00:00:00Z",
+    "source_name": "Gambling Insider",
+    "source_url": "https://www.gamblinginsider.com/news/24807/fluminense-celebrates-new-superbet-sponsorship",
+    "i18n": {
+      "en": {
+        "title": "Fluminense extends Superbet shirt sponsorship through 2029",
+        "summary": "Brazilian club Fluminense has extended its shirt sponsorship with online betting operator Superbet through 2029, two years beyond the original term. The renewed deal reportedly raises the fixed annual fee and keeps Superbet's logo as the main front-of-shirt sponsor, while also adding placement on the back of the jersey."
+      },
+      "ja": {
+        "title": "フルミネンセ、スーパーベットとのユニフォームスポンサー契約を2029年まで延長",
+        "summary": "ブラジルのフルミネンセは、オンラインベッティング企業スーパーベットとのユニフォームスポンサー契約を2029年まで延長した。元の契約より2年長い延長となる。新契約では固定の年間契約金が増額され、スーパーベットのロゴは胸の主要スポンサー位置に加え、背中にも表示されるという。"
+      },
+      "es": {
+        "title": "Fluminense extiende el patrocinio de camiseta con Superbet hasta 2029",
+        "summary": "El club brasileño Fluminense extendió su acuerdo de patrocinio de camiseta con el operador de apuestas en línea Superbet hasta 2029, dos años más que el plazo original. Según los informes, el nuevo contrato aumenta la cuota anual fija y mantiene el logo de Superbet como patrocinador principal al frente de la camiseta, además de añadir presencia en la espalda."
+      },
+      "zh": {
+        "title": "弗鲁米嫩塞将与Superbet的球衣赞助协议延长至2029年",
+        "summary": "巴西俱乐部弗鲁米嫩塞将与网络博彩公司Superbet的球衣赞助协议延长至2029年，比原合同多出两年。据报道，新合同提高了固定年费，Superbet的标志仍将出现在球衣正面主赞助位置，并新增背部展示位置。"
+      },
+      "fr": {
+        "title": "Le Fluminense prolonge son sponsoring de maillot avec Superbet jusqu'en 2029",
+        "summary": "Le club brésilien Fluminense a prolongé son contrat de sponsoring de maillot avec l'opérateur de paris en ligne Superbet jusqu'en 2029, soit deux ans de plus que la durée initiale. Le nouvel accord augmenterait la redevance annuelle fixe et maintient le logo de Superbet comme sponsor principal à l'avant du maillot, tout en ajoutant un emplacement au dos."
+      }
+    }
+  },
+  {
+    "id": "att-cowboys-stadium-tech-extension-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "tech",
+      "fan"
+    ],
+    "published_at": "2026-09-18T00:00:00Z",
+    "source_name": "AT&T",
+    "source_url": "https://about.att.com/story/2026/dallas-cowboys-partnership.html",
+    "i18n": {
+      "en": {
+        "title": "AT&T and Dallas Cowboys expand stadium tech partnership",
+        "summary": "AT&T and the Dallas Cowboys have expanded their long-running stadium partnership, adding new AI-powered fan features at AT&T Stadium for the 2026 season. The upgrades include a photo-to-video hype generator, a mixed-reality passing drill with the team's quarterback, and no-download wayfinding through the stadium app."
+      },
+      "ja": {
+        "title": "AT&Tとカウボーイズ、スタジアムの技術提携を拡大",
+        "summary": "AT&Tとダラス・カウボーイズは長年続くスタジアム提携を拡大し、2026年シーズンに向けてAT&Tスタジアムに新たなAI活用のファン向け機能を導入した。ファンの写真から応援動画を自動生成する機能、クォーターバックとの複合現実パス体験、アプリだけで使えるダウンロード不要の館内案内などが含まれる。"
+      },
+      "es": {
+        "title": "AT&T y los Dallas Cowboys amplían su alianza tecnológica en el estadio",
+        "summary": "AT&T y los Dallas Cowboys ampliaron su larga asociación en el estadio, incorporando nuevas funciones para aficionados impulsadas por IA en el AT&T Stadium para la temporada 2026. Las mejoras incluyen un generador de videos de ánimo a partir de fotos, una dinámica de pases en realidad mixta con el mariscal de campo del equipo y un sistema de orientación sin necesidad de descargar una app adicional."
+      },
+      "zh": {
+        "title": "AT&T与达拉斯牛仔队扩大球场科技合作",
+        "summary": "AT&T与达拉斯牛仔队扩大了双方长期的球场合作，为2026赛季的AT&T球场引入了多项人工智能驱动的球迷新功能。升级内容包括将球迷照片自动生成助威视频、与球队四分卫进行混合现实传球互动，以及通过球队应用程序实现无需下载的场内导航。"
+      },
+      "fr": {
+        "title": "AT&T et les Dallas Cowboys élargissent leur partenariat technologique au stade",
+        "summary": "AT&T et les Dallas Cowboys ont élargi leur partenariat de longue date autour du stade, en ajoutant de nouvelles fonctionnalités pour les fans propulsées par l'IA à l'AT&T Stadium pour la saison 2026. Les nouveautés incluent un générateur de vidéos d'encouragement à partir de photos, une séquence de passes en réalité mixte avec le quarterback de l'équipe, et une orientation dans le stade sans téléchargement via l'application."
+      }
+    }
+  },
+  {
+    "id": "rcb-blackstone-consortium-stake-sale-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-03-24T00:00:00Z",
+    "source_name": "Gulf News",
+    "source_url": "https://gulfnews.com/sport/cricket/ipl/royal-challengers-bengaluru-sold-for-178-billion-1.500485300",
+    "i18n": {
+      "en": {
+        "title": "Royal Challengers Bengaluru sold to Blackstone-led consortium for $1.78 billion",
+        "summary": "Diageo-owned United Spirits has agreed to sell IPL cricket franchise Royal Challengers Bengaluru to a consortium including Aditya Birla Group, the Times of India Group, Bolt Ventures and Blackstone's private equity arm for roughly $1.78 billion. The deal, approved by United Spirits' board, still needs clearance from Indian cricket and competition regulators."
+      },
+      "ja": {
+        "title": "ロイヤル・チャレンジャーズ・バンガロール、ブラックストーン主導のコンソーシアムに約17.8億ドルで売却",
+        "summary": "英ディアジオ傘下のユナイテッド・スピリッツは、インド・プレミアリーグ(IPL)のクリケットチーム、ロイヤル・チャレンジャーズ・バンガロールを、アディティア・ビルラ・グループやタイムズ・オブ・インディア・グループ、ボルト・ベンチャーズ、ブラックストーンの未公開株投資部門などで構成するコンソーシアムに約17.8億ドルで売却することに合意した。ユナイテッド・スピリッツの取締役会は承認済みだが、インドのクリケット統括団体や競争当局の承認が今後必要となる。"
+      },
+      "es": {
+        "title": "Royal Challengers Bengaluru se vende a un consorcio liderado por Blackstone por 1,780 millones de dólares",
+        "summary": "United Spirits, propiedad de Diageo, acordó vender la franquicia de cricket de la IPL Royal Challengers Bengaluru a un consorcio que incluye a Aditya Birla Group, Times of India Group, Bolt Ventures y el brazo de capital privado de Blackstone, por unos 1,780 millones de dólares. El acuerdo, aprobado por la junta de United Spirits, aún necesita el visto bueno de los reguladores de cricket y competencia de la India."
+      },
+      "zh": {
+        "title": "皇家挑战者班加罗尔以17.8亿美元出售给黑石领投财团",
+        "summary": "帝亚吉欧旗下的United Spirits已同意将印度板球超级联赛(IPL)球队皇家挑战者班加罗尔，以约17.8亿美元的价格出售给一个财团，该财团包括阿迪亚贝拉集团、印度时报集团、Bolt Ventures以及黑石集团旗下私募股权部门。这笔交易已获United Spirits董事会批准，但仍需获得印度板球管理机构及竞争监管部门的许可。"
+      },
+      "fr": {
+        "title": "Royal Challengers Bengaluru vendu à un consortium mené par Blackstone pour 1,78 milliard de dollars",
+        "summary": "United Spirits, filiale de Diageo, a accepté de vendre la franchise de cricket de l'IPL Royal Challengers Bengaluru à un consortium comprenant Aditya Birla Group, Times of India Group, Bolt Ventures et la branche de capital-investissement de Blackstone, pour environ 1,78 milliard de dollars. L'accord, approuvé par le conseil d'administration de United Spirits, doit encore recevoir l'aval des régulateurs indiens du cricket et de la concurrence."
+      }
+    }
+  },
+  {
+    "id": "japan-post-asian-games-2026-partnership",
+    "sport": "general",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-06-30T00:00:00Z",
+    "source_name": "Japan Post",
+    "source_url": "https://files.japanpost.jp/assets/34d9d11432734cfaa759e78fe395b688/7f46612011f54a5889e661988142bf31/20260630_01.pdf",
+    "i18n": {
+      "en": {
+        "title": "Japan Post signs on as partner of 2026 Asian Games and Asian Para Games",
+        "summary": "Japan Post has signed on as an official partner of the 20th Asian Games and 5th Asian Para Games, both hosted in Aichi Prefecture, under the postal services category. The agreement runs through the end of 2026, and Japan Post plans to display promotional posters at post offices across the host region, including Aichi, Shizuoka, Gifu, Mie, Osaka and Tokyo."
+      },
+      "ja": {
+        "title": "日本郵政、2026年アジア競技大会・アジアパラ競技大会のパートナーに",
+        "summary": "日本郵政は、愛知県で開催される第20回アジア競技大会および第5回アジアパラ競技大会のオフィシャルパートナーに「郵便」カテゴリーで就任した。契約期間は2026年末までで、愛知、静岡、岐阜、三重、大阪、東京など開催関連地域の郵便局に大会周知のポスターを掲示する予定としている。"
+      },
+      "es": {
+        "title": "Japan Post se une como socio de los Juegos Asiáticos y Asiáticos Para 2026",
+        "summary": "Japan Post se ha convertido en socio oficial de los XX Juegos Asiáticos y los V Juegos Asiáticos Paralímpicos, ambos celebrados en la prefectura de Aichi, en la categoría de servicios postales. El acuerdo se extiende hasta finales de 2026, y Japan Post planea exhibir carteles promocionales en oficinas postales de la región anfitriona, incluidas Aichi, Shizuoka, Gifu, Mie, Osaka y Tokio."
+      },
+      "zh": {
+        "title": "日本邮政成为2026年亚运会及亚残运会合作伙伴",
+        "summary": "日本邮政已成为在爱知县举办的第20届亚洲运动会及第5届亚洲残疾人运动会的官方合作伙伴，合作类别为邮政服务。协议有效期至2026年底，日本邮政计划在爱知、静冈、岐阜、三重、大阪及东京等举办地相关区域的邮局张贴赛事宣传海报。"
+      },
+      "fr": {
+        "title": "Japan Post devient partenaire des Jeux asiatiques et para-asiatiques 2026",
+        "summary": "Japan Post est devenu partenaire officiel des 20es Jeux asiatiques et des 5es Jeux asiatiques para, tous deux organisés dans la préfecture d'Aichi, dans la catégorie des services postaux. L'accord court jusqu'à fin 2026, et Japan Post prévoit d'afficher des affiches promotionnelles dans les bureaux de poste des régions hôtes, notamment Aichi, Shizuoka, Gifu, Mie, Osaka et Tokyo."
+      }
+    }
+  },
+  {
+    "id": "varrel-biccamera-esports-sponsorship-2026",
+    "sport": "esports",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz",
+      "fan"
+    ],
+    "published_at": "2026-07-21T00:00:00Z",
+    "source_name": "Dot Esports",
+    "source_url": "https://dotesports.com/general/news/varrel-signs-bic-camera-sponsorship-deal-in-japan",
+    "i18n": {
+      "en": {
+        "title": "Japanese esports org VARREL signs Bic Camera as new sponsor",
+        "summary": "Japanese esports organization VARREL, whose roster includes figure skater Shoma Uno, has signed electronics retailer Bic Camera as a new sponsor. The deal, whose financial terms were not disclosed, covers VARREL's domestic and international tournament play across titles including League of Legends, Valorant and Street Fighter 6, along with streaming and fan events."
+      },
+      "ja": {
+        "title": "eスポーツチームVARREL、ビックカメラと新たにスポンサー契約",
+        "summary": "フィギュアスケーターの宇野昌磨も所属する日本のeスポーツチーム「VARREL」は、家電量販店ビックカメラと新たにスポンサー契約を結んだ。契約金額などの詳細は非公開だが、契約は「リーグ・オブ・レジェンド」「VALORANT」「ストリートファイター6」など複数タイトルでの国内外大会出場やライブ配信、ファン向けイベントを対象としている。"
+      },
+      "es": {
+        "title": "La organización de esports japonesa VARREL ficha a Bic Camera como nuevo patrocinador",
+        "summary": "La organización japonesa de esports VARREL, cuya plantilla incluye al patinador artístico Shoma Uno, ha fichado a la cadena de electrónica Bic Camera como nuevo patrocinador. El acuerdo, cuyos términos financieros no se revelaron, cubre la participación de VARREL en torneos nacionales e internacionales de títulos como League of Legends, Valorant y Street Fighter 6, además de transmisiones en vivo y eventos para aficionados."
+      },
+      "zh": {
+        "title": "日本电竞组织VARREL签下Bic Camera为新赞助商",
+        "summary": "日本电子竞技俱乐部VARREL（阵容中包括花样滑冰选手宇野昌磨）与电器零售商Bic Camera签署了新的赞助协议。双方未披露具体金额，协议涵盖VARREL在《英雄联盟》《无畏契约》《街头霸王6》等多款游戏的国内外赛事参赛，以及直播和粉丝活动。"
+      },
+      "fr": {
+        "title": "L'organisation d'esport japonaise VARREL signe Bic Camera comme nouveau sponsor",
+        "summary": "L'organisation japonaise d'esport VARREL, dont l'effectif comprend le patineur artistique Shoma Uno, a signé le détaillant d'électronique Bic Camera comme nouveau sponsor. L'accord, dont les termes financiers n'ont pas été divulgués, couvre la participation de VARREL aux tournois nationaux et internationaux sur des titres comme League of Legends, Valorant et Street Fighter 6, ainsi que le streaming et les événements pour les fans."
+      }
+    }
   }
 ]
