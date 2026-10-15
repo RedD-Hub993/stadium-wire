@@ -6495,5 +6495,345 @@
         "summary": "L'entreprise d'infrastructure de données NetApp sera de nouveau partenaire-présentateur du match de la NFL à Madrid, cette fois pour la rencontre du 8 novembre entre les Falcons d'Atlanta et les Bengals de Cincinnati au stade Santiago-Bernabéu. Cette prolongation pluriannuelle s'appuie sur le rôle de NetApp en tant que partenaire officiel d'infrastructure de données intelligente de la ligue, après avoir déjà présenté le premier NFL Madrid Game en 2025."
       }
     }
+  },
+  {
+    "id": "fulham-clickhouse-shirt-sponsor-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-07-22T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/news/fulham-name-tech-company-clickhouse-as-new-shirt-sponsor/",
+    "i18n": {
+      "en": {
+        "title": "Fulham Name AI Database Firm ClickHouse as New Shirt Sponsor",
+        "summary": "Fulham has signed Silicon Valley database company ClickHouse as its primary shirt sponsor under a multi-year deal, replacing betting operator SBOTOP. The switch follows a voluntary agreement among Premier League clubs to end front-of-shirt betting sponsorships from the 2026-27 season, with ClickHouse's branding also extending to Craven Cottage and the club's digital platforms."
+      },
+      "ja": {
+        "title": "フラムが新ユニフォームスポンサーにAIデータベース企業クリックハウスを起用",
+        "summary": "フラムは、シリコンバレーのデータベース企業クリックハウスと複数年契約を結び、新たなメインスポンサーとした。ベッティング会社SBOTOPに代わる形となる。プレミアリーグ各クラブが2026-27シーズンからユニフォーム前面でのベッティング企業スポンサーを自主的に廃止したことを受けた動きで、クリックハウスのブランドはクレイヴン・コテージやクラブのデジタル媒体にも展開される。"
+      },
+      "es": {
+        "title": "Fulham ficha a la empresa de bases de datos ClickHouse como nuevo patrocinador de camiseta",
+        "summary": "Fulham firmó un acuerdo multianual con la empresa de Silicon Valley ClickHouse como patrocinador principal de camiseta, sustituyendo a la casa de apuestas SBOTOP. El cambio responde al acuerdo voluntario entre los clubes de la Premier League para eliminar los patrocinios de apuestas en el frente de la camiseta desde la temporada 2026-27, y la marca de ClickHouse también se extenderá a Craven Cottage y los canales digitales del club."
+      },
+      "zh": {
+        "title": "富勒姆签约AI数据库公司ClickHouse成为新球衣赞助商",
+        "summary": "富勒姆与硅谷数据库公司ClickHouse签订多年协议，使其成为新的主要球衣赞助商，取代博彩公司SBOTOP。此举是英超多家俱乐部自愿达成协议、从2026-27赛季起终止球衣正面博彩赞助后的结果，ClickHouse的品牌标识还将出现在克拉文农场球场及俱乐部的数字平台上。"
+      },
+      "fr": {
+        "title": "Fulham choisit la société de bases de données ClickHouse comme nouveau sponsor maillot",
+        "summary": "Fulham a signé un accord pluriannuel avec l'entreprise californienne ClickHouse, spécialisée dans les bases de données, qui devient le sponsor principal du maillot, remplaçant l'opérateur de paris SBOTOP. Ce changement fait suite à l'accord volontaire des clubs de Premier League pour mettre fin aux sponsors de paris sportifs en façade de maillot à partir de la saison 2026-27 ; la marque ClickHouse sera aussi présente à Craven Cottage et sur les plateformes numériques du club."
+      }
+    }
+  },
+  {
+    "id": "nuggets-ibotta-jersey-patch-extension-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-04-16T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/news/ibotta-extends-as-nuggets-jersey-patch-partner/",
+    "i18n": {
+      "en": {
+        "title": "Ibotta Extends Jersey Patch Partnership With Denver Nuggets",
+        "summary": "Cashback app Ibotta has signed a multi-year extension to remain the Denver Nuggets' jersey patch sponsor, keeping its logo on the team's in-game and practice uniforms. The renewal, announced ahead of the Nuggets' playoff run, builds on a partnership dating back to 2023 that has also funneled charitable donations to Denver-area nonprofits."
+      },
+      "ja": {
+        "title": "イボッタ、デンバー・ナゲッツとのジャージパッチ契約を延長",
+        "summary": "キャッシュバックアプリのイボッタは、デンバー・ナゲッツのジャージパッチスポンサーとして複数年契約を延長し、試合用および練習用ユニフォームにロゴを継続して掲出する。2023年から続くこのパートナーシップでは、デンバー地域の非営利団体への寄付活動も行われてきた。"
+      },
+      "es": {
+        "title": "Ibotta extiende su acuerdo de parche en la camiseta con los Denver Nuggets",
+        "summary": "La aplicación de reembolso Ibotta firmó una extensión multianual para seguir siendo el patrocinador del parche en la camiseta de los Denver Nuggets, manteniendo su logo en los uniformes de partido y de entrenamiento. La renovación, anunciada antes de los playoffs del equipo, se basa en una colaboración que comenzó en 2023 y que también ha canalizado donaciones a organizaciones sin fines de lucro de Denver."
+      },
+      "zh": {
+        "title": "返现应用Ibotta与丹佛掘金队延长球衣广告贴合作",
+        "summary": "返现应用Ibotta与丹佛掘金队签署多年续约协议，继续担任球队球衣广告贴赞助商，其标志将继续出现在比赛及训练球衣上。此次续约在掘金队季后赛前宣布，延续了自2023年起的合作关系，该合作也为丹佛地区的非营利组织提供了慈善捐款。"
+      },
+      "fr": {
+        "title": "Ibotta prolonge son partenariat de patch maillot avec les Nuggets de Denver",
+        "summary": "L'application de cashback Ibotta a signé une prolongation pluriannuelle de son partenariat de patch maillot avec les Nuggets de Denver, conservant son logo sur les tenues de match et d'entraînement. Ce renouvellement, annoncé avant les playoffs de l'équipe, s'appuie sur un partenariat débuté en 2023 qui a aussi permis de financer des dons à des associations de la région de Denver."
+      }
+    }
+  },
+  {
+    "id": "76ers-bloom-energy-jersey-patch-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-09-28T00:00:00Z",
+    "source_name": "NBC Sports Philadelphia",
+    "source_url": "https://www.nbcsportsphiladelphia.com/news/sixers-unveil-bloom-energy-as-official-jersey-patch-partner/754280/",
+    "i18n": {
+      "en": {
+        "title": "76ers Name Bloom Energy as New Jersey Patch Partner, Replacing Crypto.com",
+        "summary": "The Philadelphia 76ers unveiled fuel-cell energy company Bloom Energy as their official jersey patch partner under a multi-year deal announced at the team's media day, ending a six-season run with Crypto.com. The agreement also puts Bloom Energy's logo on the jerseys of the G League's Delaware Blue Coats and includes a seven-figure charitable commitment to the Philadelphia area."
+      },
+      "ja": {
+        "title": "76ersが新ジャージパッチパートナーにブルーム・エナジーを選定、クリプト・ドットコムから変更",
+        "summary": "フィラデルフィア・セブンティシクサーズは、メディアデーで発表した複数年契約により、燃料電池エネルギー企業ブルーム・エナジーを新たなジャージパッチパートナーとした。6シーズン続いたクリプト・ドットコムとの契約は終了する。この契約では、Gリーグ傘下のデラウェア・ブルーコーツのジャージにもブルーム・エナジーのロゴが入り、フィラデルフィア地域への7桁規模の慈善投資も含まれる。"
+      },
+      "es": {
+        "title": "Los 76ers nombran a Bloom Energy nuevo patrocinador del parche de camiseta, sustituyendo a Crypto.com",
+        "summary": "Los Philadelphia 76ers presentaron a la empresa de energía de celdas de combustible Bloom Energy como su nuevo patrocinador del parche de camiseta mediante un acuerdo multianual anunciado en el día de medios del equipo, poniendo fin a seis temporadas con Crypto.com. El acuerdo también coloca el logo de Bloom Energy en las camisetas de los Delaware Blue Coats, afiliados en la G League, e incluye un compromiso benéfico de siete cifras para el área de Filadelfia."
+      },
+      "zh": {
+        "title": "76人队任命Bloom Energy为新球衣广告贴合作伙伴，取代Crypto.com",
+        "summary": "费城76人队在球队媒体日宣布，与燃料电池能源公司Bloom Energy签订多年协议，使其成为新的球衣广告贴合作伙伴，结束了与Crypto.com长达六个赛季的合作。该协议还将Bloom Energy的标志印在G联盟附属球队特拉华蓝衣队的球衣上，并包含一项七位数规模的费城地区慈善投入。"
+      },
+      "fr": {
+        "title": "Les 76ers choisissent Bloom Energy comme nouveau partenaire du patch maillot, remplaçant Crypto.com",
+        "summary": "Les 76ers de Philadelphie ont présenté l'entreprise d'énergie à pile à combustible Bloom Energy comme nouveau partenaire du patch maillot dans le cadre d'un accord pluriannuel annoncé lors de la journée médias de l'équipe, mettant fin à six saisons de collaboration avec Crypto.com. L'accord place aussi le logo de Bloom Energy sur les maillots des Blue Coats du Delaware, filiale en G League, et comprend un engagement caritatif à sept chiffres pour la région de Philadelphie."
+      }
+    }
+  },
+  {
+    "id": "bleague-nippon-foundation-community-grant-2026",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "biz",
+      "fan"
+    ],
+    "published_at": "2026-07-16T00:00:00Z",
+    "source_name": "Kumamoto Nichinichi Shimbun",
+    "source_url": "https://kumanichi.com/articles/2014487",
+    "i18n": {
+      "en": {
+        "title": "B.League and Nippon Foundation Award ¥300 Million in Community Grants to 28 Clubs",
+        "summary": "B.League and the Nippon Foundation announced roughly 300 million yen in 'community-building' grants for the 2026 fiscal year, spread across 28 clubs nationwide, up from about 170 million yen the previous year. Newly selected projects include Kyoto's plan to open a permanent community candy shop inside its practice facility and a Tokyo club's program extending school sports clubs' reach into the local community."
+      },
+      "ja": {
+        "title": "Bリーグと日本財団、28クラブに3億円の「まちづくり助成」を実施",
+        "summary": "Bリーグと日本財団は、2026年度の「まちづくり助成」として全国28クラブに総額約3億円を助成すると発表した。前年度の約1億7千万円から増額している。新規採択事業には、京都が練習場内に駄菓子屋を常設し地域に開放する計画や、東京のクラブが大学と連携して地元の部活動を地域に展開する取り組みなどが含まれる。"
+      },
+      "es": {
+        "title": "La B.League y la Fundación Nippon otorgan 300 millones de yenes en subvenciones comunitarias a 28 clubes",
+        "summary": "La B.League y la Fundación Nippon anunciaron subvenciones de 'desarrollo comunitario' por unos 300 millones de yenes para el año fiscal 2026, repartidas entre 28 clubes de todo el país, frente a los aproximadamente 170 millones de yenes del año anterior. Entre los proyectos recién seleccionados figura el plan de Kioto de abrir una tienda de dulces comunitaria permanente dentro de sus instalaciones de entrenamiento."
+      },
+      "zh": {
+        "title": "B联赛与日本财团向28家俱乐部发放3亿日元社区建设补助",
+        "summary": "B联赛与日本财团宣布，2026财年将向全国28家俱乐部发放总额约3亿日元的\"社区建设\"补助，较上一年度约1.7亿日元有所增加。新获选项目包括京都俱乐部计划在训练场内设立常设社区小卖部，以及东京一家俱乐部与大学合作，将校园体育社团活动向地方社区延伸。"
+      },
+      "fr": {
+        "title": "La B.League et la Fondation Nippon accordent 300 millions de yens de subventions communautaires à 28 clubs",
+        "summary": "La B.League et la Fondation Nippon ont annoncé environ 300 millions de yens de subventions de « développement communautaire » pour l'exercice 2026, répartis entre 28 clubs à travers le pays, contre environ 170 millions de yens l'année précédente. Parmi les projets nouvellement retenus figure le plan de Kyoto d'ouvrir une épicerie communautaire permanente au sein de son centre d'entraînement."
+      }
+    }
+  },
+  {
+    "id": "npb-smbc-japan-series-2026-title-sponsor",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-08-04T00:00:00Z",
+    "source_name": "NPB",
+    "source_url": "https://npb.jp/news/detail/20260804_01.html",
+    "i18n": {
+      "en": {
+        "title": "SMBC Named Title Sponsor of NPB's 2026 Japan Series",
+        "summary": "Nippon Professional Baseball announced Sumitomo Mitsui Banking Corporation as the special sponsor of this year's championship, which will be officially branded the 'SMBC Japan Series 2026' when it opens October 24. The deal includes a related promotional campaign tied to SMBC's Olive account, offering fans ticket and escort-kid experiences for Games 1 and 3."
+      },
+      "ja": {
+        "title": "NPB、2026年日本シリーズの特別協賛社に三井住友銀行",
+        "summary": "日本野球機構(NPB)は、三井住友銀行を今年の日本シリーズの特別協賛社として発表した。10月24日に開幕する大会は「SMBC日本シリーズ2026」の名称となる。同時に、三井住友銀行のOlive口座開設などを条件とした懸賞キャンペーンも実施され、第1戦・第3戦のエスコートキッズ参加やペアチケットが当たる。"
+      },
+      "es": {
+        "title": "SMBC, nombrado patrocinador oficial de la Serie de Japón 2026 de la NPB",
+        "summary": "Nippon Professional Baseball anunció a Sumitomo Mitsui Banking Corporation como patrocinador especial de la serie de campeonato de este año, que llevará oficialmente el nombre 'SMBC Japan Series 2026' cuando comience el 24 de octubre. El acuerdo incluye una campaña promocional vinculada a la cuenta Olive de SMBC, que ofrece a los aficionados experiencias de entradas y de niños escolta para los Juegos 1 y 3."
+      },
+      "zh": {
+        "title": "SMBC成为NPB2026年日本总冠军系列赛冠名赞助商",
+        "summary": "日本职业棒球组织(NPB)宣布三井住友银行成为本年度总冠军系列赛的特别赞助商，该赛事将于10月24日开幕，正式名称为\"SMBC日本总冠军系列赛2026\"。该协议还包含与三井住友银行Olive账户相关的促销活动，球迷可赢取第一场和第三场比赛的护旗手体验及双人票。"
+      },
+      "fr": {
+        "title": "SMBC nommé sponsor titre de la Série du Japon 2026 de la NPB",
+        "summary": "La Nippon Professional Baseball a annoncé que Sumitomo Mitsui Banking Corporation sera le sponsor spécial de la série de championnat de cette année, qui portera officiellement le nom « SMBC Japan Series 2026 » à son ouverture le 24 octobre. L'accord comprend une campagne promotionnelle liée au compte Olive de SMBC, offrant aux supporters des expériences de billetterie et d'escorte d'enfants pour les matchs 1 et 3."
+      }
+    }
+  },
+  {
+    "id": "buccaneers-pepsico-soft-drink-partner-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-07-30T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/news/buccaneers-swap-coca-cola-for-pepsico-after-50-years/",
+    "i18n": {
+      "en": {
+        "title": "Buccaneers End 50-Year Coca-Cola Tie, Name PepsiCo Official Soft Drink Partner",
+        "summary": "The Tampa Bay Buccaneers signed a multi-year deal naming PepsiCo their official soft drink partner and top-tier 'Pewter Partner,' ending a relationship with Coca-Cola that dated to the franchise's 1976 debut season. The switch, which builds on PepsiCo's existing ties through Gatorade and Frito-Lay, brings new concessions and a Pepsi-branded tailgate area to Raymond James Stadium starting in 2026."
+      },
+      "ja": {
+        "title": "バッカニアーズ、50年続いたコカ・コーラとの関係を終了しペプシコを公式ソフトドリンクパートナーに",
+        "summary": "タンパベイ・バッカニアーズは、ペプシコを公式ソフトドリンクパートナー兼最上位の「ピューター・パートナー」とする複数年契約を結んだ。これにより、1976年の球団創設シーズン以来続いていたコカ・コーラとの関係は終了する。ゲータレードやフリトレーを通じて既に関係のあったペプシコとの切り替えにより、2026年シーズンからレイモンド・ジェームズ・スタジアムに新たな売店やペプシブランドのテールゲートエリアが登場する。"
+      },
+      "es": {
+        "title": "Los Buccaneers terminan 50 años de vínculo con Coca-Cola y nombran a PepsiCo socio oficial de bebidas",
+        "summary": "Los Tampa Bay Buccaneers firmaron un acuerdo multianual que designa a PepsiCo como su socio oficial de bebidas gaseosas y su socio de nivel superior 'Pewter Partner', poniendo fin a una relación con Coca-Cola que se remontaba a la temporada de debut de la franquicia en 1976. El cambio, que se apoya en los vínculos ya existentes de PepsiCo a través de Gatorade y Frito-Lay, trae nuevas opciones de concesión y una zona de tailgate de marca Pepsi al Raymond James Stadium a partir de 2026."
+      },
+      "zh": {
+        "title": "海盗队终结与可口可乐50年合作，任命百事可乐为官方软饮料合作伙伴",
+        "summary": "坦帕湾海盗队签署多年协议，任命百事可乐为官方软饮料合作伙伴及最高级别的\"白镴合作伙伴\"，结束了自1976年球队创立赛季以来与可口可乐的合作关系。此次转变建立在百事可乐通过佳得乐和菲多利已有的合作基础上，从2026赛季起将为雷蒙德·詹姆斯体育场带来新的小卖部及百事品牌的尾门派对区域。"
+      },
+      "fr": {
+        "title": "Les Buccaneers mettent fin à 50 ans de partenariat avec Coca-Cola et nomment PepsiCo partenaire officiel des boissons",
+        "summary": "Les Buccaneers de Tampa Bay ont signé un accord pluriannuel désignant PepsiCo comme partenaire officiel des boissons gazeuses et partenaire de premier niveau « Pewter Partner », mettant fin à une relation avec Coca-Cola qui remontait à la saison de création de la franchise en 1976. Ce changement, qui s'appuie sur les liens déjà existants de PepsiCo via Gatorade et Frito-Lay, apporte de nouvelles offres de restauration et une zone de tailgate à l'image Pepsi au Raymond James Stadium dès 2026."
+      }
+    }
+  },
+  {
+    "id": "tennessee-first-horizon-jersey-patch-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-09-01T00:00:00Z",
+    "source_name": "Saturday Down South",
+    "source_url": "https://www.saturdaydownsouth.com/news/college-football/tennessee-announces-jersey-patch-sponsorship-for-football-olympic-sports/",
+    "i18n": {
+      "en": {
+        "title": "Tennessee Signs 10-Year, $120 Million Jersey Patch Deal With First Horizon Bank",
+        "summary": "The University of Tennessee announced a 10-year jersey patch sponsorship with First Horizon Bank reported to be worth $120 million, with the bank's logo appearing on football uniforms as well as several Olympic sports. The agreement is among the largest college jersey patch deals since the NCAA cleared the way for commercial logos on uniforms."
+      },
+      "ja": {
+        "title": "テネシー大学、ファーストホライズン銀行と10年1.2億ドルのジャージパッチ契約",
+        "summary": "テネシー大学は、ファーストホライズン銀行との間で10年契約・推定1億2000万ドル規模のジャージパッチスポンサー契約を発表した。同行のロゴはフットボールのユニフォームに加え、複数のオリンピック競技のユニフォームにも入る。NCAAがユニフォームへの商業ロゴ掲出を認めて以降、大学スポーツ最大級のジャージパッチ契約の一つとなる。"
+      },
+      "es": {
+        "title": "Tennessee firma un acuerdo de parche de camiseta de 10 años y 120 millones de dólares con First Horizon Bank",
+        "summary": "La Universidad de Tennessee anunció un patrocinio de parche de camiseta de 10 años con First Horizon Bank, con un valor reportado de 120 millones de dólares, con el logo del banco apareciendo en los uniformes de fútbol americano y en varios deportes olímpicos. El acuerdo está entre los mayores contratos de parche de camiseta universitaria desde que la NCAA permitió logos comerciales en los uniformes."
+      },
+      "zh": {
+        "title": "田纳西大学与第一地平线银行签订为期10年、1.2亿美元的球衣广告贴协议",
+        "summary": "田纳西大学宣布与第一地平线银行签订为期10年、据报道价值1.2亿美元的球衣广告贴赞助协议，该银行标志将出现在橄榄球队服以及多个奥运项目队服上。这是NCAA允许队服使用商业标志以来规模最大的大学球衣广告贴协议之一。"
+      },
+      "fr": {
+        "title": "Tennessee signe un accord de patch maillot de 10 ans et 120 millions de dollars avec First Horizon Bank",
+        "summary": "L'université du Tennessee a annoncé un partenariat de patch maillot de 10 ans avec First Horizon Bank, dont la valeur rapportée s'élève à 120 millions de dollars, le logo de la banque apparaissant sur les maillots de football américain ainsi que sur plusieurs sports olympiques. L'accord figure parmi les plus importants contrats de patch maillot universitaire depuis que la NCAA a autorisé les logos commerciaux sur les maillots."
+      }
+    }
+  },
+  {
+    "id": "ford-mlb-official-automotive-partner-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-03-23T00:00:00Z",
+    "source_name": "Sportcal",
+    "source_url": "https://www.sportcal.com/sponsorship/ford-sponsors-mlb-rays-orioles-braves-all-strike-new-partnerships/",
+    "i18n": {
+      "en": {
+        "title": "Ford Replaces Chevrolet as MLB's Exclusive Automotive Partner",
+        "summary": "Ford signed a multi-year exclusive deal to become Major League Baseball's official automotive partner, displacing Chevrolet after more than two decades in the role. The sponsorship covers Minor League Baseball and Little League Baseball and Softball as well as marquee MLB events including Opening Day, All-Star Week and the World Series, and includes Ford grant funding for Little Leagues in its operating communities."
+      },
+      "ja": {
+        "title": "フォード、MLBの自動車部門公式パートナーとしてシェビーに代わり就任",
+        "summary": "フォードは、長年その地位にあったシボレーに代わり、メジャーリーグベースボール(MLB)の公式自動車パートナーとなる複数年の独占契約を結んだ。このスポンサーシップは、マイナーリーグベースボールやリトルリーグ野球・ソフトボールに加え、開幕戦やオールスターウィーク、ワールドシリーズといったMLBの主要イベントも対象となり、フォードの事業拠点地域のリトルリーグへの助成金提供も含まれる。"
+      },
+      "es": {
+        "title": "Ford sustituye a Chevrolet como socio automotriz exclusivo de la MLB",
+        "summary": "Ford firmó un acuerdo exclusivo multianual para convertirse en el socio automotriz oficial de las Grandes Ligas de Béisbol, desplazando a Chevrolet tras más de dos décadas en ese puesto. El patrocinio cubre las Ligas Menores y el béisbol y sóftbol de Little League, además de eventos destacados de la MLB como el Día Inaugural, la Semana de las Estrellas y la Serie Mundial, e incluye financiamiento de Ford para Little Leagues en sus comunidades operativas."
+      },
+      "zh": {
+        "title": "福特取代雪佛兰成为MLB官方汽车合作伙伴",
+        "summary": "福特签署多年独家协议，成为美国职业棒球大联盟(MLB)官方汽车合作伙伴，取代了担任该角色二十余年的雪佛兰。该赞助涵盖小联盟棒球以及少棒联盟棒球和softball项目，还包括开幕日、全明星周和世界大赛等MLB重要活动，并包含福特向其业务所在社区的少棒联盟提供的资助资金。"
+      },
+      "fr": {
+        "title": "Ford remplace Chevrolet comme partenaire automobile exclusif de la MLB",
+        "summary": "Ford a signé un accord exclusif pluriannuel pour devenir le partenaire automobile officiel de la Major League Baseball, évinçant Chevrolet après plus de deux décennies à ce poste. Le partenariat couvre la Ligue mineure ainsi que le baseball et le softball de la Little League, en plus d'événements phares de la MLB comme le Jour d'ouverture, la semaine des étoiles et les World Series, et comprend des subventions de Ford pour les Little Leagues dans ses communautés d'implantation."
+      }
+    }
+  },
+  {
+    "id": "red-sox-whoop-wearable-sponsorship-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "tech"
+    ],
+    "published_at": "2026-05-12T00:00:00Z",
+    "source_name": "SportBusiness",
+    "source_url": "https://www.sportbusiness.com/news/whoop-strikes-first-mlb-team-deal-with-red-sox/",
+    "i18n": {
+      "en": {
+        "title": "Whoop Signs First MLB Team Deal, a Three-Year Partnership With the Red Sox",
+        "summary": "Wearable fitness company Whoop signed a three-year sponsorship with the Boston Red Sox, its first agreement with an MLB club, running through the 2028 season. Whoop becomes the team's official health and fitness wearable partner, with in-ballpark signage at Fenway Park and sponsorship of the Red Sox Foundation's 50/50 raffle, shortly after the company raised $575 million at a $10.1 billion valuation."
+      },
+      "ja": {
+        "title": "ウェアラブル企業Whoop、レッドソックスとMLB初のチーム契約を3年間締結",
+        "summary": "ウェアラブルフィットネス企業のWhoopは、ボストン・レッドソックスとの間で3年間のスポンサーシップ契約を結んだ。同社にとってMLB球団との初の契約となり、2028年シーズンまで続く。Whoopはチームの公式ヘルス・フィットネスウェアラブルパートナーとなり、フェンウェイ・パークでの看板掲出やレッドソックス財団の50/50ラッフルのスポンサーも務める。この契約は、同社が101億ドルの評価額で5億7500万ドルを調達した直後に発表された。"
+      },
+      "es": {
+        "title": "Whoop firma su primer acuerdo con un equipo de la MLB, una asociación de tres años con los Red Sox",
+        "summary": "La empresa de tecnología portátil Whoop firmó un patrocinio de tres años con los Boston Red Sox, su primer acuerdo con un club de la MLB, que se extenderá hasta la temporada 2028. Whoop se convierte en el socio oficial de dispositivos de salud y fitness del equipo, con señalización en Fenway Park y patrocinio de la rifa 50/50 de la Fundación Red Sox, poco después de que la compañía recaudara 575 millones de dólares con una valoración de 10.100 millones."
+      },
+      "zh": {
+        "title": "可穿戴设备公司Whoop签下首个MLB球队协议，与红袜队达成三年合作",
+        "summary": "可穿戴健身设备公司Whoop与波士顿红袜队签署三年期赞助协议，这是该公司与MLB球队的首个合作，协议将持续至2028赛季。Whoop成为球队官方健康与健身可穿戴设备合作伙伴，将在芬威球场设有广告牌，并赞助红袜基金会的50/50抽奖活动，此前该公司刚以101亿美元估值完成5.75亿美元融资。"
+      },
+      "fr": {
+        "title": "Whoop signe son premier accord avec une équipe de MLB, un partenariat de trois ans avec les Red Sox",
+        "summary": "L'entreprise de technologie portable Whoop a signé un partenariat de trois ans avec les Red Sox de Boston, son premier accord avec un club de la MLB, courant jusqu'à la saison 2028. Whoop devient le partenaire officiel d'appareils portables de santé et de fitness de l'équipe, avec un affichage à Fenway Park et le parrainage de la tombola 50/50 de la Fondation Red Sox, peu après que l'entreprise a levé 575 millions de dollars pour une valorisation de 10,1 milliards."
+      }
+    }
+  },
+  {
+    "id": "white-sox-cme-group-jersey-patch-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-01-28T00:00:00Z",
+    "source_name": "MLB.com",
+    "source_url": "https://www.mlb.com/whitesox/news/white-sox-cme-group-jersey-patch",
+    "i18n": {
+      "en": {
+        "title": "CME Group Becomes Chicago White Sox's First-Ever Jersey Patch Sponsor",
+        "summary": "The Chicago White Sox announced a multi-year agreement naming CME Group, the Chicago-based derivatives exchange operator, as the franchise's first jersey patch sponsor and Official Global Exchange Partner. The CME logo will appear on home, road and alternate uniforms including the City Connect jersey, and the deal also adds fixed signage behind home plate at Rate Field."
+      },
+      "ja": {
+        "title": "CMEグループ、シカゴ・ホワイトソックス史上初のジャージパッチスポンサーに",
+        "summary": "シカゴ・ホワイトソックスは、シカゴ拠点の金融取引所運営会社CMEグループを、球団史上初のジャージパッチスポンサー兼公式グローバル取引所パートナーとする複数年契約を発表した。CMEのロゴは、シティコネクトユニフォームを含むホーム・ロード・オルタネートの各ユニフォームに掲出され、レート・フィールドの本塁後方への固定看板設置も契約に含まれる。"
+      },
+      "es": {
+        "title": "CME Group se convierte en el primer patrocinador de parche de camiseta en la historia de los White Sox de Chicago",
+        "summary": "Los White Sox de Chicago anunciaron un acuerdo multianual que nombra a CME Group, el operador de la bolsa de derivados con sede en Chicago, como el primer patrocinador de parche de camiseta de la franquicia y su Socio Oficial de Intercambio Global. El logo de CME aparecerá en los uniformes de local, visitante y alterno, incluido el uniforme City Connect, y el acuerdo también añade señalización fija detrás del plato en Rate Field."
+      },
+      "zh": {
+        "title": "芝加哥商品交易所集团成为芝加哥白袜队史上首位球衣广告贴赞助商",
+        "summary": "芝加哥白袜队宣布与总部位于芝加哥的衍生品交易所运营商芝商所(CME Group)签订多年协议，使其成为球队历史上首位球衣广告贴赞助商及官方全球交易所合作伙伴。CME标志将出现在主场、客场及替补队服（包括City Connect队服）上，协议还包括在Rate Field本垒后方设置固定广告牌。"
+      },
+      "fr": {
+        "title": "CME Group devient le premier sponsor de patch maillot de l'histoire des White Sox de Chicago",
+        "summary": "Les White Sox de Chicago ont annoncé un accord pluriannuel désignant CME Group, l'opérateur de bourse de produits dérivés basé à Chicago, comme premier sponsor de patch maillot de la franchise et partenaire officiel mondial des échanges. Le logo de CME apparaîtra sur les maillots domicile, extérieur et alternatif, y compris le maillot City Connect, et l'accord ajoute également une signalétique fixe derrière le marbre à Rate Field."
+      }
+    }
   }
 ]
