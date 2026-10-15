@@ -6866,5 +6866,276 @@
         "summary": "Omnicom a lancé Acxiom Fan Graph, une plateforme de données conçue pour offrir aux marques une vue unifiée et respectueuse de la vie privée des fans de sport, en combinant données médias, de consommation, de fréquentation et de participation. L'entreprise situe ce lancement dans un marché des données de fans de sport en forte croissance, estimé à environ 92 milliards de dollars aujourd'hui et pouvant atteindre 156 milliards d'ici 2032. La plateforme vise les sponsors et détenteurs de droits en quête d'une mesure plus précise de l'engagement des fans."
       }
     }
+  },
+  {
+    "id": "west-ham-boyle-sports-shirt-renewal-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-06-30T00:00:00Z",
+    "source_name": "Inside World Football",
+    "source_url": "https://www.insideworldfootball.com/2026/06/30/west-ham-extend-partnership-with-boyle-sports/",
+    "i18n": {
+      "en": {
+        "title": "West Ham Extend Front-of-Shirt Deal with BOYLE Sports for 2026-27",
+        "summary": "West Ham United will keep BOYLE Sports as principal partner and front-of-shirt sponsor for the 2026-27 Championship season, with branding carried across the men's and women's kits. The renewal continues a multi-year arrangement despite the club's relegation, and financial terms were not disclosed."
+      },
+      "ja": {
+        "title": "ウェストハム、BOYLEスポーツとの胸スポンサー契約を2026-27シーズンも継続",
+        "summary": "ウェストハム・ユナイテッドは、2026-27シーズンのチャンピオンシップにおいてもBOYLEスポーツをメインパートナー兼胸スポンサーとして継続することを発表した。ロゴは男女両チームのユニフォームに掲出される。クラブの降格後も複数年契約が維持される形となり、契約金額は公表されていない。"
+      },
+      "es": {
+        "title": "West Ham amplía su acuerdo de patrocinio principal con BOYLE Sports para 2026-27",
+        "summary": "El West Ham United mantendrá a BOYLE Sports como socio principal y patrocinador del frente de la camiseta durante la temporada 2026-27 de la Championship, con presencia en los equipos masculino y femenino. La renovación continúa un acuerdo plurianual a pesar del descenso del club, y no se revelaron los términos económicos."
+      },
+      "zh": {
+        "title": "西汉姆联续签BOYLE体育胸前广告赞助至2026-27赛季",
+        "summary": "西汉姆联宣布在2026-27英冠赛季继续与BOYLE体育保持主赞助商及胸前广告合作关系,该品牌标识将出现在男女球队球衣上。尽管球队降级,这项多年合作仍得以延续,具体金额未予公开。"
+      },
+      "fr": {
+        "title": "West Ham prolonge son partenariat de sponsor principal avec BOYLE Sports pour 2026-27",
+        "summary": "West Ham United conservera BOYLE Sports comme partenaire principal et sponsor maillot pour la saison 2026-27 de Championship, la marque figurant sur les tenues masculines et féminines. Ce renouvellement prolonge un accord pluriannuel malgré la relégation du club, et les conditions financières n'ont pas été dévoilées."
+      }
+    }
+  },
+  {
+    "id": "boston-legacy-tj-maxx-shirt-sponsor-2025",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2025-10-15T00:00:00Z",
+    "source_name": "Inside World Football",
+    "source_url": "https://www.insideworldfootball.com/2025/10/15/massachusetts-based-retailer-tj-maxx-takes-inaugural-boston-legacy-shirt-sponsorship/",
+    "i18n": {
+      "en": {
+        "title": "TJ Maxx Becomes Boston Legacy FC's First-Ever Shirt Sponsor",
+        "summary": "NWSL expansion club Boston Legacy FC named Massachusetts-based retailer TJ Maxx as its inaugural front-of-shirt sponsor ahead of its 2026 debut season. The retailer's branding appears on home and away jerseys, with Hyundai on the sleeve and Voya Financial on the lower back, and TJ Maxx also becomes the club's official apparel partner."
+      },
+      "ja": {
+        "title": "TJマックス、NWSL新クラブ「ボストン・レガシー」の初代胸スポンサーに",
+        "summary": "NWSLの新規参入クラブ、ボストン・レガシーFCは、2026年シーズンの開幕を前に、マサチューセッツ州の小売企業TJマックスを初代の胸スポンサーに選定したと発表した。ロゴはホーム・アウェー両方のユニフォーム前面に掲出され、スリーブには現代自動車、背面下部にはボヤ・ファイナンシャルの広告が入る。TJマックスはクラブの公式アパレルパートナーも務める。"
+      },
+      "es": {
+        "title": "TJ Maxx se convierte en el primer patrocinador de camiseta del Boston Legacy FC",
+        "summary": "El club de expansión de la NWSL Boston Legacy FC nombró a la cadena minorista TJ Maxx, con sede en Massachusetts, como su primer patrocinador del frente de la camiseta antes de su temporada debut en 2026. La marca aparece en las camisetas local y visitante, con Hyundai en la manga y Voya Financial en la parte baja de la espalda, y TJ Maxx también se convierte en socio oficial de indumentaria del club."
+      },
+      "zh": {
+        "title": "TJ Maxx成为波士顿传承女足俱乐部首位胸前赞助商",
+        "summary": "NWSL扩军球队波士顿传承女足俱乐部宣布,在2026赛季首次登场前,选定马萨诸塞州零售商TJ Maxx作为首位胸前广告赞助商。该品牌标识将出现在主客场球衣正面,现代汽车位于袖子,Voya Financial位于背部下方,TJ Maxx同时成为球队官方服装合作伙伴。"
+      },
+      "fr": {
+        "title": "TJ Maxx devient le premier sponsor maillot du Boston Legacy FC",
+        "summary": "Le club d'expansion de la NWSL Boston Legacy FC a nommé le détaillant TJ Maxx, basé dans le Massachusetts, comme premier sponsor maillot avant sa saison inaugurale 2026. La marque figure sur les maillots domicile et extérieur, avec Hyundai sur la manche et Voya Financial au bas du dos, TJ Maxx devenant également partenaire officiel d'habillement du club."
+      }
+    }
+  },
+  {
+    "id": "world-aquatics-alibaba-cloud-partner-2025",
+    "sport": "olympics",
+    "region": "global",
+    "topics": [
+      "tech",
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2025-07-30T00:00:00Z",
+    "source_name": "World Aquatics",
+    "source_url": "https://www.worldaquatics.com/news/4326585/alibaba",
+    "i18n": {
+      "en": {
+        "title": "World Aquatics Names Alibaba Cloud Its Global Exclusive Cloud Supplier",
+        "summary": "World Aquatics appointed Alibaba Cloud as its global exclusive cloud supplier through 2028, in a deal the federation calls a first full systems migration for an international sports body. Plans include a next-generation management platform and new web and mobile apps for athletes, coaches and fans."
+      },
+      "ja": {
+        "title": "ワールドアクアティクス、アリババクラウドを世界独占クラウドサプライヤーに指定",
+        "summary": "国際水泳連盟（ワールドアクアティクス）は、アリババクラウドを2028年までの世界独占クラウドサプライヤーに指定したと発表した。同連盟は、国際競技団体として基幹システムを全面移行する初の事例だとしている。計画には次世代の管理プラットフォームに加え、選手・コーチ・ファン向けの新しいウェブおよびモバイルアプリの構築が含まれる。"
+      },
+      "es": {
+        "title": "World Aquatics nombra a Alibaba Cloud su proveedor exclusivo global de nube",
+        "summary": "World Aquatics designó a Alibaba Cloud como su proveedor exclusivo global de servicios en la nube hasta 2028, en un acuerdo que la federación describe como la primera migración completa de sistemas para un organismo deportivo internacional. Los planes incluyen una plataforma de gestión de nueva generación y nuevas aplicaciones web y móviles para atletas, entrenadores y aficionados."
+      },
+      "zh": {
+        "title": "世界泳联任命阿里云为全球独家云服务供应商",
+        "summary": "世界泳联宣布任命阿里云为其全球独家云服务供应商,合作期至2028年,该联合会称这是国际体育组织首次进行全面系统云迁移。计划包括新一代管理平台,以及为运动员、教练和球迷打造的全新网页和移动应用。"
+      },
+      "fr": {
+        "title": "World Aquatics nomme Alibaba Cloud fournisseur exclusif mondial de cloud",
+        "summary": "World Aquatics a désigné Alibaba Cloud comme fournisseur exclusif mondial de services cloud jusqu'en 2028, un accord que la fédération qualifie de première migration complète de systèmes pour un organisme sportif international. Les plans incluent une plateforme de gestion nouvelle génération ainsi que de nouvelles applications web et mobiles pour athlètes, entraîneurs et supporters."
+      }
+    }
+  },
+  {
+    "id": "rlcs-progressive-insurance-renewal-2026",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-01-13T00:00:00Z",
+    "source_name": "Esports Insider",
+    "source_url": "https://esportsinsider.com/2026/01/rlcs-progressive-insurance-renews-partnership-2026-season",
+    "i18n": {
+      "en": {
+        "title": "Progressive Insurance Renews Presenting-Sponsor Deal with Rocket League's RLCS for 2026",
+        "summary": "Progressive Insurance will continue as presenting partner of the Rocket League Championship Series for the 2026 season, expanding its broadcast rights with more on-screen graphics and a stronger English-broadcast presence. The insurer and organizer BLAST also plan co-branded, creator-led content through the year."
+      },
+      "ja": {
+        "title": "プログレッシブ保険、ロケットリーグ「RLCS」の2026年プレゼンティングスポンサーを継続",
+        "summary": "米保険会社プログレッシブは、2026年シーズンもeスポーツ大会「ロケットリーグ・チャンピオンシップ・シリーズ（RLCS）」のプレゼンティングパートナーを継続すると発表した。放映権を拡大し、画面上のグラフィック表示や英語放送での存在感を強化する。主催のBLASTとともに、クリエイターを起用した共同ブランドコンテンツも年間を通じて展開する予定。"
+      },
+      "es": {
+        "title": "Progressive Insurance renueva su patrocinio principal de la RLCS de Rocket League para 2026",
+        "summary": "Progressive Insurance continuará como socio principal del Rocket League Championship Series durante la temporada 2026, ampliando sus derechos de transmisión con más gráficos en pantalla y mayor presencia en la emisión en inglés. La aseguradora y el organizador BLAST también planean contenido de marca conjunta protagonizado por creadores durante todo el año."
+      },
+      "zh": {
+        "title": "Progressive保险续签火箭联盟RLCS 2026赛季冠名赞助协议",
+        "summary": "美国保险公司Progressive宣布将继续担任电竞赛事火箭联盟冠军系列赛(RLCS)2026赛季的冠名合作伙伴,并扩大转播权益,增加屏显图形并加强英语转播中的曝光。该保险公司与主办方BLAST还计划全年推出由内容创作者主导的联合品牌内容。"
+      },
+      "fr": {
+        "title": "Progressive Insurance renouvelle son partenariat de sponsor principal avec le RLCS de Rocket League pour 2026",
+        "summary": "Progressive Insurance restera partenaire principal du Rocket League Championship Series pour la saison 2026, élargissant ses droits de diffusion avec davantage de graphismes à l'écran et une présence renforcée sur la diffusion anglophone. L'assureur et l'organisateur BLAST prévoient aussi du contenu co-marqué porté par des créateurs tout au long de l'année."
+      }
+    }
+  },
+  {
+    "id": "wsu-playfly-multimedia-ticketing-2025",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "biz",
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2025-05-15T00:00:00Z",
+    "source_name": "WSU Athletics",
+    "source_url": "https://news.wsu.edu/news/2025/05/15/wsu-athletics-signs-10%E2%80%91year-multimedia-and-ticket-sales-partnership-with-playfly-sports/",
+    "i18n": {
+      "en": {
+        "title": "Washington State Signs 10-Year Multimedia and Ticketing Deal with Playfly Sports",
+        "summary": "Washington State University Athletics agreed to a 10-year partnership with Playfly Sports covering multimedia rights, outbound ticket sales and corporate sponsorship sales through 2034-35. Playfly will also pursue naming rights for select venues and will operate the school's 20-station Cougar Sports Radio Network."
+      },
+      "ja": {
+        "title": "ワシントン州立大学、プレイフライ・スポーツと10年間のメディア・チケット契約を締結",
+        "summary": "ワシントン州立大学アスレチック局は、プレイフライ・スポーツとの間で2034-35年度までの10年間のパートナーシップ契約を結んだと発表した。契約はメディア権、チケット販売、企業スポンサー販売を対象とする。プレイフライは一部施設の命名権獲得も目指すとともに、同大学のラジオ局網「クーガー・スポーツ・ラジオ・ネットワーク」の運営も担う。"
+      },
+      "es": {
+        "title": "Washington State firma un acuerdo de 10 años en medios y boletería con Playfly Sports",
+        "summary": "El departamento de Atletismo de Washington State University acordó una asociación de 10 años con Playfly Sports que abarca derechos multimedia, venta de boletos y patrocinios corporativos hasta la temporada 2034-35. Playfly también buscará derechos de denominación para algunos recintos y operará la red de radio deportiva de la universidad, de 20 estaciones."
+      },
+      "zh": {
+        "title": "华盛顿州立大学与Playfly体育签署十年媒体及票务合作协议",
+        "summary": "华盛顿州立大学体育部宣布与Playfly体育公司达成为期十年、至2034-35赛季的合作协议,涵盖多媒体版权、对外票务销售及企业赞助销售。Playfly还将为部分场馆寻求命名权,并运营该校拥有20家电台的「美洲狮体育广播网」。"
+      },
+      "fr": {
+        "title": "Washington State signe un accord de 10 ans avec Playfly Sports pour les médias et la billetterie",
+        "summary": "Le département sportif de l'université de Washington State a conclu un partenariat de 10 ans avec Playfly Sports couvrant les droits multimédias, la vente de billets et les partenariats commerciaux jusqu'à la saison 2034-35. Playfly cherchera aussi des droits de dénomination pour certaines enceintes et gérera le réseau radio sportif de l'université, fort de 20 stations."
+      }
+    }
+  },
+  {
+    "id": "topy-kogyo-san-en-neophoenix-partner-2025",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2025-09-16T00:00:00Z",
+    "source_name": "San-en NeoPhoenix",
+    "source_url": "https://digitalpr.jp/r/117947",
+    "i18n": {
+      "en": {
+        "title": "Topy Industries Stays On as San-en NeoPhoenix's Top Partner for 2025-26",
+        "summary": "B.League club San-en NeoPhoenix announced steelmaker Topy Industries will remain its top-tier sponsor for the 2025-26 season, its eighth year backing the club and second straight season at the highest partnership tier. The TOPY logo will appear on the back of the team's jersey for all 30 away games."
+      },
+      "ja": {
+        "title": "トピー工業、三遠ネオフェニックスの2025-26シーズンもトップパートナー継続",
+        "summary": "Bリーグの三遠ネオフェニックスは、鉄鋼メーカーのトピー工業が2025-26シーズンもトップパートナーを継続すると発表した。同社の協賛は8シーズン目で、最上位パートナーとしては2年連続となる。アウェー全30試合で着用するユニフォームの背中に「TOPY」のロゴが掲出される。"
+      },
+      "es": {
+        "title": "Topy Industries continúa como socio principal del San-en NeoPhoenix para 2025-26",
+        "summary": "El club de la B.League San-en NeoPhoenix anunció que la siderúrgica Topy Industries seguirá siendo su patrocinador de máximo nivel durante la temporada 2025-26, su octavo año respaldando al club y el segundo consecutivo en el nivel más alto de patrocinio. El logotipo TOPY aparecerá en la espalda de la camiseta del equipo en los 30 partidos de visitante."
+      },
+      "zh": {
+        "title": "Topy工业续约三远不死鸟队,继续担任2025-26赛季最高级合作伙伴",
+        "summary": "日本B联赛球队三远不死鸟宣布,钢铁制造商Topy工业将继续担任2025-26赛季的最高级赞助商,这是该公司赞助球队的第八个赛季,也是连续第二个赛季位列最高合作等级。TOPY标识将出现在球队客场30场比赛球衣背后。"
+      },
+      "fr": {
+        "title": "Topy Industries reste partenaire principal du San-en NeoPhoenix pour 2025-26",
+        "summary": "Le club de B.League San-en NeoPhoenix a annoncé que le sidérurgiste Topy Industries restera son sponsor de premier rang pour la saison 2025-26, sa huitième année de soutien au club et sa deuxième saison consécutive à ce niveau de partenariat le plus élevé. Le logo TOPY figurera au dos du maillot de l'équipe lors des 30 matchs à l'extérieur."
+      }
+    }
+  },
+  {
+    "id": "mito-hollyhock-takei-kogyosho-diamond-partner-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-06-21T00:00:00Z",
+    "source_name": "Mito Hollyhock",
+    "source_url": "https://bestcalendar.jp/press/136852",
+    "i18n": {
+      "en": {
+        "title": "Mito Hollyhock Upgrades Takei Kogyosho to Diamond Partner Status",
+        "summary": "J2 club Mito Hollyhock announced construction firm Takei Kogyosho has increased its sponsorship to become a Diamond Partner, the club's top sponsorship tier, under a one-year deal starting July 1. The expanded support covers practice-wear back branding, soccer clinics and joint corporate training programs."
+      },
+      "ja": {
+        "title": "水戸ホーリーホック、武井工業所がダイヤモンドパートナーに昇格",
+        "summary": "J2の水戸ホーリーホックは、建設関連企業の武井工業所が契約を増額し、クラブ最上位のダイヤモンドパートナーに昇格したと発表した。契約は7月1日から1年間で、練習着背中広告、サッカー教室、企業合同研修などの協賛支援が強化される。"
+      },
+      "es": {
+        "title": "Mito Hollyhock asciende a Takei Kogyosho a la categoría Diamond Partner",
+        "summary": "El club de la J2 Mito Hollyhock anunció que la empresa constructora Takei Kogyosho aumentó su patrocinio para convertirse en Diamond Partner, el nivel más alto de patrocinio del club, en un acuerdo de un año que comienza el 1 de julio. El apoyo ampliado incluye publicidad en la espalda de la ropa de entrenamiento, clínicas de fútbol y programas conjuntos de capacitación corporativa."
+      },
+      "zh": {
+        "title": "水户蜀葵将武井工业所升级为最高级别「钻石伙伴」",
+        "summary": "日本J2联赛球队水户蜀葵宣布,建筑相关企业武井工业所增加赞助金额,升级为俱乐部最高级别的「钻石伙伴」,合约为7月1日起一年期。扩大后的支持内容包括训练服背后广告、足球训练营及企业联合培训项目。"
+      },
+      "fr": {
+        "title": "Mito Hollyhock élève Takei Kogyosho au rang de Diamond Partner",
+        "summary": "Le club de J2 Mito Hollyhock a annoncé que l'entreprise de construction Takei Kogyosho a augmenté son parrainage pour devenir Diamond Partner, le niveau de sponsoring le plus élevé du club, dans le cadre d'un accord d'un an débutant le 1er juillet. Ce soutien élargi comprend la publicité au dos des tenues d'entraînement, des stages de football et des programmes de formation conjoints avec l'entreprise."
+      }
+    }
+  },
+  {
+    "id": "seibu-lions-cybozu-kintone-sleeve-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-01-29T00:00:00Z",
+    "source_name": "Cybozu",
+    "source_url": "https://topics.cybozu.co.jp/news/img/20260129_cybozupr.pdf",
+    "i18n": {
+      "en": {
+        "title": "Cybozu's kintone Becomes Sleeve Sponsor for Saitama Seibu Lions",
+        "summary": "Software firm Cybozu announced a sleeve-advertising sponsorship deal with NPB's Saitama Seibu Lions, with the kintone logo appearing on the right sleeve of home and away uniforms starting with spring training on February 1. Cybozu said the partnership reflects shared ground with the regionally rooted team in supporting digital adoption by local governments and businesses."
+      },
+      "ja": {
+        "title": "サイボウズ「kintone」、埼玉西武ライオンズの袖スポンサーに",
+        "summary": "ソフトウエア企業のサイボウズは、プロ野球・埼玉西武ライオンズとのユニフォーム袖広告スポンサー契約を発表した。2月1日開始の春季キャンプから、ホーム・ビジター両ユニフォームの右袖に「kintone」のロゴが掲出される。同社は、地域密着で活動する球団と、自治体や地域企業のデジタル活用を支援する自社方針に共通点があるとしている。"
+      },
+      "es": {
+        "title": "kintone de Cybozu se convierte en patrocinador de manga de los Saitama Seibu Lions",
+        "summary": "La empresa de software Cybozu anunció un acuerdo de patrocinio de publicidad en la manga con los Saitama Seibu Lions de la NPB, con el logotipo de kintone apareciendo en la manga derecha de los uniformes local y visitante a partir del entrenamiento de primavera el 1 de febrero. Cybozu dijo que la asociación refleja puntos en común con el equipo, de raíces regionales, en el apoyo a la adopción digital por parte de gobiernos y empresas locales."
+      },
+      "zh": {
+        "title": "Cybozu旗下kintone成为埼玉西武狮队袖标赞助商",
+        "summary": "软件公司Cybozu宣布与日本职棒埼玉西武狮队达成袖标广告赞助协议,自2月1日春训开始,kintone标识将出现在主客场球衣右袖。Cybozu表示,此次合作体现了该队立足地方与公司支持地方政府及企业数字化应用理念的共同点。"
+      },
+      "fr": {
+        "title": "kintone de Cybozu devient sponsor de manche des Saitama Seibu Lions",
+        "summary": "L'éditeur de logiciels Cybozu a annoncé un accord de parrainage publicitaire sur la manche avec les Saitama Seibu Lions de la NPB, le logo kintone apparaissant sur la manche droite des uniformes à domicile et à l'extérieur dès le camp d'entraînement de printemps le 1er février. Cybozu a indiqué que ce partenariat reflète des valeurs communes avec cette équipe ancrée localement, en matière de soutien à l'adoption numérique par les collectivités et entreprises locales."
+      }
+    }
   }
 ]
