@@ -6595,5 +6595,244 @@
         "summary": "Japan Airlines a conclu un contrat de fournisseur officiel de niveau 4 couvrant le transport aérien de passagers pour les 20es Jeux asiatiques et les 5es Jeux asiatiques para, tous deux organisés dans la région d'Aichi-Nagoya. La compagnie transportera la délégation nationale japonaise aux Jeux, et plusieurs employés-athlètes de JAL devraient concourir, en complément de son accord existant de compagnie aérienne officielle avec le Comité olympique japonais."
       }
     }
+  },
+  {
+    "id": "chelsea-clearlake-full-control-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-16T12:00:00Z",
+    "source_name": "Reuters",
+    "source_url": "https://www.local10.com/sports/2026/09/16/todd-boehly-and-mark-walter-sell-chelsea-shares-clearlake-now-has-full-control/",
+    "i18n": {
+      "en": {
+        "title": "Boehly and Walter Sell Chelsea Stakes, Handing Clearlake Full Control",
+        "summary": "Chelsea co-owners Todd Boehly and Mark Walter have sold their shares in the Premier League club to Clearlake Capital, giving the private equity firm full ownership. Boehly, who led the 2022 takeover from Roman Abramovich, steps down as chairman, while fellow investor Hansjorg Wyss remains part of the ownership group."
+      },
+      "ja": {
+        "title": "ボーリー氏とウォルター氏、チェルシー株をクレアレイクに売却し完全所有権へ",
+        "summary": "チェルシーの共同所有者であるトッド・ボーリー氏とマーク・ウォルター氏が保有株をクレアレイク・キャピタルに売却し、同社がクラブを完全所有することになった。2022年の買収を主導したボーリー氏は会長職を退くが、投資家ハンスヨルク・ウィス氏は引き続き経営陣に残る。"
+      },
+      "es": {
+        "title": "Boehly y Walter venden sus acciones del Chelsea, Clearlake toma el control total",
+        "summary": "Los copropietarios del Chelsea, Todd Boehly y Mark Walter, vendieron sus participaciones en el club de la Premier League a Clearlake Capital, que pasa a controlar la totalidad del club. Boehly, quien lideró la compra de 2022 a Roman Abramovich, deja la presidencia, mientras que el inversor Hansjorg Wyss seguirá en el grupo propietario."
+      },
+      "zh": {
+        "title": "博利与沃尔特出售切尔西股份,克利尔莱克获得完全控股权",
+        "summary": "切尔西联合所有者托德·博利和马克·沃尔特已将各自持有的股份出售给私募股权公司克利尔莱克资本,使该公司获得俱乐部的完全所有权。主导2022年收购阿布拉莫维奇股份的博利将卸任董事长一职,投资人汉斯约格·怀斯仍留在所有权团队中。"
+      },
+      "fr": {
+        "title": "Boehly et Walter cèdent leurs parts de Chelsea, Clearlake prend le contrôle total",
+        "summary": "Les copropriétaires de Chelsea, Todd Boehly et Mark Walter, ont vendu leurs parts du club de Premier League à Clearlake Capital, qui obtient ainsi le contrôle total du club. Boehly, qui avait dirigé le rachat de 2022 auprès de Roman Abramovich, quitte la présidence, tandis que l'investisseur Hansjorg Wyss reste au sein du groupe propriétaire."
+      }
+    }
+  },
+  {
+    "id": "mercedes-f1-microsoft-sponsorship-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "tech"
+    ],
+    "published_at": "2026-01-22T12:00:00Z",
+    "source_name": "PlanetF1",
+    "source_url": "https://www.planetf1.com/news/mercedes-w17-launch-microsoft",
+    "i18n": {
+      "en": {
+        "title": "Mercedes F1 Unveils W17 Alongside New Microsoft Sponsorship",
+        "summary": "Mercedes revealed its 2026 F1 car, the W17, and confirmed a new sponsorship with Microsoft on the same day. The logo will appear on the car's airbox and front wing endplates, and the deal also includes a technical component built around Microsoft Azure's cloud and AI tools, picking up from Microsoft's earlier partnership with rival team Alpine."
+      },
+      "ja": {
+        "title": "メルセデスF1、新車W17発表と同時にマイクロソフトとの新スポンサー契約を発表",
+        "summary": "メルセデスは2026年型F1マシン「W17」を発表し、同日マイクロソフトとの新たなスポンサー契約も明らかにした。ロゴはエアボックスとフロントウイングのエンドプレートに掲出される予定で、契約にはマイクロソフトのクラウド・AI技術「Azure」を活用する技術面での連携も含まれる。マイクロソフトはこれまでライバルチームのアルピーヌと提携していた。"
+      },
+      "es": {
+        "title": "Mercedes F1 presenta el W17 junto a un nuevo patrocinio de Microsoft",
+        "summary": "Mercedes mostró su monoplaza de F1 de 2026, el W17, y confirmó el mismo día un nuevo patrocinio con Microsoft. El logotipo aparecerá en la toma de aire y en los pontones del alerón delantero, y el acuerdo incluye además un componente técnico basado en las herramientas de nube e inteligencia artificial de Microsoft Azure, tras la anterior alianza de Microsoft con el equipo rival Alpine."
+      },
+      "zh": {
+        "title": "梅赛德斯F1发布W17赛车并同步公布与微软的新赞助协议",
+        "summary": "梅赛德斯发布了其2026赛季F1赛车W17,并在同一天确认与微软达成新的赞助协议。微软标识将出现在赛车的进气口和前翼端板上,该协议还包含基于微软Azure云计算与人工智能工具的技术合作内容,此前微软曾与对手阿尔宾车队合作。"
+      },
+      "fr": {
+        "title": "Mercedes F1 dévoile la W17 et un nouveau partenariat avec Microsoft",
+        "summary": "Mercedes a présenté sa monoplace de F1 2026, la W17, et confirmé le même jour un nouveau partenariat avec Microsoft. Le logo figurera sur l'entrée d'air et les ailerons avant, et l'accord comprend également un volet technique basé sur les outils cloud et d'intelligence artificielle de Microsoft Azure, après le précédent partenariat de Microsoft avec l'écurie rivale Alpine."
+      }
+    }
+  },
+  {
+    "id": "ferrari-f1-whoop-wearable-partner-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "tech"
+    ],
+    "published_at": "2026-01-19T12:00:00Z",
+    "source_name": "Ferrari.com",
+    "source_url": "https://www.ferrari.com/en-EN/formula1/articles/scuderia-ferrari-hp-announces-whoop-as-team-partner",
+    "i18n": {
+      "en": {
+        "title": "Ferrari Taps Whoop as Official Fitness Wearable Partner, Marking Brand's First F1 Deal",
+        "summary": "Scuderia Ferrari HP announced wearable fitness brand Whoop as its official health and fitness partner starting with the 2026 Formula 1 season, Whoop's first move into the sport. Ferrari's medical staff and Whoop's performance scientists will jointly analyze drivers' sleep, stress and recovery data, and the Whoop logo will appear on the team's cars and driver gear."
+      },
+      "ja": {
+        "title": "フェラーリ、ウェアラブル端末「WHOOP」と公式契約 ブランド初のF1参入",
+        "summary": "スクーデリア・フェラーリHPは、2026年F1シーズンからウェアラブルフィットネスブランド「WHOOP」を公式ヘルス&フィットネスパートナーに起用すると発表した。WHOOPにとってはF1参入が初めてとなる。フェラーリの医療スタッフとWHOOPのパフォーマンス科学者が共同でドライバーの睡眠・ストレス・回復データを分析し、WHOOPのロゴはチームのマシンやドライバーの装備に表示される。"
+      },
+      "es": {
+        "title": "Ferrari ficha a Whoop como socio oficial de dispositivos de bienestar, su primer acuerdo en la F1",
+        "summary": "Scuderia Ferrari HP anunció a la marca de dispositivos portátiles Whoop como su socio oficial de salud y bienestar a partir de la temporada 2026 de Fórmula 1, el primer paso de Whoop en este deporte. El personal médico de Ferrari y los científicos de rendimiento de Whoop analizarán juntos los datos de sueño, estrés y recuperación de los pilotos, y el logotipo de Whoop aparecerá en los monoplazas y el equipamiento del equipo."
+      },
+      "zh": {
+        "title": "法拉利签约可穿戴设备品牌WHOOP,成为该品牌首个F1合作项目",
+        "summary": "法拉利车队宣布可穿戴健康设备品牌WHOOP将从2026赛季F1开始担任其官方健康与健身合作伙伴,这是WHOOP首次进入F1领域。法拉利医疗团队与WHOOP的运动表现科学家将共同分析车手的睡眠、压力和恢复数据,WHOOP标识也将出现在车队赛车和车手装备上。"
+      },
+      "fr": {
+        "title": "Ferrari s'associe à Whoop comme partenaire officiel des objets connectés, une première en F1 pour la marque",
+        "summary": "Scuderia Ferrari HP a annoncé la marque d'objets connectés Whoop comme partenaire officiel santé et bien-être à partir de la saison 2026 de Formule 1, une première incursion de Whoop dans ce sport. Le personnel médical de Ferrari et les scientifiques de la performance de Whoop analyseront ensemble les données de sommeil, de stress et de récupération des pilotes, et le logo Whoop figurera sur les monoplaces et les tenues de l'équipe."
+      }
+    }
+  },
+  {
+    "id": "mclaren-f1-etihad-airways-partner-2026",
+    "sport": "motorsports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-02-26T10:00:00Z",
+    "source_name": "McLaren Racing",
+    "source_url": "https://www.mclaren.com/racing/latest-news/2026/mclaren-racing-announces-etihad-airways-as-an-official-partner/",
+    "i18n": {
+      "en": {
+        "title": "McLaren Racing Signs Etihad Airways as Official Partner Across F1 and WEC",
+        "summary": "McLaren Racing announced Etihad Airways as an official partner covering both its Formula 1 team and its United Autosports WEC Hypercar entry from the 2026 season onward. Etihad's branding will appear on the MCL40's rear wing and halo as well as driver helmets, and the airline plans a McLaren-branded livery on one of its Boeing 787 Dreamliner aircraft."
+      },
+      "ja": {
+        "title": "マクラーレン・レーシング、エティハド航空とF1・WECにわたる公式パートナー契約",
+        "summary": "マクラーレン・レーシングは、2026年シーズンからF1チームとユナイテッド・オートスポーツのWECハイパーカー参戦の両方を対象に、エティハド航空を公式パートナーとすることを発表した。エティハドのロゴはMCL40のリアウイングとヘイローおよびドライバーのヘルメットに掲出され、同社はボーイング787型機1機にマクラーレン仕様の特別塗装を施す計画。"
+      },
+      "es": {
+        "title": "McLaren Racing ficha a Etihad Airways como socio oficial en F1 y WEC",
+        "summary": "McLaren Racing anunció a Etihad Airways como socio oficial que abarca tanto su equipo de Fórmula 1 como su participación en el WEC Hypercar con United Autosports a partir de la temporada 2026. La marca de Etihad aparecerá en el alerón trasero y el halo del MCL40, además de en los cascos de los pilotos, y la aerolínea planea una decoración especial con la marca McLaren en uno de sus Boeing 787 Dreamliner."
+      },
+      "zh": {
+        "title": "迈凌车队签约阿提哈德航空,成为F1与WEC项目官方合作伙伴",
+        "summary": "迈凌车队宣布阿提哈德航空成为官方合作伙伴,合作范围涵盖其F1车队以及联合车队参加的WEC超级跑车项目,合作自2026赛季开始。阿提哈德的品牌标识将出现在MCL40赛车的尾翼和光环架以及车手头盔上,该航空公司还计划为一架波音787客机涂装迈凌主题涂装。"
+      },
+      "fr": {
+        "title": "McLaren Racing signe Etihad Airways comme partenaire officiel en F1 et en WEC",
+        "summary": "McLaren Racing a annoncé Etihad Airways comme partenaire officiel couvrant à la fois son équipe de Formule 1 et son engagement en WEC Hypercar avec United Autosports à partir de la saison 2026. La marque Etihad apparaîtra sur l'aileron arrière et le halo de la MCL40 ainsi que sur les casques des pilotes, et la compagnie prévoit une livrée spéciale McLaren sur l'un de ses Boeing 787 Dreamliner."
+      }
+    }
+  },
+  {
+    "id": "fancompass-digital-ignite-fan-engagement-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "fan",
+      "tech",
+      "biz"
+    ],
+    "published_at": "2026-02-23T12:00:00Z",
+    "source_name": "Business Wire",
+    "source_url": "https://www.businesswire.com/news/home/20260223836345/en/FanCompass-and-Digital-Ignite-Announce-Strategic-Partnership-to-Accelerate-Digital-Fan-Engagement-and-Revenue-Growth",
+    "i18n": {
+      "en": {
+        "title": "FanCompass and Digital Ignite Partner to Grow Sports Properties' Digital Fan Bases",
+        "summary": "Digital fan-engagement vendor FanCompass and paid-media agency Digital Ignite announced a strategic referral partnership aimed at helping sports and entertainment properties grow fan revenue. The deal pairs FanCompass's gamified tools, such as trivia and prediction games, with Digital Ignite's paid-campaign expertise to drive fan acquisition and engagement."
+      },
+      "ja": {
+        "title": "ファンコンパスとデジタル・イグナイト、デジタルファン拡大へ戦略的提携",
+        "summary": "デジタルファンエンゲージメント企業のファンコンパスと有料広告代理店のデジタル・イグナイトは、スポーツ・エンターテインメント団体のファン収益拡大を支援する戦略的な紹介提携を発表した。この提携により、クイズや予測ゲームなどファンコンパスのゲーム型ツールと、デジタル・イグナイトの有料広告運用の知見を組み合わせ、ファンの獲得とエンゲージメントを促進する。"
+      },
+      "es": {
+        "title": "FanCompass y Digital Ignite se asocian para ampliar las bases de fanáticos digitales",
+        "summary": "El proveedor de participación digital de fanáticos FanCompass y la agencia de medios pagados Digital Ignite anunciaron una alianza estratégica de referidos para ayudar a las propiedades deportivas y de entretenimiento a aumentar sus ingresos por fanáticos. El acuerdo combina las herramientas gamificadas de FanCompass, como trivias y juegos de predicción, con la experiencia en campañas pagadas de Digital Ignite para impulsar la captación y participación de aficionados."
+      },
+      "zh": {
+        "title": "FanCompass与Digital Ignite达成战略合作,助力扩大数字粉丝群体",
+        "summary": "数字粉丝互动服务商FanCompass与付费媒体代理公司Digital Ignite宣布建立战略推荐合作,旨在帮助体育与娱乐机构提升粉丝相关收入。该合作将FanCompass的问答、预测游戏等互动化工具与Digital Ignite的付费推广经验相结合,以推动粉丝获取与互动。"
+      },
+      "fr": {
+        "title": "FanCompass et Digital Ignite s'associent pour développer les bases de fans numériques",
+        "summary": "Le fournisseur d'engagement numérique des fans FanCompass et l'agence de médias payants Digital Ignite ont annoncé un partenariat stratégique de recommandation visant à aider les propriétés sportives et de divertissement à accroître leurs revenus liés aux fans. L'accord combine les outils gamifiés de FanCompass, comme les quiz et jeux de prédiction, avec l'expertise de Digital Ignite en campagnes payantes pour stimuler l'acquisition et l'engagement des fans."
+      }
+    }
+  },
+  {
+    "id": "genius-sports-publicis-sports-partnership-2025",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "fan",
+      "tech",
+      "sponsor"
+    ],
+    "published_at": "2025-11-25T12:00:00Z",
+    "source_name": "Business Wire",
+    "source_url": "https://www.businesswire.com/news/home/20251125133402/en/Genius-Sports-Partners-with-Publicis-Sports-to-Reimagine-Future-of-Fan-Engagement",
+    "i18n": {
+      "en": {
+        "title": "Genius Sports and Publicis Sports Team Up on AI-Driven Fan Engagement",
+        "summary": "Genius Sports partnered with Publicis Sports to give Publicis's advertising clients access to Genius Sports' FANHub platform, which uses AI to target verified sports fans during live games. Publicis Sports will also join the Genius Sports Innovation Council, an advisory group made up of leagues, teams and broadcasters."
+      },
+      "ja": {
+        "title": "ジーニアス・スポーツとピュブリシス・スポーツ、AI活用のファンエンゲージメントで提携",
+        "summary": "ジーニアス・スポーツはピュブリシス・スポーツと提携し、同社の広告クライアントがAIを活用してライブ試合中の認証済みスポーツファンをターゲティングできる「FANHub」プラットフォームを利用できるようにした。ピュブリシス・スポーツは、リーグやチーム、放送局で構成されるジーニアス・スポーツの諮問機関「イノベーション・カウンシル」にも参加する。"
+      },
+      "es": {
+        "title": "Genius Sports y Publicis Sports se unen para impulsar el engagement de fanáticos con IA",
+        "summary": "Genius Sports se asoció con Publicis Sports para dar a los clientes publicitarios de esta última acceso a la plataforma FANHub de Genius Sports, que utiliza inteligencia artificial para dirigirse a aficionados deportivos verificados durante partidos en vivo. Publicis Sports también se unirá al Consejo de Innovación de Genius Sports, un grupo asesor formado por ligas, equipos y cadenas de televisión."
+      },
+      "zh": {
+        "title": "Genius Sports与Publicis Sports合作,借助AI技术提升粉丝互动",
+        "summary": "Genius Sports与Publicis Sports达成合作,使后者的广告客户能够使用Genius Sports的FANHub平台,该平台借助人工智能在直播比赛期间精准定位经过验证的体育迷。Publicis Sports还将加入由联赛、球队和转播商组成的Genius Sports创新委员会。"
+      },
+      "fr": {
+        "title": "Genius Sports et Publicis Sports s'associent pour l'engagement des fans basé sur l'IA",
+        "summary": "Genius Sports s'est associé à Publicis Sports pour donner aux clients publicitaires de cette dernière accès à la plateforme FANHub de Genius Sports, qui utilise l'intelligence artificielle pour cibler les fans de sport vérifiés pendant les matchs en direct. Publicis Sports rejoindra également le Conseil de l'innovation de Genius Sports, un groupe consultatif composé de ligues, d'équipes et de diffuseurs."
+      }
+    }
+  },
+  {
+    "id": "bic-camera-ryukyu-golden-kings-sponsor-2026",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-04-01T12:00:00Z",
+    "source_name": "BCN Retail",
+    "source_url": "https://www.bcnretail.com/market/detail/20260403_615364.html",
+    "i18n": {
+      "en": {
+        "title": "Bic Camera Signs Sponsorship with B.League's Ryukyu Golden Kings to Mark Okinawa Store Debut",
+        "summary": "Electronics retailer Bic Camera signed a sponsorship deal with the Ryukyu Golden Kings, the B.League basketball club based in Okinawa, timed to the April 23 opening of its first Bic Camera-branded store on the prefecture's main shopping street. As part of the tie-up, the retailer set up a promotional booth at a home game and issued a limited-edition points card featuring the team's mascot, Gordy."
+      },
+      "ja": {
+        "title": "ビックカメラ、沖縄初出店に合わせ琉球ゴールデンキングスとスポンサー契約",
+        "summary": "ビックカメラは、那覇市国際通りに沖縄初の「ビックカメラ」ブランド店舗を4月23日にオープンするのに合わせ、Bリーグの琉球ゴールデンキングスとスポンサー契約を結んだ。開店記念として、ホームゲーム会場に特設ブースを設置し、チームマスコット「ゴーディー」をデザインした限定ポイントカードを発行した。"
+      },
+      "es": {
+        "title": "Bic Camera firma un patrocinio con los Ryukyu Golden Kings de la B.League por su debut en Okinawa",
+        "summary": "La cadena de electrónica Bic Camera firmó un acuerdo de patrocinio con los Ryukyu Golden Kings, el club de baloncesto de la B.League con sede en Okinawa, coincidiendo con la apertura el 23 de abril de su primera tienda de la marca Bic Camera en la principal calle comercial de la prefectura. Como parte del acuerdo, la cadena instaló un stand promocional en un partido local y emitió una tarjeta de puntos de edición limitada con la mascota del equipo, Gordy."
+      },
+      "zh": {
+        "title": "必酷相机与B联赛琉球黄金国王队签署赞助协议,庆祝冲绳首店开业",
+        "summary": "电子产品零售商必酷相机与总部位于冲绳的B联赛篮球俱乐部琉球黄金国王队签署赞助协议,恰逢其在冲绳主要商业街开设首家必酷相机品牌门店,开业日期为4月23日。作为合作的一部分,该零售商在一场主场比赛中设立了推广展位,并发行了以球队吉祥物「戈迪」为设计的限量积分卡。"
+      },
+      "fr": {
+        "title": "Bic Camera signe un partenariat de sponsoring avec les Ryukyu Golden Kings de la B.League pour son ouverture à Okinawa",
+        "summary": "Le détaillant d'électronique Bic Camera a signé un accord de sponsoring avec les Ryukyu Golden Kings, le club de basketball de la B.League basé à Okinawa, à l'occasion de l'ouverture le 23 avril de son premier magasin de marque Bic Camera sur la principale rue commerçante de la préfecture. Dans le cadre de ce partenariat, l'enseigne a installé un stand promotionnel lors d'un match à domicile et émis une carte de points en édition limitée à l'effigie de la mascotte de l'équipe, Gordy."
+      }
+    }
   }
 ]
