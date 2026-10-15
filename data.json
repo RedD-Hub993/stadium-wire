@@ -6589,5 +6589,172 @@
         "summary": "TitletownTech, le fonds de capital-risque sportif affilié aux Packers de Green Bay, a sécurisé 70 millions de dollars de nouveaux investissements. Le fonds soutient des entreprises en phase de démarrage dans la technologie sportive, l'expérience des supporters et les médias, prolongeant le modèle d'investissement lié aux franchises NFL. Ce nouveau capital devrait financer des paris supplémentaires dans un marché de plus en plus concurrentiel."
       }
     }
+  },
+  {
+    "id": "warriors-iren-jersey-patch-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-06-26T00:00:00Z",
+    "source_name": "SportCal",
+    "source_url": "https://www.sportcal.com/news/iren-replaces-rakuten-as-warriors-patch-partner-in-record-deal/",
+    "i18n": {
+      "en": {
+        "title": "Warriors Ink Reported $50M-a-Year Jersey Patch Deal With AI Firm Iren",
+        "summary": "The Golden State Warriors agreed to a multi-year jersey patch partnership with AI cloud computing company Iren, reportedly worth more than $50 million annually and described as the richest sponsorship in North American team sports history. The deal, which starts with the 2026-27 season and replaces longtime partner Rakuten, also extends to the WNBA's Golden State Valkyries and the G League's Santa Cruz Warriors, and includes community programs such as youth jersey donations."
+      },
+      "ja": {
+        "title": "ウォリアーズ、AI企業アイレンと年間50億円超ともされるユニフォームパッチ契約",
+        "summary": "ゴールデンステート・ウォリアーズは、AIクラウド企業アイレンと複数年のユニフォームパッチ契約を締結した。報道によれば年間5000万ドル超とされ、北米プロスポーツ史上最高額のスポンサー契約と伝えられている。2026-27シーズンから長年のパートナーだった楽天に代わるもので、WNBAのゴールデンステート・バルキリーズやGリーグのサンタクルーズ・ウォリアーズにも契約が拡大される。"
+      },
+      "es": {
+        "title": "Warriors firman un parche de camiseta con la firma de IA Iren por un reportado $50M anuales",
+        "summary": "Los Golden State Warriors acordaron una asociación plurianual de parche de camiseta con la empresa de computación en la nube con IA Iren, valorada según reportes en más de 50 millones de dólares al año, descrita como el patrocinio más lucrativo en la historia del deporte profesional norteamericano. El acuerdo, vigente desde la temporada 2026-27, sustituye al histórico socio Rakuten y se extiende también a las Golden State Valkyries de la WNBA y a los Santa Cruz Warriors de la G League."
+      },
+      "zh": {
+        "title": "勇士队与AI公司Iren签订据称年值5000万美元的球衣广告合同",
+        "summary": "金州勇士队与人工智能云计算公司Iren达成多年期球衣广告合作,据报道价值超过每年5000万美元,被称为北美职业体育史上金额最高的赞助协议。该协议自2026-27赛季起生效,取代长期合作伙伴乐天,并延伸至WNBA金州勇士女篮和发展联盟圣克鲁兹勇士队。"
+      },
+      "fr": {
+        "title": "Les Warriors signent un accord de sponsoring maillot avec Iren évalué à 50 M$ par an",
+        "summary": "Les Golden State Warriors ont conclu un partenariat pluriannuel de patch maillot avec l'entreprise de cloud IA Iren, évalué selon des informations à plus de 50 millions de dollars par an, décrit comme le sponsoring le plus lucratif de l'histoire du sport professionnel nord-américain. L'accord, qui débute avec la saison 2026-27, remplace le partenaire historique Rakuten et s'étend aux Golden State Valkyries de la WNBA et aux Santa Cruz Warriors de la G League."
+      }
+    }
+  },
+  {
+    "id": "fulham-clickhouse-shirt-sponsor-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-07-21T00:00:00Z",
+    "source_name": "SportCal",
+    "source_url": "https://www.sportcal.com/news/fulham-name-tech-company-clickhouse-as-new-shirt-sponsor/",
+    "i18n": {
+      "en": {
+        "title": "Fulham Names Database Firm ClickHouse as Front-of-Shirt Sponsor",
+        "summary": "Fulham announced real-time analytics and database company ClickHouse as its new principal partner and front-of-shirt sponsor in a multi-year deal covering the men's home, away and third kits. ClickHouse replaces betting brand SBOTOP, which could not renew after Premier League clubs voted to phase out shirt sponsorships with gambling companies from the 2026-27 season."
+      },
+      "ja": {
+        "title": "フラム、データベース企業クリックハウスとユニフォームスポンサー契約",
+        "summary": "フラムは、リアルタイム分析・データベース企業クリックハウスを新たなプリンシパルパートナー兼ユニフォームスポンサーとして発表した。複数年契約で、ホーム・アウェー・サードキットすべてに適用される。プレミアリーグ各クラブが2026-27シーズンからギャンブル企業とのユニフォームスポンサー契約を段階的に廃止することを決議したため、従来のスポンサーだった賭博ブランドSBOTOPとの契約は更新されなかった。"
+      },
+      "es": {
+        "title": "Fulham nombra a la empresa de bases de datos ClickHouse patrocinador principal de camiseta",
+        "summary": "Fulham anunció a la empresa de análisis en tiempo real y bases de datos ClickHouse como su nuevo socio principal y patrocinador delantero de camiseta, en un acuerdo plurianual que cubre las equipaciones local, visitante y alternativa del primer equipo masculino. ClickHouse sustituye a la marca de apuestas SBOTOP, que no pudo renovar tras la votación de los clubes de la Premier League para eliminar gradualmente los patrocinios de camiseta con empresas de apuestas desde la temporada 2026-27."
+      },
+      "zh": {
+        "title": "富勒姆队宣布数据库公司ClickHouse为球衣胸前赞助商",
+        "summary": "富勒姆宣布实时分析与数据库公司ClickHouse成为其新的首席合作伙伴及球衣胸前赞助商,多年期协议涵盖男足一线队的主场、客场及第三球衣。ClickHouse取代了博彩品牌SBOTOP,此前英超各俱乐部投票决定从2026-27赛季起逐步淘汰与博彩公司的球衣赞助合作,该品牌因此未能续约。"
+      },
+      "fr": {
+        "title": "Fulham nomme l'entreprise de bases de données ClickHouse sponsor maillot principal",
+        "summary": "Fulham a annoncé l'entreprise d'analyse en temps réel et de bases de données ClickHouse comme nouveau partenaire principal et sponsor avant de maillot, dans un accord pluriannuel couvrant les maillots domicile, extérieur et third de l'équipe masculine. ClickHouse remplace la marque de paris SBOTOP, qui n'a pas pu renouveler après le vote des clubs de Premier League visant à supprimer progressivement les sponsors de maillot liés aux paris sportifs dès la saison 2026-27."
+      }
+    }
+  },
+  {
+    "id": "kyoto-hannaryz-konoike-gold-partner-2026",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-04-06T00:00:00Z",
+    "source_name": "Logistics Today",
+    "source_url": "https://www.logi-today.com/936894",
+    "i18n": {
+      "en": {
+        "title": "Kyoto Hannaryz Sign Logistics Firm Konoike Transport as Gold Partner",
+        "summary": "B.League club Kyoto Hannaryz announced a gold partner sponsorship agreement with logistics company Konoike Transport covering the 2025-26 and 2026-27 seasons. Konoike cited the club's community-rooted growth approach as a reason for the partnership, which comes as Kyoto Hannaryz prepares for entry into the new top-tier B.LEAGUE PREMIER category starting in 2027-28."
+      },
+      "ja": {
+        "title": "京都ハンナリーズ、物流企業の鴻池運輸とゴールドパートナー契約",
+        "summary": "Bリーグの京都ハンナリーズは、物流企業の鴻池運輸と2025-26シーズンおよび2026-27シーズンにわたるゴールドパートナー契約を締結したと発表した。鴻池運輸は地域に根差したクラブの成長姿勢に共感したとしており、京都ハンナリーズは2027-28シーズンから新設の最上位カテゴリー「B.LEAGUE PREMIER」への参入を目指している。"
+      },
+      "es": {
+        "title": "Kyoto Hannaryz firma con la logística Konoike Transport como socio dorado",
+        "summary": "El club de la B.League Kyoto Hannaryz anunció un acuerdo de patrocinio de socio dorado con la empresa de logística Konoike Transport, vigente para las temporadas 2025-26 y 2026-27. Konoike citó el enfoque de crecimiento arraigado en la comunidad del club como motivo de la alianza, mientras Kyoto Hannaryz se prepara para entrar en la nueva categoría superior B.LEAGUE PREMIER a partir de 2027-28."
+      },
+      "zh": {
+        "title": "京都Hannaryz与物流企业鴻池运输签订金牌合作伙伴协议",
+        "summary": "B联赛球队京都Hannaryz宣布与物流公司鴻池运输签订金牌合作伙伴协议,涵盖2025-26赛季及2026-27赛季。鴻池运输表示认同球队扎根地方社区的成长方式,而京都Hannaryz正筹备自2027-28赛季起加入新设立的最高级别联赛B.LEAGUE PREMIER。"
+      },
+      "fr": {
+        "title": "Le Kyoto Hannaryz signe avec le logisticien Konoike Transport comme partenaire or",
+        "summary": "Le club de B.League Kyoto Hannaryz a annoncé un accord de partenariat or avec l'entreprise de logistique Konoike Transport, couvrant les saisons 2025-26 et 2026-27. Konoike a cité l'approche de croissance ancrée localement du club comme raison de ce partenariat, alors que Kyoto Hannaryz se prépare à intégrer la nouvelle catégorie supérieure B.LEAGUE PREMIER à partir de 2027-28."
+      }
+    }
+  },
+  {
+    "id": "mls-altius8-presenting-sponsor-search-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-09-18T00:00:00Z",
+    "source_name": "MarketScale",
+    "source_url": "https://www.marketscale.com/industries/sports-entertainment/mls-is-shopping-an-eight-figure-presenting-sponsorship-ahead-of-mls-30",
+    "i18n": {
+      "en": {
+        "title": "MLS Shops League-Wide Presenting Sponsorship Ahead of 'MLS 3.0' Changes",
+        "summary": "Major League Soccer has reportedly retained advisory firm Altius8 to find a league-wide presenting sponsor, with early conversations said to be in the eight-figure range, behind only the league's existing Apple and Adidas partnerships in scale. The league's chief revenue officer said no package has been predefined yet, leaving room to shape the rights around a bidder's goals as MLS plans broader commercial changes."
+      },
+      "ja": {
+        "title": "MLS、「MLS 3.0」改革を前にリーグ冠スポンサーを模索",
+        "summary": "メジャーリーグサッカー(MLS)は、リーグ全体の冠スポンサーを見つけるためアドバイザリー会社アリティウス8を起用したと報じられている。初期段階の交渉額は8桁(数千万ドル規模)とされ、既存のアップルおよびアディダスとの契約に次ぐ規模になる見込み。リーグの最高収益責任者は、パッケージ内容はまだ確定しておらず、MLSが商業面での大幅な改革を計画する中、入札企業の目的に応じて柔軟に設計する考えを示した。"
+      },
+      "es": {
+        "title": "La MLS busca un patrocinador presentador para toda la liga antes del 'MLS 3.0'",
+        "summary": "La Major League Soccer habría contratado a la firma asesora Altius8 para encontrar un patrocinador presentador a nivel de liga, con conversaciones iniciales en el rango de ocho cifras, solo por detrás de las asociaciones existentes con Apple y Adidas en magnitud. El director de ingresos de la liga dijo que aún no hay un paquete predefinido, dejando margen para adaptar los derechos a los objetivos del postor mientras la MLS planea cambios comerciales más amplios."
+      },
+      "zh": {
+        "title": "MLS在\"MLS 3.0\"改革前寻求联盟级冠名赞助商",
+        "summary": "据报道,美国职业足球大联盟(MLS)已聘请顾问公司Altius8,为整个联盟寻找冠名赞助商,早期洽谈金额据称达八位数,规模仅次于联盟现有的苹果和阿迪达斯合作伙伴关系。联盟首席营收官表示,目前尚未确定具体方案,在MLS计划进行更广泛商业变革之际,将根据竞标方的目标灵活设计权益内容。"
+      },
+      "fr": {
+        "title": "La MLS recherche un sponsor titre pour toute la ligue avant les changements « MLS 3.0 »",
+        "summary": "La Major League Soccer aurait engagé le cabinet de conseil Altius8 pour trouver un sponsor titre à l'échelle de la ligue, les premières discussions se situant selon des sources à huit chiffres, juste derrière les partenariats existants avec Apple et Adidas en termes d'ampleur. La directrice des revenus de la ligue a indiqué qu'aucun package n'était encore défini, laissant la possibilité d'adapter les droits aux objectifs d'un soumissionnaire alors que la MLS prévoit des changements commerciaux plus larges."
+      }
+    }
+  },
+  {
+    "id": "nx-group-mlb-draft-presenting-sponsor-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-06-11T00:00:00Z",
+    "source_name": "PR Newswire",
+    "source_url": "https://en.prnasia.com/releases/global/nx-group-named-presenting-sponsor-of-mlb-draft-in-2026-2027-with-2026-mlb-draft-presented-by-nx-being-held-in-philadelphia-this-july-536814.shtml",
+    "i18n": {
+      "en": {
+        "title": "Japan's NX Group Named Presenting Sponsor of MLB Draft for 2026 and 2027",
+        "summary": "Nippon Express Holdings' NX Group signed a multi-year agreement to become presenting sponsor of the MLB Draft, with the 2026 event branded the '2026 MLB Draft presented by NX' and staged in Philadelphia in July. The deal extends the Japanese logistics group's long-running sponsorship ties with Major League Baseball into a new high-visibility annual broadcast property."
+      },
+      "ja": {
+        "title": "NXグループ、2026・2027年MLBドラフトのメインスポンサーに決定",
+        "summary": "日本通運グループを傘下に持つNXグループは、MLBドラフトのメインスポンサーとなる複数年契約を締結した。2026年の大会は「2026 MLB Draft presented by NX」と銘打たれ、7月にフィラデルフィアで開催される。今回の契約により、日本の物流グループが長年続けてきたメジャーリーグベースボールとのスポンサー関係が、全国放送される注目度の高い年次イベントへと拡大する。"
+      },
+      "es": {
+        "title": "El grupo japonés NX, nombrado patrocinador principal del Draft de la MLB para 2026 y 2027",
+        "summary": "NX Group, de Nippon Express Holdings, firmó un acuerdo plurianual para convertirse en patrocinador principal del Draft de la MLB, con el evento de 2026 bautizado como '2026 MLB Draft presented by NX' y celebrado en Filadelfia en julio. El acuerdo amplía los vínculos de patrocinio de larga data del grupo logístico japonés con las Grandes Ligas hacia una nueva propiedad televisiva anual de gran visibilidad."
+      },
+      "zh": {
+        "title": "日本NX集团获选为2026、2027年美职棒选秀冠名赞助商",
+        "summary": "日本通运控股旗下的NX集团签署多年期协议,成为美国职业棒球大联盟(MLB)选秀大会的冠名赞助商,2026年赛事命名为\"2026 MLB Draft presented by NX\",于7月在费城举行。此协议将这家日本物流集团与MLB长期存在的赞助关系,扩展至一项备受关注的年度电视转播赛事。"
+      },
+      "fr": {
+        "title": "Le groupe japonais NX nommé sponsor titre de la Draft MLB pour 2026 et 2027",
+        "summary": "NX Group, filiale de Nippon Express Holdings, a signé un accord pluriannuel pour devenir sponsor titre de la Draft de la MLB, l'édition 2026 étant baptisée « 2026 MLB Draft presented by NX » et organisée à Philadelphie en juillet. Cet accord étend les liens de sponsoring de longue date du groupe logistique japonais avec la Major League Baseball à un nouvel événement télévisé annuel à forte visibilité."
+      }
+    }
   }
 ]
