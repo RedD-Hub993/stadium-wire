@@ -6835,5 +6835,245 @@
         "summary": "Les White Sox de Chicago ont annoncé un accord pluriannuel désignant CME Group, l'opérateur de bourse de produits dérivés basé à Chicago, comme premier sponsor de patch maillot de la franchise et partenaire officiel mondial des échanges. Le logo de CME apparaîtra sur les maillots domicile, extérieur et alternatif, y compris le maillot City Connect, et l'accord ajoute également une signalétique fixe derrière le marbre à Rate Field."
       }
     }
+  },
+  {
+    "id": "lazio-polymarket-sponsorship-ends-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-08-11T12:00:00Z",
+    "source_name": "Il Sole 24 Ore",
+    "source_url": "https://en.ilsole24ore.com/art/lazio-and-polymarket-have-officially-ended-their-sponsorship-agreement-by-mutual-consent-AJXDMgk",
+    "i18n": {
+      "en": {
+        "title": "Lazio and Polymarket Terminate Record Shirt Deal by Mutual Consent",
+        "summary": "S.S. Lazio and prediction-market platform Polymarket ended their roughly €22 million front-of-shirt agreement by mutual consent, just months after it began. The split follows Italy's gambling regulator blacklisting Polymarket and blocking its access nationwide; under the settlement Polymarket will still pay Lazio the amount owed for the 2026/27 season."
+      },
+      "ja": {
+        "title": "ラツィオとポリマーケット、約2200万ユーロのシャツ契約を合意解除",
+        "summary": "SSラツィオと予測市場プラットフォームのポリマーケットは、契約開始から数カ月で約2200万ユーロのユニフォーム胸スポンサー契約を合意のうえ解除した。イタリアの賭博規制当局がポリマーケットをブラックリストに指定し国内アクセスを遮断したことが背景にあり、和解条件としてポリマーケットは2026/27シーズン分の契約金をラツィオに支払うとされている。"
+      },
+      "es": {
+        "title": "Lazio y Polymarket rescinden de mutuo acuerdo su contrato récord de camiseta",
+        "summary": "La S.S. Lazio y la plataforma de mercados de predicción Polymarket pusieron fin de mutuo acuerdo a su patrocinio de la parte frontal de la camiseta, valorado en unos 22 millones de euros, apenas meses después de firmarlo. La ruptura llega tras que el regulador italiano de apuestas incluyera a Polymarket en una lista negra y bloqueara su acceso en el país; como parte del acuerdo, Polymarket abonará a Lazio lo pactado para la temporada 2026/27."
+      },
+      "zh": {
+        "title": "拉齐奥与Polymarket协商解除创纪录球衣赞助合约",
+        "summary": "SS拉齐奥与预测市场平台Polymarket在签约仅数月后，协商一致终止了价值约2200万欧元的球衣胸前广告合同。此次分手源于意大利博彩监管机构将Polymarket列入黑名单并在全国范围内封锁其访问；根据和解条款，Polymarket仍将向拉齐奥支付2026/27赛季应付的款项。"
+      },
+      "fr": {
+        "title": "La Lazio et Polymarket résilient à l'amiable leur contrat record de sponsoring maillot",
+        "summary": "La S.S. Lazio et la plateforme de marchés de prédiction Polymarket ont mis fin d'un commun accord à leur partenariat de sponsoring maillot, estimé à environ 22 millions d'euros, quelques mois seulement après sa signature. Cette rupture survient après que le régulateur italien des jeux a inscrit Polymarket sur liste noire et bloqué son accès dans le pays ; dans le cadre de l'accord, Polymarket versera tout de même à la Lazio le montant dû pour la saison 2026/27."
+      }
+    }
+  },
+  {
+    "id": "spectrum-learfield-college-athletics-sponsorship-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "stadium",
+      "tech"
+    ],
+    "published_at": "2026-09-04T12:00:00Z",
+    "source_name": "Learfield",
+    "source_url": "https://uwbadgers.com/news/2026/9/4/football-spectrum-joins-wisconsin-athletics-on-the-field-at-camp-randall-and-courtside-at-the-kohl-center",
+    "i18n": {
+      "en": {
+        "title": "Spectrum Signs Multiyear Sponsorships With Wisconsin, South Carolina and TCU Athletics",
+        "summary": "Charter's Spectrum brand, working through Learfield, struck multiyear sponsorship deals with the athletic departments at Wisconsin, South Carolina and TCU ahead of the 2026 college football season. The agreements place Spectrum signage and branded fan charging stations at Camp Randall Stadium and the Kohl Center in Madison, and make Spectrum the presenting sponsor of TCU's pregame Frog Walk with branding at Amon G. Carter Stadium and Schollmaier Arena."
+      },
+      "ja": {
+        "title": "スペクトラム、ウィスコンシン・サウスカロライナ・TCUの大学スポーツ局と複数年スポンサー契約",
+        "summary": "チャーター・コミュニケーションズのブランド「スペクトラム」は、代理店ラーフィールドを通じて、2026年の大学アメリカンフットボールシーズンを前にウィスコンシン、サウスカロライナ、TCUの各大学スポーツ局と複数年のスポンサー契約を結んだ。契約により、マディソンのキャンプ・ランドール・スタジアムやコール・センターにスペクトラムの看板とファン向け充電スタンドが設置され、TCUの試合前恒例「フロッグ・ウォーク」の冠スポンサーにもなる。"
+      },
+      "es": {
+        "title": "Spectrum firma patrocinios plurianuales con los departamentos deportivos de Wisconsin, Carolina del Sur y TCU",
+        "summary": "La marca Spectrum de Charter, a través de la agencia Learfield, cerró acuerdos de patrocinio plurianual con los departamentos deportivos de Wisconsin, Carolina del Sur y TCU antes de la temporada de fútbol americano universitario de 2026. Los acuerdos incluyen señalización de Spectrum y estaciones de carga para aficionados en el Camp Randall Stadium y el Kohl Center de Madison, además de convertir a la marca en patrocinador principal del tradicional 'Frog Walk' previo a los partidos de TCU."
+      },
+      "zh": {
+        "title": "Spectrum与威斯康星、南卡罗来纳及TCU体育部门签署多年赞助协议",
+        "summary": "特许通讯公司（Charter）旗下品牌Spectrum通过代理机构Learfield，在2026赛季大学橄榄球赛季开打前，与威斯康星大学、南卡罗来纳大学及TCU的体育部门达成多年赞助协议。协议内容包括在麦迪逊的坎普兰多球场和科尔中心设置Spectrum广告牌及球迷充电站，并使其成为TCU赛前传统活动“青蛙漫步”的冠名赞助商。"
+      },
+      "fr": {
+        "title": "Spectrum signe des partenariats pluriannuels avec les départements sportifs de Wisconsin, Caroline du Sud et TCU",
+        "summary": "La marque Spectrum de Charter, via l'agence Learfield, a conclu des accords de sponsoring pluriannuels avec les départements sportifs de Wisconsin, de Caroline du Sud et de TCU avant la saison de football universitaire 2026. Ces accords placent des panneaux Spectrum et des bornes de recharge pour supporters au Camp Randall Stadium et au Kohl Center de Madison, et font de la marque le sponsor principal du traditionnel « Frog Walk » d'avant-match de TCU."
+      }
+    }
+  },
+  {
+    "id": "jleague-2026-27-round2-attendance-record",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "fan",
+      "biz"
+    ],
+    "published_at": "2026-08-17T12:00:00Z",
+    "source_name": "J.League",
+    "source_url": "https://www.jleague.jp/news/article/34656/",
+    "i18n": {
+      "en": {
+        "title": "J.League Breaks Matchday Attendance Record for Second Straight Round",
+        "summary": "The 2026/27 J.League season drew 481,544 fans across 30 J1, J2 and J3 matches in its second round, breaking the single-round attendance record for the second consecutive round after the opening weekend's 476,112. Both J2 and J3 also set category-level attendance records, a surge the league links to momentum from its joint promotion with the JFA around the FIFA World Cup 2026."
+      },
+      "ja": {
+        "title": "Jリーグ、節別入場者数の記録を2節連続で更新",
+        "summary": "2026/27明治安田Jリーグは第2節、J1・J2・J3合計30試合で481,544人が来場し、開幕節の476,112人に続いて節別最多入場者数を2節連続で更新した。J2・J3もそれぞれのカテゴリーで節別最多を記録しており、リーグはFIFAワールドカップ2026に合わせたJFAとの共同プロモーションがこの盛り上がりを後押ししたとみている。"
+      },
+      "es": {
+        "title": "La J.League rompe su récord de asistencia por jornada por segunda vez consecutiva",
+        "summary": "La temporada 2026/27 de la J.League reunió a 481.544 aficionados en 30 partidos de J1, J2 y J3 durante su segunda jornada, superando el récord de asistencia por jornada por segunda vez consecutiva tras los 476.112 del fin de semana inaugural. Tanto J2 como J3 también marcaron récords de asistencia en sus respectivas categorías, un repunte que la liga atribuye al impulso de su promoción conjunta con la JFA en torno a la Copa Mundial de la FIFA 2026."
+      },
+      "zh": {
+        "title": "日本J联赛单轮入场人数纪录连续两轮刷新",
+        "summary": "2026/27赛季J联赛第2轮，J1、J2、J3三个级别共30场比赛吸引了481,544名观众入场，继开幕周476,112人之后，连续两轮刷新单轮入场人数纪录。J2和J3也各自创造了本级别的单轮入场新高，联赛方面认为这一热潮得益于与日本足协围绕2026年FIFA世界杯开展的联合推广活动。"
+      },
+      "fr": {
+        "title": "La J.League bat son record d'affluence par journée pour la deuxième fois consécutive",
+        "summary": "La saison 2026/27 de la J.League a attiré 481 544 spectateurs sur 30 matches de J1, J2 et J3 lors de sa deuxième journée, battant le record d'affluence par journée pour la deuxième fois de suite après les 476 112 spectateurs du week-end d'ouverture. La J2 et la J3 ont également établi des records d'affluence dans leurs catégories respectives, une hausse que la ligue attribue à l'élan de sa promotion conjointe avec la JFA autour de la Coupe du monde de la FIFA 2026."
+      }
+    }
+  },
+  {
+    "id": "bleague-2025-26-season-attendance-record",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "fan",
+      "biz"
+    ],
+    "published_at": "2026-07-14T12:00:00Z",
+    "source_name": "Forbes JAPAN",
+    "source_url": "https://forbesjapan.com/articles/detail/101581",
+    "i18n": {
+      "en": {
+        "title": "B.LEAGUE Reports Record 5.48 Million Fans for 2025-26 Season",
+        "summary": "Japan's B.LEAGUE confirmed total attendance of about 5.48 million across B1 and B2 for the 2025-26 season, including playoffs and the All-Star Game, up roughly 635,000 from the prior year and a new league record in its tenth season. Separately, Nagoya Diamond Dolphins and Chiba Jets became the first clubs to average over 10,000 fans per home game, a milestone the league credits partly to Nagoya's new arena."
+      },
+      "ja": {
+        "title": "Bリーグ、2025-26シーズンの入場者数が548万人で過去最多に",
+        "summary": "日本のBリーグは、プレーオフやオールスターゲームを含む2025-26シーズンのB1・B2合計入場者数が約548万人となり、前年から約63万5千人増えて10シーズン目で過去最多を記録したと発表した。また名古屋ダイヤモンドドルフィンズと千葉ジェッツが平均入場者数で初めて1万人を超え、リーグは名古屋の新アリーナ開業効果が一因とみている。"
+      },
+      "es": {
+        "title": "La B.LEAGUE registra un récord de 5,48 millones de aficionados en la temporada 2025-26",
+        "summary": "La B.LEAGUE de Japón confirmó una asistencia total de unos 5,48 millones de espectadores entre la B1 y la B2 en la temporada 2025-26, incluyendo playoffs y el All-Star Game, un aumento de unos 635.000 respecto al año anterior y un nuevo récord de la liga en su décima temporada. Por separado, Nagoya Diamond Dolphins y Chiba Jets se convirtieron en los primeros clubes en promediar más de 10.000 aficionados por partido en casa, un hito que la liga atribuye en parte a la nueva arena de Nagoya."
+      },
+      "zh": {
+        "title": "日本B联赛公布2025-26赛季入场人数达548万创历史新高",
+        "summary": "日本篮球B联赛公布，2025-26赛季B1与B2合计（含季后赛及全明星赛）总入场人数约为548万人，较上一年增加约63.5万人，创下联赛进入第十个赛季以来的历史新高。此外，名古屋钻石海豚和千叶喷气机队成为首批场均入场人数突破1万人的球队，联赛方面认为这部分得益于名古屋新球馆的落成。"
+      },
+      "fr": {
+        "title": "La B.LEAGUE annonce un record de 5,48 millions de spectateurs pour la saison 2025-26",
+        "summary": "La B.LEAGUE japonaise a confirmé une affluence totale d'environ 5,48 millions de spectateurs pour la B1 et la B2 lors de la saison 2025-26, playoffs et All-Star Game inclus, soit une hausse d'environ 635 000 par rapport à l'année précédente et un nouveau record de la ligue pour sa dixième saison. Par ailleurs, les Nagoya Diamond Dolphins et les Chiba Jets sont devenus les premiers clubs à dépasser en moyenne 10 000 spectateurs par match à domicile, une étape que la ligue attribue en partie à la nouvelle arène de Nagoya."
+      }
+    }
+  },
+  {
+    "id": "giantx-utamed-education-partner-2026",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-05-04T12:00:00Z",
+    "source_name": "GIANTX",
+    "source_url": "https://giantx.gg/en/blogs/news/giantx-and-utamed-announce-new-partnership-agreement-2026",
+    "i18n": {
+      "en": {
+        "title": "GIANTX Names Spanish Online University UTAMED Its Official Education Partner",
+        "summary": "European esports organization GIANTX announced Malaga-based online university UTAMED as its Official Education Partner through the end of 2026, with UTAMED's logo featured on the club's League of Legends EMEA Championship jersey. The deal extends beyond branding into joint content production, including a planned YouTube series, across GIANTX's social channels and competitions."
+      },
+      "ja": {
+        "title": "GIANTX、スペインのオンライン大学UTAMEDと公式教育パートナー契約",
+        "summary": "欧州のeスポーツ組織GIANTXは、マラガを拠点とするオンライン大学UTAMEDを2026年末までの公式教育パートナーに起用すると発表した。UTAMEDのロゴはクラブのリーグ・オブ・レジェンドEMEAチャンピオンシップ用ジャージに掲出される。契約はブランディングだけでなく、YouTubeシリーズの制作を含む共同コンテンツ制作にも広がり、GIANTXのSNSや大会にも展開される。"
+      },
+      "es": {
+        "title": "GIANTX nombra a la universidad online española UTAMED su socio educativo oficial",
+        "summary": "La organización de esports europea GIANTX anunció a la universidad online UTAMED, con sede en Málaga, como su Socio Educativo Oficial hasta finales de 2026, con el logotipo de UTAMED presente en la camiseta del club para el Campeonato EMEA de League of Legends. El acuerdo va más allá del patrocinio visual e incluye la producción conjunta de contenidos, entre ellos una serie prevista para YouTube, a través de los canales sociales y las competiciones de GIANTX."
+      },
+      "zh": {
+        "title": "GIANTX任命西班牙在线大学UTAMED为官方教育合作伙伴",
+        "summary": "欧洲电竞组织GIANTX宣布，总部位于马拉加的在线大学UTAMED将成为其官方教育合作伙伴，合作期至2026年底，UTAMED的标志将出现在该俱乐部参加《英雄联盟》EMEA冠军联赛的球衣上。该协议不仅限于品牌露出，还包括联合内容制作，计划推出YouTube系列节目，并覆盖GIANTX的社交媒体渠道和赛事。"
+      },
+      "fr": {
+        "title": "GIANTX fait de l'université en ligne espagnole UTAMED son partenaire éducatif officiel",
+        "summary": "L'organisation d'esport européenne GIANTX a annoncé que l'université en ligne UTAMED, basée à Malaga, devient son partenaire éducatif officiel jusqu'à fin 2026, avec le logo d'UTAMED apparaissant sur le maillot du club pour le League of Legends EMEA Championship. L'accord va au-delà du simple affichage de marque et inclut une production de contenu conjointe, notamment une série prévue sur YouTube, diffusée sur les réseaux sociaux et lors des compétitions de GIANTX."
+      }
+    }
+  },
+  {
+    "id": "49ers-us-bank-partnership-extension-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "fan",
+      "biz"
+    ],
+    "published_at": "2026-08-12T12:00:00Z",
+    "source_name": "49ers.com",
+    "source_url": "https://www.49ers.com/news/san-francisco-49ers-and-u-s-bank-announce-multiyear-partnership-extension",
+    "i18n": {
+      "en": {
+        "title": "49ers and U.S. Bank Extend Partnership, Add Practice Jersey Patch",
+        "summary": "The San Francisco 49ers and U.S. Bank announced a multiyear extension of their partnership dating back to 2014, adding a practice jersey patch and entitlement to the team's girls' flag football programming. The bank will also present the east field club at Levi's Stadium and launch a redesigned 49ers-branded debit card, with the deal highlighted around the team's October 19 game against the Washington Commanders."
+      },
+      "ja": {
+        "title": "49ers、USバンクとのパートナーシップを延長し練習用ジャージパッチを追加",
+        "summary": "サンフランシスコ・49ersとUSバンクは、2014年に始まったパートナーシップの複数年延長を発表し、練習用ジャージへのパッチ掲出と、チームの女子フラッグフットボール事業への協賛権を新たに加えた。同行はレビース・スタジアムのイーストフィールドクラブの冠スポンサーも務め、デザインを一新した49ers仕様のデビットカードも発行する。この契約は10月19日のワシントン・コマンダーズ戦に合わせて発表された。"
+      },
+      "es": {
+        "title": "Los 49ers y U.S. Bank amplían su alianza y añaden un parche en la camiseta de entrenamiento",
+        "summary": "Los San Francisco 49ers y U.S. Bank anunciaron una extensión plurianual de su alianza, que se remonta a 2014, añadiendo un parche en la camiseta de entrenamiento y derechos sobre el programa de fútbol bandera femenino del equipo. El banco también presentará el club de campo este del Levi's Stadium y lanzará una tarjeta de débito con el diseño renovado de los 49ers, con el acuerdo destacado en torno al partido del 19 de octubre contra los Washington Commanders."
+      },
+      "zh": {
+        "title": "49人队与美国银行延长合作并新增训练服广告位",
+        "summary": "旧金山49人队与美国银行宣布延长双方自2014年起的合作关系，新增训练球衣广告贴标，并获得球队女子橄榄球项目的冠名权益。该银行还将冠名利维体育场东侧球场俱乐部，并发行全新设计的49人队专属借记卡，该协议配合球队10月19日对阵华盛顿指挥官队的比赛对外公布。"
+      },
+      "fr": {
+        "title": "Les 49ers et U.S. Bank prolongent leur partenariat et ajoutent un écusson sur le maillot d'entraînement",
+        "summary": "Les San Francisco 49ers et U.S. Bank ont annoncé une prolongation pluriannuelle de leur partenariat, qui remonte à 2014, en ajoutant un écusson sur le maillot d'entraînement et des droits sur le programme de flag football féminin de l'équipe. La banque présentera également le club du terrain est du Levi's Stadium et lancera une carte de débit au nouveau design des 49ers, l'accord étant mis en avant autour du match du 19 octobre contre les Commanders de Washington."
+      }
+    }
+  },
+  {
+    "id": "patriots-ugreen-technology-partner-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "tech"
+    ],
+    "published_at": "2026-04-22T12:00:00Z",
+    "source_name": "Patriots.com",
+    "source_url": "https://www.patriots.com/news/ugreen-enters-sports-arena-with-new-england-patriots-partnership",
+    "i18n": {
+      "en": {
+        "title": "UGREEN Becomes Patriots' Official Technology Accessory Partner in First Sports Deal",
+        "summary": "Consumer electronics brand UGREEN was named the New England Patriots' Official Technology Accessory Partner for the 2026 season, marking the company's first sports sponsorship anywhere in the world. The deal makes UGREEN an official partner of Gillette Stadium, with fan activations at home games and plans to debut its SynCare AIoT charging line during the season."
+      },
+      "ja": {
+        "title": "UGREEN、初のスポーツ契約でペイトリオッツの公式テクノロジーアクセサリーパートナーに",
+        "summary": "家電ブランドのUGREENは、2026年シーズンのニューイングランド・ペイトリオッツの公式テクノロジーアクセサリーパートナーに就任したと発表した。同社にとって世界初のスポーツスポンサー契約となる。契約によりUGREENはジレット・スタジアムの公式パートナーとなり、ホームゲームでのファン向け体験イベントを実施するほか、シーズン中に新充電ライン「SynCare AIoTシリーズ」を発売する計画を示している。"
+      },
+      "es": {
+        "title": "UGREEN se convierte en socio tecnológico oficial de los Patriots en su primer acuerdo deportivo",
+        "summary": "La marca de electrónica de consumo UGREEN fue nombrada Socio Oficial de Accesorios Tecnológicos de los New England Patriots para la temporada 2026, lo que supone el primer patrocinio deportivo de la compañía en todo el mundo. El acuerdo convierte a UGREEN en socio oficial del Gillette Stadium, con activaciones para aficionados en los partidos en casa y planes de presentar su línea de carga SynCare AIoT durante la temporada."
+      },
+      "zh": {
+        "title": "UGREEN绿联成为爱国者队官方科技配件合作伙伴，系其首份体育赞助",
+        "summary": "消费电子品牌绿联（UGREEN）宣布成为新英格兰爱国者队2026赛季官方科技配件合作伙伴，这是该公司在全球范围内的首份体育赞助协议。根据协议，绿联将成为吉列体育场官方合作伙伴，在主场比赛中开展球迷互动活动，并计划在本赛季推出其SynCare AIoT充电系列新品。"
+      },
+      "fr": {
+        "title": "UGREEN devient partenaire technologique officiel des Patriots pour son premier contrat sportif",
+        "summary": "La marque d'électronique grand public UGREEN a été nommée partenaire officiel des accessoires technologiques des New England Patriots pour la saison 2026, marquant le premier partenariat sportif de l'entreprise dans le monde. L'accord fait d'UGREEN un partenaire officiel du Gillette Stadium, avec des animations pour les supporters lors des matchs à domicile et des plans pour lancer sa gamme de chargeurs SynCare AIoT au cours de la saison."
+      }
+    }
   }
 ]
