@@ -1,5 +1,38 @@
 [
   {
+    "id": "bandai-namco-arena-matsue-naming-2026",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "stadium"
+    ],
+    "published_at": "2026-08-17T00:00:00Z",
+    "source_name": "Dengeki Online",
+    "source_url": "https://dengekionline.com/article/202608/84633",
+    "i18n": {
+      "en": {
+        "title": "Bandai Namco Secures Naming Rights for Shimane Susanoo Magic's Home Arena",
+        "summary": "Bandai Namco Entertainment has secured naming rights for the Matsue City Gymnasium, home arena of B.League club Shimane Susanoo Magic, with the venue renamed 'Bandai Namco Arena Matsue' starting September 1, 2026. The companies say the agreement is part of an effort to deepen ties with the local community through sport. Bandai Namco previously donated roughly 3 billion yen to Matsue City through a corporate hometown tax program, partly funding renovations at the arena."
+      },
+      "ja": {
+        "title": "バンダイナムコ、島根スサノオマジックのホームアリーナ命名権を取得",
+        "summary": "バンダイナムコエンターテインメントは、Bリーグ所属の島根スサノオマジックのホームアリーナである松江市総合体育館の命名権を取得し、2026年9月1日より施設の愛称を「バンダイナムコアリーナ松江」に変更すると発表した。両者は、この契約がスポーツを通じて地域とのつながりを一層強化する取り組みの一環であるとしている。バンダイナムコは以前、企業版ふるさと納税を通じて松江市に総額約30億円を寄附しており、その一部がアリーナの改修費用に充てられている。"
+      },
+      "es": {
+        "title": "Bandai Namco obtiene los derechos de denominación de la cancha local de Shimane Susanoo Magic",
+        "summary": "Bandai Namco Entertainment obtuvo los derechos de denominación del Gimnasio Municipal de Matsue, sede del club de la B.League Shimane Susanoo Magic, que pasará a llamarse 'Bandai Namco Arena Matsue' a partir del 1 de septiembre de 2026. Las empresas señalan que el acuerdo forma parte de un esfuerzo por estrechar los lazos con la comunidad local a través del deporte. Bandai Namco había donado previamente unos 3.000 millones de yenes a la ciudad de Matsue mediante un programa fiscal corporativo de 'ciudad natal', financiando en parte renovaciones en el recinto."
+      },
+      "zh": {
+        "title": "万代南梦宫获得岛根苏萨诺奥魔法队主场命名权",
+        "summary": "万代南梦宫娱乐公司获得了B联赛球队岛根苏萨诺奥魔法队主场松江市综合体育馆的命名权,场馆将于2026年9月1日起更名为万代南梦宫松江竞技场。双方表示,此次合作是通过体育加强与当地社区联系的举措之一。万代南梦宫此前通过企业版故乡纳税制度向松江市捐赠约30亿日元,部分资金用于该场馆的改造工程。"
+      },
+      "fr": {
+        "title": "Bandai Namco obtient les droits de dénomination de la salle de Shimane Susanoo Magic",
+        "summary": "Bandai Namco Entertainment a obtenu les droits de dénomination du gymnase municipal de Matsue, domicile du club de B.League Shimane Susanoo Magic, qui sera rebaptisé « Bandai Namco Arena Matsue » à partir du 1er septembre 2026. Les deux parties indiquent que cet accord s'inscrit dans une démarche visant à renforcer les liens avec la communauté locale par le sport. Bandai Namco avait précédemment fait un don d'environ 3 milliards de yens à la ville de Matsue via un programme fiscal d'entreprise de type « taxe de la ville natale », finançant en partie des rénovations de la salle."
+      }
+    }
+  },
+  {
     "id": "jleague-2026-27-round2-attendance-record",
     "sport": "soccer",
     "region": "japan",
@@ -164,6 +197,40 @@
       "fr": {
         "title": "L'exploitant du Consadole Sapporo enregistre une perte d'exploitation de 13,9 millions de dollars mais évite les capitaux propres négatifs",
         "summary": "La société qui exploite le club de J.League Hokkaido Consadole Sapporo a annoncé une perte d'exploitation d'environ 1,39 milliard de yens pour l'exercice clos en juin 2026, en grande partie parce que la masse salariale des joueurs est restée proche du niveau de J1 malgré la relégation du club. La société mère Ishiya Seika a injecté 1,25 milliard de yens, limitant la perte nette à environ 230 millions de yens et évitant des capitaux propres négatifs pour une huitième année consécutive de pertes nettes."
+      }
+    }
+  },
+  {
+    "id": "bleague-alpen-five-club-sponsorship-renewal-2026",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-09-18T00:00:00Z",
+    "source_name": "PR TIMES",
+    "source_url": "https://digitalpr.jp/r/144048",
+    "i18n": {
+      "en": {
+        "title": "Alpen Renews B.LEAGUE Partnership and Sponsorships With Five Clubs for 2026-27",
+        "summary": "Sporting goods retailer Alpen announced on September 18 that it will continue as a B.LEAGUE partner for the 2026-27 season, which opened September 22, while renewing club sponsorships with five teams: Levanga Hokkaido, Tokyo Sunrockers, Kawasaki Brave Thunders, Nagoya Diamond Dolphins and Ryukyu Golden Kings. The renewal comes as B.LEAGUE enters the first year of its 'B.Innovation' restructuring, which consolidates clubs nationwide and refreshes the league's branding. Alpen plans in-store promotions and joint events with the five clubs through the season."
+      },
+      "ja": {
+        "title": "アルペン、2026-27シーズンもB.LEAGUEパートナーと5クラブとのスポンサー契約を継続",
+        "summary": "スポーツ用品販売大手アルペンは9月18日、9月22日に開幕した2026-27シーズンもB.LEAGUEのパートナーとしての活動を継続すると発表し、レバンガ北海道、東京サンロッカーズ、川崎ブレイブサンダース、名古屋ダイヤモンドドルフィンズ、琉球ゴールデンキングスの5クラブとのスポンサー契約も更新した。今季はB.LEAGUEが全国クラブの統合・再編とブランドロゴ刷新を進める「B.革新」の初年度にあたる。アルペンは5クラブと連携した店舗施策や合同イベントをシーズンを通じて展開する予定だ。"
+      },
+      "es": {
+        "title": "Alpen renueva su alianza con la B.LEAGUE y los patrocinios con cinco clubes para 2026-27",
+        "summary": "El minorista de artículos deportivos Alpen anunció el 18 de septiembre que continuará como socio de la B.LEAGUE durante la temporada 2026-27, que comenzó el 22 de septiembre, al tiempo que renovó los patrocinios de club con cinco equipos: Levanga Hokkaido, Tokyo Sunrockers, Kawasaki Brave Thunders, Nagoya Diamond Dolphins y Ryukyu Golden Kings. La renovación llega cuando la B.LEAGUE entra en el primer año de su reestructuración 'B.Innovation', que consolida clubes a nivel nacional y renueva la imagen de la liga. Alpen planea promociones en tiendas y eventos conjuntos con los cinco clubes durante toda la temporada."
+      },
+      "zh": {
+        "title": "Alpen续约B.LEAGUE合作伙伴身份及五支球队赞助协议，迎接2026-27赛季",
+        "summary": "体育用品零售商Alpen于9月18日宣布，将在9月22日开幕的2026-27赛季继续担任B.LEAGUE合作伙伴，并与五支球队续签俱乐部赞助协议，分别为北海道Levanga、东京旭日者、川崎勇士雷霆、名古屋钻石海豚和琉球黄金队。此次续约正值B.LEAGUE启动“B.革新”改革的首个赛季，该改革将整合全国俱乐部并更新联盟品牌形象。Alpen计划在整个赛季与五支球队联合开展门店促销和线下活动。"
+      },
+      "fr": {
+        "title": "Alpen renouvelle son partenariat avec la B.LEAGUE et ses sponsorings avec cinq clubs pour 2026-27",
+        "summary": "Le distributeur d'articles de sport Alpen a annoncé le 18 septembre qu'il resterait partenaire de la B.LEAGUE pour la saison 2026-27, qui a débuté le 22 septembre, tout en renouvelant ses contrats de sponsoring avec cinq clubs : Levanga Hokkaido, Tokyo Sunrockers, Kawasaki Brave Thunders, Nagoya Diamond Dolphins et Ryukyu Golden Kings. Ce renouvellement intervient alors que la B.LEAGUE entame la première année de sa restructuration « B.Innovation », qui consolide les clubs à l'échelle nationale et renouvelle l'image de marque de la ligue. Alpen prévoit des promotions en magasin et des événements conjoints avec les cinq clubs tout au long de la saison."
       }
     }
   },
@@ -946,6 +1013,40 @@
     }
   },
   {
+    "id": "honda-hrc-redbull-motogp-2027-return",
+    "sport": "motorsports",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-10-01T00:00:00Z",
+    "source_name": "Crash.net",
+    "source_url": "https://www.crash.net/motogp/news/1105929/1/honda-announces-red-bull-return-2027-motogp-season",
+    "i18n": {
+      "en": {
+        "title": "Honda's HRC Team Announces Red Bull Return for 2027 MotoGP Season",
+        "summary": "Honda's HRC Castrol team announced on October 1 that Red Bull will return as a major partner for the 2027 MotoGP season, ending a roughly three-year gap since Red Bull stepped away following Marc Marquez's departure. Castrol keeps its title sponsorship, with Red Bull branding set to appear on the next-generation bikes, garage and rider apparel. Fabio Quartararo, who has signed with Honda for 2027 and 2028, is reported to switch to Red Bull-backed branding as part of the new arrangement."
+      },
+      "ja": {
+        "title": "ホンダHRC、2027年MotoGPでレッドブルが復帰すると発表",
+        "summary": "ホンダのHRCカストロールチームは10月1日、2027年のMotoGPシーズンからレッドブルがメジャーパートナーとして復帰すると発表した。マルク・マルケスの離脱を機にレッドブルが撤退してから約3年ぶりの関係再構築となる。カストロールはタイトルスポンサーの座を維持し、レッドブルのロゴは次世代マシンやガレージ、ライダーのウェアに登場する予定だ。2027・28年にホンダと契約したファビオ・クアルタラロも、この新体制の下でレッドブル系ブランドに移行すると報じられている。"
+      },
+      "es": {
+        "title": "El equipo HRC de Honda anuncia el regreso de Red Bull para la temporada 2027 de MotoGP",
+        "summary": "El equipo HRC Castrol de Honda anunció el 1 de octubre que Red Bull regresará como socio principal para la temporada 2027 de MotoGP, poniendo fin a una ausencia de casi tres años tras la salida de Marc Márquez. Castrol conserva el patrocinio principal, mientras que la marca Red Bull aparecerá en las motos de nueva generación, el box y la ropa de los pilotos. Se informa que Fabio Quartararo, quien firmó con Honda para 2027 y 2028, cambiará a la imagen respaldada por Red Bull bajo el nuevo acuerdo."
+      },
+      "zh": {
+        "title": "本田HRC车队宣布红牛将回归2027赛季MotoGP",
+        "summary": "本田HRC Castrol车队10月1日宣布，红牛将在2027赛季MotoGP中重返车队，成为主要合作伙伴，结束了自马克·马尔克斯离队后红牛退出近三年的局面。Castrol仍保留冠名赞助地位，红牛标识将出现在新一代赛车、维修区和车手装备上。已与本田签约出战2027和2028赛季的法比奥·夸塔拉罗，据报道也将在新安排下转用红牛相关品牌形象。"
+      },
+      "fr": {
+        "title": "L'équipe HRC de Honda annonce le retour de Red Bull pour la saison MotoGP 2027",
+        "summary": "L'équipe HRC Castrol de Honda a annoncé le 1er octobre que Red Bull reviendrait comme partenaire majeur pour la saison MotoGP 2027, mettant fin à une absence de près de trois ans après le départ de Marc Márquez. Castrol conserve le sponsoring titre, tandis que la marque Red Bull apparaîtra sur les motos de nouvelle génération, dans le garage et sur la tenue des pilotes. Fabio Quartararo, qui a signé avec Honda pour 2027 et 2028, passerait selon plusieurs sources à l'image associée à Red Bull dans le cadre de ce nouvel accord."
+      }
+    }
+  },
+  {
     "id": "bleague-hisense-official-sponsor-2026",
     "sport": "basketball",
     "region": "japan",
@@ -1685,6 +1786,209 @@
       "fr": {
         "title": "Taisho Pharmaceutical prolonge son parrainage special des NPB Awards pour la 13e annee consecutive",
         "summary": "Taisho Pharmaceutical sera de nouveau le sponsor special de la ceremonie annuelle de remise des prix de la Nippon Professional Baseball (NPB), prevue le 25 novembre 2026 sous le titre officiel « NPB AWARDS 2026 supported by Lipovitan D ». Ce parrainage marque la 13e annee consecutive ou l'entreprise soutient cet evenement, qui recompense les meilleurs joueurs de la saison dans les equipes de la NPB."
+      }
+    }
+  },
+  {
+    "id": "open-house-arena-ota-opening-gunma",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "tech",
+      "fan"
+    ],
+    "published_at": "2026-10-15T12:00:00Z",
+    "source_name": "SPREAD",
+    "source_url": "https://spread-sports.jp/archives/195474",
+    "i18n": {
+      "en": {
+        "title": "Gunma Crane Thunders Open New B.League Arena Featuring Japan's Largest Movable Scoreboard",
+        "summary": "The Gunma Crane Thunders opened their new home venue, named OPEN HOUSE ARENA OTA after naming-rights sponsor Open House Group, with an opening game against the Utsunomiya Brex that drew 5,262 fans. The arena's centerpiece is a 14-panel movable center-hung scoreboard spanning roughly 6,100 inches combined, which the club says is the largest such display in a Japanese arena and the first domestically where each panel can move independently."
+      },
+      "ja": {
+        "title": "群馬クレインサンダーズ、国内最大級の可動式センタービジョン備えた新アリーナ開場",
+        "summary": "群馬クレインサンダーズは、命名権を取得したオープンハウスグループにちなみ「OPEN HOUSE ARENA OTA」と名付けた新本拠地で開幕戦を開催し、宇都宮ブレックスとの対戦に5262人のファンが来場した。目玉は14画面構成・総面積約6100インチの可動式センタービジョンで、国内アリーナ最大級とされ、各パネルが独立して稼働できる点は国内初という。"
+      },
+      "es": {
+        "title": "Gunma Crane Thunders inaugura nueva arena de la B.League con el videomarcador móvil más grande de Japón",
+        "summary": "Los Gunma Crane Thunders inauguraron su nuevo pabellón, llamado OPEN HOUSE ARENA OTA por el patrocinador de los derechos de nombre, Open House Group, con un partido de apertura ante Utsunomiya Brex que reunió a 5.262 aficionados. El elemento central es un videomarcador central móvil de 14 paneles con unas 6.100 pulgadas combinadas, que el club describe como el más grande de cualquier pabellón japonés y el primero del país con paneles que se mueven de forma independiente."
+      },
+      "zh": {
+        "title": "群马新干线雷霆启用新主场,配备日本最大可动式中央记分屏",
+        "summary": "群马新干线雷霆启用以冠名权赞助商Open House集团命名的新主场“OPEN HOUSE ARENA OTA”,开馆战迎战宇都宮雷克斯,吸引5262名球迷到场。球馆亮点是由14块屏幕组成、总面积约6100英寸的可动式中央记分屏,俱乐部称这是日本球馆中规模最大、且首个各屏幕可独立移动的设备。"
+      },
+      "fr": {
+        "title": "Les Gunma Crane Thunders inaugurent une nouvelle arène dotée du plus grand tableau d'affichage mobile du Japon",
+        "summary": "Les Gunma Crane Thunders ont inauguré leur nouvelle salle, baptisée OPEN HOUSE ARENA OTA d'après le sponsor des droits de dénomination Open House Group, avec un match d'ouverture face aux Utsunomiya Brex qui a réuni 5 262 spectateurs. Son élément central est un tableau d'affichage suspendu mobile de 14 panneaux totalisant environ 6 100 pouces, que le club présente comme le plus grand de toutes les arènes japonaises et le premier du pays où chaque panneau peut se déplacer indépendamment."
+      }
+    }
+  },
+  {
+    "id": "consadole-sapporo-noguchi-kanko-partner-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "team"
+    ],
+    "published_at": "2026-10-16T17:54:30Z",
+    "source_name": "PR TIMES",
+    "source_url": "https://koubo.jp/press-release/prtimes/c19483_r1839",
+    "i18n": {
+      "en": {
+        "title": "Hot Spring Resort Operator Noguchi Kanko Signs Club Partner Deal With Consadole Sapporo",
+        "summary": "Hokkaido-based hot spring resort operator Noguchi Kanko Group has signed a club partner agreement with J2/J3 side Hokkaido Consadole Sapporo covering the 2026/2027 season. The company said it was drawn to the club's philosophy and willingness to keep challenging itself, and the announcement notes Consadole will mark its 30th anniversary in April 2026. The deal adds a regional hospitality brand to the club's roster of commercial partners ahead of a milestone season."
+      },
+      "ja": {
+        "title": "野口観光グループ、コンサドーレ札幌とクラブパートナー契約を締結",
+        "summary": "北海道の温泉旅館グループ、野口観光グループが、明治安田J2・J3所属の北海道コンサドーレ札幌と2026/2027シーズンのクラブパートナー契約を締結した。同社はクラブの理念や挑戦し続ける姿勢に共感したとしており、発表ではコンサドーレが2026年4月に創設30周年を迎えることにも触れている。節目のシーズンを前に、地域の観光ブランドがクラブの協賛企業に加わる形となった。"
+      },
+      "es": {
+        "title": "El operador de balnearios termales Noguchi Kanko firma un acuerdo de socio de club con el Consadole Sapporo",
+        "summary": "El grupo hotelero de aguas termales con sede en Hokkaido, Noguchi Kanko Group, ha firmado un acuerdo de socio de club con el Hokkaido Consadole Sapporo, de las categorías J2/J3, para la temporada 2026/2027. La empresa señaló que se sintió atraída por la filosofía del club y su disposición a seguir superándose, y el anuncio menciona que Consadole celebrará su 30º aniversario en abril de 2026. El acuerdo suma una marca hotelera regional a la cartera de patrocinadores del club de cara a una temporada especial."
+      },
+      "zh": {
+        "title": "温泉度假村运营商野口观光与札幌冈萨多签署俱乐部合作伙伴协议",
+        "summary": "总部位于北海道的温泉度假村运营商野口观光集团与隶属J2/J3级别的北海道札幌冈萨多签署了涵盖2026/2027赛季的俱乐部合作伙伴协议。该公司表示认同俱乐部的理念及不断挑战自我的态度,官宣中还提到札幌冈萨多将于2026年4月迎来成立30周年。在具有纪念意义的赛季来临之际,这家地区性旅游品牌加入了俱乐部的赞助商阵容。"
+      },
+      "fr": {
+        "title": "L'exploitant de sources chaudes Noguchi Kanko signe un partenariat de club avec le Consadole Sapporo",
+        "summary": "Le groupe hôtelier d'eaux thermales basé à Hokkaido, Noguchi Kanko Group, a signé un accord de partenariat de club avec le Hokkaido Consadole Sapporo, évoluant en J2/J3, couvrant la saison 2026/2027. L'entreprise a indiqué avoir été séduite par la philosophie du club et sa volonté de se dépasser, l'annonce précisant que Consadole fêtera son 30e anniversaire en avril 2026. Cet accord ajoute une marque d'hospitalité régionale au portefeuille de partenaires commerciaux du club à l'aube d'une saison symbolique."
+      }
+    }
+  },
+  {
+    "id": "manchester-city-115-charges-guilty-verdict-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-25T00:00:00Z",
+    "source_name": "Insider Sport",
+    "source_url": "https://insidersport.com/2026/09/25/manchester-city-guilty-115-charges/",
+    "i18n": {
+      "en": {
+        "title": "Manchester City Reportedly Found Guilty on 114 of 115 Premier League Financial Charges",
+        "summary": "An independent commission has reportedly ruled against Manchester City on nearly all of the 115 financial-rules charges brought over alleged breaches between 2009 and 2018, according to multiple outlets; the Premier League itself has declined to confirm the outcome, citing confidentiality. City deny wrongdoing and are expected to appeal, with sanctions ranging from fines to a points deduction still to be decided."
+      },
+      "ja": {
+        "title": "マンチェスター・シティ、プレミアリーグの財務規則115件中114件で違反認定と報道",
+        "summary": "複数メディアの報道によると、独立委員会はマンチェスター・シティに対し、2009年から2018年にかけての違反疑惑に関する115件の財務規則違反容疑のうち114件で違反を認定したとされる。プレミアリーグ自体は守秘義務を理由に結果の確認を拒否している。シティ側は不正を否定しており、制裁は罰金から勝ち点剥奪まで幅があるとされ、控訴する見通しだ。"
+      },
+      "es": {
+        "title": "El Manchester City habría sido declarado culpable en 114 de los 115 cargos financieros de la Premier League",
+        "summary": "Según varios medios, una comisión independiente habría fallado en contra del Manchester City en casi todos los 115 cargos por infracciones de las normas financieras entre 2009 y 2018, aunque la propia Premier League se ha negado a confirmar el resultado alegando confidencialidad. El club niega haber cometido irregularidades y se espera que apele, con sanciones que podrían ir desde multas hasta una deducción de puntos."
+      },
+      "zh": {
+        "title": "据报道曼城在英超115项财务指控中114项被判违规",
+        "summary": "据多家媒体报道，一个独立委员会就曼城在2009年至2018年间涉嫌违反财务规则的115项指控作出裁决，其中114项被认定违规；英超联盟方面以保密为由拒绝确认结果。曼城否认存在不当行为，预计将提出上诉，可能面临的处罚从罚款到扣分不等，目前尚未最终确定。"
+      },
+      "fr": {
+        "title": "Manchester City aurait été reconnu coupable sur 114 des 115 chefs d'accusation financiers de la Premier League",
+        "summary": "Selon plusieurs médias, une commission indépendante aurait statué contre Manchester City sur la quasi-totalité des 115 chefs d'accusation liés à des infractions aux règles financières entre 2009 et 2018, bien que la Premier League elle-même refuse de confirmer ce résultat, invoquant la confidentialité. Le club nie toute faute et devrait faire appel, les sanctions envisagées allant de l'amende au retrait de points."
+      }
+    }
+  },
+  {
+    "id": "sporting-cp-benfica-financial-results-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-09-26T09:00:00Z",
+    "source_name": "SportBusiness",
+    "source_url": "https://www.sportbusiness.com/news/sporting-cp-benfica-detail-contrasting-financial-results/",
+    "i18n": {
+      "en": {
+        "title": "Sporting CP Posts Record Profit as Portuguese Giants Report Contrasting Financial Results",
+        "summary": "Sporting CP's 2025/26 accounts show a net profit of €34.7 million, up 74% year-on-year and the club's second-best result since 1997, on record turnover of roughly €300 million lifted by a Champions League quarter-final run. Rival Benfica's results told a different story for the same period, underscoring how unevenly Portugal's top two clubs have converted European football success into bottom-line gains."
+      },
+      "ja": {
+        "title": "スポルティングCP、過去最高益を計上 ポルトガル2強の決算に明暗",
+        "summary": "スポルティングCPの2025/26年度決算は純利益3470万ユーロと前年比74%増となり、1997年の法人化以来2番目に良い結果を記録した。チャンピオンズリーグ準々決勝進出も後押しし、売上高は約3億ユーロと過去最高を更新した。一方で同時期のライバル、ベンフィカの決算は対照的な結果となり、ポルトガル2強の収益化の差が浮き彫りになった。"
+      },
+      "es": {
+        "title": "El Sporting CP logra un beneficio récord mientras los dos grandes portugueses reportan resultados opuestos",
+        "summary": "Las cuentas del Sporting CP de 2025/26 muestran un beneficio neto de 34,7 millones de euros, un 74% más que el año anterior y el segundo mejor resultado del club desde 1997, con una facturación récord de unos 300 millones de euros impulsada por su llegada a cuartos de final de la Champions League. El Benfica, su rival, presentó resultados muy distintos en el mismo periodo, lo que refleja lo desigual que ha sido para los dos grandes clubes portugueses convertir el éxito europeo en beneficios."
+      },
+      "zh": {
+        "title": "葡萄牙体育创纪录盈利，两大豪门财报呈现鲜明对比",
+        "summary": "葡萄牙体育俱乐部2025/26财年账目显示净利润达3470万欧元，同比增长74%，是该俱乐部自1997年以来第二好的业绩，欧冠八强之旅推动营业额创纪录达约3亿欧元。同一时期，竞争对手本菲卡的财报却呈现截然不同的局面，凸显葡萄牙两大豪门将欧洲赛场成功转化为盈利能力的差距。"
+      },
+      "fr": {
+        "title": "Le Sporting CP affiche un bénéfice record, contraste marqué avec les résultats du Benfica",
+        "summary": "Les comptes 2025/26 du Sporting CP affichent un bénéfice net de 34,7 millions d'euros, en hausse de 74% sur un an, son deuxième meilleur résultat depuis 1997, avec un chiffre d'affaires record d'environ 300 millions d'euros porté par un parcours en quarts de finale de Ligue des champions. Le rival Benfica a connu des résultats très différents sur la même période, illustrant l'écart entre les deux grands clubs portugais dans leur capacité à transformer le succès européen en gains financiers."
+      }
+    }
+  },
+  {
+    "id": "sixers-bloom-energy-jersey-patch-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-28T00:00:00Z",
+    "source_name": "NBC Sports Philadelphia",
+    "source_url": "https://www.nbcsportsphiladelphia.com/news/sixers-unveil-bloom-energy-as-official-jersey-patch-partner/754280/",
+    "i18n": {
+      "en": {
+        "title": "76ers Name Bloom Energy as New Jersey Patch Sponsor, Replacing Crypto.com",
+        "summary": "The Philadelphia 76ers have named clean-energy company Bloom Energy as their new NBA jersey patch sponsor, replacing Crypto.com starting in the 2026-27 season. The multi-year agreement is reported to be worth eight figures annually and includes a seven-figure community investment in the Philadelphia area. Bloom will also serve as the marquee jersey partner for the team's G League affiliate, the Delaware Blue Coats."
+      },
+      "ja": {
+        "title": "76ers、ユニフォームパッチスポンサーをクリプト・ドットコムからブルーム・エナジーへ変更",
+        "summary": "フィラデルフィア・76ersは、2026-27シーズンからユニフォームのパッチスポンサーをクリプト・ドットコムから再生可能エネルギー企業ブルーム・エナジーに切り替えると発表した。契約は複数年にわたり年間で8桁(数千万ドル規模)とされ、フィラデルフィア地域への7桁規模の地域投資も含まれている。ブルームはGリーグ傘下のデラウェア・ブルー・コーツのメインスポンサーも務める。"
+      },
+      "es": {
+        "title": "Los 76ers nombran a Bloom Energy como nuevo patrocinador de parche, sustituyendo a Crypto.com",
+        "summary": "Los Philadelphia 76ers anunciaron a la empresa de energía limpia Bloom Energy como su nuevo auspiciante de parche en la camiseta, sustituyendo a Crypto.com a partir de la temporada 2026-27 de la NBA. El acuerdo plurianual se estima en ocho cifras anuales e incluye una inversión comunitaria de siete cifras en la región de Filadelfia. Bloom también será el patrocinador principal del equipo afiliado en la G League, los Delaware Blue Coats."
+      },
+      "zh": {
+        "title": "76人队宣布Bloom Energy成为新球衣贴标赞助商,取代Crypto.com",
+        "summary": "费城76人队宣布,清洁能源公司Bloom Energy将成为球队新的球衣广告贴标赞助商,从2026-27赛季起取代Crypto.com。这份多年协议据报年值达八位数,并包含向费城地区投入的七位数社区资金。Bloom还将成为球队G联赛附属球队特拉华蓝衫队的主要赞助商。"
+      },
+      "fr": {
+        "title": "Les 76ers nomment Bloom Energy nouveau sponsor du patch, remplaçant Crypto.com",
+        "summary": "Les Philadelphia 76ers ont annoncé que l'entreprise d'énergie propre Bloom Energy devient le nouveau sponsor du patch sur leur maillot, remplaçant Crypto.com à partir de la saison 2026-27 de la NBA. L'accord pluriannuel serait évalué à huit chiffres par an et comprend un investissement communautaire à sept chiffres dans la région de Philadelphie. Bloom sera également le sponsor principal du maillot de l'équipe affiliée en G League, les Delaware Blue Coats."
+      }
+    }
+  },
+  {
+    "id": "nfl-gallo-wine-sponsor-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-09-30T14:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/article/nfl-toasts-2b-in-sponsorships-with-e-j-gallo-deal/",
+    "i18n": {
+      "en": {
+        "title": "NFL Taps E. & J. Gallo as Official Wine Sponsor, Nearing $2B in Deals",
+        "summary": "The NFL named E. & J. Gallo Winery its first official wine sponsor, granting the company exclusive pouring rights at marquee events including the Super Bowl and Pro Bowl Games. The agreement pushes the league's total sponsorship revenue close to $2 billion for the first time, continuing a recent run of category-specific deals across financial services and consumer brands."
+      },
+      "ja": {
+        "title": "NFL、E&Jギャロをオフィシャルワインスポンサーに起用 協賛総額は2000億円規模に",
+        "summary": "NFLはE&Jギャロ・ワイナリーを初のオフィシャルワインスポンサーとして起用し、スーパーボウルやプロボウルなど主要イベントでの独占提供権を付与した。この契約により、リーグ全体のスポンサー収入総額は初めて約20億ドル規模に迫るとされ、金融サービスや消費財分野でのカテゴリー別契約の流れが続いている。"
+      },
+      "es": {
+        "title": "La NFL ficha a E. & J. Gallo como patrocinador oficial de vino, cerca de los 2.000 millones en acuerdos",
+        "summary": "La NFL nombró a E. & J. Gallo Winery su primer patrocinador oficial de vino, otorgándole derechos exclusivos de servicio en eventos destacados como el Super Bowl y el Pro Bowl. El acuerdo acerca los ingresos totales por patrocinio de la liga a los 2.000 millones de dólares por primera vez, continuando una reciente ola de acuerdos por categoría en servicios financieros y marcas de consumo."
+      },
+      "zh": {
+        "title": "NFL签下E&J嘉露酒庄为官方葡萄酒赞助商 总赞助额逼近20亿美元",
+        "summary": "NFL宣布E&J嘉露酒庄成为联盟首位官方葡萄酒赞助商，获得包括超级碗及职业碗等重要赛事的独家斟酒权。该协议使联盟赞助收入总额首次逼近20亿美元，延续了近期在金融服务及消费品类别上密集签约的趋势。"
+      },
+      "fr": {
+        "title": "La NFL s'associe à E. & J. Gallo comme sponsor officiel du vin, près de 2 Md$ de contrats",
+        "summary": "La NFL a désigné E. & J. Gallo Winery comme son premier sponsor officiel du vin, lui accordant des droits exclusifs de service lors d'événements phares comme le Super Bowl et le Pro Bowl. L'accord rapproche les revenus totaux de sponsoring de la ligue de 2 milliards de dollars pour la première fois, dans la continuité d'une série récente d'accords par catégorie dans les services financiers et les marques de consommation."
       }
     }
   },
@@ -5139,6 +5443,40 @@
     }
   },
   {
+    "id": "leicester-city-264m-sale-price-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-10-09T00:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/article/is-leicester-citys-264-million-price-tag-too-rich-for-hungry-investors/",
+    "i18n": {
+      "en": {
+        "title": "Leicester City Owners Struggle to Find Buyers at $264 Million Asking Price",
+        "summary": "Leicester City's owners are reportedly struggling to find buyers willing to meet their roughly £200 million ($264 million) asking price for the Championship club, according to Front Office Sports. The sale package includes King Power Stadium, the training ground, the academy and Belgian side OH Leuven, with Citigroup handling the process. One analyst said he would be surprised if the owners received anywhere close to their target figure, especially after the club's relegation."
+      },
+      "ja": {
+        "title": "レスター・シティ、2億6400万ドルの希望売却額に見合う買い手探しに苦戦",
+        "summary": "Front Office Sportsによると、レスター・シティの経営陣は、イングランド2部(チャンピオンシップ)の同クラブに設定した約2億ポンド(約2億6400万ドル)の希望売却額に見合う買い手を見つけられず苦戦しているという。売却対象にはキング・パワー・スタジアムや練習場、アカデミー、ベルギーのOHルーベンも含まれ、手続きはシティグループが担当している。ある分析者は、クラブの降格もあり希望額に近い金額での売却には驚くだろうと述べている。"
+      },
+      "es": {
+        "title": "Los propietarios del Leicester City no logran hallar compradores al precio de 264 millones de dólares",
+        "summary": "Según Front Office Sports, los propietarios del Leicester City tienen dificultades para encontrar compradores dispuestos a pagar el precio solicitado de unos 200 millones de libras (264 millones de dólares) por el club de la Championship. El paquete de venta incluye el King Power Stadium, el centro de entrenamiento, la academia y el club belga OH Leuven, con Citigroup a cargo del proceso. Un analista dijo que le sorprendería que los propietarios se acercaran a esa cifra, sobre todo tras el descenso del equipo."
+      },
+      "zh": {
+        "title": "莱斯特城老板难觅买家接受2.64亿美元要价",
+        "summary": "据Front Office Sports报道,莱斯特城俱乐部的老板们难以找到愿意支付约2亿英镑(2.64亿美元)要价的买家,该队目前征战英冠联赛。出售方案包括王权球场、训练基地、青训学院以及比利时球队OH鲁汶,交易由花旗集团负责操作。一位分析人士表示,考虑到球队降级的影响,若最终售价接近要价他会感到惊讶。"
+      },
+      "fr": {
+        "title": "Les propriétaires de Leicester City peinent à trouver acheteur à 264 millions de dollars",
+        "summary": "Selon Front Office Sports, les propriétaires de Leicester City ont du mal à trouver des acheteurs prêts à payer le prix demandé d'environ 200 millions de livres (264 millions de dollars) pour le club de Championship. Le lot de vente comprend le King Power Stadium, le centre d'entraînement, le centre de formation et le club belge OH Louvain, le processus étant géré par Citigroup. Un analyste a estimé qu'il serait surpris que les propriétaires obtiennent une somme proche de ce montant, surtout après la relégation du club."
+      }
+    }
+  },
+  {
     "id": "sportico-2026-nba-valuations-warriors-knicks-lakers",
     "sport": "basketball",
     "region": "global",
@@ -5269,6 +5607,40 @@
       "fr": {
         "title": "Le commissaire de la NBA Adam Silver evoque un « ballon intelligent » dote de capteurs des l'an prochain",
         "summary": "Le commissaire de la NBA, Adam Silver, a declare que la ligue developpe, en collaboration avec le fabricant Wilson, un ballon de basket equipe d'un capteur Bluetooth capable de suivre des donnees comme la rotation et les mouvements en match. Selon lui, cette technologie pourrait etre introduite des 2027, bien que les discussions avec le syndicat des joueurs sur les dispositifs portables associes n'aient pas encore abouti a un accord."
+      }
+    }
+  },
+  {
+    "id": "sixers-cryptocom-patch-expiring-lebron-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-10-11T00:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/article/lebron-james-sixers-expiring-jersey-patch/",
+    "i18n": {
+      "en": {
+        "title": "Sixers' Crypto.com Jersey Patch Deal Set to Expire Amid LeBron-Fueled Bidding Interest",
+        "summary": "Front Office Sports reports that the Philadelphia 76ers' jersey patch deal with Crypto.com, worth more than $10 million annually since 2021, will expire at the end of the 2026-27 season. Industry consultants say LeBron James's arrival in Philadelphia could spark a bidding war for the patch, potentially pushing its value toward the roughly $50 million a year the Golden State Warriors reportedly earn from their AI-company sponsor. It remains unclear whether the Sixers will renegotiate with Crypto.com or test the open market."
+      },
+      "ja": {
+        "title": "76ers、クリプト・ドットコムとのパッチ契約が期限切れへ レブロン効果で争奪戦の可能性",
+        "summary": "Front Office Sportsによると、フィラデルフィア・76ersが2021年から結んでいるクリプト・ドットコムとのユニフォームパッチ契約（年間1000万ドル超）が2026-27シーズン終了時に期限を迎える。業界関係者は、レブロン・ジェームズのフィラデルフィア加入がパッチの争奪戦を引き起こし、ゴールデンステート・ウォリアーズがAI企業から得ているとされる年間約5000万ドル規模に迫る可能性があると指摘する。76ersがクリプト・ドットコムと再契約するか、市場で新たなスポンサーを探すかは不明だ。"
+      },
+      "es": {
+        "title": "El acuerdo de parche de los Sixers con Crypto.com vence mientras crece el interés tras la llegada de LeBron",
+        "summary": "Según Front Office Sports, el acuerdo de parche de camiseta de los Philadelphia 76ers con Crypto.com, valorado en más de 10 millones de dólares anuales desde 2021, vencerá al final de la temporada 2026-27. Consultores del sector afirman que la llegada de LeBron James a Filadelfia podría desatar una puja por el parche, acercando su valor a los aproximadamente 50 millones de dólares anuales que, según se informa, reciben los Golden State Warriors de su patrocinador de inteligencia artificial. Aún no está claro si los Sixers renegociarán con Crypto.com o buscarán ofertas en el mercado abierto."
+      },
+      "zh": {
+        "title": "76人队与Crypto.com的球衣广告合约将到期 詹姆斯效应或引发争夺战",
+        "summary": "据Front Office Sports报道，费城76人队自2021年起与Crypto.com签订的球衣广告合约（每年价值逾1000万美元）将于2026-27赛季结束后到期。业内顾问表示，勒布朗·詹姆斯加盟费城可能引发新一轮争夺战，使该广告位价值逼近金州勇士队据称从其人工智能赞助商处获得的每年约5000万美元水平。目前尚不清楚76人队会与Crypto.com续约，还是转向公开市场寻求新赞助商。"
+      },
+      "fr": {
+        "title": "L'accord de patch des Sixers avec Crypto.com arrive à échéance, l'effet LeBron attise les convoitises",
+        "summary": "Selon Front Office Sports, l'accord de patch de maillot des Philadelphia 76ers avec Crypto.com, évalué à plus de 10 millions de dollars par an depuis 2021, arrivera à échéance à la fin de la saison 2026-27. Des consultants du secteur estiment que l'arrivée de LeBron James à Philadelphie pourrait déclencher une surenchère pour ce patch, rapprochant sa valeur des quelque 50 millions de dollars annuels que les Golden State Warriors toucheraient de leur sponsor spécialisé en intelligence artificielle. Il reste incertain si les Sixers renégocieront avec Crypto.com ou solliciteront le marché ouvert."
       }
     }
   },
@@ -5577,6 +5949,39 @@
     }
   },
   {
+    "id": "espn-cfp-media-rights-extension-2031",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "biz"
+    ],
+    "published_at": "2026-10-12T00:00:00Z",
+    "source_name": "SportCal",
+    "source_url": "https://www.sportcal.com/media/espn-confirms-lucrative-six-year-cfp-rights-extension/",
+    "i18n": {
+      "en": {
+        "title": "ESPN Locks Up College Football Playoff Rights Through 2031-32 Season",
+        "summary": "ESPN has extended its exclusive broadcast agreement with the College Football Playoff for six more years, continuing through the 2031-32 season. The new pact shifts the national championship game to ABC, and while the CFP has not confirmed terms, reports peg ESPN's annual outlay in the billions."
+      },
+      "ja": {
+        "title": "ESPN、カレッジフットボール・プレーオフの放映権を2031-32シーズンまで延長",
+        "summary": "ESPNはカレッジフットボール・プレーオフとの独占放映契約を6年間延長し、2031-32シーズンまで継続することになった。新契約では全米選手権の決勝戦をABCで放送する方式に切り替わり、CFP側は金額を公表していないものの、ESPNの年間支払額は数十億ドル規模になると報じられている。"
+      },
+      "es": {
+        "title": "ESPN asegura los derechos del College Football Playoff hasta la temporada 2031-32",
+        "summary": "ESPN ha extendido su acuerdo exclusivo de transmisión con el College Football Playoff por seis años más, hasta la temporada 2031-32. El nuevo pacto traslada el partido del campeonato nacional a ABC y, aunque el CFP no ha confirmado las cifras, los informes sitúan el desembolso anual de ESPN en miles de millones de dólares."
+      },
+      "zh": {
+        "title": "ESPN将大学橄榄球季后赛转播权延长至2031-32赛季",
+        "summary": "ESPN与大学橄榄球季后赛（CFP）续签了为期六年的独家转播协议，合约将持续到2031-32赛季。新协议将全国冠军赛转移到ABC频道播出，尽管CFP方面尚未公布具体金额，但据报道ESPN每年的支出将达数十亿美元规模。"
+      },
+      "fr": {
+        "title": "ESPN prolonge les droits du College Football Playoff jusqu'à la saison 2031-32",
+        "summary": "ESPN a prolongé de six ans son accord de diffusion exclusive avec le College Football Playoff, jusqu'à la saison 2031-32. Le nouveau contrat déplace la finale du championnat national vers ABC, et bien que le CFP n'ait pas confirmé les montants, les estimations évoquent une dépense annuelle d'ESPN se chiffrant en milliards de dollars."
+      }
+    }
+  },
+  {
     "id": "team-vitality-fulllife-kit-deal-2026",
     "sport": "esports",
     "region": "global",
@@ -5675,6 +6080,74 @@
       "fr": {
         "title": "Aston Martin F1 signe avec Cohere comme partenaire officiel en IA générative",
         "summary": "L'écurie de Formule 1 Aston Martin a signé avec l'entreprise d'IA générative Cohere comme partenaire officiel en intelligence artificielle avant la saison 2026, ajoutant son image de marque sur les monoplaces et la livrée de l'équipe. Cet accord s'inscrit dans une vague plus large de partenariats technologiques dans les paddocks de F1, les écuries recherchant des partenaires capables aussi de mettre en valeur des outils d'IA dans l'ingénierie de course et le contenu destiné aux fans. Les modalités de l'accord n'ont pas été divulguées."
+      }
+    }
+  },
+  {
+    "id": "nfl-jersey-patch-ad-revenue-report-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-10-12T10:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/article/the-nfls-next-ad-revenue-goldmine-could-be-jersey-patches/",
+    "i18n": {
+      "en": {
+        "title": "NFL's Next Ad Revenue Opportunity Could Be Jersey Patches, Report Says",
+        "summary": "The NFL remains the only major U.S. sports league that has not sold advertising space on game-day uniforms, even as rookie patches tied to trading-card partners hint at a possible path forward. Industry estimates cited by Front Office Sports put potential combined annual revenue from league-wide jersey patches at roughly $673 million if the NFL eventually follows other leagues into on-field uniform advertising."
+      },
+      "ja": {
+        "title": "NFL、ジャージパッチ広告が次の収益源になる可能性 報道",
+        "summary": "NFLは、公式戦のユニフォームに広告スペースを販売していない数少ない主要米プロスポーツリーグとして残っているが、トレーディングカード企業と連動したルーキー向けパッチの導入は将来的な展開を示唆しているとされる。Front Office Sportsが引用した業界推計によれば、NFLが他リーグに続いてユニフォーム広告を導入した場合、リーグ全体でのジャージパッチ収入は年間約6億7300万ドルに達する可能性があるという。"
+      },
+      "es": {
+        "title": "La próxima fuente de ingresos publicitarios de la NFL podrían ser los parches en las camisetas, según un informe",
+        "summary": "La NFL sigue siendo la única gran liga deportiva estadounidense que no vende espacio publicitario en las camisetas de los partidos, aunque los parches para novatos vinculados a socios de cromos sugieren un posible camino a seguir. Estimaciones del sector citadas por Front Office Sports sitúan los ingresos anuales combinados potenciales de parches en camisetas de toda la liga en unos 673 millones de dólares si la NFL finalmente sigue a otras ligas hacia la publicidad en el uniforme."
+      },
+      "zh": {
+        "title": "报告称球衣广告贴片可能成为NFL下一个广告收入来源",
+        "summary": "据报道，NFL仍是美国主要职业体育联盟中唯一未在比赛日球衣上出售广告位的联盟，不过与交易卡合作伙伴绑定的新秀球衣贴片暗示了未来可能的发展方向。《Front Office Sports》援引业内估算称，若NFL最终效仿其他联盟推出球衣广告，全联盟球衣贴片的潜在年收入合计可达约6.73亿美元。"
+      },
+      "fr": {
+        "title": "Les patchs sur les maillots pourraient devenir la prochaine source de revenus publicitaires de la NFL, selon un rapport",
+        "summary": "La NFL reste la seule grande ligue sportive américaine à ne pas vendre d'espace publicitaire sur les maillots portés en match, même si les patchs réservés aux rookies, liés à des partenaires de cartes à collectionner, laissent entrevoir une évolution possible. Selon des estimations du secteur citées par Front Office Sports, des patchs sur les maillots à l'échelle de la ligue pourraient générer environ 673 millions de dollars de revenus annuels combinés si la NFL suivait d'autres ligues vers la publicité sur l'uniforme."
+      }
+    }
+  },
+  {
+    "id": "xfinity-mobile-arena-naming-comcast-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-10-12T12:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/article/after-getting-sixers-to-stay-comcast-putting-its-own-name-on-arena/",
+    "i18n": {
+      "en": {
+        "title": "Philadelphia's 76ers and Flyers Arena Officially Becomes Xfinity Mobile Arena",
+        "summary": "The Philadelphia arena shared by the NBA's 76ers and NHL's Flyers has officially taken on the name Xfinity Mobile Arena, replacing the former Wells Fargo Center branding under a deal between Comcast Spectacor and Harris Blitzer Sports & Entertainment. The agreement, which runs through the 2030-31 season, also brings Xfinity Mobile-branded wifi connectivity and digital signage to the venue while Comcast Spectacor plans a new arena at the same site by 2031."
+      },
+      "ja": {
+        "title": "フィラデルフィアの76ers・フライヤーズの本拠地が「エクスフィニティ・モバイル・アリーナ」に改称",
+        "summary": "NBA76ersとNHLフライヤーズが共用するフィラデルフィアのアリーナが、コムキャスト・スペクタコアとハリス・ブリッツァー・スポーツ&エンターテインメントの契約により、従来のウェルズ・ファーゴ・センターから「エクスフィニティ・モバイル・アリーナ」へと正式に改称された。契約は2030-31シーズンまで続き、会場にはエクスフィニティ・モバイルブランドのWi-Fiやデジタル看板も導入される一方、同じ敷地には2031年までに新アリーナを建設する計画もあるという。"
+      },
+      "es": {
+        "title": "La arena de los 76ers y los Flyers en Filadelfia pasa a llamarse oficialmente Xfinity Mobile Arena",
+        "summary": "El pabellón de Filadelfia que comparten los 76ers de la NBA y los Flyers de la NHL adoptó oficialmente el nombre Xfinity Mobile Arena, sustituyendo a la antigua marca Wells Fargo Center, bajo un acuerdo entre Comcast Spectacor y Harris Blitzer Sports & Entertainment. El contrato, vigente hasta la temporada 2030-31, también incorporará wifi y señalización digital de la marca Xfinity Mobile, mientras Comcast Spectacor planea construir una nueva arena en el mismo emplazamiento para 2031."
+      },
+      "zh": {
+        "title": "费城76人与飞人队主场正式更名为Xfinity Mobile Arena",
+        "summary": "NBA费城76人与NHL费城飞人共用的费城球馆,在康卡斯特Spectacor与Harris Blitzer体育娱乐公司的协议下,正式由原“富国银行中心”更名为“Xfinity Mobile Arena”。该协议有效期至2030-31赛季,场馆还将引入Xfinity Mobile品牌的无线网络和数字标牌,康卡斯特Spectacor并计划在2031年前于同一地点建造新球馆。"
+      },
+      "fr": {
+        "title": "L'arène des 76ers et des Flyers à Philadelphie devient officiellement le Xfinity Mobile Arena",
+        "summary": "La salle de Philadelphie partagée par les 76ers de la NBA et les Flyers de la NHL a officiellement pris le nom de Xfinity Mobile Arena, remplaçant l'ancienne appellation Wells Fargo Center, dans le cadre d'un accord entre Comcast Spectacor et Harris Blitzer Sports & Entertainment. L'accord, valable jusqu'à la saison 2030-31, apporte aussi le wifi et la signalétique numérique de marque Xfinity Mobile, tandis que Comcast Spectacor prévoit de construire une nouvelle arène sur le même site d'ici 2031."
       }
     }
   },
@@ -6113,1285 +6586,6 @@
       "fr": {
         "title": "Le fonds de capital-risque TitletownTech, lié aux Packers, lève 70 millions de dollars",
         "summary": "TitletownTech, le fonds de capital-risque sportif affilié aux Packers de Green Bay, a sécurisé 70 millions de dollars de nouveaux investissements. Le fonds soutient des entreprises en phase de démarrage dans la technologie sportive, l'expérience des supporters et les médias, prolongeant le modèle d'investissement lié aux franchises NFL. Ce nouveau capital devrait financer des paris supplémentaires dans un marché de plus en plus concurrentiel."
-      }
-    }
-  },
-  {
-    "id": "open-house-arena-ota-opening-gunma",
-    "sport": "basketball",
-    "region": "japan",
-    "topics": [
-      "stadium",
-      "tech",
-      "fan"
-    ],
-    "published_at": "2026-10-15T12:00:00Z",
-    "source_name": "SPREAD",
-    "source_url": "https://spread-sports.jp/archives/195474",
-    "i18n": {
-      "en": {
-        "title": "Gunma Crane Thunders Open New B.League Arena Featuring Japan's Largest Movable Scoreboard",
-        "summary": "The Gunma Crane Thunders opened their new home venue, named OPEN HOUSE ARENA OTA after naming-rights sponsor Open House Group, with an opening game against the Utsunomiya Brex that drew 5,262 fans. The arena's centerpiece is a 14-panel movable center-hung scoreboard spanning roughly 6,100 inches combined, which the club says is the largest such display in a Japanese arena and the first domestically where each panel can move independently."
-      },
-      "ja": {
-        "title": "群馬クレインサンダーズ、国内最大級の可動式センタービジョン備えた新アリーナ開場",
-        "summary": "群馬クレインサンダーズは、命名権を取得したオープンハウスグループにちなみ「OPEN HOUSE ARENA OTA」と名付けた新本拠地で開幕戦を開催し、宇都宮ブレックスとの対戦に5262人のファンが来場した。目玉は14画面構成・総面積約6100インチの可動式センタービジョンで、国内アリーナ最大級とされ、各パネルが独立して稼働できる点は国内初という。"
-      },
-      "es": {
-        "title": "Gunma Crane Thunders inaugura nueva arena de la B.League con el videomarcador móvil más grande de Japón",
-        "summary": "Los Gunma Crane Thunders inauguraron su nuevo pabellón, llamado OPEN HOUSE ARENA OTA por el patrocinador de los derechos de nombre, Open House Group, con un partido de apertura ante Utsunomiya Brex que reunió a 5.262 aficionados. El elemento central es un videomarcador central móvil de 14 paneles con unas 6.100 pulgadas combinadas, que el club describe como el más grande de cualquier pabellón japonés y el primero del país con paneles que se mueven de forma independiente."
-      },
-      "zh": {
-        "title": "群马新干线雷霆启用新主场,配备日本最大可动式中央记分屏",
-        "summary": "群马新干线雷霆启用以冠名权赞助商Open House集团命名的新主场“OPEN HOUSE ARENA OTA”,开馆战迎战宇都宮雷克斯,吸引5262名球迷到场。球馆亮点是由14块屏幕组成、总面积约6100英寸的可动式中央记分屏,俱乐部称这是日本球馆中规模最大、且首个各屏幕可独立移动的设备。"
-      },
-      "fr": {
-        "title": "Les Gunma Crane Thunders inaugurent une nouvelle arène dotée du plus grand tableau d'affichage mobile du Japon",
-        "summary": "Les Gunma Crane Thunders ont inauguré leur nouvelle salle, baptisée OPEN HOUSE ARENA OTA d'après le sponsor des droits de dénomination Open House Group, avec un match d'ouverture face aux Utsunomiya Brex qui a réuni 5 262 spectateurs. Son élément central est un tableau d'affichage suspendu mobile de 14 panneaux totalisant environ 6 100 pouces, que le club présente comme le plus grand de toutes les arènes japonaises et le premier du pays où chaque panneau peut se déplacer indépendamment."
-      }
-    }
-  },
-  {
-    "id": "xfinity-mobile-arena-naming-comcast-2026",
-    "sport": "general",
-    "region": "global",
-    "topics": [
-      "stadium",
-      "sponsor"
-    ],
-    "published_at": "2026-10-12T12:00:00Z",
-    "source_name": "Front Office Sports",
-    "source_url": "https://frontofficesports.com/article/after-getting-sixers-to-stay-comcast-putting-its-own-name-on-arena/",
-    "i18n": {
-      "en": {
-        "title": "Philadelphia's 76ers and Flyers Arena Officially Becomes Xfinity Mobile Arena",
-        "summary": "The Philadelphia arena shared by the NBA's 76ers and NHL's Flyers has officially taken on the name Xfinity Mobile Arena, replacing the former Wells Fargo Center branding under a deal between Comcast Spectacor and Harris Blitzer Sports & Entertainment. The agreement, which runs through the 2030-31 season, also brings Xfinity Mobile-branded wifi connectivity and digital signage to the venue while Comcast Spectacor plans a new arena at the same site by 2031."
-      },
-      "ja": {
-        "title": "フィラデルフィアの76ers・フライヤーズの本拠地が「エクスフィニティ・モバイル・アリーナ」に改称",
-        "summary": "NBA76ersとNHLフライヤーズが共用するフィラデルフィアのアリーナが、コムキャスト・スペクタコアとハリス・ブリッツァー・スポーツ&エンターテインメントの契約により、従来のウェルズ・ファーゴ・センターから「エクスフィニティ・モバイル・アリーナ」へと正式に改称された。契約は2030-31シーズンまで続き、会場にはエクスフィニティ・モバイルブランドのWi-Fiやデジタル看板も導入される一方、同じ敷地には2031年までに新アリーナを建設する計画もあるという。"
-      },
-      "es": {
-        "title": "La arena de los 76ers y los Flyers en Filadelfia pasa a llamarse oficialmente Xfinity Mobile Arena",
-        "summary": "El pabellón de Filadelfia que comparten los 76ers de la NBA y los Flyers de la NHL adoptó oficialmente el nombre Xfinity Mobile Arena, sustituyendo a la antigua marca Wells Fargo Center, bajo un acuerdo entre Comcast Spectacor y Harris Blitzer Sports & Entertainment. El contrato, vigente hasta la temporada 2030-31, también incorporará wifi y señalización digital de la marca Xfinity Mobile, mientras Comcast Spectacor planea construir una nueva arena en el mismo emplazamiento para 2031."
-      },
-      "zh": {
-        "title": "费城76人与飞人队主场正式更名为Xfinity Mobile Arena",
-        "summary": "NBA费城76人与NHL费城飞人共用的费城球馆,在康卡斯特Spectacor与Harris Blitzer体育娱乐公司的协议下,正式由原“富国银行中心”更名为“Xfinity Mobile Arena”。该协议有效期至2030-31赛季,场馆还将引入Xfinity Mobile品牌的无线网络和数字标牌,康卡斯特Spectacor并计划在2031年前于同一地点建造新球馆。"
-      },
-      "fr": {
-        "title": "L'arène des 76ers et des Flyers à Philadelphie devient officiellement le Xfinity Mobile Arena",
-        "summary": "La salle de Philadelphie partagée par les 76ers de la NBA et les Flyers de la NHL a officiellement pris le nom de Xfinity Mobile Arena, remplaçant l'ancienne appellation Wells Fargo Center, dans le cadre d'un accord entre Comcast Spectacor et Harris Blitzer Sports & Entertainment. L'accord, valable jusqu'à la saison 2030-31, apporte aussi le wifi et la signalétique numérique de marque Xfinity Mobile, tandis que Comcast Spectacor prévoit de construire une nouvelle arène sur le même site d'ici 2031."
-      }
-    }
-  },
-  {
-    "id": "sixers-bloom-energy-jersey-patch-2026",
-    "sport": "basketball",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-09-28T00:00:00Z",
-    "source_name": "NBC Sports Philadelphia",
-    "source_url": "https://www.nbcsportsphiladelphia.com/news/sixers-unveil-bloom-energy-as-official-jersey-patch-partner/754280/",
-    "i18n": {
-      "en": {
-        "title": "76ers Name Bloom Energy as New Jersey Patch Sponsor, Replacing Crypto.com",
-        "summary": "The Philadelphia 76ers have named clean-energy company Bloom Energy as their new NBA jersey patch sponsor, replacing Crypto.com starting in the 2026-27 season. The multi-year agreement is reported to be worth eight figures annually and includes a seven-figure community investment in the Philadelphia area. Bloom will also serve as the marquee jersey partner for the team's G League affiliate, the Delaware Blue Coats."
-      },
-      "ja": {
-        "title": "76ers、ユニフォームパッチスポンサーをクリプト・ドットコムからブルーム・エナジーへ変更",
-        "summary": "フィラデルフィア・76ersは、2026-27シーズンからユニフォームのパッチスポンサーをクリプト・ドットコムから再生可能エネルギー企業ブルーム・エナジーに切り替えると発表した。契約は複数年にわたり年間で8桁(数千万ドル規模)とされ、フィラデルフィア地域への7桁規模の地域投資も含まれている。ブルームはGリーグ傘下のデラウェア・ブルー・コーツのメインスポンサーも務める。"
-      },
-      "es": {
-        "title": "Los 76ers nombran a Bloom Energy como nuevo patrocinador de parche, sustituyendo a Crypto.com",
-        "summary": "Los Philadelphia 76ers anunciaron a la empresa de energía limpia Bloom Energy como su nuevo auspiciante de parche en la camiseta, sustituyendo a Crypto.com a partir de la temporada 2026-27 de la NBA. El acuerdo plurianual se estima en ocho cifras anuales e incluye una inversión comunitaria de siete cifras en la región de Filadelfia. Bloom también será el patrocinador principal del equipo afiliado en la G League, los Delaware Blue Coats."
-      },
-      "zh": {
-        "title": "76人队宣布Bloom Energy成为新球衣贴标赞助商,取代Crypto.com",
-        "summary": "费城76人队宣布,清洁能源公司Bloom Energy将成为球队新的球衣广告贴标赞助商,从2026-27赛季起取代Crypto.com。这份多年协议据报年值达八位数,并包含向费城地区投入的七位数社区资金。Bloom还将成为球队G联赛附属球队特拉华蓝衫队的主要赞助商。"
-      },
-      "fr": {
-        "title": "Les 76ers nomment Bloom Energy nouveau sponsor du patch, remplaçant Crypto.com",
-        "summary": "Les Philadelphia 76ers ont annoncé que l'entreprise d'énergie propre Bloom Energy devient le nouveau sponsor du patch sur leur maillot, remplaçant Crypto.com à partir de la saison 2026-27 de la NBA. L'accord pluriannuel serait évalué à huit chiffres par an et comprend un investissement communautaire à sept chiffres dans la région de Philadelphie. Bloom sera également le sponsor principal du maillot de l'équipe affiliée en G League, les Delaware Blue Coats."
-      }
-    }
-  },
-  {
-    "id": "leicester-city-264m-sale-price-2026",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "team",
-      "biz"
-    ],
-    "published_at": "2026-10-09T00:00:00Z",
-    "source_name": "Front Office Sports",
-    "source_url": "https://frontofficesports.com/article/is-leicester-citys-264-million-price-tag-too-rich-for-hungry-investors/",
-    "i18n": {
-      "en": {
-        "title": "Leicester City Owners Struggle to Find Buyers at $264 Million Asking Price",
-        "summary": "Leicester City's owners are reportedly struggling to find buyers willing to meet their roughly £200 million ($264 million) asking price for the Championship club, according to Front Office Sports. The sale package includes King Power Stadium, the training ground, the academy and Belgian side OH Leuven, with Citigroup handling the process. One analyst said he would be surprised if the owners received anywhere close to their target figure, especially after the club's relegation."
-      },
-      "ja": {
-        "title": "レスター・シティ、2億6400万ドルの希望売却額に見合う買い手探しに苦戦",
-        "summary": "Front Office Sportsによると、レスター・シティの経営陣は、イングランド2部(チャンピオンシップ)の同クラブに設定した約2億ポンド(約2億6400万ドル)の希望売却額に見合う買い手を見つけられず苦戦しているという。売却対象にはキング・パワー・スタジアムや練習場、アカデミー、ベルギーのOHルーベンも含まれ、手続きはシティグループが担当している。ある分析者は、クラブの降格もあり希望額に近い金額での売却には驚くだろうと述べている。"
-      },
-      "es": {
-        "title": "Los propietarios del Leicester City no logran hallar compradores al precio de 264 millones de dólares",
-        "summary": "Según Front Office Sports, los propietarios del Leicester City tienen dificultades para encontrar compradores dispuestos a pagar el precio solicitado de unos 200 millones de libras (264 millones de dólares) por el club de la Championship. El paquete de venta incluye el King Power Stadium, el centro de entrenamiento, la academia y el club belga OH Leuven, con Citigroup a cargo del proceso. Un analista dijo que le sorprendería que los propietarios se acercaran a esa cifra, sobre todo tras el descenso del equipo."
-      },
-      "zh": {
-        "title": "莱斯特城老板难觅买家接受2.64亿美元要价",
-        "summary": "据Front Office Sports报道,莱斯特城俱乐部的老板们难以找到愿意支付约2亿英镑(2.64亿美元)要价的买家,该队目前征战英冠联赛。出售方案包括王权球场、训练基地、青训学院以及比利时球队OH鲁汶,交易由花旗集团负责操作。一位分析人士表示,考虑到球队降级的影响,若最终售价接近要价他会感到惊讶。"
-      },
-      "fr": {
-        "title": "Les propriétaires de Leicester City peinent à trouver acheteur à 264 millions de dollars",
-        "summary": "Selon Front Office Sports, les propriétaires de Leicester City ont du mal à trouver des acheteurs prêts à payer le prix demandé d'environ 200 millions de livres (264 millions de dollars) pour le club de Championship. Le lot de vente comprend le King Power Stadium, le centre d'entraînement, le centre de formation et le club belge OH Louvain, le processus étant géré par Citigroup. Un analyste a estimé qu'il serait surpris que les propriétaires obtiennent une somme proche de ce montant, surtout après la relégation du club."
-      }
-    }
-  },
-  {
-    "id": "alienware-team-liquid-extension-2031",
-    "sport": "esports",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-08-18T00:00:00Z",
-    "source_name": "Business Wire",
-    "source_url": "https://www.eagletribune.com/region/team-liquid-and-alienware-extend-esports-longest-running-partnership/article_80097767-74fa-5fc0-b44b-cd56ba9df399.html",
-    "i18n": {
-      "en": {
-        "title": "Team Liquid and Alienware Extend Partnership Through 2031",
-        "summary": "Esports organization Team Liquid and Dell's Alienware brand have announced a five-year extension of their partnership, keeping what both companies describe as esports' longest-running sponsorship relationship intact through 2031. The renewal marks Alienware's 30th anniversary and 15 years of collaboration with the team, and includes options for further extensions. Alienware will continue backing Team Liquid's in-house broadcast of the World of Warcraft Race to World First competition."
-      },
-      "ja": {
-        "title": "チーム・リキッドとエイリアンウェア、提携を2031年まで延長",
-        "summary": "eスポーツ団体チーム・リキッドとデルのゲーミングブランド、エイリアンウェアは、両社が「eスポーツ界で最も長く続くスポンサー関係」と位置づける提携を5年延長し、2031年まで継続すると発表した。この更新はエイリアンウェアの30周年とチームとの協業15周年を記念するもので、さらなる延長の選択肢も含まれている。エイリアンウェアは今後もチーム・リキッドが自社制作する『ワールド・オブ・ウォークラフト』の「レース・トゥ・ワールド・ファースト」競技の放送を支援する。"
-      },
-      "es": {
-        "title": "Team Liquid y Alienware extienden su asociación hasta 2031",
-        "summary": "La organización de esports Team Liquid y la marca Alienware de Dell anunciaron una extensión de cinco años de su asociación, manteniendo lo que ambas empresas describen como la relación de patrocinio más longeva de los esports hasta 2031. La renovación marca el 30.º aniversario de Alienware y 15 años de colaboración con el equipo, e incluye opciones para nuevas extensiones. Alienware seguirá respaldando la transmisión interna de Team Liquid de la competición Race to World First de World of Warcraft."
-      },
-      "zh": {
-        "title": "Team Liquid与Alienware续约至2031年",
-        "summary": "电竞组织Team Liquid与戴尔旗下游戏品牌Alienware宣布将合作关系续签五年,使双方口中电竞界持续时间最长的赞助合作延续至2031年。此次续约恰逢Alienware成立30周年及与该战队合作15周年,协议还包含进一步延长的选项。Alienware将继续支持Team Liquid自制转播的《魔兽世界》世界前列竞速赛节目。"
-      },
-      "fr": {
-        "title": "Team Liquid et Alienware prolongent leur partenariat jusqu'en 2031",
-        "summary": "L'organisation d'esport Team Liquid et la marque Alienware de Dell ont annoncé une prolongation de cinq ans de leur partenariat, maintenant ce que les deux entreprises décrivent comme la relation de sponsoring la plus ancienne de l'esport jusqu'en 2031. Ce renouvellement marque le 30e anniversaire d'Alienware et 15 ans de collaboration avec l'équipe, et inclut des options de prolongations supplémentaires. Alienware continuera de soutenir la diffusion interne par Team Liquid de la compétition Race to World First de World of Warcraft."
-      }
-    }
-  },
-  {
-    "id": "bandai-namco-arena-matsue-naming-2026",
-    "sport": "basketball",
-    "region": "japan",
-    "topics": [
-      "stadium"
-    ],
-    "published_at": "2026-08-17T00:00:00Z",
-    "source_name": "Dengeki Online",
-    "source_url": "https://dengekionline.com/article/202608/84633",
-    "i18n": {
-      "en": {
-        "title": "Bandai Namco Secures Naming Rights for Shimane Susanoo Magic's Home Arena",
-        "summary": "Bandai Namco Entertainment has secured naming rights for the Matsue City Gymnasium, home arena of B.League club Shimane Susanoo Magic, with the venue renamed 'Bandai Namco Arena Matsue' starting September 1, 2026. The companies say the agreement is part of an effort to deepen ties with the local community through sport. Bandai Namco previously donated roughly 3 billion yen to Matsue City through a corporate hometown tax program, partly funding renovations at the arena."
-      },
-      "ja": {
-        "title": "バンダイナムコ、島根スサノオマジックのホームアリーナ命名権を取得",
-        "summary": "バンダイナムコエンターテインメントは、Bリーグ所属の島根スサノオマジックのホームアリーナである松江市総合体育館の命名権を取得し、2026年9月1日より施設の愛称を「バンダイナムコアリーナ松江」に変更すると発表した。両者は、この契約がスポーツを通じて地域とのつながりを一層強化する取り組みの一環であるとしている。バンダイナムコは以前、企業版ふるさと納税を通じて松江市に総額約30億円を寄附しており、その一部がアリーナの改修費用に充てられている。"
-      },
-      "es": {
-        "title": "Bandai Namco obtiene los derechos de denominación de la cancha local de Shimane Susanoo Magic",
-        "summary": "Bandai Namco Entertainment obtuvo los derechos de denominación del Gimnasio Municipal de Matsue, sede del club de la B.League Shimane Susanoo Magic, que pasará a llamarse 'Bandai Namco Arena Matsue' a partir del 1 de septiembre de 2026. Las empresas señalan que el acuerdo forma parte de un esfuerzo por estrechar los lazos con la comunidad local a través del deporte. Bandai Namco había donado previamente unos 3.000 millones de yenes a la ciudad de Matsue mediante un programa fiscal corporativo de 'ciudad natal', financiando en parte renovaciones en el recinto."
-      },
-      "zh": {
-        "title": "万代南梦宫获得岛根苏萨诺奥魔法队主场命名权",
-        "summary": "万代南梦宫娱乐公司获得了B联赛球队岛根苏萨诺奥魔法队主场松江市综合体育馆的命名权,场馆将于2026年9月1日起更名为万代南梦宫松江竞技场。双方表示,此次合作是通过体育加强与当地社区联系的举措之一。万代南梦宫此前通过企业版故乡纳税制度向松江市捐赠约30亿日元,部分资金用于该场馆的改造工程。"
-      },
-      "fr": {
-        "title": "Bandai Namco obtient les droits de dénomination de la salle de Shimane Susanoo Magic",
-        "summary": "Bandai Namco Entertainment a obtenu les droits de dénomination du gymnase municipal de Matsue, domicile du club de B.League Shimane Susanoo Magic, qui sera rebaptisé « Bandai Namco Arena Matsue » à partir du 1er septembre 2026. Les deux parties indiquent que cet accord s'inscrit dans une démarche visant à renforcer les liens avec la communauté locale par le sport. Bandai Namco avait précédemment fait un don d'environ 3 milliards de yens à la ville de Matsue via un programme fiscal d'entreprise de type « taxe de la ville natale », finançant en partie des rénovations de la salle."
-      }
-    }
-  },
-  {
-    "id": "nfl-gallo-wine-sponsor-2026",
-    "sport": "football",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-09-30T14:00:00Z",
-    "source_name": "Front Office Sports",
-    "source_url": "https://frontofficesports.com/article/nfl-toasts-2b-in-sponsorships-with-e-j-gallo-deal/",
-    "i18n": {
-      "en": {
-        "title": "NFL Taps E. & J. Gallo as Official Wine Sponsor, Nearing $2B in Deals",
-        "summary": "The NFL named E. & J. Gallo Winery its first official wine sponsor, granting the company exclusive pouring rights at marquee events including the Super Bowl and Pro Bowl Games. The agreement pushes the league's total sponsorship revenue close to $2 billion for the first time, continuing a recent run of category-specific deals across financial services and consumer brands."
-      },
-      "ja": {
-        "title": "NFL、E&Jギャロをオフィシャルワインスポンサーに起用 協賛総額は2000億円規模に",
-        "summary": "NFLはE&Jギャロ・ワイナリーを初のオフィシャルワインスポンサーとして起用し、スーパーボウルやプロボウルなど主要イベントでの独占提供権を付与した。この契約により、リーグ全体のスポンサー収入総額は初めて約20億ドル規模に迫るとされ、金融サービスや消費財分野でのカテゴリー別契約の流れが続いている。"
-      },
-      "es": {
-        "title": "La NFL ficha a E. & J. Gallo como patrocinador oficial de vino, cerca de los 2.000 millones en acuerdos",
-        "summary": "La NFL nombró a E. & J. Gallo Winery su primer patrocinador oficial de vino, otorgándole derechos exclusivos de servicio en eventos destacados como el Super Bowl y el Pro Bowl. El acuerdo acerca los ingresos totales por patrocinio de la liga a los 2.000 millones de dólares por primera vez, continuando una reciente ola de acuerdos por categoría en servicios financieros y marcas de consumo."
-      },
-      "zh": {
-        "title": "NFL签下E&J嘉露酒庄为官方葡萄酒赞助商 总赞助额逼近20亿美元",
-        "summary": "NFL宣布E&J嘉露酒庄成为联盟首位官方葡萄酒赞助商，获得包括超级碗及职业碗等重要赛事的独家斟酒权。该协议使联盟赞助收入总额首次逼近20亿美元，延续了近期在金融服务及消费品类别上密集签约的趋势。"
-      },
-      "fr": {
-        "title": "La NFL s'associe à E. & J. Gallo comme sponsor officiel du vin, près de 2 Md$ de contrats",
-        "summary": "La NFL a désigné E. & J. Gallo Winery comme son premier sponsor officiel du vin, lui accordant des droits exclusifs de service lors d'événements phares comme le Super Bowl et le Pro Bowl. L'accord rapproche les revenus totaux de sponsoring de la ligue de 2 milliards de dollars pour la première fois, dans la continuité d'une série récente d'accords par catégorie dans les services financiers et les marques de consommation."
-      }
-    }
-  },
-  {
-    "id": "espn-cfp-media-rights-extension-2031",
-    "sport": "football",
-    "region": "global",
-    "topics": [
-      "biz"
-    ],
-    "published_at": "2026-10-12T00:00:00Z",
-    "source_name": "SportCal",
-    "source_url": "https://www.sportcal.com/media/espn-confirms-lucrative-six-year-cfp-rights-extension/",
-    "i18n": {
-      "en": {
-        "title": "ESPN Locks Up College Football Playoff Rights Through 2031-32 Season",
-        "summary": "ESPN has extended its exclusive broadcast agreement with the College Football Playoff for six more years, continuing through the 2031-32 season. The new pact shifts the national championship game to ABC, and while the CFP has not confirmed terms, reports peg ESPN's annual outlay in the billions."
-      },
-      "ja": {
-        "title": "ESPN、カレッジフットボール・プレーオフの放映権を2031-32シーズンまで延長",
-        "summary": "ESPNはカレッジフットボール・プレーオフとの独占放映契約を6年間延長し、2031-32シーズンまで継続することになった。新契約では全米選手権の決勝戦をABCで放送する方式に切り替わり、CFP側は金額を公表していないものの、ESPNの年間支払額は数十億ドル規模になると報じられている。"
-      },
-      "es": {
-        "title": "ESPN asegura los derechos del College Football Playoff hasta la temporada 2031-32",
-        "summary": "ESPN ha extendido su acuerdo exclusivo de transmisión con el College Football Playoff por seis años más, hasta la temporada 2031-32. El nuevo pacto traslada el partido del campeonato nacional a ABC y, aunque el CFP no ha confirmado las cifras, los informes sitúan el desembolso anual de ESPN en miles de millones de dólares."
-      },
-      "zh": {
-        "title": "ESPN将大学橄榄球季后赛转播权延长至2031-32赛季",
-        "summary": "ESPN与大学橄榄球季后赛（CFP）续签了为期六年的独家转播协议，合约将持续到2031-32赛季。新协议将全国冠军赛转移到ABC频道播出，尽管CFP方面尚未公布具体金额，但据报道ESPN每年的支出将达数十亿美元规模。"
-      },
-      "fr": {
-        "title": "ESPN prolonge les droits du College Football Playoff jusqu'à la saison 2031-32",
-        "summary": "ESPN a prolongé de six ans son accord de diffusion exclusive avec le College Football Playoff, jusqu'à la saison 2031-32. Le nouveau contrat déplace la finale du championnat national vers ABC, et bien que le CFP n'ait pas confirmé les montants, les estimations évoquent une dépense annuelle d'ESPN se chiffrant en milliards de dollars."
-      }
-    }
-  },
-  {
-    "id": "manchester-city-115-charges-guilty-verdict-2026",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "team",
-      "biz"
-    ],
-    "published_at": "2026-09-25T00:00:00Z",
-    "source_name": "Insider Sport",
-    "source_url": "https://insidersport.com/2026/09/25/manchester-city-guilty-115-charges/",
-    "i18n": {
-      "en": {
-        "title": "Manchester City Reportedly Found Guilty on 114 of 115 Premier League Financial Charges",
-        "summary": "An independent commission has reportedly ruled against Manchester City on nearly all of the 115 financial-rules charges brought over alleged breaches between 2009 and 2018, according to multiple outlets; the Premier League itself has declined to confirm the outcome, citing confidentiality. City deny wrongdoing and are expected to appeal, with sanctions ranging from fines to a points deduction still to be decided."
-      },
-      "ja": {
-        "title": "マンチェスター・シティ、プレミアリーグの財務規則115件中114件で違反認定と報道",
-        "summary": "複数メディアの報道によると、独立委員会はマンチェスター・シティに対し、2009年から2018年にかけての違反疑惑に関する115件の財務規則違反容疑のうち114件で違反を認定したとされる。プレミアリーグ自体は守秘義務を理由に結果の確認を拒否している。シティ側は不正を否定しており、制裁は罰金から勝ち点剥奪まで幅があるとされ、控訴する見通しだ。"
-      },
-      "es": {
-        "title": "El Manchester City habría sido declarado culpable en 114 de los 115 cargos financieros de la Premier League",
-        "summary": "Según varios medios, una comisión independiente habría fallado en contra del Manchester City en casi todos los 115 cargos por infracciones de las normas financieras entre 2009 y 2018, aunque la propia Premier League se ha negado a confirmar el resultado alegando confidencialidad. El club niega haber cometido irregularidades y se espera que apele, con sanciones que podrían ir desde multas hasta una deducción de puntos."
-      },
-      "zh": {
-        "title": "据报道曼城在英超115项财务指控中114项被判违规",
-        "summary": "据多家媒体报道，一个独立委员会就曼城在2009年至2018年间涉嫌违反财务规则的115项指控作出裁决，其中114项被认定违规；英超联盟方面以保密为由拒绝确认结果。曼城否认存在不当行为，预计将提出上诉，可能面临的处罚从罚款到扣分不等，目前尚未最终确定。"
-      },
-      "fr": {
-        "title": "Manchester City aurait été reconnu coupable sur 114 des 115 chefs d'accusation financiers de la Premier League",
-        "summary": "Selon plusieurs médias, une commission indépendante aurait statué contre Manchester City sur la quasi-totalité des 115 chefs d'accusation liés à des infractions aux règles financières entre 2009 et 2018, bien que la Premier League elle-même refuse de confirmer ce résultat, invoquant la confidentialité. Le club nie toute faute et devrait faire appel, les sanctions envisagées allant de l'amende au retrait de points."
-      }
-    }
-  },
-  {
-    "id": "jleague-img-global-sponsorship-2026",
-    "sport": "soccer",
-    "region": "japan",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-08-12T00:00:00Z",
-    "source_name": "Sportcal",
-    "source_url": "https://www.sportcal.com/news/j-league-taps-img-to-lead-global-sponsorship-push/",
-    "i18n": {
-      "en": {
-        "title": "J.League Taps IMG to Lead International Sponsorship Push",
-        "summary": "J.League has appointed sports marketing agency IMG to drive its international sponsorship sales, aiming to attract brand partners from beyond Asia. League chairman Yoshikazu Nonomura called the move a milestone in J.League's push to build a global commercial profile. IMG already holds sponsorship mandates for FIFA, Inter Milan and the German football federation."
-      },
-      "ja": {
-        "title": "Jリーグ、海外スポンサー営業をIMGに委託",
-        "summary": "Jリーグは国際的なスポンサーシップ営業の強化に向け、スポーツマーケティング大手IMGと提携した。アジア圏外の企業との関係構築を目指す動きで、野々村芳和チェアマンはリーグの世界展開における重要な一歩と位置づけている。IMGはFIFAやインテル・ミラノなど大型クラブ・団体の案件も手がけている。"
-      },
-      "es": {
-        "title": "La J.League ficha a IMG para impulsar su patrocinio internacional",
-        "summary": "La J.League ha contratado a la agencia deportiva IMG para liderar la venta de patrocinios fuera de Asia, en un intento de atraer marcas internacionales. El presidente de la liga, Yoshikazu Nonomura, describió el acuerdo como un hito en la expansión global de la competición. IMG ya gestiona acuerdos de patrocinio para la FIFA y el Inter de Milán, entre otros."
-      },
-      "zh": {
-        "title": "J联赛任命IMG负责海外赞助业务拓展",
-        "summary": "日本J联赛宣布委托体育营销机构IMG牵头拓展亚洲以外地区的赞助商资源，意在吸引更多国际品牌加入。联赛主席野野村芳和将此举称为联赛全球化进程中的重要一步。IMG目前已持有国际足联、国际米兰等多家机构和俱乐部的赞助业务。"
-      },
-      "fr": {
-        "title": "La J.League confie à IMG le développement de son sponsoring international",
-        "summary": "La J.League a mandaté l'agence IMG pour piloter la vente de ses droits de sponsoring hors d'Asie, afin d'attirer des marques internationales. Le président de la ligue, Yoshikazu Nonomura, a qualifié cet accord d'étape importante dans l'expansion mondiale du championnat. IMG gère déjà des mandats de sponsoring pour la FIFA et l'Inter Milan, entre autres."
-      }
-    }
-  },
-  {
-    "id": "jleague-platinum-gold-partner-tiers-2026",
-    "sport": "soccer",
-    "region": "japan",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-06-29T00:00:00Z",
-    "source_name": "J.League",
-    "source_url": "https://www.jleague.jp/corporate/pressrelease/article/15809",
-    "i18n": {
-      "en": {
-        "title": "J.League Restructures Sponsor Tiers, Adds MUFG Bank as Platinum Partner",
-        "summary": "J.League has split its former top sponsorship category into new 'Platinum Partner' and 'Gold Partner' tiers for the 2026/27 season. Mitsubishi UFJ Bank joined as a Platinum Partner, while several other companies signed on at the Gold level tied to youth-development programs. Meiji Yasuda Life continues as the league's title partner."
-      },
-      "ja": {
-        "title": "Jリーグ、パートナー制度を再編しMUFG銀行がプラチナパートナーに",
-        "summary": "Jリーグは2026/27シーズンに向け、従来のトップパートナー制度を「プラチナパートナー」と「ゴールドパートナー」の2階層に再編した。三菱UFJ銀行がプラチナパートナーとして新たに加わり、複数の企業が育成年代向けの枠でゴールドパートナーに名を連ねた。明治安田生命は引き続きタイトルパートナーを務める。"
-      },
-      "es": {
-        "title": "La J.League reorganiza sus niveles de patrocinio e incorpora a MUFG Bank",
-        "summary": "La J.League ha dividido su antigua categoría principal de patrocinio en dos nuevos niveles, 'Platinum Partner' y 'Gold Partner', para la temporada 2026/27. El banco Mitsubishi UFJ se incorporó como Platinum Partner, mientras otras empresas se unieron como Gold Partners vinculadas a programas de formación juvenil. Meiji Yasuda Life sigue como patrocinador principal de la liga."
-      },
-      "zh": {
-        "title": "J联赛重组赞助体系，三菱日联银行加入白金合作伙伴",
-        "summary": "日本J联赛将原有的顶级赞助商类别拆分为新的“白金合作伙伴”和“黄金合作伙伴”两个层级，适用于2026/27赛季。三菱日联银行以白金合作伙伴身份加入，另有多家企业以黄金合作伙伴身份支持青训项目。明治安田生命保险继续担任联赛冠名合作伙伴。"
-      },
-      "fr": {
-        "title": "La J.League réorganise ses niveaux de sponsoring et accueille la banque MUFG",
-        "summary": "La J.League a scindé son ancienne catégorie de sponsors principale en deux nouveaux niveaux, 'Platinum Partner' et 'Gold Partner', pour la saison 2026/27. La banque Mitsubishi UFJ a rejoint le championnat en tant que Platinum Partner, tandis que plusieurs entreprises se sont engagées au niveau Gold autour des programmes de formation des jeunes. Meiji Yasuda Life demeure le partenaire titre de la ligue."
-      }
-    }
-  },
-  {
-    "id": "npb-smbc-japan-series-title-sponsor-2026",
-    "sport": "baseball",
-    "region": "japan",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-08-04T00:00:00Z",
-    "source_name": "NPB",
-    "source_url": "https://npb.jp/news/detail/20260804_01.html",
-    "i18n": {
-      "en": {
-        "title": "SMBC Extends Title Sponsorship of NPB's Japan Series for 13th Year",
-        "summary": "Nippon Professional Baseball has confirmed Sumitomo Mitsui Banking Corporation as title sponsor of the 2026 Japan Series, branding it the 'SMBC Nippon Series 2026.' It marks the bank's 13th consecutive year backing the championship series, which is scheduled to open on October 24 and run through November 1 if a deciding game is needed."
-      },
-      "ja": {
-        "title": "SMBC、NPB日本シリーズの冠スポンサーを13年連続で継続",
-        "summary": "日本プロ野球機構(NPB)は、2026年日本シリーズの冠スポンサーとして三井住友銀行(SMBC)との契約を継続し、「SMBC日本シリーズ2026」の名称で開催することを発表した。同行による冠スポンサーは13年連続となる。シリーズは10月24日に開幕し、第7戦までもつれた場合は11月1日まで行われる予定。"
-      },
-      "es": {
-        "title": "SMBC extiende por 13º año consecutivo el patrocinio de la Japan Series de la NPB",
-        "summary": "La Nippon Professional Baseball (NPB) confirmó a Sumitomo Mitsui Banking Corporation como patrocinador principal de la Japan Series 2026, que se denominará 'SMBC Nippon Series 2026'. Es el 13º año consecutivo que el banco respalda la serie de campeonato. Está previsto que la serie comience el 24 de octubre y, de ser necesario un séptimo partido, se extienda hasta el 1 de noviembre."
-      },
-      "zh": {
-        "title": "SMBC连续第13年担任NPB日本大赛冠名赞助商",
-        "summary": "日本职业棒球组织(NPB)确认三井住友银行(SMBC)继续担任2026年日本大赛的冠名赞助商，赛事将以“SMBC日本大赛2026”命名。这是该银行连续第13年冠名这一冠军系列赛。系列赛预计10月24日开打，如需打满七场将持续至11月1日。"
-      },
-      "fr": {
-        "title": "SMBC prolonge pour la 13e année consécutive son parrainage de la Japan Series de la NPB",
-        "summary": "La Nippon Professional Baseball (NPB) a confirmé que Sumitomo Mitsui Banking Corporation reste le sponsor titre de la Japan Series 2026, baptisée 'SMBC Nippon Series 2026'. Il s'agit de la 13e année consécutive que la banque soutient cette série de championnat. La série doit débuter le 24 octobre et se prolonger jusqu'au 1er novembre si un septième match est nécessaire."
-      }
-    }
-  },
-  {
-    "id": "leeds-united-etoro-partnership-2026",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-08-26T00:00:00Z",
-    "source_name": "Leeds United",
-    "source_url": "https://www.leedsunited.com/en/news/leeds-united-announce-multi-year-partnership-with-etoro",
-    "i18n": {
-      "en": {
-        "title": "Leeds United Signs Multi-Year Trading Partnership With eToro",
-        "summary": "Leeds United has named eToro as its official trading partner for the 2026/27 season and beyond, covering both the men's and women's teams. The deal brings eToro branding to pitchside boards, stadium screens and interview backdrops at Elland Road. Financial terms were not disclosed."
-      },
-      "ja": {
-        "title": "リーズ・ユナイテッド、eToroと複数年のトレーディング・パートナー契約",
-        "summary": "リーズ・ユナイテッドは2026/27シーズン以降、eToroを公式トレーディング・パートナーとする複数年契約を発表した。契約は男子・女子両チームを対象とし、エランド・ロードのピッチサイド広告やスタジアムスクリーン、インタビュー背景にeToroのロゴが表示される。契約金額は公表されていない。"
-      },
-      "es": {
-        "title": "Leeds United firma una asociación comercial plurianual con eToro",
-        "summary": "Leeds United ha nombrado a eToro como su socio oficial de trading para la temporada 2026/27 y en adelante, abarcando tanto al equipo masculino como al femenino. El acuerdo incluye la presencia de la marca eToro en las vallas publicitarias, las pantallas del estadio y los fondos de entrevistas en Elland Road. No se revelaron las condiciones económicas."
-      },
-      "zh": {
-        "title": "利兹联与eToro达成多年期交易合作伙伴协议",
-        "summary": "利兹联宣布与在线交易平台eToro达成多年合作协议，自2026/27赛季起成为球队官方交易合作伙伴，覆盖男女两支球队。合作内容包括在埃兰路球场场边广告牌、场内大屏及采访背景板展示eToro品牌标识。具体金额未披露。"
-      },
-      "fr": {
-        "title": "Leeds United signe un partenariat pluriannuel avec eToro",
-        "summary": "Leeds United a désigné eToro comme partenaire officiel de trading à partir de la saison 2026/27, un accord couvrant à la fois les équipes masculine et féminine. Le partenariat place la marque eToro sur les panneaux de bord de terrain, les écrans du stade et les fonds d'interview à Elland Road. Les détails financiers n'ont pas été dévoilés."
-      }
-    }
-  },
-  {
-    "id": "liverpool-turkish-airlines-shirt-sponsor-2026",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-09-08T00:00:00Z",
-    "source_name": "Inside World Football",
-    "source_url": "https://insidersport.com/2026/09/08/liverpool-signs-turkish-airlines-deal/",
-    "i18n": {
-      "en": {
-        "title": "Liverpool Signs Record Shirt Deal With Turkish Airlines, Ending Standard Chartered Era",
-        "summary": "Liverpool have agreed a five-year front-of-shirt deal with Turkish Airlines that will replace long-time sponsor Standard Chartered from the 2027/28 season. Reports value the agreement at more than £300 million over its term, making it one of the richest shirt sponsorships in football. Standard Chartered will remain involved with the club as a global partner."
-      },
-      "ja": {
-        "title": "リヴァプール、トルコ航空と記録的なシャツ・スポンサー契約",
-        "summary": "リヴァプールは2027/28シーズンから、長年のメインスポンサーであるスタンダードチャータード銀行に代わり、トルコ航空とシャツ前面の5年契約を結んだと発表した。契約総額は3億ポンドを超えるとされ、サッカー界でも最高額級のシャツスポンサー契約となる。スタンダードチャータードはグローバルパートナーとしてクラブとの関係を継続する。"
-      },
-      "es": {
-        "title": "Liverpool firma un contrato récord de patrocinio de camiseta con Turkish Airlines",
-        "summary": "El Liverpool ha acordado un contrato de cinco años con Turkish Airlines para el frente de su camiseta, que sustituirá al histórico patrocinador Standard Chartered a partir de la temporada 2027/28. Según varias informaciones, el acuerdo supera los 300 millones de libras en total, una de las cifras más altas del fútbol mundial. Standard Chartered seguirá vinculado al club como socio global."
-      },
-      "zh": {
-        "title": "利物浦与土耳其航空签订创纪录胸前广告赞助合约",
-        "summary": "利物浦宣布与土耳其航空签订五年胸前广告赞助协议，自2027/28赛季起取代长期赞助商渣打银行。据报道，该协议总价值超过3亿英镑，是足坛金额最高的胸前广告合约之一。渣打银行将继续以全球合作伙伴身份与俱乐部保持关系。"
-      },
-      "fr": {
-        "title": "Liverpool signe un contrat record de sponsor maillot avec Turkish Airlines",
-        "summary": "Liverpool a conclu un accord de cinq ans avec Turkish Airlines pour le marquage avant de son maillot, qui remplacera à partir de la saison 2027/28 son sponsor historique Standard Chartered. Plusieurs médias évaluent l'accord à plus de 300 millions de livres sterling sur sa durée, l'un des plus riches du football mondial. Standard Chartered restera associé au club en tant que partenaire global."
-      }
-    }
-  },
-  {
-    "id": "providence-equity-wasserman-full-acquisition-2026",
-    "sport": "general",
-    "region": "global",
-    "topics": [
-      "biz"
-    ],
-    "published_at": "2026-07-28T00:00:00Z",
-    "source_name": "Sportico",
-    "source_url": "https://www.sportico.com/business/finance/2026/providence-equity-wasserman-agency-sale-billion-1234940141/",
-    "i18n": {
-      "en": {
-        "title": "Providence Equity Takes Full Control of Casey Wasserman's Agency THE•TEAM",
-        "summary": "Private equity firm Providence Equity has bought out Casey Wasserman's remaining stake in his sports and entertainment agency, now branded THE•TEAM, after previously holding around 60%. The deal values the agency at roughly $3.4 billion, and company veteran Watts was elevated to CEO as part of the transition."
-      },
-      "ja": {
-        "title": "プロビデンス・エクイティ、ワッサーマン氏のスポーツ・エンタメ企業を完全子会社化",
-        "summary": "プライベートエクイティ会社プロビデンス・エクイティは、ケイシー・ワッサーマン氏が保有していたスポーツ・エンタメエージェンシー「THE•TEAM」の残りの株式を買収し、完全子会社化した。同社はこれまで約60%の株式を保有していた。買収額は約34億ドルとされ、経営体制の移行に伴い幹部のワッツ氏が新CEOに就任した。"
-      },
-      "es": {
-        "title": "Providence Equity toma el control total de la agencia de Casey Wasserman, THE•TEAM",
-        "summary": "La firma de capital privado Providence Equity ha comprado la participación restante que Casey Wasserman mantenía en su agencia deportiva y de entretenimiento, ahora bajo la marca THE•TEAM, tras haber poseído previamente alrededor del 60%. El acuerdo valora la agencia en unos 3.400 millones de dólares, y un ejecutivo veterano, Watts, asumió el cargo de director ejecutivo durante la transición."
-      },
-      "zh": {
-        "title": "Providence Equity全面收购凯西·瓦瑟曼旗下体育娱乐经纪公司",
-        "summary": "私募股权公司Providence Equity收购了凯西·瓦瑟曼在其体育娱乐经纪公司（现品牌名为THE•TEAM）中持有的剩余股份，此前该公司已持股约60%。此次交易对该机构估值约34亿美元，公司资深高管Watts在交接过程中升任首席执行官。"
-      },
-      "fr": {
-        "title": "Providence Equity prend le contrôle total de l'agence de Casey Wasserman, THE•TEAM",
-        "summary": "La société de capital-investissement Providence Equity a racheté la participation restante que détenait Casey Wasserman dans son agence sportive et de divertissement, désormais baptisée THE•TEAM, après en avoir déjà possédé environ 60 %. L'opération valorise l'agence à environ 3,4 milliards de dollars, et le cadre expérimenté Watts a été promu directeur général durant cette transition."
-      }
-    }
-  },
-  {
-    "id": "giantx-utamed-esports-partnership-2026",
-    "sport": "esports",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-05-04T00:00:00Z",
-    "source_name": "GIANTX",
-    "source_url": "https://giantx.gg/en/blogs/news/giantx-and-utamed-announce-new-partnership-agreement-2026",
-    "i18n": {
-      "en": {
-        "title": "LEC Team GIANTX Signs UTAMED as Official Education Partner",
-        "summary": "Spanish League of Legends EMEA Championship team GIANTX has signed Malaga-based online university UTAMED as its official education partner through the end of 2026. UTAMED's branding appears on the team's LEC jersey and across GIANTX's content network, which the club says reaches more than 15 million followers combined."
-      },
-      "ja": {
-        "title": "LECチームGIANTX、オンライン大学UTAMEDと教育パートナー契約",
-        "summary": "スペインのリーグ・オブ・レジェンドEMEAチャンピオンシップ(LEC)に参戦するGIANTXは、マラガを拠点とするオンライン大学UTAMEDと2026年末までの公式教育パートナー契約を発表した。UTAMEDのロゴはチームのLECジャージに掲出され、GIANTXのコンテンツ網でも展開される。同クラブは自社と所属クリエイターを合わせたフォロワー数が1500万人を超えると説明している。"
-      },
-      "es": {
-        "title": "El equipo de la LEC GIANTX ficha a UTAMED como socio educativo oficial",
-        "summary": "El equipo español de la Liga Europea de League of Legends (LEC), GIANTX, ha firmado con la universidad online UTAMED, con sede en Málaga, un acuerdo como socio educativo oficial hasta finales de 2026. El logotipo de UTAMED aparecerá en la camiseta del equipo en la LEC y en la red de contenidos de GIANTX, que la organización cifra en más de 15 millones de seguidores combinados."
-      },
-      "zh": {
-        "title": "LEC战队GIANTX与UTAMED签订官方教育合作伙伴协议",
-        "summary": "参加英雄联盟欧洲冠军联赛(LEC)的西班牙战队GIANTX宣布与总部位于马拉加的在线大学UTAMED签订官方教育合作伙伴协议，合作期至2026年底。UTAMED的品牌标识将出现在战队LEC比赛服以及GIANTX的内容矩阵中，俱乐部表示其自身及签约创作者合计粉丝数超过1500万。"
-      },
-      "fr": {
-        "title": "L'équipe LEC GIANTX signe UTAMED comme partenaire éducatif officiel",
-        "summary": "L'équipe espagnole de la LEC (League of Legends EMEA Championship) GIANTX a signé avec l'université en ligne UTAMED, basée à Malaga, un accord de partenaire éducatif officiel jusqu'à fin 2026. Le logo d'UTAMED figurera sur le maillot LEC de l'équipe ainsi que sur le réseau de contenu de GIANTX, que le club dit toucher plus de 15 millions d'abonnés au total."
-      }
-    }
-  },
-  {
-    "id": "timberwolves-lynx-stad-lore-sale-2026",
-    "sport": "basketball",
-    "region": "global",
-    "topics": [
-      "team",
-      "biz"
-    ],
-    "published_at": "2026-08-21T12:00:00Z",
-    "source_name": "Axios",
-    "source_url": "https://www.axios.com/2026/08/21/minnesota-timberwolves-lynx-stad-lore-arod",
-    "i18n": {
-      "en": {
-        "title": "Timberwolves and Lynx Co-Owner Marc Lore Agrees to Sell Controlling Stake at $4.5 Billion",
-        "summary": "Minnesota Timberwolves and Lynx co-owner Marc Lore has agreed to sell his controlling interest to fellow investor Marc Stad at a reported $4.5 billion enterprise value, roughly three times the price Lore and Alex Rodriguez paid in their original 2021 purchase. The deal, still awaiting NBA and WNBA approval, would see Stad take on a larger ownership role while Rodriguez remains involved and Lore keeps a minority stake to focus on his e-commerce venture."
-      },
-      "ja": {
-        "title": "ティンバーウルブズ/リンクス、共同保有者マーク・ロア氏が持ち株を45億ドルで売却へ",
-        "summary": "NBAミネソタ・ティンバーウルブズとWNBAリンクスの共同オーナーであるマーク・ロア氏が、企業価値45億ドルでマーク・スタッド氏に経営権株式を売却することで合意したと報じられた。これは2021年にロア氏とアレックス・ロドリゲス氏が取得した際の価格の約3倍に相当する。取引はNBAとWNBAの承認待ちで、ロア氏は少数株を保持しつつ自身のEC事業に専念する方針とされる。"
-      },
-      "es": {
-        "title": "Marc Lore acuerda vender su participación mayoritaria en Timberwolves y Lynx por 4.500 millones de dólares",
-        "summary": "El copropietario de los Minnesota Timberwolves y las Lynx, Marc Lore, ha acordado vender su participación de control al inversor Marc Stad con una valoración empresarial de 4.500 millones de dólares, casi el triple de lo que pagó junto a Alex Rodríguez en 2021. El acuerdo, pendiente de aprobación de la NBA y la WNBA, dejaría a Stad con un papel más amplio en la propiedad mientras Lore conserva una participación minoritaria para centrarse en su negocio de comercio electrónico."
-      },
-      "zh": {
-        "title": "森狼与山猫队联合所有者马克·洛尔同意以45亿美元估值出售控股权",
-        "summary": "据报道，NBA明尼苏达森林狼队与WNBA山猫队的联合所有者马克·洛尔已同意将其控股权出售给投资人马克·斯塔德，企业估值达45亿美元，约为洛尔与亚历克斯·罗德里格斯2021年收购价格的三倍。该交易仍需NBA和WNBA批准，洛尔将保留少量股份，并把精力转向自己的电商业务。"
-      },
-      "fr": {
-        "title": "Marc Lore accepte de vendre sa participation majoritaire dans les Timberwolves et les Lynx pour 4,5 milliards de dollars",
-        "summary": "Le copropriétaire des Timberwolves du Minnesota et des Lynx, Marc Lore, a accepté de céder sa participation majoritaire à l'investisseur Marc Stad, pour une valorisation d'entreprise de 4,5 milliards de dollars, près du triple du prix payé avec Alex Rodriguez lors du rachat de 2021. L'accord, encore soumis à l'approbation de la NBA et de la WNBA, verrait Stad prendre un rôle plus important tandis que Lore conserverait une part minoritaire pour se consacrer à son entreprise de commerce électronique."
-      }
-    }
-  },
-  {
-    "id": "sporting-cp-benfica-financial-results-2026",
-    "sport": "soccer",
-    "region": "global",
-    "topics": [
-      "biz"
-    ],
-    "published_at": "2026-09-26T09:00:00Z",
-    "source_name": "SportBusiness",
-    "source_url": "https://www.sportbusiness.com/news/sporting-cp-benfica-detail-contrasting-financial-results/",
-    "i18n": {
-      "en": {
-        "title": "Sporting CP Posts Record Profit as Portuguese Giants Report Contrasting Financial Results",
-        "summary": "Sporting CP's 2025/26 accounts show a net profit of €34.7 million, up 74% year-on-year and the club's second-best result since 1997, on record turnover of roughly €300 million lifted by a Champions League quarter-final run. Rival Benfica's results told a different story for the same period, underscoring how unevenly Portugal's top two clubs have converted European football success into bottom-line gains."
-      },
-      "ja": {
-        "title": "スポルティングCP、過去最高益を計上 ポルトガル2強の決算に明暗",
-        "summary": "スポルティングCPの2025/26年度決算は純利益3470万ユーロと前年比74%増となり、1997年の法人化以来2番目に良い結果を記録した。チャンピオンズリーグ準々決勝進出も後押しし、売上高は約3億ユーロと過去最高を更新した。一方で同時期のライバル、ベンフィカの決算は対照的な結果となり、ポルトガル2強の収益化の差が浮き彫りになった。"
-      },
-      "es": {
-        "title": "El Sporting CP logra un beneficio récord mientras los dos grandes portugueses reportan resultados opuestos",
-        "summary": "Las cuentas del Sporting CP de 2025/26 muestran un beneficio neto de 34,7 millones de euros, un 74% más que el año anterior y el segundo mejor resultado del club desde 1997, con una facturación récord de unos 300 millones de euros impulsada por su llegada a cuartos de final de la Champions League. El Benfica, su rival, presentó resultados muy distintos en el mismo periodo, lo que refleja lo desigual que ha sido para los dos grandes clubes portugueses convertir el éxito europeo en beneficios."
-      },
-      "zh": {
-        "title": "葡萄牙体育创纪录盈利，两大豪门财报呈现鲜明对比",
-        "summary": "葡萄牙体育俱乐部2025/26财年账目显示净利润达3470万欧元，同比增长74%，是该俱乐部自1997年以来第二好的业绩，欧冠八强之旅推动营业额创纪录达约3亿欧元。同一时期，竞争对手本菲卡的财报却呈现截然不同的局面，凸显葡萄牙两大豪门将欧洲赛场成功转化为盈利能力的差距。"
-      },
-      "fr": {
-        "title": "Le Sporting CP affiche un bénéfice record, contraste marqué avec les résultats du Benfica",
-        "summary": "Les comptes 2025/26 du Sporting CP affichent un bénéfice net de 34,7 millions d'euros, en hausse de 74% sur un an, son deuxième meilleur résultat depuis 1997, avec un chiffre d'affaires record d'environ 300 millions d'euros porté par un parcours en quarts de finale de Ligue des champions. Le rival Benfica a connu des résultats très différents sur la même période, illustrant l'écart entre les deux grands clubs portugais dans leur capacité à transformer le succès européen en gains financiers."
-      }
-    }
-  },
-  {
-    "id": "nfl-jersey-patch-ad-revenue-report-2026",
-    "sport": "football",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-10-12T10:00:00Z",
-    "source_name": "Front Office Sports",
-    "source_url": "https://frontofficesports.com/article/the-nfls-next-ad-revenue-goldmine-could-be-jersey-patches/",
-    "i18n": {
-      "en": {
-        "title": "NFL's Next Ad Revenue Opportunity Could Be Jersey Patches, Report Says",
-        "summary": "The NFL remains the only major U.S. sports league that has not sold advertising space on game-day uniforms, even as rookie patches tied to trading-card partners hint at a possible path forward. Industry estimates cited by Front Office Sports put potential combined annual revenue from league-wide jersey patches at roughly $673 million if the NFL eventually follows other leagues into on-field uniform advertising."
-      },
-      "ja": {
-        "title": "NFL、ジャージパッチ広告が次の収益源になる可能性 報道",
-        "summary": "NFLは、公式戦のユニフォームに広告スペースを販売していない数少ない主要米プロスポーツリーグとして残っているが、トレーディングカード企業と連動したルーキー向けパッチの導入は将来的な展開を示唆しているとされる。Front Office Sportsが引用した業界推計によれば、NFLが他リーグに続いてユニフォーム広告を導入した場合、リーグ全体でのジャージパッチ収入は年間約6億7300万ドルに達する可能性があるという。"
-      },
-      "es": {
-        "title": "La próxima fuente de ingresos publicitarios de la NFL podrían ser los parches en las camisetas, según un informe",
-        "summary": "La NFL sigue siendo la única gran liga deportiva estadounidense que no vende espacio publicitario en las camisetas de los partidos, aunque los parches para novatos vinculados a socios de cromos sugieren un posible camino a seguir. Estimaciones del sector citadas por Front Office Sports sitúan los ingresos anuales combinados potenciales de parches en camisetas de toda la liga en unos 673 millones de dólares si la NFL finalmente sigue a otras ligas hacia la publicidad en el uniforme."
-      },
-      "zh": {
-        "title": "报告称球衣广告贴片可能成为NFL下一个广告收入来源",
-        "summary": "据报道，NFL仍是美国主要职业体育联盟中唯一未在比赛日球衣上出售广告位的联盟，不过与交易卡合作伙伴绑定的新秀球衣贴片暗示了未来可能的发展方向。《Front Office Sports》援引业内估算称，若NFL最终效仿其他联盟推出球衣广告，全联盟球衣贴片的潜在年收入合计可达约6.73亿美元。"
-      },
-      "fr": {
-        "title": "Les patchs sur les maillots pourraient devenir la prochaine source de revenus publicitaires de la NFL, selon un rapport",
-        "summary": "La NFL reste la seule grande ligue sportive américaine à ne pas vendre d'espace publicitaire sur les maillots portés en match, même si les patchs réservés aux rookies, liés à des partenaires de cartes à collectionner, laissent entrevoir une évolution possible. Selon des estimations du secteur citées par Front Office Sports, des patchs sur les maillots à l'échelle de la ligue pourraient générer environ 673 millions de dollars de revenus annuels combinés si la NFL suivait d'autres ligues vers la publicité sur l'uniforme."
-      }
-    }
-  },
-  {
-    "id": "redbull-oracle-indeed-f1-sponsor-2026",
-    "sport": "motorsports",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-03-15T00:00:00Z",
-    "source_name": "Sportcal",
-    "source_url": "https://www.sportcal.com/news/f1-sponsorships-red-bull-adds-indeed-cadillac-secures-core-scientific/",
-    "i18n": {
-      "en": {
-        "title": "Oracle Red Bull Racing Extends Title Sponsorship, Adds Indeed as New F1 Partner",
-        "summary": "Red Bull Racing has renewed its title partnership with Oracle for the 2026 Formula 1 season, keeping the Oracle Red Bull Racing name without disclosing financial terms. The team also added job-search platform Indeed as a new sponsor, debuting its branding on the cars, helmets and pit crew of Max Verstappen and Isack Hadjar at the Chinese Grand Prix and planning further exposure later in the season."
-      },
-      "ja": {
-        "title": "オラクル・レッドブル・レーシング、タイトルスポンサー契約を延長 新たにIndeedもパートナーに",
-        "summary": "レッドブル・レーシングは2026年のF1シーズンに向けてオラクルとのタイトルパートナー契約を更新し、金額などの条件は非公開のまま「オラクル・レッドブル・レーシング」の名称を維持する。さらに求人検索サイトのIndeedが新たなスポンサーとして加わり、中国グランプリでマックス・フェルスタッペン選手とアイザック・ハジャー選手の車体やヘルメット、ピットクルーの装備にロゴが初登場し、シーズン後半にはさらなる露出も予定されている。"
-      },
-      "es": {
-        "title": "Oracle Red Bull Racing renueva su patrocinio principal y suma a Indeed como nuevo socio en la F1",
-        "summary": "Red Bull Racing ha renovado su acuerdo de patrocinador principal con Oracle para la temporada 2026 de Fórmula 1, manteniendo el nombre Oracle Red Bull Racing sin revelar las condiciones económicas. El equipo también incorporó a la plataforma de empleo Indeed como nuevo patrocinador, con su marca debutando en los coches, cascos y el equipo de boxes de Max Verstappen e Isack Hadjar en el Gran Premio de China, con más presencia prevista más adelante en la temporada."
-      },
-      "zh": {
-        "title": "甲骨文红牛车队延长冠名赞助，新增Indeed作为新合作伙伴",
-        "summary": "红牛车队已就2026赛季F1续签与甲骨文的冠名合作协议，继续沿用“甲骨文红牛车队”名称，但未披露具体金额条款。车队同时宣布招聘平台Indeed成为新赞助商，其品牌标识已在中国大奖赛上首次出现在维斯塔潘和哈贾尔的赛车、头盔及维修团队装备上，赛季后续还将有更多曝光。"
-      },
-      "fr": {
-        "title": "Oracle Red Bull Racing prolonge son partenariat titre et ajoute Indeed comme nouveau sponsor en F1",
-        "summary": "Red Bull Racing a renouvelé son partenariat titre avec Oracle pour la saison 2026 de Formule 1, conservant le nom Oracle Red Bull Racing sans dévoiler les conditions financières. L'écurie a également ajouté la plateforme d'emploi Indeed comme nouveau sponsor, sa marque apparaissant pour la première fois sur les monoplaces, les casques et l'équipe des stands de Max Verstappen et Isack Hadjar lors du Grand Prix de Chine, avec une visibilité accrue prévue plus tard dans la saison."
-      }
-    }
-  },
-  {
-    "id": "mclaren-etihad-airways-partnership-2026",
-    "sport": "motorsports",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-02-05T00:00:00Z",
-    "source_name": "PlanetF1",
-    "source_url": "https://www.planetf1.com/news/mclaren-ferrari-sponsor-f1-2026-etihad-airways",
-    "i18n": {
-      "en": {
-        "title": "McLaren Confirms Multi-Year Partnership With Etihad Airways Ahead of 2026 F1 Season",
-        "summary": "McLaren has signed a multi-year commercial partnership with Etihad Airways, bringing the Abu Dhabi carrier on board as the team heads into the 2026 Formula 1 season. The deal adds to McLaren's growing sponsor roster as the reigning constructors' champion looks to convert on-track success into fresh off-track revenue."
-      },
-      "ja": {
-        "title": "マクラーレン、2026年F1シーズンに向けエティハド航空との複数年契約を発表",
-        "summary": "マクラーレンは、アブダビの航空会社エティハド航空との複数年にわたる商業パートナーシップを締結した。これにより、2026年F1シーズンに向けたチームの新たな取り組みが明らかになった。コンストラクターズチャンピオンを連覇中のチームは、コース上での成功をコース外の新たな収益につなげようとしており、今回の契約はスポンサー陣のさらなる拡大につながる。"
-      },
-      "es": {
-        "title": "McLaren confirma una alianza plurianual con Etihad Airways antes de la temporada 2026 de F1",
-        "summary": "McLaren ha firmado una asociación comercial plurianual con Etihad Airways, incorporando a la aerolínea de Abu Dabi justo cuando el equipo se prepara para la temporada 2026 de Fórmula 1. El acuerdo se suma a la creciente lista de patrocinadores de McLaren, mientras el vigente campeón de constructores busca convertir su éxito en pista en nuevos ingresos fuera de ella."
-      },
-      "zh": {
-        "title": "迈凌确认与阿提哈德航空达成多年合作，备战2026赛季F1",
-        "summary": "迈凌车队已与阿布扎比航空公司阿提哈德航空签署多年商业合作协议，这家航空公司正式加入车队，正值迈凌备战2026赛季F1。作为卫冕制造商冠军，车队希望把赛道上的成功转化为场外新的收入来源，此次合作也进一步扩充了迈凌的赞助商阵容。"
-      },
-      "fr": {
-        "title": "McLaren confirme un partenariat pluriannuel avec Etihad Airways avant la saison 2026 de F1",
-        "summary": "McLaren a signé un partenariat commercial pluriannuel avec Etihad Airways, intégrant la compagnie aérienne d'Abou Dabi alors que l'écurie aborde la saison 2026 de Formule 1. Cet accord vient s'ajouter au portefeuille de sponsors grandissant de McLaren, le champion du monde des constructeurs en titre cherchant à transformer ses succès en piste en nouveaux revenus hors piste."
-      }
-    }
-  },
-  {
-    "id": "mercedes-microsoft-f1-sponsorship-2026",
-    "sport": "motorsports",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "tech"
-    ],
-    "published_at": "2026-02-10T00:00:00Z",
-    "source_name": "Flashscore",
-    "source_url": "https://www.flashscore.com/news/motorsport-formula-1-mercedes-unveil-2026-formula-1-car-and-announce-major-microsoft-deal/EqCMiTb6",
-    "i18n": {
-      "en": {
-        "title": "Mercedes Pairs 2026 F1 Car Launch With Major Microsoft Partnership",
-        "summary": "Mercedes unveiled its 2026 Formula 1 car alongside the announcement of a new, large-scale sponsorship with Microsoft, adding a major technology partner to the team's commercial lineup for the season. Financial details were not disclosed, though outside estimates have suggested the agreement could be worth tens of millions of dollars annually."
-      },
-      "ja": {
-        "title": "メルセデス、2026年F1新車発表に合わせマイクロソフトとの大型契約を発表",
-        "summary": "メルセデスは2026年シーズン用F1マシンの発表に合わせ、マイクロソフトとの大規模な新スポンサー契約を発表し、今季の商業パートナー陣に大手テクノロジー企業を加えた。契約金額は公表されていないが、外部の推計では年間数千万ドル規模になる可能性があるとされている。"
-      },
-      "es": {
-        "title": "Mercedes combina el lanzamiento de su monoplaza de F1 2026 con una gran alianza con Microsoft",
-        "summary": "Mercedes presentó su monoplaza de Fórmula 1 para 2026 junto con el anuncio de un nuevo patrocinio a gran escala con Microsoft, sumando a un importante socio tecnológico a su cartera comercial para la temporada. No se revelaron detalles económicos, aunque estimaciones externas sugieren que el acuerdo podría valer decenas de millones de dólares al año."
-      },
-      "zh": {
-        "title": "梅赛德斯发布2026赛季F1赛车同时公布与微软的重磅合作",
-        "summary": "梅赛德斯在发布2026赛季F1赛车的同时，宣布与微软达成大规模新赞助合作，为车队本赛季的商业阵容增添了一家重要科技合作伙伴。双方未披露具体金额，但外界估算该协议年价值可能达数千万美元。"
-      },
-      "fr": {
-        "title": "Mercedes associe le lancement de sa monoplace 2026 à un important partenariat avec Microsoft",
-        "summary": "Mercedes a présenté sa monoplace de Formule 1 pour 2026 en même temps que l'annonce d'un nouveau partenariat de grande ampleur avec Microsoft, ajoutant un partenaire technologique majeur à son portefeuille commercial pour la saison. Les détails financiers n'ont pas été dévoilés, bien que des estimations externes évoquent un accord pouvant valoir plusieurs dizaines de millions de dollars par an."
-      }
-    }
-  },
-  {
-    "id": "audi-revolut-f1-title-partner-2026",
-    "sport": "motorsports",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-02-01T00:00:00Z",
-    "source_name": "RTR Sports",
-    "source_url": "https://rtrsports.com/en/blog/every-teams-title-sponsor-for-the-2026-formula-1-season/",
-    "i18n": {
-      "en": {
-        "title": "Audi's Debut F1 Season Arrives With Revolut as Title Partner",
-        "summary": "Audi's first season as a full Formula 1 constructor has brought digital finance app Revolut on board as the team's title partner, part of a broader sponsor rollout accompanying the German manufacturer's long-anticipated grid entry. The deal places Revolut's branding at the center of Audi's commercial push as it looks to build a presence beyond its home European markets."
-      },
-      "ja": {
-        "title": "アウディ、F1初参戦シーズンでレボリュートをタイトルパートナーに迎える",
-        "summary": "アウディがフルコンストラクターとして初めて迎えるF1シーズンでは、デジタル金融アプリのレボリュートがタイトルパートナーとして参画した。これは、長らく期待されていた同ドイツメーカーの参戦に合わせた幅広いスポンサー展開の一環である。この契約により、レボリュートのブランドはアウディの商業戦略の中心に据えられ、欧州の本拠地市場を超えた認知拡大を目指す。"
-      },
-      "es": {
-        "title": "La temporada debut de Audi en la F1 llega con Revolut como patrocinador principal",
-        "summary": "La primera temporada de Audi como constructor completo de Fórmula 1 ha incorporado a la aplicación de finanzas digitales Revolut como patrocinador principal del equipo, parte de un despliegue más amplio de patrocinadores que acompaña a la largamente esperada entrada del fabricante alemán en la parrilla. El acuerdo coloca la marca de Revolut en el centro de la estrategia comercial de Audi, que busca ganar presencia más allá de sus mercados europeos de origen."
-      },
-      "zh": {
-        "title": "奥迪F1首秀赛季迎来Revolut担任冠名合作伙伴",
-        "summary": "奥迪作为全资车队参加F1的首个赛季，引入了数字金融应用Revolut担任车队冠名合作伙伴，这是伴随这家德国制造商期待已久的参赛而展开的更广泛赞助计划的一部分。该协议使Revolut品牌成为奥迪商业推广的核心，公司希望借此在欧洲本土市场以外建立影响力。"
-      },
-      "fr": {
-        "title": "La première saison d'Audi en F1 s'accompagne de Revolut comme partenaire titre",
-        "summary": "La première saison d'Audi en tant que constructeur à part entière en Formule 1 a vu l'application de finance numérique Revolut rejoindre l'écurie comme partenaire titre, dans le cadre d'un déploiement plus large de sponsors accompagnant l'entrée très attendue du constructeur allemand sur la grille. L'accord place la marque Revolut au cœur de la stratégie commerciale d'Audi, qui cherche à se faire connaître au-delà de ses marchés européens d'origine."
-      }
-    }
-  },
-  {
-    "id": "msg-cisco-network-partnership-2025",
-    "sport": "general",
-    "region": "global",
-    "topics": [
-      "tech",
-      "stadium",
-      "sponsor"
-    ],
-    "published_at": "2025-12-03T00:00:00Z",
-    "source_name": "Cisco Newsroom",
-    "source_url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2025/m12/madison-square-garden-entertainment-and-cisco-announce-multi-year-partnership-making-cisco-an-official-partner-of-the-world-most-famous-arena.html",
-    "i18n": {
-      "en": {
-        "title": "Madison Square Garden Taps Cisco for Multi-Year Arena Network Overhaul",
-        "summary": "MSG Entertainment named Cisco an official partner in a new multi-year deal aimed at modernizing the arena's digital backbone with AI-ready data-center hardware and upgraded wireless systems. Financial terms were not disclosed, and Cisco said the partnership would explore further integration of its technology across the venue going forward."
-      },
-      "ja": {
-        "title": "マディソン・スクエア・ガーデン、複数年のアリーナ通信網改修でシスコと提携",
-        "summary": "MSGエンターテインメントは、AI対応のデータセンター機器や無線システムの刷新によりアリーナのデジタル基盤を現代化することを目的とした複数年契約で、シスコを公式パートナーに指名した。契約金額は公表されていないが、シスコ側は今後、会場全体における自社技術のさらなる統合の可能性を探っていくとしている。"
-      },
-      "es": {
-        "title": "Madison Square Garden recurre a Cisco para una renovación plurianual de la red del recinto",
-        "summary": "MSG Entertainment nombró a Cisco socio oficial en un nuevo acuerdo plurianual destinado a modernizar la infraestructura digital del recinto con hardware de centro de datos preparado para IA y sistemas inalámbricos mejorados. No se revelaron las condiciones económicas, y Cisco señaló que la alianza explorará una mayor integración de su tecnología en todo el recinto de cara al futuro."
-      },
-      "zh": {
-        "title": "麦迪逊广场花园携手思科进行多年期场馆网络升级",
-        "summary": "MSG娱乐公司在一项新的多年期协议中指定思科为官方合作伙伴，旨在通过支持人工智能的数据中心硬件和升级的无线系统，对场馆的数字基础设施进行现代化改造。双方未披露具体金额，思科表示未来将探索在整个场馆范围内进一步整合其技术的可能性。"
-      },
-      "fr": {
-        "title": "Le Madison Square Garden fait appel à Cisco pour une refonte pluriannuelle du réseau de la salle",
-        "summary": "MSG Entertainment a désigné Cisco comme partenaire officiel dans un nouvel accord pluriannuel visant à moderniser l'infrastructure numérique de la salle avec du matériel de centre de données prêt pour l'IA et des systèmes sans fil améliorés. Les conditions financières n'ont pas été dévoilées, et Cisco a indiqué que le partenariat explorerait une intégration plus poussée de sa technologie dans l'ensemble du site à l'avenir."
-      }
-    }
-  },
-  {
-    "id": "gt-football-veritiv-jersey-patch-2026",
-    "sport": "football",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "team"
-    ],
-    "published_at": "2026-09-03T00:00:00Z",
-    "source_name": "Atlanta Journal-Constitution",
-    "source_url": "https://www.ajc.com/sports/2026/09/georgia-tech-football-will-debut-new-jersey-patch-during-season-opener/",
-    "i18n": {
-      "en": {
-        "title": "Georgia Tech Names Veritiv as Football's First-Ever Jersey Patch Sponsor",
-        "summary": "Georgia Tech has signed Atlanta-based packaging and sustainability firm Veritiv as a multi-year partner, making it the football program's first jersey patch sponsor. The logo debuted on Yellow Jackets uniforms in the season opener against Colorado, and Veritiv also becomes the athletics department's official sustainability partner. Georgia Tech said additional jersey patch deals for other sports are expected in the coming months."
-      },
-      "ja": {
-        "title": "ジョージア工科大、ベリティブとフットボール初のジャージパッチ契約",
-        "summary": "ジョージア工科大学は、アトランタを拠点とする包装・サステナビリティ企業ベリティブと複数年契約を結び、フットボールチーム初のジャージパッチスポンサーに迎えた。ロゴはコロラド大学との開幕戦でイエロージャケッツのユニフォームに初めて登場し、ベリティブは athletics部門の公式サステナビリティパートナーにも就任した。同大学は今後数か月以内に他競技でも同様のパッチ契約を発表する見込みだと述べている。"
-      },
-      "es": {
-        "title": "Georgia Tech nombra a Veritiv primer patrocinador de parche de camiseta de fútbol americano",
-        "summary": "Georgia Tech ha firmado con la empresa de embalaje y sostenibilidad Veritiv, con sede en Atlanta, un acuerdo plurianual que la convierte en el primer patrocinador de parche de camiseta del equipo de fútbol americano. El logotipo debutó en los uniformes de los Yellow Jackets en el partido inaugural ante Colorado, y Veritiv también se convirtió en socio oficial de sostenibilidad del departamento deportivo. La universidad señaló que prevé anunciar acuerdos similares para otros deportes en los próximos meses."
-      },
-      "zh": {
-        "title": "乔治亚理工签下Veritiv 成为橄榄球队史上首个球衣贴标赞助商",
-        "summary": "乔治亚理工学院与总部位于亚特兰大的包装及可持续发展企业Veritiv签署多年期合作协议,使其成为该校橄榄球队历史上首个球衣贴标赞助商。该标志在对阵科罗拉多大学的赛季揭幕战中首次亮相于黄夹克队球衣上,Veritiv同时成为校体育部官方可持续发展合作伙伴。校方表示未来几个月还将公布其他项目的类似贴标协议。"
-      },
-      "fr": {
-        "title": "Georgia Tech fait de Veritiv son tout premier sponsor d'écusson de maillot en football",
-        "summary": "Georgia Tech a signé un partenariat pluriannuel avec Veritiv, entreprise d'emballage et de développement durable basée à Atlanta, qui devient ainsi le tout premier sponsor d'écusson de maillot du programme de football américain. Le logo a fait ses débuts sur les maillots des Yellow Jackets lors du match d'ouverture face à Colorado, et Veritiv devient également partenaire officiel du développement durable du département sportif. L'université a indiqué que d'autres accords d'écusson pour d'autres sports devraient être annoncés dans les prochains mois."
-      }
-    }
-  },
-  {
-    "id": "alpine-gucci-f1-title-partner-2027",
-    "sport": "motorsports",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2026-05-27T00:00:00Z",
-    "source_name": "The Race",
-    "source_url": "https://the-race.com/formula-1/alpine-brings-gucci-into-f1-as-new-title-sponsor/",
-    "i18n": {
-      "en": {
-        "title": "Gucci to Become Alpine F1 Title Sponsor From 2027 in Reported $150M-Plus Deal",
-        "summary": "Alpine's Formula 1 team announced that Italian luxury house Gucci will become its title partner from the 2027 season, with the team set to race as \"Gucci Racing Alpine Formula One Team.\" Outside estimates value the multi-year deal at more than $150 million, though Alpine has not disclosed official financial terms. The partnership also launches a \"Gucci Racing\" division covering content, hospitality and client activations, succeeding Alpine's longtime title sponsor BWT."
-      },
-      "ja": {
-        "title": "グッチ、2027年からアルピーヌF1の冠スポンサーに 契約額1.5億ドル超の報道",
-        "summary": "アルピーヌのF1チームは、イタリアの高級ブランド「グッチ」が2027年シーズンから冠スポンサーとなり、チームは「グッチ・レーシング・アルピーヌ・フォーミュラワン・チーム」として参戦すると発表した。外部の試算ではこの複数年契約は1億5000万ドル超とされているが、アルピーヌは公式な金額を明らかにしていない。この提携ではコンテンツやホスピタリティ、顧客向け施策を手がける「グッチ・レーシング」部門も新設され、長年の冠スポンサーであったBWTから引き継がれる形となる。"
-      },
-      "es": {
-        "title": "Gucci será el patrocinador principal de Alpine en F1 desde 2027 en un acuerdo valorado en más de 150 millones de dólares",
-        "summary": "El equipo de Fórmula 1 de Alpine anunció que la casa de lujo italiana Gucci se convertirá en su patrocinador principal a partir de la temporada 2027, y el equipo competirá como \"Gucci Racing Alpine Formula One Team\". Estimaciones externas valoran el acuerdo plurianual en más de 150 millones de dólares, aunque Alpine no ha revelado las condiciones económicas oficiales. La alianza también da origen a una división llamada \"Gucci Racing\", dedicada a contenidos, hospitalidad y activaciones para clientes, y sucede a BWT, el patrocinador principal histórico de Alpine."
-      },
-      "zh": {
-        "title": "古驰将从2027赛季起成为阿尔派F1冠名赞助商 据报协议价值逾1.5亿美元",
-        "summary": "阿尔派F1车队宣布,意大利奢侈品牌古驰(Gucci)将从2027赛季起成为车队冠名赞助商,车队届时将以“古驰赛车阿尔派一级方程式车队”的名义参赛。外部估算这项多年期协议价值超过1.5亿美元,但阿尔派并未公布官方金额。此次合作还将设立“古驰赛车”部门,涉及内容制作、款待活动及客户互动,并接替阿尔派长期冠名赞助商BWT的位置。"
-      },
-      "fr": {
-        "title": "Gucci deviendra sponsor titre d'Alpine en F1 dès 2027, un accord estimé à plus de 150 millions de dollars",
-        "summary": "L'écurie de Formule 1 Alpine a annoncé que la maison de luxe italienne Gucci deviendra son sponsor titre à partir de la saison 2027, l'équipe courant sous le nom de « Gucci Racing Alpine Formula One Team ». Des estimations externes évaluent cet accord pluriannuel à plus de 150 millions de dollars, bien qu'Alpine n'ait pas communiqué de montant officiel. Le partenariat lance également une division « Gucci Racing » consacrée au contenu, à l'hospitalité et aux activations clients, et succède à BWT, sponsor titre historique d'Alpine."
-      }
-    }
-  },
-  {
-    "id": "wnba-2026-valuations-report-sportico",
-    "sport": "basketball",
-    "region": "global",
-    "topics": [
-      "biz"
-    ],
-    "published_at": "2026-08-03T00:00:00Z",
-    "source_name": "Front Office Sports",
-    "source_url": "https://frontofficesports.com/womens-sports-valuations-wnba-could-catch-the-nhl-nwsl/",
-    "i18n": {
-      "en": {
-        "title": "WNBA Franchise Values Jump 59% in 2026, Valkyries Top League at $850 Million",
-        "summary": "A new valuation report shows WNBA franchise values climbing 59% in 2026, with the league's 15 teams averaging roughly $427 million apiece. The Golden State Valkyries topped the rankings at $850 million, reflecting surging attendance, media rights and sponsorship revenue across women's basketball. The report frames the WNBA's growth trajectory as on pace to rival established men's leagues like the NHL in franchise worth."
-      },
-      "ja": {
-        "title": "WNBA球団価値、2026年は59%上昇 ヴァルキリーズが8.5億ドルで首位",
-        "summary": "新たな評価レポートによると、2026年のWNBA球団価値は前年比59%上昇し、リーグ15球団の平均評価額は約4億2700万ドルに達した。ゴールデンステート・ヴァルキリーズは8億5000万ドルで首位となり、女子バスケットボール界全体で観客動員、メディア権料、スポンサー収入が急伸していることを反映した結果となった。レポートはWNBAの成長軌道がNHLのような既存の男子プロリーグに迫る勢いだと位置づけている。"
-      },
-      "es": {
-        "title": "El valor de las franquicias de la WNBA sube un 59% en 2026; las Valkyries lideran con 850 millones de dólares",
-        "summary": "Un nuevo informe de valoraciones muestra que el valor de las franquicias de la WNBA subió un 59% en 2026, con los 15 equipos de la liga promediando unos 427 millones de dólares cada uno. Las Golden State Valkyries encabezaron la clasificación con 850 millones de dólares, lo que refleja el fuerte aumento de la asistencia, los derechos de medios y los ingresos por patrocinio en el baloncesto femenino. El informe sitúa la trayectoria de crecimiento de la WNBA en camino de acercarse al valor de franquicias de ligas masculinas consolidadas como la NHL."
-      },
-      "zh": {
-        "title": "WNBA球队估值2026年飙升59% 勇士队以8.5亿美元领跑联盟",
-        "summary": "一份最新估值报告显示,2026年WNBA球队估值同比上涨59%,联盟15支球队平均估值约为4.27亿美元。金州勇士队(Valkyries)以8.5亿美元位居榜首,反映出女子篮球领域在上座率、媒体版权和赞助收入方面的强劲增长。报告认为WNBA的增长势头有望赶上NHL等成熟男子联赛的球队估值水平。"
-      },
-      "fr": {
-        "title": "La valeur des franchises WNBA bondit de 59 % en 2026, les Valkyries en tête à 850 millions de dollars",
-        "summary": "Un nouveau rapport d'évaluation montre que la valeur des franchises de la WNBA a bondi de 59 % en 2026, les 15 équipes de la ligue valant en moyenne environ 427 millions de dollars chacune. Les Valkyries de Golden State arrivent en tête avec 850 millions de dollars, reflet de la forte hausse de l'affluence, des droits médias et des revenus de sponsoring dans le basket féminin. Le rapport situe la trajectoire de croissance de la WNBA sur une voie qui pourrait rivaliser avec des ligues masculines établies comme la LNH en termes de valeur des franchises."
-      }
-    }
-  },
-  {
-    "id": "consadole-sapporo-noguchi-kanko-partner-2026",
-    "sport": "soccer",
-    "region": "japan",
-    "topics": [
-      "sponsor",
-      "team"
-    ],
-    "published_at": "2026-10-16T17:54:30Z",
-    "source_name": "PR TIMES",
-    "source_url": "https://koubo.jp/press-release/prtimes/c19483_r1839",
-    "i18n": {
-      "en": {
-        "title": "Hot Spring Resort Operator Noguchi Kanko Signs Club Partner Deal With Consadole Sapporo",
-        "summary": "Hokkaido-based hot spring resort operator Noguchi Kanko Group has signed a club partner agreement with J2/J3 side Hokkaido Consadole Sapporo covering the 2026/2027 season. The company said it was drawn to the club's philosophy and willingness to keep challenging itself, and the announcement notes Consadole will mark its 30th anniversary in April 2026. The deal adds a regional hospitality brand to the club's roster of commercial partners ahead of a milestone season."
-      },
-      "ja": {
-        "title": "野口観光グループ、コンサドーレ札幌とクラブパートナー契約を締結",
-        "summary": "北海道の温泉旅館グループ、野口観光グループが、明治安田J2・J3所属の北海道コンサドーレ札幌と2026/2027シーズンのクラブパートナー契約を締結した。同社はクラブの理念や挑戦し続ける姿勢に共感したとしており、発表ではコンサドーレが2026年4月に創設30周年を迎えることにも触れている。節目のシーズンを前に、地域の観光ブランドがクラブの協賛企業に加わる形となった。"
-      },
-      "es": {
-        "title": "El operador de balnearios termales Noguchi Kanko firma un acuerdo de socio de club con el Consadole Sapporo",
-        "summary": "El grupo hotelero de aguas termales con sede en Hokkaido, Noguchi Kanko Group, ha firmado un acuerdo de socio de club con el Hokkaido Consadole Sapporo, de las categorías J2/J3, para la temporada 2026/2027. La empresa señaló que se sintió atraída por la filosofía del club y su disposición a seguir superándose, y el anuncio menciona que Consadole celebrará su 30º aniversario en abril de 2026. El acuerdo suma una marca hotelera regional a la cartera de patrocinadores del club de cara a una temporada especial."
-      },
-      "zh": {
-        "title": "温泉度假村运营商野口观光与札幌冈萨多签署俱乐部合作伙伴协议",
-        "summary": "总部位于北海道的温泉度假村运营商野口观光集团与隶属J2/J3级别的北海道札幌冈萨多签署了涵盖2026/2027赛季的俱乐部合作伙伴协议。该公司表示认同俱乐部的理念及不断挑战自我的态度,官宣中还提到札幌冈萨多将于2026年4月迎来成立30周年。在具有纪念意义的赛季来临之际,这家地区性旅游品牌加入了俱乐部的赞助商阵容。"
-      },
-      "fr": {
-        "title": "L'exploitant de sources chaudes Noguchi Kanko signe un partenariat de club avec le Consadole Sapporo",
-        "summary": "Le groupe hôtelier d'eaux thermales basé à Hokkaido, Noguchi Kanko Group, a signé un accord de partenariat de club avec le Hokkaido Consadole Sapporo, évoluant en J2/J3, couvrant la saison 2026/2027. L'entreprise a indiqué avoir été séduite par la philosophie du club et sa volonté de se dépasser, l'annonce précisant que Consadole fêtera son 30e anniversaire en avril 2026. Cet accord ajoute une marque d'hospitalité régionale au portefeuille de partenaires commerciaux du club à l'aube d'une saison symbolique."
-      }
-    }
-  },
-  {
-    "id": "bleague-2025-26-record-attendance",
-    "sport": "basketball",
-    "region": "japan",
-    "topics": [
-      "fan",
-      "biz"
-    ],
-    "published_at": "2026-06-30T00:00:00Z",
-    "source_name": "Kyodo News",
-    "source_url": "https://kumanichi.com/articles/2008588",
-    "i18n": {
-      "en": {
-        "title": "Japan's B.League Reports Record 5.48 Million Attendance for 2025-26 Season",
-        "summary": "Japan's B.League announced that combined B1 and B2 attendance for the 2025-26 season, including playoffs and the All-Star Game, reached a record 5.48 million, up roughly 630,000 from the prior season. The league noted both divisions have now more than doubled attendance since its founding a decade ago. A later correction adjusted the regular-season-only combined figure to about 5.25 million, with B2's average settling at roughly 3,020 fans per game."
-      },
-      "ja": {
-        "title": "Bリーグ、2025-26シーズン入場者数が過去最多の548万人に",
-        "summary": "日本のBリーグは、プレーオフやオールスターゲームを含む2025-26シーズンのB1・B2合計入場者数が過去最多の548万人に達し、前シーズンから約63万人増加したと発表した。リーグは創設から10シーズン目で、両カテゴリーとも初年度の2倍を超える規模になったとしている。その後の訂正でレギュラーシーズンのみの合計入場者数は約525万人に修正され、B2の平均入場者数は1試合あたり約3020人とされた。"
-      },
-      "es": {
-        "title": "La B.League japonesa registra una asistencia récord de 5,48 millones en la temporada 2025-26",
-        "summary": "La B.League de Japón anunció que la asistencia combinada de B1 y B2 en la temporada 2025-26, incluidos los playoffs y el Juego de Estrellas, alcanzó un récord de 5,48 millones de espectadores, unos 630.000 más que la temporada anterior. La liga señaló que ambas divisiones han más que duplicado la asistencia desde su fundación hace una década. Una corrección posterior ajustó la cifra combinada de solo la temporada regular a unos 5,25 millones, con un promedio en B2 de alrededor de 3.020 aficionados por partido."
-      },
-      "zh": {
-        "title": "日本B联赛公布2025-26赛季入场人数创纪录达548万人次",
-        "summary": "日本B联赛宣布,包含季后赛和全明星赛在内的2025-26赛季B1、B2联赛合计入场人数创纪录达到548万人次,较上赛季增加约63万人次。联赛表示,成立十个赛季以来两个级别的入场人数均已实现翻倍以上增长。随后的更正将仅限常规赛的合计入场人数调整为约525万人次,B2场均入场人数约为3020人。"
-      },
-      "fr": {
-        "title": "La B.League japonaise annonce une fréquentation record de 5,48 millions pour 2025-26",
-        "summary": "La B.League japonaise a annoncé que la fréquentation combinée de B1 et B2 pour la saison 2025-26, playoffs et match des étoiles inclus, a atteint un record de 5,48 millions de spectateurs, soit environ 630 000 de plus que la saison précédente. La ligue a souligné que les deux divisions ont plus que doublé leur fréquentation depuis sa création il y a dix saisons. Une correction ultérieure a ramené le total de la seule saison régulière à environ 5,25 millions, avec une moyenne en B2 d'environ 3 020 spectateurs par match."
-      }
-    }
-  },
-  {
-    "id": "nascar-freeway-insurance-premier-partner-2026",
-    "sport": "motorsports",
-    "region": "global",
-    "topics": [
-      "sponsor"
-    ],
-    "published_at": "2025-10-31T00:00:00Z",
-    "source_name": "NASCAR.com",
-    "source_url": "https://www.nascar.com/news-media/2025/10/31/freeway-insurance-joins-nascar-as-premier-partner-in-cup-series/",
-    "i18n": {
-      "en": {
-        "title": "Freeway Insurance Becomes NASCAR's Fourth Premier Partner for 2026",
-        "summary": "NASCAR named Freeway Insurance its fourth Premier Partner in the Cup Series, joining Coca-Cola, Busch Light and Xfinity under a new multiyear agreement beginning with the 2026 season. The deal also hands Freeway title-sponsor rights to the fall Cup Series race at Phoenix Raceway, which becomes the Freeway Insurance 500 on October 18, 2026. Freeway's existing sponsorship of driver Daniel Suarez, who moves to Spire Motorsports' No. 7 Chevrolet in 2026, carries over into the new partnership."
-      },
-      "ja": {
-        "title": "フリーウェイ・インシュアランス、NASCAR4番目のプレミアパートナーに",
-        "summary": "NASCARは、フリーウェイ・インシュアランスをカップシリーズの4番目のプレミアパートナーに指名し、コカ・コーラやブッシュ・ライト、エクスフィニティに加わる複数年契約が2026年シーズンから開始されると発表した。この契約により、フリーウェイはフェニックス・レースウェイで行われる秋のカップシリーズレースの冠スポンサー権も獲得し、2026年10月18日の同レースは「フリーウェイ・インシュアランス500」となる。2026年にスパイア・モータースポーツの7号車に移籍するドライバー、ダニエル・スアレスへの既存のスポンサー契約も新たな提携に引き継がれる。"
-      },
-      "es": {
-        "title": "Freeway Insurance se convierte en el cuarto Premier Partner de NASCAR para 2026",
-        "summary": "NASCAR nombró a Freeway Insurance su cuarto Premier Partner en la Cup Series, uniéndose a Coca-Cola, Busch Light y Xfinity en un nuevo acuerdo plurianual que comenzará con la temporada 2026. El acuerdo también otorga a Freeway los derechos de patrocinador principal de la carrera de otoño de la Cup Series en Phoenix Raceway, que pasará a llamarse Freeway Insurance 500 el 18 de octubre de 2026. El patrocinio existente de Freeway al piloto Daniel Suarez, quien pasa al Chevrolet número 7 de Spire Motorsports en 2026, se mantiene dentro de la nueva alianza."
-      },
-      "zh": {
-        "title": "Freeway Insurance成为NASCAR第四家首席合作伙伴 2026年生效",
-        "summary": "NASCAR宣布Freeway Insurance成为杯赛系列第四家“首席合作伙伴”,与可口可乐、Busch Light和Xfinity并列,新的多年期协议将从2026赛季开始生效。该协议还授予Freeway凤凰城赛道秋季杯赛的冠名赞助权,2026年10月18日的这场比赛将更名为“Freeway Insurance 500”。车手丹尼尔·苏亚雷斯(2026年将转投Spire车队7号雪佛兰)原有的Freeway赞助关系也将延续至新合作中。"
-      },
-      "fr": {
-        "title": "Freeway Insurance devient le quatrième Premier Partner de NASCAR pour 2026",
-        "summary": "NASCAR a désigné Freeway Insurance comme son quatrième Premier Partner de la Cup Series, rejoignant Coca-Cola, Busch Light et Xfinity dans le cadre d'un nouvel accord pluriannuel débutant avec la saison 2026. L'accord confère également à Freeway les droits de sponsor titre de la course d'automne de la Cup Series à Phoenix Raceway, rebaptisée Freeway Insurance 500 le 18 octobre 2026. Le partenariat existant de Freeway avec le pilote Daniel Suarez, qui rejoint la Chevrolet n°7 de Spire Motorsports en 2026, se poursuit dans ce nouvel accord."
-      }
-    }
-  },
-  {
-    "id": "algs-year5-championship-sapporo-sponsors-2026",
-    "sport": "esports",
-    "region": "japan",
-    "topics": [
-      "sponsor",
-      "fan"
-    ],
-    "published_at": "2025-12-23T00:00:00Z",
-    "source_name": "Inven Global",
-    "source_url": "https://www.invenglobal.com/articles/20080/apex-legends-global-series-year-5-championship-reveals-partners-brings-major-esports-event-to-sapporo-in-2026",
-    "i18n": {
-      "en": {
-        "title": "Apex Legends Global Series Year 5 Championship Reveals Sponsor Lineup for Sapporo",
-        "summary": "Organizers unveiled a broad sponsor and partner lineup for the Apex Legends Global Series Year 5 Championship, held January 15-18, 2026 at Sapporo's Daiwa House PREMIST DOME. EA named Sony INZONE, Red Bull, Razer, Google Play and GALLERIA among the global partners, while Japanese companies including Hokkaido Electric Power, BEAMS and NTT East joined as regional supporters contributing infrastructure, merchandise and local flavor. The event marked one of the largest esports gatherings yet held in Hokkaido."
-      },
-      "ja": {
-        "title": "「ALGS」イヤー5チャンピオンシップ、札幌大会のスポンサー陣を発表",
-        "summary": "2026年1月15日から18日まで札幌の大和ハウスプレミストドームで開催された「Apex Legends Global Series」イヤー5チャンピオンシップについて、主催者は幅広いスポンサー・パートナー陣を発表した。EAはソニーのINZONE、レッドブル、Razer、Google Play、GALLERIAなどをグローバルパートナーとして挙げ、北海道電力やBEAMS、NTT東日本といった日本企業も、インフラや物販、地域色の演出を担う地域パートナーとして参加した。本大会は北海道で開催された最大級のeスポーツイベントの一つとなった。"
-      },
-      "es": {
-        "title": "El Apex Legends Global Series Year 5 Championship revela sus patrocinadores para Sapporo",
-        "summary": "Los organizadores revelaron una amplia lista de patrocinadores y socios para el Apex Legends Global Series Year 5 Championship, celebrado del 15 al 18 de enero de 2026 en el Daiwa House PREMIST DOME de Sapporo. EA nombró a Sony INZONE, Red Bull, Razer, Google Play y GALLERIA entre los socios globales, mientras que empresas japonesas como Hokkaido Electric Power, BEAMS y NTT East se sumaron como patrocinadores regionales, aportando infraestructura, mercancía y ambientación local. El evento fue uno de los mayores encuentros de esports celebrados hasta ahora en Hokkaido."
-      },
-      "zh": {
-        "title": "《Apex英雄全球系列赛》第五年总决赛公布札幌站赞助商阵容",
-        "summary": "主办方公布了2026年1月15日至18日在札幌大和房屋PREMIST巨蛋举行的《Apex英雄全球系列赛》第五年总决赛的广泛赞助商及合作伙伴名单。EA公布索尼INZONE、红牛、雷蛇、Google Play和GALLERIA等全球合作伙伴,北海道电力、BEAMS和NTT东日本等日本企业则作为区域合作伙伴加入,分别提供基础设施、周边商品及地方特色支持。此次赛事成为迄今在北海道举办的规模最大的电竞赛事之一。"
-      },
-      "fr": {
-        "title": "La Apex Legends Global Series Year 5 Championship dévoile ses sponsors pour Sapporo",
-        "summary": "Les organisateurs ont dévoilé une large liste de sponsors et partenaires pour la Apex Legends Global Series Year 5 Championship, organisée du 15 au 18 janvier 2026 au Daiwa House PREMIST DOME de Sapporo. EA a cité Sony INZONE, Red Bull, Razer, Google Play et GALLERIA parmi les partenaires mondiaux, tandis que des entreprises japonaises comme Hokkaido Electric Power, BEAMS et NTT East ont rejoint l'événement en tant que partenaires régionaux, apportant infrastructure, produits dérivés et couleur locale. L'événement a constitué l'un des plus grands rassemblements esport jamais organisés à Hokkaido."
-      }
-    }
-  },
-  {
-    "id": "moet-chandon-australian-gp-title-sponsor-2027",
-    "sport": "motorsports",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-09-21T00:00:00Z",
-    "source_name": "B&T",
-    "source_url": "https://www.bandt.com.au/moet-chandon-cheers-to-australian-f1-naming-rights/",
-    "i18n": {
-      "en": {
-        "title": "Moët & Chandon Named Title Sponsor of 2027 Australian Grand Prix",
-        "summary": "LVMH-owned champagne house Moët & Chandon will take over the naming rights to Melbourne's Formula 1 race from 2027, replacing Qatar Airways. The race moves to round three of the calendar and adds a sprint format for the first time, with Moët already holding the title partnership of the Belgian Grand Prix. The Australian Grand Prix Corporation confirmed the agreement, continuing LVMH's wider long-term partnership with Formula 1."
-      },
-      "ja": {
-        "title": "モエ・エ・シャンドン、2027年F1オーストラリアGPのタイトルスポンサーに",
-        "summary": "LVMH傘下のシャンパンブランド、モエ・エ・シャンドンが2027年からメルボルンで開催されるF1レースの冠スポンサー権を獲得し、カタール航空から引き継ぐことになった。同レースはカレンダー上で第3戦に移動し、初めてスプリント形式も導入される見込みで、同社は既にベルギーGPのタイトルパートナーも務めている。オーストラリアGP運営団体が契約を正式に発表した。"
-      },
-      "es": {
-        "title": "Moët & Chandon, nuevo patrocinador principal del GP de Australia 2027",
-        "summary": "La casa de champán Moët & Chandon, propiedad de LVMH, asumirá los derechos de denominación del Gran Premio de Melbourne a partir de 2027, en sustitución de Qatar Airways. La carrera pasa a ser la tercera cita del calendario e incorporará por primera vez formato sprint, mientras la marca ya patrocina el Gran Premio de Bélgica. El organismo del Gran Premio de Australia confirmó el acuerdo dentro de la alianza más amplia de LVMH con la Fórmula 1."
-      },
-      "zh": {
-        "title": "酩悦香槟成为2027年澳大利亚大奖赛冠名赞助商",
-        "summary": "LVMH旗下香槟品牌酩悦将从2027年起接替卡塔尔航空,获得墨尔本F1大奖赛的冠名权。该站比赛将移至赛历第三站,并首次引入短程冲刺赛,而酩悦此前已是比利时大奖赛的冠名合作伙伴。澳大利亚大奖赛主办方证实了这项协议,延续了LVMH与F1之间更广泛的长期合作关系。"
-      },
-      "fr": {
-        "title": "Moët & Chandon devient sponsor-titre du Grand Prix d'Australie 2027",
-        "summary": "La maison de champagne Moët & Chandon, propriété de LVMH, reprendra les droits de dénomination du Grand Prix de Melbourne à partir de 2027, succédant à Qatar Airways. La course devient la troisième manche du calendrier et accueillera pour la première fois un format sprint, alors que la maison est déjà partenaire-titre du Grand Prix de Belgique. L'organisation du Grand Prix d'Australie a confirmé l'accord, qui s'inscrit dans le partenariat global de LVMH avec la Formule 1."
-      }
-    }
-  },
-  {
-    "id": "msc-cruises-f1-three-2027-races-title-sponsor",
-    "sport": "motorsports",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-09-23T00:00:00Z",
-    "source_name": "Cruise Industry News",
-    "source_url": "https://cruiseindustrynews.com/cruise-news/2026/09/msc-cruises-title-sponsor-of-3-2027-formula-one-races/",
-    "i18n": {
-      "en": {
-        "title": "MSC Cruises Named Title Sponsor of Three 2027 Formula 1 Races",
-        "summary": "MSC Cruises will serve as title sponsor of the Belgian, Turkish and Portuguese Grands Prix in 2027, marking the second straight year the cruise line has fronted three races on the calendar. The deal extends a partnership with Formula 1 that began in 2022 and now runs through 2030, with sister brand Explora Journeys also getting trackside branding at selected events."
-      },
-      "ja": {
-        "title": "MSCクルーズ、2027年F13レースのタイトルスポンサーに決定",
-        "summary": "MSCクルーズが2027年のベルギー、トルコ、ポルトガルの各グランプリでタイトルスポンサーを務めることが発表された。同社がカレンダー上の3レースの冠協賛を担うのは2年連続となる。2022年に始まったF1との提携は2030年まで延長されており、姉妹ブランドのエクスプローラ・ジャーニーズも一部レースでトラックサイドのブランディングを行う予定だ。"
-      },
-      "es": {
-        "title": "MSC Cruceros, patrocinador principal de tres carreras de F1 en 2027",
-        "summary": "MSC Cruceros será el patrocinador principal de los Grandes Premios de Bélgica, Turquía y Portugal en 2027, por segundo año consecutivo al frente de tres carreras del calendario. El acuerdo amplía una alianza con la Fórmula 1 iniciada en 2022 y vigente ahora hasta 2030, con la marca hermana Explora Journeys recibiendo también presencia publicitaria en pista en citas seleccionadas."
-      },
-      "zh": {
-        "title": "MSC地中海邮轮成为2027年三场F1大奖赛冠名赞助商",
-        "summary": "MSC地中海邮轮将成为2027年比利时、土耳其和葡萄牙大奖赛的冠名赞助商,这是该邮轮公司连续第二年为赛历中的三场比赛冠名。该协议延续了其与F1自2022年开始、现已延长至2030年的合作关系,姊妹品牌Explora Journeys也将在部分赛事中获得赛道边广告露出。"
-      },
-      "fr": {
-        "title": "MSC Croisières, sponsor-titre de trois courses de F1 en 2027",
-        "summary": "MSC Croisières sera le sponsor-titre des Grands Prix de Belgique, de Turquie et du Portugal en 2027, une deuxième année consécutive où la compagnie soutient trois courses du calendrier. L'accord prolonge un partenariat avec la Formule 1 débuté en 2022 et courant désormais jusqu'en 2030, la marque sœur Explora Journeys bénéficiant aussi d'une visibilité au bord de la piste lors de certaines épreuves."
-      }
-    }
-  },
-  {
-    "id": "illinois-busey-bank-sponsorship-2026",
-    "sport": "football",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-07-30T00:00:00Z",
-    "source_name": "Athletic Business",
-    "source_url": "https://www.athleticbusiness.com/operations/marketing/article/15830979/university-of-illinois-signs-30m-jersey-patch-sponsorship-deal-with-busey-bank",
-    "i18n": {
-      "en": {
-        "title": "Illinois Athletics Signs $30 Million Sponsorship Deal With Busey Bank",
-        "summary": "The University of Illinois has agreed to a five-year, $30 million sponsorship with Busey Bank covering jersey patches across nine varsity sports and naming the bank as the athletic department's official financial-services partner. The contract, running through mid-2031, also includes road-trip access for bank executives and a handful of paid student-athlete appearances arranged through Learfield."
-      },
-      "ja": {
-        "title": "イリノイ大学、バジー・バンクと3000万ドルのスポンサー契約締結",
-        "summary": "イリノイ大学の athletics 部門は、バジー・バンクと5年間3000万ドル規模のスポンサー契約を結び、9つの運動部のユニフォームパッチ掲出権と大学の公式金融サービスパートナーの地位を同行に与えることになった。契約は2031年半ばまで続き、銀行幹部の遠征帯同や、ラーンフィールドを通じた学生アスリートの有償出演も含まれている。"
-      },
-      "es": {
-        "title": "Illinois firma un patrocinio de 30 millones de dólares con Busey Bank",
-        "summary": "El departamento deportivo de la Universidad de Illinois acordó un patrocinio de cinco años y 30 millones de dólares con Busey Bank, que incluye parches en las camisetas de nueve deportes universitarios y el nombramiento del banco como socio oficial de servicios financieros. El contrato, vigente hasta mediados de 2031, contempla además viajes para ejecutivos del banco y apariciones remuneradas de deportistas gestionadas por Learfield."
-      },
-      "zh": {
-        "title": "伊利诺伊大学与Busey银行签署3000万美元赞助协议",
-        "summary": "伊利诺伊大学体育部与Busey银行达成为期五年、总额3000万美元的赞助协议,内容涵盖九个校队项目的球衣广告贴及该行作为官方金融服务合作伙伴的身份。合同持续至2031年年中,还包括银行高管随队客场出行以及通过Learfield安排的学生运动员有偿露面活动。"
-      },
-      "fr": {
-        "title": "L'université de l'Illinois signe un partenariat de 30 millions de dollars avec Busey Bank",
-        "summary": "Le département sportif de l'université de l'Illinois a conclu un partenariat de cinq ans, d'une valeur de 30 millions de dollars, avec Busey Bank, incluant des patchs publicitaires sur les maillots de neuf équipes universitaires et le statut de partenaire officiel des services financiers. Le contrat, qui court jusqu'à la mi-2031, prévoit aussi des déplacements pour des cadres de la banque et des apparitions rémunérées d'athlètes étudiants organisées via Learfield."
-      }
-    }
-  },
-  {
-    "id": "jleague-wembley-outdoor-campaign-2026",
-    "sport": "soccer",
-    "region": "japan",
-    "topics": [
-      "biz"
-    ],
-    "published_at": "2026-07-20T00:00:00Z",
-    "source_name": "J.League",
-    "source_url": "https://www.jleague.jp/en/news/article/34488/",
-    "i18n": {
-      "en": {
-        "title": "J.League Runs Outdoor Ad Campaign Around Wembley to Promote 2026/27 Calendar Switch",
-        "summary": "J.League placed advertising around London's Wembley Stadium for a week in late July to tell overseas players and fans that it is moving to an autumn-to-spring, August-start calendar from the 2026/27 season, aligning with Europe's major leagues. The push, paired with a domestic TV spot, is part of the league's effort to raise its international profile as it targets record revenue under the new schedule."
-      },
-      "ja": {
-        "title": "Jリーグ、2026-27シーズン移行PRでウェンブリー周辺に屋外広告を掲出",
-        "summary": "Jリーグは7月下旬の1週間、ロンドンのウェンブリー・スタジアム周辺に広告を掲出し、2026-27シーズンから欧州主要リーグに合わせて8月開幕・秋春制に移行することを海外の選手やファンに発信した。国内向けテレビCMと合わせて展開されたこの施策は、新シーズン制のもとで過去最高収益を目指すリーグの国際的な認知度向上策の一環である。"
-      },
-      "es": {
-        "title": "La J.League hace publicidad exterior en Wembley para promover su cambio de calendario 2026/27",
-        "summary": "La J.League colocó anuncios alrededor del estadio de Wembley en Londres durante una semana de finales de julio para anunciar a jugadores y aficionados extranjeros su paso a un calendario de otoño a primavera con inicio en agosto desde la temporada 2026/27, alineándose con las grandes ligas europeas. La campaña, acompañada de un anuncio televisivo nacional, busca elevar el perfil internacional de la liga mientras aspira a ingresos récord bajo el nuevo calendario."
-      },
-      "zh": {
-        "title": "J联赛在温布利球场周边投放户外广告推广2026-27赛季改制",
-        "summary": "7月下旬的一周内,J联赛在伦敦温布利球场周边投放广告,向海外球员和球迷宣布自2026-27赛季起将与欧洲各大联赛接轨,改为8月开幕的秋春制。此举与国内电视广告同步推出,是联赛在新赛制下冲击历史最高收入、提升国际知名度举措的一部分。"
-      },
-      "fr": {
-        "title": "La J.League fait de la publicité extérieure autour de Wembley pour promouvoir son changement de calendrier 2026/27",
-        "summary": "La J.League a affiché des publicités autour du stade de Wembley à Londres pendant une semaine fin juillet pour annoncer aux joueurs et supporters étrangers son passage à un calendrier automne-printemps démarrant en août dès la saison 2026/27, s'alignant sur les grands championnats européens. Cette campagne, accompagnée d'un spot télévisé national, vise à renforcer la notoriété internationale de la ligue alors qu'elle espère des revenus records sous ce nouveau calendrier."
-      }
-    }
-  },
-  {
-    "id": "cme-group-white-sox-jersey-patch-sponsor-2026",
-    "sport": "baseball",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-01-28T00:00:00Z",
-    "source_name": "CME Group",
-    "source_url": "https://www.cmegroup.com/media-room/press-releases/2026/1/28/cme_group_named_asfirst-everchicagowhitesoxjerseypatchsponsor.html",
-    "i18n": {
-      "en": {
-        "title": "CME Group Becomes Chicago White Sox's First-Ever Jersey Patch Sponsor",
-        "summary": "CME Group signed a multiyear deal to become the White Sox's first jersey patch sponsor and official global exchange partner, with its logo appearing on home, road and City Connect uniforms for spring training through the postseason. The agreement also gives the exchange operator prominent signage behind home plate at Rate Field, making the Chicago-based team one of the last in MLB to add patch advertising since it was approved for the 2023 season."
-      },
-      "ja": {
-        "title": "CMEグループ、ホワイトソックス史上初のユニフォームパッチスポンサーに",
-        "summary": "シカゴ・ホワイトソックスは、CMEグループと複数年契約を結び、同社が球団史上初のユニフォームパッチスポンサー兼公式グローバル取引所パートナーとなった。ロゴはホーム・ロード・シティコネクトの各ユニフォームにスプリングトレーニングからポストシーズンまで掲出され、本拠地レイト・フィールドのバックネット広告権も付与される。2023年にパッチ広告が解禁されて以来、ホワイトソックスはMLBで最後発の導入チームの一つとなった。"
-      },
-      "es": {
-        "title": "CME Group, primer patrocinador de parche en la camiseta de los White Sox",
-        "summary": "Los White Sox de Chicago firmaron un acuerdo plurianual con CME Group, que se convierte en su primer patrocinador de parche en la camiseta y socio oficial de bolsa a nivel global. El logotipo aparecerá en los uniformes de local, visitante y City Connect desde la pretemporada hasta los playoffs, e incluye publicidad destacada detrás del plato en Rate Field; el equipo era uno de los últimos de la MLB sin este tipo de patrocinio desde que se autorizó en 2023."
-      },
-      "zh": {
-        "title": "CME集团成为芝加哥白袜队史上首个球衣广告贴赞助商",
-        "summary": "芝加哥白袜队与CME集团签署多年协议,后者成为球队历史上首位球衣广告贴赞助商及官方全球交易所合作伙伴。其标志将出现在主场、客场及City Connect球衣上,从春训一直持续到季后赛,同时该集团还获得主场Rate Field本垒后方的显著广告位。自2023赛季获批以来,白袜队是MLB中最后引入广告贴的球队之一。"
-      },
-      "fr": {
-        "title": "CME Group devient le tout premier sponsor-patch des White Sox de Chicago",
-        "summary": "Les White Sox de Chicago ont signé un accord pluriannuel avec CME Group, qui devient leur tout premier sponsor de patch sur le maillot et partenaire officiel de bourse mondiale. Le logo figurera sur les maillots domicile, extérieur et City Connect du camp d'entraînement jusqu'aux séries éliminatoires, avec en prime un panneau publicitaire bien visible derrière le marbre à Rate Field; l'équipe était l'une des dernières de la MLB sans un tel parrainage depuis son autorisation pour 2023."
-      }
-    }
-  },
-  {
-    "id": "ford-mlb-official-automotive-partner-2026",
-    "sport": "baseball",
-    "region": "global",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-03-26T00:00:00Z",
-    "source_name": "Ford Authority",
-    "source_url": "https://fordauthority.com/2026/03/ford-becomes-official-partner-of-major-league-baseball/",
-    "i18n": {
-      "en": {
-        "title": "Ford Replaces Chevrolet as MLB's Official Automotive Partner",
-        "summary": "Ford signed a multiyear agreement to become Major League Baseball's exclusive automotive partner, ending Chevrolet's roughly 20-year run in the category starting around Opening Day 2026. The deal covers MLB, Minor League Baseball and Little League, including the Little League World Series, and Ford plans to fund local Little League grants, though Chevrolet keeps a separate branding arrangement at Comerica Park."
-      },
-      "ja": {
-        "title": "フォード、シボレーに代わりMLB公式自動車パートナーに",
-        "summary": "フォードはMLBと複数年契約を結び、約20年間続いたシボレーのカテゴリーを引き継いで2026年開幕戦前後から公式自動車パートナーとなった。契約はMLBに加えマイナーリーグやリトルリーグ・ワールドシリーズを含むリトルリーグ野球もカバーし、フォードは地域のリトルリーグへの助成も計画しているが、シボレーはコメリカ・パークでの個別の広告契約は維持する。"
-      },
-      "es": {
-        "title": "Ford sustituye a Chevrolet como socio automovilístico oficial de la MLB",
-        "summary": "Ford firmó un acuerdo plurianual para convertirse en el socio automovilístico exclusivo de la MLB, poniendo fin a casi 20 años de Chevrolet en esa categoría a partir, aproximadamente, del Día Inaugural de 2026. El pacto abarca la MLB, las ligas menores y las Pequeñas Ligas, incluida su Serie Mundial, y Ford planea financiar subvenciones locales para Pequeñas Ligas, aunque Chevrolet conserva un acuerdo publicitario independiente en el Comerica Park."
-      },
-      "zh": {
-        "title": "福特取代雪佛兰成为MLB官方汽车合作伙伴",
-        "summary": "福特与MLB签署多年协议,在2026赛季开幕前后接替雪佛兰近20年的地位,成为联盟独家官方汽车合作伙伴。协议覆盖MLB、小联盟以及包括小联盟世界大赛在内的少棒联赛,福特还计划为当地少棒联赛提供资助,不过雪佛兰仍通过单独协议保留在科美利卡球场的广告露出。"
-      },
-      "fr": {
-        "title": "Ford remplace Chevrolet comme partenaire automobile officiel de la MLB",
-        "summary": "Ford a signé un accord pluriannuel pour devenir le partenaire automobile exclusif de la MLB, mettant fin à près de 20 ans de présence de Chevrolet dans cette catégorie, à partir d'environ le jour d'ouverture 2026. L'accord couvre la MLB, les ligues mineures et les Petites Ligues, y compris leur Série mondiale, et Ford prévoit de financer des subventions locales pour les Petites Ligues, bien que Chevrolet conserve un accord d'affichage distinct au Comerica Park."
-      }
-    }
-  },
-  {
-    "id": "openstyles-rakuten-eagles-sponsorship-2026",
-    "sport": "baseball",
-    "region": "japan",
-    "topics": [
-      "sponsor",
-      "biz"
-    ],
-    "published_at": "2026-01-01T00:00:00Z",
-    "source_name": "PR TIMES",
-    "source_url": "https://webtan.impress.co.jp/r/prtimes/items/000000006.000160627",
-    "i18n": {
-      "en": {
-        "title": "Sendai Firm OpenStyles Signs Official Sponsorship With Tohoku Rakuten Golden Eagles",
-        "summary": "Sendai-based company OpenStyles has signed an official sponsorship agreement with the Tohoku Rakuten Golden Eagles, effective from the team's March 2026 season opener, after the contract was finalized in November 2025. The partnership builds on OpenStyles' earlier backing of former Eagles infielder Ginji and will cover joint promotions, event sponsorship and support for youth development programs in the region."
-      },
-      "ja": {
-        "title": "仙台のOpenStyles、東北楽天ゴールデンイーグルスとオフィシャルスポンサー契約",
-        "summary": "仙台市の企業OpenStylesは、2025年11月に契約を締結し、2026年3月の開幕戦から適用される形で東北楽天ゴールデンイーグルスとのオフィシャルスポンサー契約を発表した。同社が同年9月に結んだ元イーグルス内野手・銀次氏への支援の流れを引き継ぐもので、共同プロモーションやイベント協賛、地域の育成プログラム支援などを行う予定としている。"
-      },
-      "es": {
-        "title": "La empresa de Sendai OpenStyles firma un patrocinio oficial con los Tohoku Rakuten Golden Eagles",
-        "summary": "La compañía OpenStyles, con sede en Sendai, firmó un acuerdo de patrocinio oficial con los Tohoku Rakuten Golden Eagles, vigente desde el inicio de la temporada del equipo en marzo de 2026, tras cerrarse el contrato en noviembre de 2025. La alianza continúa el apoyo que la empresa venía dando al exjugador de los Eagles Ginji y abarcará promociones conjuntas, patrocinio de eventos y apoyo a programas de formación juvenil en la región."
-      },
-      "zh": {
-        "title": "仙台企业OpenStyles与东北乐天金鹰队签署官方赞助协议",
-        "summary": "总部位于仙台的OpenStyles公司与东北乐天金鹰队签署官方赞助协议,合同已于2025年11月敲定,自球队2026年3月的赛季揭幕战起生效。该合作延续了该公司此前对前金鹰队内野手银次个人的支持,未来将涵盖联合推广、赛事协办以及地区青少年培养项目的支持。"
-      },
-      "fr": {
-        "title": "L'entreprise de Sendai OpenStyles signe un partenariat officiel avec les Tohoku Rakuten Golden Eagles",
-        "summary": "L'entreprise OpenStyles, basée à Sendai, a signé un accord de sponsoring officiel avec les Tohoku Rakuten Golden Eagles, effectif dès le match d'ouverture de la saison de l'équipe en mars 2026, après la finalisation du contrat en novembre 2025. Ce partenariat prolonge le soutien que l'entreprise apportait déjà à l'ancien joueur de champ intérieur des Eagles, Ginji, et couvrira des promotions conjointes, du parrainage d'événements et un appui aux programmes de formation des jeunes dans la région."
       }
     }
   }
