@@ -6424,5 +6424,276 @@
         "summary": "L'exploitant JNSE et Mitsubishi UFJ Financial Group ont signé un accord de partenaire principal faisant de MUFG le tout premier « partenaire du stade national » du Stade national du Japon, qui sera appelé MUFG Stadium (abrégé « MUFG Kokuritsu ») de janvier 2026 à 2030. Les modalités financières n'ont pas été dévoilées, mais la presse évalue cet accord de cinq ans à environ 10 milliards de yens, l'un des plus importants contrats de naming de stade au Japon."
       }
     }
+  },
+  {
+    "id": "zozo-marine-stadium-naming-renewal-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-06-30T12:00:00Z",
+    "source_name": "Kumanichi",
+    "source_url": "https://kumanichi.com/articles/2008519",
+    "i18n": {
+      "en": {
+        "title": "Chiba Lotte's ZOZO Marine Stadium Keeps Its Name in New Seven-Year Naming Rights Deal",
+        "summary": "Chiba city confirmed that the Chiba Lotte Marines' home ballpark will keep the ZOZO Marine Stadium name through a new seven-year agreement running from December 2026 to November 2033. The renewed deal raises the annual naming fee to roughly 400 million yen, about 90 million yen more than the previous contract, while the team's long-term plan to relocate to a new stadium near Makuhari Messe remains targeted for around 2034."
+      },
+      "ja": {
+        "title": "千葉ロッテ本拠地、新契約でも「ZOZOマリンスタジアム」の名称継続",
+        "summary": "千葉市は、千葉ロッテマリーンズの本拠地球場について、新たな7年契約のもとでも「ZOZOマリンスタジアム」の名称を維持すると発表した。契約期間は2026年12月から2033年11月までで、年間の命名権料は従来より約9千万円増え、約4億円となる。老朽化に伴い、幕張メッセ駐車場エリアへの新球場移転計画も2034年ごろの開業を目指して進められている。"
+      },
+      "es": {
+        "title": "El Chiba Lotte Marines conserva el nombre ZOZO Marine Stadium en nuevo acuerdo de siete años",
+        "summary": "La ciudad de Chiba confirmó que el estadio local de los Chiba Lotte Marines mantendrá el nombre ZOZO Marine Stadium bajo un nuevo acuerdo de siete años vigente desde diciembre de 2026 hasta noviembre de 2033. La tarifa anual por los derechos de nombre subirá a unos 400 millones de yenes, unos 90 millones más que antes, mientras continúa el plan de trasladar al equipo a un nuevo estadio cerca de Makuhari Messe hacia 2034."
+      },
+      "zh": {
+        "title": "千叶乐天本垄球场新七年冠名合约仍保留“ZOZO海洋球场”名称",
+        "summary": "千叶市确认,千叶乐天海洋队主场在新的七年冠名合约下将继续使用“ZOZO海洋球场”名称,合约期从2026年12月持续至2033年11月。年冠名费将上涨约9000万日元,升至约4亿日元,球队迁往幕张展览馆停车场新建球场的长期计划仍预计在2034年前后完成。"
+      },
+      "fr": {
+        "title": "Le stade des Chiba Lotte Marines conserve le nom ZOZO Marine Stadium dans un nouvel accord de sept ans",
+        "summary": "La ville de Chiba a confirmé que le stade des Chiba Lotte Marines conservera le nom ZOZO Marine Stadium dans le cadre d'un nouvel accord de naming de sept ans, courant de décembre 2026 à novembre 2033. La redevance annuelle passera à environ 400 millions de yens, soit environ 90 millions de plus qu'auparavant, tandis que le projet de déménagement de l'équipe vers un nouveau stade près de Makuhari Messe reste prévu vers 2034."
+      }
+    }
+  },
+  {
+    "id": "open-house-arena-ota-opening-gunma",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "tech",
+      "fan"
+    ],
+    "published_at": "2026-10-15T12:00:00Z",
+    "source_name": "SPREAD",
+    "source_url": "https://spread-sports.jp/archives/195474",
+    "i18n": {
+      "en": {
+        "title": "Gunma Crane Thunders Open New B.League Arena Featuring Japan's Largest Movable Scoreboard",
+        "summary": "The Gunma Crane Thunders opened their new home venue, named OPEN HOUSE ARENA OTA after naming-rights sponsor Open House Group, with an opening game against the Utsunomiya Brex that drew 5,262 fans. The arena's centerpiece is a 14-panel movable center-hung scoreboard spanning roughly 6,100 inches combined, which the club says is the largest such display in a Japanese arena and the first domestically where each panel can move independently."
+      },
+      "ja": {
+        "title": "群馬クレインサンダーズ、国内最大級の可動式センタービジョン備えた新アリーナ開場",
+        "summary": "群馬クレインサンダーズは、命名権を取得したオープンハウスグループにちなみ「OPEN HOUSE ARENA OTA」と名付けた新本拠地で開幕戦を開催し、宇都宮ブレックスとの対戦に5262人のファンが来場した。目玉は14画面構成・総面積約6100インチの可動式センタービジョンで、国内アリーナ最大級とされ、各パネルが独立して稼働できる点は国内初という。"
+      },
+      "es": {
+        "title": "Gunma Crane Thunders inaugura nueva arena de la B.League con el videomarcador móvil más grande de Japón",
+        "summary": "Los Gunma Crane Thunders inauguraron su nuevo pabellón, llamado OPEN HOUSE ARENA OTA por el patrocinador de los derechos de nombre, Open House Group, con un partido de apertura ante Utsunomiya Brex que reunió a 5.262 aficionados. El elemento central es un videomarcador central móvil de 14 paneles con unas 6.100 pulgadas combinadas, que el club describe como el más grande de cualquier pabellón japonés y el primero del país con paneles que se mueven de forma independiente."
+      },
+      "zh": {
+        "title": "群马新干线雷霆启用新主场,配备日本最大可动式中央记分屏",
+        "summary": "群马新干线雷霆启用以冠名权赞助商Open House集团命名的新主场“OPEN HOUSE ARENA OTA”,开馆战迎战宇都宮雷克斯,吸引5262名球迷到场。球馆亮点是由14块屏幕组成、总面积约6100英寸的可动式中央记分屏,俱乐部称这是日本球馆中规模最大、且首个各屏幕可独立移动的设备。"
+      },
+      "fr": {
+        "title": "Les Gunma Crane Thunders inaugurent une nouvelle arène dotée du plus grand tableau d'affichage mobile du Japon",
+        "summary": "Les Gunma Crane Thunders ont inauguré leur nouvelle salle, baptisée OPEN HOUSE ARENA OTA d'après le sponsor des droits de dénomination Open House Group, avec un match d'ouverture face aux Utsunomiya Brex qui a réuni 5 262 spectateurs. Son élément central est un tableau d'affichage suspendu mobile de 14 panneaux totalisant environ 6 100 pouces, que le club présente comme le plus grand de toutes les arènes japonaises et le premier du pays où chaque panneau peut se déplacer indépendamment."
+      }
+    }
+  },
+  {
+    "id": "xfinity-mobile-arena-naming-comcast-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "sponsor"
+    ],
+    "published_at": "2026-10-12T12:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/article/after-getting-sixers-to-stay-comcast-putting-its-own-name-on-arena/",
+    "i18n": {
+      "en": {
+        "title": "Philadelphia's 76ers and Flyers Arena Officially Becomes Xfinity Mobile Arena",
+        "summary": "The Philadelphia arena shared by the NBA's 76ers and NHL's Flyers has officially taken on the name Xfinity Mobile Arena, replacing the former Wells Fargo Center branding under a deal between Comcast Spectacor and Harris Blitzer Sports & Entertainment. The agreement, which runs through the 2030-31 season, also brings Xfinity Mobile-branded wifi connectivity and digital signage to the venue while Comcast Spectacor plans a new arena at the same site by 2031."
+      },
+      "ja": {
+        "title": "フィラデルフィアの76ers・フライヤーズの本拠地が「エクスフィニティ・モバイル・アリーナ」に改称",
+        "summary": "NBA76ersとNHLフライヤーズが共用するフィラデルフィアのアリーナが、コムキャスト・スペクタコアとハリス・ブリッツァー・スポーツ&エンターテインメントの契約により、従来のウェルズ・ファーゴ・センターから「エクスフィニティ・モバイル・アリーナ」へと正式に改称された。契約は2030-31シーズンまで続き、会場にはエクスフィニティ・モバイルブランドのWi-Fiやデジタル看板も導入される一方、同じ敷地には2031年までに新アリーナを建設する計画もあるという。"
+      },
+      "es": {
+        "title": "La arena de los 76ers y los Flyers en Filadelfia pasa a llamarse oficialmente Xfinity Mobile Arena",
+        "summary": "El pabellón de Filadelfia que comparten los 76ers de la NBA y los Flyers de la NHL adoptó oficialmente el nombre Xfinity Mobile Arena, sustituyendo a la antigua marca Wells Fargo Center, bajo un acuerdo entre Comcast Spectacor y Harris Blitzer Sports & Entertainment. El contrato, vigente hasta la temporada 2030-31, también incorporará wifi y señalización digital de la marca Xfinity Mobile, mientras Comcast Spectacor planea construir una nueva arena en el mismo emplazamiento para 2031."
+      },
+      "zh": {
+        "title": "费城76人与飞人队主场正式更名为Xfinity Mobile Arena",
+        "summary": "NBA费城76人与NHL费城飞人共用的费城球馆,在康卡斯特Spectacor与Harris Blitzer体育娱乐公司的协议下,正式由原“富国银行中心”更名为“Xfinity Mobile Arena”。该协议有效期至2030-31赛季,场馆还将引入Xfinity Mobile品牌的无线网络和数字标牌,康卡斯特Spectacor并计划在2031年前于同一地点建造新球馆。"
+      },
+      "fr": {
+        "title": "L'arène des 76ers et des Flyers à Philadelphie devient officiellement le Xfinity Mobile Arena",
+        "summary": "La salle de Philadelphie partagée par les 76ers de la NBA et les Flyers de la NHL a officiellement pris le nom de Xfinity Mobile Arena, remplaçant l'ancienne appellation Wells Fargo Center, dans le cadre d'un accord entre Comcast Spectacor et Harris Blitzer Sports & Entertainment. L'accord, valable jusqu'à la saison 2030-31, apporte aussi le wifi et la signalétique numérique de marque Xfinity Mobile, tandis que Comcast Spectacor prévoit de construire une nouvelle arène sur le même site d'ici 2031."
+      }
+    }
+  },
+  {
+    "id": "lsu-woodside-energy-jersey-patch-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "team",
+      "sponsor"
+    ],
+    "published_at": "2026-02-16T12:00:00Z",
+    "source_name": "Athletic Business",
+    "source_url": "https://www.athleticbusiness.com/operations/article/15817357/lsu-unveils-jersey-patches-as-experts-weigh-in-on-new-revenue-stream",
+    "i18n": {
+      "en": {
+        "title": "LSU Signs Multiyear Jersey Patch Deal With Australian Energy Firm Woodside",
+        "summary": "LSU athletics announced a multiyear jersey patch sponsorship with Australian oil and gas company Woodside Energy, set to appear on uniforms across all 21 varsity sports starting in the 2026-27 season. Beyond the patch, Woodside also gains signage and other marketing assets across LSU's athletic venues and the title of official community partner, in what the school calls a precedent-setting deal for college sports."
+      },
+      "ja": {
+        "title": "LSU、豪エネルギー企業ウッドサイドと複数年ジャージーパッチ契約",
+        "summary": "LSU(ルイジアナ州立大学)のアスレチック局は、オーストラリアの石油・ガス企業ウッドサイド・エナジーとの複数年ジャージーパッチ契約を発表した。2026-27シーズンから全21競技のユニフォームにロゴが入る予定で、パッチ以外にも各施設での看板広告やマーケティング権、「公式コミュニティパートナー」の肩書きも付与される、大学スポーツ界で前例となる契約だと学校側は説明している。"
+      },
+      "es": {
+        "title": "LSU firma un acuerdo multianual de parche en la camiseta con la energética australiana Woodside",
+        "summary": "El departamento de atletismo de LSU anunció un acuerdo multianual de patrocinio de parche en la camiseta con la empresa australiana de petróleo y gas Woodside Energy, que aparecerá en los uniformes de los 21 deportes universitarios a partir de la temporada 2026-27. Además del parche, Woodside obtiene señalización y otros activos de marketing en las instalaciones deportivas de LSU y el título de socio comunitario oficial, en lo que la universidad describe como un acuerdo pionero para el deporte universitario."
+      },
+      "zh": {
+        "title": "LSU与澳洲能源公司Woodside签署多年球衣广告合约",
+        "summary": "路易斯安那州立大学(LSU)体育部宣布与澳大利亚石油天然气公司Woodside Energy签署多年球衣广告赞助合约,从2026-27赛季起该公司标志将出现在全部21个校队项目的球衣上。除球衣广告外,Woodside还将在LSU各体育场馆获得广告牌及其他营销权益,并获得“官方社区合作伙伴”称号,校方称此为大学体育界具有先例意义的合约。"
+      },
+      "fr": {
+        "title": "LSU signe un accord pluriannuel de patch maillot avec l'énergéticien australien Woodside",
+        "summary": "Le département sportif de LSU a annoncé un accord pluriannuel de parrainage par patch de maillot avec la société australienne de pétrole et de gaz Woodside Energy, qui apparaîtra sur les maillots des 21 sports universitaires dès la saison 2026-27. Au-delà du patch, Woodside obtient aussi des panneaux publicitaires et d'autres actifs marketing dans les installations sportives de LSU, ainsi que le titre de partenaire communautaire officiel, un accord que l'université qualifie de précédent pour le sport universitaire américain."
+      }
+    }
+  },
+  {
+    "id": "nhl-kalshi-polymarket-prediction-market-2025",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2025-10-22T12:00:00Z",
+    "source_name": "Sports Video Group",
+    "source_url": "https://www.sportsvideo.org/2025/10/22/nhl-strikes-deal-with-prediction-market-companies-kalshi-and-polymarket/",
+    "i18n": {
+      "en": {
+        "title": "NHL Becomes First Major US League to Name Kalshi and Polymarket as Prediction Market Partners",
+        "summary": "The NHL signed multiyear marketing agreements naming both Kalshi and Polymarket as official prediction market partners, making it the first major North American league to strike a commercial partnership with the fast-growing prediction market platforms. The U.S.-only deals give both companies access to official NHL data and trademarks along with in-broadcast advertising such as virtual signage and dasherboards during games."
+      },
+      "ja": {
+        "title": "NHL、カルシ・ポリマーケットを公式予測市場パートナーに認定 北米主要リーグで初",
+        "summary": "NHLはカルシとポリマーケットの両社と複数年のマーケティング契約を締結し、両社を公式予測市場パートナーに認定した。急成長する予測市場プラットフォームと商業提携を結んだ北米主要リーグとしては初のケースとなる。契約は米国限定で、両社はNHLの公式データや商標の利用権を得るとともに、試合中のバーチャル看板やダッシャーボード広告なども獲得する。"
+      },
+      "es": {
+        "title": "La NHL se convierte en la primera gran liga de EE. UU. en nombrar a Kalshi y Polymarket como socios de mercados de predicción",
+        "summary": "La NHL firmó acuerdos de marketing multianuales que designan a Kalshi y Polymarket como socios oficiales de mercados de predicción, convirtiéndose en la primera gran liga norteamericana en establecer una alianza comercial con estas plataformas de rápido crecimiento. Los acuerdos, exclusivos para Estados Unidos, dan a ambas empresas acceso a datos y marcas oficiales de la NHL, además de publicidad durante las transmisiones, como señalización virtual y anuncios en las vallas de las pistas."
+      },
+      "zh": {
+        "title": "NHL成为首个将Kalshi和Polymarket列为预测市场合作伙伴的北美主要联盟",
+        "summary": "NHL与Kalshi及Polymarket分别签署多年营销协议,将两家公司列为官方预测市场合作伙伴,成为首个与这类快速扩张的预测市场平台建立商业合作的北美主要职业联盟。该协议仅限美国市场,两家公司可获得NHL官方数据及商标使用权,并在比赛转播中获得虚拟广告牌等广告位。"
+      },
+      "fr": {
+        "title": "La NHL devient la première grande ligue nord-américaine à nommer Kalshi et Polymarket partenaires des marchés de prédiction",
+        "summary": "La NHL a signé des accords marketing pluriannuels désignant Kalshi et Polymarket comme partenaires officiels des marchés de prédiction, devenant ainsi la première grande ligue nord-américaine à conclure un partenariat commercial avec ces plateformes en pleine croissance. Ces accords, limités aux États-Unis, donnent aux deux entreprises accès aux données et marques officielles de la NHL, ainsi qu'à de la publicité pendant les retransmissions, comme la signalétique virtuelle et les panneaux de bande."
+      }
+    }
+  },
+  {
+    "id": "mlb-polymarket-cftc-integrity-framework-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-03-19T12:00:00Z",
+    "source_name": "MLB.com",
+    "source_url": "https://www.mlb.com/press-release/press-release-mlb-names-polymarket-exclusive-prediction-market-exchange-partner-and-signs-agreement-with-cftc-to-establish-integrity-framework",
+    "i18n": {
+      "en": {
+        "title": "MLB Names Polymarket Exclusive Prediction Market Partner, Signs Integrity Pact With CFTC",
+        "summary": "Major League Baseball named Polymarket its exclusive prediction market exchange partner, giving the platform access to official MLB data and marks, while also signing a memorandum of understanding with the Commodity Futures Trading Commission to build an integrity framework around baseball-related prediction contracts. The framework is set to restrict markets tied to granular in-game events such as individual pitches, manager decisions, or umpire calls, and MLB said it intends to pursue similar integrity agreements with other prediction market operators."
+      },
+      "ja": {
+        "title": "MLB、ポリマーケットを独占予測市場パートナーに指定 CFTCとも誠実性協定を締結",
+        "summary": "MLB(米大リーグ機構)はポリマーケットを独占予測市場取引所パートナーに指定し、同社にMLBの公式データや商標の利用権を与えた。同時に米商品先物取引委員会(CFTC)とも覚書を締結し、野球関連の予測市場契約を対象とした誠実性(インテグリティ)の枠組みを構築するとした。この枠組みでは個々の投球や監督の決定、審判の判定といった細かい試合展開に関する市場を制限する方針で、MLBは他の予測市場運営会社とも同様の協定を結びたいとしている。"
+      },
+      "es": {
+        "title": "MLB nombra a Polymarket su socio exclusivo de mercados de predicción y firma un pacto de integridad con la CFTC",
+        "summary": "Major League Baseball designó a Polymarket como su socio exclusivo de intercambio de mercados de predicción, otorgándole acceso a datos y marcas oficiales de la MLB, y a la vez firmó un memorando de entendimiento con la Comisión de Comercio de Futuros de Materias Primas (CFTC) para crear un marco de integridad en torno a los contratos de predicción relacionados con el béisbol. El marco restringirá los mercados vinculados a eventos muy específicos del juego, como lanzamientos individuales, decisiones del mánager o fallos arbitrales, y la MLB dijo que buscará acuerdos de integridad similares con otros operadores de mercados de predicción."
+      },
+      "zh": {
+        "title": "MLB指定Polymarket为独家预测市场合作伙伴,并与CFTC签署诚信协议",
+        "summary": "美国职棒大联盟(MLB)宣布将Polymarket指定为其独家预测市场交易平台合作伙伴,授予该平台使用MLB官方数据及商标的权限,同时与美国商品期货交易委员会(CFTC)签署谅解备忘录,共同建立针对棒球相关预测合约的诚信框架。该框架将限制与单次投球、教练决策或裁判判罚等细节比赛事件相关的市场,MLB表示还计划与其他预测市场运营商达成类似的诚信协议。"
+      },
+      "fr": {
+        "title": "La MLB nomme Polymarket partenaire exclusif des marchés de prédiction et signe un pacte d'intégrité avec la CFTC",
+        "summary": "La Major League Baseball a désigné Polymarket comme son partenaire exclusif de plateforme de marchés de prédiction, lui donnant accès aux données et marques officielles de la MLB, tout en signant un protocole d'accord avec la Commodity Futures Trading Commission pour établir un cadre d'intégrité autour des contrats de prédiction liés au baseball. Ce cadre doit restreindre les marchés portant sur des événements très précis du jeu, comme un lancer individuel, une décision d'entraîneur ou une décision d'arbitre, et la MLB a indiqué vouloir conclure des accords d'intégrité similaires avec d'autres opérateurs de marchés de prédiction."
+      }
+    }
+  },
+  {
+    "id": "chiba-lotte-hyundai-cap-sponsorship-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-01-15T12:00:00Z",
+    "source_name": "Baseball Channel",
+    "source_url": "https://www.baseballchannel.jp/npb/245615/",
+    "i18n": {
+      "en": {
+        "title": "Chiba Lotte Marines Add Hyundai Mobility Japan as Cap Sponsor",
+        "summary": "The Chiba Lotte Marines announced a cap advertising sponsorship with Hyundai Mobility Japan, with players wearing caps bearing the Hyundai logo during spring training and official games starting in the 2026 season. The deal builds on the two companies' partnership that began in August 2025 around the team's bullpen car, marking a second phase of their collaboration."
+      },
+      "ja": {
+        "title": "千葉ロッテ、ヒョンデ・モビリティ・ジャパンとキャップ広告スポンサー契約",
+        "summary": "千葉ロッテマリーンズは、ヒョンデ・モビリティ・ジャパンとのキャップ広告スポンサー契約を発表した。2026年シーズンの春季キャンプおよび公式戦から、選手はヒョンデのロゴが入ったキャップを着用する。両社は2025年8月からブルペンカーでの提携を続けており、今回はその第2弾の取り組みとなる。"
+      },
+      "es": {
+        "title": "Chiba Lotte Marines incorpora a Hyundai Mobility Japan como patrocinador de la gorra",
+        "summary": "Los Chiba Lotte Marines anunciaron un patrocinio publicitario en la gorra con Hyundai Mobility Japan, por el que los jugadores llevarán gorras con el logotipo de Hyundai durante los entrenamientos de primavera y los partidos oficiales a partir de la temporada 2026. El acuerdo amplía la colaboración entre ambas empresas, que comenzó en agosto de 2025 en torno al coche del bullpen del equipo, y marca una segunda fase de su alianza."
+      },
+      "zh": {
+        "title": "千叶乐天海洋队宣布现代汽车Mobility Japan成为球帽广告赞助商",
+        "summary": "千叶乐天海洋队宣布与现代汽车Mobility Japan达成球帽广告赞助协议,从2026赛季春季集训及正式比赛起,球员将佩戴印有现代标志的球帽。此次合作建立在两家公司自2025年8月围绕球队牛棚车展开合作的基础上,为双方合作的第二阶段。"
+      },
+      "fr": {
+        "title": "Les Chiba Lotte Marines ajoutent Hyundai Mobility Japan comme sponsor de casquette",
+        "summary": "Les Chiba Lotte Marines ont annoncé un partenariat publicitaire sur la casquette avec Hyundai Mobility Japan, les joueurs portant des casquettes arborant le logo Hyundai lors de l'entraînement de printemps et des matchs officiels à partir de la saison 2026. Cet accord prolonge la collaboration entre les deux entreprises, entamée en août 2025 autour de la voiture du bullpen de l'équipe, marquant une deuxième phase de leur partenariat."
+      }
+    }
+  },
+  {
+    "id": "orix-buffaloes-fwd-life-uniform-sponsor-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-01-30T12:00:00Z",
+    "source_name": "Zaikei",
+    "source_url": "https://zaikei.co.jp/press/company/227973/",
+    "i18n": {
+      "en": {
+        "title": "Orix Buffaloes Sign FWD Life Insurance as Uniform Sleeve Sponsor for 2026 Season",
+        "summary": "The Orix Buffaloes announced a uniform advertising sponsorship with FWD Life Insurance, with the company's logo appearing on the right sleeve of player, manager, and coach uniforms starting with the team's spring training in Miyazaki on February 1, 2026. The deal adds a new sleeve sponsor to the Pacific League club's roster of uniform partners for the coming season."
+      },
+      "ja": {
+        "title": "オリックス、2026年シーズンのユニフォーム右袖広告でFWD生命とスポンサー契約",
+        "summary": "オリックス・バファローズは、FWD生命保険とのユニフォーム広告スポンサー契約を発表した。2026年2月1日からの宮崎春季キャンプを皮切りに、選手・監督・コーチのユニフォーム右袖にFWD生命のロゴが掲出される。パ・リーグ球団にとって、来シーズンに向けたユニフォームスポンサーの新たな一枠となる。"
+      },
+      "es": {
+        "title": "Orix Buffaloes ficha a FWD Life Insurance como patrocinador de la manga del uniforme para la temporada 2026",
+        "summary": "Los Orix Buffaloes anunciaron un patrocinio publicitario en el uniforme con FWD Life Insurance, cuyo logotipo aparecerá en la manga derecha de los uniformes de jugadores, mánager y entrenadores a partir del campamento de primavera del equipo en Miyazaki el 1 de febrero de 2026. El acuerdo añade un nuevo patrocinador de manga a la lista de socios de uniforme del club de la Liga del Pacífico para la próxima temporada."
+      },
+      "zh": {
+        "title": "欧力士猛牛队签约FWD人寿保险作为2026赛季球衣袖口赞助商",
+        "summary": "欧力士猛牛队宣布与FWD人寿保险达成球衣广告赞助协议,从2026年2月1日球队在宫崎的春季集训开始,该公司标志将出现在球员、主教练及教练球衣的右袖上。此协议为这支太平洋联盟球队新赛季的球衣赞助阵容新增一个袖标赞助席位。"
+      },
+      "fr": {
+        "title": "Les Orix Buffaloes signent FWD Life Insurance comme sponsor de manche de maillot pour la saison 2026",
+        "summary": "Les Orix Buffaloes ont annoncé un partenariat publicitaire sur l'uniforme avec FWD Life Insurance, dont le logo apparaîtra sur la manche droite des maillots des joueurs, du manager et des entraîneurs dès le camp d'entraînement de printemps de l'équipe à Miyazaki, le 1er février 2026. Cet accord ajoute un nouveau sponsor de manche à la liste des partenaires d'uniforme du club de la Ligue du Pacifique pour la saison à venir."
+      }
+    }
   }
 ]
