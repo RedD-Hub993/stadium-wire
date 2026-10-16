@@ -6927,5 +6927,277 @@
         "summary": "Bandai Namco Entertainment a obtenu les droits de dénomination du gymnase municipal de Matsue, domicile du club de B.League Shimane Susanoo Magic, qui sera rebaptisé « Bandai Namco Arena Matsue » à partir du 1er septembre 2026. Les deux parties indiquent que cet accord s'inscrit dans une démarche visant à renforcer les liens avec la communauté locale par le sport. Bandai Namco avait précédemment fait un don d'environ 3 milliards de yens à la ville de Matsue via un programme fiscal d'entreprise de type « taxe de la ville natale », finançant en partie des rénovations de la salle."
       }
     }
+  },
+  {
+    "id": "sporting-cp-225m-bond-alvalade-stadium",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "biz"
+    ],
+    "published_at": "2025-10-23T12:00:00Z",
+    "source_name": "SportBusiness",
+    "source_url": "https://www.sportbusiness.com/news/sporting-raises-e225m-for-world-cup-stadium-rebuild/",
+    "i18n": {
+      "en": {
+        "title": "Sporting CP Raises €225M Bond to Fund Alvalade Stadium Overhaul",
+        "summary": "Portuguese club Sporting CP sold €225 million in bonds through its new commercial subsidiary to finance a major renovation of Estádio José Alvalade ahead of the 2030 World Cup, which Portugal is co-hosting. JPMorgan arranged the sale, which carried a fixed 5.75% rate and was reportedly oversubscribed by more than eight times, with the debt maturing over 28 years."
+      },
+      "ja": {
+        "title": "スポルティングCP、アルヴァラーデ改修費に2.25億ユーロのボンド発行",
+        "summary": "ポルトガルの名門スポルティングCPは、新設した商業子会社を通じて2億2500万ユーロの債券を発行し、2030年W杯の共催国となるポルトガルでのホームスタジアム、エスタディオ・ジョゼ・アルヴァラーデの大規模改修費用に充てる。JPモルガンが主幹事を務めたこの発行は固定利率5.75%で、申込総額は8倍超に達したとされ、償還期間は28年に及ぶ。"
+      },
+      "es": {
+        "title": "Sporting CP capta 225 millones de euros en bonos para renovar el Alvalade",
+        "summary": "El club portugués Sporting CP vendió 225 millones de euros en bonos a través de su nueva filial comercial para financiar una importante renovación del Estádio José Alvalade antes del Mundial de 2030, que Portugal coorganizará. JPMorgan gestionó la emisión, con una tasa fija del 5,75% y una demanda que, según reportes, superó ocho veces la oferta, con vencimiento a 28 años."
+      },
+      "zh": {
+        "title": "葡萄牙体育竞技俱乐部发行2.25亿欧元债券翻修阿尔瓦拉德球场",
+        "summary": "葡萄牙体育竞技俱乐部通过新设立的商业子公司发行了2.25亿欧元债券，用于资助主场阿尔瓦拉德体育场的大规模改造，以迎接葡萄牙共同主办的2030年世界杯。摩根大通负责安排此次发行，固定利率为5.75%，据报认购需求超过发行额的八倍，债券期限长达28年。"
+      },
+      "fr": {
+        "title": "Le Sporting CP lève 225 M€ en obligations pour rénover l'Alvalade",
+        "summary": "Le club portugais Sporting CP a émis 225 millions d'euros d'obligations via sa nouvelle filiale commerciale afin de financer une rénovation majeure du stade José Alvalade avant la Coupe du monde 2030, coorganisée par le Portugal. JPMorgan a arrangé l'opération, assortie d'un taux fixe de 5,75 %, qui aurait été sursouscrite plus de huit fois, avec une maturité de 28 ans."
+      }
+    }
+  },
+  {
+    "id": "myguava-uk-suspension-football-sponsors",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2025-09-18T12:00:00Z",
+    "source_name": "SportBusiness",
+    "source_url": "https://www.sportbusiness.com/news/rangers-millwall-sponsor-myguava-stops-uk-activity/",
+    "i18n": {
+      "en": {
+        "title": "Fintech Sponsor MyGuava's UK Suspension Clouds Several Club Deals",
+        "summary": "UK fintech firm MyGuava has paused its domestic operations amid unresolved regulatory issues, leaving sponsorship agreements with several English and Scottish football clubs in limbo. Millwall, which carries the brand on the front of its shirt, linked the pause to outstanding matters with the Financial Conduct Authority, while Rangers, Queens Park Rangers and Crystal Palace also hold lower-profile deals with the company."
+      },
+      "ja": {
+        "title": "英フィンテック企業MyGuava、英国内サービス停止でクラブ契約に不透明感",
+        "summary": "英国のフィンテック企業MyGuavaが規制当局との問題を理由に国内サービスを一時停止し、複数のイングランド・スコットランドのサッカークラブとのスポンサー契約が不透明な状況に陥っている。胸スポンサーを務めるミルウォールは金融行為監督機構(FCA)との未解決の問題が原因だとし、レンジャーズやQPR、クリスタル・パレスも同社とより小規模な契約を結んでいる。"
+      },
+      "es": {
+        "title": "La suspensión de MyGuava en el Reino Unido pone en duda varios patrocinios de clubes",
+        "summary": "La fintech británica MyGuava ha suspendido sus operaciones en el país debido a problemas regulatorios sin resolver, dejando en el aire los acuerdos de patrocinio con varios clubes de fútbol ingleses y escoceses. Millwall, que luce la marca en el frente de su camiseta, vinculó la pausa a asuntos pendientes con la Autoridad de Conducta Financiera, mientras que Rangers, Queens Park Rangers y Crystal Palace también mantienen acuerdos de menor perfil con la empresa."
+      },
+      "zh": {
+        "title": "英国金融科技公司MyGuava暂停业务 多家俱乐部赞助协议存疑",
+        "summary": "英国金融科技公司MyGuava因与监管机构之间尚未解决的问题暂停了国内业务，导致其与多家英格兰及苏格兰足球俱乐部的赞助协议前景不明。胸前广告赞助商之一的米尔沃尔表示，此次暂停与金融行为监管局(FCA)的未决事项有关，而流浪者、女王公园巡游者及水晶宫也与该公司签有规模较小的赞助合同。"
+      },
+      "fr": {
+        "title": "La suspension britannique de MyGuava jette le doute sur plusieurs sponsorings de clubs",
+        "summary": "La fintech britannique MyGuava a suspendu ses activités dans le pays en raison de problèmes réglementaires non résolus, plaçant dans l'incertitude ses accords de sponsoring avec plusieurs clubs de football anglais et écossais. Millwall, qui porte la marque sur le devant de son maillot, a lié cette pause à des questions en suspens avec la Financial Conduct Authority, tandis que les Rangers, Queens Park Rangers et Crystal Palace détiennent aussi des accords moins visibles avec l'entreprise."
+      }
+    }
+  },
+  {
+    "id": "fc-barcelona-uber-eats-sponsorship-2027",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2025-10-24T12:00:00Z",
+    "source_name": "Inside World Football",
+    "source_url": "https://www.insideworldfootball.com/2025/10/24/barca-dial-uber-2-year-sponsorship/",
+    "i18n": {
+      "en": {
+        "title": "FC Barcelona Signs Two-Year Mobility and Sponsorship Deal With Uber",
+        "summary": "FC Barcelona named Uber an official partner through 2027 in a deal focused on easing fan transport around the rebuilt Spotify Camp Nou and the wider Espai Barça complex. The agreement includes dedicated pickup zones and promotion of Uber's electric ride service, and the two sides unveiled a limited run of custom-liveried electric vehicles bearing the club's colors."
+      },
+      "ja": {
+        "title": "FCバルセロナ、Uberと2年間のモビリティ&スポンサー契約",
+        "summary": "FCバルセロナは2027年までUberをオフィシャルパートナーとする契約を発表し、改修中のスポティファイ・カンプノウおよびエスパイ・バルサ一帯でのファンの移動をスムーズにすることを目的としている。契約には専用乗降エリアの設置やUberの電動配車サービスの販促が含まれ、両者はクラブカラーをまとった特別仕様の電気自動車群も披露した。"
+      },
+      "es": {
+        "title": "FC Barcelona firma un acuerdo de movilidad y patrocinio con Uber por dos años",
+        "summary": "El FC Barcelona nombró a Uber socio oficial hasta 2027 en un acuerdo centrado en facilitar el transporte de los aficionados alrededor del renovado Spotify Camp Nou y el complejo más amplio de Espai Barça. El convenio incluye zonas de recogida dedicadas y la promoción del servicio eléctrico de Uber, y ambas partes presentaron una tirada limitada de vehículos eléctricos personalizados con los colores del club."
+      },
+      "zh": {
+        "title": "巴塞罗那足球俱乐部与Uber签订两年期出行与赞助协议",
+        "summary": "巴塞罗那足球俱乐部宣布与Uber达成官方合作伙伴协议，有效期至2027年，旨在改善翻新后的Spotify诺坎普球场及更大范围的巴萨空间(Espai Barça)周边球迷的出行体验。协议内容包括设立专用上下车区域，并推广Uber的电动出行服务，双方还展示了一批涂装俱乐部队色的限量版电动汽车。"
+      },
+      "fr": {
+        "title": "Le FC Barcelone signe un accord de mobilité et de sponsoring de deux ans avec Uber",
+        "summary": "Le FC Barcelone a nommé Uber partenaire officiel jusqu'en 2027, dans un accord destiné à faciliter les déplacements des supporters autour du Spotify Camp Nou rénové et de l'ensemble du complexe Espai Barça. L'accord prévoit des zones de prise en charge dédiées et la promotion du service électrique d'Uber, les deux parties ayant dévoilé une série limitée de véhicules électriques personnalisés aux couleurs du club."
+      }
+    }
+  },
+  {
+    "id": "npb-namics-fresh-all-star-niigata-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-06-05T09:00:00Z",
+    "source_name": "Yahoo! News Japan",
+    "source_url": "https://sports.yahoo.co.jp/official/detail/2026072100056-spnaviow",
+    "i18n": {
+      "en": {
+        "title": "NPB Names Namics Title Sponsor of 2026 Fresh All-Star Game in Niigata",
+        "summary": "Nippon Professional Baseball confirmed electronics materials maker Namics as title sponsor of the 2026 Fresh All-Star Game, officially branded the Namics Fresh All-Star Game 2026, to be held in Niigata for the first time in 14 years. The July 27 exhibition at HARD OFF ECO Stadium Niigata will also feature food and sake promotions highlighting the host region, organized jointly with local baseball club Oisix Niigata Albirex."
+      },
+      "ja": {
+        "title": "NPB、2026年プロ野球フレッシュオールスターの特別協賛にナミックス決定",
+        "summary": "日本野球機構は、14年ぶりに新潟で開催される2026年のプロ野球フレッシュオールスターゲームの特別協賛に電子材料メーカーのナミックスを起用し、「ナミックスフレッシュオールスターゲーム2026」として開催すると発表した。7月27日にHARD OFF ECOスタジアム新潟で行われる試合では、オイシックス新潟アルビレックスBCと連携し、新潟の食や日本酒をテーマにした企画も予定されている。"
+      },
+      "es": {
+        "title": "NPB nombra a Namics patrocinador del Juego de Estrellas Novatas 2026 en Niigata",
+        "summary": "Nippon Professional Baseball confirmó a la empresa de materiales electrónicos Namics como patrocinador principal del Juego de Estrellas Novatas 2026, que llevará oficialmente el nombre Namics Fresh All-Star Game 2026 y se disputará en Niigata por primera vez en 14 años. El partido del 27 de julio en el HARD OFF ECO Stadium Niigata incluirá además promociones gastronómicas y de sake de la región, organizadas junto con el club local Oisix Niigata Albirex."
+      },
+      "zh": {
+        "title": "NPB公布2026年新人全明星赛特别冠名赞助商为Namics 比赛将在新潟举行",
+        "summary": "日本职业棒球机构(NPB)宣布电子材料制造商Namics成为2026年新人全明星赛的特别冠名赞助商，赛事正式命名为“Namics新人全明星赛2026”，将在14年后重返新潟举行。7月27日在HARD OFF ECO新潟球场进行的这场表演赛，还将与当地棒球俱乐部Oisix新潟朱鹭联合推出以新潟美食及日本酒为主题的宣传活动。"
+      },
+      "fr": {
+        "title": "La NPB nomme Namics sponsor-titre du Match des étoiles espoirs 2026 à Niigata",
+        "summary": "La Nippon Professional Baseball a confirmé que le fabricant de matériaux électroniques Namics serait le sponsor-titre du Match des étoiles espoirs 2026, officiellement baptisé Namics Fresh All-Star Game 2026, qui se tiendra à Niigata pour la première fois depuis 14 ans. Le match du 27 juillet au HARD OFF ECO Stadium Niigata proposera aussi des animations autour de la gastronomie et du saké régionaux, organisées avec le club local Oisix Niigata Albirex."
+      }
+    }
+  },
+  {
+    "id": "nfl-gallo-wine-sponsor-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-09-30T14:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/article/nfl-toasts-2b-in-sponsorships-with-e-j-gallo-deal/",
+    "i18n": {
+      "en": {
+        "title": "NFL Taps E. & J. Gallo as Official Wine Sponsor, Nearing $2B in Deals",
+        "summary": "The NFL named E. & J. Gallo Winery its first official wine sponsor, granting the company exclusive pouring rights at marquee events including the Super Bowl and Pro Bowl Games. The agreement pushes the league's total sponsorship revenue close to $2 billion for the first time, continuing a recent run of category-specific deals across financial services and consumer brands."
+      },
+      "ja": {
+        "title": "NFL、E&Jギャロをオフィシャルワインスポンサーに起用 協賛総額は2000億円規模に",
+        "summary": "NFLはE&Jギャロ・ワイナリーを初のオフィシャルワインスポンサーとして起用し、スーパーボウルやプロボウルなど主要イベントでの独占提供権を付与した。この契約により、リーグ全体のスポンサー収入総額は初めて約20億ドル規模に迫るとされ、金融サービスや消費財分野でのカテゴリー別契約の流れが続いている。"
+      },
+      "es": {
+        "title": "La NFL ficha a E. & J. Gallo como patrocinador oficial de vino, cerca de los 2.000 millones en acuerdos",
+        "summary": "La NFL nombró a E. & J. Gallo Winery su primer patrocinador oficial de vino, otorgándole derechos exclusivos de servicio en eventos destacados como el Super Bowl y el Pro Bowl. El acuerdo acerca los ingresos totales por patrocinio de la liga a los 2.000 millones de dólares por primera vez, continuando una reciente ola de acuerdos por categoría en servicios financieros y marcas de consumo."
+      },
+      "zh": {
+        "title": "NFL签下E&J嘉露酒庄为官方葡萄酒赞助商 总赞助额逼近20亿美元",
+        "summary": "NFL宣布E&J嘉露酒庄成为联盟首位官方葡萄酒赞助商，获得包括超级碗及职业碗等重要赛事的独家斟酒权。该协议使联盟赞助收入总额首次逼近20亿美元，延续了近期在金融服务及消费品类别上密集签约的趋势。"
+      },
+      "fr": {
+        "title": "La NFL s'associe à E. & J. Gallo comme sponsor officiel du vin, près de 2 Md$ de contrats",
+        "summary": "La NFL a désigné E. & J. Gallo Winery comme son premier sponsor officiel du vin, lui accordant des droits exclusifs de service lors d'événements phares comme le Super Bowl et le Pro Bowl. L'accord rapproche les revenus totaux de sponsoring de la ligue de 2 milliards de dollars pour la première fois, dans la continuité d'une série récente d'accords par catégorie dans les services financiers et les marques de consommation."
+      }
+    }
+  },
+  {
+    "id": "unrivaled-nil-deals-college-players-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-08-14T16:00:00Z",
+    "source_name": "Associated Press",
+    "source_url": "https://www.news4jax.com/sports/2026/08/14/unrivaled-signs-nil-deals-with-booker-hidalgo-strong-and-6-other-college-players/",
+    "i18n": {
+      "en": {
+        "title": "Unrivaled Signs NIL Deals With Nine College Basketball Stars",
+        "summary": "The 3-on-3 women's league Unrivaled signed name, image and likeness agreements with nine college basketball players, including Madison Booker, Hannah Hidalgo and Sarah Strong, marking its third straight year courting top amateur talent. The deals do not guarantee any player will eventually join the league's Miami-based competition, and financial terms were not disclosed."
+      },
+      "ja": {
+        "title": "新興女子バスケリーグUnrivaled、大学生選手9人とNIL契約",
+        "summary": "3対3形式の女子バスケットボールリーグUnrivaledは、マディソン・ブッカーやハンナ・ヒダルゴ、サラ・ストロングらを含む大学生選手9人と名前・肖像・パブリシティ権(NIL)契約を締結した。トップクラスのアマチュア選手を獲得する動きは3年連続となるが、契約が将来的にマイアミで行われる同リーグへの参加を保証するものではなく、契約金額は公表されていない。"
+      },
+      "es": {
+        "title": "Unrivaled firma acuerdos de NIL con nueve estrellas del baloncesto universitario",
+        "summary": "La liga femenina de baloncesto 3 contra 3 Unrivaled firmó acuerdos de nombre, imagen y semejanza (NIL) con nueve jugadoras universitarias, entre ellas Madison Booker, Hannah Hidalgo y Sarah Strong, en su tercer año consecutivo cortejando a las mejores jugadoras amateur. Los acuerdos no garantizan que alguna jugadora termine incorporándose a la competición de la liga en Miami, y no se revelaron los términos económicos."
+      },
+      "zh": {
+        "title": "女子篮球联赛Unrivaled与九名大学球星签署NIL协议",
+        "summary": "三人制女子篮球联赛Unrivaled与包括麦迪逊·布克、汉娜·希达尔戈和萨拉·斯特朗在内的九名大学球员签署了姓名、形象及权益(NIL)协议，这是该联赛连续第三年争取顶尖业余球员。协议并不保证这些球员最终会加入该联赛在迈阿密举行的赛事，具体财务条款未予披露。"
+      },
+      "fr": {
+        "title": "Unrivaled signe des accords NIL avec neuf stars du basket universitaire",
+        "summary": "La ligue féminine de basket à 3 contre 3 Unrivaled a signé des accords de nom, image et ressemblance (NIL) avec neuf joueuses universitaires, dont Madison Booker, Hannah Hidalgo et Sarah Strong, pour sa troisième année consécutive à courtiser les meilleures amatrices. Ces accords ne garantissent pas qu'une joueuse rejoindra finalement la compétition de la ligue basée à Miami, et les conditions financières n'ont pas été révélées."
+      }
+    }
+  },
+  {
+    "id": "nfl-us-bank-sponsor-2026",
+    "sport": "football",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-04-07T13:00:00Z",
+    "source_name": "U.S. Bank",
+    "source_url": "https://www.usbank.com/about-us-bank/news-and-stories/article-library/us-bank-named-new-official-bank-and-wealth-management-sponsor-of-the-nfl.html",
+    "i18n": {
+      "en": {
+        "title": "U.S. Bank Becomes NFL's Official Bank and Wealth Management Sponsor",
+        "summary": "The NFL and U.S. Bank announced a multi-year partnership naming the bank the league's official bank and wealth management sponsor, formalizing a relationship that dates back more than two decades. U.S. Bank will present the Super Bowl MVP award starting at Super Bowl LXI and run a financial-education program for players, filling a category left open after Visa's three-decade NFL sponsorship ended."
+      },
+      "ja": {
+        "title": "USバンク、NFLの公式銀行&資産運用スポンサーに",
+        "summary": "NFLとUSバンクは複数年にわたるパートナーシップを発表し、同行をリーグ公式の銀行および資産運用スポンサーとすることで、20年以上続く関係を正式な契約として位置づけた。USバンクは次回スーパーボウルLXIからMVP賞のプレゼンティングスポンサーを務めるとともに、選手向けの金融教育プログラムを実施し、Visaが30年続けたNFLスポンサーシップ終了後に空いていた分野を担うことになる。"
+      },
+      "es": {
+        "title": "U.S. Bank se convierte en el patrocinador oficial de banca y gestión patrimonial de la NFL",
+        "summary": "La NFL y U.S. Bank anunciaron una asociación de varios años que nombra al banco patrocinador oficial de banca y gestión patrimonial de la liga, formalizando una relación que se remonta a más de dos décadas. U.S. Bank presentará el premio de MVP del Super Bowl a partir del Super Bowl LXI y pondrá en marcha un programa de educación financiera para los jugadores, cubriendo la categoría que quedó libre tras el fin de los treinta años de patrocinio de Visa en la NFL."
+      },
+      "zh": {
+        "title": "美国合众银行成为NFL官方银行及财富管理赞助商",
+        "summary": "NFL与美国合众银行宣布达成多年合作协议，任命该银行为联盟官方银行及财富管理赞助商，将双方长达二十余年的合作关系正式确立为赞助协议。合众银行将从第61届超级碗开始担任最有价值球员奖的呈现赞助商，并为球员推出理财教育项目，填补了Visa结束长达三十年的NFL赞助后留下的空缺类别。"
+      },
+      "fr": {
+        "title": "U.S. Bank devient le sponsor officiel bancaire et de gestion de patrimoine de la NFL",
+        "summary": "La NFL et U.S. Bank ont annoncé un partenariat pluriannuel désignant la banque comme sponsor officiel bancaire et de gestion de patrimoine de la ligue, formalisant une relation vieille de plus de vingt ans. U.S. Bank présentera le trophée de MVP du Super Bowl à partir du Super Bowl LXI et lancera un programme d'éducation financière pour les joueurs, occupant la catégorie laissée vacante après la fin des trente ans de sponsoring de Visa avec la NFL."
+      }
+    }
+  },
+  {
+    "id": "uniqlo-jleague-partnership-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "sponsor",
+      "fan"
+    ],
+    "published_at": "2026-01-28T09:00:00Z",
+    "source_name": "J.League",
+    "source_url": "https://www.jleague.jp/news/article/33214/",
+    "i18n": {
+      "en": {
+        "title": "Uniqlo Signs Broad Equipment and Uniform Partnership With J.League",
+        "summary": "Japanese retailer Uniqlo agreed to become official equipment partner for J.League's Centenary Vision League matches, supplying referee uniforms, and official uniform partner for the revived J.League All-Star DAZN Cup returning in June after a 17-year hiatus. The deal also expands Uniqlo's UTme! custom-print service, which uses J.League club emblems and mascots, from 37 stores to 76 stores nationwide by early February."
+      },
+      "ja": {
+        "title": "ユニクロ、Jリーグと包括的な用品・ユニフォームパートナー契約を締結",
+        "summary": "ユニクロは、Jリーグの明治安田J1〜J3百年構想リーグでレフェリーウェアを提供するオフィシャルエクイップメントパートナー契約と、17年ぶりに復活するJリーグオールスターDAZNカップのオフィシャルユニフォームパートナー契約を結んだ。あわせて、Jリーグ各クラブのエンブレムやマスコットを使えるカスタムプリントサービス「UTme!」の導入店舗を、全国37店舗から2月上旬までに76店舗へ拡大する。"
+      },
+      "es": {
+        "title": "Uniqlo firma una amplia alianza de equipamiento y uniformes con la J.League",
+        "summary": "El minorista japonés Uniqlo acordó convertirse en socio oficial de equipamiento de los partidos de la Centenary Vision League de la J.League, suministrando los uniformes arbitrales, y en socio oficial de uniformes de la renovada J.League All-Star DAZN Cup, que regresa en junio tras 17 años de ausencia. El acuerdo también amplía el servicio de personalización UTme! de Uniqlo, que utiliza emblemas y mascotas de los clubes de la J.League, de 37 a 76 tiendas en todo el país antes de principios de febrero."
+      },
+      "zh": {
+        "title": "优衣库与J联赛签署全面装备及球衣合作协议",
+        "summary": "日本零售商优衣库同意成为J联赛百年构想联赛比赛的官方装备合作伙伴，负责提供裁判服装，同时也成为时隔17年重启的J联赛全明星DAZN杯官方球衣合作伙伴。协议还将优衣库使用J联赛各俱乐部队徽及吉祥物的定制印花服务\"UTme!\"的门店数量，在2月初之前从37家扩大到全国76家。"
+      },
+      "fr": {
+        "title": "Uniqlo signe un large partenariat d'équipement et de maillots avec la J.League",
+        "summary": "Le distributeur japonais Uniqlo est devenu partenaire officiel d'équipement pour les matches de la Centenary Vision League de la J.League, fournissant les tenues des arbitres, ainsi que partenaire officiel des maillots de la J.League All-Star DAZN Cup, qui revient en juin après 17 ans d'absence. L'accord élargit aussi le service d'impression personnalisée UTme! d'Uniqlo, qui utilise les emblèmes et mascottes des clubs de J.League, de 37 à 76 magasins à travers le pays d'ici début février."
+      }
+    }
   }
 ]
