@@ -6695,5 +6695,237 @@
         "summary": "Les Orix Buffaloes ont annoncé un partenariat publicitaire sur l'uniforme avec FWD Life Insurance, dont le logo apparaîtra sur la manche droite des maillots des joueurs, du manager et des entraîneurs dès le camp d'entraînement de printemps de l'équipe à Miyazaki, le 1er février 2026. Cet accord ajoute un nouveau sponsor de manche à la liste des partenaires d'uniforme du club de la Ligue du Pacifique pour la saison à venir."
       }
     }
+  },
+  {
+    "id": "sixers-bloom-energy-jersey-patch-2026",
+    "sport": "basketball",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-09-28T00:00:00Z",
+    "source_name": "NBC Sports Philadelphia",
+    "source_url": "https://www.nbcsportsphiladelphia.com/news/sixers-unveil-bloom-energy-as-official-jersey-patch-partner/754280/",
+    "i18n": {
+      "en": {
+        "title": "76ers Name Bloom Energy as New Jersey Patch Sponsor, Replacing Crypto.com",
+        "summary": "The Philadelphia 76ers have named clean-energy company Bloom Energy as their new NBA jersey patch sponsor, replacing Crypto.com starting in the 2026-27 season. The multi-year agreement is reported to be worth eight figures annually and includes a seven-figure community investment in the Philadelphia area. Bloom will also serve as the marquee jersey partner for the team's G League affiliate, the Delaware Blue Coats."
+      },
+      "ja": {
+        "title": "76ers、ユニフォームパッチスポンサーをクリプト・ドットコムからブルーム・エナジーへ変更",
+        "summary": "フィラデルフィア・76ersは、2026-27シーズンからユニフォームのパッチスポンサーをクリプト・ドットコムから再生可能エネルギー企業ブルーム・エナジーに切り替えると発表した。契約は複数年にわたり年間で8桁(数千万ドル規模)とされ、フィラデルフィア地域への7桁規模の地域投資も含まれている。ブルームはGリーグ傘下のデラウェア・ブルー・コーツのメインスポンサーも務める。"
+      },
+      "es": {
+        "title": "Los 76ers nombran a Bloom Energy como nuevo patrocinador de parche, sustituyendo a Crypto.com",
+        "summary": "Los Philadelphia 76ers anunciaron a la empresa de energía limpia Bloom Energy como su nuevo auspiciante de parche en la camiseta, sustituyendo a Crypto.com a partir de la temporada 2026-27 de la NBA. El acuerdo plurianual se estima en ocho cifras anuales e incluye una inversión comunitaria de siete cifras en la región de Filadelfia. Bloom también será el patrocinador principal del equipo afiliado en la G League, los Delaware Blue Coats."
+      },
+      "zh": {
+        "title": "76人队宣布Bloom Energy成为新球衣贴标赞助商,取代Crypto.com",
+        "summary": "费城76人队宣布,清洁能源公司Bloom Energy将成为球队新的球衣广告贴标赞助商,从2026-27赛季起取代Crypto.com。这份多年协议据报年值达八位数,并包含向费城地区投入的七位数社区资金。Bloom还将成为球队G联赛附属球队特拉华蓝衫队的主要赞助商。"
+      },
+      "fr": {
+        "title": "Les 76ers nomment Bloom Energy nouveau sponsor du patch, remplaçant Crypto.com",
+        "summary": "Les Philadelphia 76ers ont annoncé que l'entreprise d'énergie propre Bloom Energy devient le nouveau sponsor du patch sur leur maillot, remplaçant Crypto.com à partir de la saison 2026-27 de la NBA. L'accord pluriannuel serait évalué à huit chiffres par an et comprend un investissement communautaire à sept chiffres dans la région de Philadelphie. Bloom sera également le sponsor principal du maillot de l'équipe affiliée en G League, les Delaware Blue Coats."
+      }
+    }
+  },
+  {
+    "id": "leicester-city-264m-sale-price-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-10-09T00:00:00Z",
+    "source_name": "Front Office Sports",
+    "source_url": "https://frontofficesports.com/article/is-leicester-citys-264-million-price-tag-too-rich-for-hungry-investors/",
+    "i18n": {
+      "en": {
+        "title": "Leicester City Owners Struggle to Find Buyers at $264 Million Asking Price",
+        "summary": "Leicester City's owners are reportedly struggling to find buyers willing to meet their roughly £200 million ($264 million) asking price for the Championship club, according to Front Office Sports. The sale package includes King Power Stadium, the training ground, the academy and Belgian side OH Leuven, with Citigroup handling the process. One analyst said he would be surprised if the owners received anywhere close to their target figure, especially after the club's relegation."
+      },
+      "ja": {
+        "title": "レスター・シティ、2億6400万ドルの希望売却額に見合う買い手探しに苦戦",
+        "summary": "Front Office Sportsによると、レスター・シティの経営陣は、イングランド2部(チャンピオンシップ)の同クラブに設定した約2億ポンド(約2億6400万ドル)の希望売却額に見合う買い手を見つけられず苦戦しているという。売却対象にはキング・パワー・スタジアムや練習場、アカデミー、ベルギーのOHルーベンも含まれ、手続きはシティグループが担当している。ある分析者は、クラブの降格もあり希望額に近い金額での売却には驚くだろうと述べている。"
+      },
+      "es": {
+        "title": "Los propietarios del Leicester City no logran hallar compradores al precio de 264 millones de dólares",
+        "summary": "Según Front Office Sports, los propietarios del Leicester City tienen dificultades para encontrar compradores dispuestos a pagar el precio solicitado de unos 200 millones de libras (264 millones de dólares) por el club de la Championship. El paquete de venta incluye el King Power Stadium, el centro de entrenamiento, la academia y el club belga OH Leuven, con Citigroup a cargo del proceso. Un analista dijo que le sorprendería que los propietarios se acercaran a esa cifra, sobre todo tras el descenso del equipo."
+      },
+      "zh": {
+        "title": "莱斯特城老板难觅买家接受2.64亿美元要价",
+        "summary": "据Front Office Sports报道,莱斯特城俱乐部的老板们难以找到愿意支付约2亿英镑(2.64亿美元)要价的买家,该队目前征战英冠联赛。出售方案包括王权球场、训练基地、青训学院以及比利时球队OH鲁汶,交易由花旗集团负责操作。一位分析人士表示,考虑到球队降级的影响,若最终售价接近要价他会感到惊讶。"
+      },
+      "fr": {
+        "title": "Les propriétaires de Leicester City peinent à trouver acheteur à 264 millions de dollars",
+        "summary": "Selon Front Office Sports, les propriétaires de Leicester City ont du mal à trouver des acheteurs prêts à payer le prix demandé d'environ 200 millions de livres (264 millions de dollars) pour le club de Championship. Le lot de vente comprend le King Power Stadium, le centre d'entraînement, le centre de formation et le club belge OH Louvain, le processus étant géré par Citigroup. Un analyste a estimé qu'il serait surpris que les propriétaires obtiennent une somme proche de ce montant, surtout après la relégation du club."
+      }
+    }
+  },
+  {
+    "id": "orix-buffaloes-mercari-cap-sponsor-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-01-29T00:00:00Z",
+    "source_name": "Baseball King",
+    "source_url": "https://baseballking.jp/ns/685388/",
+    "i18n": {
+      "en": {
+        "title": "Orix Buffaloes Renew Cap-Advertising Sponsorship With Mercari for 2026 Season",
+        "summary": "NPB's Orix Buffaloes have renewed their cap-advertising sponsorship with e-commerce company Mercari for the 2026 season, continuing an arrangement that began in 2025. Players, the manager and coaches will again wear caps bearing the Mercari logo throughout the season. The renewal came alongside other sponsor announcements for Orix, including deals covering helmet-side branding and uniform pants."
+      },
+      "ja": {
+        "title": "オリックス・バファローズ、2026年シーズンのキャップ広告スポンサーをメルカリと更新",
+        "summary": "NPBのオリックス・バファローズは、2026年シーズンに向けてフリマアプリを運営するメルカリとのキャップ広告スポンサー契約を更新したことを発表した。2025年シーズンから続く取り組みで、選手や監督、コーチが着用するキャップに「メルカリ」のロゴが掲出される。この更新は、ヘルメット側面の広告やユニフォームパンツの広告契約など、オリックスの他のスポンサー発表と合わせて行われた。"
+      },
+      "es": {
+        "title": "Orix Buffaloes renuevan el patrocinio de la gorra con Mercari para la temporada 2026",
+        "summary": "Los Orix Buffaloes de la NPB renovaron su patrocinio publicitario en la gorra con la empresa de comercio electrónico Mercari para la temporada 2026, dando continuidad a un acuerdo iniciado en 2025. Los jugadores, el mánager y los coaches volverán a llevar gorras con el logotipo de Mercari durante toda la temporada. La renovación se anunció junto con otros acuerdos de patrocinio del equipo, incluidos los del lateral del casco y los pantalones del uniforme."
+      },
+      "zh": {
+        "title": "欧力士猛牛队与煤卡利续签2026赛季球帽广告赞助合约",
+        "summary": "日本职棒(NPB)欧力士猛牛队宣布,已与电商公司煤卡利(Mercari)续签2026赛季的球帽广告赞助合约,延续自2025赛季开始的合作。球员、主教练及教练组将在整个赛季继续佩戴印有Mercari标志的球帽。此次续约与球队其他赞助公告同期宣布,包括头盔侧面广告和球裤广告合约。"
+      },
+      "fr": {
+        "title": "Les Orix Buffaloes renouvellent leur partenariat publicitaire sur la casquette avec Mercari pour 2026",
+        "summary": "Les Orix Buffaloes de la NPB ont renouvelé leur partenariat publicitaire sur la casquette avec l'entreprise de commerce en ligne Mercari pour la saison 2026, prolongeant un accord entamé en 2025. Les joueurs, le manager et les entraîneurs porteront à nouveau des casquettes arborant le logo Mercari tout au long de la saison. Ce renouvellement a été annoncé en même temps que d'autres accords de sponsoring pour Orix, notamment sur le côté du casque et sur le pantalon de l'uniforme."
+      }
+    }
+  },
+  {
+    "id": "everton-cmc-markets-shirt-sponsor-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-07-01T00:00:00Z",
+    "source_name": "CMC Markets",
+    "source_url": "https://www.cmcmarkets.com/group/press-releases/cmc-markets-announces-multi-year-main-club-partnership-with-everton-fc",
+    "i18n": {
+      "en": {
+        "title": "Everton Name CMC Markets as New Main Partner and Front-of-Shirt Sponsor",
+        "summary": "Everton have named trading platform CMC Markets as their new Main Partner and front-of-shirt sponsor starting in the 2026-27 Premier League season, with branding covering the men's, women's and under-21 teams. Previous sponsor Stake shifts to a sleeve deal as part of the change, aligning with the league's voluntary ban on front-of-shirt gambling sponsorship. Reported deal values vary, with some outlets citing a figure near £30 million and others describing a three-year pact worth up to £50 million."
+      },
+      "ja": {
+        "title": "エバートン、新メインパートナー兼ユニフォーム正面スポンサーにCMCマーケッツ",
+        "summary": "エバートンは、2026-27プレミアリーグシーズンから取引プラットフォームのCMCマーケッツを新たなメインパートナー兼ユニフォーム正面スポンサーに起用すると発表した。ブランド表示はトップチームの男女および21歳以下チームにまで及ぶ。前スポンサーのステークはこの変更に伴い袖スポンサーに移行し、リーグが自主的に導入したユニフォーム正面でのギャンブル関連スポンサー禁止方針に沿う形となった。契約金額については報道により差があり、約3000万ポンドとする報道や、3年間で最大5000万ポンドとする分析も見られる。"
+      },
+      "es": {
+        "title": "Everton nombra a CMC Markets nuevo Socio Principal y patrocinador frontal de camiseta",
+        "summary": "El Everton nombró a la plataforma de trading CMC Markets como su nuevo Socio Principal y patrocinador frontal de la camiseta a partir de la temporada 2026-27 de la Premier League, con presencia de marca en los equipos masculino, femenino y sub-21. El anterior patrocinador, Stake, pasa a la manga como parte del cambio, en línea con la prohibición voluntaria de la liga sobre patrocinios de apuestas en el frente de la camiseta. Las cifras reportadas varían, con algunos medios citando cerca de 30 millones de libras y otros describiendo un pacto de tres años de hasta 50 millones de libras."
+      },
+      "zh": {
+        "title": "埃弗顿宣布CMC Markets成为新主要合作伙伴及球衣胸前赞助商",
+        "summary": "埃弗顿宣布,交易平台CMC Markets将从2026-27赛季英超联赛起成为球队新的主要合作伙伴及球衣胸前广告赞助商,品牌将覆盖男足、女足及U21梯队球衣。此前的胸前赞助商Stake则转为袖标赞助商,以配合联赛自愿实施的球衣胸前博彩赞助禁令。据报道的合同金额说法不一,有媒体称约为3000万英镑,也有分析称这是一份价值最高达5000万英镑的三年合约。"
+      },
+      "fr": {
+        "title": "Everton nomme CMC Markets nouveau Partenaire Principal et sponsor avant du maillot",
+        "summary": "Everton a nommé la plateforme de trading CMC Markets comme nouveau Partenaire Principal et sponsor avant du maillot à partir de la saison 2026-27 de Premier League, la marque figurant sur les maillots des équipes masculine, féminine et des moins de 21 ans. L'ancien sponsor Stake passe à la manche dans le cadre de ce changement, conformément à l'interdiction volontaire de la ligue sur le sponsoring des paris en face avant du maillot. Les montants rapportés varient, certains médias évoquant près de 30 millions de livres et d'autres un accord de trois ans pouvant atteindre 50 millions de livres."
+      }
+    }
+  },
+  {
+    "id": "fulham-clickhouse-shirt-sponsor-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-07-21T00:00:00Z",
+    "source_name": "Business Wire",
+    "source_url": "https://www.businesswire.com/news/home/20260721902779/en/ClickHouse-Announced-as-Principal-Partner-Front-of-Shirt-Sponsor-of-Fulham-Football-Club",
+    "i18n": {
+      "en": {
+        "title": "Fulham Name ClickHouse as New Front-of-Shirt Sponsor, Replacing SBOTOP",
+        "summary": "Fulham have announced technology company ClickHouse as their new Principal Partner and front-of-shirt sponsor for the 2026-27 Premier League season, replacing betting brand SBOTOP. The multi-year deal covers the men's first team's home, away and third kits, and comes as the league's voluntary ban on front-of-shirt gambling sponsorship takes effect. ClickHouse specializes in real-time analytics and data infrastructure for AI applications."
+      },
+      "ja": {
+        "title": "フラム、新ユニフォーム正面スポンサーにクリックハウス起用、SBOTOPから切り替え",
+        "summary": "フラムは、2026-27プレミアリーグシーズンに向けて、新たなプリンシパルパートナー兼ユニフォーム正面スポンサーとしてテクノロジー企業のクリックハウスを起用すると発表し、これまでのブックメーカー系ブランドSBOTOPから切り替わる。この複数年契約はトップチームのホーム、アウェー、サードキットを対象としており、リーグが自主的に導入したユニフォーム正面でのギャンブル関連スポンサー禁止の発効と時期を同じくしている。クリックハウスはリアルタイム分析とAI向けデータ基盤を専門とする企業である。"
+      },
+      "es": {
+        "title": "Fulham nombra a ClickHouse nuevo patrocinador frontal de camiseta, en sustitución de SBOTOP",
+        "summary": "El Fulham anunció a la empresa tecnológica ClickHouse como su nuevo Socio Principal y patrocinador frontal de camiseta para la temporada 2026-27 de la Premier League, en sustitución de la marca de apuestas SBOTOP. El acuerdo plurianual cubre las camisetas de local, visitante y tercera equipación del primer equipo masculino, y coincide con la entrada en vigor de la prohibición voluntaria de la liga sobre patrocinios de apuestas en el frente de la camiseta. ClickHouse se especializa en análisis en tiempo real e infraestructura de datos para aplicaciones de inteligencia artificial."
+      },
+      "zh": {
+        "title": "富勒姆宣布ClickHouse成为新球衣胸前赞助商,取代SBOTOP",
+        "summary": "富勒姆宣布科技公司ClickHouse将成为球队2026-27赛季英超的新任主要合作伙伴及球衣胸前广告赞助商,取代博彩品牌SBOTOP。这份多年协议覆盖一线男足队的主场、客场及第三客场球衣,恰逢联赛自愿实施的球衣胸前博彩赞助禁令生效。ClickHouse专注于实时数据分析及面向人工智能应用的数据基础设施。"
+      },
+      "fr": {
+        "title": "Fulham nomme ClickHouse nouveau sponsor avant du maillot, remplaçant SBOTOP",
+        "summary": "Fulham a annoncé que l'entreprise technologique ClickHouse devient son nouveau Partenaire Principal et sponsor avant du maillot pour la saison 2026-27 de Premier League, remplaçant la marque de paris SBOTOP. Cet accord pluriannuel couvre les maillots domicile, extérieur et third de l'équipe masculine première, et intervient au moment où l'interdiction volontaire de la ligue sur le sponsoring des paris en face avant du maillot entre en vigueur. ClickHouse est spécialisée dans l'analyse en temps réel et les infrastructures de données pour les applications d'intelligence artificielle."
+      }
+    }
+  },
+  {
+    "id": "alienware-team-liquid-extension-2031",
+    "sport": "esports",
+    "region": "global",
+    "topics": [
+      "sponsor"
+    ],
+    "published_at": "2026-08-18T00:00:00Z",
+    "source_name": "Business Wire",
+    "source_url": "https://www.eagletribune.com/region/team-liquid-and-alienware-extend-esports-longest-running-partnership/article_80097767-74fa-5fc0-b44b-cd56ba9df399.html",
+    "i18n": {
+      "en": {
+        "title": "Team Liquid and Alienware Extend Partnership Through 2031",
+        "summary": "Esports organization Team Liquid and Dell's Alienware brand have announced a five-year extension of their partnership, keeping what both companies describe as esports' longest-running sponsorship relationship intact through 2031. The renewal marks Alienware's 30th anniversary and 15 years of collaboration with the team, and includes options for further extensions. Alienware will continue backing Team Liquid's in-house broadcast of the World of Warcraft Race to World First competition."
+      },
+      "ja": {
+        "title": "チーム・リキッドとエイリアンウェア、提携を2031年まで延長",
+        "summary": "eスポーツ団体チーム・リキッドとデルのゲーミングブランド、エイリアンウェアは、両社が「eスポーツ界で最も長く続くスポンサー関係」と位置づける提携を5年延長し、2031年まで継続すると発表した。この更新はエイリアンウェアの30周年とチームとの協業15周年を記念するもので、さらなる延長の選択肢も含まれている。エイリアンウェアは今後もチーム・リキッドが自社制作する『ワールド・オブ・ウォークラフト』の「レース・トゥ・ワールド・ファースト」競技の放送を支援する。"
+      },
+      "es": {
+        "title": "Team Liquid y Alienware extienden su asociación hasta 2031",
+        "summary": "La organización de esports Team Liquid y la marca Alienware de Dell anunciaron una extensión de cinco años de su asociación, manteniendo lo que ambas empresas describen como la relación de patrocinio más longeva de los esports hasta 2031. La renovación marca el 30.º aniversario de Alienware y 15 años de colaboración con el equipo, e incluye opciones para nuevas extensiones. Alienware seguirá respaldando la transmisión interna de Team Liquid de la competición Race to World First de World of Warcraft."
+      },
+      "zh": {
+        "title": "Team Liquid与Alienware续约至2031年",
+        "summary": "电竞组织Team Liquid与戴尔旗下游戏品牌Alienware宣布将合作关系续签五年,使双方口中电竞界持续时间最长的赞助合作延续至2031年。此次续约恰逢Alienware成立30周年及与该战队合作15周年,协议还包含进一步延长的选项。Alienware将继续支持Team Liquid自制转播的《魔兽世界》世界前列竞速赛节目。"
+      },
+      "fr": {
+        "title": "Team Liquid et Alienware prolongent leur partenariat jusqu'en 2031",
+        "summary": "L'organisation d'esport Team Liquid et la marque Alienware de Dell ont annoncé une prolongation de cinq ans de leur partenariat, maintenant ce que les deux entreprises décrivent comme la relation de sponsoring la plus ancienne de l'esport jusqu'en 2031. Ce renouvellement marque le 30e anniversaire d'Alienware et 15 ans de collaboration avec l'équipe, et inclut des options de prolongations supplémentaires. Alienware continuera de soutenir la diffusion interne par Team Liquid de la compétition Race to World First de World of Warcraft."
+      }
+    }
+  },
+  {
+    "id": "bandai-namco-arena-matsue-naming-2026",
+    "sport": "basketball",
+    "region": "japan",
+    "topics": [
+      "stadium"
+    ],
+    "published_at": "2026-08-17T00:00:00Z",
+    "source_name": "Dengeki Online",
+    "source_url": "https://dengekionline.com/article/202608/84633",
+    "i18n": {
+      "en": {
+        "title": "Bandai Namco Secures Naming Rights for Shimane Susanoo Magic's Home Arena",
+        "summary": "Bandai Namco Entertainment has secured naming rights for the Matsue City Gymnasium, home arena of B.League club Shimane Susanoo Magic, with the venue renamed 'Bandai Namco Arena Matsue' starting September 1, 2026. The companies say the agreement is part of an effort to deepen ties with the local community through sport. Bandai Namco previously donated roughly 3 billion yen to Matsue City through a corporate hometown tax program, partly funding renovations at the arena."
+      },
+      "ja": {
+        "title": "バンダイナムコ、島根スサノオマジックのホームアリーナ命名権を取得",
+        "summary": "バンダイナムコエンターテインメントは、Bリーグ所属の島根スサノオマジックのホームアリーナである松江市総合体育館の命名権を取得し、2026年9月1日より施設の愛称を「バンダイナムコアリーナ松江」に変更すると発表した。両者は、この契約がスポーツを通じて地域とのつながりを一層強化する取り組みの一環であるとしている。バンダイナムコは以前、企業版ふるさと納税を通じて松江市に総額約30億円を寄附しており、その一部がアリーナの改修費用に充てられている。"
+      },
+      "es": {
+        "title": "Bandai Namco obtiene los derechos de denominación de la cancha local de Shimane Susanoo Magic",
+        "summary": "Bandai Namco Entertainment obtuvo los derechos de denominación del Gimnasio Municipal de Matsue, sede del club de la B.League Shimane Susanoo Magic, que pasará a llamarse 'Bandai Namco Arena Matsue' a partir del 1 de septiembre de 2026. Las empresas señalan que el acuerdo forma parte de un esfuerzo por estrechar los lazos con la comunidad local a través del deporte. Bandai Namco había donado previamente unos 3.000 millones de yenes a la ciudad de Matsue mediante un programa fiscal corporativo de 'ciudad natal', financiando en parte renovaciones en el recinto."
+      },
+      "zh": {
+        "title": "万代南梦宫获得岛根苏萨诺奥魔法队主场命名权",
+        "summary": "万代南梦宫娱乐公司获得了B联赛球队岛根苏萨诺奥魔法队主场松江市综合体育馆的命名权,场馆将于2026年9月1日起更名为万代南梦宫松江竞技场。双方表示,此次合作是通过体育加强与当地社区联系的举措之一。万代南梦宫此前通过企业版故乡纳税制度向松江市捐赠约30亿日元,部分资金用于该场馆的改造工程。"
+      },
+      "fr": {
+        "title": "Bandai Namco obtient les droits de dénomination de la salle de Shimane Susanoo Magic",
+        "summary": "Bandai Namco Entertainment a obtenu les droits de dénomination du gymnase municipal de Matsue, domicile du club de B.League Shimane Susanoo Magic, qui sera rebaptisé « Bandai Namco Arena Matsue » à partir du 1er septembre 2026. Les deux parties indiquent que cet accord s'inscrit dans une démarche visant à renforcer les liens avec la communauté locale par le sport. Bandai Namco avait précédemment fait un don d'environ 3 milliards de yens à la ville de Matsue via un programme fiscal d'entreprise de type « taxe de la ville natale », finançant en partie des rénovations de la salle."
+      }
+    }
   }
 ]
