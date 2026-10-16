@@ -6418,5 +6418,382 @@
         "summary": "TitletownTech, le fonds de capital-risque sportif affilié aux Packers de Green Bay, a sécurisé 70 millions de dollars de nouveaux investissements. Le fonds soutient des entreprises en phase de démarrage dans la technologie sportive, l'expérience des supporters et les médias, prolongeant le modèle d'investissement lié aux franchises NFL. Ce nouveau capital devrait financer des paris supplémentaires dans un marché de plus en plus concurrentiel."
       }
     }
+  },
+  {
+    "id": "angels-kroenke-mlb-sale-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2026-09-02T00:00:00Z",
+    "source_name": "Insider Sport",
+    "source_url": "https://insidersport.com/2026/09/02/angels-sold-mlb-record-stan-kroenke/",
+    "i18n": {
+      "en": {
+        "title": "Angels Owner Arte Moreno Agrees to Sell MLB Club to Stan Kroenke in Record Deal",
+        "summary": "Los Angeles Angels owner Arte Moreno has agreed to sell the Major League Baseball franchise to Kroenke Sports & Entertainment, the group led by Rams and Arsenal owner Stan Kroenke, in a deal reported to be worth around $4 billion. The sale, which also includes the team's regional broadcast and radio rights, would set a new MLB valuation record and still requires league approval before an expected close in early 2027. Moreno is expected to retain a minority stake in the club."
+      },
+      "ja": {
+        "title": "エンゼルスのモレノ・オーナー、球団をスタン・クローンキー氏へ売却合意 MLB史上最高額に",
+        "summary": "ロサンゼルス・エンゼルスのオーナーであるアーテ・モレノ氏は、ラムズとアーセナルのオーナーでもあるスタン・クローンキー氏率いるクローンキー・スポーツ&エンターテインメントへの球団売却に合意したと報じられている。売却額はおよそ40億ドルとされ、MLB史上最高額の取引になる見込み。球団の地域放送権やラジオ権も含まれており、2027年初頭の完了を目指してリーグの承認を待つ段階にある。モレノ氏は売却後も少数株主として関与を続けるとみられる。"
+      },
+      "es": {
+        "title": "El propietario de los Angels, Arte Moreno, acuerda vender el club a Stan Kroenke por una cifra récord",
+        "summary": "Arte Moreno, propietario de los Angels de Los Ángeles, habría acordado vender la franquicia de la MLB a Kroenke Sports & Entertainment, el grupo liderado por Stan Kroenke, dueño de los Rams y del Arsenal, en una operación valorada en unos 4.000 millones de dólares. La venta, que incluye los derechos de televisión regional y radio del equipo, supondría un récord de valoración en la MLB y aún necesita la aprobación de la liga antes de su cierre previsto a inicios de 2027. Se espera que Moreno conserve una participación minoritaria en el club."
+      },
+      "zh": {
+        "title": "天使队老板莫雷诺同意将球队出售给克伦克 创MLB估值纪录",
+        "summary": "洛杉矶天使队老板阿尔特·莫雷诺据报已同意将这支美国职业棒球大联盟球队出售给由公羊队和阿森纳老板斯坦·克伦克领导的克伦克体育娱乐集团,交易金额约为40亿美元。此次出售还包括球队的地区转播权和广播权,若完成将刷新MLB球队估值纪录,目前仍需联盟批准,预计2027年初完成交割。莫雷诺预计将保留少数股权。"
+      },
+      "fr": {
+        "title": "Le propriétaire des Angels, Arte Moreno, accepte de vendre le club à Stan Kroenke pour un montant record",
+        "summary": "Arte Moreno, propriétaire des Angels de Los Angeles, aurait accepté de céder cette franchise de la MLB à Kroenke Sports & Entertainment, le groupe dirigé par Stan Kroenke, propriétaire des Rams et d'Arsenal, dans le cadre d'un accord évalué à environ 4 milliards de dollars. La vente, qui inclut les droits de diffusion régionale et de radio de l'équipe, établirait un record de valorisation pour la MLB et doit encore être approuvée par la ligue avant une conclusion prévue début 2027. Moreno devrait conserver une participation minoritaire dans le club."
+      }
+    }
+  },
+  {
+    "id": "chelsea-stamford-bridge-vodafonethree-2026",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "tech",
+      "fan"
+    ],
+    "published_at": "2026-01-26T00:00:00Z",
+    "source_name": "Vodafone UK",
+    "source_url": "https://www.vodafone.co.uk/newscentre/press-release/mocn-stamford-bridge/",
+    "i18n": {
+      "en": {
+        "title": "VodafoneThree Completes Mobile Network Upgrade at Chelsea's Stamford Bridge",
+        "summary": "VodafoneThree has completed a mobile network upgrade at Chelsea FC's Stamford Bridge, using multi-operator core network (MOCN) technology to let Vodafone and Three customers share the stadium's capacity. The improvements, finished ahead of the club's November fixtures, are aimed at giving matchday fans faster browsing, smoother streaming and more reliable calls at no extra cost. The ground had already been the first fully 5G-enabled Premier League stadium."
+      },
+      "ja": {
+        "title": "ヴォーダフォン・スリー、チェルシー本拠地スタンフォード・ブリッジでモバイル網を増強",
+        "summary": "ヴォーダフォン・スリー(VodafoneThree)は、チェルシーFCの本拠地スタンフォード・ブリッジでモバイルネットワークの増強工事を完了した。複数事業者コアネットワーク(MOCN)技術を活用し、ヴォーダフォンとスリーの利用者がスタジアムの通信容量を共有できるようにした。11月の試合開催前に完了したこの改修は、追加費用なしで観戦中のファンがより快適にブラウジングや動画視聴、通話を行えるようにすることが狙い。同スタジアムはプレミアリーグで初めて全面5G対応を実現した会場でもある。"
+      },
+      "es": {
+        "title": "VodafoneThree completa una mejora de red móvil en Stamford Bridge, el estadio del Chelsea",
+        "summary": "VodafoneThree ha completado una mejora de la red móvil en Stamford Bridge, el estadio del Chelsea FC, utilizando tecnología de red central multioperador (MOCN) para que los clientes de Vodafone y Three compartan la capacidad del recinto. Las mejoras, finalizadas antes de los partidos de noviembre del club, buscan ofrecer a los aficionados una navegación más rápida, streaming más fluido y llamadas más fiables sin coste adicional. El estadio ya había sido el primero de la Premier League con cobertura 5G completa."
+      },
+      "zh": {
+        "title": "VodafoneThree完成切尔西斯坦福桥球场移动网络升级",
+        "summary": "VodafoneThree已完成对切尔西主场斯坦福桥球场的移动网络升级,采用多运营商核心网(MOCN)技术,使沃达丰和Three的用户能够共享球场的网络容量。该升级工程在俱乐部11月赛事前完工,旨在让比赛日球迷无需额外付费即可享受更快的网页浏览、更流畅的视频直播和更稳定的通话。该球场此前已是英超首个实现全面5G覆盖的场馆。"
+      },
+      "fr": {
+        "title": "VodafoneThree achève la mise à niveau du réseau mobile à Stamford Bridge, le stade de Chelsea",
+        "summary": "VodafoneThree a achevé une mise à niveau du réseau mobile à Stamford Bridge, le stade de Chelsea FC, grâce à une technologie de cœur de réseau multi-opérateurs (MOCN) permettant aux clients Vodafone et Three de partager la capacité du stade. Ces améliorations, terminées avant les matchs du club en novembre, visent à offrir aux supporters une navigation plus rapide, un streaming plus fluide et des appels plus fiables, sans coût supplémentaire. Le stade avait déjà été le premier de Premier League entièrement couvert en 5G."
+      }
+    }
+  },
+  {
+    "id": "sporting-cp-alvalade-225m-bond-2025",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "stadium",
+      "biz"
+    ],
+    "published_at": "2025-10-22T00:00:00Z",
+    "source_name": "SportBusiness",
+    "source_url": "https://www.sportbusiness.com/news/sporting-raises-e225m-for-world-cup-stadium-rebuild/",
+    "i18n": {
+      "en": {
+        "title": "Sporting CP Raises €225 Million in Bonds for Estádio José Alvalade Rebuild",
+        "summary": "Sporting CP has raised €225 million through a bond issue to help finance the redevelopment of its Estádio José Alvalade, described as the largest such bond sale by a Portuguese football club. The offering, arranged through subsidiary Sporting Entertainment and led by JPMorgan, carries a 5.75% fixed rate over 28 years and drew demand of roughly €2 billion. The funds will support stadium works planned to run until 2029, with the venue also set to host matches at the 2030 World Cup."
+      },
+      "ja": {
+        "title": "スポルティングCP、アルヴァラーデ改修に向け2億2500万ユーロの社債発行",
+        "summary": "スポルティングCPは、本拠地エスタディオ・ジョゼ・アルヴァラーデの改修費用に充てるため、2億2500万ユーロの社債を発行した。これはポルトガルのサッカークラブによる同種の社債発行として過去最大規模とされる。発行は子会社スポルティング・エンターテインメントを通じて行われ、JPモルガンが主幹事を務めた。表面利率は5.75%、償還期間は28年で、応募額は約20億ユーロに達した。資金は2029年まで続く予定のスタジアム改修工事に充てられ、同スタジアムは2030年ワールドカップの会場にもなる見込み。"
+      },
+      "es": {
+        "title": "El Sporting CP capta 225 millones de euros en bonos para la remodelación del Alvalade",
+        "summary": "El Sporting CP ha captado 225 millones de euros mediante una emisión de bonos para financiar la remodelación de su Estádio José Alvalade, en lo que se describe como la mayor operación de este tipo realizada por un club de fútbol portugués. La colocación, gestionada a través de la filial Sporting Entertainment y liderada por JPMorgan, tiene un tipo fijo del 5,75% a 28 años y registró una demanda de unos 2.000 millones de euros. Los fondos respaldarán unas obras previstas hasta 2029, y el estadio también albergará partidos del Mundial de 2030."
+      },
+      "zh": {
+        "title": "葡萄牙体育俱乐部发行2.25亿欧元债券 用于阿尔瓦拉德球场改造",
+        "summary": "葡萄牙体育俱乐部(Sporting CP)通过发行债券筹集了2.25亿欧元,用于资助其主场若泽·阿尔瓦拉德球场的改造工程,据称这是葡萄牙足球俱乐部发行的同类债券中规模最大的一次。此次发行通过其子公司Sporting Entertainment进行,由摩根大通牵头,票面利率为5.75%,期限28年,认购需求约达20亿欧元。所筹资金将用于计划持续到2029年的球场改造工程,该球场届时还将承办2030年世界杯的比赛。"
+      },
+      "fr": {
+        "title": "Le Sporting CP lève 225 millions d'euros en obligations pour la rénovation de l'Alvalade",
+        "summary": "Le Sporting CP a levé 225 millions d'euros via une émission obligataire pour financer la rénovation de son Estádio José Alvalade, dans ce qui est présenté comme la plus importante opération de ce type réalisée par un club de football portugais. L'opération, menée via la filiale Sporting Entertainment et dirigée par JPMorgan, offre un taux fixe de 5,75 % sur 28 ans et a suscité une demande d'environ 2 milliards d'euros. Les fonds financeront des travaux prévus jusqu'en 2029, le stade devant également accueillir des matchs de la Coupe du monde 2030."
+      }
+    }
+  },
+  {
+    "id": "tottenham-enic-100m-capital-injection-2025",
+    "sport": "soccer",
+    "region": "global",
+    "topics": [
+      "team",
+      "biz"
+    ],
+    "published_at": "2025-10-09T00:00:00Z",
+    "source_name": "SportBusiness",
+    "source_url": "https://www.sportbusiness.com/news/enic-commits-to-spurs-with-100m-injection/",
+    "i18n": {
+      "en": {
+        "title": "Tottenham Owner ENIC Injects £100 Million of New Capital Into the Club",
+        "summary": "Tottenham Hotspur's majority owner, ENIC, has injected £100 million of fresh capital into the Premier League club, a move the club says will strengthen its financial position and support long-term sporting success. The investment, routed through the Lewis family's holding structure, follows Daniel Levy's departure as executive chairman and comes weeks after Spurs rejected two preliminary takeover approaches. The club stressed there is no change to its ownership or shareholding structure."
+      },
+      "ja": {
+        "title": "トッテナム大株主エニック、クラブに1億ポンドの新規資本を注入",
+        "summary": "トッテナム・ホットスパーの大株主であるエニック(ENIC)は、プレミアリーグ所属の同クラブに1億ポンドの新規資本を注入したと発表した。クラブ側はこれにより財務基盤が強化され、長期的な競技面での成功を後押しするとしている。この出資はルイス家の持株構造を通じて行われたもので、ダニエル・レヴィ氏の会長職退任後、またスパーズが買収提案を2件拒否した数週間後に実施された。クラブは株主構成や所有権に変更はないと強調している。"
+      },
+      "es": {
+        "title": "ENIC, propietario del Tottenham, inyecta 100 millones de libras de nuevo capital en el club",
+        "summary": "ENIC, el principal accionista del Tottenham Hotspur, ha inyectado 100 millones de libras de capital fresco en el club de la Premier League, una medida que, según el club, reforzará su posición financiera y respaldará el éxito deportivo a largo plazo. La inversión, canalizada a través de la estructura de la familia Lewis, llega tras la salida de Daniel Levy como presidente ejecutivo y semanas después de que el Tottenham rechazara dos propuestas preliminares de adquisición. El club subrayó que no hay cambios en su estructura de propiedad o accionariado."
+      },
+      "zh": {
+        "title": "热刺大股东ENIC向俱乐部注入1亿英镑新资本",
+        "summary": "托特纳姆热刺队的大股东ENIC已向这家英超俱乐部注资1亿英镑新资本,俱乐部表示此举将增强其财务实力,支持球队长期的竞技成功。这笔投资通过刘易斯家族的控股架构注入,发生在丹尼尔·利维卸任执行主席之后,也在热刺拒绝两项初步收购提议数周之后。俱乐部强调其所有权和股权结构未发生变化。"
+      },
+      "fr": {
+        "title": "ENIC, propriétaire de Tottenham, injecte 100 millions de livres de capital frais dans le club",
+        "summary": "ENIC, l'actionnaire majoritaire de Tottenham Hotspur, a injecté 100 millions de livres sterling de capital frais dans le club de Premier League, une mesure qui, selon le club, renforcera sa situation financière et soutiendra le succès sportif à long terme. Cet investissement, effectué via la structure de holding de la famille Lewis, intervient après le départ de Daniel Levy de la présidence exécutive et quelques semaines après que les Spurs ont rejeté deux approches préliminaires de rachat. Le club a souligné qu'il n'y avait aucun changement dans sa structure de propriété ou d'actionnariat."
+      }
+    }
+  },
+  {
+    "id": "fancompass-digital-ignite-partnership-2026",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "fan",
+      "tech",
+      "sponsor"
+    ],
+    "published_at": "2026-02-23T00:00:00Z",
+    "source_name": "Business Wire",
+    "source_url": "https://www.businesswire.com/news/home/20260223836345/en/FanCompass-and-Digital-Ignite-Announce-Strategic-Partnership-to-Accelerate-Digital-Fan-Engagement-and-Revenue-Growth",
+    "i18n": {
+      "en": {
+        "title": "FanCompass and Digital Ignite Form Partnership to Grow Sports Clients' Digital Revenue",
+        "summary": "Fan engagement platform FanCompass has formed a referral partnership with marketing firm Digital Ignite to help sports organizations grow digital engagement and revenue. Under the deal, FanCompass will continue supplying interactive tools such as trivia and prediction games, while Digital Ignite runs paid media and audience-targeting campaigns to amplify their reach. The companies say the goal is to help clients capture richer first-party fan data and convert engagement into sustainable revenue."
+      },
+      "ja": {
+        "title": "ファンコンパスとデジタル・イグナイトが提携 スポーツ団体のデジタル収益拡大へ",
+        "summary": "ファンエンゲージメントプラットフォームのファンコンパス(FanCompass)は、マーケティング企業デジタル・イグナイト(Digital Ignite)と紹介提携を結び、スポーツ団体のデジタルエンゲージメントと収益拡大を支援すると発表した。この提携では、ファンコンパスがクイズや予想ゲームなどのインタラクティブツールを提供し続ける一方、デジタル・イグナイトが有料広告やオーディエンスターゲティング施策を展開してその効果を広げる。両社は、クライアントがより質の高いファーストパーティのファンデータを取得し、エンゲージメントを持続的な収益につなげることを目指すとしている。"
+      },
+      "es": {
+        "title": "FanCompass y Digital Ignite forman una alianza para impulsar los ingresos digitales de clientes deportivos",
+        "summary": "La plataforma de participación de aficionados FanCompass ha formado una alianza de referencia con la firma de marketing Digital Ignite para ayudar a organizaciones deportivas a aumentar su engagement digital y sus ingresos. Según el acuerdo, FanCompass seguirá ofreciendo herramientas interactivas como trivias y juegos de pronósticos, mientras Digital Ignite gestiona campañas de medios pagados y segmentación de audiencias para ampliar su alcance. Ambas compañías afirman que el objetivo es ayudar a los clientes a captar datos propios más ricos sobre los aficionados y convertir el engagement en ingresos sostenibles."
+      },
+      "zh": {
+        "title": "FanCompass与Digital Ignite达成合作 助力体育客户提升数字收入",
+        "summary": "球迷互动平台FanCompass已与营销公司Digital Ignite建立转介合作关系,旨在帮助体育组织提升数字互动水平并增加收入。根据协议,FanCompass将继续提供问答竞猜和预测游戏等互动工具,而Digital Ignite则负责开展付费媒体和受众定向投放活动以扩大影响力。两家公司表示,目标是帮助客户获取更丰富的第一方球迷数据,并将互动转化为可持续的收入。"
+      },
+      "fr": {
+        "title": "FanCompass et Digital Ignite s'associent pour développer les revenus numériques des clients sportifs",
+        "summary": "La plateforme d'engagement des supporters FanCompass a noué un partenariat d'apport d'affaires avec l'agence marketing Digital Ignite afin d'aider les organisations sportives à développer leur engagement numérique et leurs revenus. Dans le cadre de cet accord, FanCompass continuera de fournir des outils interactifs tels que des quiz et des jeux de pronostics, tandis que Digital Ignite mènera des campagnes de médias payants et de ciblage d'audience pour amplifier leur portée. Les deux entreprises indiquent que l'objectif est d'aider leurs clients à collecter des données propriétaires plus riches sur leurs supporters et à transformer cet engagement en revenus durables."
+      }
+    }
+  },
+  {
+    "id": "genius-sports-publicis-sports-partnership-2025",
+    "sport": "general",
+    "region": "global",
+    "topics": [
+      "fan",
+      "sponsor",
+      "tech"
+    ],
+    "published_at": "2025-11-25T00:00:00Z",
+    "source_name": "Business Wire",
+    "source_url": "https://www.businesswire.com/news/home/20251125133402/en/Genius-Sports-Partners-with-Publicis-Sports-to-Reimagine-Future-of-Fan-Engagement",
+    "i18n": {
+      "en": {
+        "title": "Genius Sports and Publicis Sports Announce Global Ad-Platform Partnership",
+        "summary": "Sports data and technology company Genius Sports has struck a global partnership with Publicis Sports, giving the agency's clients access to Genius's FANHub advertising platform. The AI-driven platform is designed to let brands reach verified sports fans at high-attention moments tied directly to live, in-game action. The deal reflects a broader push by rights holders and agencies to link advertising more tightly to real-time game data."
+      },
+      "ja": {
+        "title": "ジーニアス・スポーツとピュブリシス・スポーツ、広告プラットフォームで世界的提携",
+        "summary": "スポーツデータ・技術企業のジーニアス・スポーツ(Genius Sports)は、ピュブリシス・スポーツ(Publicis Sports)とグローバルパートナーシップを締結し、同エージェンシーのクライアントがジーニアスのAI活用型広告プラットフォーム「FANHub」を利用できるようにした。このプラットフォームは、試合中の注目度の高い瞬間に合わせて、認証済みのスポーツファンにブランドがリーチできるよう設計されている。この提携は、権利保有者や広告代理店がリアルタイムの試合データと広告をより密接に結びつけようとする動きの一環とされる。"
+      },
+      "es": {
+        "title": "Genius Sports y Publicis Sports anuncian una alianza global de plataforma publicitaria",
+        "summary": "La empresa de datos y tecnología deportiva Genius Sports ha cerrado una alianza global con Publicis Sports que da a los clientes de la agencia acceso a la plataforma publicitaria FANHub de Genius. Esta plataforma, impulsada por inteligencia artificial, está diseñada para que las marcas lleguen a aficionados verificados en los momentos de mayor atención vinculados directamente a la acción en vivo del partido. El acuerdo refleja un esfuerzo más amplio de titulares de derechos y agencias por vincular la publicidad más estrechamente a los datos del juego en tiempo real."
+      },
+      "zh": {
+        "title": "Genius Sports与阳狮体育宣布达成全球广告平台合作",
+        "summary": "体育数据与技术公司Genius Sports已与阳狮体育(Publicis Sports)达成全球合作,使该代理机构的客户能够使用Genius旗下由人工智能驱动的广告平台FANHub。该平台旨在让品牌在与比赛实时动态直接相关的高关注度时刻触达经过验证的体育球迷。此次合作反映出版权方和广告代理机构正努力将广告与实时比赛数据更紧密结合的更大趋势。"
+      },
+      "fr": {
+        "title": "Genius Sports et Publicis Sports annoncent un partenariat mondial de plateforme publicitaire",
+        "summary": "L'entreprise de données et de technologie sportive Genius Sports a conclu un partenariat mondial avec Publicis Sports, donnant aux clients de l'agence accès à la plateforme publicitaire FANHub de Genius. Cette plateforme, pilotée par l'intelligence artificielle, est conçue pour permettre aux marques d'atteindre des supporters vérifiés lors de moments de forte attention directement liés à l'action en direct du match. Cet accord illustre une tendance plus large des détenteurs de droits et des agences à relier plus étroitement la publicité aux données de jeu en temps réel."
+      }
+    }
+  },
+  {
+    "id": "ioc-sponsor-visibility-milano-cortina-2026",
+    "sport": "olympics",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2026-02-18T00:00:00Z",
+    "source_name": "Associated Press",
+    "source_url": "https://www.click2houston.com/business/2026/02/18/sponsors-are-becoming-more-visible-at-the-winter-olympics-with-product-placement-and-arena-shoutouts/",
+    "i18n": {
+      "en": {
+        "title": "IOC Gives Sponsors More Visibility at Milano Cortina 2026 Amid Shrinking TOP Program",
+        "summary": "IOC marketing director Anne-Sophie Voumard said the organization is giving sponsors more visibility at the Milano Cortina 2026 Winter Games, including in-venue product placement and brand mentions by arena announcers. The shift follows LVMH's prominent Louis Vuitton presence at the 2024 Paris opening ceremony and comes as the IOC's top-tier TOP sponsorship program has shrunk, with 11 partners in Milan versus 15 in Paris. IOC marketing revenue fell to $560 million in 2025 from $871 million the prior year, underscoring pressure to find new commercial value for partners."
+      },
+      "ja": {
+        "title": "IOC、ミラノ・コルティナ2026でスポンサー露出を拡大 最上位プログラムは縮小傾向",
+        "summary": "IOC(国際オリンピック委員会)のマーケティング責任者アンヌ=ソフィー・ヴマール氏は、ミラノ・コルティナ2026冬季大会において、会場内での商品露出やアリーナアナウンサーによるブランド名の言及など、スポンサーの露出機会を拡大していると述べた。この方針転換は、2024年パリ大会の開会式でLVMHのルイ・ヴィトンが大きく露出したことを受けたもので、最上位スポンサー制度「TOP」の参加企業数はパリの15社からミランでは11社に減少している。IOCのマーケティング収入は2025年に5億6000万ドルとなり、前年の8億7100万ドルから減少しており、スポンサーに新たな商業的価値を提供する必要性が高まっていることを示している。"
+      },
+      "es": {
+        "title": "El COI da más visibilidad a los patrocinadores en Milán-Cortina 2026 pese a la reducción del programa TOP",
+        "summary": "La directora de marketing del COI, Anne-Sophie Voumard, afirmó que la organización está dando más visibilidad a los patrocinadores en los Juegos de Invierno Milán-Cortina 2026, incluyendo colocación de producto dentro de las sedes y menciones de marca por parte de los locutores de los recintos. El cambio sigue a la destacada presencia de Louis Vuitton (LVMH) en la ceremonia de apertura de París 2024 y se produce mientras el programa TOP, de nivel superior, se ha reducido a 11 socios en Milán frente a 15 en París. Los ingresos de marketing del COI cayeron a 560 millones de dólares en 2025 desde los 871 millones del año anterior, lo que subraya la presión por generar nuevo valor comercial para los patrocinadores."
+      },
+      "zh": {
+        "title": "国际奥委会提升米兰-科尔蒂纳2026赞助商曝光度 TOP计划规模持续缩减",
+        "summary": "国际奥委会(IOC)市场总监安娜-索菲·沃马尔表示,该机构正在米兰-科尔蒂纳2026年冬奥会上为赞助商提供更多曝光机会,包括场馆内的产品植入以及场馆播报员提及品牌名称。这一转变延续了2024年巴黎奥运会开幕式上LVMH旗下路易威登品牌高调亮相的做法,同时IOC最高级别的TOP赞助计划规模有所缩减,米兰的合作伙伴数量为11家,低于巴黎的15家。IOC的市场营销收入从上一年的8.71亿美元降至2025年的5.6亿美元,凸显出为合作伙伴挖掘新商业价值的压力。"
+      },
+      "fr": {
+        "title": "Le CIO accroît la visibilité des sponsors à Milano Cortina 2026 malgré un programme TOP en recul",
+        "summary": "La directrice marketing du CIO, Anne-Sophie Voumard, a déclaré que l'organisation offre davantage de visibilité aux sponsors lors des Jeux d'hiver de Milano Cortina 2026, notamment via du placement de produits dans les enceintes et des mentions de marques par les annonceurs des salles. Ce changement fait suite à la présence marquée de Louis Vuitton (LVMH) lors de la cérémonie d'ouverture de Paris 2024 et intervient alors que le programme TOP, de plus haut niveau, s'est réduit, passant de 15 partenaires à Paris à 11 à Milan. Les revenus marketing du CIO sont tombés à 560 millions de dollars en 2025, contre 871 millions l'année précédente, ce qui souligne la pression pour trouver une nouvelle valeur commerciale pour les partenaires."
+      }
+    }
+  },
+  {
+    "id": "honda-la28-founding-partner-2025",
+    "sport": "olympics",
+    "region": "global",
+    "topics": [
+      "sponsor",
+      "biz"
+    ],
+    "published_at": "2025-06-02T00:00:00Z",
+    "source_name": "SportBusiness",
+    "source_url": "https://www.sportbusiness.com/news/auto-category-reverts-to-la28-with-honda-deal/",
+    "i18n": {
+      "en": {
+        "title": "Honda Signs On as LA28 Founding Partner, Filling Gap Left by Toyota's Exit",
+        "summary": "Honda has signed on as a founding partner of the LA28 Olympic and Paralympic Games, filling the automotive sponsorship slot left vacant after Toyota chose not to renew its decade-long deal with the IOC. The agreement includes Honda supplying a vehicle fleet to help move athletes and officials around Southern California during the Games, plus a multiplatform media collaboration with NBCUniversal spanning both Milano Cortina 2026 and LA28. Financial terms were not disclosed, though sponsorships at this tier have reportedly started around $200 million."
+      },
+      "ja": {
+        "title": "ホンダ、LA28ファウンディングパートナーに トヨタ撤退後の自動車枠を獲得",
+        "summary": "ホンダは、ロサンゼルス2028オリンピック・パラリンピックのファウンディングパートナーに就任したと発表した。これは、トヨタがIOCとの10年にわたる契約を更新しないと決定したことで空席となっていた自動車カテゴリーの枠を埋める形となる。契約には、大会期間中に南カリフォルニア各地で選手や関係者の移動を支援する車両提供のほか、NBCユニバーサルとのマルチプラットフォームでのメディア連携が含まれ、ミラノ・コルティナ2026とLA28の両大会にまたがる内容となっている。金額は非公表だが、このクラスのスポンサーシップはおよそ2億ドルから始まると報じられている。"
+      },
+      "es": {
+        "title": "Honda firma como socio fundador de LA28, ocupando el hueco dejado por la salida de Toyota",
+        "summary": "Honda ha firmado como socio fundador de los Juegos Olímpicos y Paralímpicos de LA28, ocupando el espacio de patrocinio automotriz que quedó vacante después de que Toyota decidiera no renovar su acuerdo de una década con el COI. El acuerdo incluye que Honda suministre una flota de vehículos para ayudar a desplazar a atletas y funcionarios por el sur de California durante los Juegos, además de una colaboración mediática multiplataforma con NBCUniversal que abarca tanto Milán-Cortina 2026 como LA28. No se revelaron los términos financieros, aunque los patrocinios de este nivel habrían partido de alrededor de 200 millones de dólares."
+      },
+      "zh": {
+        "title": "本田签约成为LA28创始合作伙伴 填补丰田退出后的汽车类别空缺",
+        "summary": "本田已签约成为LA28奥运会及残奥会的创始合作伙伴,填补了丰田决定不再续签与国际奥委会长达十年合作协议后空出的汽车类别赞助席位。该协议包括本田在赛事期间提供车队,协助运送运动员和官员往返南加州各地,此外还与NBC环球开展跨平台媒体合作,覆盖米兰-科尔蒂纳2026年冬奥会和LA28夏奥会。财务条款未披露,但据报道该级别赞助起价约为2亿美元。"
+      },
+      "fr": {
+        "title": "Honda devient partenaire fondateur de LA28, comblant le vide laissé par le départ de Toyota",
+        "summary": "Honda a signé en tant que partenaire fondateur des Jeux olympiques et paralympiques de LA28, comblant la place de sponsor automobile laissée vacante après la décision de Toyota de ne pas renouveler son accord décennal avec le CIO. L'accord prévoit que Honda fournisse une flotte de véhicules pour aider à déplacer athlètes et officiels dans le sud de la Californie pendant les Jeux, ainsi qu'une collaboration média multiplateforme avec NBCUniversal couvrant à la fois Milano Cortina 2026 et LA28. Les conditions financières n'ont pas été divulguées, bien que les parrainages de ce niveau auraient démarré autour de 200 millions de dollars."
+      }
+    }
+  },
+  {
+    "id": "kashima-antlers-new-stadium-ibaraki-2026",
+    "sport": "soccer",
+    "region": "japan",
+    "topics": [
+      "stadium",
+      "biz"
+    ],
+    "published_at": "2026-02-12T00:00:00Z",
+    "source_name": "Goal.com Japan",
+    "source_url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/2026-0212-2033-kashima-stadium-jp/blta9a1c4b308748b1a",
+    "i18n": {
+      "en": {
+        "title": "Ibaraki Prefecture to Lead Publicly Funded New Stadium for Kashima Antlers, Targeting 2033",
+        "summary": "Ibaraki Prefecture has decided to lead a publicly funded redevelopment of the Kashima Antlers' home stadium, the club announced, with an opening targeted for 2033. A basic plan is to be drawn up in 2026, with design and construction expected to follow from 2027, as the current venue faces rising maintenance costs of roughly 800 million yen a year. The move addresses long-standing concerns over the aging stadium's upkeep and competitiveness as a J.League venue."
+      },
+      "ja": {
+        "title": "鹿島アントラーズ新スタジアム、茨城県主導の公設整備で2033年開業目指す",
+        "summary": "鹿島アントラーズは、茨城県が主導する公設による新スタジアム整備方針が決定したと発表した。開業目標は2033年とされ、2026年中に基本計画を策定し、2027年以降に設計・建設に進む見通し。現在のスタジアムは老朽化が進み、年間およそ8億円にのぼる維持管理コストが課題となっていた。今回の決定は、施設の老朽化やJリーグ会場としての競争力維持への懸念に対応するものとなる。"
+      },
+      "es": {
+        "title": "La prefectura de Ibaraki liderará un nuevo estadio público para el Kashima Antlers, previsto para 2033",
+        "summary": "La prefectura de Ibaraki ha decidido liderar una remodelación financiada con fondos públicos del estadio sede del Kashima Antlers, según anunció el club, con una apertura prevista para 2033. Un plan básico se elaborará en 2026, y se espera que el diseño y la construcción comiencen a partir de 2027, mientras el recinto actual enfrenta costes de mantenimiento crecientes de unos 800 millones de yenes al año. La medida responde a preocupaciones de larga data sobre el envejecimiento del estadio y su competitividad como sede de la J.League."
+      },
+      "zh": {
+        "title": "茨城县主导鹿岛鹿角新球场公共建设项目 目标2033年启用",
+        "summary": "鹿岛鹿角俱乐部宣布,茨城县已决定主导对球队主场球场进行公共资金翻新,目标是在2033年完工启用。基本规划将于2026年内制定,设计与施工预计从2027年起展开,目前该场馆正面临每年约8亿日元的维护成本上升问题。此举旨在解决该球场老化及其作为J联赛场馆竞争力下降的长期隐忧。"
+      },
+      "fr": {
+        "title": "La préfecture d'Ibaraki pilotera un nouveau stade public pour les Kashima Antlers, visé pour 2033",
+        "summary": "La préfecture d'Ibaraki a décidé de piloter une rénovation financée par des fonds publics du stade des Kashima Antlers, a annoncé le club, avec une ouverture visée pour 2033. Un plan de base doit être élaboré en 2026, la conception et la construction devant suivre à partir de 2027, alors que le site actuel fait face à des coûts d'entretien croissants d'environ 800 millions de yens par an. Cette décision répond à des préoccupations de longue date sur le vieillissement du stade et sa compétitivité en tant que site de J.League."
+      }
+    }
+  },
+  {
+    "id": "npb-pacific-league-pokemon-baseball-festa-2026",
+    "sport": "baseball",
+    "region": "japan",
+    "topics": [
+      "fan"
+    ],
+    "published_at": "2026-02-26T00:00:00Z",
+    "source_name": "Dengeki/Famitsu Group",
+    "source_url": "https://news.denfaminicogamer.jp/news/260226w",
+    "i18n": {
+      "en": {
+        "title": "Pacific League Clubs to Hold 'Pokémon Baseball Festa 2026' Themed Games",
+        "summary": "The six Pacific League baseball clubs and Pacific League Marketing announced \"Pokémon Baseball Festa 2026,\" a series of specially themed games featuring Pokémon-branded in-stadium production and merchandise. The initiative follows similar character tie-in promotions the league has run in past seasons to broaden its appeal beyond core baseball fans, particularly families and younger audiences. Specific dates and venues for the themed games were detailed alongside the announcement."
+      },
+      "ja": {
+        "title": "パ・リーグ6球団、ポケモンとの特別演出試合「ポケモンベースボールフェスタ2026」開催",
+        "summary": "パ・リーグ6球団とパシフィックリーグマーケティングは、ポケモンとの特別演出試合「ポケモンベースボールフェスタ2026」を開催すると発表した。球場演出やグッズ展開にポケモンのキャラクターを活用する企画で、コアなファン層にとどまらず家族連れや若年層にもアピールする狙いがあり、同リーグがこれまでのシーズンでも実施してきたキャラクターとのコラボ施策の延長線上にある。開催日程や会場の詳細も発表と合わせて公表された。"
+      },
+      "es": {
+        "title": "Los clubes de la Liga Pacífico organizarán partidos temáticos 'Pokémon Baseball Festa 2026'",
+        "summary": "Los seis clubes de la Liga Pacífico de béisbol y Pacific League Marketing anunciaron el \"Pokémon Baseball Festa 2026\", una serie de partidos con temática especial que incluirán producción y mercancía de marca Pokémon en los estadios. La iniciativa continúa promociones similares de colaboración con personajes que la liga ha realizado en temporadas anteriores para ampliar su atractivo más allá de los aficionados tradicionales al béisbol, en particular familias y públicos jóvenes. Las fechas y sedes concretas de los partidos temáticos se detallaron junto con el anuncio."
+      },
+      "zh": {
+        "title": "太平洋联盟六队将举办「精灵宝可梦棒球嘉年华2026」主题赛事",
+        "summary": "日本职业棒球太平洋联盟六支球队与太平洋联盟营销公司宣布将举办\"精灵宝可梦棒球嘉年华2026\",这是一系列以宝可梦为主题的特别场次比赛,届时球场内的演出和周边商品都将采用宝可梦元素。此举延续了该联盟此前多个赛季推出的角色联名活动,旨在把吸引力拓展到核心棒球迷之外,尤其是家庭观众和年轻群体。具体比赛日期和举办场馆也随公告一并公布。"
+      },
+      "fr": {
+        "title": "Les clubs de la Pacific League organiseront des matchs à thème « Pokémon Baseball Festa 2026 »",
+        "summary": "Les six clubs de baseball de la Pacific League et Pacific League Marketing ont annoncé le « Pokémon Baseball Festa 2026 », une série de matchs à thème spécial incluant une mise en scène et des produits dérivés à l'effigie de Pokémon dans les stades. Cette initiative prolonge des opérations similaires de partenariat avec des personnages menées par la ligue lors des saisons précédentes, afin d'élargir son attrait au-delà des amateurs de baseball les plus assidus, notamment les familles et les jeunes publics. Les dates et lieux précis des matchs à thème ont été précisés lors de l'annonce."
+      }
+    }
+  },
+  {
+    "id": "fancompass-diamond-baseball-holdings-renewal-2026",
+    "sport": "baseball",
+    "region": "global",
+    "topics": [
+      "fan",
+      "tech",
+      "sponsor"
+    ],
+    "published_at": "2026-05-18T00:00:00Z",
+    "source_name": "Business Wire",
+    "source_url": "https://www.businesswire.com/news/home/20260513232087/en/FanCompass-and-Diamond-Baseball-Holdings-Extend-Partnership-to-Advance-Fan-Engagement-Across-Roster-of-Clubs",
+    "i18n": {
+      "en": {
+        "title": "FanCompass Extends Diamond Baseball Holdings Partnership for Three More Years",
+        "summary": "Fan engagement company FanCompass has renewed and extended its enterprise partnership with Diamond Baseball Holdings for three more years, continuing a relationship that began in 2023 across DBH's roster of minor league clubs. Under the deal, FanCompass will keep supporting rollout of its FC CORE platform so each affiliated club maintains a consistent digital fan destination. DBH's chief commercial officer said the partnership has helped clubs deepen audience connections and add value for sponsors."
+      },
+      "ja": {
+        "title": "ファンコンパス、DBHとの提携をさらに3年延長",
+        "summary": "ファンエンゲージメント企業のファンコンパス(FanCompass)は、ダイアモンド・ベースボール・ホールディングス(DBH)とのエンタープライズパートナーシップを3年間延長したと発表した。2023年から続くこの関係は、DBH傘下のマイナーリーグ球団群を対象としている。契約の下、ファンコンパスは提携各球団が一貫したデジタルファン体験を維持できるよう、プラットフォーム「FC CORE」の展開支援を継続する。DBHの最高商業責任者は、この提携が各球団のファンとのつながり強化やスポンサーへの付加価値提供に貢献してきたと述べている。"
+      },
+      "es": {
+        "title": "FanCompass extiende tres años más su alianza con Diamond Baseball Holdings",
+        "summary": "La empresa de engagement de aficionados FanCompass ha renovado y ampliado por tres años más su alianza empresarial con Diamond Baseball Holdings, dando continuidad a una relación iniciada en 2023 con el conjunto de clubes de ligas menores de DBH. Bajo el acuerdo, FanCompass seguirá respaldando la implementación de su plataforma FC CORE para que cada club afiliado mantenga un destino digital coherente para sus aficionados. El director comercial de DBH señaló que la alianza ha ayudado a los clubes a profundizar su conexión con el público y a aportar valor a los patrocinadores."
+      },
+      "zh": {
+        "title": "FanCompass将与DBH的合作关系再延长三年",
+        "summary": "球迷互动公司FanCompass宣布将与Diamond Baseball Holdings(DBH)的企业合作关系再延长三年,延续了自2023年开始、覆盖DBH旗下小联盟球队的合作关系。根据协议,FanCompass将继续支持其FC CORE平台的推广,使各附属球队都能保持统一的数字球迷互动入口。DBH首席商务官表示,该合作帮助各球队加深了与观众的联系,并为赞助商带来了附加价值。"
+      },
+      "fr": {
+        "title": "FanCompass prolonge de trois ans son partenariat avec Diamond Baseball Holdings",
+        "summary": "L'entreprise d'engagement des supporters FanCompass a renouvelé et prolongé de trois ans son partenariat d'entreprise avec Diamond Baseball Holdings, poursuivant une collaboration entamée en 2023 avec l'ensemble des clubs de ligues mineures de DBH. Dans le cadre de cet accord, FanCompass continuera de soutenir le déploiement de sa plateforme FC CORE afin que chaque club affilié dispose d'un espace numérique cohérent pour ses supporters. Le directeur commercial de DBH a indiqué que ce partenariat a aidé les clubs à renforcer leurs liens avec leur public et à apporter de la valeur ajoutée à leurs sponsors."
+      }
+    }
   }
 ]
